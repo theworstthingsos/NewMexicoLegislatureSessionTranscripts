@@ -1,0 +1,3654 @@
+and energy management at
+multi-unit buildings. My name is
+Ben Britton. I'm a policy
+manager at Switch, and Switch is
+a software company that deploys
+EV chargers and load management
+technology across North America,
+enabling over 15,000 EV chargers
+to date.
+And so
+Although we deploy charges
+across commercial retail, uh,
+some fleet applications. Our
+specialty is in multi-unit or
+multi-family buildings. I'll
+just make a brief distinction
+there, multi-unit when I say
+that, I'm talking about
+buildings with both perhaps a
+commercial resident on bottom uh
+in the residential residences,
+you know, up top.
+Um, so we know this is a really
+critical sector to electric
+vehicle charging.
+Uh, you've probably heard the
+oft quoted statistic of 80% of
+charging happens at home?
+Uh, what's maybe less known is
+that only 5% of that currently
+happens in multi-family
+buildings. It's a very
+underserved sector.
+Um, and actually our sort of
+founding story is our uh CEO and
+founder, Carter Lee, 8 years
+ago, wanted to buy an EV and
+charge at his condo. Pretty
+common uh situation.
+However, he found that once he
+purchased this level 2 charger,
+we'll kind of go over all the
+specifics there. Uh, you ran
+into a bunch of issues working
+with the condo board to actually
+get the uh approval to install
+the charger, right? Uh, there
+were technical difficulties, uh,
+installation costs were high,
+the list goes on.
+So
+You know, personally, I would
+have said, hey, that's too much
+of a headache and, uh, you know,
+this is gonna be someone else's
+problem, but he decided to go
+ahead and start a company and uh
+we're grateful for it because uh
+we've been able to do a lot of
+cool stuff in this space.
+So, um, on slide 3 here, you'll
+see some of the challenges that
+I already mentioned.
+Um, excuse me, and, uh, I'm
+gonna go over some of these in
+more detail today, specifically
+around electrical capacity and
+grid constraints later on in the
+presentation.
+And so, starting on slide 4, in
+the next few slides, just wanted
+to get some uh relevant
+statistics, uh, about sort of
+what the sector is facing.
+Um, so starting with just, you
+know, you mentioned, uh, at home
+charging being a really key
+component of uh of electric
+vehicles and accessibility, um,
+it's shown here, these are
+national numbers, but about 30%
+of households are multi-family
+buildings, and that's the same
+case in New Mexico, I believe
+that was shared yesterday in one
+of the presentations.
+Additionally, um, you'll see in
+the next slide that uh a
+national renewable energy uh
+laboratory or NRL report came
+out with an estimate of how much
+level 2 charging would be needed
+by 2030, so 5 years away.
+And um they came close to
+570,000 chargers. Now, of
+course, New Mexico is um a a
+portion of that, um, and it
+pales in comparison to the over
+28 million uh charging ports
+they expect will be needed to
+support 33 million passenger
+light duty vehicles. So again,
+for electric vehicles. So again,
+big scale that uh issue
+nationally, um, and we'll kind
+of talk a bit about how that
+relates to New Mexico.
+Um, on slide 6 here,
+Um, you know, as we mentioned,
+you know, we're adding all these
+EVs to the grid, and so it's
+going to take time and it's
+going to take money.
+And so the US Department of
+Energy study estimates utilities
+will need about a 3% annual
+increase in infrastructure and
+distribution grid investments
+between 2027 and 2032.
+Um, however, what's exciting is,
+uh, even though that's
+ultimately, you know, billions
+of dollars in investment, you
+can get a 30% reduction, they
+estimate using some pretty basic
+techniques around managing the
+load on the system, manage
+charging, um, and that can be
+done through uh passive
+activities, for example, a time
+of use rates. Let's get, um, you
+know, folks with an EV to
+charge uh at home overnight,
+right? When it's uh more
+affordable or more active.
+techniques, which is what we do,
+you know, it's software enabled
+um chargers that can get manage
+that load.
+And then, you know, again, just
+want to commend um the state,
+uh legislature for for passing
+um advanced clean cars, um,
+legislation. Uh, this is a
+really, really important market
+signal to say, hey, EVs are
+coming. Let's get them here
+faster in decarbonize our
+transportation sector, and so,
+you all know this, but um, you
+know, 82% of new cars are going
+to be sold um in New Mexico are
+going to be zero emission by
+203.
+too.
+Um, and I'll also note that I
+really appreciated Director
+Stair's presentation from Ener.
+Uh, she mentioned that because
+of New Mexico's population, um,
+and, uh, socioeconomic status
+of, of certain uh residents at a
+secondary marketplace is really
+going to be critical for EB
+adoption. And so, I raised that
+because um
+The statistic I've heard is 12
+to 15 years is sort of the
+average life cycle of a vehicle,
+and so you can imagine, um, you
+know, New Mexico, it's about 5%
+of the vehicle car shares are um
+zero emission vehicles. So, you
+know, within the next
+You know, 1215 years, uh, we're
+going to see big, big
+opportunity in the secondary
+marketplace uh for for this kind
+of adoption.
+And so let's get into a bit of
+how Switch works with
+multi-tenant buildings and so
+this is on slide 8.
+Um, so we, you know, who are our
+customers, our customers are
+property owners, so we sell our
+services directly to uh to them,
+um, and through this sort of
+experience, we really got to
+understand what are their pain
+points? Um, what are the sort of
+design and installation
+challenges, um, and how can we
+offer value beyond, hey, let's
+just put a charger in here for
+your tenants, set it and forget
+it. Can we get them to
+participate in utility demand
+response.
+programs so they can be helpful
+to the grid in times of need,
+um, can we help them integrate
+with other software providers,
+so for example, um, we've worked
+with buildings who already have
+a laundry service set up on a
+tap card, we can integrate our
+service and add more value to
+those tenants, that sort of
+thing. Um, and, you know, at the
+end of the day, what's most
+important is we really, really
+try to be affordable and we have
+a high success rate of being
+reliable for, for, for tenants,
+right? So every time they get to
+a switch charger,
+They know they can plug in and
+look at the charge they need and
+be ready to go the next day.
+So, just to talk a little bit
+about the basics here, um, just
+a level set. So on slide 9,
+you're going to see 3 power
+levels of electric vehicle
+chargers that are often
+described.
+Um
+Level one being sort of the
+lowest or slow charging up till
+level 3 or direct current fast
+charging, but we primarily focus
+on and support is the level 2
+chargers. And these, um, you
+know, again, it worked really
+well for ensuring that uh you
+you get your charge overnight,
+um, and there's flexibility
+there because you can charge
+faster, or you can throttle or
+kind of smooth out that load
+over time at lower rates of
+charging.
+And so this is installed on a
+20,040 volt uh uh 40 amp panel
+usually, uh, and that's pretty
+standard across uh a lot of the
+buildings we we work with.
+Um, on slide 10, uh, you can
+basically see the manufacturers
+that we have partnerships with.
+So again, we are a software
+company, we are hardware
+agnostic, um, and we're able to
+integrate with so many of these
+different hardware providers,
+some big names like
+ABPG, etc. because we use uh
+something called open standards,
+um, or specifically open charge
+point protocol, OCPP, and I do
+know New Mexico has done a great
+job of integrating OCPP into um
+the programs they have, and we
+think this is a really important
+A system for the industry
+because that means you can, a
+customer can connect their
+charger to our network,
+seamlessly efficiently, and
+guess what, if they don't like
+our service, they can connect it
+to a different one, right? So it
+doesn't leave them with a
+stranded asset in the ground
+that it can't get the value of
+load management from.
+Um, additionally, that's why
+it's, you know, this is a is a a
+safer system we believe there's
+a bunch of advantages and so
+that's why we promote this kind
+of interoperability between
+hardware and software.
+On site 11, um, this is kind of
+doing a simplified version of
+What load management really
+means and looks like, uh, to a
+building, so.
+And see in this unmanaged load,
+there is, um, on the right, a
+bunch of different appliances or
+applications, HVAC systems, your
+washing machines, etc. There's
+already load uh happening on the
+system. When you add an EV, all
+of a sudden, boom, I can really.
+You know,
+The peak at a point where it
+overwhelms the panel of capacity
+can lead to demand charges on
+utility bills, that sort of
+thing, right? So the goal here
+on slide.
+12 is to show what manage
+charging technologies like
+Switch and due to smooth out
+that load and ultimately reduce
+and spread that over time,
+again, below the panel limit. So
+that'll um
+You know, uh, invalidate the
+need for costly uh upgrades,
+that sort of thing.
+So
+I just want to take a moment,
+uh, or a few moments over the
+next few slides to commend uh
+Mexico, your leadership uh on a
+bunch of really smart policies
+in the multi-unit EV charging
+space. In fact, I talk with many
+other states and say, hey,
+there's some really uh some
+things that you can do. So, just
+wanna take a moment to commit to
+mention these and why they're
+important.
+So, the first one is around EV
+Redding building codes. Um,
+And this is all about, uh, you
+know, ensuring that
+Buildings, new buildings, new
+constructions are EV ready for
+when it makes sense to install
+chargers.
+And um,
+We can move on to the next
+slide. I'll touch the other ones
+later, the incentives and clean
+transportation fuel, but on the
+side 14, um, it kind of talks
+about the three different
+measures of EV readiness at a
+building.
+So you have, you know, on one
+hand, you be capable spaces and
+these only deal with panel
+capacity in the dedicated
+circuit.
+EV ready spaces are kind of the
+next step of readiness, right?
+You're installing wiring from
+the panel to the parking stall,
+and then lastly, um, and that
+terminates usually in in the
+case of level 2. Again, that 240
+fold outlet or junction boss,
+and then the last one is EBSE
+spaces, which means in fact a
+level 2 charger has been
+installed.
+And so what New Mexico has done,
+um, specifically, uh, in Mexico
+regulation and licensing
+department. Um, they voted to
+adopt the ready codes in January
+of this year.
+And you'll see a table on the
+right that breaks out the
+different building types, um,
+and I've highlighted in red in
+the box are two buildings, which
+are what multi-family kind of
+category it falls under. And so
+again, you'll see here 15% of
+spaces on new buildings must be
+EV capable.
+And um 5% um must be EBSE
+installed.
+So again, this is a really,
+really great first step to
+ensure that um for new
+buildings, they're ready to go
+and provide this amenity to
+tenants.
+Um, I'll just note that on site
+16, uh, you know,
+The uh NMRLD didn't kind of pull
+this out of thin hair. They
+actually consulted um and use
+the
+International Code Council,
+which is um
+You know, a well-known body that
+provides a model codes at many,
+many states jurisdictions adopt
+um in the IECC, the National
+Energy Conservation code in
+particular from 2021 is where,
+um,
+Uh and IRLD kind of pulled their
+metrics from.
+And so, again, I just wanted to
+highlight um on slide 17, how
+this relates to uh load
+management and what Switch does,
+um, beyond sort of the, you
+know, percentage allocation of
+of parking spaces.
+Um
+And this is how, again, the code
+treats system capacity and
+circuit capacity and management,
+um, for the purposes of energy,
+of energy management.
+So in the blue box, um, bluish
+green box on the left, you can
+see that without an
+Energy management system or EMS
+in place, there's a higher
+minimum capacity and and
+amperage
+requirements.
+Um, and then this, you know,
+obviously is where there's can
+be unmanaged load and results in
+all of the costly circuit and
+panel upgrades that I mentioned
+earlier.
+Um, EMS, on the other hand, you
+know, incentivizes building
+engineers, developers, and
+property managers to plan
+holistically for the coordinated
+installation and operation of
+chargers.
+Um, and so, you know, if, if a
+building's not accounting for
+this, um.
+can basically lead to this
+patchwork of, you know,
+Incompatible EV charging
+installations, um, higher
+expenses, that sort of thing.
+And it's um really we just find
+this is a super, super valuable
+tool. Um, especially again for
+new construction where we found
+that um if uh installing an EV
+can be 4 to 8 times lower than
+if you were to go back in and do
+a retrofit of an existing
+building. So doing this again at
+the time of new construction,
+you're really, really saving on
+these types of costs. And then
+the table on the right, I just
+wanted
+to show that um for 2024,
+they've updated the code, so you
+can see how the percentages have
+changed uh relative to what the
+NRMLT adopted earlier this year
+from the 2021 code.
+So moving on to federal
+incentives.
+Um, as you all are also aware,
+there's a ton of federal
+dollars, sort of in the space
+currently, um, both the National
+Electric vehicle infrastructure
+or Nevy formula program and the
+charging and fueling
+infrastructure CFI grant
+programs um have been super,
+super invaluable, not just from
+a monetary standpoint, but from
+a standards and sort of
+regulation standpoint, saying
+let's get all on the same page
+as an industry on um Up time,
+reliability.
+Um, I am American, there's a
+bunch of different provisions,
+right, that kind of helps get
+the industry in line.
+And
+I will note though that these
+are all for publicly accessible
+charging stations, and I think
+that's key because we're we're,
+we're big fans of these programs
+we've applied to these programs.
+However, again, if we're talking
+about multi-family spaces, which
+are tend to be in a more private
+setting. This, this, this money
+is not available, um, and so,
+um, you know, when we think
+about that, and we think about
+um
+Opportunities and need in the
+marketplace. We need to be
+considerate of these things. Now
+what is also positive is they
+passed this 30C tax credit um
+for placing chargers in service
+and eligible low-income
+community census tracts or
+non-urban census tracts, and so
+again, we think this is a really
+important policy, um.
+To take advantage of where where
+possible.
+So on the next slide here, I
+just want to highlight, um,
+You may, may, may again be aware
+of this, but New Mexico has been
+very successful in receiving a
+federal grant awards. So I've
+detailed here some of the big
+wins, um, and in particular, uh,
+I want to commend the county of
+Santa Fe because they've taken a
+look at how can we build this,
+put this funding towards, um,
+again, multifamily affordable
+housing and transportation hubs.
+So it's really, um, really
+awesome to see these types of
+projects come around.
+Additionally, New Mexico has
+done a great job on the next
+slide with state and utility
+incentives, and so, um, you
+know, again, you heard from ER
+Ener and PMM yes, PMM yesterday,
+so I won't belabor those
+programs. Um, I will add,
+because you've not heard from El
+Paso Electric, that they, we
+think they have a really strong
+make ready infrastructure
+program. So what that is, is it
+covers 100% of the
+infrastructure needed on the
+utility side of the meter to
+build out EV charging at
+multi-family building.
+So that can really make a
+difference at these big
+apartment sites that need, you
+know, that power, um, and, um, I
+would make maybe one edition and
+I'll, I'll mention this toner uh
+separately, but, uh, we think
+that their program could be
+slightly tweaked by
+Requiring um the provision again
+for open standards specifically
+open ADR and O and OCPP, which I
+mentioned earlier, um, open the
+ADR is, uh, it's written as an
+either or in the in the statute,
+um, however, we think that this
+could be an end.
+Um, because one is for demand
+response programs to help the
+grid, OCPP is more so about the
+charter communication um and
+load management piece. So, we
+think having both of those
+provisions in place for chargers
+are are really important, I'd be
+happy to share more information.
+Moving on to the next slide, um,
+the legislature also passed
+earlier this year, HB 41, uh,
+which makes New Mexico the 4th
+state to develop a clean
+transportation fuel standard.
+Um, and so this is a really,
+really big milestone when it
+comes to transportation
+decarbonization, as well as
+creating, um, you know,
+thousands of jobs, bringing
+hundreds of millions of dollars
+of wages and in wages and
+investments to the state.
+And if we, uh, it's really great
+and that it's a market-based
+approach, right? So, you um can
+sustainably finance um more and
+more EV charging infrastructure
+through the sale of these
+credits, um, and, and in
+particular, that's really
+helpful for multi-family
+projects, which again can have
+trouble with private sector
+coming in and and wanting to
+finance um these projects. So
+it's just a really great um
+policy all around. We've seen a
+lot of success in the other
+states that have it, and
+been engaged in the process, um.
+Working with the Environment
+department.
+All right, so moving on to a
+couple of recommendations or
+ideas for um this committee to
+consider um as we look ahead to
+the next.
+Session.
+So, um, I'll call out two in
+particular.
+Um
+And, uh, kind of go into some
+detail on, on each. So the first
+one is uh right to charge laws,
+and the second is um some
+utility-led solutions um around
+the distribution grid, um, and
+sort of innovative uh programs
+that we've seen in other places.
+So we'll starting with the right
+to charge a lot on uh slide 23.
+So, basically, um,
+Excuse me, the, the problem that
+Or that it's trying to be solved
+here is what I mentioned earlier
+with our founder ran into,
+right? Uh, in his case, uh,
+condo board, maybe it's a
+homeowners association says,
+hey, you know, you can't, you
+can't install EV chargers here,
+right? We're not going to let
+you do that.
+Um, and
+This, uh, this can be hard, you
+know.
+Both for the unit owners, but,
+you know, especially for
+renters.
+And so, these types of policies
+are right to charge policies are
+designed to ensure that, hey,
+you
+Um, you, you know,
+users must have access to
+private charging um in these
+contexts, and um they can really
+Basically reduce these types of
+barriers by saying, here's
+You know, here's the law. He's
+on the books, you have to allow
+this, right?
+And so, on the next slide,
+you'll see that 9 states have
+adopted these types of laws.
+Um
+And at the end of the day, uh,
+you know, again, it's about
+consumer protection, and uh
+being being able to choose what,
+you know, this option, if it
+makes sense for them. Um, and
+I'll just note there's some
+nuance between these laws, uh,
+how they're implemented around
+contract requirements, safety
+and architectural standards,
+compliance and enforcement, the
+list goes on and on, as you can
+imagine. However, the important
+thing is that, um, as to what
+Colorado and California have
+done ensuring that both the unit
+owners
+and renters are covered by those
+laws, not just the unit owners.
+So, moving on to um
+Sort of more of the utility-led
+solutions and looking at the
+grid.
+So
+Again, it's uh you may call back
+in 2020, um, H HB 233, uh, was
+passed, and this was basically
+an opportunity, um, for the
+state to take a look at what are
+going to be the, the
+distribution grid needs of the
+future as we see more and more
+electrification happen.
+And so there are a bunch of
+different recommendations that
+were made to do comprehensive
+grid planning, um, around, you
+know, load forecasting, hosting
+capacity maps, so basically
+seeing where, you know, where is
+their load on the system right
+now for for incapacity for folks
+to build.
+Um, and non-wire solutions, um,
+you know, not tied directly to
+the grid.
+And so transportation
+electrification showed up a good
+amount in this, in this road
+map.
+And uh what was exciting is what
+they found in a number of other
+studies have found is that if
+you do transportation
+extrication rate, you can
+actually put downward pressure,
+utility rates for customers, um,
+and, um, and can also modify
+behavior when it comes to manage
+charging through incentives,
+through rate design, that sort
+of thing. So there's a lot of
+really cool opportunity here,
+and in the graph, you know, I
+just wanted to pull a little bit
+of the data.
+um, on market share again, 5% is
+where New Mexico's at, um, but
+you, you know, we've seen
+projections in past
+presentations where that number
+just continues to climb, so we
+need to start having this
+conversation now. And again,
+we're talking all electrocation,
+so EVs are just one component of
+it, buildings.
+AI is coming data centers, etc.
+So,
+And commend the state for taking
+this first step.
+Um, when it does come to
+electric vehicles, um, what
+utilities can do on the next
+slide, it's a bunch of really
+cool stuff, so, um, you know,
+Happy to talk through um a more
+detail, the PEPCO rate, which is
+targeted towards multi-family
+buildings, um, Con Edison has uh
+a really cool program for
+commercial EV chargers where
+they um help incentivize not
+just the chargers but the load
+management technology, um, and
+then what I what I'd really like
+to focus on is, uh, uh, where,
+where I live, so maybe I'm
+biased here in Portland, Oregon.
+They're an investor owned
+utility for the general
+election.
+trick as a, as a, as a really
+innovative program where they're
+saying, hey, let's install
+chargers on our um light poles,
+right? And so there they've
+already installed over 60 EV
+chargers level 2 on light poles
+that uh that the utility has
+access to in the city of
+Portland in Milwaukee, and
+they're, they've already seen
+such success from this pilot
+that they're planning to expand
+it to an additional 120 pole
+chargers. So these are the types
+of things that if we can just
+use existing assets,
+efficiently.
+You know, we can really get a
+lot done here. And, you know,
+unsurprisingly, they're being
+really strategic about whether
+they installing these light pole
+chargers close to the family
+residences, that sort of thing.
+So, um, you know, what, what can
+be done next, um, so,
+Uh, my understanding is that
+there are other representatives,
+I believe Representative
+Dickson, Representative Hochman
+Visel and other outside
+stakeholders, um, for
+transparency, which is a member
+of Avanced Energy United, who is
+involved in these discussions
+around what does taking what the
+roadmap has put out there and
+putting it into action look
+like. So there's, I believe,
+conversation of a sort of a
+distribution system
+modernization Act, um,
+Modeled on SB 218, which
+Colorado passed in their last
+session, and um what's exciting
+to us about that is, you know,
+There's, you know, it's bringing
+the utilities in and, you know,
+let's put in place specific
+Practices to take from the, you
+know, what can we do from a
+forecasting standpoint, what can
+we be doing from a no regrets.
+We're going to purchase this
+infrastructure equipment because
+we know the demand is coming,
+these types of practices, and in
+addition to that, they layer in.
+Looking at managed charging as a
+component of how to plan for the
+grid. So things like automated
+lo management load management
+around EVs cannot be a way to
+offset additional distribution
+grid build out.
+Um, lastly, you know, we all
+know that, uh, these things take
+time, and so how can we ensure
+that the, um,
+Electric utilities are
+energizing what's needed in a
+timely manner as well, um, in
+this particularly happens around
+them, you can mention, imagine
+larger buildings that have more
+electrical needs and how do we
+make sure that they're hitting
+those timelines and streamlining
+permitting processes, that sort
+of thing.
+So we're, we're big fans of this
+type of legislation. We think it
+can do a lot for this sector, in
+particular, uh, for, for
+multi-family buildings.
+Um, so with that, you know,
+some, some closing thoughts, uh,
+are just wanna again think,
+thank you, Madam Chair and the
+committee for holding this
+today, um, uh, meetings, uh,
+it's really an opportunity to
+continue building stakeholder
+engagement, um, you know,
+continue to get more and more
+policy alignment around what's
+needed to really shape the grid
+uh in transportation of the
+future, um, you know, again,
+centering underserved
+communities.
+Um, sectors that need some more
+support like multi-unit or
+multi-family buildings, um, and
+then, you know, this last slide
+here, which you have in front of
+you a handout, um, is what our
+sort of policy roadmap that
+Switch looks like, uh, what we
+generally support a lot of
+what've discussed is in there,
+um, but would be happy to touch
+on any of those other subjects,
+um, if there are questions. So
+with that, um, you know, I'll
+yield my time, uh, back to you,
+Madam Chair, I just want to say
+thank you again.
+Thank you for the presentation.
+Um,
+Do you have any questions?
+OK.
+Tara, our representative I'm
+sorry.
+For the presentation and
+Information, um.
+Couple of questions. I'm gonna
+go.
+Glad you gave us.
+Oh yeah, the space.
+You know, back on the slide.
+I say 12.
+was
+Um
+Davy charging scenario
+managedar.
+So
+talked about managed charging to
+smooth out the load.
+Um
+How you mentioned some, what is
+the mechanism, how is that gonna
+be paid for, and I mean, can you
+go over the controls of how this
+is going to be done.
+In that management scenario,
+thank you, man.
+Yes, thank you, Representative
+Madam Chair. Um,
+So, yeah, so our, our technology
+switch control, for example,
+basically layers in with the
+charger to set up, hey, when
+does it make sense to be
+charging the station based on
+the property or the tenant's
+needs, and so, um, what that
+does effectively is if someone
+plugs in their EV, they get,
+they can start charging, but not
+at the full 19 KW, you know,
+power level that the charger
+has, maybe they're throttling it
+down to, you know, 2k.
+spread out over 8 hours, so they
+still get the same amount of
+charge over a longer period of
+time, essentially, as opposed to
+really fast charging over over a
+short period. And so,
+Yep
+Your technology is like a
+transformer or a sort or a.
+It's gonna uh control the
+How, how much charge gets done
+in the time.
+You, so that's what you're gonna
+be paid for.
+Exactly, yeah. Excuse me, yeah,
+that's exactly right. Um, so
+we're paid a, um,
+Yeah, I believe it's an annual
+fee for this type of management,
+um, and it's just, it's really
+software at the end of the day
+we have with our phones, right?
+Exactly, yep, yep, exactly.
+Um, thank you for that. So I'm
+just wondering like how you're,
+you wanna, you wanna have the
+ability to have to install your
+units so that you can control,
+you know, the, the power, the
+load that go, the charges the
+vehicles, so that's, that's
+great. I was just wondering
+that, but, um.
+So, um, slide 9.
+The utility demand programs.
+So
+And he talked about the added
+value with other in that kind of
+goes with that, maybe that was
+part of my question. I was
+getting to this question.
+So my, my ultimate question is
+how are you and others working
+with.
+Um
+Our utilities and with our co
+op, you know, all our co ops
+and, and going into the rural um
+areas.
+Especially and looking at how
+you're going to install this and
+and explain to them how you're
+gonna have these controls.
+When they are the, you know,
+they manage.
+The utility, essentially, and I
+know that there's a bill, it's a
+power up bill. It's been.
+Being discussed, I assume that's
+what you were referring to with
+Dixon and
+And um the hill, so thank you
+for bringing that up. So how,
+how is that all coming together,
+cause if you're part of those
+conversations that I think we
+need to know like,
+What is that distribution of
+bill looking like and who?
+Who is all part of that
+conversation because it's going
+to be essential that you're not
+leaving anybody out and so, um,
+I'd like to know.
+Yes, thank you, Representative
+and Madam Chair, for the, for
+the question. Um, so, just on
+the first part, uh, around rural
+communities and kind of how
+things tie in there. Um,
+You know what I'll say is how we
+work, you know, again, from the
+mindset of our customer being
+the, the property owners or the
+managers. We try to give them as
+much information as possible
+upfront. So here are the
+available rebates. Here's the
+available, um, if there's a
+demand response program that
+they can tie into, um, all that
+information, um, and we also try
+to provide them with education,
+outreach materials as much as
+possible to their, to their
+tenants. Um, now, you know,
+Uh, I'm not as familiar uh with
+Mexico's geography, but, you
+know, generally speaking, right,
+um,
+sort of more urban, let's say
+denser areas is where we see
+more multi-family buildings. So,
+um, in rural communities, um,
+you know, we're still there may
+be many renters with single
+family households, as we
+understand it. Um, you know,
+Candidly, you know, the load
+management technology for single
+family residences isn't as
+impactful because um you know,
+it's one charger usually or
+maybe it's Max 2 chargers for,
+you know, couple of folks in the
+household, that sort of thing.
+So the value isn't going to be
+there as much as if we're
+talking, um, you know, an
+apartment building with, um, you
+know, 50 tenants, 20 chargers,
+that sort of thing. So that's
+just from our perspective,
+however, we, we totally agree
+when we're talking about
+underinvested, under.
+Serve sectors needs to be a part
+of the conversation 100%. Um,
+and then some of the federal
+programs, I'll just note that I
+mentioned earlier, um, around
+the CFI dollars and the nebu
+dollars, right? That's really
+can be really impactful for
+those communities as well,
+especially Ney where, um, you
+know, either there's primarily
+one main highway kind of coming
+through and making sure there's
+charging access every 150 miles.
+So, um, that's one angle in
+terms of just to get on the
+piece of legislation in the
+bill.
+Um, I, I'm more sort of saying
+this because I, I had
+experienced more so in Colorado.
+I'm just getting up to speed
+with myself, um, working with,
+uh, again, that, that group
+advance our United. Um, I know
+Michael Barrio is uh our contact
+there I know he'd love to have a
+conversation and bring in as
+many stakeholders as possible. I
+believe um WRA NRTC who was
+involved in the Colorado bill
+are also are also part of it.
+So, um, I'm not trying to hide
+anything, just transparent so
+yeah, yeah, that's, that's,
+yeah.
+That's what I understand. I
+know, I just want to be clear,
+there's no.
+Yeah, that, you know, it's just
+new and it's coming up and so
+these are some of the things
+that a lot of us have been
+working on, so we just want, you
+know, how you, I want to know
+how you're doing it so that no
+one's left out.
+that's, that's what I've been
+experiencing in in the
+conversations and I've had round
+tables and I've had legislators
+here for a summit on these
+discussions and working with
+Colorado myself, so this is all
+new, and it's just getting, I
+just wanna know how far along it
+is and, and just sharing those
+things up so that we have a good
+bill.
+Really, that's really, really, I
+want to ensure, but I appreciate
+your time and, and what you're
+bringing to New Mexico. I think
+this is gonna be, this is
+something that's really needed.
+Thank you, Madam Chair.
+Thank you, Representative
+Representative Townsend.
+Thank you.
+Madam Chair.
+Um,
+I'm trying to get my arms
+around.
+Austin
+How does a property owner.
+I mean, it's either going to
+increase the rent.
+Of the building.
+Or there's gotta be a mechanism
+for them to recoup.
+costs that they incur.
+From the person that's charging.
+And that seems like if there's
+just one person in there
+charging, they're gonna have a
+lot of cost.
+The bear
+And then you're gonna have other
+people that say if you spread it
+over the building, their rental
+costs are gonna go up and
+they're gonna be upset. So I'm
+just trying to figure out how
+does that property owner.
+Recoup his investment uh
+representative Madam Chair, I, I
+really appreciate the question.
+It's a, it's a great one.
+So, I'll start off with
+Um
+Fortunately, in your state, as
+mentioned earlier, there are a
+bunch of great um rebates, tax
+credits, I can really are at the
+outset, bring down the cost of
+paying for a charger, you know,
+I think this was mentioned
+yesterday, but
+The 400, let's take the $400 tax
+credit.
+That'll cover the cost of a
+level to, a lot of level 2
+charging stations, um.
+And then you flare in, you know,
+the next big cost is the
+installation, right? Um,
+So I text your credit can also
+be applied to that if there's
+money left over, um.
+Or, you know, maybe there's um
+some other grants, some other
+rebates through the utility PNM,
+etc. that can be applied and
+stacked, right? So that, so we
+can already bring down the cost
+from that viewpoint. Um, it does
+take, you know, some time, some
+paperwork. I don't want to
+invalidate that. Not everyone
+has that, but that is, that is
+one angle. Um, in terms of
+Our costs, you know, our network
+management costs, um, we try to
+keep it as affordable as
+possible. Um, every building is
+a bit different, but we're
+talking, you know, 100, 100s of
+dollars, not an excessive amount
+of money, um, that again, if
+possible, can be spread out
+across many tenants to make it a
+much, much, much more
+affordable. Um,
+In terms of the value that it's
+bringing, so, so yes, I'm not
+gonna deny that there's a chance
+that they're the property
+manager may decide, OK, we're
+gonna factor this in, uh, you
+know, through maybe a slight
+incremental, you know, rent
+increase, and that sort of
+thing, but they don't have to,
+right? They can offer this as an
+amenity to attract tenants. We
+see that very commonly in a lot
+of our properties to retain
+tenants. Um, and then
+additionally, they can get the
+tenants, um, depending on how
+they work things out with the
+rates.
+Um, you know, they can, you
+know, pay into programs, uh, or,
+or line up with programs, time
+of use programs, that sort of
+thing, to really minimize the
+price um of of how much you're
+charging, I believe, uh, another
+speaker yesterday said they pay,
+you know, $3 to charge
+overnight, um, for their
+vehicle. So,
+You know
+Everyone's got to pay at some
+level for, for their vehicles,
+whether it's a, you know, gas,
+ice vehicle or EV.
+But we just try to work with
+them and give the education
+here's how you can make it as
+affordable as possible.
+Thank you for that.
+And
+the other thing is,
+For example, if you're building
+a
+Faulty
+building today.
+And
+Under the rules, if I read them
+correctly, there's a formula for
+how many eV.
+Charging stations would be
+required, correct?
+And if you bring a level 2 in
+for each of those.
+That's about 50 amps, I think,
+per per charging station.
+So if, if you're bringing, uh,
+you know, if you're building a
+Common size
+apartment complex, so you're
+gonna have
+And just for a round number,
+you're gonna have 10 charging
+stations.
+That's 500 amps that you got to
+design for coming in.
+And that 500 amps is going to
+increase the demand and the the
+building.
+I do
+Not
+I get it that they plug in and
+they, they can charge, but how
+does that property owner who
+built that demand in.
+The building. How does he
+recover that?
+Installation cost.
+Because it's going to be ongoing
+if the demand goes up every
+month is
+His demand is going to be
+higher, whether he uses it or
+not. It's gonna be up there.
+As he is
+He's built
+He's provided for that coming
+into the building.
+How does he recover that?
+Yeah, another great question,
+Representative, thank you and uh
+thank you, Madam Chair. Um, so
+you, you, you're kind of putting
+it in perfectly for the value of
+our types of technology of load
+management technology, because
+what we like to say, um,
+40 or 50 whatever the scenario
+is, we do about we recommend um
+a 4 to 1 uh sort of circuit
+sharing ratio, um, and so we're
+able to basically, um,
+Yeah
+Or chargers in that one panel
+because we are again reducing
+that load, um, and smoothing it
+out over time, so you can
+charge uh I don't think that's
+in line with the
+With the order that I read out
+as CID, it says,
+That you have to install
+You know, we said TM, I don't
+know. We can use whatever number
+you want to, but if you have, it
+doesn't say.
+That of these 10, only 2 of them
+have to be fast chargers and the
+rest.
+Yeah, I mean,
+Some of those people that move
+into that building, they may all
+want, I mean,
+If it's this room and we were,
+we were charging, we'd all want
+to be fast chargers and out of
+there, I think, I mean.
+You don't think so?
+Well, how did,
+yeah, I don't most of it is done
+at night, like at home, you do
+it at night between 3 cents a
+kilowatt per hour between 2 and
+5 in the morning, that's the
+right now. So it's, it's, it's
+cheap and you do it normal most
+people work, sleep at night,
+right? Not everybody, but that's
+when you do the charging. That's
+what helps with the.
+Well,
+It
+How
+is that
+I
+How is the technology work?
+Because
+The main meter that's
+That is running for the
+building.
+is coming in at
+You know, 1215 cents a KWH.
+I, I mean, that's
+What his bill's gonna be, you
+know.
+If that charger is is pulling
+from that.
+And it's, as our chairwoman
+said, you know, they said a
+reduced cost.
+How is that deducted from the
+main meter so that
+that
+That tenant is not charged.
+15 cents, so you can charge it.
+A lesser cost.
+Uh, thank you, Representative
+Madam Chair, for that question.
+Yeah, um, you know, I think in
+that.
+The scenario you're describing,
+you know, sub submetering can
+come into play here, um, and
+that can be an effective
+mechanism. Um,
+You've also, uh,
+No, it's just utility specific
+what their terms are, um, but I
+think just to respond to the 50
+amp piece. I, I believe what
+you're referring to there is the
+provision, um, again, without
+EMS or energy management
+services, load management in
+place.
+That that's the minimum, the 7.2
+KBA 50 amps per space.
+That drops to 25 amps per space,
+3.3 kBA with EMS. So again, um,
+we're able to reduce that
+minimum, use this technology to
+get the most out of, you know,
+existing panel essentially. So
+hopefully that helps add some
+color.
+OK. Um,
+I
+Is what you're talking about,
+has that been implemented and
+updated in the rule that I
+recently read. Is there a new
+rule out that says that these
+He um
+Management
+Uh, options are there.
+Cause I
+I haven't seen them.
+Uh, I think you, Representative
+Madam Chair. Yeah, um, I'd be
+happy to, uh, send over the
+current uh regulations, and they
+have this um this language in
+them, it's from the 2021 ICC
+code, um, and so I'm happy to
+forward that after.
+Well, I, I appreciate it, ma'am,
+Sharon. I'm, I'm really
+interested in, in how we
+prevent.
+Ra old costs from going up were
+already stressed on
+On the amount of rental
+properties in our state. I mean,
+quite frankly, and, and
+Not everybody can afford
+increases, so I, I'm, I am
+interested in how we manage that
+and
+And how we
+Eat from
+Causing
+I want to say harm or imposition
+on someone that isn't
+participating.
+It just seems like it's
+something that we ought to be.
+Thank you, madam chair.
+Thank you, Representative.
+Um
+So I
+I, I talked to my constituents
+quite a bit and um one group I
+met with work apartments or do
+you call them, um.
+Secondary
+secondary, I forgot what you
+call it, uh, excuse me for a
+part apartment owners, um, yeah,
+multi, multi-family,
+this is what they wanted. They
+want chargers, clothes that they
+can use every day. So that's why
+you're here to kind of introduce
+us to it. So, um,
+But this is important to them,
+especially some of our younger
+ones, uh,
+Who are just getting EVs and
+just, you know, seeing the value
+of them and it's really a lot
+cheaper for them. Um, what I
+found in all of this
+presentation interesting was the
+um the polls putting EVs on
+poles. I hadn't heard that
+before, so can you go elaborate
+on that?
+little bit more.
+Yeah, thank you, Madam Chair,
+and, and happy to, yeah, this
+is, um, you know, I know a
+number of utilities are starting
+to experiment with this, I'll
+say, um,
+Uh, there's a national grid out
+out in the east coast I know
+doing this, but yeah,
+essentially the way it works is
+Other the um
+You know, the utility has access
+to poles where it knows it has
+capacity to add EV charging,
+ideally and it's in a strategic
+location, um, and then they're
+able to add uh chargers to the
+poles. I'll note, um, in the PPG
+example here, the utility owns
+those chargers in the National
+Grid example, I believe, uh, the
+cities or municipalities they
+work with on those chargers, um.
+You know, there, there's also,
+of course, private sector, third
+party opportunities, um, in
+terms of ownership and um yeah,
+I think it's just a really great
+way to provide um
+Cheaper, you'd be charging
+installation, right, because you
+don't have to add a bunch of the
+other stuff that we've tighten
+the powers already there, right?
+You just kind of add the charger
+and, and there we go. Um.
+And then, you know, probably,
+you know, I haven't looked at
+the exact rates. I imagine
+they're uh charging on more of
+a, you know, it could be more of
+a public rate, um, so that's one
+consideration cause those tend
+to be higher, obviously. Um, but
+I think there's ways to tailor
+these programs, you know, for,
+um,
+Different users. So, uh yeah, we
+think that this is a really cool
+novel idea and should be
+explored.
+Agree, right.
+Well, I think that's it, uh,
+very thorough and, and thank you
+for your presentation. Thank you
+for coming all the way just to
+present to us. Appreciate it.
+Absolutely, yeah, thank you for
+the opportunity and my contact
+information is there if anyone
+has any other questions. OK.
+Thank you.
+Or
+All right, we will continue. Um,
+I'm sure people will come in,
+um, our next presenters proposed
+electric school bus legislation,
+yay, um, and I believe I know
+you too. So I'll have let you
+introduce yourselves in um
+whenever you're ready, go ahead
+and get started. People will be
+trickling in, OK?
+Good morning. I better.
+Good morning, Madam Chair, and,
+uh, members of the committee.
+I'm Giovanna Rossi, and I am
+with Collective action
+strategies.
+And a number of different policy
+things over the years here, um,
+in this committee and others.
+I'm, I'm here this morning, uh,
+with Mom's Clean Air Force.
+And um
+I am a.
+Mother of two, I raised my
+children in Albuquerque.
+And um.
+Every day during their
+elementary school years, I.
+Walked my kids to school and.
+Had to walk by.
+Uh, these little buses idling,
+and we breathed in that air
+every day for a number of years.
+Um
+And
+My daughter's best friend ended
+up with asthma.
+Um, and sometimes she and my
+daughter would miss playtime
+outside because they had to run
+back in and get the inhaler or
+they had to take to help her to
+the nurse's office.
+And um, so they missed out on a
+lot of different activities.
+Um
+I've seen the health impacts on
+our kids.
+Uh, and that's why I'm here
+today as a mom and representing
+mom's Clean Air Force.
+And mom's Clean Air Force is an
+organization of over a million
+members across the nation and
+20,000 members here in New
+Mexico.
+Um, and I'm, I'm just gonna
+speak briefly with you today
+about the benefits of bringing
+electric school buses, uh, to
+New Mexico and um how that will
+impact.
+Uh, our kids' health.
+And then I'll turn it over to my
+colleague here, um, and she can
+introduce herself and then we
+have other speakers.
+Yeah.
+So just go on
+Um, OK, so I
+have a couple of handouts that
+you'll probably notice they're
+very colorful. They say they
+talk about electric school
+buses, um, so you can have those
+in front of you, but I'm, I'm
+just gonna sort of.
+Talk a little bit about electric
+school buses and the and and the
+health impacts on kids.
+So kids who ride an electric
+school bus.
+Get a cleaner, quieter, and
+healthier commute.
+While school districts save
+money on fuel and maintenance.
+New electric buses are going to
+be rolling into towns across the
+country, and we want New Mexico
+to benefit from these cleaner
+buses, cleaner air, and a
+healthier ride to school.
+So, let's talk a little bit
+about the health impacts of
+diesel exhaust, um.
+Madam Chair, members of the
+committee, as you probably know,
+diesel exhaust is a toxic soup
+of gasses and particulates,
+including 40 known carcinogens.
+It's linked to various
+detrimental impacts on human
+health.
+Children are particularly
+vulnerable.
+Because the, they breathe more
+air per pound of body mass, and
+their bodies are still
+developing.
+Air pollution also impacts our
+ability to concentrate and
+learn.
+Diesel fumes are also associated
+with headaches, nausea, poor
+concentration, impaired
+cognitive performance and
+behavioral problems, making it
+difficult for students to learn
+once they arrive in the
+classroom.
+Diesel exhaust is a known
+trigger for asthma attacks and
+other respiratory inflammation
+and irritation.
+Inflammation and irritation
+causes the airway to constrict
+and produce mucus, both of which
+cause narrowing of the airways,
+making it difficult to breathe,
+resulting in an asthma attack.
+For anyone who has asthma or has
+a child with asthma.
+You know that this is a serious
+medical condition and requires
+urgent intervention.
+Here in New Mexico, asthma is
+one of the most common chronic
+diseases with an estimated
+136,000 adults and 26,000
+children currently having the
+disease.
+People with asthma are more
+likely to miss school or work,
+report feelings of depression
+and experience and overall
+reduced quality of life.
+Asthma is also costly with
+expenses from routine checkups,
+emergency department visits,
+hospitalizations.
+Um, and medications, putting a
+significant burden on families,
+the healthcare sector and the
+economy. Asthma is a leading
+cause of school absenteeism and
+a study by University of
+Michigan Public Health
+epidemiologists estimates that
+transitioning to clean school
+buses across the country could
+result in 14 million fewer
+absences among bus riding
+children for typical school
+year. Imagine what that number
+might be right here in New
+Mexico.
+So the message here today, Madam
+Chair and members of the
+committee is that electric
+school buses provide a healthier
+option, and they're a real
+option for our kids here.
+Um, a few benefits of electric
+school buses.
+Students and drivers, we know,
+enjoy a quieter and smoother
+ride.
+Due to reduced vibration and
+noise. Kids arrive at school
+more calm and ready to start the
+day, because they don't have to
+shout and uh shout over each
+other on the bus, and it, it
+actually really helps the
+drivers concentrate as well
+because they don't have.
+So much noise in the bus.
+Um, we already discussed how
+kids who ride an emissions free
+electric bus can benefit from
+improved cognitive function and
+decreases in absenteeism.
+Electric school buses themselves
+can also serve as opportunities
+to see science, technology,
+engineering, and math lessons
+come to life.
+In comparison to diesel buses,
+electric ones require less
+maintenance over their lifetime,
+saving dollars that can be
+better spent in the classroom.
+And wouldn't we all like to see
+that?
+The regenerative braking system
+results in less wear and there's
+no need for engine or exhaust
+system maintenance.
+Depending on the cost of
+electricity and fuel.
+Electric school buses can be a
+more economical.
+Uh, option to run.
+So electric school buses will
+reduce our children's exposure
+to harmful diesel exhaust and
+climate pollution and it's just
+the smart way.
+For for the future of our kids.
+Um
+Thank you, Madam Chair and
+members of the committee for
+listening.
+Madam Chair and members of the
+committee. My name is Shelley
+Manlev, and I drove here today
+in my used Nissan Leaf that I
+bought 3 years ago, and I have
+to say from personal experience
+that it is indeed a much quieter
+ride and
+Um, truly a remarkable
+experience if many of you, any
+of you have ever done it to know
+that when you are driving down
+the road.
+You are not adding to carbon
+pollution. You are not spewing
+the smell that especially if
+you're idling, right?
+It's uh, it's really uh an
+incredible opportunity.
+For our state and in
+particularly for our school
+children, what we're here to
+talk about today.
+So I'm here. I'm the executive
+director of a group called
+Does everybody have a healthy
+climate in New Mexico.
+Yeah.
+Please
+It's the one with that pretty
+light yellow background.
+And that great logo.
+You know, it's Lego of our
+state.
+Our mission is to mobilize New
+Mexico healthcare and public
+health professionals to advocate
+for climate solutions that
+protect health and that promote
+equity.
+We have over 220 members we've
+just started a year and a half
+ago, myself and a small group of
+passionate, dedicated
+volunteers, including several
+physicians, several public
+health leaders, and we have
+grown steadily and powerfully.
+Because we are passionate about
+bringing the health voice to
+something that
+We all need to be involved in,
+right? Protecting health and
+promoting equity.
+We address equity, excuse me, we
+address education and advocacy.
+And also our own organizational
+sustainability.
+And we work, of course, with
+elected officials, with our
+academic and higher education
+training institutions.
+And with healthcare
+organizations.
+So today I'm gonna focus. It's
+kind of interesting that my
+colleague focused on the health
+impacts, um, I myself am a
+public health professional, um,
+you may, some of you may have
+seen me in the capacity as the
+president of the New Mexico
+Public Health Association.
+Um, I've dedicated my life to
+tackling preventable and
+Great public health threats,
+easy things such as tobacco,
+alcohol, opioids, childhood
+injuries, right?
+And now I'm tackling one of the
+greatest existential threats
+facing.
+Our communities, which is
+climate change.
+So I'm gonna highlight why we as
+health professionals and really
+Giovanna shared with support
+expediting the move to electric
+school buses. I'm gonna actually
+go over the proposed legislative
+changes. And then briefly review
+some of the economic impacts.
+Air pollution is community is
+hurting our communities. You can
+see in those pictures, picture
+of course of fires, fire that I
+experienced with the calf's
+Canyon Hermit peak fire, largest
+fire, New Mexico to ever faced
+2022, I'm sure you have images
+in your minds from Riodosa this
+year, the hea, New Mexico is at
+great risk for wildfires, and
+these are not the wildfires of
+50 years ago and not the
+wildfires that I grew up.
+With right
+And then that second picture is
+actually the picture of the sun
+of our co-founder.
+Doctor Paul Charlton, he's the
+director of emergency medicine
+at Gallup Indian Medical Center.
+He has no history of asthma in
+his family, 2 children when his
+son Owen.
+was a, as you can see, a very, a
+little baby, he developed
+asthma. Paul lives, you know, we
+drive anyone who drives.
+From New Mexico to Arizona or
+California along that I-40
+corridor knows how many trucks
+and.
+Electric school buses are either
+a medium or a heavy duty truck.
+Trucks are responsible for 80%.
+80% of the greenhouse gasses and
+other pollutants emitted by.
+Transportation.
+Transportation is almost half of
+all greenhouse gas.
+Admitted in the United States
+just a context.
+And on the right, you see.
+Levels in our communities, the
+grades that the American Lung
+Association gave.
+For our counties. Now we don't
+measure VPA does not measure
+pollutants in all of our
+counties. I have to say it's
+something our organization is
+greatly concerned about.
+You know, we can't just care
+about Berna Leo, you know, our
+major metropolitan. I'm not sure
+our major urban areas, right? We
+need to care about all of our 33
+counties, all of our tribes,
+however,
+EPA only has air quality
+monitoring for ozone in 9 of our
+33 counties, and if you look at
+those grades, 4 of those
+counties, and those are the
+counties that have highest
+populations get an F for ozone.
+Ozone is what you experience
+when you breathe in smog.
+I came to New Mexico 30 years
+ago as a smog refugee, I
+actually have to say I grew up
+in Los Angeles.
+Terrible smog and it's, you
+know,
+Makes everyone sick who
+experiences it, and that's where
+we are with ozone. We actually
+are having to remediate that,
+and it's a great challenge
+because of being this
+transportation corridor and of
+course our oil and gas industry.
+As well
+Also just want to say because
+um.
+Particle pollution as Giovanna
+mentioned,
+Diesel
+Buss emit particles as well as
+other pollutants and of the five
+counties that articulates are
+measured, 2 of them get F's, and
+again, that's Dona Anna and
+Bernalio.
+About half of our state's
+population.
+The next 3 slides just highlight
+social vulnerability.
+We now, unfortunately, and I'm
+gonna say despite the great work
+of each of you, my colleagues
+and everyone who's so dedicated
+to caring about the communities
+of New Mexico, where with state
+with one of the highest levels
+of social vulnerability.
+Social vulnerability refers to
+things like income, right,
+poverty. It refers to housing,
+it refers to education.
+We're gonna get it up there.
+Actually
+I'm
+Maybe it's the electric school
+buses one? No?
+Right.
+If it's
+Yes, there it is.
+Right. And we are on slide.
+I
+I'm just gonna run through that.
+I'm not gonna go to just want to
+visually to see, and it's great
+to look up here.
+The darker the blue, the higher
+the level of social
+vulnerability, the greater the
+health problems.
+And we can see just looking at
+that the southern right from the
+west to the east has higher
+levels of social vulnerability.
+If you go to the next slide.
+That's New Mexico. We know those
+areas of the greatest social
+vulnerability in that blue, and
+then I just want to take you to
+the next slide, slide 7.
+This gives you a context of how
+high our social vulnerability is
+they measure it from 0 to 1, the
+Centers for Disease Control and
+one being the highest
+vulnerability, 0 being the
+lowest, and this is McKinley
+County, again, where our board
+chair lives, and its social
+vulnerability score is 0.988.
+So social vulnerability, we are.
+In terms of health and other
+social risk factors at extreme
+vulnerability for health risks,
+which makes it even more
+important for New Mexico to take
+this step to clean the air to
+protect our children.
+Go to the next slide.
+When we talk about social
+vulnerability, we're talking
+about people, we're talking
+about our most vulnerable
+populations and climate change
+impacts our most vulnerable
+populations, the greatest.
+Infants and children, we're not
+going to go through all the
+ways, but when I say climate
+change, you can also substitute
+diesel pollution, that's causing
+climate change, right? So
+infants and children, the
+elderly people who are low
+income.
+Outdoor workers, you know,
+actually having fewer diesel
+fumes go by the roads as people
+are working outside. Of course,
+there's other ways that we need
+to protect these populations as
+well. People with disabilities,
+including children with
+disabilities, who might be one
+of our greatest risk
+populations, and um.
+For any of you who've had a
+child with special disabilities,
+often transported in the smaller
+school buses with extra help,
+and in the meantime as they sit
+and idle, just imagine, right?
+These children are sitting on
+idling buses, longer time than
+most children are as somebody
+assists somebody else in getting
+on.
+But they're breathing in that
+air.
+And there are many other groups
+that are most vulnerable.
+Let's go on to the next slide.
+Because
+This is one way, one of many,
+but one important contribution
+that we can do to clear the air,
+reduce carbon pollution, and
+protect the health of our
+communities. And I just love
+this picture because this is the
+picture where I grew up, I have
+to say I've lived longer in New
+Mexico than I lived in the
+community that I grew up in, you
+know, spent 18 years there and
+I've been in New Mexico now over
+30 years. I understand that I'm
+still a newcomer.
+I am.
+And I love this. I love this
+state and this place, so.
+Actually, you know, people hear
+about all the terrible things,
+you know, the things Giovanna
+was talking about.
+But we can do something. We can
+make these changes, and this
+shows what happened in the
+community I grew up in 1960.
+That is what.
+I looked at it, right?
+2021, this is what Los Angeles
+was, as long as it's not
+wildfires today.
+And that's because of policyies.
+It's not because of individual,
+I, I wish people drove less.
+Don't we all, right?
+But not happening in Los
+Angeles, in New Mexico, huge
+challenge not to drive. We're a
+rural state, we have to drive.
+Our children need to travel long
+distances to get to school,
+especially our children in rural
+communities. They need to spend
+a lot of time on school buses,
+right? They can't just, it's not
+just a 10 minute ride.
+But we did that through policies
+like the EPA Clean Air, you
+know, and, and lead and
+gasoline.
+And now I have to say we could
+take even that much greater po
+progress
+by eliminating.
+Eel and other combustion engines
+in cars and trucks and electric
+school buses are an important
+part of that.
+Next slide.
+So
+We've got this opportunity.
+Through this proposed
+legislation.
+To provide school districts with
+the option to replace their
+current diesel school buses with
+electric or that should be an or
+zero emission alternative fuel
+buses.
+So, I wanted to lay out what the
+current statute says, which is
+the PED provides for the
+replacement of school buses on a
+twelve-year cycle.
+That means actually, you know,
+if we have the resources and we
+have the will, we could in 12
+years replace every single
+school bus in New Mexico and we
+have about 20,000.
+With an electric school bus.
+Um, school districts can also
+petition for additional buses
+for growth or if they have
+special needs.
+So the first part of the
+recommended policy change is
+that school districts shall have
+the option, right, to replace
+the school bus with an electric
+or zero emission alternative
+fuel bus.
+Or to add if they're adding a
+new school bus, not just
+replacing it. They could add it
+with an electric school bus
+instead of a diesel bus.
+Next
+Currently, a PE does is it pays
+for the diesel bus replacement.
+These are expensive. I have to
+say I was a little shocked when
+I learned how much buses in
+general cost, um, it didn't cost
+$23,000 like my Nissan Leaf.
+Um
+So
+$140,000 for a diesel bus.
+A lot of money, big investment.
+And what the recommended changes
+in the policy are is that.
+Up to those funds up to the
+$140,000.
+Well, either
+Help districts who want
+Don't get any grant funding,
+right? There is.
+There's a little grant funding
+available, um, more than a
+little, but maybe a little for
+New Mexico, but it's some
+districts, whether or not they
+get any extra funding from the
+federal government or through
+EPA grants, um,
+Are gonna want to do this
+because
+The way it benefits their kids
+and their communities, and also
+because over the lifetime of the
+bus, there's tremendous
+opportunities for cost savings
+related to maintenance, and then
+some small opportunities for
+cost gains related to vehicle to
+grip, which grid, which I'll
+talk about in a few minutes.
+So if schools don't get any
+outside funding.
+They could this um proposed
+policy will allow them to get
+that $140,000 which they could
+then use towards the purchase of
+an electric school bus.
+Electric school buses currently
+cost 400,000 excuse me.
+4 $100,000 right?
+That's $260,000 more than a
+diesel school bus for the
+initial layout.
+Um, makes sense, wouldn't cost
+the PED anything extra than
+they're currently allocating and
+that money could be used.
+For districts who do obtain
+funding for at least 50% of the
+cost of the electric school bus
+with the zero emission bus. Um,
+they would be allowed to receive
+from the PED up to.
+$140,000 or the gap. So if they
+get a grant that covers.
+Close to the entire, you know,
+$350,000 but there's a shortfall
+of 50,000 for the bus and then
+another shortfall for the
+electric charging infrastructure
+that's needed, they will be
+allowed from the PED through
+this recommended change to get
+that money from the PED again,
+not more than any other
+district, but up to that amount.
+Next
+And then the last part of this
+recommended policy change is
+that districts would be allowed
+to enter into agreements to use
+their electric school buses as
+energy storage.
+This new technology which is
+called vehicle to grid is
+something that could help in two
+ways. One is it can help.
+Uh, potentially raise money for
+districts to and help
+communities to access
+electricity at much cheaper
+hours, um, if you own an
+electric vehicle, um,
+Many of our utilities offer
+rates that reduce that highly
+reduced rates like.
+In the um late night hours from
+midnight until, you know, 9 a.m.
+when electricity is not used as
+intensively, and yet it's
+available, right? We know that
+on our grid we waste a lot of
+electricity, so they offered
+reduced rates, so districts
+could actually get electricity
+at those rates, and if their
+buses, particularly in the
+summer, are on weekends are not
+being used, and they have
+electricity needs. They could
+actually use their buses to
+storage to power the district
+itself.
+Or
+It could potentially sell that
+energy back to somebody else,
+but particularly in terms of
+powering the district, these
+buses, as you can imagine, they
+got big batteries and they can
+store a fair amount of
+electricity to use both.
+Her daily supply, but also
+especially in the case of
+emergencies, um, as we know our
+neighbor Texas has experienced a
+lot of blackouts, and it could
+be incredibly helpful to a
+district to have emergency
+backup power stored in their
+electric school buses.
+Next, oops, I just love this
+little picture. A day in the
+life of Colorado's electric
+school buses, Colorado has
+invested in enormous amount of
+resources into
+Supporting their districts in
+Purchasing electric school
+buses, and you can see from that
+what happens, right, that.
+7 in the evenings collects from
+the grid, right? Morning the bus
+goes out on its route. I love
+the little happy children.
+And then it's can also store
+excess solar energy if you have
+solar panels.
+Next slide.
+So this slide summarizes a
+handout that I believe um
+Charles gave each of you, which
+is really a much more detailed
+description of the um
+costs and benefits of this
+transition.
+Um, but I want to just highlight
+a few things and, um, you know,
+on the surface it looks like
+electric school buses are a lot
+more expensive because the
+initial purchase price is
+substantially more.
+But when you start going down
+through this, you'll see that
+fuel cost, right?
+Electricity is much, much
+cheaper than diesel, especially
+if you power up.
+With the kind of plans that
+enable you to power up at night,
+which is perfect for school
+buses. So what we do at my
+house, charge at night, drive
+during the day.
+Maintenance costs, there is no
+comparison. Again, I just have
+to speak from personal
+experience.
+I've had my used electric car
+for 2 years and I've never taken
+it into the shop, except for the
+tires, you do still have to,
+right, get the tires filled with
+air and replace them if you get
+a flat tire. There are only in
+a, in a electric car.
+N
+There are only 2 moving parts
+compared to 200.
+And
+Regular
+Gasoline powered cars and you
+can just imagine doing the math
+with the opportunities for break
+things breaking down and the
+required just regular
+maintenance. In addition, the
+degenerative braking systems,
+um, not only produce power,
+right, but they require much,
+much less, excuse me, the
+regenerative, not the
+degenerative, the regenerative
+braking systems, um.
+And uh
+That maintenance costs could be
+$5000 to $100,000 over the 12
+year life of the bus, so it's no
+small amount as you think about
+the maintenance cars, us in your
+own cars. Um,
+There are incentives and grants
+for electric school buses that
+districts are applying for, and
+none for diesel. We have, uh,
+you probably know about, I
+believe, 25.
+Electric school buses that have
+been awarded or already have
+gone through the EPA grant, we
+have the opportunity, many of
+our school districts are
+applying for those grants, we
+hope, you know, New Mexico is
+considered a high priority area
+almost all our school districts.
+And then
+The lifespan question, um, I
+think is one, you know,
+currently gasoline-powered
+buses, they have so many things
+to break down and wear out
+currently only last about 12
+years, some of them need to be
+replaced sooner, and there's a
+possibility the electric school
+buses will last much longer or
+that maybe only their battery
+will need replacement, and I
+have to say every single year.
+Things get better in the
+electric vehicle range. The
+electric vehicle today is vastly
+superior, you know, again that
+Nissan Leaf, you know, used to
+get 70 miles and the first one
+got 50 mile range, now 215, and
+of course they're electric
+vehicles, they get much, much
+greater range. And then, of
+course, how do you estimate the
+costs of environmental and
+health benefits. Um, there's
+actually a study that did.
+And that study estimated that in
+large cities and it's a recent
+study that the cost of reduced
+mortality and emergency and
+healthcare visits due to
+childhood asthma was
+approximately 200 the savings
+was about $200,000 per bus.
+5
+So healthy climate in Mexico
+strongly, strongly supports this
+transition to electric school
+buses and to the electrification
+of all vehicles. It will protect
+the health of children and our
+most vulnerable communities,
+again thinking about where our
+public schools are, where they
+idle, and we know our public
+schools are located in
+communities.
+Filled with some of our most
+vulnerable populations and we
+want to see that.
+To protect our lower income
+communities of color.
+Electric school buses also are a
+climate solution that will
+contribute to reducing climate
+change, which is having so many
+of those health equity impacts
+and reducing air pollutants that
+affect all of our well-being
+that will lead to long-term
+healthcare savings costs,
+improvements of
+Improvements of health and, of
+course, progress towards our
+greenhouse gas reduction
+emission goals.
+Electric school buses can
+contribute to grid resilience
+and we need to be looking at
+making all of our communities
+more resilient to those negative
+impacts of climate change.
+And will also potentially
+increase access to charging
+infrastructure in rural
+communities. We've got schools
+everywhere. And if our schools
+can be a place where people can
+use and in many cases, there are
+also agreements with the
+chargers that are used for um by
+school districts could then be
+made available to the public.
+And then finally electric school
+buses are one of the ways that
+we can move towards a positive
+future that is equitable and
+sustainable.
+The last slide.
+This is part of a larger picture
+of climate solutions and um.
+Electric school buses.
+Having state public health and
+climate programs so we can
+evaluate and understand the
+health impacts.
+Resilience resources, funding
+for our communities so important
+that they can plan and purchase
+some of the resources they need
+to address climate change.
+Health buffer zones.
+We hope not from school
+districts because then they'll
+be electric and we won't need,
+you know, really we should put
+fences around our diesel engines
+as the idle, so nobody stands
+within a quarter mile. That's
+obviously ridiculous, but we
+need health buffer zones around
+our oil and gas producing sites
+and to clean them up to make
+sure that they are as clean as
+possible.
+Of course, we want to do
+everything we can.
+To meet our greenhouse gas.
+Reduction targets emission
+targets, and finally, we need to
+look at occupational heat
+standards to protect our
+teachers.
+Many of whom are really
+suffering in their classrooms.
+Other indoor workers as well as
+outdoor workers and to look at
+all the ways that together we
+can help protect our future.
+Thank you so much.
+Great. Thank you. Next is, um.
+Jeannie Stevens, Global Warming
+Express, and she's online, I
+believe.
+Oh.
+OK, Diana, right,
+whenever you're ready, Diana.
+Hello, can you hear me?
+Can you, um, hear me and see me.
+I can't hear you, but let's see,
+we can't see you yet.
+All right. And that's totally
+fine. If not, um, really
+appreciate the opportunity to
+speak with you all today. Um,
+just a quick question, I'm new,
+um, to this. I am actually based
+in Virginia, um, and I just
+wanted to know, am I, uh, can
+you see my slides? Should I try
+to share my slides, or should I
+just go right into the
+presentation.
+And
+Got it. I see that you're
+getting the slides on now. So
+thank you. I'm, while uh you are
+pulling that up. I'll just thank
+you again for the opportunity to
+speak with you all today. My
+name is Diana Van Vleet. I'm the
+director of Nationwide Cleaner
+Advocacy at the American Lung
+Association.
+Um, and I am joining you from
+Virginia, so I'm not in New
+Mexico, but I really appreciated
+the uh presentations that, um,
+we just heard that we're more
+New Mexico specific. I'll
+specifically be talking about
+the health impacts, um, of
+school buses, diesel burning
+school buses on Children's
+Health today, more broadly,
+which um applies to all
+children, uh, in New Mexico and
+and beyond, um, so thanks for
+pulling up my slides. You can go
+to the next.
+Right.
+And I'm not sure if this will
+work. We have an, uh, a video on
+school buses. I don't know if
+you can try to play that. If
+not, we can just move on to the
+next slide.
+OK, well, tech is always, you
+never know what you're going to
+get. So thanks for trying. Um,
+so just wanted to say, you know,
+bottom line is that millions of
+children are transported by
+school buses, uh, every day to
+and from school. Um, and we know
+that diesel exhaust is harmful,
+especially for children. Um, on,
+on the big picture beyond
+Mexico, uh New Mexico, the vast
+majority of the nation's 490,000
+school buses are diesel powered
+approximately 95%. So we know
+millions of
+children are breathing in diesel
+exhaust, and it's simply not
+acceptable.
+Next slide, please.
+So, you know, as I mentioned,
+diesel exhaust is unhealthy for
+everyone to breathe, but
+children are especially
+vulnerable. Their brains, their
+respiratory systems, their
+cardiovascular systems are still
+growing and developing. And
+there's especially sensitive to
+the toxics, uh, in diesel
+exhaust, um, and studies show
+that exposure to air pollution
+is detrimental to children's
+lung function for the long term
+and also educational attainment.
+Next slide please.
+Um, it's, it's really important
+to note that um the burdens of
+diesel pollution are not equally
+shared. So low income families
+and communities of color are
+more likely to rely on school
+buses to get to and from school.
+Um, and they're all also more
+likely to be exposed to other
+sources of air pollution as
+well. So, um, it's important to
+note that many communities of
+color are already facing greater
+exposure to air pollution,
+including diesel from cars and
+trucks and buses.
+Um, and adding, you know, even
+more to this burden is that many
+communities of color putting
+black and Hispanic communities
+are disproportionately impacted
+by certain health issues like
+asthma um that increase their
+risk of harm from from diesel
+pollution. So not only are they
+breathing more diesel pollution,
+you're more likely to have
+things like asthma that, you
+know, this pollution will
+trigger asthma attacks. Um, so
+it's, it's really, it's an
+environmental justice issue, and
+um,
+Air pollution does discriminate.
+Next slide, please.
+So why electric school buses,
+um, as you've heard from, uh,
+the previous speakers, um,
+electric school buses have no
+tailpipe exhaust, so they don't
+emit air pollution that harms
+children's health. Um, and, uh,
+you know, I won't touch too much
+on the climate piece, but the
+transportation sector is a
+leading source of greenhouse
+gasses, and electric school
+buses have the potential to
+eliminate millions of tons of
+greenhouse gas emissions every
+year.
+Um, I electric school buses can
+also save uh school district's
+money in the long term, as
+you've heard, but many school
+schools rely on unhealthy
+polluting diesel buses because
+the initial cost can be higher,
+um, although, you know, again,
+as you've heard, um, the
+maintenance costs, um, can be
+dramatically reduced with
+electric school buses.
+Next slide please.
+Um, so this was the polling that
+the American Lung Association
+did back in 2021, uh, and we're
+really pleased by our findings.
+Um, we wanted to know what the
+public thought about electric
+school buses, and we were, um,
+very happy to hear, uh, that
+there is strong and broad
+support for this transition to
+electric school buses, and this
+is, you know, across the
+country, we've looked at many
+different states, um, and 72% of
+the respondents um would prefer
+electric.
+buses over diesel in their own
+community. Um, and 70% and 71%
+see school buses
+electrification, school bus
+electrification as key
+investments in infrastructure
+and economy, respectively.
+So this is popular. Uh, thank
+you, next, next slide.
+Um, so just to summarize, um,
+the American Lung Association
+supports the transition to zero
+emission transportation sources
+across the board. Um, and this
+includes electrical buses. I
+think this is a, in a
+particular um uh note and a
+source of passion for us at the
+Lung Association because this
+is, you know, protecting our
+children, uh, uh, what could be
+more important. So this
+transition is, is of the utmost
+important and we support
+Congress allocating funding for
+the electric school buses, um,
+in the bipartisan infrastructure
+law of 2021, um, which created
+the EPA's school bus, clean
+school bus program, and we
+encourage all states, including
+New Mexico to take advantage of
+grants and rebates offered
+through this program.
+Next slide, please. I think
+that's it actually.
+Um, so I will stop there and
+just see if um if there are any
+questions or anything else I can
+elaborate on.
+All right, great. Thank you all
+for your presentations. Um.
+Our first question will come
+from um um Majority Leader
+Casey.
+Thank you, Madam Chair. Thank
+you all very, very much. I
+really appreciate this and
+having um owned a diesel car at
+one time and I, I just can't
+really appreciate that, um,
+you're concerned about the
+fumes, but all you have to do is
+stand next to a bus and
+That's, you know, a typical bus
+or, you know, a semi truck or
+whatever.
+But, um, in the years that I um
+I've worked on the tobacco
+settlement revenue Oversight
+Committee, we've had the
+American Lung Association is.
+Advocates for anti-smoking and,
+and we, we learned so much about
+secondhand smoke, and in fact,
+Over the course of the years
+because I think that committee
+was formed in about 1999.
+And over the years, what we
+learned is that smoking.
+is implicated more in not just a
+respiratory issues, but a lot of
+cancer and you, in the beginning
+we thought it's lung cancer.
+But then it turns out that it um
+affects so many kinds of cancer.
+I, I wanted to say that I think
+the initial investment is
+substantive and so that's
+probably.
+The major uh hurdle to face, I
+wanted to suggest that um
+whoever's working on this, be
+sure to consult um Senator Bobby
+Gonzalez. He's always my expert
+on school buses.
+And he's been in school
+superintendent up in Taos, and
+he
+Has been he's on the finance
+committee in the Senate now and
+so I would just talk to him
+because what, what, what the
+finance committees are going to
+want to know is the return on
+investment.
+And, and they're looking at that
+bottom line. I mean they
+You're making a good argument
+for public health, and that's
+their job is to look at the
+return on investment, but part
+of that.
+Um, with anti-smoking, is
+there's a return on investment
+when you get people to stop
+smoking. You have fewer absentee
+days of your workforce and so
+forth, but I, I would, um,
+I do.
+talked to Senator Gonzalez and
+see how he could help.
+But, um, I, I would look forward
+to the day of not having.
+or any other.
+vehicle
+In such prevalent use.
+Thanks, Madam Chair.
+Thank you. Um, next is.
+Madam Chair. Um, I know several
+of the districts that started
+quickly on picking up on the
+electric buses had long wait
+lists. What is the current wait
+time for buses to be delivered
+or ordered or delivered, do we
+know?
+Charles, that could even be a
+question for you. I don't know.
+members of the committee, yes,
+um, I believe it's it's still
+fairly long because the demand
+has been increasing faster than
+supply of suppliers are catching
+up, so it's still, it's still at
+least 6 months.
+Thank you, because I know a year
+and a half ago, it was
+approximately a year from order
+until they were there. I know a
+number of companies have started
+increasing demand and I saw the
+number 490,000 is what we've got
+to switch over in the next 10 to
+12 years, which is a huge
+impact, but it's gonna be very
+driven by the market and as the
+market is moving towards more
+electric buses, I'm sure the bus
+companies are gonna be switching
+over to where the market is and
+away from, from the D.
+buses, um.
+Madam Chair, I, I really liked
+your comments about the shared
+charging. Um, I know in New
+Mexico and I can't remember the
+name of the district, the small
+district over on the east side
+near Roswell.
+Talk about the pardon Lakearth.
+Um, about the shared charging in
+it where they set up the charger
+and how that's helping the
+community. If someone could
+please.
+Charles, why don't you just grab
+a chair so we can hear you and
+And introduce yourself also.
+Thank you.
+Thank you, Madam Chair, members
+of the committee, great
+questions, Senator Souls, thank
+you for asking. Um.
+Yes, it was Lake Arthur and
+there utility provider which is
+Excel.
+Um
+is actually offered the district
+the same, um.
+Offer to as their.
+Presenting to any entity that
+has a fleet, so commercial
+businesses, whatever that has a
+fleet, which is essentially that
+um if you will, the charger will
+be built into the wall.
+Of their bus barn and so if this
+is the secure area where the bus
+plugs into the charger, there'll
+be a charger on the outside,
+open to the public that the
+public can use and it's uh so
+it's a source of income,
+obviously for Excel, but also
+for the district.
+Just as it would be if there was
+a charger at a gas station.
+tell her
+Thank you. I think that, that
+really helps in building out the
+charging infrastructure in the
+smaller communities as they look
+at putting those in that puts a
+charger in for a very small
+community as.
+Part of the cost as the district
+is transitioning over and so I
+think that's a wonderful model.
+The one of the ways that I
+always, where I look at the
+buses, everybody has a bit of
+sticker shock when they see the
+$470,000 or whatever for a new
+bus.
+But the way to look at it really
+is you're prepaying a whole lot
+of the cost of the energy later
+on by doing that, um.
+The
+Is it appropriate to say that
+the total ROI is better than an
+internal combustion engine when
+you total up all of the things
+of the straight up numbers, not
+just the health benefits. Do
+they about pencil out? I would.
+Be confident in the about
+statement rather than to say
+that they definitely do.
+Yeah, Madam Chair.
+Senator
+members of the committee.
+We, we don't know fully, you
+know, there's a number of
+unknowns, including the lifetime
+of the bus that again with 20
+moving parts compared to 200
+moving parts, um, you know, why
+do we have to replace buses so
+often in 12 years, I know, I, I
+have another car that's a 2008,
+you know, I keep my cars for a
+long time and the longer we can
+use things, that also is a huge
+savings. So if you consider
+potentially longer lifetime, the
+maintenance costs.
+The costs, you know, right now,
+guess, uh, diesel is not that
+expensive, but we've seen diesel
+at 56 could be much greater in
+the future, so you know there's
+a number of unknowns, and if I
+may, Chair.
+Uh, also wanna
+Highlight the potential income
+side for school districts. Aside
+from that little trickle that I
+talked about, um, there are
+districts in the country that
+actually have.
+Um
+There
+Have this arrangement as part of
+the integrated power agreements
+of their utility providers that
+one way that those utility
+providers can meet the peak
+demand.
+Is by Dowley. This is especially
+true during the summer when the
+peak demand issues are the
+hottest or the highest in
+Honest,
+um, and, uh, that this one
+school district outside of San
+Diego out in the desert. They
+have 18 buses.
+Lay down.
+Load the energy at 2 or 30 in
+the morning when it's very
+cheap. And, and then it 5 to 7.
+You know, during that peak time
+period, they upload it back, so
+they're selling it back to the
+utility at a higher cost.
+They're, they're making a
+substantial amount of money.
+And that utility, therefore also
+can find much more secure energy
+flow.
+That interruption.
+Senators to also uh.
+To respond to that.
+Um, I believe that there is data
+on the numbers and we're happy
+to come back to you with that,
+um.
+Um, just from talking to like
+APS superintendent, um, and her
+transportation director talking
+about the, the lower cost of
+maintenance, so I think the
+numbers are there and we're
+happy to come back to you, um.
+With more and Madam Chair,
+Senator Souls just as you
+consider the cost benefit
+analysis and the return on
+investment, I would just really
+encourage all the members who um
+Always include the health
+benefits in the analysis, um, I
+know your question was
+specifically about the finances
+and that's uh well taken.
+Um, but as we move forward, we
+are in a um.
+In an environment where we
+really do have to consider, uh,
+the health benefits as a, as a,
+an actual real bottom line cost
+as well to the community.
+Madam Chair and thank you. I, I
+fully appreciate that, but there
+are a number of people who just
+want to look at what the
+straight numbers, not the, the
+deferred benefits certainly of
+the climate change, uh, the
+reduced greenhouse gas
+requirements, all of and the
+health benefits are huge ones
+that almost double what the ROI,
+they're a bit more difficult to
+specifically quantify as to how
+much did you pay for the energy
+to move the bus 2 miles type of
+things, um.
+One of the other things,
+comments that, that was made.
+And kind of just to highlight it
+is so often, particularly with
+wind energy, we curtail a lot of
+that energy at nighttime where
+essentially we're just dumping
+energy. This provides a
+mechanism for store for
+Um
+For distributed storage which
+benefits the grid stability,
+benefits everyone, and reduces
+the overall cost and so rather
+than dumping electrons in the
+middle of the night when the,
+the wind's blowing and nobody's
+using electricity. It allows us
+a mechanism for storing that,
+which is the same as building
+additional capacity. And so, you
+know, that's a really important
+piece for the broad, uh,
+societal type things, um, kind
+of my last question, what's the
+current range of electric buses
+and I'm thinking specifically of
+some of
+the districts like Gallup and
+also our um activity buses that
+go long distances and along with
+that, what is the charge time on
+the fast chargers for a bus.
+They have a lot bigger batteries
+than cars do, what are the
+charge times?
+Madam Chair, Senator Souls,
+thank you again for that
+question and um since I failed
+to introduce myself earlier to
+the audience. I'm Charles
+Goodmacher, uh.
+You good LLC I uh serve healthy
+climate in New Mexico's policy
+advisor.
+Also work with NMVC Action Fund
+on this. Um,
+He
+Um
+I can tell you, Santa Fe School
+District has had the they are
+now in their 2nd year of having
+buses. They had them early on in
+the process because they had
+some VW settlement funds that
+they used, um, they initially,
+you know, the official range on
+the buses is 120 miles at 100%
+charge.
+Santa Fe was running their 75 to
+85 miles a day.
+This year they
+They realize, of course, because
+during the middle of the day,
+they can.
+do additional charging, you
+know, in between runs.
+So, even though it's 120 miles
+on a charge, that doesn't mean
+it's 120 miles in a day. So
+they're coming back, they're
+charging in the middle of the
+day. They're, they're trying to
+get 140, 150, they're longer
+routes.
+Because every mile driven by an
+electric bus versus a diesel
+saves them more money.
+So, and they're, they've been
+doing that this year. Exactly
+how long it takes, I can't tell
+you, but I can tell you they can
+sufficiently charge after a
+morning run, also make sure that
+they can.
+Be fined for an afternoon long
+run as well.
+And I can get back to you with
+the exact information later.
+Thank you. And, and some I'm
+thinking about the, the activity
+buses that have to go from Las
+Cruces to Albuquerque or other
+places in the state. Are there
+buses that have that level of
+range or if they stop for a meal
+in Socorro, can they top off
+with uh enough power to get them
+the rest of the way in the 45
+minutes they're stopped for the
+meal.
+Um, sorry, uh,
+We
+are not aware that any of the
+electric buses are currently
+being used for activity buses.
+Uh, we're not saying that the
+state and the states.
+The amount of chargers in the
+state and the state of the
+technology, etc. are sufficient
+for for full run, but um,
+Uh
+See a figure that says
+potentially up to 200 something
+miles up, maybe up to 300 miles
+in a day, depending on how much
+recharging they do.
+Um, Madam Chair and senator, I,
+I just looked it up, you know,
+Google, and um.
+There are buses, uh, there are
+different classes, they get up
+to 300 miles in their range or
+up to 200 miles, um, in the
+beginning, 4 years ago, the
+earlier buses, it was, you know,
+they promised at least 100. We
+also know that it greatly
+depends upon driving conditions,
+I will say that, uh, during the
+winter is different than during
+the summer, these are all, you
+know.
+As again, if any of you do this
+transition, and I encourage all
+of you to consider it.
+It take, there's an adjustment.
+And a learning curve and of
+course, we're not replacing our
+fleet overnight, our districts
+are learning and learning from
+each other, um, and are charging
+infrastructure as well as
+batteries are going to continue
+to improve every year. So, um,
+you have to stop for gasoline.
+You know, you can actually stop
+for a charge.
+However, I think districts are
+starting with known routes that
+Make sure that they are, you
+know, keeping children safe and
+uh learning learning what's
+possible and then as Strauss,
+they're innovating.
+Because again, school buses by
+and large don't run all the
+time, so there's that
+opportunity.
+out.
+Thank you, Madam Chair. Yeah,
+and I very much appreciate the
+presentation and hope that we
+have districts continue to look
+at this, and it is going to
+take, I think 6 months or more
+after you decide pull the the or
+not pull the plug I pull, you
+know, get, start the process
+before your bus is gonna show
+up. And so, uh, districts need
+to get started on that now. I
+mean, there are some confessions
+earlier. I used to drive a
+diesel Jetta. However, uh, for
+the last 10 years, I drove it
+almost exclusively on homemade
+biofuel and so it smelled like
+french fries, not like.
+These sort
+Thank you, Madam Chair.
+Thank you, Senator. I looked it
+up a 1 to 2 hours at 80% on a DC
+charger, fast charger, longer
+take to charge a school bus.
+All right, um, next.
+Represented
+and Arnu.
+Thank you, Madam Chair. Um, my
+question isn't electric bus
+specific, um, it is for, um,
+Miss Manlev, so looking at your
+handout, I just had a question.
+You mentioned that.
+Two counties, the most populous
+counties in the state,
+Bernalillo and Donana both got F
+ratings for particulate in the
+air, and that makes sense given
+the density of population, level
+of pollution, but then I was
+looking at
+Slide 6.
+And
+Banana makes sense on slide 6
+for having like a high rate of
+vulnerability, but Bernnalio
+says it's low medium. I was just
+wondering if you could explain
+that.
+Not discrepancy, but
+How the vulnerability transfers
+from
+Ah
+Madam Chair and Representative
+uh social vulnerability is
+measured on a variety of
+factors, everything from
+housing, the number of set of
+unhouse people, income,
+educational attainment, and
+those areas, social vulnerably
+compared to places like.
+Kinley County and some of the
+areas with the highest social
+vulnerability.
+do a little better, you know,
+our state is not monolithic and
+we have more economic
+opportunity.
+And
+Health opportunity in some of
+the areas, so that, that's
+accounts for the difference that
+Berna Leo, I think, you know,
+has more, more wealth.
+Um, in some communities,
+obviously there are other
+communities.
+family.
+But it's
+Thank you for that answer, Madam
+Chair, so it's, there are myriad
+factors, not just pollution or
+particulate, it's about income
+and availability for social
+programs.
+Um
+Madam Chair and representative
+social vulnerability is, is
+Much broader. It's not all at
+all just in fact, there is not
+currently.
+and the social vulnerability
+index, a measure of like level
+of air quality.
+So it does not include that this
+is a multiplier, so if you have
+again.
+All the things that impact
+health, and that's really what
+we've been looking at in terms
+of social.
+Poverty, housing, education
+level, etc. um.
+That, uh, existing level of
+health conditions, that's what's
+reflected. Thank you, thank you,
+Madam Chair and thank you again
+for that additional answer. I
+think it would be interesting to
+see how.
+Things like air quality would
+affect.
+Vulnerability ratings, I would
+think that would be.
+A variable to consider. Anyway,
+thank you very much.
+Thank you, Representative Nix.
+Representative Townsend.
+Yes, thank you, Madam Chair. Um,
+Mentioned
+There were 20,000 school buses
+into Mexico. Is that correct?
+Seems high, but
+Sorry, it's, it's 2000
+I.
+I thought we got problems, but
+OK.
+Um
+But even at 2000, that's um
+260.
+a pop, that's uh
+5 $600 million.
+number
+Do you have, you mentioned about
+grants, are there grants that
+are available and can you
+describe those, please?
+Yes, Madam Chair, um,
+Representative Townsend.
+Um
+And just on the number, just to
+give perspective, there are, you
+know, 2000 statewide, but just
+for example, in Albuquerque
+Public School District, there
+are 350.
+So you can imagine the other
+smaller districts have.
+You know, you are.
+Um
+To your question, there are
+grants available from the EPA.
+Um, currently, they have been
+opening various grant programs
+over the past few years and then
+closing them, you know, to, to
+deal with the the distribution,
+and there's currently a grant
+program open, Madam Chair, um.
+And
+Districts are being contacted
+by, uh, my organization and
+various, um, folks in throughout
+New Mexico, um, contacting the
+superintendents, making sure
+they know about the grant
+program and uh encouraging them
+to apply.
+And they can apply, um, all the
+way through January 9th, I
+believe. So now is the time for
+all school districts to really
+be paying attention to that. And
+Madam Chair, Representative
+Townsend, there's, um, some
+additional resources being
+provided by the EPA this time,
+including, um, uh,
+Direct resources for fleet
+managers, for transportation
+directors, for school, um,
+management and leaders, um, to
+really plug into.
+Like into the uh the grant
+program and all of the
+opportunities and resources that
+are available. So um we uh
+really encourage all school
+districts to be doing that, and
+we've heard from
+Um, APS they're on board, you
+know, applying for more, even
+though they're.
+They've been awarded 20 already,
+but out of the 350 fleet, they,
+you know, they want to apply for
+more if they can.
+Um, and the EPA has prioritized
+certain districts.
+Um, as my colleague here
+mentioned most districts in New
+Mexico got onto that priority
+list and so really there are
+very few, um, that are not on
+the priority list.
+And even so, uh, districts can
+still apply even though if
+they're not on the priority
+list. It's just that they won't
+be prioritized.
+Um
+So
+Yep.
+Go ahead.
+Quick, do you have an amount? I
+know it used to be 250,000 for
+the first round, right? Do we
+have an amount for
+Pass round, Madam Chair, members
+of the committee, I don't have
+that number right in front of
+me. Oh, the EPA clean school bus
+grant, um.
+Has provided close to 350,000. I
+mean, it, so it's, it's left us
+with that situation that the
+bill was designed to address
+about the gap money where it
+doesn't quite provide enough
+that the bill would specify the
+PED could.
+Instead of using the diesel
+replacement money.
+Make up that gap.
+So if, so districts get, they
+get that EPA grant, um, it's
+almost all paid for, um, but
+there's, there's also another
+federal benefit available to
+every school district that
+Shelly is ready to talk to you
+about.
+Yes, so, um, there's also a
+what's called the federal tax
+credit for up to $40,000 per
+delivered electric school bus.
+It is, there's an option for
+direct pay, so it's not, you
+know, school districts don't pay
+taxes the way.
+We do. So they're able to get a
+$40,000 direct pay for delivered
+electric school bus, and then
+there's also an alternative fuel
+vehicle refueling property
+credit that um allows school
+districts to claim up to 30% of
+the electric infrastructure
+charging costs. So again, as we
+talked in the policy
+recommendation.
+Up to 30% of the costs can be
+covered through that an
+additional $40,000 or if the
+district doesn't have a grant at
+all,
+still a direct pay of $40,000
+and that, you know, starts to
+make the math work a little
+better.
+And Madam Chair, members of the
+committee, um, I just looked it
+up on our resources page and um.
+School districts can apply to
+receive.
+Uh, $345,000 towards the cost of
+a new bus.
+And charging infrastructure for
+prioritized districts.
+Or 200,000 toward the cost
+differential between diesel bus
+and electric bus for
+non-prioritized.
+So there's different amounts,
+um, and school districts can
+apply for up to 25 new electric
+less.
+At a time. Thank you, ma'am, one
+other question.
+Recently, in New Mexico, there
+have been the discoveries of
+Large deposits of lithium.
+Are you going to help expedite
+the permits for those mining
+operations for those lithium
+facilities.
+Oh
+I'm not quite sure how to answer
+us personally or as
+organizations. I'm sorry, Madam
+Chair, but you're, you're here
+talking about wanting to expand
+the use of lithium.
+And I'm telling you that they
+have it here in New Mexico and
+it's a great enterprise and
+developing the need, or you also
+gonna develop the mining
+operation.
+But
+I
+It's not, not an issue that our
+organization has considered, so
+there's not, I can't officially
+reply for the organization. I
+would say personally would.
+I, I would want to understand
+better what all might be
+involved in the specifics
+specific.
+And that that kind of Charles is
+exactly my point.
+There's not hardly anything,
+madam chair, that we do.
+Or that we propose as a
+legislature that doesn't affect
+something.
+And developing a lithium.
+Market.
+will increase
+The market
+Demand for lithium.
+And we have it in New Mexico. In
+fact, I think they've found two.
+Huge deposits of lithium.
+And I know based on what I
+think I know
+That mining operations may not
+be your gig, and then you might
+not think that's the right thing
+to do, but somebody's got to do
+it.
+And I don't think we want to be
+a knot in my backyard state.
+If we're, if we're going to
+promote
+The use
+He shouldn't be putting the
+burden on
+Um, a child or a family or
+someplace, someplace else, and
+that's my point. So I would just
+ask you to think about that and
+be prepared for that question
+because I promise you, you're
+gonna hear it again.
+Thank you. Thank you, uh,
+Representative Nix is
+Representative Garrett.
+Thank you. Amen.
+And um actually representative
+Townsend brings a point that I
+think we're all aware of all of
+what we do relates to
+everything.
+But there's lithium mining and
+our presenters pointed out that
+reducing carbon pollution, this
+is one little piece. I do want
+to thank you for the picture of
+LA. I grew up.
+County, when we had smog alerts.
+There are no longer smog alerts,
+and I think in New Mexico.
+We often think about our
+pristine skies, but our
+children.
+Christine sizes and hair. So
+thank you for including that
+picture. This thing I wanna say
+is um electric school buses are
+quieter, so from an
+environmental viewpoint from our
+children that do travel every
+single day, short and long
+distances.
+That improvement allows
+conversations, learning,
+discussion, and it's, it's that
+little tiny environmental impact
+on the lives of our kids. I've
+been on school buses all over
+the state, mostly as a
+legislator actually, in our
+tours.
+And um, and with kids as a
+teacher who recently retired,
+so.
+I think it's important to
+remember that.
+Um
+So I want to thank and and
+again, um, Madam Chair, some of
+us sit on the legislative
+education Study Committee
+of education.
+Uh, legislative finance
+committee, so these issues, uh,
+our, our chairwoman very
+poignantly said at another
+meeting a couple weeks ago.
+Um, are we more about just
+making money or are we about
+health?
+And so I know many of us here
+are committed to getting this
+done, and there's all the
+legitimate legitimate distance
+questions, we're not saying
+every bus.
+gonna be an electric bus.
+Especially we can't.
+Um through 2000 buses.
+But um
+This
+this policy
+In the 2, what is it? 2 years
+we've been talking about it
+deeply. It has to advance. So
+thank you for
+Bringing it here today.
+Thank you, Representative. Um, I
+just want to say, um, you know,
+it's been about a year and a
+half since we started this, I
+believe, Charles, Charles
+invited Senator Soul and I to
+meet with the Las Cruces people,
+and they introduced us to this
+and um I just um have watched
+Charles work so hard on this. I
+feel guilty as hard as you've
+worked compared to what I've
+done or but um thank you for all
+your hard work on this, uh.
+Without you pushing and um.
+First, getting us into this.
+Pushing and pushing.
+pushing. You've been great and
+I, I just would appreciate you
+for all you've done to get this
+going and I, I, I feel good
+about this this year, so much
+better. So, um, I really, I was
+gonna say pretty much what uh
+represent Garrett. I didn't
+write was, um, I didn't have to
+write a school bus growing up
+and um, but as a teacher.
+I loved going on field trips,
+but I dreaded the ride on the
+school bus. Getting there was
+the painful part, um, but I did
+write on a uh one of the
+electric school buses and it was
+wonderful and um we could talk
+and and like you said, when kids
+get to school, they will be so
+much calmer because it's such a
+different atmosphere, um, so I'm
+hoping this bill gets through.
+We'll be working hard on it this
+year, along with Charles and all

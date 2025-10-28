@@ -1,0 +1,2682 @@
+Thank you, Madam Chair,
+committee members, as the chair
+indicated, my name is Megan
+Dorsey. I am a consultant for
+CCJ.
+It is. Is that better?
+Thank you. Let me know if I need
+to speak more loudly.
+Um, I'll be presenting today on
+the United States Supreme Court
+opinion of City of Grant's Pass,
+Oregon versus Johnson.
+And this is a complex opinion
+that including the concurrences
+and dissents is 75 pages long,
+which I'm going to try to
+distill into succinct points in
+a way that is interesting and
+relevant to the work that this
+committee is intending to do,
+uh, but please feel free to
+interrupt me if you have
+questions as they come up.
+So first I'm gonna start with a
+bit of a factual summary about
+what happened in this case in
+detail the procedural history
+that led the case to appear
+before the United States Supreme
+Court.
+Um, first, we're talking about a
+city in Oregon, Grants Pass,
+which had at the time that this
+action originated approximately
+a population of 38,000 people,
+an estimated 600 of whom were
+experiencing uh inadequate
+shelter on a daily basis.
+In response to that situation,
+the city passed 3 ordinances,
+uh, attempting to address the
+issue.
+And as you may see, if you
+choose to read the opinions, the
+majority and the dissent
+disagree as to the intent behind
+these ordinances, but honestly
+for the analysis of the opinion,
+it's not hugely relevant.
+Either way, the three ordinances
+prohibited sleeping on public
+sideways, streets, and
+alleyways, camping on public
+property and camping and
+overnight parking in the city's
+parks.
+Uh, essentially, when considered
+as a whole and taking into
+consideration the definitions
+that were also included in organ
+statutes. These laws made it in
+uh unlawful for a person to
+sleep anywhere in public,
+including in their own car at
+any time as if they also had uh
+something with them that was
+used to protect them from the
+elements such as a blanket.
+The ordinances had escalating
+penalties for a first violation,
+an individual would be subject
+to a fine which could start at
+$295 and increased to $537 if
+unpaid.
+Subsequent violations could
+result in a bar, meaning that
+the individual would not be
+allowed in any city park for
+approximate up to 30 days.
+And if an individual were to
+violate a ban order, then they
+could be charged with criminal
+criminal trespass, which an
+organ is a misdemeanor
+punishable by 30 days in custody
+and a $1250 fine.
+Now, after organ uh grants
+passed, excuse me, passed those
+ordinances to, well, several
+individuals at issue here,
+Gloria Johnson and John Logan
+decided to file a lawsuit.
+Both of them were without
+adequate housing, they tended to
+live and sleep in their car, and
+we're concerned that given the
+way that they had to reside in
+Oregon, that they were going to
+be subject to criminal
+punishment for unlawful camping.
+And so they, with others filed a
+class action lawsuit in the
+district court.
+The district court in Oregon uh
+certified the class action and
+granted summary judgment against
+the city, or non-lawyers, that
+means they said that um Johnson
+and Logan won, but the city was
+incorrect and could not enforce
+the ordinances at issue.
+And they did so under the 8th
+Amendment. Essentially, the
+district court relied on a
+binding precedent of Martin,
+which we'll talk about later,
+but basically the, the district
+court found that Grant's past
+had far more homeless people
+than practically available
+shelter beds, uh, essentially
+they had zero emergency shelter
+beds, and the only beds
+available had limitations upon
+them, um, including religious
+limitations that made them not
+available for many of the city.
+People experiencing
+homelessness.
+The district court found that
+the under the ordinance is the
+only way for people without
+housing to legally sleep on
+public property within the city
+was if they were to lay on the
+ground with only the clothing on
+their backs without any items
+near them, and that seems like
+an unfair and unconstitutional
+restriction upon these people
+who had no other choice.
+And so, the district court found
+that everyone without shelter in
+Grant's Pass was involuntarily
+homeless. That was the legal
+standard that they were relying
+upon whether or not they were
+involuntarily homeless, and that
+was because the city's homeless
+population outnumbered the
+available beds.
+Interestingly, uh, this
+Decision was more narrow than
+most people seem to understand
+and more narrow than the
+majority opinion, uh,
+Described, the district court
+said that although the city
+could not enforce those
+ordinances, they could still uh
+legally and constitutionally
+implement time and place
+restrictions or when people
+without housing could use their
+belongings to be warm and dry,
+and when those things they need
+to be packed up and put away.
+The city could ban the use of
+tents in public parks.
+And it could continue to enforce
+laws that would actually further
+public health and safety, such
+as laws restricting littering,
+public urination or defecation.
+Obstruction of roadways,
+possession or distribution of
+illicit substances, harassment,
+or violence.
+Um, despite the narrowly
+tailored injunction, the city
+decided to appeal the district
+court's opinion, and the case
+was brought before the Ninth
+Circuit, which affirmed in all
+relevant parts. The circuit
+majority found that all
+unsheltered people in Grants
+Pass were involuntarily
+homeless, because again, as
+found below, that there were not
+enough shelter beds to
+adequately house all of the
+people in question.
+Another little piece of this
+that I think is important for
+your analysis in ways in which
+this may apply to laws you
+consider in future.
+That uh the only class member
+who had standing to challenge
+the sleeping provision of the of
+the ordinance passed away during
+litigation. And so the Ninth
+Circuit remanded that particular
+argument to the district court
+to try to find a substitute
+class member to maintain
+standing.
+So for non-lawyers, what that
+means is every uh challenge has
+to be premised upon a person who
+has a right to make an objection
+to that issue, and in this case,
+the only person that had filed
+suit on the sleeping issue had
+passed away, and so that issue
+was never brought before the
+Supreme Court.
+Based upon the Ninth Circuit's
+affirmation, the city again
+appealed. Many others joined in
+the appeal, a lot of briefing
+was filed on both sides of the
+issues and ultimately the United
+States Supreme Court issued
+their opinion on June 28th of
+2024. And so the rest of my
+presentation will describe for
+you um the different analysis
+between the majority and the
+dissent, as well as the impact
+this may have on the future.
+So, first, we need to identify
+what issue the court was facing
+and not surprisingly, the
+majority and the dissent phrased
+the issue very differently. Um,
+and these are quotes directly
+from the majority opinion and
+from the dissent, but the
+majority said that the only
+question we face is whether one
+specific provision of the
+Constitution. The cruel and
+unusual punishments clause of
+the Eighth Amendment prohibits
+the enforcement of public
+camping laws.
+While the dissent said, the only
+question for the court today is
+whether the Constitution permits
+punishing homeless people with
+no access to shelter, or
+sleeping in public with as
+little as a blanket to keep
+warm.
+And so with that framing of the
+issue we'll turn to the the law
+that the part or that the
+justices relied upon in deciding
+this case.
+As you, I'm sure are aware, the
+Constitution imposes limits on
+what governments may declare to
+be criminal and how criminal
+laws may be enforced and what
+punishments are available after
+enforcement or as part of
+enforcement.
+Uh, the First Amendment.
+For tax uh prohibits the
+government from using criminal
+laws to abridge the right to
+speak, worship, and assemble.
+Equal protection clause prevents
+governments from adopting laws
+that individually discriminate
+between persons, due process
+clauses of the 5th and 14th
+Amendments ensure that officials
+may not displace certain rules
+associated with criminal
+liability, so that old and
+vulnerable, so rooted
+traditions.
+Long story short, they can't
+take away due process rights
+from people in criminal
+litigation.
+The 5th and 6th Amendments
+provide for other um rights for
+people to avoid prosecution, and
+finally, the Eighth Amendment
+prohibition against cruel and
+unusual punishments was the
+focus of this particular case.
+And the reason I list out some
+of those other protections
+available under the Federal
+Constitution is because
+Those were not reached in this
+case. This entire opinion was
+only decided under the Eighth
+Amendment, which means that
+these ordinances and similarly
+situated ordinances may still be
+subject to attack under these
+other provisions.
+Um, however, in, in the majority
+opinion here,
+The majority held that cruel and
+unusual punishments clause
+focuses the question on what
+method or kind of punishment
+government may impose after a
+criminal conviction on the
+question of whether a government
+may criminalize a particular
+behavior in the first place, or
+how it may go about securing a
+conviction for that offense.
+Basically, excuse me, basically
+what the majority held is that
+the 8th Amendment, this
+particular section of the Eighth
+Amendment is supposed to be
+about um specifically what
+Whether a government may may
+impose a specific um punishment
+after a conviction, not what the
+government can criminalize in
+the first place.
+Interestingly, the decent
+disagrees with that analysis of
+the Eighth Amendment.
+Uh, the dissent found that the
+prohibitions under the Eighth
+Amendment are not limited to
+medieval tortures. Instead, the
+Eighth Amendment places
+limitations on the powers of
+those entrusted with the
+criminal law functions of the
+government.
+Specifically, the descent found
+that the 8th Amendment
+circumscribes the criminal
+process in three ways. It limits
+the types of punishment that can
+be imposed for convicted crimes,
+prescribes punishment grossly
+disproportionate
+disproportionate to the severity
+of the crime and imposes
+substantive limits on what may
+be made criminal and punished as
+such.
+So again, that that differing
+perspective on exactly what the
+Eighth Amendment does is
+critical in a way that the
+majority decided and the way
+that its dissented.
+Uh, another critical, there's 3
+critical presidential cases in
+this opinion that the court
+relied upon to varying degrees.
+So I'm gonna go through them as
+quickly as I can because they're
+really relevant to understanding
+the the broader impact of the
+city of Grants Pass.
+Uh, the first case is Martin v.
+Boise. Uh, in that case, the
+city of Boise, Idaho, made a
+camping ordinance that made it a
+misdemeanor to use street
+sidewalks, parks, or public
+places for camping, and the
+court, uh,
+Under the Eighth Amendment
+analyzed whether that type of
+ordinance was constitutional.
+And in that case, in Boise, in
+Martin B. Boise, the, the court
+found yes, that the Eighth
+Amendment's cruel and unusual
+clause prohibits the imposition
+of criminal penalties for
+sitting, sleeping, or lying
+outside on public property or
+homeless individuals who cannot
+obtain shelter specifically.
+The court concluded essentially
+that as long as there's no other
+option for sleeping indoors, the
+government cannot criminalize
+indigent homeless people for
+sleeping outdoors on public
+property.
+And that access to alternative
+shelter was legally lacking
+whenever there is a greater
+number of homeless individuals
+and the number of practically
+available shelter beds, and this
+practically available shelter
+beds is very important. Uh,
+basically it means that beds are
+not practically available, even
+if the bed is open, if it is
+limited by a type of rule, such
+as, um, it's only available for
+individuals who don't smoke or
+who agree to attend religious.
+Proceedings.
+Now, uh, another case that was
+critical for the court's
+reasoning in City of Grants was
+Robinson v. California.
+In that case, Mr. Robertson was
+convicted under a California
+statute for being addicted to
+the use of narcotics, and he
+faced a mandatory mandatory 90
+day jail sentence.
+The court considered whether the
+Constitution prohibited
+criminalization of the status of
+being addicted to drugs and held
+that the cruel and unusual
+punishments provision of the
+Eighth Amendment.
+Prohibited California from
+enforcing that law, essentially,
+it is unconstitutional to
+criminalize a status of being
+addicted to narcotics, and in so
+reasoning the court recognized
+that imprisonment for 90 days is
+not in the abstract, cruel and
+unusual punishment, but
+When, especially because there
+are many crimes for which a
+similar penalty is available,
+uh, but in this case, the court
+reasoned that when punishing
+status, even one day and says
+prison or jail would be cruel
+and unusual.
+Now, um, this, in this
+particular case was kind of the
+linchpin for the for the opinion
+in City v. Grant. So before I
+move on to the next president,
+I'm just going to give you a
+little bit of a take of the
+majority versus the dissent on
+this particular piece of
+precedent.
+The majority, when considering
+Robinson in light of Grant's
+past facts, distinguished
+Robinson, meaning they said
+France passes is not like
+Robinson.
+They found that public camping
+ordinances like those before us,
+like those in Grants Pass are
+nothing like the law at issue in
+Robinson.
+Rather than criminalize mere
+status, Grant's past forbids
+actions, like occupying a
+campsite on public property for
+the purpose of maintaining a
+temporary place to live.
+So the court in City of Grants
+Pass, said the grants passed
+grants pass ordinances do not
+violate Robinson because they do
+not criminalize status alone.
+The dissent disagreed.
+And said that in fact, Robinson
+is controlling and should
+squarely resolve this case.
+Um, and quoting from the
+dissent, they said, indeed, the
+majority seems to agree that an
+ordinance that fined and jailed
+homeless people would be
+unconstitutional.
+Um,
+However, they incorrectly apply
+Robinson.
+First, no one contest the power
+of local governments to address
+homelessness. Second, the
+majority overstates the line
+drawing problems that this case
+presents. Third, straightforward
+application of Robinson does not
+conflict with Powell, which
+we'll talk about later. And
+finally, the majority draws the
+wrong message from the various
+amici requesting this Court's
+guidance.
+some other wonderful quotes from
+the dissent's opinion there, but
+essentially, the point was that
+the dissent believed that the
+ordinances in the city of Grants
+did in fact criminalize status
+because they were geared towards
+people experiencing
+homelessness. Again, I'll get
+into the nuance of that a little
+bit more at the moment.
+But the 3 critical presidential
+case um that both the majority
+and dissent argued about was
+Powell v. Texas.
+In that case, a defendant was
+convicted under a Texas statute
+making it a crime to get drunk
+or be found in a state of
+intoxication in any public
+place.
+The defendant in that case, Mr.
+Powell, appealed his conviction
+and argued that the conduct of
+conviction, i.e. being drunk in
+public, was an involuntary
+byproduct of his status as an
+alcoholic.
+And the court considered, did
+the Texas statute
+unconstitutionally criminalized
+status under Robinson.
+And held that states shall not
+enforce laws that criminalize a
+mere status, but states maintain
+authority to secure a conviction
+when the accused has committed
+some act society has interest in
+preventing, whether defendants
+act might be described as
+involuntary or occasioned by a
+particular status.
+That is how the majority court
+in City of Grants Pass
+characterized the opinion or the
+holding in Powell.
+Um, and in interpreting Powell
+that way, the majority found
+that grant's pass is like Powell
+and should be decided like
+Powell was decided.
+Specifically that the 8th
+Amendment does not allow an
+expansion of Robinson sufficient
+to cover the intrusion into
+substantive law, and that was
+what
+The majority saw the people in
+City of Grants Pass attempting
+to do it, attempting to do.
+Uh, the majority also found
+You know reasoning that was
+somewhat reliant upon Powell,
+that adopting a standard
+prohibiting criminalization of
+involuntary acts would be
+challenging because courts would
+be required to determine when
+something is involuntary.
+Even though that is a standard
+that is very commonly used in a
+variety of capacities in our
+court systems, both federal and
+state.
+The majority in Grant's Pass
+also found that it would be hard
+for a jurisdiction to keep
+accurate counts of available
+beds and individuals without
+adequate shelter, and it would
+be hard to define what
+practically available means when
+those those things are standard
+um task that governments are
+assigned to do and the
+definition of practically
+available was made very clear in
+Robinson.
+Uh, finally, the majority argued
+that many people will refuse to
+use shelters if they are allowed
+to sleep in public.
+Which indicates again, perhaps
+in Grant's past, the the
+Nature of the adequate
+inadequate shelters that were
+available if people were more
+willing to sleep outside in the
+elements than to utilize those
+services that were available.
+Now, the descent takes a very
+different take on Powell, and in
+fact, termed it a straw man, uh,
+in, in tech in legal terms, the
+dissent distinguishes Powell.
+The dissent said that the court
+in Powell uh
+It seems to me that the dissent
+was implying that the majority
+misstated the ruling in Powell,
+and I'm trying to say that
+delicately in the same way that
+lawyers would, but I think that
+the the exact language from the
+descent is important.
+The language from the dissent
+says that the court in Powell
+considered the distinction
+between status and conduct, but
+could not agree on a controlling
+rationale. The four justices
+concluded that Robinson covered
+any condition the defendant is
+powerless to change.
+And 4 justices rejected that
+view.
+Justice White, who cast the
+fifth vote, the deciding vote,
+left the question open because
+the defendant had made no
+showing that he was unable to
+stay off the street in the night
+in question.
+Even Justice Marshall's
+plurality opinion in Powell
+agreed that Robinson prohibited
+enforcing laws that criminalize
+mere status. And so the Powell
+court considered a statute that
+criminalized voluntary conduct,
+getting drunk, that could be
+rendered involuntary by status,
+alcoholism.
+So, to put a finer take on that.
+The majority is saying,
+That Powell made a very clear
+rule that you cannot do this
+thing that Grant's past is
+trying to do, and the dissent is
+saying that is not what happens
+in Powell. They did not provide
+a controlling rationale that the
+majority agreed upon.
+Now,
+Uh, a little bit more clear
+information about what the
+majority held in City of Grants
+based upon all of this
+precedents and their
+interpretation of that
+precedent.
+The majority opinion was written
+by Justice Gorsuch, who was
+joined by Roberts, Thomas Alito,
+Kavanaugh, and Barrett.
+Um, and essentially they found
+that the city's ordinances were
+not cruel because they were not
+designed to cause terror, pain
+or disgrace, and that they were
+not unusual because similar
+punishments have been used in
+other cases, um, as I referenced
+earlier.
+Uh, Justice Thomas did file a
+concurrence to the majority
+holding and held uh which just
+added some dicta meaning some
+thoughts about what the court
+might do in the future,
+essentially, Justice Thomas
+found that Robinson was wrongly
+decided and that with the
+appropriate case, the court
+should consider overturning it,
+but did clarify.
+That this opinion, the city of
+Grants Pass, does not require
+reconsideration of Robinson,
+which remains binding precedent,
+remains controlling law.
+Justice Thomas also mentioned
+that the opinion did not reach
+the civil fine and park
+exclusion provisions of the
+ordinances as because he
+believes that those are outside
+the scope of the Eighth
+Amendment.
+Um, the dissent.
+Obviously disagrees with exactly
+what that holding is, um, and I
+think that some of the reasoning
+behind the dissent is relevant
+to the conversations that this
+committee has been having.
+Uh, so, the dissent said, and,
+and I quote,
+Sleep is a biological necessity,
+not a crime. For some people,
+sleeping outside is their only
+option. The city of Grants Pass,
+jails and fines those people for
+sleeping anywhere in public at
+any time, including in their
+cars, if they use as little as a
+blanket to keep warm or a rolled
+up shirt as a pillow for people
+with no access to shelter that
+punishes them for being
+homeless. That is unconscionable
+and unconstitutional.
+Unconstitutional, punishing
+people for their status is cruel
+and unusual under the Eighth
+Amendment. C. Robinson.
+The dissent held that it's
+possible to acknowledge and
+balance the issues facing local
+governments and the humanity and
+dignity of people without
+adequate housing, while still
+maintaining constitutionality
+and found that instead of
+choosing to engage in that
+balancing act, the majority
+focused almost exclusively on
+the needs of local governments
+and leaves the most vulnerable
+in our society with an
+impossible choice, quote, either
+stay awake or be arrested.
+Um, there are interestingly
+enough, since I have heard this
+committee mention time and time
+again an interest in evidence,
+data, and real life examples.
+The descent is full of real life
+examples of the ways in which
+ordinances like that have been
+utilized to um
+Results in really negative
+impacts, and I encourage you to
+take a look at those in more
+detail if you're interested.
+Um, one which I do want to draw
+the court or excuse me, the
+committee's attention to is
+found on the dissent page 7, in
+which there was a Nashville man
+who experienced homelessness for
+nearly 20 years. When an at work
+reacher tried to help him secure
+housing, the worker had
+difficulty finding him for his
+appointments because he was
+frequently arrested for being
+homeless. He was arrested 1098
+times and had 250 charge
+citations all for petty
+offenses.
+The outreach worker made him a
+t-shirt that read, Please do not
+arrest me.
+May out outreach worker is
+working on my housing.
+Once the worker was able to
+secure him stable housing, he
+had no further encountings with
+the police, no citations, and no
+arrests.
+And I think, again, that is one
+example where we see the real
+underlying problem here is
+access to secure housing.
+There was a concurrence to the
+scent.
+Concurrence to the dissent that
+was filed by Justice Douglas,
+who said this Court too has a
+role to play in faithfully
+enforcing the Constitution to
+prohibit.
+Punishing the very existence of
+those without shelter or remain
+hopeful that someday in the near
+future this court will play its
+role in safeguarding
+constitutional liberties for the
+most vulnerable among us.
+Because the court today
+abdicates that role
+irrespectfully dissent.
+Uh, now, it is important to
+recognize that although this
+opinion was a landmark opinion
+that drastically changed the
+legal view on this issue. There
+are still legal issues that
+remain in this area, um, as you
+can see both confirmed by the
+majority and the dissent, as
+well as the related
+concurrences. This issue was
+decided squarely under the
+Eighth Amendment, um, and there,
+and as we know, in New Mexico,
+the state affords greater
+protections under the.
+State constitution than it does
+under the federal Constitution.
+In addition to that, the Supreme
+Court did not reach issue issues
+of under the First Amendment or
+under due process, which remain
+available.
+To uh parties who object to
+these types of.
+Laws
+Um, and
+Sorry, I just want to find, oh,
+both the majority and the
+dissent made clear, stated
+Verbatim, nothing in today's
+decision prevents states, cities
+and counties from going a step
+further and declining to
+criminalize public camping
+altogether.
+Indeed, although the majority
+describes Martin as adopting an
+unworkable rule, the elected
+representatives in Oregon
+codified that very rule after
+this litigation occurred.
+In 2021, Oregon passed a law
+that constrains the abilities of
+municipalities to punish
+homeless residents for public.
+For for for public sleeping.
+Um, and the law was meant to
+ensure that individuals
+experiencing homelessness are
+protected from fines or arrests
+for sleeping or camping on
+public property when there are
+no other options. In addition,
+both the majority and the
+dissent drew um the public's
+attention to alternative
+measures to these types of laws,
+and indicated that a variety of
+jurisdictions have tried to
+combat inadequate housing by
+expanding shelter and affordable
+housing opportunities, investing
+in mental health and substance
+abuse treatment.
+programs developing outreach
+programs to improve relations
+between governments and those
+they serve and enact legal
+restrictions that limit or
+restrict encampments.
+Or other conduct that pose
+significant health or safety
+risks, such as limitations on
+fire, cooking, harassment,
+illegal drug use, and littering.
+Interestingly enough, the
+majority found it persuasive
+that organ itself allows a
+necessity defense to most
+criminal charges, and I think
+although I didn't have a chance
+to research this potentially
+civil penalties, um, which may
+prevent convictions under these
+types of ordinances.
+And I believe that concludes my
+presentation and I'm happy to
+either pass it to Mr. Cummings
+or stand for questions as the
+chair sees fit.
+That's a good
+It might be best if we have
+questions on this case and then
+when we talk.
+The other one is relates to gun
+safety and it's a little, it's
+different in terms of analysis
+and focus and so on. So
+questions about Grant's past.
+We're scheduled to end at about
+noon. We do have some leeway in
+the um uh Senator Ivey Soto,
+representative um Chasey, anyone
+else?
+OK.
+Uh, representative Brego.
+Representative Lord.
+000, Nyber. OK, I thought maybe
+you were
+OK.
+OK, Lopez, let's try to keep it
+to about 5 minutes each cause we
+have a second case that's coming
+up. All right. Um, where are I,
+Senator um Iy Soto. Thank you,
+Madam Chair. Um, so just, first
+of all, just real quick to start
+off with Powell. So, so my
+understanding of the holding of
+power is that being an alcoholic
+is status but being drunk is
+behavior.
+Madam Chair, Senator.
+I think that that is a fair.
+Summary of the
+Majority opinion.
+In the city of Grants Pass on
+their interpretation of power.
+OK. And
+And right, and so that's, so
+that's how they're, they're
+trying to splice it for Grant's
+pass. Correct. Mike.
+My question is, is, is, is on
+the definition or application of
+involuntary homelessness. How
+was involuntariness?
+Used
+Or, or, or is that now takes
+strip stripped away.
+With
+With this decision.
+Madam Chair, Senator, it's a
+fabulous question, and I'll be
+honest with you, I don't know
+how courts are going to
+Interpret this in future cases
+as far as involuntary involun
+the involuntary nature of
+homelessness is concerned, I
+think it depends upon.
+The opinion in the city of
+Grants Pass does not require an
+analysis of whether or not it is
+involuntary. Um, if a claim were
+brought that was based upon
+other precedent, I think that it
+would be reasonable to still
+rely upon the way the
+involuntariness was analyzed in
+Robinson.
+of Grants Pass didn't overturn
+Robinson. Right. OK. And no, and
+the, and the, and the reason I
+ask that is, is so I was
+So I was having a fairly
+intimate lunch with a good
+friend of mine yesterday.
+And um what? And, and, and what
+are the issues that the, that my
+friend raised was that uh uh
+interestingly, like something
+like over two thirds of the
+homeless people.
+In this state are actually not
+from the state.
+Um, and, uh, according to the
+stats that she has.
+And that, and that that doesn't
+make their, their situation any
+less tragic.
+But it does make whether they're
+homeless here.
+A little bit of a question
+versus the responsibility that
+we have.
+For people who
+become homeless here.
+As opposed to who became
+homeless somewhere else.
+And moved here.
+And, and whether or not there's,
+there's any analysis.
+Uh, in this, that, that, that
+comes up. Madam Chair, Senator,
+thank you for that
+clarification. I think I
+understand the question better
+now.
+Um,
+Again, I can't predict what the
+courts will do in the future,
+obviously. That being said, it's
+my opinion that there is nothing
+in the city of Grants Pass that
+directly implicates that issue.
+Uh, however, I do believe that
+it is clear in Grant's past that
+Robinson is still controlling
+law.
+And in Robinson, whether or not
+a person is involuntarily
+homeless is predicated solely
+upon the population of people
+without adequate housing in the
+in the number of available
+practically available shelter
+beds. So where the individuals
+without adequate housing came
+from, um, is not part of that.
+OK.
+OK, thank you. I appreciate
+that. Thank you very much. Thank
+you, Senator, um Representative
+Chasey and then Represented
+Brega.
+Uh, thank you, Madam Chair, and
+you might have been addressing
+my question.
+In answering the senator's
+question, you
+Mentioned that you thought the
+holding was more limited than we
+might initially have um
+have viewed it.
+Is it because of the
+The different or the limitation
+on the new interpretation of
+Robinson, Madam Chair, Madam
+Leader.
+Not exactly, um.
+My
+I've seen a lot of
+Summaries in legal journals and
+inliers and things like that
+that have categorized this as a
+Supreme Court case that says
+it's OK to criminalize living on
+the streets, and I think that is
+an unfairly broad way to
+summarize this case because it
+was only decided under the
+Eighth Amendment, excluding
+access to the excluding the
+fines and fees provision of the
+Eighth Amendment.
+And so because of that, even the
+majority in grants pass says.
+That there may be other due
+process issues at play, but
+those were not raised in this
+case. They were not analyzed or
+addressed in this case. And so,
+similarly situated ordinances
+may still be subject to
+constitutional scrutiny under
+other constitutional provisions
+outside of the Eighth Amendment.
+Oh, thank you very much, um,
+Madam Chair, that raises all
+kinds of questions in my mind
+and um and maybe.
+It's provides a little bit of
+hope for
+Um,
+are not criminalizing the
+status.
+And uh
+So I, I guess we just have a lot
+of thinking.
+And uh.
+Well, designing to do. Thank
+you, Madam. Thank you.
+Thank you, Representative.
+Representative Rego and Nibert
+and then Cedillo.
+Thank you, Madam Chair.
+Um, Megan, with regard to
+littering, um, how, how do they
+define littering?
+I'm sorry. How is littering
+defined?
+Um, Madam Chair, representative,
+it was not defined in this case.
+OK, um,
+So
+This other question that I have
+is with, with regard to
+encampments.
+Um, and
+Kind of the government moving
+out those encampments, is that,
+was that at all discussed in
+this?
+In this case,
+Madam Chair Representative, I'm
+guessing you might be
+referencing some of the
+litigation in Albuquerque
+around, yes, I see you nodding,
+um.
+That particular issue is not
+directly addressed by City of
+Grants Pass, though I would
+imagine that the opinion in City
+of Grants Pass may be utilized
+in future in that litigation.
+OK. And just one comment, Madam
+Chair, um,
+You know,
+One of the one of the things
+that it alluded to in in your
+discussion was providing housing
+as but I guess one of the
+questions that comes up in my
+mind, which we see pretty often
+is with regard to
+And dare I say it, but um
+urinating and deprecating in
+public. It was that, was there
+any discussion regarding that?
+Madam Chair Representative,
+thank you for that question. In
+part, yes, um, to put a slight
+spin on the way you're phrasing
+that question, both the majority
+and the dissent were very clear
+that nothing in this in this
+opinion limits governments,
+local government's ability or
+state government abilities to
+criminalize conduct.
+That the entity deems it should
+prevent and in fact encouraged
+in some places were definitely
+in the dissent encouraged and in
+the majority allowed that it may
+be effective to focus on conduct
+uh rather than status, so things
+like glittering, graffiti,
+harassment, and urination and
+public defecation are more ripe
+for criminalization and perhaps
+the status itself.
+The slight twist on that, that
+the dissent has is that these
+ordinances that eliminate the
+ability to sleep in public are
+based upon status, which
+obviously was not the majority
+holding, but either way,
+regardless of what the purpose
+of these these particular
+ordinance at issue are. There is
+no limitation on prohibiting
+urinating in public.
+OK. Thank you, Madam Chair and
+thank you for that because I, I
+was trying in a polite way to
+ask about littering and actually
+get to that, the answer on, on
+public defecation and, and
+urinating, so that's why I asked
+the question, um, and ma'am
+chair, I'm just gonna mention,
+um, right now, the city of
+Espanola has a public encampment
+that is close to the river and
+um you know, concerns a lot of
+people because of.
+You know, Eli and so on going
+into the river. So, um, I'm
+fully aware that, you know, in
+Albuquerque DOT has moved some
+of these encampments, and
+that's.
+The, the reason that I asked
+about moving the encounterments
+and so on. thank you.
+Thank you, Representative
+Senator Neibert.
+Thank you, Madam Chair.
+So, Megan, what are the cities
+and counties.
+Supposed to do to deal with the
+Issues that they're facing with
+these.
+Sometimes encampments or
+sometimes sporadic, you know,
+tents popping up.
+What, what is your
+recommendation that they do to
+address the situation.
+Madam Chair, Senator, I would
+never presume to tell the
+legislature what it should do or
+presume myself and the cities,
+uh Same,
+same response that nonetheless,
+I would, Madam Chair, Senator,
+draw.
+Local government's attention to
+several places in both the
+majority and the dissent.
+In which they enumerate
+alternative measures that can be
+utilized to address this. And
+and I want to be clear, both the
+majority and the dissent.
+Readily and repeatedly
+acknowledged that this is a
+complex issue and that
+policymakers, lawmakers need to
+have, I hate using this phrasing
+cause we hear it all too much. A
+wide range of tools in the
+toolbox to address the issue.
+And um some of those
+suggestions, which were
+enumerated in
+Both the descent and
+The majority opinion included
+focusing on expanding shelter
+and affordable housing
+opportunities, similar to what a
+Representative Borego was
+referencing including making
+sure that there are time and
+place restrictions, um, and
+other conduct related
+restrictions on encampments, uh,
+potentially things protecting
+the environment around those
+locations if needed, um,
+investing heavily in mental
+health and substance abuse
+treatment and availability.
+Access to those types of
+Um, options, developing outreach
+programs specifically to get
+warm handoffs and person to
+person contact between trusted
+government officials and these
+these individuals who tend to
+have very deep
+Distrust of authority given the
+way that they perceive ongoing
+harassment and criminalization
+of behavior they don't believe
+they can avoid, um, again, as I
+said, enacting legal
+restrictions that limit or
+restrict encampments or conduct
+that pose significant health or
+safety risks.
+Um
+I think those are the big ones
+that were listed in the opinion,
+sir.
+Um, Madam Chair, Megan.
+Most or many of the cities in
+New Mexico are
+Surrounded by public land.
+Minister by the Bureau of Land
+Management, the United States
+Forest Service or or other
+federal entities.
+And I've often wondered if
+A community could
+Designate
+Someplace.
+Outside of their normal parks
+and things as a place where
+People could go.
+And for for lack of a better
+word, but they could set up
+their.
+Um, tents there camp and do
+other things on those lands
+because it seems that
+Many of the communities that I'm
+familiar with, they're concerned
+about.
+The impact.
+That this type of activity is
+having on.
+The residents in in that area,
+people that own homes, kids,
+what have you that are that are
+in that area, so they don't want
+it in their backyard. They want
+it someplace else, so looking at
+someplace else, if there's uh
+Lambs adjacent to a city that
+are administered by the federal
+government. I'm wondering if
+there's a mechanism to uh get
+those lands designated and, and
+I know there's mechanisms to
+take federal lands.
+Into uh uh
+A community's purview.
+Uh, for, for other uses and I'm
+wondering if that would work.
+And my other question is, you,
+you mentioned sleeping was a
+natural or a requirement of
+one's uh.
+I guess the function in life.
+And I'm wondering how that's uh
+that's viewed, but yet you can
+outlaw urinating and defecating
+because it seems to me that
+those three things fall in the
+same category, uh, they're,
+they're all required for
+For one to
+continue to live. So this kind
+of an odd comment there, but
+This is a difficult, difficult
+issue that I know counties and
+cities are particularly
+struggling with.
+And I don't know that we as a
+state are providing uh
+Maybe much uh much help.
+But somehow we do have to do
+what Gorsuch said, we have to as
+a, as society, we have to come
+to grips with this and figure
+out some solutions because we
+can't have uh
+Uh
+We, we can't have the problems
+that we're having to face and
+all the issues that that we're
+having to face, uh, and, and
+just rely on each community to
+do it alone.
+Thank you, Senator. Um, we have
+Senator Cedil Lopez and then
+Senator Maestas.
+Thank you, Madam Chair. A lot
+of, um, a lot of the issues have
+already been addressed. I want
+to focus on something you said
+that I think is really important
+to keep in mind while um
+Well this sets the floor, so it
+allows the state or state, city,
+county may criminalize certain
+conduct.
+It doesn't mean that we must,
+and in fact, it would be
+probably better policy to stay
+away from.
+This area. Did I hear you say,
+and if you could clarify that
+some suggested it or, or could
+you, I didn't see that in the
+opinion, so I.
+Yeah. Thank you, Madam Chair.
+Thank you, Senator.
+Yes, Senator, you hit the nail
+on the head, both in the
+majority opinion and in the
+dissent.
+The, uh, the justices made it
+very clear.
+That, of course, just because
+something is legal doesn't
+doesn't mean that it is a good
+public policy. It doesn't mean
+that any government is required
+to follow suit with what this
+opinion says, um, and
+specifically in response to your
+question, Organ made just that
+decision after all of this
+litigation in 2021, the law that
+they passed after this was
+litigated initially, um,
+obviously before this opinion
+came from the Supreme Court, but
+after these issues were brought
+to the
+District court level, um, their
+law said that any city or county
+law that regulates the act of
+sitting, lying, sleeping, or
+keeping warm and dry outdoors on
+public property that is open to
+the public, must be objectively
+reasonable as to time, place,
+and manner with regards to
+persons experiencing
+homelessness.
+The law also grants persons
+experiencing homelessness, a
+cause of action to bring suit
+for injunctive or declaratory
+relief to challenge the
+objective reasonableness of an
+ordinance. And again, as I
+stated before, that law was
+intended to ensure that
+individuals experiencing
+homelessness are protected from
+fines or arrests for sleeping or
+camping on public property when
+there are no other options. And
+so Oregon did exactly as you
+were saying, Senator, and said
+even though
+This is possible under the
+Constitution, we as a state do
+not believe it's good public
+policy to criminalize behavior
+that cannot be avoided. Thank
+you. Um, that's all I have, man.
+Thank you, Senator,
+Senator Maest Thank you, Madam
+Chair, and thank you for the
+presentation, Ms. Dorj. I
+appreciated your analysis.
+I enjoyed it. The um couple
+quick comments. One is kind of
+the tool that the state has, the
+government has is is the crime
+of trespassing. Um,
+Trespassing, you don't break the
+law for your initial appearance,
+but if you're told to leave and
+you remain and that's a
+trespass, or if you received
+proper notice not to return and
+you return, and that triggers
+the crime of trespassing.
+Unfortunately, um,
+Trespassing is not a
+Not um
+Enforced in my hometown for and
+for good reason, you know, uh.
+You know, APD has come a long
+way and checking the boxes with
+regards to its settlement
+agreement but has not.
+Overcome uh
+The number of shootings of
+civilians in in Hambuquerque. So
+anyway, there's reasons behind
+it, but uh we should consider
+looking at the trespassing
+statute, Madam Chair, it's a
+year, it's a full misdemeanor. I
+don't know when it came into
+effect, probably back in the
+day.
+Uh, it should be more of a petty
+misdemeanor or even like a 30
+day fine, which would be be more
+reasonable if somebody were to
+be arrested. Right now, people
+are getting citations. And then
+secondly, um, we have to look
+ourselves in the mirror as a
+state with regards to the lack
+of housing, and the housing
+stock in this state.
+In the fine city of Santa Fe,
+folks are fighting a four-story
+apartment building.
+In my hometown on 4th Street,
+which is a, which was the old
+Route 66, a major thoroughfare.
+The city of Los Aranchos, which
+is
+Basically a bunch of rich people
+incorporated their own city to,
+so they could file lawsuits, uh,
+is, is, is trying to stop a
+four-story apartment house.
+So even though I agree with the
+wants and desires of those
+folks, we have to put our own
+personal wants and desires of
+what we perceive as perfection.
+Uh, that has to be set aside to
+overcome generational poverty.
+There was a study done in
+Seattle, Washington, and I'm
+sure that looked at post Jim
+Crow zoning laws, post Jim Crow,
+not pre-post.
+And those, the inability to
+build casitas, to subdivide the
+inability to do this or that
+with your own property, uh, cost
+the black community $13 billion
+in generational wealth.
+We really need to
+Consider if we're gonna overcome
+generational poverty in the
+state, we, we
+We cannot fight housing, the,
+the buildup of the housing
+stuff. Thank you.
+Um
+Thank you, Senator
+else before we go to the next
+case.
+Um
+Represented, didn't you speak
+already?
+OK, briefly, please, cause we
+have to move to the next case.
+Thank you, Madam Chair, for
+allowing me. Um, I just wanted
+to mention um in Albuquerque, we
+built some transitional housing
+for the homeless, and it was on
+2nd and Lomas, and that
+basically that housing and I, I
+took your comment, uh, Senator
+Maastis, um, because what it did
+is it took people off the
+street, gave them it's a smaller
+unit, but it gave them the
+opportunity to
+Transition into actual housing
+because the idea of putting
+people immediately in the house
+and that, you know, from the
+street is um
+It's something that we really
+need to think about deeply. So
+thank you, Madam Chair. Thank
+you, Representative. OK,
+Brandon.
+The floor is yours.
+Thank you, Madam Chair.
+We're gonna discuss gun law,
+which I promise will be really
+straightforward and.
+make a lot of sense.
+Um,
+So really quickly, there's 2
+cases that I'll mention on
+background that you help us
+understand Bruin too.
+I'm sorry I'm gonna try.
+So 2 cases that I'll mention
+before Bruin, which is just
+heller was the case that brought
+us the recognize that there's an
+individual right under the
+Second Amendment, but the right
+to keep and bear arms is an
+individual, right? I should say.
+And McDonald, which applied that
+to the states.
+The next major piece of case law
+following that was the Bruin
+decision, and the Bruin decision
+told us that
+Give us a two-part test.
+Is the behavior that is
+attempting that you're trying to
+regulate.
+Protected by the Second
+Amendment.
+And that would mean is it
+something that the Second
+Amendment, the plain text
+recognizes.
+Um,
+good example, the easiest
+example there is that there's
+never been a serious contention
+that the Second Amendment
+includes your right to own a
+nuclear weapon.
+That's outside, that would be an
+unusual and danger and
+exceptionally dangerous weapon.
+Um, assuming that the item
+you're talking about is
+Falls within the text of the
+Second Amendment.
+Which would be any firearm.
+Uh, then the question is whether
+There is
+Regulation, historically and
+historical or traditional
+pattern of regulation
+sufficiently analogous.
+To allow the modern regulation,
+uh, to stand. Sometimes that's
+referred to as the historical
+analog test.
+Uh, an easy example.
+Meeting that test would be.
+Um, the New Mexico safe storage
+law.
+There is an analog, historical
+analog from the colony of
+Massachusetts, which
+specifically regulated storing
+guns in houses.
+US versus Rahimi is the first.
+Major test to be brought before
+the Supreme Court.
+Post ruin.
+And post the introduction of
+that historical analog test.
+So, the facts in uh Rahimi.
+I'm gonna try to be real brief
+on um
+Zakki Rahimi actually.
+something of a one-man crime
+spree.
+In 2019, Rahimi allegedly
+assaulted his girlfriend during
+an argument in a parking lot.
+An attack in which he was said
+to have fired and uh fired his
+weapon and threatened her with a
+gun.
+The Texas State court entered a
+protective order against Mr.
+Rahimi, barring him from being
+with 200 yards of the woman.
+Finding that domestic violence
+was likely to reoccur.
+Finding that he was a credible
+threat to her safety.
+The order suspended his handgun
+license and prohibited
+prohibited him from possessing
+firearm.
+Um,
+Following Mr. Rahimi's repeated
+arrest, he was charged by the
+federal government with having
+defied that protective order and
+thereby charged with violating
+18 USC 922G8.
+Um, that would be the section of
+922G is the section of federal
+law that prohibits possession of
+a of a firearms by certain
+categories of persons.
+One category is felons.
+One category is persons who have
+a domestic violence protection
+protective order issued against
+them and that's
+The G8 category.
+Ultimately, um,
+Mr. Rahimi.
+was
+allowed to enter a conditional
+plea in federal district court.
+He
+Uh, appealed the conviction to
+the 5th Circuit.
+And the 5th Circuit determined
+that
+The 922 D8 prescription against
+possessing a firearm.
+As a person who is subject to a
+domestic violence protective
+order.
+failed to pass constitutional
+muster.
+Under the Bruin decision.
+The court specifically found in
+rejecting the all of the
+historical analogs presented to
+it, the 5th Circuit found that
+the law of disarming.
+Suspected domestic abusers was
+one that quote, our ancestors
+would never have accepted.
+So this is the first case
+brought to the Supreme Court.
+To
+Uh
+Test the boundaries of that
+ruin.
+Historical analog.
+Um,
+Standard.
+Writing for the majority on
+We're gonna do sort of a high
+level overview. Happy to answer
+questions about it. This was a 8
+to 1 decision.
+With one majority opinion, 5
+concurring opinions, and one
+dissent.
+Um,
+So
+The, uh, yeah, there's a a a.
+Obviously the the concurring
+opinions agree in the outcome.
+Um, they write.
+But they reach very, they get
+their very different way.
+Um,
+In writing the opinion.
+Chief Justice Roberts.
+First categorized it, the
+principle behind the decision as
+one of common sense.
+And wrote that when an
+individual possesses a clear
+threat of physical violence to
+another, the threatening
+individual may be disarmed.
+Robert's opinion.
+Says that this decision
+Ports with, it doesn't change or
+Uh, overrule the brewin holding.
+To support that position.
+He
+Comes up with a historical
+analog.
+Where he used 2 separate
+And relatively unknown type of
+relatively unknown in modern
+law, types of
+Uh,
+Crimes. So the first or or or
+laws. The first is the more
+simple, straightforward is a
+going.
+Going armed
+Was
+And the going armed laws would
+be.
+No 1 may go armed to a certain
+location.
+Or a person who had previously
+Um, engaged in
+Violent behavior or dangerous
+behavior with weapons at a
+certain location would not be
+permitted themselves to go armed
+to that location, even if other
+people were allowed to go armed.
+The surety laws were described
+as a
+A form of preventative justice.
+Which authorized magistrates to
+require individuals suspected of
+future misbehavior to post a
+bond.
+If an individual failed to post
+a bond, he would be jailed if an
+individual did post a bond and
+then broke the piece, the bond
+would be forfeit.
+So
+That should stick out because
+the court does not address
+The idea that they're relying on
+a on a on a future crime surety
+bond statute that would
+Almost certainly be
+unconstituted.
+Today.
+Um, 30.
+statutes literally allowed you
+to go and complain to a court.
+That uh
+Brandon might be dangerous in
+the future, and you should make
+him post a bond or throw him in
+jail because I think he might be
+dangerous in the.
+Um, nevertheless,
+The majority opinion says that
+when you combine.
+These these surety statutes,
+which were historically and
+traditionally permitted with the
+going armed statutes, which were
+also historically and
+traditionally permitted.
+The combination.
+Creates a sufficient historical
+analog to a law that restricts
+the rights.
+Of a person.
+Subject to a domestic violence
+protective order.
+To the extent that it now meets
+the brewing.
+as I, as I noted, there's a
+mishmash of of of concurrences
+and we'll talk about those
+really briefly and then
+Um,
+The descent, which I think
+actually helps explain.
+The reality of this decision,
+better than the majority opinion
+does.
+So
+Justice Sotomayor was joined by
+Justice Kagan.
+And
+They focused on
+Taking aim at Thomas, who wrote
+the, who's the sole dissenter,
+and also
+Um, the
+Author of the majority opinion
+in Bruin.
+And
+The criticism was that if the
+dissent was the decision.
+Then the result would be that
+effectively almost no gun law
+could ever be considered
+constitutional.
+Because
+The limited spectrum of
+basically they said.
+It would be so exacting as to be
+useless, a too sensitive alarm
+that sounds whenever a
+regulation did not exist in
+essentially identical form at
+the founding.
+Uh
+Justice Gorsuch wrote to
+complain that there was a
+procedural problem with
+case and that it since it didn't
+meet that procedural requirement
+for a facial challenge, they
+shouldn't consider the.
+But he did agree that in limited
+circumstances, the majority
+opinion.
+Uh, was correct. Um.
+The the the concurrence by
+Justice Kavanaugh essentially
+recites.
+History and text.
+And
+Almost operates as a repeat of a
+lot of the historical.
+Analysis that was contained in
+Bruin and reaches the same
+conclusion as the um majority
+opinion.
+Justice
+Justice Barrett.
+Writes separately.
+And her concurrence is
+interesting because.
+She makes a point to um
+emphasize that the Second
+Amendment is not absolute.
+And that it codified a pre that
+it codified a pre-existing right
+and pre-existing limits are
+therefore
+Incorporated as part and parcel
+of that right.
+Um,
+Justice
+Justice Brown Jackson wrote that
+effectively the brewin test is
+unworkable. This case proves it,
+she agreed with the outcome.
+Um,
+Which is to say that she agreed
+with the upholding of 922 G8.
+But um
+Blames the problems in
+interpreting Brew and on the
+fact that Justice Thomas wrote
+the opinion in Bruin.
+And Justice Thomas was the sole
+dissenter to this decision.
+The effectively
+Um,
+Although
+Roberts goes to great lengths to
+explain why this decision meets.
+Justice Thomas's
+Uh, standard from Brein.
+Justice Thomas
+Wastes no time.
+In rejecting that.
+Blame outright.
+His descent
+In its very first paragraph
+tells us that uh post Brew and
+the court's directive.
+It was clear a firearm
+regulation that falls within the
+Second Amendment's plain text is
+unconstitutional unless it's
+consistent with the nation's
+historical tradition of firearm
+regulation.
+Not a single historical
+regulation justifies the statute
+at issue.
+Effectively, Thomasins, um,
+A number of pages, quite a lot
+of words, to say um what
+To agree with justice.
+Um,
+Jackson Brown.
+That the majority is not in fact
+following Bruins requirement.
+Um, he disagrees with her about
+whether they should.
+The descent, because it was
+written by the same person who
+author authored that landmark
+decision in Bruin is.
+Extremely
+Well, it's very critical, but
+it's also very illustrative of
+what.
+The actual with with the overall
+effect of that opinion, that
+majority opinion was, which is
+to say that
+Um,
+Effectively.
+The court
+had to either.
+Be extremely rigid in its
+application of the brewing test.
+Or it had to find some way to
+get out of the corner it had
+painted itself into.
+And that's exactly what Justice
+Thomas.
+uses the majority opinion of
+doing, is to say,
+He accuses the majority opinion
+of
+Wanting to uphold the law and
+finding a way to do it.
+He doesn't buy the analog, he
+doesn't buy that adding the
+going armed.
+laws or statutes together with
+the surety laws is anything
+close to a historical precedent
+under what?
+Trewin required.
+There are 2 overall changes
+resulting from the Rahimi
+decision.
+Um,
+One is really clear and one is
+clear as mud.
+So the one that's really clear
+is that the court is explicit
+and all of the concurrences.
+overlap in agreeing that
+People found by a court to be a
+credible threat to others may be
+barred from owning or possessing
+firearms.
+Um,
+It's clear that the court is not
+extending the opinion does not
+extend the ability to restrict.
+Uh, access to guns, classes that
+are suspected of being dangerous
+absent that credible finding.
+And absent and the finding must
+be made by a court.
+But the so the the the outcome
+that is 100% clear is anyone
+found by a court to be a
+credible threat to an up to
+other people with a firearm.
+They have those firearm rights
+restricted.
+The bigger uh and probably more
+relevant for future legislation.
+Portion of this decision is
+is, is the distance that the
+majority opinion was willing to
+go to in order to find.
+What it decided was enough of a
+historical analog.
+So rather than following uh
+Justice Thomas's path, which
+would require you to find a.
+Maybe not identical, but pretty
+darn close.
+Um, statute that existed in the
+1700s.
+What the majority did in order
+to be able to reach the outcome
+it reached was add two statutes
+that are
+3, it's pretty difficult to
+follow the logic.
+That when you add those two.
+Uh, statutes together what you
+get is historical precedent for
+domestic violence.
+Detective order restriction on
+gun owners.
+And that offers that that.
+Will certainly result in
+additional.
+Litigation
+But I think it also offers um
+If you carefully consider.
+And spend
+The time that it will take to
+get through and and see where
+those concurrences overlap.
+There is an indication there
+that the Bruin holding is not as
+limiting as many courts.
+Certainly the 5th Circuit
+believed it to be.
+And that's my synopsis, I'm
+happy to answer. Excellent, um,
+Brandon
+members, questions, comments.
+Senator Ivy Soto.
+Um, Lord.
+Dia Lopez.
+Anyone else?
+O
+OK.
+Senator Ivy Soto.
+Thank you, uh, Madam Chair, um.
+Yes. Sorry. No, that's OK. Thank
+you. Uh.
+So what are the things, uh, that
+I noticed in, in the, in this
+opinion.
+Uh
+Justice Roberts seemed to be
+going out of his way to try to.
+To get as many justices as
+possible and, and so when you,
+when you do that, you make
+certain trade-offs.
+Along the way, or you, you
+decide to address certain issues
+or not address certain issues.
+Uh, and, and what are the issues
+that, that it seemed to me that
+Justice Roberts.
+Seem to kick down the down the
+down the line in order to keep
+the.
+The 8 that he had was what the
+standard of proof.
+Was that that would be
+necessary.
+Or court in making a decision.
+Certainly if a court decided.
+And, and, but, but in this
+particular case,
+Rahimi
+Admitted
+And he
+And he consented to the to the
+restraining order.
+And so, and so there's almost a
+throwaway line where.
+It's like
+But the standard of proof is not
+determined here.
+If you could comment on that.
+Madam Chair, Senator, um, I
+think that you're 100% correct
+in terms of.
+That there's a lot of strategic
+voting that goes on in these
+these decisions.
+And if you want to hold a uh
+majority together. Sometimes
+that means you'll have to take
+things and explicitly say you're
+not deciding.
+So yes, the, the, the question
+is,
+Um, I understand it.
+What's the standard of proof for
+that domestic violence
+protective order in order for it
+to meet the be a valid
+determination of credible
+threat.
+And various states have various
+standards. Some states are very
+low standard.
+Some states are very are.
+Very convincing evidence
+standard.
+Um,
+Most states are less than that.
+We are, we are a preponderance
+of evidence.
+More likely than not.
+Yes, 50% the same as as a civil
+case, uh, far less than a
+conviction in criminal court.
+Um,
+But I, and I, and I would, I
+would hazard a guess that that's
+the majority of.
+less than
+Oh
+So you're correct that there's,
+there remains an open question
+about whether or not that
+termination that one is a
+credible threat with a firearm,
+such that their rights may be
+removed.
+Um, and be made or what standard
+what what standard of proof is
+required.
+Or
+Explicitly did not reach them.
+But, but certainly the finding
+having this the the separate
+finding of dangerousness.
+That is, that is, that is
+consistent actually with the
+with the build that.
+this actually already.
+R.
+I believe so, and, and that's
+already long, right?
+that pass? Yes,
+So we already have that in law.
+Incredible fighting in advance
+of in advance of this decision
+having been made.
+Yes, our statute for domestic
+violence restraining orders does
+does require that the court make
+an explicit finding of that the
+person is a credible threat.
+To another person before
+restricting gun rights.
+Um, Californians did not.
+was ultimately struck down for
+that reason.
+Although I believe that they
+have since reenacted with the
+requirement.
+Yeah. Thank you, sir.
+Thank you.
+Adventure.
+Thank you, Senator.
+Representative Lord.
+Thank you, Madam Chair, I just
+have a few comments, um.
+Yeah, I'm, I'm the surety laws
+is quite a stretch.
+Um, in my opinion, because it's
+reasonable cause of your injury
+and a breach of peace, so
+basically you're saying we think
+somebody's gonna do something,
+they have to have a bond.
+Which then I guess we could just
+say, well, I fear that all these
+minors that can get firearms all
+have to have bonds and anybody
+in a gang has to have a bond. I
+mean, where are you going to end
+with that? That's quite a
+stretch.
+Um,
+And also as I'm reading about
+the goinged armed.
+Wow, that's very interesting.
+I'm bringing back in the history
+of that. That was solely used to
+take firearms away from black
+people.
+It was solely meant that pretty
+much predominantly I read over
+and over again that it was to
+keep uh guns at the hands of of
+black people and free slaves.
+So, uh, I think everybody knows
+how I feel about firearms and
+the Second Amendment, so I just.
+Find it interesting when you
+read historically.
+Cause I'm going all the way back
+to 1600s and Again, the surety
+laws are definitely a stretch,
+and I would hate to see us.
+I think that it's appropriate to
+bond people for what they may do
+in the future.
+I find it very disturbing that
+the going armed was used quite
+heavily to keep firearms out of
+the hands of black.
+Are you are you are you through
+representative or?
+Oh, OK.
+OK. Oh, you're adjourned. OK.
+All right.
+OK. Um, I'll keep that in mind.
+Um, Senator Cedilia Lopez.
+Thank you and um and I just
+wanted, it was Senator Cervantes
+bill that I co-sponsored that
+we're that we're talking about,
+um, but I, um,
+Oh, if ruin is not so limited.
+As you interpret, and then
+trying to read the tea leaves of
+the Oprah overlapping decisions.
+Which seems like an enormous
+task, um, and I don't know that
+you've done it, but what would
+you think are some of the
+suggestions, um, and
+specifically I was thinking
+about the type of firearm that
+was used, um, on the attempted
+assassination.
+Of um
+of the former President Trump,
+um,
+What kinds of things can we do?
+And the reason I raise that is
+OK, Bruin said historical, we've
+looked to historical precedent.
+There's no historical precedent
+for that kind of firearm. So
+where do we go? Um, what do we,
+what we do we think about when
+we're thinking about gun safety
+at this point?
+I just point out to ask staff to
+answer that I think is a little
+unfair. I mean, I, you're, we,
+we all can answer that, but the
+offer uh someone who we asked to
+summarize an opinion to then
+tell us what other weapons would
+fall under these things. I, I
+think I just keep that in mind.
+I think that's a little unfair.
+I agree it's unfair, um, but I
+also know that uh uh I'm
+speaking to one of the foremost
+experts, I think, um, but I, I
+certainly, if you don't want to
+answer that, you don't have.
+to. If, if I may, Madam Chair, I
+can answer that.
+Well, I want people recognize
+that's your opinion,
+I agree, but the overlapping,
+but the overlapping pieces like
+what emerges.
+So my answer would be.
+Um, with regard to
+Um,
+With regard to classes of
+weapons or specific types of
+weapons, that's outside the
+scope of Rahimi. Rahimi would be
+talking about people who can
+have weapons. OK. So you would
+be looking at Heller?
+And then your decision about
+whether or not a certain type of
+weapon can be outlawed, would
+depend on whether or not the
+Supreme Court was going to
+decide that it was a, that that
+is a weapon in common use.
+if that is a dangerous and
+unusual weapon.
+Thank you, Madam Chair. I, I
+think the common use for
+self-defense if I remember the
+one.
+So.
+Uh, Madam, Madam Chair, the, the
+question is whether the question
+of whether or not an AR-15.
+is a weapon, a dangerous and
+unusual weapon or a weapon in
+common use.
+For self-defense because I think
+the
+the
+Weapon in common use for the
+defense.
+Yes. So for self-defense or for
+whatever other reason you're
+permitted under the Second
+Amendment to have the one.
+But
+The common in common use
+standard, whether the AR-15
+meets that or does not meet that
+is presently the subject of
+several district court splits,
+and perhaps at least one circuit
+split.
+So that's an issue that is
+currently being litigated.
+Different courts have reached
+different decisions.
+And and Madam Chair, I think
+that's one of the one of the
+many problems with Heller, um,
+is
+But, you know, are we looking at
+common use then? Are we looking
+at common use now? It's, it's
+just a really problematic
+decision, but with this new
+guidance in the overlapping
+opinions, I, I think that more
+You know, reading the tea leaves
+um will happen and uh and I
+apologize if it was unfair, uh,
+but I do know, um, that
+Um,
+That Brandon is Mr. Cummings is
+very well versed in these cases.
+So thank you, Man. Madam Chair,
+my answer is I
+I will at least always try to
+limit them to simply what I
+believe the case law says, where
+you can go from here is really
+absolutely, absolutely. Thank
+you. Thank you, um,
+Representative Block.
+Thank you, Madam Chairman.
+And uh thank you Brandon, for
+being here and uh good, good
+information today. I appreciate
+it. So, Madam Chairman, uh,
+Brandon, I'm just wondering, so
+I, I assume we're having this
+discussion because there's
+potential legislation that could
+be enacted regarding felons in
+possession of firearms, so,
+Madam Chairman and uh Mr.
+Cummings, I'm wondering, so
+In the current legislation that
+we've seen as a committee, Mr.
+Representative Block, I, I
+scheduled this talk and it had
+no bearing on felons in
+possession or any other pending
+or potentially pending um
+legislation. I just want to
+clarify that. It is a relevant
+piece of case law, I think, or
+us moving forward as legislators
+in general when talking about
+the Second Amendment.
+Thank you, Madam Chairman, and I
+appreciate it. I didn't intend
+to to uh opine on the reasons
+the chair put this on the
+agenda. I just was wondering
+regarding potential legislation
+that would indeed be in the same
+realm. So a bill that would just
+say, let's just say a felon in
+possession of a firearm, who was
+just a felon, so any felony
+whatsoever, we would be
+increasing penalties. I'm just
+wondering, does this case law
+with Rahimi have any
+Would it, would it have any
+Bearings on the potential new
+legislation we could create.
+Today or in the next few, few
+years, Madam Chair, and I hope
+that was broad enough to not put
+anyone in a corner.
+Madam Chair, representative.
+This decision, Rahimi, I think,
+um,
+Certainly will play a major role
+in discussions about.
+Legislation that involves
+restricting any class of persons
+from owning firearms.
+I think that um
+Rahimi addresses the question
+about felons in possession of a
+firearm.
+Although that's not the case
+before it.
+It is, that's a that's a
+different subsection of 922G.
+It's certainly in the same
+arena.
+I think that the two
+Um, aren't any answers, but the
+two, the two areas, areas it
+touches on.
+would be
+Number one, it does tell us that
+a person who is bound to be a
+credible threat.
+By a court and always have their
+firearms rights.
+Uh restricted or even removed.
+Other part of the of the Rahimi
+decision that's a little more
+problematic in that regard.
+is the fact that it's tying
+Um, those class.
+The removal of the of gun rights
+from certain classes to that
+finding.
+Of credible threat.
+So, um,
+The question of whether you said
+any felony.
+the question of whether or not a
+nonviolent felony and continue
+to result in
+Firearms restrictions.
+First, the subject is the
+subject of litigation in many
+locations presently, and second
+is an open question.
+OK, thank you, Madam Chairman.
+Thank you so much for that, Mr.
+Cummings. I, uh, give me a
+little more clarification, so
+the non nonviolent felons, we
+could potentially be in a in hot
+water, if we passed a bill that
+said
+Felons in possession, so any
+felon, even nonviolent felons in
+possessession of a firearm.
+That could potentially be
+Opening us up to litigation
+because it's not necessarily
+been settled. Is that what I'm
+hearing, Madam Chairman, or is
+there, uh, is there more
+concrete information about that,
+madam chair.
+Madam Chair Representative, I
+would say that uh to the to the
+extent that it could open us up
+to.
+Litigation
+The existing statute is already
+open to that same type of
+litigation.
+And there are cases across the
+nation addressing that very
+question.
+Um, so it's likely a matter of
+time before.
+11 way or another.
+OK. Thank you, Madam Chair. Go
+ahead. Thank you,
+Representative. Anyone else?
+Senator Cervantes.
+Uh, was there somebody else?
+I think that I'm sure I just, I
+wanted to with amusement look
+over to my shoulder a little bit
+to my friends on the left side
+of the committee only because I
+remember a couple of meetings
+back when I said that the
+Brewing case would not stand the
+test of time, uh, and that the
+court had put itself in a box
+that it had to get itself out of
+because, of course, by the
+historical analogy, uh analogy
+test, you wouldn't be able to do
+this, which is prohibit firearms
+in the hands of a domestic
+violence, uh uh order and I
+remember the eyebrows
+From this simple country lawyer
+from Las Cruces said the
+Lawrence Thomas didn't know what
+he was doing, but Clarence
+Thomas doesn't know what he's
+doing. Um, and, uh, and, and
+that's why, and that's why he's
+now by himself on the Supreme
+Court in this decision. I asked
+who, who's the dissenting vote,
+and he's gone from the guy
+riding the majority of this
+historic analogy standard now
+all by himself out there and,
+and again, the country lawyer
+from Las Cruces is sitting here
+challenging uh Supreme Court
+justice, but, um, we should
+recognize
+Sometimes those guys get it
+wrong, and I say guys, meaning
+male and female, get it wrong
+and so we should never be too
+wedded to um what comes down
+from them, we should exercise
+our own critical thinking from
+time to time and, and it was
+pretty clear that the Raheny
+case, we knew Rahini was coming,
+and they were twisted in
+pretzels to try and, and that's
+what they've done with Rahini,
+right? They've, they've
+contorted themselves to try and
+find a way to not strike down uh
+domestic violence or the
+prohibition and still hold on to
+their historic
+Analogy standard and that's
+beginning to erode. We can see
+it already starting to fall
+apart on them even really after
+a couple of years, so we should
+do so. Um, and that.
+Means that when we start looking
+at some of the bills that we've
+been looking at over the years
+and we've had Brandon and Megan
+and others put a lot of time
+into these presentations, even
+last year, so that we know the
+confines because we can, we can
+impose these, we can pass these
+laws, perhaps, or we can.
+Issue executive orders, but if
+all your mind is a lawsuit, um,
+you know, what are we doing
+other than making the news, and
+so I I appreciate the fact that
+we understand the lane that
+we're supposed to work within,
+if we really want to pass things
+that are going to stand the
+test. So we, we, I think this
+committee and our standing
+committees, uh, are really at a
+great privilege to have a good
+understanding now of these
+lanes, and, and I think it's
+number on us to to help our
+colleagues who are not on these
+committees who don't have that
+opportunity to, to know that.
+There are some limitations on
+what we can and can't do and.
+Even if I make fun of of Justice
+Thomas from time to time, it,
+it, he's an easy target, let's
+just face it, um, uh, so, um,
+Yeah, um, and, and, and Madam
+Chair, I did want to say, um,
+well, we had the opportunity, I
+don't know whether either one of
+you were here earlier today, but
+I, I wanted to take the
+opportunity to echo something
+the chair was saying earlier
+today. I know this is off topic,
+but I want to thank both of you
+all, and I, I did tell the
+committee you both have worked
+really hard the last two months.
+You've dropped your private
+practices, your
+Bing educational requirements at
+a dime, and you've done so even
+this last weekend when somebody
+says we need you at 4, we need
+you on Saturday, we need you
+Sunday, uh, you all have 7 p.m.
+at night some occasions at all
+hours, very long meetings, long
+conversations, far more than I
+attended even and even far more
+than the chair who attended,
+even more than I did, so, uh, I
+want the committee to know when
+when there's any suggestion
+that, that there wasn't a lot of
+work put in and a lot of time
+put in, a lot of effort and
+resources put in and, and we
+got, let's say.
+Council to hire you all and pay
+you, uh, um, deplorably low
+wages typically, but
+nonetheless, to make yourselves
+available, so thank you for me.
+I think the chair will probably
+echo those comments because she
+knows very well that you all
+have worked really hard the last
+2 or 3 months uh to try and put
+together a a special session for
+us. So thank you for that,
+madam.
+Moisture and indeed, um, when I
+opened the meeting, I, um,
+specifically acknowledged the
+work of both of you and
+I know how hard you worked and
+you responded to every request
+for information and analysis and
+He guide us in terms of what
+would be appropriate and I
+imagine we're gonna continue to
+be working together as we move
+forward over the next course of
+the interim, and I appreciate
+your willingness to do so
+because it is.
+Sometimes stressful and
+contentious, but um.
+As those of us are lawyers are
+getting used to that and we've
+developed pretty thick skin, so
+appreciate you both, you both
+did excellent presentations just
+now on the two cases that I
+asked you to brief us on, so
+thank you very much. Um, we're

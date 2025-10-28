@@ -1,0 +1,6367 @@
+Transparency in the use of
+artificial intelligence and this
+topic obviously relates very
+much to the topic we had
+mid-morning from some of the
+state legislators who have been
+working on this. We know one of
+them said 5 years, which is
+amazing. Um, so we're, we're,
+there's a catch up we're
+involved in here. So, um, I'll
+turn the floor over to our two
+presenters if you'd introduce
+yourselves, I'd really
+appreciate it.
+Madam Chair, members, I'm Alisa
+Lauer. I'm chief of staff for
+House Majority Leader Gail
+Chasey, who's also a member of
+this committee. Thank you.
+Madam Chair, my name is Chris
+Moore. I'm a professor at the
+Santa Fe Institute speaking here
+as a computer scientist.
+The floor is yours and whichever
+way you wanna go first, that'd
+be great.
+Well, Madam Chair,
+Representatives, senators, thank
+you very much for this
+opportunity, as Speaker Martinez
+said this morning, this is a
+very hardworking committee, and
+I appreciate it. Um, some of you
+have seen parts of this before,
+for instance, in the last
+session, uh, I promise there's
+some new material.
+So, uh, my slides are identical
+to the handouts, so whichever is
+more convenient for you. Here
+are some of my colleagues.
+In this thing called the
+Interdisciplinary Working Group
+on Algorithmic Justice. These
+are not just computer
+scientists, but a political
+scientists, legal scholars, even
+psychologists.
+At the Santa Fe Institute, the
+University of New Mexico and
+other institutions around the
+country.
+So I think we're here because AI
+is being used all over the
+economy and by by government, by
+private corporations to make
+decisions that have long-term
+effects on people's lives, their
+opportunities, their
+livelihoods, uh, in a lot of the
+bills that got discussed this
+morning. These go by the name of
+consequential decisions, and
+this includes employment through
+automated hiring, health care,
+education, giving you access to
+social services.
+Doing fraud detection in
+housing, we have, you know,
+credit lending, tenant screening
+was mentioned this morning.
+Where you, where you end up on a
+public housing waiting list, and
+of course in criminal justice,
+not just pre-trial supervision
+but also sentencing and parole
+and predictive policing. So in
+all of these cases, uh, AI does
+have potential, I think, to make
+our decisions better and even
+fairer and even more transparent
+and it's
+Its proponents say, hey, it's
+evidence based, it's objective,
+uh, it avoids stereotypes.
+Psychologists tell us we have
+all sorts of biases. It can
+hopefully help us overcome
+those.
+Um, on the other hand, it's a
+lot of people express concerns.
+It's based on historical data.
+Uh, I think it was mentioned
+this morning that for instance
+Amazon looked at the fact that
+most of their successful
+employees are men. The AI ran
+with that and said, oh well,
+presumably you want to not hire
+women so much. That's the kind
+of thing that AI will do, not
+with any ill intent, but simply
+because it looks at the data and
+assumes that future patterns
+will be continued.
+Sorry, past patterns will be
+continued into the future. Um,
+of course, I treats people as
+statistics in some sense. They
+don't look at the individual
+facts about a person, the way
+that a human decision maker
+might. And uh what I'm focusing
+on today also is that many AI
+systems are what we call black
+boxes. In other words, you don't
+get to see how or why they
+produce the output they do. They
+just say something like this
+person is low risk or this
+person is high risk.
+Or whatever, and it's not clear
+how they came up with that.
+So, I think the question for us
+as this gets rolled out very
+aggressively across the country
+is what do we as citizens, what
+do you as policymakers need to
+know about these systems, um,
+you know, my perspective is AI
+is a great tool, but like any
+other tool, we need to figure
+out when and where it's the
+right tool for the job.
+So some of the questions that I
+would have, like, suppose you
+asked me to evaluate an AI
+system or suppose a cabinet
+secretary asked me to evaluate
+an AI system to see whether it
+should be used or not. I would
+want to know what data does it
+use about an applicant or a
+defendant? Where does this data
+come from? And this also
+overlaps with the privacy issues
+that we heard about this
+morning. What does the AI do
+with this data to come up with a
+score or recommendation? Do the
+people
+affected by it and the decision
+makers advised by it, the
+caseworker or the judge, do they
+understand some of the logic
+behind it? Do they know what
+kinds of errors it can make and
+can somebody like me or somebody
+in government or somebody
+anywhere, make an independent
+assessment of its accuracy and
+its fairness, or do we just have
+to take the vendor's word for it
+that yeah, it works great, you
+should, you should pay for it.
+So I'm going to go through a
+couple of examples, most from
+government uses of AI, but
+these, there's also private
+sector uses, and I know some of
+you have seen these before. Some
+of them are hot button issues. I
+want to make it absolutely clear
+I am not advocating for or
+against the use of these
+systems. What matters to me is
+that they be above board and
+open so that we can all have a
+good discussion and figure out
+whether they should be used or
+not.
+So the first one, and this is in
+your, again, this is in your uh
+the handout pretrial
+supervision. So I know a lot of
+you have looked at this a lot in
+the legislative sessions. This
+is the so-called public safety
+assessment. It is no longer
+being used for the basic
+decision to detain or release uh
+a defendant, but it is being
+used to recommend levels of
+supervision. It is a well
+studied system. It has been
+validated on the national level,
+and it's been, as we say,
+Validated here in New Mexico
+several times uh using our, our
+on our local population.
+And you might think, hey, this
+isn't an AI. I mean, it's right
+there. The whole thing is there
+up on the screen or on the page.
+It's just a simple point system.
+You get a certain number of
+points for each prior conviction
+or each prior conviction for a
+violent offense and so on. And
+then those points are added up
+and that gives you some kind of
+risk score.
+So again, you might not think of
+this as an AI, but it was
+generated. It was constructed
+with AI techniques that look at
+a big data set, what we call the
+training data of defendants from
+the past, or from jurisdictions
+all over the country and based
+on that, it tries to figure out,
+well which things should it care
+about and how many points should
+it give you for each of those
+things? How much points toward
+your risk score should each
+prior conviction give, for
+instance.
+Um,
+But
+I'm not saying you should use it
+or not use it. I'm saying it's
+transparent so you can look at
+it, you can see exactly how your
+score is created if you're a
+defendant or if you're a defense
+attorney or a prosecutor.
+And because it's there, you can
+have conversations about it. You
+can have an informed discussion.
+For instance, it uses past
+convictions, but it doesn't use
+past rests.
+And you can argue with that, you
+know, you could, you could say,
+hey, why doesn't use past
+arrests? because we know that
+not all arrests lead to
+convictions. Well, that's a
+defensible point of view, then
+you could look at the statistics
+and figure out whether using a
+rest would make it more accurate
+or not.
+All right, 2, prison
+classification. You heard a
+little bit from the LFC
+yesterday about how the
+corrections department.
+Has been trying to use a
+validated classification tool.
+So this is after your conviction
+and you're going to level 123 or
+4 of supervision in the state
+prison system.
+And as the LFC said yesterday,
+there seems to be kind of a
+disconnect between the system
+that was originally built in
+2003 and the corrections
+department. So in particular,
+the corrections department has
+been overriding about half, 40%,
+47% of the initial
+recommendations from that system
+of which level an inmate should
+go to. So, um, at their request
+they asked my colleagues at UNM
+and I helped out.
+To validate this 2003 system.
+It is also a simple point system
+and we found some interesting
+things. We found, for instance,
+that recent misconduct, for
+instance, recent infractions
+against guards for fellow
+inmates are much, much more
+predictive of your future
+behavior than infractions that
+took place years ago, as I
+understand it, people do tend to
+calm down. They do tend to age
+out of some of those behaviors
+and so we were able to help them
+update this tool, change some
+of.
+The the weights and also reduce
+the look back history for
+relevant infractions to uh in
+this case 5 years, and they
+adopted our recommendations. So
+again,
+I'm not saying this is great.
+I'm not saying it's awful. What
+I'm saying is it's transparent.
+We were able to do an
+independent study of how well it
+works. We were able to suggest
+improvements which the
+department found useful.
+Next is predictive policing. I
+think this has not been such a
+big issue in New Mexico, but
+it's certainly been something
+used all across the country. Um,
+I'm not an expert on whether APD
+is considering using these
+tools. Um, there are two basic
+kinds of predictive policing.
+One is something that human
+criminologists have been doing
+for decades long before
+computers came along, which is
+to try to find hot spots, places
+and times where crime is more
+likely, and then maybe you can
+deploy your officers there in
+the hopes that you might.
+Prevent some of those crimes. A
+more controversial method of
+predictive policing is to use
+people's social networks, who
+they hang out with, known gang
+affiliations, who they've been
+arrested with, and so on and to
+try to guess that certain people
+are likely to either commit or
+be a victim of a crime.
+As you can imagine, that's more
+controversial. Civil
+libertarians are very concerned
+about it. It's something that
+Chicago has tried and then
+backed off on a couple of times,
+um, now I want to be clear here,
+when I say I'd like this sort of
+thing to be transparent, I don't
+mean have a website that tells
+criminals where the patrol cars
+are, right? That's not what I
+mean. What I do mean though is I
+think it would be good for a
+police chief considering
+spending some of their budget on
+these systems to understand the
+logic behind them and
+to have some independent advice
+about how well they work.
+Number 4, another hot button
+issue. Child welfare and
+protective services.
+So in Pittsburgh, Pennsylvania,
+uh, they have a hotline where
+people can call in concerns
+about abuse or neglect.
+And like a lot of places, their
+child protective services
+department, you know, has
+limited resources. So if
+somebody calls in alleging
+abuse, they automatically
+initiated an investigation. If
+it's a lesser call about
+neglect, well, they use an AI
+system, an algorithm which they
+developed in house with the help
+of the local university that
+tries to figure out whether
+that's a high priority call or a
+low priority call. And this
+information is given to the
+person.
+Receives that call who then
+makes a final decision to start
+an investigation or not.
+Um, this is a fascinating
+system. Uh, I actually know some
+of the people who developed it.
+Again, they have the best of
+intentions.
+Um, it uses prior allegations
+from that address. It uses
+questions like, has anyone at
+that address used the county
+funded uh drug or alcohol
+treatment services or mental or
+mental health services.
+Um, have there been jail
+bookings from people at that
+address? So again, very
+controversial, um, one point
+about this, you should realize
+right away is that, you know, I,
+for instance, am lucky enough to
+be able to afford if I need them
+private mental health.
+Services. So then Santa Fe
+County or whoever wouldn't even
+know that I'd availed myself of
+that. So this is a kind of
+information that is more likely
+to be known of low income
+families and upper income
+families.
+Nevertheless, in Pittsburgh,
+they really feel this helps them
+focus their limited resources on
+the children and families who
+need it most. On the other hand,
+the state of Oregon considered
+this and rejected it. Both
+points of view are legitimate,
+but the good thing is it's
+transparent. We know what
+factors it uses about the family
+and so you can have a democratic
+discussion about them.
+All right, 2 more examples, then
+I'll wrap up. Fraud detection.
+So in the midst of COVID, of
+course, tons of people were
+filing unemployment claims, and
+in the state of Michigan, they
+used an AI to try to tell when
+people were filing fraudulent
+claims.
+This AI apparently was first of
+all a black box, so they didn't
+know how it worked. And second
+of all, it was pretty bad. So it
+turns out that it falsely
+charged tens of thousands of
+people across the state, um,
+with fraud requiring, you know,
+repayment and fines, as you can
+imagine, if you're desperately
+looking for a job and trying to
+provide for your family, even
+just navigating how you would
+contest these fines is extremely
+difficult.
+And so it turned out that 90% of
+its fraud charges had been
+erroneous. Um, and this is still
+being worked out, so this is a
+great example of a government
+that adopted and rolled out uh
+an AI system clearly without
+enough scrutiny. Finally, and
+this was mentioned briefly today
+as well, um, tenant screening,
+it's really hard for uh young
+people and lots of families to
+find rental housing, including
+in my town, Santa Fe, and so,
+you know.
+Landlords will often use an AI.
+I think we heard this morning,
+6, 60 to 80% of landlords
+contract with some service which
+will do a background check and
+tell them, are you going to be a
+good tenant or not?
+So if this system says no, and
+there are 6 other applicants for
+the same apartment, you're out
+of luck.
+And now the landlord might not
+know why the system says no.
+And the landlord isn't intending
+to discriminate against you or
+anything like that. So, but you
+could, this could still have a
+discriminatory effect. And
+there's a lot of data floating
+out there, including not very
+accurate data, such as eviction
+records that might not actually
+be you, it might be somebody
+with a similar name. There could
+be criminal charges that were
+dropped and so on. And yet these
+databases get passed from data
+broker to data broker sold from
+by one person to another.
+Then used in ways that you might
+not even know are being used
+against you.
+So, um, I'm not here to trash
+talk AI. I think that it is a
+useful tool. I just want us to
+keep it in its place as a tool
+and to understand it and so that
+we can make informed decisions
+about when it is appropriate and
+when it is not, when it should
+be overridden and when it should
+be followed and so on.
+So I want the people affected by
+them and the decision makers
+advised by them to understand
+something about how they work
+and understand their strengths
+and weaknesses. I would like
+them to be regularly and
+independently assessed for
+accuracy and fairness, and to do
+this we need transparency. So,
+finishing up last.
+Last page.
+So um recently a uh an academic
+and industry group called the
+Computing Community Consortium
+came out with a uh in response
+to the National Institute of
+Justice this nice phrase where
+constitutional rights are
+involved, transparency is
+paramount. So what are some of
+the types of transparency that
+you might pursue in a bill.
+These are the so-called Lego
+blocks that you might build a
+bit you might build a bill out
+of.
+Maybe the least is simple
+notice, just alerting people
+that an AI is being used to make
+a decision about them. That
+seems like the least you could
+ask. Another level is letting
+people challenge the information
+that is being used about them.
+So as one of the, one of your
+fellow state legislators of the
+gentleman from Minnesota said
+this morning, this is a little
+bit like the Federal Fair Credit
+Reporting Act.
+So if you notice your credit
+rating went down, you can
+download for free the
+information that went into
+calculating your credit rating.
+It's actually not that hard,
+surprisingly, to get this. Now,
+you don't get to find out how
+the credit agency calculated
+your score. That's proprietary.
+But you do get to see if they
+say, hey, you missed a payment
+or something. And then if you
+didn't, you can contest that and
+get it fixed. So it's a partial
+transparency. You know what data
+is going in, even though it's
+what it's going into is still a
+black box.
+Another level um is
+self-assessment. So require the
+developers of AI, the people
+designing it, the companies that
+are making it to assess their
+own products for bias and to
+perform due diligence to to
+avoid it. This is kind of like
+asking a manufacturer to do an
+impact statement of their
+product.
+Um, so it's, it's
+self-assessment, uh, and you
+know.
+Well, I'll move on.
+There's also local studies, so
+you know, New Mexico has unique
+demographics when I was working
+with my colleagues at UNM, uh,
+our study of the PSA was the
+first one that involved a
+significant Native American and
+Hispanic population, for
+instance, and an AI which was
+developed using data from other
+times and places might not work
+very well here. So it's
+important to do these local
+studies and to do them
+periodically. What I would like
+most
+As you can tell, is independent
+assessments, not taking the
+vendor's word for it, but really
+having independent third
+parties, whether they're
+academics, people, you know,
+contractors, whatever, who are
+not beholden to the vendor and
+can look at the AI and give you
+objective advice about whether
+it's accurate and fair. Um, and
+finally, where government uses
+are concerned, if you're going
+to make a decision about me,
+which is going to affect my
+life.
+my constitutional rights, I
+would really like to know.
+How that decision is being made.
+I think that's a basic
+foundation of government in a
+democratic society. How did you
+come up with that decision? What
+information about me did you use
+and what did you do with that
+information to produce an
+output.
+That affected me.
+Thank you very much.
+Is your mic on?
+And you speak softly generally,
+at least, so.
+OK, Madam Chair, members, I'm
+going to give you an overview of
+a couple pieces of legislation
+that deal with artificial
+intelligence in different ways
+and have generally different
+goals, um, the first is HB 184.
+The government use of artificial
+intelligence Act, which was
+sponsored by Madam Chair, Madam
+Leader, and Representative
+Sarana and Serato in the last
+session, um, you likely heard,
+um, this bill and
+Previous hearings so it's just
+this is kind of a refresher. Um,
+the concept for this legislation
+grew out of this committee's
+hearings last year when the
+committee was interested in, um,
+how the state was using AI,
+whether it was using AI to what
+extent, um, and, uh, so this is
+just a basic bare bones piece of
+legislation to just try to, um,
+Find out how the state's using
+artificial intelligence. So HB
+184 would create the government
+use of artificial intelligence,
+Transparency Act, which does
+basically 3 things. Um, the
+first is to, uh, require each
+state agency to um create
+inventories of how of the uh
+agencies' use of artificial
+intelligence tools and report
+that to the Department of
+Information Technology or do it.
+The second is to require do it
+to create an annual inventory of
+those uses and report that
+annually to all of you and to
+the governor, um, um, and the,
+uh, interim committee on science
+and technology.
+Um,
+and the 3rd.
+Um, is to actually, this is,
+yeah, the 3rd is to require do
+it to annually assess artificial
+intelligence for sources and
+types of data used, used, so
+that's kind of what professor
+Moore was talking about like
+where is this data coming from?
+Is it, um, data that could
+possibly be historically biased,
+um, also to assess the accuracy
+of the data? Is it, is it
+correct? Is it, um, including
+data about people that's
+Wrong, um, and then bias, which
+is defined later in the present.
+And actually does 4 things. The
+fourth is to change the
+procurement code so that, excuse
+me,
+so that vendors who contract
+with the state to sell services
+or, um, tools that use
+artificial intelligence have to
+disclose enough information so
+that Dot can assess that
+information for the, for the 3,
+areas.
+So
+HP 184 is just a transparency
+bill for use in government or
+used by government agencies.
+Colorado's SP 24, 205 is the
+Colorado, um, artificial
+intelligence Act that was passed
+in the last session but doesn't
+go into effect until, uh, 2026.
+And it's been recognized as the
+first comprehensive artificial
+intelligence legislation in the
+United States.
+Um, it creates duties for
+developers and deployers. So
+whether they're in the private
+sector or the public sector, um,
+they're to assess for known and
+uh or reasonably foreseeable
+risks of algorithmic
+discrimination arising from the
+intended and contracted uses of
+artificial intelligence.
+And it's considered
+comprehensive because it
+incorporates both, um, private,
+the private and public sector.
+Um, that bill, uh no.
+Um, statute defines developer as
+anyone who, um,
+Develops or intentionally and
+substantially modifies an
+artificial intelligence system.
+Um, the deployer means anyone
+that uses it or puts it out into
+the public.
+Um, developers have to disclose
+known or reasonably foreseeable
+risks of algorithmic
+discrimination arising from the
+intended uses, um, to the
+Colorado attorney General and to
+all known deployers of the, um,
+system.
+If the developer discovers that
+the system has been deployed.
+Um, and it's caused or is
+reasonably likely to cause
+algorithmic discrimination or
+the developer receives
+information from a deployer that
+the system has caused
+algorithmic discrimination.
+Uh, do players have to conduct
+annual assessment, uh, impact
+assessments, which is what Dr.
+Moore was talking about and
+notified the Attorney general,
+um, uh, for any high risk AI
+system deployed that's caused
+algorithmic discrimination. Both
+of those duties, they have to
+meet within 90 days.
+Uh, the the attorney General has
+the only enforcement power, um,
+to address violations of the
+Act.
+They're violations are
+considered um violations of
+Colorado's unfair Practices Act,
+Trade Practices Act, um, and
+penalties are limited to fines
+and injunctive relief.
+As the legislators were talking
+about this morning, there's no
+private right of action, and
+that's for.
+The political realities of
+getting this legislation passed.
+Um, there's a regrettable
+presumption if a developer
+deployer deployer has complied
+with all of the, um, acts
+substantive obligations, um, and
+that rebuttable presumption is
+that they took reasonable care
+to avoid discriminate
+discriminatory decisions, um,
+via a high risk AI system.
+Um, Colorado's legislation has
+been criticized, um, for the
+loopholes that um companies may
+be able to avoid its
+requirements, um, which is
+something we need to look at
+with every piece of legislation,
+um, they've also been criticized
+for enforce the enforcement
+provisions not being strong
+enough, um, and that the, uh,
+law relies too heavily on
+self-ass assessment or
+self-reporting.
+By the entities that um don't
+necessarily, uh, have incentive
+to do that work. Um, but again,
+the rebuttable presumption
+incentivizes, um.
+Doing the self-assessment, um,
+and disclosures. So these
+companies likely don't have any
+intent to create any
+discriminatory actions or
+biases, um, but they may not,
+um, on their own have the
+incentive to do the assessments
+that would avoid the
+discrimination. So what the act
+does is creates those
+incentives.
+And the legislation, despite
+those critiques has generally
+been endorsed and, um, applauded
+by um, advocate groups like
+Consumer Reports.
+Um, there, although the bills do
+different things, there's, um,
+shared concepts, although they
+might be defined differently in
+New Mexico, um, bill
+has a more detailed technical
+definition of artificial
+intelligence, um, Colorado
+incorporates its definition of
+all artificial intelligence into
+its definition of artificial
+intelligence systems.
+Um, you can see the.
+Different technical um
+definitions, um, Colorado's is.
+Um, succinct and that it looks
+at systems that generate outputs
+based on data that was um input
+and uh,
+Makes determinations based on
+inferences. Colorado's
+regulation is primarily focused
+on high risk artificial
+intelligence systems, um, and
+that focuses on consequential
+decision making, which is what
+Doctor Moore and the legislators
+this morning were talking about,
+um, so those decisions that
+affect people's lives.
+And it excludes it specifically
+excludes um things like
+Um,
+spreadsheets and common uses of
+um technology that might
+incorporate some degree of
+artificial intelligence.
+Yeah, drafting emails is Dr.
+Moore pointed out, um.
+The two states define
+consequential decisions
+differently, um, New Mexico is a
+more general definition of
+consequential decisions. So the
+denial eligibility provision
+withholding or of or access to
+government benefits, Colorado
+delineates expressly the
+different, um, areas that, uh,
+it, uh, incorporates in the
+definition of consequential
+decision.
+New Mexico's bill looks at bias,
+um, and so, uh, our bill
+references and refers to the
+Human Rights Act, so, um,
+It's, it parallels that and
+doesn't try to create new
+definitions.
+Colorado looks at algorithmic
+discrimination and um looks at
+specific areas of life, um,
+that.
+are incorporated into that
+decision.
+Um, so basically the difference
+is our HB 184 is just a simple
+transparency in government use
+bills. It has no enforcement
+mechanism, um, specific to the
+act, although other state laws
+could be used arguably to um
+Use the information. And
+Colorado's, um, bill is a
+comprehensive, um, piece of
+legislation that creates a legal
+framework to avoid, um, or
+address discrimination, um, and
+the uses of artificial
+intelligence.
+By both private and government
+actors.
+Thank you.
+Uh
+Thank you. Does that conclude
+your presentation? my
+presentation. Very cool.
+Anything else you wanna add
+before we move to questions?
+OK.
+Questions, comments, members.
+Um, Representative Chasey,
+Senator Ceda Lopez, um, Luhan,
+OK. Anyone else?
+OK, um, send, uh, Representative
+Chasey.
+Thank you, Madam Chair and thank
+you very much, um, I, I just
+want to thank Alisa for all of
+her work and, and for those of
+you who aren't quite sure how
+you would use your staff, um let
+me just say.
+You know,
+I'm very part-time, but Elisa
+has a full-time job. And so she
+went and joined that interstate
+working group of other
+legislators that I didn't have
+time to do. And that's where we
+got this.
+Beginning here and I really
+appreciate it and I, I sort of
+feel like I know something more
+than I did, but certainly not as
+much as she does now. And Chris,
+um, all of the folks who from
+the Santa Fe Institute who have
+presented to this committee and
+Health and Human Services. We
+really appreciate it.
+Um, I learned a lot this morning
+from listening to the other
+states and it, it seems like,
+um,
+We got some good tips. I don't
+know, you know, where, where we
+go from here. Um, Representative
+Saana used to serve on this
+committee, but now she's on the
+LSC and, um, so she misses this
+committee, but nonetheless, she,
+they've got her busy doing that.
+So, um, as chair of the Science
+and Technology interim
+committee. I know she's very
+interested in continuing her
+work here representing um
+An Nou was on one of the bills
+and then, uh, Senator Dewing.
+We were on the AI election bill,
+which we did get passed.
+And um it was just the very
+first uh foray there and we
+didn't have to worry about
+whether we were violating well,
+clearly we were not violating
+the First Amendment because all
+we were asking people to do is
+if you use AI disclose it.
+If you're using it in a
+political advertising. So, um,
+this is a good start, but I was
+really, um.
+Intrigued with some of the um
+techniques that I can't remember
+if it was a senator or a
+representative from Minnesota
+did where he included that
+section that
+Made it unnecessary to pass an
+entire bill.
+He just included one paragraph,
+and what can you, um, can we,
+can we do that here or is, is
+this the right vehicle?
+Madam Chair, Leader Chasey,
+members, um, I think, um, Doctor
+Moore will have a, a view of
+that, that both are necessary,
+both could be incorporated and
+combined into one. in some ways,
+there's overlap and um
+be combined to serve a similar
+purpose in some ways, um, a
+separate, at least a separate
+section would be, um,
+Recommended in my humble
+opinion, um, to address the
+transparency in government, um,
+and I'll let Doctor Moore.
+Adress the rest of that.
+Madam Leader Shey the as I
+understood it, the gentleman
+from Minnesota was talking about
+that and he mentioned the FCRA,
+the Fair Credit Reporting Act.
+So I, I think that is a good
+Lego brick again, make sure that
+if information about you is
+being put into an AI like in in
+your analogous to the federal
+law about the credit score, you
+should make sure that that
+information about you is true.
+Um, for instance, was it really
+you who was evicted, um, and by
+the way, was
+Is it your fault.
+Um,
+but the, uh, I think there are
+some other aspects that I would
+some other Lego bricks that I
+would certainly like to see
+included as well, especially for
+government uses of AI, I think
+that we in the society should be
+in the driver's seat and should
+really understand something
+about how the, how the AI works.
+In other words, it shouldn't be
+a black box. So not only do we
+need to make sure that the data
+going into it is good, we need
+some understanding of what it's
+doing with that data.
+And the logic behind its
+results, its recommendations,
+its decisions.
+Uh, thank you very much. Um,
+there was actually a gentleman
+here this morning and he did
+leave at lunchtime. And, um,
+He works for Microsoft. So he's
+kind of keeping his um eyes and
+ears on what we're doing here.
+And uh he knows very well one of
+our House Judiciary analysts,
+um, Victoria.
+Um,
+Garcia and uh because he, he, he
+has worked with her and she's a,
+she's a technology wizard, but,
+um, I, I thought it was really
+um smart to get the industry
+buy-in.
+And take your time and get that
+so that you don't end up with um
+that kind of a barrier to
+passage. That's all, Madam Char.
+Thank you very much. I really
+appreciate all the work of you
+and your colleagues, Chris, and,
+and thank you, Elisa.
+Thank you, Representative
+Senator Cedilia Lopez.
+Thank you. um, thank you for the
+presentation. It was really
+helpful. Um,
+I looking at the bills this
+morning and looking at the
+transparency bill, I mean, the
+transparency bill I think was a
+really good start.
+It's it's limited to government
+and just what government does
+with it, but government also
+many, many times has contracts
+with private industry. Does the
+bill address that, um, because
+You know, I think that's really
+important.
+Madam Chair, Senator Sio Lopez,
+uh, it does through the
+procurement process, uh, as far
+as, uh, companies that are
+contracting the state with the
+state or want to contract with
+the state have to make certain
+disclosures about the product,
+uh, sufficient to allow it to
+evaluate the product and, uh,
+for bias and accuracy and um
+Uh,
+Effectiveness. So then, uh,
+Madam Chair, what is the
+consequence if they don't? That,
+that always concerns me. How do
+you enforce these things?
+Madam Chair, Senator, uh, this
+was just an opening, um, kind of
+baseline piece of legislation.
+It was a 30 day session and so
+just given the realities of that
+and trying to um get some kind
+of um start with artificial
+intelligence was just our
+intent. So there is no
+enforcement mechanism in the in
+the Transparency Act, because,
+for example, if you have um and
+the reason I ask is.
+Was there a provision that a
+company that doesn't do it is
+not going to be eligible for the
+contract, or was it just another
+sort of suggestion we suggest
+you disclose this, but we might
+pick you anyway.
+Madam Chair, Senator, it would
+be a requirement in order to,
+um, qualify for the uh for the
+contract for the procurement
+process. I, um, I think that
+that was a really good start,
+but my hope would be that you
+pick up some of the Lego pieces
+from this morning and also
+consider applying it to private
+um
+To private businesses like those
+businesses, employment
+businesses, um, or people,
+businesses are going to employ
+people, um, rental housing, um,
+all of those background checks
+that people do because it can be
+devastating, and that provision
+that you described, or that was
+described by a representative
+Steve Elkins about making sure
+that you, that everybody has the
+opportunity to to correct the
+information that goes into it.
+At any stage, because that I
+think is the crucial problem
+with AI is, as I said, garbage
+in garbage out.
+And so you need to, I, I would
+like to see that in the future
+version of the bill, that
+provision that that he had in
+his bill. I thought that was
+probably one of the stronger
+things, and I would love to see
+it expand to all of all of us
+who are going to be affected,
+especially the disclosure thing.
+Um, and then I really liked what
+you said about, um, you know,
+making the analogy to other
+decision making tools that are
+used in the system whether it's
+a human using the tool or
+whether it's a
+using an algorithm. Transparency
+is really important, so people
+know what they, what they're
+being evaluated on. Um, but I, I
+liked this. I really liked this
+presentation and I'm glad that
+we're moving forward on it
+because we do need to protect
+the public from this. Thank you,
+Madam Chair.
+Thank you, Senator.
+Representative Lujan.
+Thank you, thank you, Madam
+Chair.
+Great conversation. I'm glad
+we're having it in this
+committee too, um, just on the
+legal basis of of what we're
+gonna, how we're going to meet
+the challenges of AI, um, and it
+just, it reminds me, Madam
+Chair, back in under the the
+previous um um executive
+administration when we were, uh,
+giving school grades and we
+were, we were, um, grading our
+teachers and all this stuff and
+there was an algorithm that they
+created. It was all human input.
+So it's all about the variables
+and dependent upon
+And this variables or the
+outcomes you've got and the
+measures you created. It's the
+same thing with this.
+So it's that human input that
+then creates
+The, the bias that that comes
+out, the output, right? So I'm,
+I need us to, you know, just to
+simplify it a little bit that
+we've been doing this for quite
+a long time with just
+but not at this level and this
+amount of data and information.
+That's, that's really where the,
+the crux of this is for us to,
+to comprehend that amount of
+data we can't, but there's still
+a human element to it, and I, as
+I mentioned in the previous
+conversation on the AI that we
+need to have that human, um, um.
+Involved that human aspect of
+this uh overseeing and oversight
+and input there all the time.
+That's just one of the
+challenges, um.
+The other one is, you know, like
+I said, the, the algorithms that
+are based on, on all that, how
+we, how we figure that out is
+going to be a challenge. So I
+would, I would then go back to
+like what Representative Chasey
+said and looking at the
+engagement part of this. Does
+this bill include creating any
+kind of task force that would
+work with um stakeholders to
+continue the work because this
+is going to be ever changing,
+Madam Chair.
+And chair Representative Lujan,
+I was just at a, um, I attended
+an all day task force meeting
+prior to NCSL in Louisville and,
+um, the general consensus there
+and what you heard from a lot of
+um legislative members from all
+over the country was that we are
+past the task force stage. Um,
+we're past the studying stage,
+um, we're past the bare bones
+transparency stage that
+A
+I would say it's a speeding
+bullet, but it's a lot of
+speeding bullets, um, and the
+concern is the amount of data
+and the sources of data that are
+being dumped into these systems.
+It's the entire internet and
+some um
+situations. So a lot of the data
+may include the and likely does
+include things that we would not
+generally include in decision
+making and that we don't want to
+include in decision making, so
+they have to have the human um
+oversight is necessary to any
+system.
+And legislation, um, and so I
+think we need to, uh, we will
+never catch up. Um, we need to
+devise legislation that's
+malleable enough to evolve with
+the rapidly evolving technology.
+Thank you. I'm glad, I'm glad I
+got that out of you because
+it's.
+It's, it's already beyond us,
+um, that's consensus. But we do
+have to put some, some, um,
+guardrails out there. And one of
+the guardrails I'm concerned
+about is.
+As government employees or
+government officials ourselves
+using AI and when we're, we have
+um sensitive information.
+Um, how that could be leaked
+out. Are there any provisions or
+any protections in this piece of
+legislation or through the
+discussions I know you're you're
+more heavily involved in the
+discussions.
+I'm sure the legislation, uh,
+Madam Chair, uh, Representative
+Lujan, um.
+I'm not sure if this, these
+pieces of legislation direct
+address that directly, um, but
+it's, you know, other, other
+laws would, um, address that and
+you could look at uh creating
+some express provision and any
+legislation that you devise to
+address that. But you remind me
+of something that I learned um
+in Louisville, and that is never
+put in any personal information
+into an AI.
+System because it goes out into
+that entire tool and so it's not
+protected, um, it's part of that
+AI tool for everyone to see and
+use. Um, so that is, uh, and
+another thing that reminds me of
+is for um it's recommended for
+state agencies and governmental
+bodies like the legislature to
+develop regulations and policies
+for using AI like that, um, you
+know, to warm or to uh create.
+Prohibitions on putting certain
+kinds of information into
+systems and to delineate how to
+use these systems properly, what
+they can be used for, um, for
+say legislative purposes.
+Um, so those are
+Things to to look at in any kind
+of legislation and also policy
+development for the operation of
+the body itself. Yeah sure, I
+think we need to get on this
+like as quickly as possible
+because one of the AI
+conversations I had at CSG
+conference was that our
+government uh body uh officials
+and and workforce are already
+using the these tools.
+So all that information is
+already is already out there.
+We're again we're behind the.
+The the game here, the last
+thing I wanted to to talk about
+is in your definition, is that
+aligned with the the definition
+of the um HP.
+182 the the election changes,
+Madam Chair. Madam Chair
+Representative Lujan, uh,
+they're different definitions
+because they're different kinds
+of technology and um address
+different concerns. So the um
+election bill, the deep fake
+disclosure bill, um, uses a
+different kind of technology,
+whereas this is um this bill
+184, um, and the, the, um,
+Colorado bill address, um,
+Different kind of data, um, and
+decision making, whereas the
+deep fake bill is, you know,
+synthetic images, addressing
+synthetic images.
+So there, it's hard to align
+those definitions, but the
+definition that we used in 184
+was lifted directly from Senator
+Moroney's, um, draft bill.
+Draft legislation. Madam Chair,
+I just see a problem with that.
+I think we need to work to to
+really kind of bring those in
+alignment. I don't know how, and
+I'm hearing that there's some
+difficulty there, but without
+doing that, then it's gonna be
+even more challenging as for
+other uh pieces of legislation
+and for like enforcement and
+other things that we're the AI
+in this components. And that's
+what I got from NCSL that there
+needs to be an alignment in
+definitions with different types
+of, of, of AI policies or else
+we're going to run into those
+problems.
+or those challenges. So I just
+think if we can weigh in a
+little bit there and see if
+there there is a way that we can
+work through that, then that's,
+that's really all I have. Thank
+you, ma'am. Thank you. Anyone
+else before we conclude? Well,
+thanks again and I, I also want
+to note that we often invite our
+Oh, OK, sorry, sorry. Well, OK,
+if.
+We're beyond our time. Thank
+you, madam. I'll try to keep it
+short, um, first of all, I
+appreciate the sponsors for
+bringing this forward, um,
+because I think that, you know,
+it sort of
+Brings to mind when, when we
+went from smart from regular
+phones to smartphones to
+computers to and and to me this
+is a really fast industry.
+Um, and one of the things that I
+think about,
+Is our population in New Mexico
+not keeping up, and if they are
+involved with government at some
+level, whatever level that is,
+and they don't even understand
+what AI means.
+And I see that with my mom who's
+96, and she was like.
+My smartphone, she's like, I
+want one, but I wouldn't know
+how to use it, you know, so my
+question is, I guess with regard
+to
+Discriminate discrimination for
+our um
+Our populations that are
+Minorities or seniors who feel
+like they're getting left behind
+if they fall into a situation
+where they're dealing with a
+government service and they
+don't even know what AI means,
+and yes, we have a section that
+deals with discriminatory
+practice and you have an avenue
+for, you know, addressing that
+discrimination, but if you don't
+even know what that means, how
+do you all see that?
+As we move forward, I'm just
+questioning, let's say there's a
+service that the government
+provides to these individuals,
+which is our responsibility.
+How do you see?
+I mean, there's, there's people
+that are gonna be left
+populations that are going to be
+left behind, and there are
+already are.
+Madam Chair, Senator, I think
+I, I totally agree with this
+concern and in many ways, I
+think the reason I'm pushing so
+hard for transparency is to make
+sure that everyone as as broadly
+as we can in society does have
+some understanding and some
+control over these technologies.
+I think what we're really trying
+to avoid, I mean, of course, you
+know, the government might have
+to say no sometimes because the
+service is unavailable or
+whatever.
+What we're really trying to
+avoid is having the person on
+the other end of the phone say,
+uh, sorry, the computer says no.
+Right? That's a black box.
+You know, I think it's important
+for them to say, I'm sorry, it
+says no because your income
+isn't sufficient or because
+whatever that there's some
+reasons, some logic to it.
+There, you know, that doesn't
+make the decision perfect,
+doesn't make everybody happy,
+but I think the one thing we
+don't want is black boxes just
+saying no, and I'm not going to
+tell you why.
+Madam Chair, uh, Representative
+Barrego, if I could just add to
+that.
+Artificial intelligence is going
+to require us to rethink a lot
+of policies and to determine
+what to, to do about different
+issues and so you raise a good
+issue as far as people, older
+people that might be adversely
+affected by it. How are they
+going to know? What are they
+going to do to address it? What
+are, what's the legislative body
+going to do about trying to
+protect them? Are they, do you
+want to create advisors for
+People, um, or, uh, an automatic
+review, human review of a
+decision, those things are all
+things that are uh going to have
+to be addressed in the new era
+of artificial intelligence.
+Thank you, Madam Chair, and I
+just want one comment, um, and I
+think that you brought up the
+whole issue of the procurement
+code and when you select vendors
+and so on, and that's gonna be a
+really difficult thing to sort
+of enforce because this is
+already there as somebody, one
+of our other representatives
+mentioned, this is already
+happening, but when we're
+looking for applications that
+affect services for populations.
+I think that it's, it's
+imperative that we
+We have a um.
+A population of employees that
+also understand what AI means.
+So I just wanted to make that
+comment, Madam Chair. Thank you,
+Representative.
+Perfect timing, um, well, I want
+to thank you both,
+always appreciate the work
+you've been doing and, uh, Lisa,
+thanks for all the research
+you've been doing for all of us
+and me in particular helping
+organize some of these AI um
+meetings very much and thank you
+very much, Dr. Moore. OK, sure.
+OK, um, before we go to our next
+panel, we have minutes and I've
+been reminded we better approve
+the minutes before people start,
+um, disappearing on me. So, um,
+we have the July 16th, 17th
+meeting, um, Representative
+Chasey.
+Who
+OK, motion to adopt the
+amendments, approve the
+amendments. Is there any
+opposition?
+I see no opposition, so the
+minutes are approved. OK, we're
+ready for our next panel.
+What?
+Senator Cedillo.
+OK.
+Welcome, good to see all of you,
+um, the next item on our agenda
+is Children's code reform Task
+Force recommendation and propose
+legislation, um, I, I've not met
+any of you, so um I'm looking
+forward to learning more about
+you and the work that you're
+doing if you could introduce
+yourselves and feel free to move
+forward on your presentation as
+you see appropriate.
+Thank you so much, Chair
+Chandler. I'm Kristen Connolly,
+and I'm sorry, and members of
+the committee as well. I'm
+Kristen Connelly. I'm the
+director of the Corinne Wolf
+Center for Child and Family
+Justice at the law school. I'm
+an attorney. I'm also a
+nationally certified child
+welfare law specialist for 18
+years now, uh, both certified,
+well supported by the ABA but
+originally through the National
+Association of Council for
+Children,
+uh,
+Represented parents or children
+in foster when the kids were in
+foster care for well over 20
+years here in New Mexico before
+I came to the Karen Wolf Center.
+Also with me, I have Kathleen
+Sabo, who is a, an attorney, uh,
+and she is our task force
+coordinator and our writer and
+researcher, she helps keep us on
+track in our meetings and make
+sure everybody gets to the
+meetings that needs to.
+Judge John J. Romero, who is a
+retired district court judge
+here in the 2nd judicial
+district and also a past past or
+present present past president
+of the NCJFCJ National Council
+of Family.
+Juvenile and family court
+judges. Thank you. I knew I was
+going to leave at least one of
+those out, uh, because, uh, Miss
+Sabo has really been involved
+with this task force for longer
+than I have. I am going to uh
+turn the presentation over to
+her at this point. Thank you so
+much, Chris.
+Sup once. I want people to know
+that there's a task force report
+and it was sent out to you by
+email from Nancy, so just FYI
+so.
+Thank you, Kristen. Thank you,
+Madam Chair, members of the
+committee, and some of you I
+know through having worked at
+the legislature for many years
+in the Senate Judiciary
+Committee and then as head of
+the uh pool of majority
+analysts. I was the head
+analyst there, and others I know
+through my work as executive
+director of New Mexico Ethics
+Watch. So nice to see, uh, many
+of you here as Kristen
+mentioned, I've been with the
+task force since its inception,
+so it falls on me to give you a
+little bit of background and,
+and
+History here, uh, which may be
+news to many of you, certainly
+not to Senator Lopez, who is a
+task force member. She's been
+with the task force since the
+beginning and has been chiefly
+responsible for making sure that
+the task force work has been
+funded, so thank you so much,
+Senator Lopez. We are so happy
+to be here today to talk about
+an experience that has been both
+rewarding and incredibly
+productive. In 2022, the
+legislature appropriated
+$50,000.
+to the administrative office of
+the court, the AOC for the task
+force to assess and recommend
+changes and at that time it was
+envisioned to be a multi-year
+effort. And during that time,
+the sort of composition and
+operational plan for the task
+force were determined. At that
+point, myself and Tony Ortiz
+were hired to staff the task
+force and I assume many of you
+are familiar with Tony's name.
+He worked with legislative
+councils.
+Service for many years. He was
+the director of the Sentencing
+commission and in the report,
+there's, um, a lot of draft
+legislation and Tony was the
+chief expert drafter for that
+legislation.
+In January of 2023, the task
+force began meeting.
+And during initial meetings and
+discussions, it was decided that
+the task force would work
+basically within two separate
+subcommittees. And the first one
+was crossover youth, and I don't
+know if that's a new term for
+some of you, but in short, it
+means a child who is
+simultaneously involved in both
+the child welfare and juvenile
+justice systems, whether or not
+they've been adjudicated in
+those systems. And then the
+second subcommittee was
+improving responses to poverty
+and sub.
+Since misuse.
+And while the task force was
+initially meeting a second
+appropriation was made by the
+legislature for $75,000 for
+continuing the work in fiscal
+year 24. So from May through
+December of that year. So the,
+the task force operated from
+January through May, and in May
+through December of 23. It was
+on hiatus and during that time
+staff, myself and Tony Ortiz, we
+produced two reports. The first
+was called Permanency Timelines
+in judicial.
+Review and the second report was
+called Disentangling poverty and
+neglect in the child welfare
+system in New Mexico and beyond,
+and you don't have those reports
+in front of you, but they can be
+found on the task force page on
+the Corinne Wolf Center, uh,
+web website that's child law.
+Um, UNM.edu.
+Thanks, Kristen.
+So, so the hiatus ended and the
+task force began meeting again
+in January of 2024, with almost
+all of its original members.
+Some had to drop out because
+they became judges. Others had
+to drop out because they took on
+more responsibilities and
+couldn't, didn't feel they had
+the time. But almost all the
+original members and, and at
+that point the task force began
+operating under a memorandum of
+understanding between the AOC
+and the University of New
+Mexico.
+uh, and operating under the
+direction of the Corinne Wolf
+Center with its director,
+Kristen Connolly as the chair
+and the chief task of the task
+force was to present a report by
+the end of June 2024. So you
+see, not, not much time, a lot
+to do in that time period. You
+can find a listing of all the
+members and their affiliations
+on page 50 of the report. If you
+want to look for that. And
+Kristen has been wonderful in
+recognizing and
+need when we need someone with a
+particular expertise from a
+certain department or a certain
+discipline and it's been a
+little bit fluid in terms of
+membership. We've brought people
+on and that's been really
+wonderful.
+So from January through June of
+2024. The task force task force
+met as a whole and in
+subcommittees and in further
+defined subgroups to begin
+drafting legislation in discrete
+areas and to formulate
+recommendations on a path
+forward and the report is before
+you. I'll, I'll just give you a
+couple of page numbers. I, I
+don't imagine you'll look right
+now, but the proposed
+legislation can be found on
+pages 7 through 41.
+Recommendations on pages 41
+through 49, including specific
+recommendations, um, for the
+legislature.
+Those are on page 42 through 45.
+And then a list of future
+activities that would allow for
+assessment and recommendation of
+changes to the Children's code
+that's on page 49, and that
+includes the task force
+receiving continuing funding.
+So currently there is no funding
+for the task force to continue
+its work. However, through the
+efforts of Senator Lopez and
+then through Kristen Conley, it
+looks like the group will be
+able to continue its work in
+short order for a few months
+under a grant from the Nie E.
+Casey Foundation.
+We're not counting our chickens
+yet. We, we know that council,
+but we're hoping they will hatch
+shortly and we can gather once
+again.
+The recommendations and the and
+other developments outside of
+the task force will assist the
+group in finding its way forward
+with regard to areas and issues
+to continue to work on. We
+anticipate that all current
+members will remain engaged in
+the work, and again, we'll add
+people from particular
+expertise, uh, areas of
+expertise or departments as
+necessary.
+Before I turn this over to the
+deep subject matter experts. I
+do want to highlight the
+collaborative nature of the task
+force.
+Throughout all branches of
+government and just note that it
+is, it's been so good and
+productive to work with all
+three branches rather than to
+work in silos. And additionally,
+when the task force is up to
+speed, we look forward to
+collaborating with the SM5 task
+force. That's the task force
+that is looking at restructuring
+CYFD. We've already had initial
+discussions with them to talk
+about our work and to talk
+about.
+Overlap and how we can be of
+assistance to each other.
+So
+when you look at the names and
+the affiliations of the people
+who've been on this task force.
+I know you will be able to see
+the breath and depth of
+experience and skill and
+capabilities, but what the list
+doesn't show is how incredibly
+committed and compassionate
+these people are towards helping
+the families and children of our
+state.
+And the experience of working on
+these issues with these people
+has been remarkable. And we do
+hope that it continues. And with
+that, I'll turn it over to
+Kristen and you can take it from
+there. Thank you so much, Judge
+Romero.
+Madam Chair, members of the
+committee, thank you for the
+opportunity to appear before you
+today and to present some very
+important information to you and
+um I'd like to simply add a
+little bit to what has already
+been described about my
+experience in this work,
+uh, for 17 years or so I
+practiced in family law, mostly
+in the divorce court, but much
+of it in Children's Court as
+well. Um, I served on what is
+now an 87 year old
+national organization, the
+National Council of Juvenile and
+Family Court judges whose
+primary function is to educate
+judges and court professionals
+in the area of child welfare and
+juvenile justice. I was also,
+uh, although I didn't renew my
+membership, uh, in the, uh, as
+being a child welfare law
+specialist, uh, because the AOC
+wouldn't pay for it and I didn't
+see any need to go forward with
+that, but like Kristen, I am.
+One of several in New Mexico
+that is that was deemed a
+certified child welfare law
+specialist.
+Uh, for 17 years and about 9
+months, but who's counting? and
+I spent on the Children's Court
+division of the 2nd Judicial
+District court. We were spoiled
+there. The three judges who
+served at the time that I
+served, uh, in being exclusively
+connected to dealing with child
+welfare and juvenile justice
+cases. So I don't like the label
+of being an expert, but we had
+the opportunity to gain
+expertise presiding over these
+cases and most importantly,
+recognizing
+The humanity of the children,
+their parents, and yes, everyone
+else involved in the system. So
+before I move on to kind of uh a
+final comment before we get into
+the the meat of what we're
+presenting to you as
+recommendations.
+there is this fallacy in the
+whole state of New Mexico, I
+think fueled by a lot of uh uh
+entities, namely the media, that
+the children youth and Families
+department is the child welfare
+system.
+Not so as a judge, as attorneys,
+as community providers were all
+part of the child welfare law
+system and part of the juvenile
+justice system. So while CYFD
+may be the brunt of the attacks
+that we see in the media.
+To the extent that they are
+alleged to be failing our whole
+system can be indicted by that.
+So I, I, I know I'm, I don't
+gain a whole lot of applause
+from judges when I preached the
+subject of we are the
+gatekeepers of the system, not
+because I say so and not because
+it's an ego trip, because in
+1980, the US Congress passed a
+law that says the state judges,
+the state district court is
+It is saddled with in in
+empowered with and it has the
+duty of overseeing the child
+welfare system, something that I
+would be exaggerating if I said
+that I did that every time that
+I heard a case, even though that
+was my aspirational goal, but
+when I charge my fellow judges,
+those who sit now that we all
+have to take a more active role.
+We're not here just to sit by
+and listen to what people tell
+us, but we're to ask questions.
+And as is noted in the report,
+judging and presiding and
+participating in child welfare
+law and juvenile justice cases
+requires special expertise.
+Children are not little adults
+and they're uh developmental
+stages of the research that has
+been conducted on adverse
+childhood experiences, trauma,
+and yes, even on what it takes
+to assist families and children
+to overcome substance misuse
+issues instead of criminalizing
+their behavior, looking at their
+behaviors, not their conditions
+of life, not their habits and
+evil way of.
+but their behaviors has taken a
+different turn. I didn't know
+about when I sat on the bench,
+probably through my own
+ignorance, but that there's no
+need to not look at that now and
+be advised by, by what the, the
+research tells us. So the task
+force.
+As has already been noted and
+you can see the list of
+participants, uh, includes
+members who have been through
+the system, those with lived
+experience, or as I prefer to
+say lived expertise they, I
+don't know how they felt going
+through the system. Only they
+know, only they know what they
+needed that wasn't offered. Only
+they know how we as legal
+professionals, including judges
+may especially judges, didn't
+respond to their needs, didn't
+treat them in a humane and
+Compassionate manner. It is the
+goal of this task force to
+In an overarching way.
+Consider how we can
+improve the circumstances of
+those families and children
+involved in our system.
+Those who make New Mexico their
+home and even some of whom
+happened to have been in New
+Mexico when they were um.
+When they came to the attention
+of CYFD and law enforcement and
+may live in another state,
+particularly our Native American
+community which contrary to some
+misconceptions, um, they're as
+mobile as any of us are, and
+they may be from, uh, South
+Carolina, North Carolina, uh,
+and have children here in New
+Mexico that are involved in our
+system, so the need for us to
+know about uh federal laws like
+the Indian Child Welfare Act and
+the In Family Protection Act
+does not apply just
+To those who are residents of
+our state. So the North Star of
+our work as noted in the
+beginning part of the report, is
+While safety of children is of
+the utmost importance.
+We know through research and our
+own lived experience and the
+lived experience of those who've
+been through the system. The
+children do much better when
+they live and enjoy the love and
+support of their families. We
+know that when children are
+removed, even when it's
+necessary, uh, go through
+extreme trauma to be separated
+from their brothers and sisters,
+from their parents, from their
+relatives, and yes, even their
+pets because most of us have
+pets and consider them members
+of our family. And yet
+Our system doesn't really take
+that into account for the most
+part. Although I understand that
+CYFD has received some funding
+to assist.
+Uh
+Victims of domestic violence to
+be able to have their pets
+placed with them in shelters,
+for example, or in other
+settings. Uh, very important
+when it comes to children and
+our child welfare system who are
+removed from their families in
+the closest, most comforting
+entity that they have is a
+little furry critter with 4 ft.
+So with that, I, uh I mean I can
+go on forever, but my colleagues
+have much to add that I don't
+want to take up more time than
+than is necessary. Kristen.
+Thank you, Judge Romero. Um, I,
+I would like to spend just a
+little more time talking about
+how the task force, um, was
+built after I agreed to take it
+on. Um, it's extremely important
+to us that we make sure that we
+have individuals with expertise
+in the various areas that we're
+talking about. So for example,
+when we talked about crossover
+youth, which are youth that
+start in foster care but then
+later on pick up a juvenile
+charge. Um, we wanted to make
+Sure that we had someone from
+the law office of the Public
+Defender who represents
+juveniles. It was also extremely
+important to me to make to make
+sure that we had people from
+various parts of the state, and
+I have folks from cruises. I
+have folks from Farmington, um,
+uh, uh, frankly, there are a lot
+here in the center of the state,
+I inherited that and I wasn't
+going to boot anyone off the
+task force, but as we had
+openings.
+Come up or an apparent need for
+additional expertise, I made
+sure to reach out outside of the
+center of the state. It's too
+common that those of us that are
+Bernicentric think that the
+entire state circles around this
+part and we know that that is
+not true.
+Um, the other thing I think
+that's very important is that we
+worked hard to have as much, um,
+openness in our process as
+possible because we are a task
+force of the legislature. We're
+not technically subject to the
+open meetings at, but we also
+felt it was extremely important
+that members of the public be
+able to access the work that we
+were doing to be able to come
+and let their concerns be known
+as well and in fact the end of
+our
+is about additional things that
+were brought to our attention by
+various community members or
+other professionals that work in
+the field. To that end, we
+drafted and passed a resolution
+where we would post our agenda,
+uh, on, uh, my website again
+that's at the Corn Wolf Law
+Center at the UNM School of Law
+and the email or sorry the
+website is Chilaw.m.
+Dot EDU that appears, I think,
+in the very first note in our
+report, uh, that you would be
+able to find and unfortunately,
+in a classic move, I think I
+brought one business card with
+me, so somebody can have my one
+business card when we're done
+here today, um, as I said, we
+posted, we tried to get
+recordings of the meetings up
+and just could not make that
+happen. Uh, UNM has sort of a
+clunky bureau.
+democratic process to make sure
+that things are safe, um, and so
+we, we just had some challenge
+there, but we did post notes.
+Uh, we made sure that we had
+people register to attend
+meetings. These were all online,
+uh, and then the day of the
+meeting we would send out the
+invitation with a Zoom link, uh,
+that's also because we wanted to
+make sure that we had
+appropriate security in place,
+uh, and that we didn't have
+someone zoom bombing a meeting,
+for example.
+Um,
+Let's see, and then we posted
+the meeting notes after every
+meeting as well. So, um, and,
+and certainly any of you would
+be willing,
+sorry, would be welcome to drop
+in to any of our meetings, uh,
+fingers crossed once we get
+started now, uh, we're not
+counting our chickens before
+they're hatched, but we have a
+couple of nests that have eggs
+in them right now and they're
+being kept warm, but we're
+Got some bureaucratic process
+both through UNM and through the
+Annie E. Casey Foundation and
+those all have to talk with each
+other and so we're in the midst
+of that happening, but all the
+paperwork that needed to be
+submitted has happened, so we
+think we will have some funding
+that will get us through, uh,
+December, uh, possibly into
+January, but my preference would
+be for a new report to come out
+in December, as you know,
+January would be a little late,
+um.
+So, um, we started, uh, as, as
+the judge reported we had the
+two different groups, uh, or
+maybe that was you, Kathleen.
+I'm sorry, we had the two
+primary groups. One of the
+things that we know that happens
+sometimes, well, not sometimes
+frequently people of color are
+targeted by child and family
+welfare proceedings in a way
+that Anglos are not, and so we
+wanted to make sure that we
+uh, mechanisms in place and look
+at laws that do not promote
+that. We also don't want people
+who are poor just because they
+are poor to be more likely to be
+subjected to an investigation by
+CYFD people that need food
+stamps, people that need WI,
+people that need housing, people
+that need utility support, all
+of these people are required to
+show up for multiple meetings
+with providers.
+etc. over and over and over
+again, they are subjected to the
+eyes of government bodies in a
+way that people that are
+fortunate enough to have enough
+funds to pay for these things
+themselves are not subjected to.
+So it was very important for us
+to look at issues and ways to
+separate poverty from a decision
+as to whether or not child or
+family, uh sorry, whether or not
+abuse or neglect had happened in
+a family.
+I personally prefer the term
+child and family welfare, and
+you will hear me say that over
+and over again. Please note I am
+saying child first.
+But the child is within the
+context of the family in the 20
+years I represented kids, I had
+two possibly evil parents who
+deserved what they got, which
+means they lost their kids. The
+kids never deserved it. All the
+rest of them were grown up,
+abused, and neglected kids with
+developmental delay with
+domestic violence with their own
+childhood sexual abuse, etc.
+Um, and so it's important that
+we keep that in mind that we are
+talking about people that have
+come up through some of the most
+traumatic circumstances.
+If you are wealthy and you have
+a substance misuse disorder and
+you're wealthy either with cash
+or you're wealthy in your family
+connections, you have somebody
+to watch the kids when you go
+off on a toot.
+If you are not wealthy or are
+not wealthy in family
+connections if you have come to
+a place in your life that you,
+uh, have a substance use
+disorder, you don't necessarily
+have someone to place children
+with, um, and so we know that
+there's a great imbalance there.
+So as we looked at uh
+definitions, we started to
+figure out how do we make
+Sure that poverty is stripped
+out of this and poverty can look
+different, um, it, it, it, it
+can be confusing for a police
+officer who is called to a home,
+um, the child has scabies. Well,
+that sounds horrible. That
+sounds like a clear case of
+medical neglect. The scabies may
+have been caused by
+uncleanliness. Well, that sounds
+horrible. That sounds like a
+terrible case of neglect.
+The uncleanliness may have been
+caused by we don't have money to
+buy more than one set of clothes
+for each school child. We don't
+have money to have the water
+turned on in our home. We don't
+have money to go to the
+laundromat.
+And it becomes this cascade that
+ends with a child at school with
+a medical condition, but may
+have started with needing better
+financial support for the
+family.
+So one of the things that we
+want to look at is to make sure
+that when the department starts
+to investigate a family that
+they are being careful to to
+determine
+is there an underlying lack of
+resources that is causing the
+problem. Now that doesn't
+include the kid, but, and, and
+here's the other thing you need
+to know, uh, I, I'm just going
+to be shooting from the hip
+here, but I've been doing this
+for 20 something years.
+About 80% of our cases are
+neglect in New Mexico, a very
+small percentage of our cases
+are sex abuse, a slightly larger
+but still small percentage of
+our cases are physical abuse,
+far and away what we are looking
+at is neglect. Parents that have
+left their kids alone when they
+go to work, um, parents that,
+uh, don't have somebody to be at
+home when the seven year old
+gets off the bus.
+Parents that are stressed and
+exhausted and maybe have not
+replied to the school in the
+best way possible when they
+contact them and say, you know,
+little, little Janie is having
+an issue.
+Um, so we wanna make sure,
+please,
+um, I, I wanna kind of put some
+boundaries here. So thank you
+um,
+the title of your report is
+Recommendations and proposed
+legislation which, um, so I
+wanna see if we can get to that
+place because you know we're on,
+on a schedule and your
+information is helpful, but if
+we could start talking about
+recommendations and, and
+legislation. I think that would
+help so that we have a folk.
+And page numbers in the report,
+although I've noticed there are
+around 40 that there's
+recommended page 40-ish their
+recommendations and so forth, so
+we start, thank you very much,
+Madam Chair. I appreciate that.
+Uh, so the proposed legislation
+is already drafted and is the
+beginning of the report. We
+start with changes to the
+definitions. Most of that stays
+the same, but we want to include
+language for a neglected child
+that modifies how we talk.
+about a child being neglected
+and get rid of words like
+subsistence, because who the
+heck knows what that means,
+whereas if we say that the kid
+doesn't have food, shelter,
+clothing, education, medical or
+mental health treatment,
+supervision or other care or
+support necessary. Uh, we also
+want to make sure again that the
+issue was not inadequate
+financial resources, uh.
+Working off of the Benny
+Hargrove Act. We also were
+concerned about a child having
+negligent unsupervised access to
+a weapon,
+um, and so we included a
+definition that includes that. I
+grew up in Amarillo, Texas. I
+was out with friends of mine who
+were out shooting rattlesnakes
+or other predators that we're
+going to take out the baby
+animals. I am not saying that a
+15 year old with a
+Rifle in the field taking care
+of, uh, livestock that is not
+negligence, and that is not
+unsupervised if we've got a kid
+that's gone through his Eddie
+Eagle training, all of that. Um,
+we want to, uh, we're proposing
+that, uh, the department makes
+sure that they immediately
+provide financial support for
+families when that is
+appropriate, uh, we want to make
+sure.
+That, um, that when caseworkers
+write up the affidavit for why a
+child has been brought in, that
+they are able to distinguish uh
+inappropriate behaviors from
+simply not having the money to
+pay for services that their
+child needs. Um, we also
+included, uh, that we want uh
+able account set up for children
+that have been brought into
+custody, so kids that may be
+eligible.
+Or say disability payments, um,
+or for, uh, payments because
+their parents have passed on,
+uh, are not having to pay for
+their care in a way that
+children who are not eligible
+for disability, uh, are having,
+uh, to pay, um, we are also uh.
+I want to make sure that we have
+a timing, oh, and I'm sorry, you
+were asking for page numbers in
+the report. So the definitions,
+uh, starts on page 8.
+Uh
+Where the section where we're
+asking the department to make
+sure that they've done an
+analysis of what are the needs
+of the family and offered
+services if or financial
+supports, um, and that might
+even be just a referral to food
+stamps, that sort of thing, uh,
+that's on page 11, uh, on page
+13, we also talk about that
+modification.
+And then, um.
+Let's see page 16 also addresses
+that the stable accounts or in
+New Mexico, it's generally
+nationally it's called an A
+account New Mexico calls them
+stable accounts, uh, page 17,
+um, and then, um.
+Also to make sure that uh and
+and oh sorry that goes on to
+page 18. Now we want to get rid
+of a presumption of abandonment.
+We want to make sure that that
+doesn't remove the fact that a
+parental rights could be
+terminated because a child has
+been abandoned, but we want to
+get rid of the idea that a child
+who is in foster care, where the
+parent has not necessarily been
+able to uphold the level of
+contact with the.
+Child that you want, uh, you
+might desire. We want to make
+sure that there's not a
+presumption that that parent has
+abandoned the child when it's by
+state action that the child and
+the parent are not together,
+that is page 19, uh, page 21,
+uh, we, this is a very important
+piece to us because one of the
+things that I heard in the LHHS
+meeting,
+oh, I don't remember when that
+was, it was.
+Probably June, uh, at the
+rainforest innovation Center,
+but there was a concern that
+CYFD was not utilizing all the
+federal money that was available
+to us. It was not taking
+advantage of federal
+reimbursement. One of the ways
+to make sure that we get full
+federal reimbursement and as a
+taxpayer, this is important to
+me is that we make sure that
+every child that is eligible for
+4E funds receives those funds to
+reimburse.
+The state for those expenses and
+that means timelines. That means
+that the, the adoption and safe
+Family Act timelines are
+completely honored here in the
+state of New Mexico. We have
+already codified many of those
+timelines where an adjudication
+has to happen within a certain
+amount of time where a
+permanency hearing to, I call it
+the Fisher cut bait hearing, uh,
+happens at the appropriate time
+that particular findings or need
+to.
+To be made at particular times.
+That's on page 21 and um
+we want to make sure that that
+is brought forward, um.
+We also are proposing that we
+front load these cases with
+additional hearings early in the
+proceeding to let the parent
+know that the that we have
+robust judicial oversight, Judge
+Romero, may I add something very
+quickly, Madam Chair and members
+of the committee with regard to
+the items contained on page 21
+of the report, timelines, one of
+the very important additions is
+that the adjudicatory hearing,
+the jurisdictional hearing, the
+one that ultimately
+Determines whether the court has
+jurisdiction over this case or
+not, be commenced within the
+timelines, but that it be
+concluded within 90 days from
+the date it was commenced.
+Unfortunately for a whole array
+of reasons, namely continuances,
+adjudications could have been
+commenced on time, they may have
+taken 30 minutes of a hearing
+that was set for all day and
+then that hearing was not
+recommenced for 9 months, even a
+year.
+And, and still dragged on
+forever because of time, because
+of time constraints for for
+attorneys and judges. So that's
+a very important addition to the
+timelines requirement.
+Thank you, Judge. And one of the
+things we're thinking is that if
+we front load these hearings,
+um, is that we will spend less
+time with children in foster
+care, which then cuts the cost
+of foster care provision cuts
+the cost of paying the
+caseworker for CYFD that handles
+this, uh, and cuts the cost of
+judicial effort on down the
+line.
+Um, and also reduces the ongoing
+trauma the kids are experiencing
+and their families from being
+separated
+Now
+all of those were modifications
+to existing state law. We also
+propose a new act, the crossover
+Youth Act to be able to better
+track these kids that are both
+in foster care and then later
+pick up juvenile justice claims,
+um, one of the successes that
+CYFD has had is the fostering
+connections or um uh program
+which allows young people to
+receive financial support.
+From CYFD after they age out of
+foster care. I may have thought
+I was mature enough to handle
+everything when I was 18, but I
+was not. I was still washing
+clothes at my parents' home at
+age 20.
+Kid and yeah, I know kids that
+age out of foster care don't
+have anybody to go wash their,
+you know, to go wash their
+clothes with, to go fight with
+at Thanksgiving and the
+fostering, uh, connections
+program has been wildly
+successful. We want the
+crossover youth piece to
+continue that for young people
+who have sadly picked up a
+criminal case, um, and so we are
+asking to put an office in CYFD,
+a single person.
+That will keep eyes on who has
+have these dual involvements,
+Judge, my experience with Madam
+Chair and members of the
+committee. My experience with
+crossover youth in our court was
+an experience to behold. I was
+one of those mean nasty, ugly
+judges and my colleagues joined
+in when we had crossover kids
+that those two cases were
+assigned to the same judge, one
+family, one judge philosophy.
+We were the ones who started
+saying when we have a juvenile
+justice hearing involving a
+child in our child welfare case,
+the Children's Court attorney
+from the DA's office, the
+juvenile probation officer
+assigned to the case along with
+all of the other participants in
+the child welfare case had to
+appear at that hearing, so we
+weren't repeating things to them
+at different times. So they all
+had the same information at the
+same time. Conversely, when we
+had a child welfare hearing.
+The uh the uh children's court
+attorney from the DA's office
+and the juvenile probation
+officer.
+And the attorney represented the
+juvenile probation officer, the
+juvenile public defender all had
+to be present at the child
+welfare hearing. These are two
+entities that are within the
+same organization, child, you
+know, children, youth and
+Families department. Thankfully
+in our court at one point in our
+district, the chief probation
+officer and I think the county
+office manager or someone at
+that level had monthly meetings
+to review the status of these
+crossover kids. I don't think
+that was happening
+Anywhere else. I hope it was,
+but it's that kind of
+collaboration and working
+together of all of the entities
+that goes to the issue of
+training for judges for DAs, for
+probation I'm, I'm sorry for the
+public defender's office and
+everyone else who touches that
+child.
+Thank you.
+On page 35 we're also proposing
+another new act which is
+reinstatement of parental Rights
+Act. There are a small number of
+kids, teenagers every year who
+really would do better back at
+home with their families and
+their families have finally
+gotten on top of whatever led to
+their parental rights being
+terminated. It's rare cases, but
+it's enough that, uh, we believe
+it's
+important to include this and
+there are several states in the
+nation that have reinstatement
+of parental rights as a
+possibility, not happening
+often, but again, rare and
+important for these young
+people.
+Um,
+yes.
+Madam Chair, members of the
+committee, one of the other
+important items that's near and
+dear to my heart given my
+involvement nationally and
+locally with training and
+teaching and sometimes the deaf
+ears about domestic child sex
+trafficking is a provision in
+the families in need of court
+order Services Act, and I, I
+think it's recommendation number
+10. I'm not sure what page
+that's in, uh, in, in the
+report, but it has to do with an
+internal conflict in our
+children's code, which
+makes reference to pros you
+know, children who would
+otherwise be caught in an adult
+act otherwise uh called
+prostitution.
+Meanwhile, the children, the
+delinquency Act says that a
+delinquent actor is an act
+committed by a child that would
+be considered a crime committed
+by an adult except for
+prostitution, so we can use
+prostitution in Finkos.
+And yet are the inconsistency is
+that the clarification and the
+juvenile justice case that
+Delinquency Act says that you
+can't charge a kid with
+prostitution. These are kids
+under the age of 18 who are
+exploited who are being
+victimized, and we want to call
+them prostitutes, underage sex
+workers, bad language that
+stigmatizes and mischaracterizes
+what children are going through
+who have been otherwise
+exploited not only by the
+Exploiters that we call the
+pimps, but the exploiters were
+called the buyers who very often
+go unnoticed and unindicted,
+quite frankly. Thank you.
+Thank you, Judge. So the
+recommendations that we've put
+forward are the things that we
+anticipate, uh, to, to be
+working on with our next
+iteration of the task force
+assuming our funding comes
+through, um, and one of those
+first things that, uh, Miss Sabo
+already referred to is that we
+want to make sure that we have
+that 3 branch involvement in
+strengthening our child and
+family welfare system that we
+make sure that we have good
+legislation
+action, good judicial action,
+and good action from the
+executive, which of course
+includes CYFD and the Office of
+Family Representation and
+advocacy.
+Um, so recommendations start on
+page 41, uh, we're at, and, and
+these again are the things that
+we were not in a place to bring
+full uh.
+Uh, fully developed to the
+legislature for this upcoming
+session, uh, but,
+uh, policies, I mean, we're
+challenging this group to
+consider the possibility of
+universal basic income in the
+state of New Mexico.
+And we realized that's a big
+hopeful ask, but wouldn't that
+be amazing if we could act like
+Alaska who makes great money off
+of their oil and gas and then
+provides an annual payment every
+year to a family. Why couldn't
+we do that if we know that we
+have that wealth in our state.
+Um, the report that Ms Sabo
+wrote shows that we had there is
+a distinct drop off in child and
+family welfare cases for $100
+increments in increase in
+family, uh, income, and wouldn't
+that be a remarkable experiment
+for us to conduct here in New
+Mexico, Judge.
+As a resident of the state of
+New Mexico for my entire life,
+quite frankly, I am very used to
+hearing the term from all
+sectors, certainly not
+exclusively from the legislators
+that we can't afford that.
+I would suggest that we have
+help from the feds if we take
+it. It's some, it's a law that
+was passed in 2018 called The
+Family's First Prevention and
+Services Act that actually
+provides for reimbursement to
+the state of Title IV.
+e-money when you're using
+prevention services to keep kids
+and families out of the child
+welfare system. I'm not certain
+that we specifically address
+that in any of the report by
+Kathleen's shaking her head that
+we did, but that's one of the
+underpinnings of money that
+could be available.
+Unfortunately, we still do not
+have approved by the feds a plan
+for New Mexico to utilize those
+funds under the Families First
+Prevention Services Act. I, you
+know, I'm not, I'm not, uh, in
+the know enough to know to be
+able to address that. I
+understand that that's in the
+works and may happen soon, but
+it's federal money that is being
+reimbursed to the state for
+those specific services. I'm
+suggesting that we want to think
+about.
+Wrapping up the formal um
+presentation. I have some
+members who have questions that
+I want to start getting to.
+Thank you.
+Um, just one other thing that I
+want to put out there and again,
+uh, page 41 is where the
+recommendations start, but one
+of the things that we would like
+to do that will address also
+safe haven babies is that we
+would like to change a term and
+talk about a dependent child for
+children whose families have not
+been at fault.
+Um,
+Maybe the parents have died,
+maybe the uh parent is in a
+coma, that sort of thing. And so
+we want those children to not
+bear the stigma of that name.
+Thank you.
+You're welcome. I have 89 people
+on the list.
+10 people on the list. Thank
+you, um,
+11.
+Um,
+Uh, did I hear 12 now?
+Oh you're, you're jazzing with
+me, huh? You're gonna be
+punished for that.
+Um, as you can see, guys, this
+is a, that's a lot, right?
+So we need to manage our time,
+right? So I'd, I'd like you to
+try to keep your, your questions
+and time to 4 minutes, so I'm
+gonna say something my colleague
+next to me says, you're
+responsible for managing your 4
+minutes. So that means if you're
+getting an answer that's taking
+too much time, it's on you to
+interrupt the answerer. That
+means a member of the panel to
+get to the point because as you
+see, we are already over time
+fortunately we have staff who's
+going to be
+next and they're, I'm sure happy
+to wait, but, um, 4 minutes each
+and that includes the answer,
+all right? So representative
+Madrid.
+I know it's tough life's a nice
+criteria to start out with,
+right?
+Now I understand where you're
+coming from,
+right?
+So very quickly, thank you uh
+for the presentation.
+Um, Judge, you said something
+that really hit home on me and
+it's going to be as quick as I
+can. I'm a product of foster
+care.
+I was, uh, left for adoption. I
+was left in foster care by my
+mom, who I think did the right
+thing, did what as hard decision
+for any parent mother to do and
+did it for me.
+And did it for a better life. I
+was fortunate and blessed that I
+was adopted, not adopted, I was
+put in foster care. A few months
+later, another siblings showed
+up.
+And we grew up together. They
+try to split us up to do visits,
+weekend visits, and we'd stop
+eating. And so the, the um
+welfare said, oh my God, these
+two have bonded. They may not be
+able to be split up.
+And this is back in '64 when I
+was born. I'm gonna be 59.
+And to know that that's the
+relevance of what we're talking
+about today.
+Was that that brother of mine.
+is by blood.
+I didn't, I don't know if
+there's anything else.
+And you know what, I would
+protect him.
+Nobody would touch him. Nobody
+could abuse him. Nobody would
+use him.
+And you know what his nickname
+was? But the Willie.
+And it goes to your point that
+when you're young,
+And we're straddling in the
+fence of survival that even only
+now at 59 I've come to realize
+the roads I've been to.
+And the struggles I've been
+through, the good thing is that
+I was blessed and had somebody
+that came in and one day and
+said we want to adopt two boys
+or two girls. And the state
+looked at each other and like,
+are you kidding me?
+We might have some, we might
+have one.
+So that being said, I want
+clarification to be made to the
+public here and to the to this
+panel.
+And that is, there's a
+misconception about foster care
+on the level of that they have
+and get paid for the number of
+kids. I was in foster care with
+my brother and 4 other sisters
+that were not my sisters, but
+they took us in as a family.
+They embraced us, they loved us,
+and they took care of us.
+And to think, or to know, what
+you said to me is that they
+don't get any compensation. This
+was another state, mind you, the
+state over.
+But to know that these foster
+parents
+the will of what's left today to
+provide to these young people.
+It's tough. We've got 2 minutes.
+In my first year on the floor as
+a young representative coming
+in, you're still figuring what
+am I meant to do? What am I
+supposed to do?
+What is the difference I can
+make.
+And representative uh Dow.
+Had a day for foster care
+parents.
+And she brought them all in and
+lined them.
+On the front.
+Yeah.
+You know what I saw and you see
+it in my voice. You hear it in
+my words.
+I saw a purpose of what comes
+out of this that I realized I
+just got to continue progressing
+and always salvaging to save so
+many things that have been lost.
+Maybe more in our state than to
+understand.
+That these are young people's
+lives, but they would be nothing
+without foster care parents that
+should not be diminished or
+employed as they are making
+money.
+Because for 2, whatever you
+might have contributed, would
+not have made a difference. It
+was still simplicity of love,
+care, and family.
+Thank you, ma'am. Thank you.
+Thank you very much for sharing
+that representative, uh,
+Representative Lujan.
+Thank you, thank you for sharing
+that as well. I think that
+These are hard topics and I want
+to commend you for the work,
+but, uh, questions to the task
+force, who are, who are the
+legislative branch involved in
+the task force, Madam Chair.
+Is your mic on? Yeah.
+Madam Chair, members of the
+committee, uh, Senator Linda
+Lopez has been involved with the
+task force all along, uh,
+Senator Duhig, uh, offered to
+take a look at some of our
+legislation and made some
+specific recommendations to us.
+Um, we have had, uh, that is our
+primary connection at this
+point.
+Thank you, Madam Chair. So when
+you're getting to the point and
+the recommendation that the
+three prong, um,
+Uh.
+Gathering of the the branches of
+government executive,
+legislative and judicial, how,
+what is the you want to put that
+into statute that we participate
+that all branches participate.
+Can you explain that? that's one
+of our recommendations that's
+outside of proposed legislation.
+We would like to see like the SM
+5 task force have connection
+with the Children's Code reform
+taskforce, those sorts of
+things. It's not legislation.
+Thank you, Madam Chair.
+I appreciate that and, and
+appreciate our legislators who
+have been participating and
+working with you. I think that's
+a lot, it's a heavy lift, it's a
+lot of work, um, and as you as
+you can tell, we all are very
+anxious to get things changed or
+addressed in our state as we
+have some of the, you know,
+it's.
+Not so good outcomes for our
+kids and the welfare, and I
+appreciate the judge saying that
+this is on all of us. It is.
+It's a reflection on us as a
+society and as communities here
+in New Mexico, um, my question
+is, the reforms for for a family
+court. It's something I want to
+work with you. I I don't have
+much time, but I want to lend
+myself to say I want to work
+with you on some reforms of the
+family court. Um, I don't
+believe that a lot of things
+that they have in place are
+working. I've been talking with
+our secretary at ECCD about some
+of those reforms. I'd like to
+just
+Put that out there to you to let
+you know that. I really
+appreciate what you're saying
+about getting a, a, a, a
+paycheck to every New Mexican,
+uh, taxpayer in New Mexico, like
+they do in Alaska, that's
+something actually I've been
+really interested in looking
+into. We are an energy state. We
+are one of the richest states.
+We live in poverty.
+By choice.
+By by by our action, by our
+policies, by all the all the
+things that we have in place. We
+don't have to. We are a rich
+energy driven state. We have the
+money to do this just like
+Alaska does, and that's
+something I really like to work
+with you on. Thank you very
+much. Thank you.
+Thank you, Madam Chair. I have 3
+questions, so I'm going to ask
+my questions.
+First, and then you can
+decide who's gonna answer those.
+First question is
+Um,
+I haven't been able to read
+through the entire report, but
+what
+What is a recommendation to make
+sure that there are no longer
+kids.
+Being abused over and over and
+over and over again by parents,
+um, when you're returning, I'm
+all for keeping the kids
+together, but we, we see and we
+hear issues or uh instances of
+these kids being abused and and
+uh this is happening over and
+over again. They keep returning
+the kids. It happens all over
+again. So I'd like to hear what
+the recommendation was for that
+second question, what's the
+Recommendation to end the
+practice of these kids sleeping
+in CYFD offices.
+Um, and the third question is,
+um, did the task force include
+uh foster parents.
+And was there a bipartisan?
+Makeup of the, of the task
+force. Uh, thank you, Madam
+Chair, those are my three
+questions.
+Thank you, Representative
+Martinez, um,
+we, um,
+I don't know what anyone's uh
+political leanings were. I truly
+have no idea. I am hopeful that
+I had bipartisan representation.
+I truly have no idea. Um, so
+that's, that's the quick one. We
+did not address kids sleeping in
+offices. We did not address
+removal over and over again
+because the work that was
+started with the two committees
+came up before those specific
+things were
+brought to our attention, um,
+and, uh, we, you know, we only
+had a limited amount of time. We
+had committees meeting, uh,
+twice a month, uh, in, in on top
+of our task force meetings,
+working to put out the package
+that we put out. I don't have
+the expertise. No one on our on
+our task force has the
+individual expertise.
+To talk about how we do a better
+job of recruiting foster
+parents, how we do a better job
+of fully supporting foster
+parents, how we support CYFD in
+making sure that services are
+developed statewide in 2013, our
+uh mental health system in New
+Mexico was completely wiped out
+and we've had a very difficult
+time in all parts of the state
+coming back up to speed on.
+That, um, when, when was the
+task force put together? 2022 is
+when the first funding I was not
+a part of it until because
+because the instances of these
+kids being abused has been
+happening.
+Much before 2022 and the the
+question about foster parents
+was, were there foster parents
+on the task force? Do we? I
+don't remember if this time
+we've had foster parents. I
+don't know.
+I don't remember. I'll just go
+ahead and
+and uh.
+We had hoped to have a very
+large amount of participation by
+people with lived experience,
+including foster parents. We
+were under such a limited time
+period from January to June that
+we and, and prior to that we had
+had an open meeting where we
+had.
+Youth come in and testify about
+their experience, um, there was
+even something in the press
+about that reported about it,
+much to the court's dismay. But
+we had to this, in this instance
+forego that to some degree and
+under the Annie E. Casey grant
+that we hopefully will get from
+their foundation. They want us
+to expand that, and we agree
+with that, um, bringing people
+in, more people in with lived
+experience, lived expertise as
+Judge Rometo called it, so we
+we just could not under the time
+crunch we had for the it was 6
+months.
+And the last month was spent
+writing, but Representative, I
+commit that we will make sure
+that we have at least one foster
+parent representative, um, and
+I'm sorry I did not realize that
+we didn't. We certainly put out
+notices widely, uh, and anyone
+could have attended.
+But, but, yes, we can work on
+that,
+Judge.
+Just very quickly, Madam Chair,
+and Representative, one of the
+things that the committee didn't
+really have anything to do with
+who was selected to be on the
+committee. That was advertised
+and people who wanted to be on
+the task force submitted a
+request to be considered. We
+didn't have a choice of who was
+put on the committee, at least
+to my understanding, those were
+folks who stepped forward and
+said I want to be on the
+committee.
+Um, and very quickly, the, the
+CYFD has taken a different, I
+think a different approach to
+recruiting foster parents,
+um, sometimes referred to as
+resource parents because they
+are a resource to the kids and
+to the families from which they
+come and my family was a foster
+family for a season and and as
+representing Madrid said, it's a
+thankless job, but thank God for
+for foster parents who take kids
+in. We need more of those folks.
+Speaking their voice, they
+should have an opportunity.
+Thank you. I think we need to,
+all right, but we will have a
+thank you answer going forward.
+Thank you.
+um, I have uh Representative
+Chasey and then representative
+to I mean Senator do him, thank
+you, Madam Chair, and I'll try
+to be really quick here. This is
+a very dense report and I was
+going through the
+recommendations as you were
+mentioning the pages. Um, if all
+went well
+When might there be a bill ready
+to introduce, would it be as
+early as 2025?
+For the additional
+recommendation, well, OK, I
+don't mean to be smart here, but
+a bill on what? There is a lot.
+Well, I guess that's my
+question. Are we talking about,
+um, a bunch of different bills,
+so we are hopeful that the
+pieces that we already have
+drafted, we'll find sponsors for
+this session coming up and that
+things will go to legislative
+drafting services, so we, we
+already have several proposed
+bills in.
+Draft form. OK, thank you,
+thank you, I want to thank Judge
+Rome, Madam Chair, for pointing
+out that we're all part of a
+system. So if we all start
+unloading on either CYFD or law
+enforcement or foster parents or
+biological families.
+We're really unloading on
+ourselves.
+We're all part of this. So let's
+try to be constructive and, and
+get something done. We don't
+need to burn anything down here.
+Um, I practiced law in this
+field for a number of years, uh,
+each experience is unique. Every
+kid is unique. Every mother is
+unique. Every father is unique.
+Every grandmother, every.
+Um, guardian is unique. The
+judges.
+It, it goes on and on, um, you
+know, foster parents aren't all
+perfect. We just had a foster
+parent on trial last week for
+having abused a baby.
+In New Mexico. We have a lawsuit
+filed that was in either
+yesterday or today's news, um,
+by an adult who was a child who
+was removed from her parents
+because she's poor. They were
+poor.
+And it was a terrible, terrible
+outcomes for all the children.
+It's in the news clips for
+today. So,
+I, I represented kids and, and
+the foster parents who were
+really, really well trained and
+um, really good. I had a set of
+foster parents in Corral, they
+said we don't foster to adopt,
+we will.
+But we're aimed at reuniting the
+family that needs to be the
+orientation and then so that
+people don't think this is where
+they're going to go get their
+next kid because that's not the
+purpose. And so I appreciate
+what you're doing, um, I also
+think reinstating parental
+rights is not a bad idea. I
+represented a kid who became in
+it.
+A much older kid and his father
+wasn't the offending parent
+because his father was in
+California, but his father never
+could get his head around the
+fact that he had to be
+adjudicated, never.
+The kid ended up with absolutely
+nowhere to go. He was in an
+institution in Utah.
+Giving him back to his dad, we
+were, we were going there. The
+CYFD attorney and all of us were
+going there when I retired
+because there really was nowhere
+for him.
+And um.
+I think the approach of trying
+to find a way to fund families
+who are at risk because of
+poverty.
+Give them what we're going to
+pay the foster parents money for
+food, money for clothes.
+So the and and and then provide
+the support so that you can
+prevent the breakup if possible.
+I, I saw so many families who
+were like split for like 4 or 5
+years and all they were all that
+had happened was poverty.
+So, um, I, I really, I think
+you're on the right track, and I
+thank you and um that's it.
+Um, I have Senator Dehig, then
+Senator Ivy Soto, then
+Representative Reeb and OK.
+Thank you, Madam Chair, and
+thank you all for being here and
+presenting to us today, um.
+I, I don't blame this task force
+for not addressing every single
+issue in our child welfare
+system. We have a lot of issues,
+uh, to deal with, and I know
+that.
+That you are taking a look at
+some discreet ones, um, but I, I
+don't think anyone would expect
+would expect a panacea, uh,
+from, from this task force or
+from anyone. I don't, I don't
+think that's gonna exist without
+all of our work. Um, I'm really
+glad to hear that foster parents
+will be involved in the future.
+I think that is an important
+voice at the table.
+I,
+so one of the things that I, I
+really liked about this was the
+the focus on not, not removing
+children based on poverty alone,
+um, but I then someone sent me
+this report.
+From the.
+National Coalition for Child
+Protection Reform, um, that is,
+it's a 2022 rate of removal
+index, uh, that's measuring how
+many the the rates of removals
+and rates of placement in
+various states and then
+specifically, um, kids living
+under poverty who are being
+removed. And according to these
+numbers, it looks like.
+If I was to only see this, I
+would think we do not have an
+issue in New Mexico with
+removing children just based on
+poverty. Now, I don't know how
+to interpret this and and this
+very much surprised me because
+just this was not my anecdotal
+understanding of how things are
+going. Uh, one of the things
+this was based on was the
+federal data, um, listing the
+number of children removed at
+some point during the course of
+a given year. And so I don't
+know.
+I don't know if you guys know
+what kind of data is being
+provided to the feds that would
+be used in a study like this, if
+they are getting all that data
+and this is accurate, then.
+I, I, I'm just I'm confused. I,
+I don't know how they got that
+data, um, and my understanding
+is that CYFD does not collect
+data on families' incomes, so I,
+I don't know how those things
+have been put together. I'm
+sorry.
+And Madam Chair and Ms. Conley,
+I appreciate that. I mean, my,
+my first thought when looking at
+this was, there's that, that,
+uh, there's lies, damn lies and
+statistics, um, which is hard to
+say that they are trying to lie
+in any way, but that, but that
+if you don't have good data,
+then you don't, you can't trust
+results necessarily, um.
+But uh but I appreciate all of
+your work on this. I appreciate
+that you guys are going to
+continue working on these issues
+and I'm sure continue addressing
+some of the, the other issues
+about, you know, repeat, um.
+Uh, abuse and and issues like
+sleeping in offices. I, I have
+faith that this is, if there's
+any group who is committed to
+working on those, uh, it would
+be this, this task force. Thank
+you.
+Thank you, Senator. Senator Ivy
+Soto and then Representative
+Reed.
+Thank you very much. Um, I would
+ask for you all, uh, I don't
+have a lot of time. If you just
+take notes with what I have to
+say.
+Um, on page 9, subsection I
+neglected child. Couple things,
+uh, with regard to uh what you
+have on deadly weapons, so,
+um, a deadly weapon under your
+definition is a deadly weapon,
+not based upon what it is, but
+based upon how it is used.
+A firearm based on your
+definition is a firearm based
+upon what it is.
+If you were to strike the
+definition of firearm.
+Then a firearm would be a deadly
+weapon based upon how it's used.
+You still get to the same place
+you want to be, especially with
+the word negligently. So, uh,
+just that way you have apples
+and apples between deadly
+weapons.
+And firearms by putting them in
+the same category. Second thing,
+um, on page 11, 0, also on page
+10 under negligent child uh
+paragraph 2,
+you try reframing some of the
+language that's in IPO, please
+don't do that. The language
+that's an FFA is very carefully
+created. Leave the language in
+NFPA alone. Don't try to
+rephrase what's an FPA, um.
+The uh
+On page 13.
+Um.
+You, you have.
+On a paragraph 11 of page 13.
+And you have that.
+Uh,
+um, the conditions other than
+the inadequate financial
+resources of the parent.
+That is, that is what part of
+what, uh, it shall be in the
+disposition judgment that
+assumes.
+Financial inadequate financial
+resources of the parent. That
+doesn't suggest if there are, it
+assumes that there are the way
+that it's written. You make the
+exact same drafting error on
+page 16, also under a paragraph
+11. Um, if you turn down to page
+16.
+Uh, you have a problem that was
+just discussed actually on some
+of the side talk a couple of
+minutes ago, which is we don't
+pay foster parents for their
+services. We provide
+Financing to the child that that
+goes through the through the
+parents to provide for the
+child, but that is not financing
+to the parents, that is to the
+child. And so the thing is when
+you say any other and news page
+16 under paragraph 14 when you
+talk about any other assets that
+would benefit the child. Any
+other assets that benefit the
+child is the support that goes
+to the foster parent. So when
+you, that includes the 4E funds.
+So when you, when in paragraph
+15, when you say that they not
+be used for foster care
+expenses, you've just eliminated
+the 4E funds from being able to
+be used in the manner that
+they're being used. You make the
+same mistake on pages 17 and 18
+in subsection C and D.
+Um,
+Then uh in on page 35 under the
+new reinstatement Act, and I'm
+skipping over a bunch of stuff,
+but under the new reinstatement
+Act, why is that not being filed
+in the court that did the
+termination of parental rights.
+Um,
+because some court terminated,
+that ought to be the one that
+considers the reinstatement,
+Madam Chair, and Senator Iy
+Soto, members of the committee,
+and I apologize, I've not been
+as formal as I needed to
+previously. Um, that is because
+we don't know where they're
+going to be living by the time
+this needs to happen and if
+they're in Katterine County now,
+we don't want them to have to
+haul to Raton.
+To hear this case.
+We did specifically think about
+this. OK.
+I mean, I think, I think, I
+think you need to put some some
+conditional language in there
+then that if they're still
+living in the same judicial
+district and needs to be filed
+in in the court where where the
+termination took place if
+they're not still living in that
+same judicial district, then it
+needs to be filed in the
+judicial district where they're
+living. Thank you.
+Thank you, Senator.
+Representative
+Reeb, then Ream and then Senator
+Neibert, OK,
+thank you, Madam Chair, um, and
+members, um, I, I'm not gonna
+get into a lot of the stuff that
+I want to talk about because I
+don't have much time but I
+wanted to focus a little bit on
+um your time limit changes on
+page 21 and 22.
+And I, I do understand what
+you're trying to do here and but
+I guess my concern is, could
+this have a different effect and
+we have such a problem with CYFD
+vacancies. I mean, I guess
+you're a judge who deals with
+this all the time. I hear CYMD
+reports aren't done on time, uh,
+maybe see way of the people
+don't show up because of the
+lack of people filling those
+positions, and I don't, I don't
+want to see the reverse thing
+happen to where cases dismissed
+with prejudice, um, and, and I
+don't know what that actually
+means.
+In the sense that can that, I
+mean, I know in a criminal
+aspect, but does that mean that
+can never be brought up again if
+a kid comes in with a broken arm
+and CYFD drops the ball as
+they've been dropping the ball
+frequently, um, and that case
+gets dismissed because of a
+problem at CYFD and a lack of
+resources, then something
+happens later and the kids
+abused again. The other arm is
+broken. Um, can that first case
+be brought up and are this this
+exception on page 22 unless the
+court
+A finding as to circumstances
+beyond the control of the
+parties. What are those
+circumstances? If you could help
+me understand that.
+Madam Chair and Representative
+Reed, thank, thank you for the
+question. I, I think those are
+some of the things.
+We struggled with and that
+beyond the con the control of
+the parties is something that
+we're punting to or directing to
+the Children's Court Rule
+Committee for them to determine
+what that means. I'm not sure
+how in legislation you can
+address that because that
+dreaded lawyer answer depends on
+all the facts and circumstances
+and a few other things that are
+supposed to be hilarious and
+they're not. I, I think that
+that one of the things that our
+systems
+Making up the child welfare
+system very often resort to, and
+it's very real. We don't have
+the resources or the time to do
+all these great things that if
+we could afford it and if we had
+the time and resources that
+would be workable.
+The kids and the parents
+affected by this didn't ask to
+be in this system, and it's, I
+think for me personally as a
+judge to have ever said that and
+perhaps I did would have been
+not holding myself accountable.
+We need to make those resources
+available, I think to
+Representative Luhan's comment
+earlier about the resources
+available in this state, poverty
+is inexcusable. Similarly,
+resources that the courts and
+the and the entire child
+welfare.
+System need really boils down to
+attorneys and judges and, you
+know, workers within CYFD. What
+is it that is happening and
+there are a lot of theories and
+a lot of finger pointing going
+on about why we have such high
+turnover, um, and, and those
+need to be addressed in greater
+detail to address those, and
+that's part of the
+recommendation that says this
+needs to be.
+The executive, the legislature,
+and the and the judiciary
+working together collaboratively
+to address that, I don't mean to
+cut you off because I don't want
+to lose all my time, but I just
+don't want to hurt the child and
+can the second can with
+prejudice, does that mean that
+case cannot be mentioned at all
+in the next proceeding?
+It could mean that. I mean,
+technically that's what it means
+when a case is dismissed with
+prejudice, but it's that
+specific case. It is not unusual
+that another case could be filed
+under a different set of
+circumstances, and it's a
+different case then arguably
+it's just my concern is I don't
+want to punish a child for a
+broken CYFD system, so I think
+we need to really look at that,
+um, also, uh, I'm not gonna get
+into the whole firearm thing
+because I'm sure everybody else
+on here is going to have huge
+problem with that issue in and
+of itself.
+We all have been dealing with
+that. We have a criminal law on
+the books for that, but if I, I
+don't understand CYFD extremely
+well, but you have your, your
+petition that's filed then you
+generally have like what a a 10
+day hearing. Can I finish this
+real quick question. It's like
+10 day hearing and then you have
+your adjudication and if in that
+and then your termination if
+that's where it goes. So if.
+If you're adjudicated, um, under
+this neglect for the firearm
+thing that that's not
+appealable, correct? That's not
+what appealable.
+Uh, it is adjudications can be
+appealed, yes. I was thinking
+it's just termination of rights,
+but even the 10-day hearing can
+be appealed.
+OK, and, um, and I would, I
+thank you for answering that. I
+also just do have a concern
+about the makeup of the
+committee, um, I, I, that's a
+big concern of mine. I just
+wanted to to say that. Thank
+you, Madam Chair. May I add one
+other thing, if time permits, if
+it doesn't, I'll stop. I think
+we need to move to the next
+question. So, um,
+representative.
+dream
+Thank you, Madam Chair, and I'm
+going to apologize up front that
+I'm going to cut you off because
+I've got several questions. One
+of them is how many children
+were taken into foster care
+strictly because they're poor.
+I expect it, Madam Chair,
+Representative Rehm, members of
+the committee, I expect it's
+very small.
+Thank you
+Um, I have, Madam Chair, and I
+have a real problem trying to
+understand the definition of
+negligent, unsupervised access
+to firearms. Could you tell me
+what that is?
+Uh
+All I can do is an example, um.
+Johnny, we're having a problem
+with coyotes.
+Will you go take care of them.
+We know that Johnny has already
+had his training, his, his
+parents do a good job with him.
+That's not negligence, and
+that's not unsupervised in that
+his parents have specifically
+allowed that.
+We had the horrible circumstance
+of the Rio Rancho police officer
+who lost a child when one of his
+other children got a hold of his
+service weapon that if that was
+a standalone event and that's an
+exhausted police officer coming
+home not properly securing his
+weapon at that moment, that is
+not negligence. That was a
+horrible accident. It would be a
+case by case determination. If
+we have a police officer who
+comes home and every single day.
+leaves his weapon on the coffee
+table and you know, just yells
+at the kids, you better not
+touch that thing, then that's a
+different problem. OK, let me
+cut you off there and why I'm
+doing that, Madam Chair, is
+because under our House Bill 9,
+which is the safe storage of
+firearms.
+We have exceptions listed in
+there and you have no exceptions
+listed, your definition is very
+bad. Uh, anyway, uh, I want to
+move on from there, you know,
+and I would, I would use this
+example. So do you have another
+paragraph that says negligent,
+unsupervised access to drugs,
+chemicals in the in the um
+household, and you don't need to
+answer that. We'll go to the
+next one.
+Um.
+The deadly weapon that was.
+Uh, Madam Chair, and panel, how
+many of the cases that came
+before the court.
+And were continued, Your Honor.
+You were saying many of them
+were continued.
+Where most of those continued by
+whom and for what reason? What
+I'm really going is that CYFD
+were they prepared or not?
+Madam Chair, Representative, uh,
+Rehm, I, I would say that I
+don't know if there's any data
+on that. I, all I can tell you,
+I can respond anecdotally about
+what I experienced sitting on
+the bench.
+Very often it was uh because
+circumstances precluded going
+forward with the case and one of
+those that frequently came up
+was.
+Attorney uh X.
+was in my courtroom and had to
+leave town to go down to Hobbs
+to be an attorney in that case,
+and we couldn't keep that
+attorney beyond the time
+otherwise that judge might find
+him in contempt. So it goes back
+to the resources issue. Yes,
+there were times that attorneys
+were not prepared and not
+exclusively CYFD attorneys. It
+may have been
+you know, the, the parent
+attorney who had not yet had an
+opportunity to visit with his
+client because that client was
+just served.
+Yesterday and he just made
+contact with with her today. So
+those are any number of
+variables that contribute to
+continuances that shouldn't be
+happening but do and and and if
+if I may add to that, uh, that's
+very interesting to think about
+that piece of it, um, because we
+need to make sure that a
+parent's counsel can't game the
+system, so we need to make sure
+that our rules address that.
+Thank you, Madam Chair, and I
+want to
+keep my time for the next panel.
+OK
+good management of your time,
+Representative Rehm. Um, now we
+have Senator Nibert. Thank you,
+Madam Chair. Is there anything
+in this that talks about the
+goal being best interests of the
+child.
+Um,
+Senator Neibert, there is not
+because we're not changing
+anything that is already in the
+children's code and we already
+have best interest of the child
+as the centerpiece of the
+children's coat. When did that
+change that's been there all
+along in child abuse and neglect
+cases and Guardian ad litems
+that represent children are
+required to represent the best
+interest of the child. Judge
+Romero, uh, your decision-making
+on best interest?
+Well, first, when it comes to
+Indian children, whether it's
+under the Indian Family
+Protection Act or the Federal
+Indian Child Welfare Act best
+interests of an Indian child has
+been defied federally and in our
+state law. So there's little
+discretion to determine what's
+in the best interests when it
+comes to placement in other
+aspects of that child regardless
+of whether you know whether
+they're Indian children or not,
+things like well-being,
+education, uh, dental care,
+medical care, those are things.
+That ultimately it's up to the
+judge to accept the
+recommendations of the
+children's attorney, the GAL or
+the youth attorney or even the
+department, but it's the judge's
+decision to decide whether it's
+in the best interests of the
+child or not. The others make
+recommendations about what's in
+the best interests. Some are
+confused about that. Judge, I
+said this is in the child's best
+interest when you're making a
+recommendation. I, you know,
+the, the, the book, the book
+stops with me. I'm the one that
+needs to make that.
+Decision, not you. I've been
+concerned for years that we have
+put reunification as the goal of
+CYFD and not the best interests
+of a child, and we have had
+several hearings that have
+discussed that very issue and
+has judiciary and elsewhere.
+And I wanted to see if you've
+done anything with that because
+I, I'm concerned that it's not
+there, um, my, my second point,
+um,
+you know, neglect from the
+child's standpoint.
+Uh, has nothing to do with
+money.
+Neglect is how
+The, the resources that they
+have the, the uh uh emotional
+and love that they're receiving
+and what have you and and it
+seems to me that some of the
+drafting in your effort to take
+the economic status out of the
+equation.
+You know, the definition of
+neglect, neglected child.
+One child could be neglected in
+this situation and that's a
+child experiencing the exact
+same thing in another situation
+whose parents don't have money.
+would not be a neglected child.
+Under your definition, and so it
+seems to me that we will be
+looking at the child and and
+what's available to them and it
+doesn't mean that these are bad
+parents, but that child's not
+receiving something that they
+ought to be receiving, there
+ought to be some some mechanism
+for that. I think we ought to
+look at the child and and where
+they're at and not necessarily
+the parents, but uh uh those,
+those were two points and then
+I, I had many things like center
+Iy Soto.
+About just how this stuff's uh
+working and I think you better
+go through this with a with a
+fine tooth comb and, and shared
+a lot of this stuff out because
+it's just.
+In my opinion, not going to work
+in its present form.
+Thank you.
+I have on my list uh
+representative Lord and then Cia
+Lopez. Am I missing anybody?
+It's hard to believe I am, but,
+um, OK, um, so Representative
+Lord and then Senator Cedil
+Lopez.
+Thank you, Madam Chair. I got
+lost in there like I don't know
+where I'm in this placement. So,
+uh, I'm gonna use my 4 minutes
+to ramble. Um, so.
+OK, I got the tick going.
+Uh, well, the reason why is
+because Iy Soto brought up
+Senator, sorry, so sorry,
+Senator, uh, brought up a bunch
+of great points, Representative
+Ream.
+Uh, um, represent Reeb.
+And you know also when he was
+talking about the HB 9 that
+makes me very concerned about.
+A family already grieving if
+their child got a hold of a
+firearm and now they look at the
+possibility of losing their
+child.
+I mean that that's a serious
+concern.
+That if the parent is charged
+with that and then the child is
+then removed from the home. I, I
+don't like that at all. That
+makes me. It's very disturbing
+for me.
+Um, so questions already been
+asked that I had how many
+children have been removed just
+because they're poor. I don't
+think that's a very high amount,
+but I want to give you my own
+lived experience. I was
+illegally adopted my, my, uh,
+doctor that raised me just want
+a kid.
+Kept me.
+And they were very well off. Her
+parents lived in Beverly Hills.
+They had a lot of money and they
+her and her lesbian partner were
+both drug addicts and alcoholics
+and so my lived experience was
+it didn't matter that we had
+tons of money. They left me
+neglected all the time. So your
+examples, anecdotal or not, I
+have the opposite, you know, I
+can show you stats where people
+have come from money and are
+often abused, and I think it
+goes back to, uh, sorry, now
+senator.
+Sorry, I can't keep track of you
+guys. I made the point of, I
+don't think it really matters.
+What matters is, is what's in
+the best interests of the child,
+and are they getting the care
+whether they are poor or rich
+because if you're going to give
+financial support to someone
+who's a drug addict, how do I
+know that they aren't gonna use
+that for drug addiction like in
+the CRE Act, how we didn't
+mandate the care. If you're not
+going to mandate care.
+Look, let's just be real. If you
+want the kids to have the best
+experience in life and you want
+them to have to end up being
+good citizens and having good
+life life story. That means
+you've got to look at the
+parents. Are they mentally
+capable of taking care of the
+child? What help do they need?
+Do they need behavioral help? Do
+they need to learn how to
+parent? Are they drug addicted?
+What are you doing for the drug
+addiction? We have learned here
+in this committee that you could
+throw money at all kinds of
+problems it does not fix them,
+especially in my situation. We
+had tons of money, didn't.
+Fix anything that happened with
+me, my childhood, except it had
+a lot of cool stuff.
+Um,
+It doesn't make
+For a better situation for a
+child to say,
+OK, there's a situation where
+the parents don't have money,
+we're going to give them money
+without, I'm sorry, I'm just so
+sorry that so many times we
+think that throwing money at it
+is going to fix it, and there's
+nothing happening. The parents's
+still a drug addict. The parents
+still abusive, the parents still
+in a domestic violence
+relationship. If you're not
+going to fix that root cause,
+then all of this is for nothing.
+absolutely nothing, to want to
+always put the kids back in a
+situation where they're being
+abused with.
+without fixing the abuse in the
+first place. I want to
+definitely see more stakeholders
+involved with this, foster kids.
+I'd like to see a Republican.
+And and your team. I didn't see
+one. I saw a Democrat and the
+Republicans. Um, I don't think,
+I don't trust CFD to handle any
+of this. I don't think they can
+handle any of this situation. I
+think we're just gonna have a
+further disaster.
+Uh, but the one thing we agree
+on is I brought forward Finkos 2
+times, and it didn't go through.
+So if you guys want to work with
+me to bring forth Finkos because
+you have that as.
+Number 13 on your solutions. I
+present it twice, didn't go
+anywhere. And your other problem
+with your definition deadly
+weapon, that could be a knife,
+baseball, bat, slingshot, and
+then at page 10 you say
+unsupervised access. So not for
+kids carrying a baseball bat. I
+mean, we're going from firearms,
+which kids should not have
+access to, but now I'm going to
+knives, clubs, baseball bat. I
+mean, it's way too objective and
+I think too many kids are
+getting caught up in the system
+and I think too many children be
+taken away from their households
+over, by the way, also a human
+It is a deadly weapon. So I'm
+finished. Thank you.
+Thank you, Representative,
+did it briefly comment if you
+wish, if you appropriate. Madam
+Chair and Representative Lord, I
+think we agree a lot more than
+it appears to you. I am willing
+to talk with you about that, um.
+Behavior change is always the
+underlying requirement in case
+planning once a child is brought
+into custody.
+It, no, because it doesn't need
+to be because it's in other
+parts of the code. It already
+exists. We didn't go through and
+change the entire code we only
+change small pieces. We didn't
+break down and redo the things
+that we're already working.
+Yeah, rap, rep, but this is not
+a back and forth. I, I gave him
+a little bit of time to they are
+interested in talking with you,
+obviously, so that's a good
+thing, so thank you, sure, yeah,
+thank you, Senator, uh, Cedilia
+Lopez.
+Um, you, Madam Chair, thank you
+for the presentation. It was
+really, um, really helpful and
+thank you for all of the work.
+As I understand your primary
+task was to revise the
+Children's code based on an
+impressive list of people's
+experience.
+The judges, the, you know,
+people working at the advocates
+working in the system. So I, I
+appreciate that, but then I
+think you guys went a little bit
+further than just revising the
+code with your recommendations
+and that's, that's good because
+we, um, you know, we need to
+think about what your lived
+experiences were just have a
+couple of questions about the.
+Some of the recommendations, and
+since I only have 4 minutes,
+I'll just ask you about two of
+them. One of them,
+recommendation 24.
+Well, actually I'll start with
+23. 23 says that the the
+legislative and judicial
+branches employ the three branch
+approach where feasible and
+appropriate to reform, uh, child
+and family welfare, um.
+And then you have a footnote
+referring to a web page. Could
+you tell us a little bit more
+about what you think of 33
+branch approaches? Is it your
+task force that has the three
+branches or what, what does it
+mean? It,
+um.
+What do you,
+I'm sorry,
+are you Senator Lopez and Ma,
+are you right, I've got the
+page. Are you asking? I mean, of
+course, the three branch
+approach is talking about the
+three branches of government.
+Are you asking us that we say
+how that should happen? I don't
+know yet.
+OK. All right. Well, that's,
+that's helpful, uh, I guess you
+don't know because that's
+something we should think about
+because sometimes we are at odds
+with each other and the entire
+system needs to focus. Ha you
+correctly pointed out on the
+best interests of the child. Um,
+and then the second one and the
+reason I ask is sort of related,
+you talked, um.
+You on the 2.
+Um,
+24, you talk about concrete
+supports, um, and we talked a
+little bit about this already,
+um, why can't we simply give the
+money that the foster people get
+for housing these children to
+the parents. Why can't we just
+do that? Because I, when I
+worked at Ela Citario, and I
+would look at the poverty of the
+parents whose child got taken
+away and then these foster
+families who have like 6 or 7
+kids and had all these checks
+coming in.
+And had a big old house and
+everything. I just felt like
+there was something wrong with
+that picture, um.
+Is there anything stopping us
+from just diverting the money
+from the foster family to the
+To the family whose child has
+been taken away. So, um,
+Madam Chair, Senator Serio
+Lopez, members of the committee,
+um.
+Representative Lord has some
+good points in that you can't
+just throw cash to people who
+are going to put it up their
+noses or into their veins, so
+there may be reasons we can't do
+that.
+I don't know all of why we
+can't uh I certainly represented
+parents who could have gotten
+their children home sooner if
+they were in better financial
+circumstances because their
+behaviors had changed, but they
+still didn't have a big enough
+room or even a home, etc. Well,
+that's, that's exactly my point,
+right, and that's the point
+which I, I agree. I don't, I
+agree with Senator Avioto the.
+could be better rewarded, but I
+really agree with the sentiment
+that people's kids shouldn't be
+taken away from them just
+because of their poverty. But
+the reality is these kids are
+not going to school clean or
+they're not going to school at
+all. They're going to school
+some in some cases hungry, they
+may not have a home. I mean, I,
+I just met with a, a homeless
+family, um, and the kid is
+planning to go to school and was
+connected with the APS homeless
+program, but I just think of the
+odds, um.
+And so these,
+these supports has necessary to
+develop policies to use state
+and federal funds for concrete
+supports. That's not the same as
+these big checks that family
+that foster homes get without
+all the the the.
+Conditions and you know,
+everything else you have to do,
+um, anyway, that just struck me
+and I, I understand the
+sentiment I think is very
+important. The children just as
+uh Senator Lord or
+Representative Lord said, not be
+taken away just because they're
+poor because there's more to a
+family than being poor. Um, I
+mean, then, then, uh, physical
+things and then finally
+crossover kids, oh, I'm done.
+OK.
+All right, well, some point we
+need to understand crossover
+kits, so I wanna, it's amazing.
+I, it's clear to me you've all
+have been working
+extraordinarily hard on on
+recommendations and proposed
+legislation that I gather we're
+going to be seeing um.
+In the next session, um,
+you're hearing from folks here
+that, uh, how it's drafted and
+the details of the drafting are
+going to be extraordinarily
+important and significant and
+I'd encourage you to be mindful
+of that when you come to us with
+a bill because um it's gonna be
+the heavy lift if you know, just
+on the language part, and then
+there's the policy part which of
+course you're seeing many of us
+have sincere interested in and
+um a lot of sincere views about
+and so, um, encourage you to be
+reaching out to people you think
+might have good suggestions
+about wording and so on, cause
+there are experts here on our
+committee and in the legislature
+who are very good at at advice
+with that. So I just want to
+share that with you because
+there will be hurdles, um, if
+the drafting isn't, isn't
+precise and so on, and I was
+hearing a little bit of that
+from some of our.
+Members on the committee, so I
+just want to encourage you along
+those lines, but it's clear to
+me that you all have been
+working extremely hard and I
+commend you for that and
+appreciate all the work that you
+have been doing. So thank you
+very much and may I just give
+them a statutory reference in
+terms of something that may work
+for them on the drafting, and
+that is 32-28.
+13.
+B
+Paragraphs 3 and 4.
+And what you'll find there is
+the standard that we put in IPA
+for excluding poverty.
+Yes, and if you look at that
+language, it is, it is very
+clear that that what we do is
+that, is that we exclude um we
+exclude community and family
+family poverty, isolation,
+single parenthood, custodian,
+age, crowded or inadequate
+housing, substance abuse,
+non-conforming social behavior
+shall not by
+Self constitute.
+The evidence
+For removing a child, but we, we
+have, we have, but, but we also
+have a standard in there that
+the particular conditions in the
+home and the likelihood that
+continued custody of the child
+will result in serious emotional
+or physical damage to the
+particular child. So, so just
+we, that was very carefully
+worked through language and that
+you should plagiarize that.
+Thank you, Madam Chair, I
+respond very briefly to thank
+you. Senator, we worked very
+consciously to know.
+Not try to undo anything of if
+we think IPA is the platinum
+standard of practice, and we
+would love to carry that
+platinum standard forward to
+every child and family in New
+Mexico.
+Thank you.
+Thank you and thank you for your
+willingness to accept feedback.
+We really appreciate that and I
+appreciate you. Thank you so
+much. Thank you, absolutely.
+So the last substantive item on
+the agenda, and then we'll do
+have our committee discussion
+and public comment.
+Um, is.
+a a briefing, I guess is a
+better way to put it on.
+Ortega versus Grisham and um
+It's a preliminary opinion, but
+I thought it's, it's one of the
+first, we don't have a lot of
+opinions in the state
+interpreting Second Amendment
+issues and so on. We have to
+look outside of New Mexico
+often, and this is an opinion
+that addresses a recent bill
+that we passed, um,
+on the 7 day waiting period.
+And it was in response to, I
+think it was a preliminary
+injunction and restraint
+restraining order as well.
+Um
+In an effort to stop
+implementation of the law, and
+it's preliminary, meaning
+there'll be additional
+litigation, no doubt, but I
+thought, and it's a 100-page
+opinion.
+By by Judge Browning, who is a
+very well respected judge and
+our district and known to be
+very thorough, so, um, I asked
+staff to look at it, so um we
+have Simon Suzuki, who's briefed
+us before, and Christina Esquez
+a relatively new staff member
+I've worked with her and she's
+done some excellent work for me
+on some bills. So with that, the
+floor is yours.
+Uh, Madam Chair, members of the
+committee. First of all, thank
+you for the opportunity. Um, and
+before we start, I think it's
+really important to note that
+all the opinions expressed in
+this presentation on Ortega v.
+Grisham are my own and Mr.
+Suzuki's and not the opinions of
+LCS. Um, I also want to make it
+clear, chair, you just went over
+this, but, um, the district
+court's opinion on the motion
+for a temporary restraining
+order and the preliminary
+injunction that we're discussing
+today are part of ongoing
+litigation, and they will be
+heard later at trial on the
+merits, and this decision is non
+Residential.
+So first, let's talk about the
+issue. So the issue in this
+case was whether the plaintiffs
+are entitled to a temporary
+restraining order or preliminary
+injunction to stop the
+enforcement of the waiting
+period law based on US Supreme
+Court case law regarding the
+Second Amendment.
+Um, the facts of this case are
+that there were 2 New Mexico
+residents who tried separately
+to purchase firearms on the day
+of the waiting period law went
+into effect, which was May 15th.
+Um, plaintiffs were told by
+firearms sellers that due to the
+waiting period law, they would
+have to wait 7 days before they
+could take possession of the
+firearms. This was despite both
+buyers having passed their
+federal instant background
+checks. Um, both plaintiffs
+already own firearms. They plan
+on purchasing additional
+firearms, and they were able to
+take possession of the firearms
+that they went on on.
+May 15th to purchase after the
+required seven-day waiting
+period had elapsed. Um,
+plaintiffs then filed a
+complaint against the governor
+and the attorney general in
+their official capacities. And
+they also filed a motion for a
+temporary restraining order in
+plenary injunction to stop the
+enforcement of the waiting
+period law. Um, the plaintiffs
+allege that the waiting period
+law violates the Second
+Amendment of the US Constitution
+as they believe that it burdens
+the citizens of New Mexico's
+right to keep and bear arms. Um,
+the case remains an active
+litigation, and the district
+court.
+decision, um, on this motion is
+non-presidential, which we
+already discussed, and it
+remains subject to appeal for 30
+days from the date the order was
+filed. So this order was filed
+on July 22nd. So the deadline
+for the appeal is kind of fast
+approaching.
+Um, I think in order to sort of
+fully understand the facts we
+need to have a little bit of
+context, so I'm going to discuss
+a little bit of uh the substance
+of the waiting period law. Um,
+this law requires a waiting
+period of 7 calendar days to
+pass before a firearm can
+transfer from a seller to a
+buyer. Um, during this time, the
+firearms shall remain in the
+custody of the seller or the
+Federal firearms licensee that's
+performing the federal instant
+background check.
+Um, in this statute, firearm is
+defined the same way as it is in
+multiple sections of chapter 30,
+Article 7, which is um an
+article on weapons and
+explosives. So I'm sure you guys
+are all pretty well versed in
+this definition, but it states
+that any weapon that will or is
+designed to or may readily be
+converted to expel a projectile
+by the action of an explosion.
+The frame or receiver of any
+such weapon and includes any
+handgun, rifle or shotgun, but
+shall not include an antique
+firearm as defined in 18 USC
+Section 921 16. Um, a powder
+actuated tool or other device
+designed to be used for
+construction purposes an
+emergency flare or a firearm in
+permanent inoperable condition.
+So that's the definition of the
+firearm that we're working with.
+Um, it's important to note that
+the waiting period does include
+the time that it would take to
+do.
+instant background check. So,
+you know, that 7 days, usually
+those are instant, that's why
+they're called instant
+background checks. However,
+there are cases where it takes
+longer or sometimes doesn't get
+done at all. So this bill was
+drafted with the intention to
+close the Charleston loophole,
+which is what this is. So now,
+if the federal instant
+background check hasn't been
+completed within 20 days, the
+statute says that the seller may
+transfer the firearm to the
+buyer.
+Um, and the crime of unlawful
+sale of a firearm before
+required waiting period ends
+occurs when the, the transfer of
+ownership, possession or
+physical control of the firearm
+from the seller to the buyer
+before the end of the required
+seven-day calendar, uh, 7
+calendar day waiting period, but
+does not include temporary
+possession or control of a
+firearm provided to a customer
+by a proprietor of a licensed
+business in the conduct of that
+business. So you are allowed to
+handle the firearm when you're
+looking to buy it.
+Um,
+each party to an unlawful sale
+of a firearm before the waiting
+period ends, it can be charged
+separately for the same sale.
+And each firearm sold unlawfully
+would constitute a separate
+offense. Um, if a person
+violates this law, they're
+guilty of a misdemeanor. Um, and
+the sentencing authority for a
+misdemeanor requires that you
+would have a sentence of
+imprisonment in county jail for
+less than one year or a fine of
+not more than $1000 or both the
+imprisonment and the fine.
+Um, there are 5 exceptions to
+this law, and those are as
+follows. It's to a buyer who
+holds a valid federal firearms
+license to a buyer who holds a
+valid New Mexico concealed
+handgun license pursuant to the
+concealed handgun carry Act to a
+law enforcement agency.
+Between two law enforcement
+officers that are authorized to
+carry a firearm and certified
+pursuant to federal law or the
+Law Enforcement Training Act
+here in New Mexico or between
+immediate family members, which
+means a spouse, a parent, a
+child, a sibling, grandparent, a
+grandchild, a great grandchild,
+a niece, a nephew, a first
+cousin, an aunt or an uncle. And
+so that's kind of the entirety
+of that law. And now I'm gonna
+hand it over to Simon for
+analysis.
+Thank you, Madam Chair. Um so I,
+we understand that this
+committee has studied this
+issue,
+um, pretty thoroughly, Senator
+IV Soto gave a pretty in-depth
+presentation last interim and
+Mr. Cummings and Ms. Dorsey also
+um updated the the committee
+regarding the Rahimi opinion,
+so we're gonna just uh not get
+into too much detail about the
+law, but, um, as
+You mentioned, Madam Chair, and
+Ms. Vasquez, this issue was over
+a motion for a TRO or
+preliminary injunction. So just
+for the committee's information
+generally to get a preliminary
+injunction, the movement has to
+demonstrate a substantial
+likelihood of success on the
+merits. Um, and that would be
+the merits of their Second
+Amendment claim.
+Um, make a clear and unequivocal
+showing that they'll suffer
+irreparable harm absent the
+preliminary relief.
+That the balance of the equities
+tips in their favor, which means
+that the likely harm they'll
+suffer outweighs any harm to the
+state.
+Um, if the preliminary
+injunction was granted and to
+show that the um preliminary
+injunction is in the public
+interest. The standards change a
+little bit based on who the
+parties are and the type of
+injunctive relief that's
+requested, but generally those
+are the requirements that the
+court imposed. And then a TRO is
+just a preliminary injunction
+without notice that has a
+a much shorter expiration date
+on it. Um,
+So the courts typically require
+a showing of immediacy and may
+impose other requirements on the
+movement.
+So, uh, so this, this court um
+determined that the plaintiffs
+were not entitled to a
+preliminary injunction and
+The judge went into detail on
+each of the elements, but for
+the committee's interest will
+focus on the first, the
+likelihood, the substantial
+likelihood of success on the
+plaintiffs, um, the merits of
+the plaintiffs Second Amendment
+claim. So many of you are
+familiar with the, the, the
+Bruin test, which was recently
+clarified or modified by Rahimi,
+which is a two-part inquiry
+where the court has to first
+look to the plain text.
+Of the Second Amendment to
+determine whether the conduct
+that's regulated by the statute
+is covered, and this is a purely
+textual analysis.
+So you know, following the, the
+Supreme Court case law. This
+Court did just that. It looked
+at the text of the Second
+Amendment, the operative clause.
+The right to keep and bear arms
+and determined.
+Uh
+You're looking to Justice
+Scalia's opinion in Heller, some
+other
+opinions from the circuit courts
+of appeals.
+You know, plain dictionary
+definitions keep means to have.
+Bare means to carry in public.
+And
+So, so, you know, therefore, the
+plain text of the court
+determined the plain text of the
+Second Amendment did not cover
+purchase. The court acknowledged
+that
+The Second Amendment may cover
+like or likely covers the
+purchase of firearms because if
+a person was not able to acquire
+firearms, it would, would likely
+amount to a functional
+prohibition on keeping firearms,
+but that is not um,
+that wouldn't be that right
+wouldn't be established through
+a plain text analysis. Um, so
+applying only the plain text
+analysis, the court determined
+that keep does not include
+purchase.
+The and it may get a little bit
+confusing, Madam Chair, so
+please interrupt me if, if, if.
+You know, I get too into the
+weeds, but the court was faced
+with somewhat of a novel issue.
+It's, it's been addressed by
+some, some of the district
+courts, some of the circuit
+courts as to whether
+a previous opinion by the
+Supreme Court, Heller, that
+established these cons
+presumptively constitutional
+categories of firearm
+regulations, um, whether that
+was subsumed by Bruin or
+abrogated by Bruin, and the
+court determined that it was
+not. So these were the safe
+space, um, the sensitive space,
+uh.
+Places that fell under the
+sensitive space doctrine, um,
+laws that prohibited possession
+by felons and the mentally ill,
+and um.
+Laws that required licensing for
+handguns. And, and finally, the
+one that applied to this law
+were laws that regulated the
+commercial sale of firearms.
+So the, so after.
+Uh
+Making that first determination
+in Bruin, the court then looked
+Um, at whether the waiting
+period law was a commercial
+regulation. It determined that
+it was and uh held that because
+it was commercial, the law was
+presumptively constitutional.
+And the um the standard that the
+Court fashioned, and, and again,
+this is uh unique to this
+particular case. There there is
+is not any definitive precedent
+on it in in
+Our circuit or nationally
+through the Supreme Court.
+is whether the regulation
+applies to the sale of firearms
+at the point of sale,
+whether it unduly burdens the
+buyer over the seller.
+And um.
+Whether it is a long standing
+regulation.
+Uh, and, and the court applied
+long standing as a different
+standard from the historical
+tradition standard, um.
+Set forth in ruin and
+Just kind of the, the, you know,
+main point is that it's a
+regulation is long standing if
+it dates to some point in the
+20th century.
+Uh, and the, the court.
+You know, justified that
+determination by pointing to
+several examples. Um,
+additionally, because it's a
+presumption, presumptions can be
+rebutted, and the court
+determined that the plaintiffs
+were unable to rebut the
+presumption because they would.
+They they would be unable to
+show that it had more than a de
+minimis effect on their right to
+keep and bear arms. The court
+characterized it as a brief
+delay in in their acquisition of
+the firearm. And then finally,
+the court went to the to the
+second part of Bruin, which for
+the purposes of this
+presentation is the third kind
+of part of the analysis. Here is
+whether the um the the
+statement, the, uh, if, even if
+the plain text of the Second
+Amendment covered, uh.
+The waiting period, the conduct
+covered in the waiting period
+Act.
+Uh, if
+The defendants carried their
+burden, so the state carried
+their burden to demonstrate that
+the law is consistent with the
+nation's historical tradition of
+firearm regulation.
+And as the court, the Supreme
+Court said in Bruin, as they
+said again in Rahimi, a law
+doesn't have to be a dead
+ringer. It doesn't have to be a
+historical twin.
+Rather, the court, the trial
+court has to determine whether
+it's relevantly similar to one
+of the historical uh firearm
+regulations. So looking at the
+why, the reason, the legislative
+intent behind the regulation and
+how that regulation impacts the
+the right to bear arms.
+Um, so the state, uh, cited two
+types of regulations, uh, one
+that
+dealt with the sale of firearms
+to intoxicated people and the
+other were these historical
+licensing regimes and, and these
+were, um.
+Colonial era territorial era,
+uh.
+Laws that generally prohibited
+the sale of firearms to Native
+Americans, enslaved people,
+and then, uh, other citizens who
+held.
+seditious viewpoints against the
+government. Um, the court
+determined that the waiting
+period law was relevantly
+similar to the latter category
+of regulations, these licensing
+regimes and because of the, so
+the why, the why, the reason for
+these regulations.
+The court determined were
+To protect the public from
+people.
+deemed to pose a potential
+threat, and I encourage all of
+you to read the opinion. It's
+very, very detailed and, you
+know, the, uh,
+Judge Browning is very careful
+to explain his reasoning, but
+that um.
+That
+Basically this the waiting
+period law did the same thing.
+It, it identifies a group of
+people that may
+pose a threat and
+The and in terms of the how the
+uh
+The court determined that they
+weren't that the how how the
+historical examples affected the
+um the Second Amendment right.
+We're not similar to how the
+waiting period law affects the
+Second Amendment right
+in instead, the court said that
+the the historical examples went
+much further. The historical
+examples completely barred
+possession, um, banned the sale
+of firearms to these groups of
+people, whereas again the
+waiting period law merely poses
+what the Court called a brief
+delay in acquisition.
+And with that, Madam Chair, we
+will stand for questions.
+thinks that's, that was super
+helpful and concise, which I
+really appreciate, um, members
+of Senator Cervantes, thank you.
+That we're a little behind and
+we're going to get to maybe some
+free for all.
+At the end of the day, yeah, so,
+so I won't, I won't go too deep
+into this. I just think it's
+important to recognize the work
+of a lot of people in this room
+on the Senate Judiciary
+Committee, the House Judiciary
+Committee, for really doing
+pretty incredible work and our
+staff who's here as well too,
+you know, the gun regulation,
+gun laws these days is about
+threading a needle. That's
+really what it comes down to.
+And some people get it right and
+some people get it wrong. Uh,
+we've, we've had some executive
+orders coming in in the last
+year that have been promptly
+enjoying.
+And struck down as
+unconstitutional. Um, we in the
+legislative committees that I've
+served with uh are trying really
+hard to make sure that we only
+pass gun laws that are
+constitutional.
+That are going to survive and
+that's not easy to do because
+the Supreme Court, as we're
+learning here, has got a moving
+target. You'll excuse the, the
+pun, uh, um, however, uh, I
+always look with some amusement
+at my colleagues over here to my
+left because a couple of years
+ago I said that the Supreme
+Court's original analysis in
+Hell and Bro would not stand the
+test of time and that Clarence
+Thomas didn't know what he was
+doing. Um, and that was pretty
+brazen comment. I know it's a
+pretty brace, well, you all
+thought I was a nutcase.
+Right, yeah, I'm sure you did
+and and you know some street
+lawyer from Las Cruces is
+telling the Supreme Court
+justice that he doesn't know
+what he's doing. He doesn't know
+what he's doing. Um, and, and
+clearly we're already seeing the
+court backing away from that
+historic analogy test and the
+reason it was easy for me to
+predict they'd have to back away
+was the Rahimi case, which is
+there's no way the court is
+going to say, yeah, you have to
+sell guns to people regardless
+of domestic violence order and,
+and there was no way in a modern
+society the court was going to
+be able to just.
+By doing that. So they've
+already had to start backing
+away from this historic analogy
+test and it's important for us
+to recognize that the court is
+beginning to open the doors a
+little bit for us and we can
+start trying to go through some
+of this very carefully and
+slowly if we want to maintain
+what has been my goal, which is
+to not pass things for show. We
+talked about that earlier this
+morning. It's easy to pass when
+the speaker was here. It's easy
+to pass laws that'll get us a
+nice press conference, give us
+high fives so we can go smoke
+cigars and have a brandy, um,
+and feel really good for.
+About a week.
+OK, so no cigars. Uh, but, you
+know, we'll feel good for about
+a week until the federal courts
+step in and grant an injunction
+and strike the law down, which
+we're doing some up in New
+Mexico too and it's an exercise
+that I guess makes some people
+feel good for a few moments,
+but, uh, in any event, I just
+think it's important to
+recognize Brandon, who's here,
+uh, the, the Judiciary Committee
+members who presented Daniel
+presenting with Brandon last
+year. We've taken a good
+opportunity to learn the law and
+this committee should really be
+commended on the deep dive,
+Madam Chair, you following up
+this year.
+to, to really dig in, learn the
+law, know what we can do and be
+intelligent and responsible
+about it and we should, to me
+this is a celebration of our
+work, right? It's to say, hey,
+we passed, I was the sponsor and
+the author of the 7 day waiting
+period, but I don't do it alone.
+We do it with a lot of committee
+work, a lot of staff work,
+reading all these cases, a lot
+of thought, a lot of study, and
+we threaded the needle and at
+least right now we've got a
+federal judge who arguably is
+probably the most thorough
+judge. It's no surprise that he
+wrote a how long is this
+decision?
+105 pages. Yeah, 105 page
+decision. Uh, he's trying to
+make sure that he's, his rulings
+are going to get, uh, looked at
+up at the Court of Appeals and
+maybe by the US Supreme Court,
+and he's, he's laying a good
+foundation and I'll just, at the
+risk of getting in trouble with
+anybody, which, you know, I'm
+getting in a lot of trouble with
+everybody these days. Uh, Judge
+Browning is probably regarded as
+one of the most conservative, if
+not the most conservative
+federal judge in the state. Um,
+I gotta imagine he's a
+Republican appointee, brilliant
+judge. I'll say that, so I get.
+Out of trouble with him when I
+call him conservative, but, but
+he's brilliant and, and there's
+a reason he wrote the opinion he
+did and took the time he did.
+Um, and when he's saying we got
+it right, which we're the one
+who wrote this, we're the ones
+who passed this. When he's
+saying we got this right, I
+think kudos to this committee,
+Madam Chair, kudos to our staff
+and, and, and it's a real
+privilege to work with all of
+you and to be able to say
+whether you agree with the 7 day
+waiting period. I know some of
+y'all didn't like it. I know
+some of y'all opposed me on it.
+I respect that, but, but you
+should, I think, take some time.
+Pride in the fact we're doing
+extraordinary legal work here,
+and, and Madam Chair, I, I, I
+think it's important we take a
+moment to recognize that. Thank
+you.
+Uh, thank you, Senator, Senator
+Neibert.
+Since the chair already asked
+the question I was going to ask
+as to how many pages Judge
+Browning uh wrote, uh, I will
+point out that had it been a 14
+day waiting period that we may
+have a different result.
+Well, I don't know cause if if
+it's turns on the word keep.
+Right, which is what one of the
+predicates was, well, I'm just,
+you know, I guess I shouldn't
+jump in, but I'm, I'm, I'm
+choosing, yeah, sorry, I'm
+treating him like he's a serious
+person.
+Well knowing Judge Browning and
+I, I think you may have had a
+different result had it been 14
+days. I think the 14 days was
+definitely the outer limits, uh,
+and.
+You
+agreement to reduce it to 7
+days, made it, I think, at least
+in Judge Browning's eyes,
+palatable.
+Anyway, we don't need
+congratulations kind of, yeah,
+yeah.
+Yeah, yeah, I guess that's about
+as close as you're gonna get
+with him.
+Um, senator Ivy Soto. Thank you.
+You know, first of all, I, you
+know, I,
+I did uh uh worked with Senator
+Cervantes on the bill. Did did
+vote for the bill. I, I also did
+Peru the opinion I do recognize,
+given that it's Judge Browning
+105 pages means that he kind of
+phoned it in.
+Most of his opinions are much
+longer than that, um, but I will
+say that that if there is, if
+there is a weak point in his
+opinion.
+Um, it is, it is, it is that he
+he gave weight.
+To the testimony that was
+provided as to the number of
+lives that that some people
+believe will be saved by the 7
+day waiting period.
+Um, and, and, and, and, and the
+reason I say that's a weak point
+is, is in Myer versus Bruin.
+Um,
+The
+Uh, in, in that opinion, it, it
+states very clearly and it's
+very succinctly and Haller and
+McDonald beheld the 2nd and 14th
+Amendments to protect an
+individual right to keep and
+bear arms for self-defense in
+the years since, the Court of
+Appeals have coalesced around on
+a two-step framework for
+analyzing the Second Amendment
+challenges that combines history
+with means and scrutiny means
+unscrutiny being a balancing
+test of the social benefit of a
+policy.
+That's a means and scrutiny.
+Despite the popularity of this
+two-step approach. It is one
+step too many.
+Today we declined to adopt that
+two-step approach.
+Um, to the extent that Justice
+or that Judge Browning
+Um,
+Found himself
+Relying on or articulating what
+certainly sounded like a
+two-step approach.
+On, um, by weighing and giving
+weight.
+To a means and scrutiny.
+Uh, of the evidence supporting
+the policy.
+Uh,
+that would seem to run.
+Uh, directly afoul of that of
+that sentence and Nerro versus
+Bruin.
+Uh, and I, and I, in fact, I see
+both of our analysts kind of.
+shaking their head in
+recognition of, of the text that
+I'm not right and and and if I
+don't know if you guys want to
+comment on that at all.
+Um, Madam Chair,
+no, I mean, Senator Ivy Soto is
+correct, um.
+But, and, and, you know, Judge
+Browning gave a lot of footnotes
+and, and would it seem, I'm
+assuming he would disagree with,
+with that characterization. Um,
+But based on the Supreme Court's
+clarification of the test in
+Rahimi, the court looked at the
+why and the how, so it.
+This opinion, um,
+would, would say that.
+After Rahimi that that there
+there is um that the that the
+trial courts have to give at
+least some consideration to
+legislative intent and how, how
+they do it, that it's, it's it's
+it's not dispositive, but that
+it's um and I can't think of the
+quote off the top of my head,
+but is central to the um the the
+relevantly similar analysis. So
+when a court's determining how
+it's relevantly similar.
+They have to, Madam Chair, uh,
+Figure out what our.
+You know previous legislatures
+had done and
+Determine whether the the
+current law in question.
+Have the same intent and the
+same effect.
+Sure, would it be close enough
+for horseshoes?
+Yes, I get it. Um, nonetheless,
+like I said, that is, that is
+the one issue I think though,
+Madam Chair, uh, that I think,
+uh, we would be wise to watch if
+this goes up by eel.
+So.
+Anyone else, uh, any other
+member? OK, um, well, a few
+things, yeah, there, there can
+be an appeal on the denial of
+the request for a preliminary
+injunction. So we'll be waiting
+till I guess next week to find
+out whether there's going to be
+an appeal. I don't know if the
+plaintiff has announced whether
+or not he intends to appeal. I,
+I did read the news article, but
+I don't remember seeing anything
+about what the intentions of the
+parties were with regard to
+that. So that's, that's 0.1. A
+0.2 of us.
+If there is no appeal, then
+there's going to be a trial.
+This is not dispositive, as I
+said earlier, there will be
+further, there will be a trial,
+there'll be evidence, and that
+should be an interesting thing
+for us to watch because there'll
+be conversations and evidence
+apparently about what's
+historical and um some of the
+commentary on Bruin when it was,
+um, issued by the Supreme Court
+is, this is going to be a
+fertile field for historians.
+They just created
+Subset of a legal experts that
+are all historians and now that,
+now that's gonna be a cottage
+industry. And it's frankly going
+to increase the cost of
+litigation significantly for
+people and, um, so it's an
+interesting point, but so we'll
+see next week, whether it's
+appealed, but if it's, um, at
+some point it's going to make
+its way down, presumably to the
+court again and there'll be a
+trial and it's going to be an
+interesting thing to maybe watch
+and read about and and wait for
+an opinion on, but at the moment
+our
+7 day waiting period law is at
+least initially deemed
+constitutional. And again, I'd
+point out that the likelihood of
+success is one of the criteria
+and Browning apparently believes
+that likelylihood of success for
+the enjoiners is low. OK, so.
+Just 11 point, Madam Chair. Um,
+so as to the first Bruin
+question,
+whether keep includes purchase.
+Um, Judge Browning took guidance
+from the 9th and 5th Circuit.
+Um, so both the Ninth Circuit
+and the 5th Circuit, um,
+Determined previously that keep
+does not include purchase.
+That's interesting because
+when I heard that point I turned
+to our vice chair and I said, I
+don't know. I, I, I don't know,
+that's, that struck me as a
+little splitting of the hairs,
+but, you know, maybe that would
+hinge on the 7 day, you know,
+but OK, yeah, very good point.
+Thanks very much. Thanks for
+your work on this. I appreciate
+the staff support that we're
+getting. Thank you. All right,
+um, we are now on.
+discussion, anything any one of
+you wants to talk about either
+from yesterday, today, or moving
+forward, yes, Senator. Thank
+you, Madam Chair. I promised a
+little bit of an update to the
+committee on some of the work
+that we talked about yesterday
+and that we are really fortunate
+to have great people working
+with us and staff to research
+things. Yesterday we talked
+about the Best Buy murder, um,
+those of you that were here, I'm
+sure, uh, found that very
+interesting. I think a lot of
+you were shocked to find out
+that despite the the accused,
+the murder, the
+Carjacking in Santa Fe. The
+manhunt statewide that the uh uh
+risk assessment tool, what we
+used to call the Arnold tool,
+the court's now calling
+something different recommended
+he be released now after all of
+that, so that should help us
+understand why those of us on
+the Judiciary Committee for
+years have now been having
+hearings to really challenge the
+use of that tool. That was
+yesterday, and that was in part
+because again the legislature is
+repeatedly being uh the, the
+target of the, of the crime
+problem we have in our state by
+not having more strict
+sentences.
+So this morning we made some
+news you all probably noticed
+this morning with a number of
+stories on yesterday's, uh,
+meeting on, on that case, I, I
+told you that I would look into
+a second case in Santa Fe this
+morning, the district attorney
+of Santa Fe was quoted as saying
+that um that the crime in Santa
+Fe is unacceptable. I think
+that's the right word. Of course
+she is the district attorney's
+responsible for enforcing the
+laws and chief law enforcement
+officer of Santa Fe and has been
+for many years now. Uh, so I'm
+glad that she recognizes that
+the result of those efforts is
+unacceptable.
+At this point in time.
+Uh, she also said that we need,
+I'm gonna quote her, we need
+stricter sentences on violent
+crimes.
+And again, we talked about that
+a lot yesterday. That's the
+default for everyone. We need
+stricter sentences, and
+yesterday I pointed out that the
+accused on the Best Buy case was
+facing
+many, many more years than they
+pled that case down to.
+So it shouldn't come as a
+surprise that when we dig into
+the other case that's been
+discussed of late in Santa Fe is
+the Sonic drive-in shooting of a
+customer goes into do what we
+all do all the time.
+Went to Sonic to get something
+to eat, I get a soda, get a
+burger.
+Um,
+And the individuals killed.
+Shot dead there.
+The individual who shot him.
+Um,
+We, we looked at Mr. Romero, I
+believe is Mr. Romero, and
+again, all the information we
+look at is public knowledge,
+public information. We just have
+diligent, good staff. We have
+the time and just incredible
+diligence to go find it. So what
+do we learn about Mr. Romero.
+When the district attorney's
+solution to crime is stricter
+sentencing. What we learn is
+that Mr. Romero
+Before this murder and his most
+recent run-in with the law, was
+charged with 22 charges in Santa
+Fe. Uh during the time by this
+district attorney, the district
+attorney who's claiming we need
+stricter sentences to to curb
+crime. Mr. Romero was charged
+with 22 crimes in 8 different
+cases.
+Under those crimes he faced over
+40 years under our existing
+laws. He, he could have gone to
+40 years under our need for
+stricter sentencing. The
+district attorney out of the 22
+charges and 8 cases pled him
+down to one.
+One charge.
+Habitual offender, 8 years.
+Um, and this individual, uh, was
+dismissed on all other of the 22
+charges.
+Instead of being sentenced to
+what could have been 40 or more
+years if those district attorney
+had chosen to prosecute the case
+to its fruition, to trial,
+taking the opportunity and we
+had confidence and success
+instead of the 40 years he pled
+to the one charge of the 22 and
+was sentenced to 8 years of the
+40 plus that he was facing.
+I hope this always illustrates
+the fact the solution is not
+adding more and more years to
+our, our books.
+It's the dodge that we're
+getting in the press. It's the
+Dodge in the press. It's the
+Dodge that is being sold to the
+public and the public's buying
+it and, and we need to push back
+not again, as I said this
+morning, not to preserve our
+honor, not because it's about
+our egos being bruised. We're
+just not going to get to
+solutions unless we talk about
+the facts, unless we talk about
+where the real causes of of our
+problem are. So this individual
+is facing 22 charges, 8 cases,
+the district attorney who says
+our solution is stricter
+sentences.
+Played it down to 1, he got 8
+years. He was given time served
+almost 2 years. He was released
+halftime for good time and then
+he murdered, accused of
+murdering a customer at Sonic.
+Is the solution really stricter
+sentences?
+As the district attorney seems
+to be arguing for in the press
+today. I, I, I will agree with
+her on one thing, the crime
+problem in Santa Fe and
+statewide is unacceptable. Her
+word again, I certainly agree
+with her on that.
+We may have a difference of
+opinion of why we have the crime
+problem.
+Thank you, Madam Chair. Thank
+you, Senator. Anyone else wish
+to weigh in on that? Yes,
+Senator Abio.
+Uh, well, since, since, uh,
+Madam Chair, since, uh, the Vice
+Chair raised the issue of the
+First Judicial District
+attorney.
+Um,
+who spent a lot of time.
+Instead of focused on
+Folks residing in the first
+judicial district spent a lot of
+time focused on Hollywood.
+Um, do we know how much money?
+was appropriated for.
+Special prosecutions, I think
+they were.
+There were special
+appropriations that were
+requested
+should be fairly easy to
+everybody's looking the same
+place,
+aren't we? You should red you
+are
+um it didn't we do didn't we do
+a $1 million appropriation? I
+thought we had $1000. Was it
+$1000? I shouldn't say.
+I thought it was an.
+I know, I know there's multiple
+years that there were special
+appropriations.
+And
+I'm just giving the, the
+prosecutor misconduct that
+occurred.
+Resulting in everything being
+dismissed with prejudice.
+Um, I'm just wondering if, if,
+if, if there's an interest in
+clawing back that money.
+Um.
+Madam Chair, Madam Chair, if I
+may,
+just free dialogue, I hope,
+yeah, um, Senator Iy Soto's
+point, you weren't here
+yesterday, Senator Abby Soto,
+but I, I hope you'll go back and
+watch the video from yesterday.
+I hope everyone will. Uh, the
+district attorney, when she said
+the problem with the
+unacceptable crime in Santa Fe
+is the lack of stricter
+sentences. She also said that
+her quote in the paper was, we
+need to better fund the justice
+system. We need a better funded
+justice system. Now those who
+were here yesterday heard hours
+Of testimony of the funding that
+we put into the justice system,
+the public safety in the last
+few years, 400+ million dollars
+not spent, not utilized. So to
+your point, Senator Ay Soto, is,
+are we using the dollar smartly,
+um, whatever money we spent on
+the Baldwin case,
+I think we're all taking your
+point, but, but I did want to
+make sure that her quote was
+thorough, which is the problem
+is the lack of stricter
+sentencing out of Santa Fe and
+the lack of funding the judicial
+system and anybody who was here
+yesterday knows that's not the
+problem either.
+And you know, uh, Madam Chair,
+and, and, and Mr. Vice Chair,
+uh,
+What are the things?
+That
+if I may suggest that we might
+want to take a look at.
+Um, in terms of funding.
+Uh, is, um, does that have the,
+the $7759,697. There we go. Um,
+thank you. That's, that's
+amazing work. That's what was
+spent on the Baldwin case. Yeah.
+Um, so far, but you know, uh,
+but, but that is that the the
+courts.
+The courts are under unified
+budgeting.
+Um, the public defenders are
+under unified budgeting.
+The DA's
+are under
+14 different budgets.
+Um,
+13.5 I guess.
+And, and, and really we.
+What
+Two things I think, I think we
+ought to look at.
+is, is having the DAs be under
+unified budgeting.
+Um.
+B
+Uh,
+Frankly, when there's a, when
+there's a major
+When there's a major, um.
+Special prosecution or something
+that it makes it easier to to
+move some of the funds around
+internally.
+And some of this.
+But, but also right now there's
+there's.
+What you, what you get is, is,
+is, is DAs playing against each
+other in terms of certain
+initiatives, as opposed to if
+they had unified funding.
+Um,
+but, but then the other thing
+is, frankly, the the PD funding
+ought to be equal to the DA
+funding.
+It'd be easier to to market that
+way if we're under unified
+funding.
+Uh, for the, for the, for the
+DA's.
+Um, and, uh, they pay for
+different things.
+Um, right, the, the, the PDs had
+to pay for rent the the DAs
+don't.
+Uh,
+the DA's prosecuted 100% of the
+felony cases, the PDs only
+defend.
+80% of a
+Uh,
+right, so, so I think it all, it
+all comes out in the wash, but,
+but, uh, but, but I think, I
+think in terms of, in terms of,
+of some of the accountability on
+the funding, I think, I think if
+we, if we went to a, to a more
+unified through the AODA.
+Uh, we might, we might actually,
+uh, uh, get into a better
+situation of, of really actually
+more efficient ultimately uh
+funding of a prosecutorial
+dollars in the end.
+Uh, before the year is out.
+Thank you.
+Thank you, Senator. Anyone else?
+Representative Reeb.
+Madam Chair, I think that the
+the unified budget was talked
+about. It's been talked about a
+bunch and the difference I think
+being is that the DAs are
+elected and that's a very
+different deal, um, then.
+A public defender who's
+appointed and, and things of
+that nature, but it's been
+talked about. I think also the
+problem with the DA's and the
+public defenders is there's just
+no staffing, I mean, I was told
+since I left in 2014, they've
+had 5 applications for a
+prosecutor in the night and
+that's why we're getting
+contracts, so I don't know, you
+raise the money the the
+legislature raised the salaries
+up to where we thought that
+would fix it, but in the rural
+areas, nobody's going there.
+Um, so I know that's been a
+discussion, the unified budget
+just runs so different when
+you're elected, um, so that's
+always kind of been the issue,
+but.
+I mean
+But the the the money in the
+Baldwin case was for all those
+cases. Just throw that out
+there.
+And I could write you a check
+probably with what I got of it,
+so.
+I'm just, I'm just pointing that
+out I think it's selected is the
+issue with the unified budget.
+Well, yeah, and also the courts
+have a unified budget, but we
+know who the boss is and you
+they're all co-equal and they're
+how one would like decide who's
+got priority in a unified budget
+when you've got DAs, all of whom
+are autonomous, duly elected by
+their own communities. That's
+different from a Supreme Court
+saying, I hear you, but we're
+doing it this way and that's the
+end of it. You're all getting
+this amount of money where it's
+just, it's just a harder thing
+to manage if at all, whether you
+can manage it at all, right? And
+I also think you
+Senator Cervantes and I know
+that they're talking about
+combining some of these
+districts together, um, getting
+rid of some of these DA
+districts and so that could
+help.
+Oh, really?
+Oh no, I think it's pretty.
+Oh, is it not?
+She probably told her friends
+already, so you know.
+Oh,
+they know, yeah, there you go.
+All right. Yeah, I didn't want
+to interrupt you, uh, but I, I
+kind of agree. I think it's
+you're talking two different
+kinds of structures, yeah,
+exactly. Senator Niber.
+I would push back a little bit
+on the thought that the DA's
+budget and the public defender's
+budget should be the same
+because the prosecution, the
+state bears the burden of proof,
+which
+is ultimately more expensive
+than simply the defense. So if
+you're looking at budgeting, I
+think you have to consider which
+of the two would have a a more
+expenses in terms of, of experts
+and what have you and who bears
+the burden of paying for those
+expenses, so it, it shouldn't be
+1 to 1, uh, I would suspect that
+there probably needs to be more
+analysis before you make, uh,
+just say we're gonna throw a
+week.
+Money to each and Madam Chair,
+I, I, I, I, I completely agree
+with you, Senator, and I, I,
+when I was a prosecutor, I never
+had to pay.
+For the investigations done by
+the cops. I never had to pay for
+SLD scientific Laboratory
+division come, to come and
+provide expert witness services.
+I never had to pay for any of
+that stuff as a prosecutors all
+provided by other agencies.
+Uh, all subsidized in the work
+that we did. Whereas the the PDs
+had to pay for everything if
+they wanted to do it. So you're
+absolutely right about that.
+And, and then the second
+thought, maybe I didn't quite
+get the pushback, but we do have
+some judicial districts in the
+state.
+That uh number one, we don't
+have any lawyers in those
+counties. There's some counties
+with no lawyers, and there's
+some judicial districts with
+very few lawyers and ultimately
+we as a state are going to have
+to address some of those
+concerns, uh, and it may be
+consolidation, maybe some other
+mechanisms to deal with the
+issues that come up, but that's
+something that we probably do
+need to get a get a.
+That of
+Thank you, Senator.
+Representative Re.
+Yeah, Madam Chair, on that
+point, the other thing is, is
+the DA's office reviews the case
+and then makes a decision to
+proceed forward, which really
+engages the public defender. So
+there's that upfront analysis,
+if you would.
+Like
+Uh, anyone else want to air an
+issue or weigh in on anything
+Sorry, I've been doing this 24
+years. Um,
+We used to routinely in this
+committee and in related
+committees have a guy named Tony
+Ortiz who would show up at all
+of our committee meetings. Um,
+Tony Ortiz used to be the
+representative of the Sentencing
+Commission.
+And he was
+he used to staff this committee,
+right? Representative Chasing,
+I'm glad you're, you're, you've
+been here even longer than me, I
+think, perhaps. So, yeah, he was
+a fixture in this committee. He
+was staffing it. He was always
+in the audience. Uh, he would
+always be in our committees
+whenever we looked at sentencing
+issues.
+What I, what I, I wanted to
+recognize, Tony, I don't know
+what happened to him. I'm sorry
+to say I lost track of him, but,
+but.
+He worked on that group.
+Yeah. Oh, did he on the, on the
+children. Oh, great, good, good,
+good. Well, the reason I'm
+bringing up Tony's name is
+because it's important for the
+public and the district attorney
+in Santa Fe and the press, the
+media, the Albuquerque Journal,
+the Speaker, let him have it
+this morning. Um, you, you
+people need to know.
+We don't pull this stuff out of
+our ass, um.
+Um, the, we have a sentencing
+commission that their entire
+task and job is to study our
+sentencing, right? And, and make
+sure that our sentencing is in
+line with the federal government
+that is in line with other
+states that line with itself
+it's internally consistent that
+we don't make one crime because
+it's because it's a crime du
+jour, right, or the most recent
+crime and capturing the
+headlines that we had suddenly
+let's throw the book at that
+crime, right?
+The Sentencing Commission is a
+deliberate, thoughtful, steady
+process that has learned minds,
+not me. I don't do criminal, but
+has learned minds who are in the
+business on both sides, district
+attorneys, public defenders, and
+people in the entire criminal
+justice studying our sentencing
+structure now.
+Where's Tony?
+He's not here today, and I don't
+think there's anybody here from
+the settings and commission, and
+I have to tell you, I didn't
+hear from anybody from the
+sentencing commission on any of
+the agenda for the special
+session, including increasing
+sentences on felons in
+possession.
+So I began asking what happened
+to the sentencing commission?
+Where did they go? because they
+used to be a fixture in this
+committee. We would never have
+had a discussion of increasing
+sentences without somebody
+saying we've studied it, we've
+looked at it. Here's our advice
+to you. We ultimately have the
+authority to vote, but they
+would guide us on these issues
+where I need guidance because I,
+I don't know this area of law.
+Where'd they go? I don't know.
+I'm asking questions. Madam
+Chair, we'll ask that question.
+We'll bring him here. My
+understanding, I'll just tell
+you the, the buzz that I got
+when I asked around is that the
+Sentencing Commission came into
+disfavor during the previous
+administration. Uh, the Martinez
+administration headed by a
+district attorney, perhaps fell
+out of favor. I don't know. I
+don't know if that's true or
+not, but, but even if that's
+accurate, we've had 6 years of a
+new administration to reassemble
+the Sentencing commission.
+My understanding is we'll look
+back at the mass, Madam Chair,
+Brendan, who sits on the
+Sentencing commission? Did you
+look that up?
+Yeah
+Oh, do you, Madam Chair, do you
+mind him telling us? I don't,
+but I think he needs to come to
+him. Would you come to a
+microphone just real quick?
+Just there's, who's supposed to
+sit on the sentencing
+commission.
+Um, Madam Chair, let me just say
+that the uh CJI, the, the
+criminal justice Initiative is
+working with the Sentencing
+commission. So when they have
+been here, the Sentencing
+commission has been present.
+Linda Freeman.
+And, and so forth, and that's
+good to know that so they're
+functioning, I guess they exist.
+Yesterday we heard a
+presentation that there's with
+behavioral health that they
+don't have an executive
+director, haven't for years.
+They don't meet on and on, so
+I'm, I'm hoping that's not true,
+the Sentencing commission
+executive director I was told
+they don't I was told they don't
+have an executive director Linda
+Freeman,
+OK. All right, well then I'll
+stand corrected there too, but
+anyway, we don't need to dig too
+much into it. I don't need to go
+through the list, but, but I
+did, Madam Chair, I wanted to
+remind.
+Folks, and you'll excuse maybe
+view of coarse language, but
+I'll say it again, we don't pull
+this out of our ass, um, and,
+and this is not just stuff that
+we somebody gets up on the wrong
+side of the bed and says that we
+need to have more years added to
+this sentence. Um, and, and we,
+we're trying to do this very
+deliberately thoughtfully. I
+think we have a good process. We
+have great people working on
+this, and I think the public,
+the media, um, need to know that
+and and this committee needs to
+know that we used to have that
+kind of support here and we need
+to get it again. Thank you.
+Thank you, Senator.
+Representative Chase, just, just
+one thing, and I'm not sure if
+you said it and I didn't hear
+it, but you know, um, our our
+judges, uh, we have a hybrid
+system where there's a, um, the,
+the judicial, uh, interviews,
+but our judges are elected and
+we do. They did form.
+an authority to create a unified
+budget. Just, just that.
+OK.
+Uh
+Yeah. You might want to turn
+your mic on, uh, Representative
+Reed, OK,
+yeah, you're, yeah,
+yeah. Oh, I just said if you
+don't get retained, you just get
+reappointed.
+OK, um, anybody else want away
+and yes, um, Representative
+Brega.
+Thank you, Madam Chair.
+Um, I'm, I'm gonna change the
+subject a little bit here. Um, I
+wanted to just recognize
+Representative Madrid and uh
+Representative Lord, um, in the
+discussions today, they shared
+some of their own personal
+stories and things that are,
+we're all working with things
+that are very deep and, you
+know, they're, they're, um,
+I mean, they have a lot of.
+Different aspects to them and,
+and, you know, for them to be
+able to stand up and talk about
+their lives and the things that
+they've experienced as it
+relates to our making public
+policy, um, I think that
+It's important that we recognize
+them and I wish, um,
+Representative Lord, I did have
+a conversation with her and in
+the restroom, um, you know, the
+more we do this, the more
+similarities we have and um you
+know, it affects all of us as
+New Mexicans, but.
+Those things that they were
+raised with, and, and this goes
+for all kids and you know, all
+of us, um, our childhood
+experiences really affect us as
+we move forward into our lives
+and how we relate to people and
+how we relate to situations. So
+I just wanted to, to hopefully
+close with uh just recognizing
+these individuals because it
+takes a lot of courage to do
+that.
+So thank you, Madam Chair. Thank
+you for that, Representative.
+Yes, Senator Cedila Lopez.
+Thank you, Madam Chair. I think
+that that is really a good point
+of how our personal effects, um,
+our, our view of policy, um, and
+I just want to say I think it's
+really important that they get
+involved with this update of the
+Children's code that the people
+uh get involved with this update
+of the Children's code because I
+think it's important to update,
+and I think the idea of removing
+poverty has a has a base, you
+know, taking poverty away is the
+sole basis for removing
+children.
+It's just one thing that we
+could do that would be very
+profound.
+So all I want to say is just
+encourage people to be involved.
+I know the Linda Linda Lopez,
+Senator Lopez created the
+commission using some of her.
+What do we call it now, Grow
+money or whatever it is, um, and
+Junior money that we don't call
+junior money anymore,
+and they've done a lot of work
+and they have a lot of
+expertise. I think it's really
+important that we keep an eye on
+that, follow it, maybe invite
+them again or somehow support
+them, um, because I think
+It's something we ought to do.
+It's, it's time.
+Thank you for that, Senator. Any
+anyone else? Um, yes, um,
+representative.
+Cadena.
+Mhm.
+To come in and and talk into a
+mic.
+Thank you, Madam Chair. Linda
+Freeman, who was the long
+standing executive director of
+the Sentencing Commission has
+announced her retirement
+effective September 30th. So she
+has done a fantastic job in the
+footsteps of Tony that we all
+appreciated for many years and I
+hope to see their leadership
+come back and flourish and you.
+Thank you, Madam Chair. Thanks
+for sharing that. That was
+helpful. Thank you.
+Anyone else want to weigh in on
+any topic.
+That's relevant to our
+committee, let's put it that
+way.
+I'll drink less coffee tomorrow.
+OK. All right, well, I'm gonna
+cut you off.
+For sure
+All right, we have public
+comment now, um, and I see on
+our list Peter Kubra.
+Thank you everyone. Um.
+I'm sorry about the hour, but I
+wanna say this for 40 years now,
+I've been working with the
+legislature on behalf of people
+with disabilities, and I've also
+during those years, represented
+everyone in our prisons and
+everyone in the Burlio County
+jail and everyone in the state
+training schools, every kid in
+the delinquency system.
+The special session was a train
+wreck, and we all recognize that
+and I'm gonna ask you to focus
+on those issues in this way at
+this time.
+In the developmental
+disabilities waiver program. We
+have 6800 people.
+More than 1000 of them are
+people who've been in trouble
+with the law. Our people who
+have behavioral health
+disabilities. And yet in the DD
+waiver program. These are people
+who are under continuous
+supervision. They have
+wraparound services and case
+managers and a place to live.
+And they don't get in trouble
+with the law very much.
+After they're in that continuous
+supervision arrangement of a
+waiver program where they have
+24 hour supervision and support.
+Now, why don't we do that for
+people with substance use
+disorders and psychiatric
+disorders.
+I have been trying to convince
+the Medicaid agency.
+To set up a waiver program for
+people with behavioral health
+disabilities. And if we were to
+do that, we could capture people
+as they leave the jail or they
+leave some other difficult
+situation, homelessness, enroll
+them in the program,
+continuously supervise them.
+And help them stay stable on
+their medicine and and not
+intoxicated. And so I'm asking
+you to think about this. This
+was the focus of the train
+wreck, right? If we work with
+the executive branch to create
+this, it could be a win-win
+instead of no offense, but
+people calling each other names
+right now.
+I think that we need to sell the
+administration on this. I want
+your help to do that and if they
+won't do it of their own
+volition, I'd like you to
+introduce legislation to compel
+it that we have a program like
+this for people with other
+disabilities, not just low IQs.
+And so I'm asking you to help
+convince the administration.
+And if need be, uh, legislate so
+that we have a bill that just
+says what Colorado just did
+their legislature told their
+executive, you have to set up a
+substance use disorder treatment
+program using Medicaid to pay
+74% of the cost. Please, will
+you help get this done?
+Thank you. And thanks for
+sharing that. We have seen some
+of your correspondence and we
+appreciate your thoughts on
+that. Thank you. Thank you.

@@ -1,0 +1,4651 @@
+OK, so I'm going to call this
+meeting to order.
+So, um, let's get started.
+We will start with um
+analysis of the medical claims
+and billing system in New
+Mexico. And I will allow, um
+I is Doctor Sanchez not here?
+OK, OK. So, uh, just, just as a
+kind of as an introduction,
+Representative Chavis and I used
+some of our grow dollars to
+request this study because we
+know we, we can't, uh, make good
+decisions in healthcare unless
+we know what's going on. So, so
+please go ahead. Um, good
+morning. Thank you so much,
+Madam Chair, for giving me the
+opportunity to present our
+analysis of the medical claims
+and billing system in New
+Mexico. Uh, my name is
+Melanie Sontag, and I'm a
+research assistant professor at
+the Center for Social Policy
+over at UNM's main campus, and I
+will be presenting the results
+of our study today that Dr.
+Gabriel Sanchez and I conducted
+back in June. Um, you should
+have all received a handout with
+a little clip. Um, you can see
+that there are some handouts in
+the back. One is a glossary of
+terms, um, I imagine all of you
+are very familiar with all the
+terms, but just in case you need
+to reference any, they should be
+there. And there is also, um
+the, a simplified version of the
+medical revenue cycle that I
+will talk about in a little bit,
+but I will also just briefly
+touch on, um, and I will get to
+that in a second. Um, you should
+also, sorry, have the slides,
+um, and yeah, um, OK, so this
+report and the findings were um,
+produced by the Center for
+Social Policy. We were
+commissioned by the Legislative
+council Service to conduct the
+study. Any views expressed in
+this presentation are based off
+of the findings that Dr. San
+che z and I made and do not
+necessarily represent those of
+the Center for Social Policy,
+the University of New Mexico
+collaborating organizations or
+funders.
+So just to give you a quick
+introduction of our center, if
+you do not know us or our work,
+um, before I get into the
+presentation, we specialize in
+health and social policy work,
+especially in the state of New
+Mexico. Our work bridges
+academic and applied research
+with a mission to improve social
+policy outcomes for more
+marginalized overburdened and
+underserved communities. Um,
+Doctor Sanchez, who is a
+professor of political science
+and the director of the Center
+for Social Policy and I think
+many of you may already know him
+and myself, um, conducted this
+particular study
+So moving on to, um, would it be
+easier if I tell you which slide
+I'm on too? OK, so we're on
+slide 4 right now, the one that
+says research aim.
+and our research addressed 4
+broad questions. The first one,
+how much time is needed and
+spent in each respective step
+during the billing, coding, and
+claims process. And this is kind
+of like, this was the main
+question, so I have a lot of
+content on that and a little
+less on the other three
+questions. But the second
+question was how much staffing
+infrastructure, um, and
+infrastructure currently exists
+within different health
+facilities and how much is
+needed to effectively manage
+patient loads. The third
+question is, what differences do
+staff and clinicians observe in
+terms of
+billing, coding, and claims by
+different insurance companies,
+plans and types. And finally,
+what impact do the current
+billing, coding and claim system
+have on patient care and
+clinician well-being.
+So we're on slide 5 now. That's
+the one with the map.
+Um, we approached our study
+through qualitative um research
+in particular focus groups and
+interviews. In total, we spoke
+with 31 people, um, 21 week, um,
+oh sorry, 28, we, um, spoke with
+in focus groups and 3 in
+interviews. Our criteria for
+partic participation was that
+the people we spoke with worked
+in healthcare in the state of
+New Mexico and did billing,
+insurance, and claims related
+work on a regular basis. We also
+made an active effort to include
+people in more rural counties in
+the state.
+Specifically, we spoke with
+clinicians and billing and
+claims professionals. We also
+spoke with people in
+administrative or leadership
+positions in health facilities
+as long as they have been
+involved in billing insurance
+and claims-related work. Um, so
+the map kind of shows you the
+counties where the health
+facilities are located of the
+workers that we spoke with, but
+they include Bernalilo, Chavez,
+uh, Dona Anna, Los Alamos,
+Sandoval, San Juan, San Miguel,
+and Santa Fe.
+Um,
+I will now move on to slide 6,
+which has the 3 pie graphs on
+it. Um, I just want to give you
+a quick overview of the
+demographics of the study
+participants, um.
+I'm not sure if you can read
+them pretty well. Can you, uh,
+is it pretty legible? OK,
+perfect. Um, so the pygraph on
+the left shows you the gender
+distribution of the
+participants. You can see that
+most of the people we spoke with
+were women, but we were not
+particularly concerned with
+that, since we all know that
+healthcare professionals, uh, or
+healthcare is a very female
+dominant, um, dominated field.
+Um, we also, um, asked the age
+ranges of the participants that
+ranged from 20% of participants
+that were between the ages of 18
+to
+35 over half, so that was 51.6%.
+We're between the ages of 36 and
+49, and 29% were 50 or older.
+Finally, the pie graph on the
+right shows you the racial and
+ethnic distribution of our
+participants. A majority of our
+participants identified as
+Hispanic. That was 58%, um,
+35.5% identified as non-Hispanic
+white and 6.5% identified as
+another race or ethnicity. I do
+wanna flag there might be some
+rounding errors here
+so the percentages may not add
+up to 100% or exceed it, but
+that isn't, um, but the
+percentages are still correct.
+Um, so moving on to slide 7, a
+little bit more on parti
+participant overview. We also um
+ask participants how long they
+had worked in healthcare, um,
+how often they interacted with
+billing and insurance-related
+tasks and um what kind of
+setting they worked in. Uh, in
+terms of interacting with
+billing, 77.4% had some type of
+billing interaction every day.
+Um, 12.9% a few times a week and
+9.7% a few times a month. Um, 65
+5 % of the participants we spoke
+with worked at hospitals either
+as clinicians, billing or claims
+professionals, or in some sort
+of administrative capacity and
+35.5% worked in other, um,
+health facilities, which
+included private practice or
+smaller clinics.
+Uh, 80.6% of participants have
+worked in healthcare for over 10
+years, 16.1% worked in
+healthcare between 4 to 7 years
+and 3.2% worked in healthcare
+for 1 to 3 years.
+So slide 8, which is probably
+easier to just look at in the
+handout because that's a full
+page printout of that is kind of
+a simplified version of um the
+revenue cycle, which is every
+administrative and clinical
+process that is part of
+collecting payment for patient
+services provided.
+Um
+I want to emphasize again that
+this is a simplified version of
+this process. And you can see
+it's incredibly convoluted. It's
+very complex, and that's kind of
+going to be um the larger theme
+here today. But, um, one thing I
+do want you to take a look at is
+the item on the left side that
+says prior authorization because
+that will also be a huge theme
+today. Prior authorization is
+the process that requires, um,
+providers to receive approval
+from a patient's insurance
+company before they can
+administer a certain medication
+or treatment or care.
+to ensure that that is covered
+by the insurance company. I will
+discuss this more shortly, but I
+just wanted to highlight, you
+know, again the complexity of
+this and just so that you know
+this as I talk about the
+substantive, um, findings that
+Doctor Sanchez and I made.
+So moving on to slide 9. How
+much time is needed and spent in
+each respective step during the
+billing, coding, and claims
+process. Um, in short, um, well,
+first, there are time-consuming
+processes at each point of
+patient encounters, meaning
+before clinicians even see a
+patient while they're seeing a
+patient and after. And second,
+and I will talk about this in a
+little bit too. Frequently
+changing rules and updates
+create delays and take more time
+away from patient care as well.
+So moving on to slide 10.
+let me take a sip of water.
+So to, to address this first
+point
+the clinicians we spoke with
+mentioned they spend around 3 to
+4 hours a week on billing and
+insurance related tasks alone.
+However, I want to emphasize
+that this is likely an
+underestimate because every
+clinician we spoke to said that
+it's really difficult to
+disentangle all of the paperwork
+they have to do and be really
+explicit with saying, you know,
+like, oh, this is just billing
+and insurance-related task. So
+that's, again, an underestimate
+and they're likely actually
+spend a lot more time.
+A lot of the time is actually
+spent on prior authorization
+that I just mentioned earlier.
+And especially the nurses we
+spoke with mentioned that they
+spend a lot of time on prior
+authorization.
+Some of the nurses that we spoke
+with mentioned they spend around
+2 hours a day alone on prior
+authorization. Some said that
+they have spent as much as 4
+hours a day for 4 days straight,
+just on trying to get prior
+authorization. So you may be
+wondering why does this process
+take so long, right? And some of
+this is because a lot of this
+time is spent on the phone. So a
+lot of insurance companies
+require, um, providers and
+clinicians to go through their
+phone lines to do, um, to, to
+talk to an agent
+and, you know, figure out this
+prior authorization stuff. And,
+um, the problem is that a lot of
+them also have automated phone
+trees, making it really
+difficult to even get to an
+agent. And then when they get to
+an agent, it's like, OK, you're
+on hold now and have to wait.
+And so it's just a lot of
+waiting. And then even when they
+get through to people, there's a
+lot of arguing back and forth
+and just trying to provide
+patient care.
+In terms of how long it can take
+for prior authorization requests
+to go through. It can take
+between 7 to 14 business days,
+although that assumes that no
+modifications or fixes need to
+be made to the request. Some
+people we spoke with mentioned
+that when it's all said and
+done, this process can take
+months. It's also important, uh,
+important to note here that this
+process is delayed and lengthier
+for highly specialized and
+costly care because uh a lot of
+our participants mentioned that
+especially for this highly
+specialized and costly care.
+There's a lot more of a fight
+that
+they have to put up
+I want to know too that a lot of
+this process, I just mentioned
+happens before patients can even
+be seen. Although that's not
+necessarily the case because
+sometimes also prior
+authorization can happen when
+just medications or treatments
+change have already established
+patients, but I do want to point
+out that it's especially
+problematic for patients that
+haven't been seen yet,
+considering the long wait times
+we have to access highly
+specialized care in our state.
+So moving on to slide 11, the
+problem of this excessive time
+that is spent on billing an
+insurance-related task continues
+even while patients are being
+seen. One of the clinicians we
+spoke with mentioned that of a
+thirty-minute patient encounter,
+they spent between 15 to 20
+minutes with the patient and
+around 10 to 15 minutes on
+documentation related work.
+Another clinician working in,
+working in emergency, um,
+medicine mentioned that they use
+none of the clinical time on
+documentation, but that they use
+their own private time or other
+time that is allocated
+technically for other work to do
+documentation related work so
+that they can see as many people
+as as many patients as possible.
+But however, as you can imagine,
+that will lead to burnout down
+the line, because that's just
+not, not a sustainable way to do
+work.
+The issue with excessive
+documentation requirements with
+first with what's further
+explained well by a clinician
+who has worked in the field for
+over 2 decades. This person
+explained that 20 years ago
+documentation requirements were
+a lot less and that over the
+past two decades, the, this is
+really exponentially increased
+and has added a lot more time
+and taking a, um, taken away
+time from patients. So one
+example that came up a lot was
+the Center for Medicare and
+Medicaid Services requirement
+such as
+self attestation and self
+attestation is where attendings
+have to attest each of their
+charts themselves and verify
+that what they did right is
+indeed true and correct. And as
+you can imagine, that's just a
+lot of added paperwork for,
+like, no reason.
+Other examples include, I'm
+sorry, it says BIR in there.
+What is Bing and insurance
+related tasks. Yes, sorry, I had
+um clarified that in an earlier
+version of it. But any, anytime
+I mention BIR, it's billing and
+insurance related tasks. Thank
+you for the question, manager.
+Um,
+but yes, uh, other, um, issues
+that came up with CMS
+requirements specifically were
+um that they have to ask
+patients a lot of seemingly
+medically unrelated questions
+such as, you know, they're
+living conditions, and finally
+clinicians working in behavioral
+medicine in particular,
+mentioned that they have to
+draft treatment plans with
+patients that, um, are on
+Medicaid and according to them,
+they those treatment plants
+actually improve, um, do not
+improve patient outcomes.
+Another issue that arises even
+during patient encounters, um,
+is the issue of navigating in
+and out of network issues with
+patients. For example, trying to
+get a prescription filled in,
+uh, in an out of network
+pharmacy or even trying to get
+labs done and out of network
+laboratory also cost clinicians
+time.
+So moving on to slide 12.
+Sorry, I know I've been talking
+a lot and very fast. Um
+even after patient encounters,
+there's still more billing and
+insurance-related work that
+further takes away time from
+clinicians. One issue that was
+raised here a lot are denials
+which are claims that are
+processed and denied based on a
+patient's plan. The problem that
+some flagged here is that
+sometimes claims are denied even
+when, um, after they have been
+accepted.
+Additionally, these claims can
+date back 9 to 12 months, or as
+one person noted, as far back as
+2 years, which requires
+clinicians and billing and
+claims staff to backtrack to try
+to rectify the denials to ensure
+that health facilities get paid.
+One clinician we spoke with
+called this exercise to be
+mental jiujitsu and noted that a
+lot of brain power and time is
+used to address this issue.
+The problem with denials is
+also, according to both
+clinicians and billings and
+claims, um, professionals that
+they feel that insurance
+companies default to denials.
+One person noted so much time is
+spent on arguing back and forth
+with insurance companies.
+Patients are just trying to get
+care.
+One clinician mentioned that
+some insurance companies have
+also used AI tools to
+automatically deny certain
+medication that was being
+prescribed, even if this process
+was not evidence-based.
+Finally, as I will discuss more,
+the variation of how to address
+denials and rejections. Also,
+um, differs a lot by insurance
+companies. Some insurance
+companies have streamlined this
+process or made it a lot easier
+than others, and depending on
+how this process is put in
+place, it can take a lot longer.
+So moving on to slide 13, let me
+also see where we're at.
+Um, yes
+So I know there are a lot of
+acronyms on this one too. You
+can uh reference the glossary
+again on this.
+But addressing my second point
+of issues that end up being time
+consuming, are the frequently
+changing roles and updates from
+multiple entities including
+insurance companies, the World
+Health Organization, the federal
+government, and accredation
+agencies that need to be
+followed in billing and coding,
+both clinicians and billing and
+claims professionals have to
+follow multiple different
+handbooks, including the
+International Classification of
+Diseases, that's the ICD, um,
+the healthcare common procedure
+coding system that's the HCP
+C S um, the current procedural
+terminology, CPT and formulary.
+So the first one is just a
+standardized way to classify
+diseases. The second two are
+standardized ways to codify
+medical procedures and services.
+and formulary is a list of
+preferred, uh, prescription
+medicines covered by an
+insurance plan and sorts drugs
+into different tiers based on
+how much they cost and which
+ones a health insurance plan
+covers. The problem is that
+these get updated a lot. The ICD
+only has large updates every
+decade, but still has minor
+updates more frequently. The
+HCPCS and the CPT and formulary
+get updated annually, although
+according to some clinicians and
+billing and coding staff we
+spoke to, it may happen a lot
+more. Sometimes they mentioned
+even maybe
+like once a month, which is kind
+of insane.
+So this means that everyone
+involved in the revenue cycle
+has to know about the updates
+and be able to implement the
+changes when they report any
+type of patient encounter.
+However, according to the
+billers and coders we spoke to,
+even if you are aware of all of
+these updates and are using the
+right codes and despite all of
+these standardized resources
+that are available, billing and
+coding is not a straightforward
+as you would think. as two
+different people mentioned, and
+I included these um this quotes
+in the
+on the slides but billing is not
+black and white. If you're um
+coding according to the book, it
+won't work. Another one said, if
+you follow the book, no one gets
+paid.
+So not only are there frequent
+updates, but apparently you
+can't even follow these rules as
+they are mentioned because this
+would mean that health
+facilities do not get paid for
+the care they provide.
+Additionally, and this is
+especially alarming within the
+context of patient care is that
+formula formulary changes impact
+patient care and are
+time-consuming. So this means,
+for example, that after a
+formulary update, suddenly a
+patient that was on a certain
+type of medication that was
+working well can no longer use
+this medication because the
+insurance company no longer
+covers this. Um, according to
+the c clinicians I spoke with,
+what happens is that patients
+are given prescriptions that are
+covered um by formulary and have
+to prove adverse effects first,
+and then submit a prior
+authorization request in order
+to get back on the medication
+that they were on before that
+was working well.
+which is a lot, yes.
+Um, so, let's move on to the
+second question that I had. Um,
+the, the second research
+question we had, that's slide 14
+right now.
+So how much staffing and
+infrastructure exists within
+different health facilities and
+how much is needed to
+effectively manage patient
+loads. The short answer is, as
+you can imagine, um, and this is
+pretty intuitive, staffing
+really depends on the size of
+the health facilities. So
+obviously large hospitals have
+larger billing and coding
+departments and um smaller
+facilities have smaller ones. In
+terms of capacity, however,
+almost all participants said
+that they that they do not have
+sufficient infrastructure within
+their facility.
+to manage patient loads
+effectively.
+One item that came up multiple
+times here that exacerbates this
+problem as high turnover in the
+profession.
+as one biller explained it well,
+who's currently getting a
+professional certification after
+having worked as a biller for
+many, many years, is that
+professional training feels very
+disconnected from the actual
+work that billing and coding
+entails. This person noted that
+many key aspects such as how to
+navigate denials or rejections,
+um, of claims is not even
+covered in the training, even
+though it is such a crucial part
+of the job. The problem with
+high turnover, of course, is
+that staff will have to be
+trained, which takes a lot of
+time away from existing
+staff. And then people keep
+leaving, meaning that this whole
+process of training and
+retraining people has to keep
+happening over and over and over
+again.
+The issue of insufficient
+infrastructure is addressed by
+facilities in two major ways
+according to our um study
+participants, which is
+outsourcing and artificial
+intelligence.
+Um, so outsourcing means in this
+context, just that facilities
+outsource billing and coding to
+various degrees to other
+companies. And almost all
+participants I spoke with
+mentioned that this usually
+turned out very, very poorly.
+Like I don't think a single
+person mentioned a good
+experience with that. And a
+notable issue with this,
+especially was, um, just that a
+lot of the outsourced companies
+do not have a heart in their
+company, uh, in the health
+facility that they're working
+with and don't try
+to make sure that these
+facilities get reimbursed,
+meaning that these facilities
+end up losing a lot of money
+because a lot of reimbursements
+don't go through. Um, another,
+um, solution that I mentioned
+earlier, the artificial
+intelligence or AI, um, was
+actually received relatively
+positively. A lot of the people
+I spoke with that worked in
+facilities that started
+implementing AI. We're actually
+really happy with it. But as one
+clinician noted too, we do have
+to be careful about overly
+relying on AI
+especially within the context of
+healthcare and people's health,
+um, and I can talk, I'm happy to
+talk about that more if any of
+you have more questions about
+this.
+um
+but let's move on to slide 15.
+Um, the third question, um, the
+third research questions was,
+which was, what differences do
+staff and clinicians observe in
+terms of billing, coding, and
+claims by different insurance
+companies, plans and types.
+And as you can imagine, in
+short, regardless of insurance
+company plan or types,
+clinicians and billing and
+claims staff were really
+frustrated with the current
+system as it is. Many noted that
+it feels like the processes
+and rules, um
+that insurance companies have
+put in place to prevent or
+obstruct patient care. As one
+participant said, the medical
+side has to adhere by a lot of
+rules that the insurance
+companies don't. Another
+participant noted insurance
+companies are dictating all of
+the billing. It's not coming
+from doctors or clinics.
+There was some variability that
+came up, um, with different
+types of insurance. Um, as I've
+mentioned earlier, the CMS
+requirements
+you know, like, uh, where one
+thing, another issue that came
+up a lot was the reimbursement
+rates of Medicaid in particular,
+um, I think some participants
+mentioned that as little as 25%
+of claims, meaning that if
+there's a $40,000 claim, a
+health facility only gets
+$10,000 back from Medicaid is
+really putting a dent into
+health facilities and making it
+really difficult for um
+health facilities to continue
+operating, especially if they're
+located in communities where a
+lot of people are on Medicaid.
+Um, however, you know, there was
+a lot of criticism about private
+insurance companies as well, and
+that they obstruct care, notably
+on the issue of formulary that I
+brought up earlier and how these
+decisions don't really seem to
+be driven by evidence-based care
+or evidence-based medicine, but
+rather that those are all
+business and financial
+decisions.
+to address my final question and
+please move on to slide 16. Um,
+and that's perhaps the most
+important question, which is
+what impact do the current
+billing, coding and claim system
+have on patient
+care and clinician well-being.
+In short, the impact of the
+current system are adverse on
+patients' health and their
+finances on health facilities
+themselves and on clinicians.
+On the impact of patient care,
+one clinician I spoke with made
+a really startling comment that
+highlights how money um and not
+evidence-based care drives
+decision making at health
+facilities, and that is
+completely out of clinician's
+control.
+And I have this quote in the
+slide as well, because I thought
+it was very, very telling of
+what's going on. This person
+said, clinical decision making
+is driven by insurance
+formulary, not individualized
+patient care. I always jokingly
+tell residents in medical school
+we learn evidence-based medicine
+and residency we learn systems
+and insurance-based medicine,
+and often those two are very
+different things.
+The other issue aside from care
+is of course the finances of
+patients. I asked the
+participants what happened to
+unpaid medical debt, meaning,
+you know, medical bills that
+aren't paid by patients and some
+mentioned that um.
+their facility absorbs the cost.
+This was especially the case for
+the larger health facilities
+that were able to get away with
+that, but many noted that um
+their bills that they usually
+send unpaid bills to
+collections, and I know that
+there have been some changes in
+terms of how that impacts
+people's credit scores, you
+know, as in like the rules have
+been relaxed a little bit, but I
+want to note too that people
+don't usually don't pay their
+medical bills, not because they
+don't want to, but because they
+simply can't. I mean, one
+participant
+made a recalled a really
+interesting story of someone
+whose bill they had to send to
+collection. And this person sent
+a $10 bill to their facility
+with an apology note being like,
+sorry, this is literally all I
+can afford. and obviously the
+bill was a lot bigger. And they
+wanted to pay, but they just
+couldn't, um.
+in terms of health facility
+impact and I alluded to this
+multiple times in this
+presentation is that
+insufficient reimbursement
+adversely impacts facilities'
+ability to stay afloat in a
+state that has a huge issue with
+maintaining our healthcare
+workforce. This is a huge
+problem, especially rural
+counties, which I will address
+in my next slide, um, have.
+with the participants I spoke
+with, many noted that the issue
+with dealing with insurance has
+led many to move to private
+practice and no longer accept
+insurance because it is simply
+not fiscally viable to accept
+insurance anymore for them.
+Excuse me
+Finally, the overall consensus
+was that the current system
+negatively impacts clinician
+well-being and even leads to
+provider drain as well.
+clinicians we spoke with
+mentioned that many are really
+frustrated with having to fight
+over providing patients with
+evidence-based care, and this
+has made them disillusioned with
+the work. Uh, the clinicians I
+spoke with went into healthcare
+because they want to help
+people, and many felt that they
+simply could not do so, because
+there were so many obstacles in
+the way.
+What is more, and this is
+probably a good time to
+highlight that our state has the
+largest share of private equity
+controlled hospitals is, um,
+according to one of the
+clinicians I spoke with, you
+know, time and time, private
+equity controlled hospitals have
+been proven, um, to really
+adversely impact patient care,
+you know, uh health outcomes and
+clinician well-being. According
+to this um clinician as well.
+Um, they went to, um, they went
+as far as to say that if their
+hospital got bought out by
+private equity, they'd leave. so
+this is also
+another provider grain
+consideration.
+So moving on to slide 17, and I
+know this wasn't one of our
+research questions, but I, um,
+think this is a really important
+thing to consider within our
+state is how rural health
+facilities are impacted by the
+current billing system.
+And
+one issue that I've brought up
+um multiple times here are the
+issues of in and out of network,
+um, and, um
+for example, one facility person
+I spoke with mentioned that that
+they had had a patient that came
+in to try to get a simple strep
+test and they couldn't get one
+in-network within their
+community. The closest
+laboratory that was in-network
+was in Albuquerque, and at that
+point between the travel because
+this location was really far
+from Albuquerque. They ended up
+just paying out of pocket. Um,
+and this kind of like feeds into
+my second challenge, which
+ultimately the whole billing and
+insurance related issues
+that are currently in existence
+are just the tip of the iceberg
+that rural health facilities are
+facing as one person I spoke
+with noted, rural medicine is
+different. It is different in
+terms of billing, staffing,
+recruiting, working in, and this
+person had worked in a larger
+city in New Mexico was easy.
+Here, citing their rural town
+that they're currently working
+in, not so much. This person
+person mentioned, for example,
+that it is really difficult to
+retain workers in their town and
+that the issue of Medicaid
+reimbursement
+s is exacerbated in their towns,
+um, because almost all patients
+are on Medicaid. Again, leading
+to these facilities shutting
+down in rural communities.
+Hm.
+All right
+I'm coming to the end of my
+presentation, the last slide.
+Again, I want to really thank
+you all for bearing with me
+through this presentation. I
+know this was a lot of
+information, a lot of
+specialized information but
+ultimately I wanna boil down the
+big takeaways, um, of the study
+as follows clinicians are
+spending a large amount of time
+on billing and insurance-related
+tasks that are interfering with
+time spent with patients.
+Insurance um level decisions
+interfere with evidence-based
+care consequently impacting the
+quality of care that patients
+can receive.
+The administrative complexity of
+the current system adversely
+impacts patient care and
+clinician well-being, e.g., you
+know, prior authorization, and
+these issues are exacerbated for
+rural health facilities that are
+already struggling to keep their
+doors open.
+Thank you for your time
+Thank you and we will, let's
+see, um,
+we will start with
+Representative Jones, and I
+think, um, let's start with 3
+minutes and we'll see how we do.
+Thank you, Madam Chair. Thank
+you for your presentation. A lot
+of, um, good information in it
+that I really appreciate. I was
+starting to get PTSD because I
+did have to do billing for a
+while, coding and billing as a
+nurse after 40 years of nursing,
+where I was kind of separated
+from that clinically. And then
+suddenly in a, in an oncology
+setting a busy oncology clinic
+at the end of our day, we had to
+go and, and charge for our
+services, not for the
+medication, but
+for our services, which involved
+ICD 9 at that time, which was
+incredibly complex and so, um,
+specific that you, you could
+have a patient that, you know,
+there were a million diagnoses
+to choose from, but yours wasn't
+there, you know,
+and just the time it took was,
+was, it was very time consuming.
+I have to wonder how they
+thought that was a good use of
+their RN time because 11 of us
+were having to do that a good
+hour out of our day.
+Anyway, that was my, that's
+Thank you for listening.
+It, it, it was, it was very
+stressful. And I, and I, I have
+to say too that, that, um,
+watching patients not get what
+they need, especially cancer
+patients in a timely fashion
+was, um, heartbreaking at times,
+and that has changed over the
+years dramatically, like you
+said, um, so, so I, I think
+that's a lot of really good
+information that you've
+provided. I'm a little concerned
+that you, you, you spoke to only
+3, 31 people.
+and then the other thing that is
+a bit bothersome is that you did
+include a, a lot of opinion
+statements from one individual,
+which I don't know that we
+should really consider that in
+the same way that we consider
+your study.
+So
+I like to just note that there
+are, there are differences
+between the opinion pieces and
+the, the real numbers that you
+did come up with because they're
+valuable.
+Um,
+we need to make changes. Uh,
+obviously, and we've, we've all
+addressed that. I think most of
+us can agree that, that we need
+prior auth changes. But as, as
+I've talked to everyone
+concerned, we also need to,
+sorry, I'm not asking, I'm not
+asking questions right now. It's
+my, the end of my statement.
+But, um
+I, I think we really need to
+make sure that we're talking to
+everyone, you know, insurance
+companies finding out what's
+behind this, you know, I mean,
+we can assume, but, but for
+instance, when you call an
+insurance or when you have
+someone evaluating in an
+insurance agency evaluating your
+request, your prior author
+request. Who is that person?
+What kind of background do they
+have? You know, are they just
+looking for certain words
+because that's usually what I
+found is they wanted a certain
+word and if you didn't say that
+word, then you didn't get
+authorization.
+So very complex. This is very
+helpful. I appreciate it. I want
+to look at the big picture.
+Thank you, Madam Chair.
+Thank you. And, and we would
+have loved a deeper, larger
+study, but as you know, our grow
+dollars don't grow on trees, so.
+so we had to, uh, we had to make
+decisions on how much we could
+actually invest in this. So it
+would be great if LFC would say,
+OK, you know, let's do a
+quarter of a million dollar
+study where we can get all of,
+I, I can't remember what we put
+in 75,000
+I think it was
+6, yeah, so it was, this was a
+drop in the bucket study, but we
+wanted to get started and, and I
+will say that, uh, I know you've
+done prior authorization bills.
+I've done prior authorization
+bills, um, and they're, they're
+difficult to get through and,
+um, we have gotten taken small
+steps and things that I thought
+we had done with bills I had
+done, um, didn't turn out that
+way, so, so, so I'm sure we all
+know how that goes. So
+Representative Block.
+Thank you, Madam Chair, and, uh,
+thank you, and I'd be remiss if
+we didn't think Southeastern New
+Mexico for all those grow
+dollars.
+uh with oil and gas. Praise the
+Lord. So Madam Chair, Doctor
+Sontag, I'm wondering when it
+comes to
+this study
+how much of the burden is on the
+federal government.
+guidelines, like, I believe you
+mentioned the Center for
+Medicare and Medicaid
+requirements for doctors versus
+the guidelines that these
+insurers are doing their very
+best to align themselves with so
+that they are not liable.
+I'm just wondering if
+what the, I, maybe what a
+percentage of that would be or
+could you speak a little more to
+the people that you talk to
+regarding those federal
+requirements that the insurance
+companies have to abide by when
+it comes to, uh, ensuring that
+they get the proper protocols in
+place so they, they don't get
+sued.
+Madam, may I respond? Thank you,
+uh, thank you, Representative
+Block. Um, it's really hard to
+give you like clear percentages
+with a focus group because and I
+want to address, um
+Representative Jones, uh,
+earlier comment, if that's OK as
+well. Uh, just the, the goal of
+the focus groups is ultimately
+just to get a sense of people's
+experiences. So a lot of it does
+sound like opinion statements,
+but it's really just trying to
+paint a picture of the
+experiences that people, um,
+working in the field have.
+And so, um, Representative
+Block, to get back to your
+question, ultimately, I can't
+really give you an answer, um,
+especially with the findings of
+this study, um, but I do wanna
+just, uh, reiterate a little bit
+again, too, that it's just, it's
+a lot, right? It's not just the
+federal requirements. It is,
+like you mentioned, insurance,
+and then even the WHO with ICD,
+you know, and there's just so
+many moving components to it
+that.
+I personally am having a hard
+time disentangling how much to,
+you know, how much burden each
+of those have, so I apologize
+that this isn't a very clear
+answer. Thank you. I, I
+appreciate that, and it's a
+good, it's good to at least get
+a little background on it, but
+I, I guess my next question
+would just be, I'm probably
+running out of time, but
+Medicaid versus private
+insurance, whenever I go to the
+doctor, my doctor, I've spoken
+to her and I've spoken to my
+dentist and all these doctors,
+and they say, like Medicaid is
+really difficult and there's so
+many more
+requirements versus the private
+insurance versus just going and
+being a boutique doctor in your
+own practice with no insurance.
+So could you tell me the burdens
+of the Medicaid versus just the
+private insurance from these
+folks that you spoke to, Madam
+Chair. Yes, yes, Madam Chair,
+may I respond? Thank you. Um,
+yes, so one is that
+self-attestation requirements.
+So that's when an attending, so
+when they're seeing a patient,
+they have to write a chart and
+then like attest themselves,
+like, yes, what I wrote is
+factually true and correct,
+which everyone that
+raised that was really
+frustrated with it, right?
+Another thing, were multiple
+questions that came up, one that
+comes to mind is just on the
+living conditions. So, for
+example, they, they have to ask
+patients, like, do you live in a
+2 or 3 story house, like
+something like that, which is
+fairly unrelated to patient
+outcomes right in a medical
+setting. um, so it's just
+apparently, um, 4 people on
+Medicaid, um, providers just
+have to ask them all of these
+like seemingly random questions.
+I honestly don
+' t know where they're coming
+from. I can look into that
+because I, I, I apologize. I
+hadn't looked into like, why all
+of these questions exist. The
+only thing that I heard from the
+clinicians that I spoke with was
+that all of those questions seem
+pretty unrelated to the patients
+that they were treating them,
+uh, that, that they were
+treating. Yeah. And then the
+final one
+sorry, and now I'm totally
+blanking. I apologize. 00, the
+treatment plan, yes, the
+treatment plan that they have to
+set up, um, for, uh, patients
+seeking behavioral care. So for
+example, what one clinician was
+telling me was that they have to
+say like, oh, our treatment plan
+is we are going to treat your
+depression. It's like, yes, we
+already know that. Why do we
+have to set up a treatment plan?
+So it's things like that where
+it just feels like it's a lot of
+excessive paperwork. Thank you,
+Madam Chair, and I just want to
+clarify, I'm sorry, going over
+time, but that's specifically
+from
+Medicare. I'm sorry, Medicaid.
+I, yeah, uh, so what they all
+mentioned was just CMSs
+requirements. So these are CMS
+requirements. OK, thank you so
+much, Madam Chair. Thank you.
+You're welcome. And, and I did
+pause while she was answering,
+uh, Representative Jones's
+question. So trying to be fair
+because I didn't let you answer
+Representative Jones's question.
+No, no, it was my fault, not
+yours. Um, Representative
+Chavez.
+Thank you, Madam Chair. Um,
+thank you for your presentation.
+I have several things I wrote
+down, um, but I just want to
+point out that I think that
+these standards are set with
+regulatory framework, and
+they're not just adjusted
+arbitrarily. I know updates to
+prior authorization rules
+typically occur on an annual
+basis, and they do shift sooner,
+but for the patient, I think
+usually when the medications
+transition to generic, um, when
+they're going off brand. Um, but
+I think that all of this is
+for stability of the patient, of
+the provider, of the insurers,
+and so there is certain respect
+that you have to put in place,
+but regarding CMS, just to
+answer your question, CMS is the
+Centers for Medicare and
+Medicaid. So it's both for
+Medicare, reimbursement, and the
+Medicaid reimbursement. And then
+the living conditions, it
+actually does relate back to the
+patient, um, because you have to
+ask them, do you feel safe where
+you're living? And we do that a
+lot of times, I think for um
+member
+s of families just to make sure
+they're safe in their home. When
+they ask, Do you live in a
+two-story house? Sometimes it's
+somebody with a walker or a
+cane, and they want to make
+sure, are they living in the
+right environment, and so some
+that does relate back to
+healthcare. So some of those
+questions are asked for reasons.
+Um, out of network labs and
+network inadequacies. I know
+here at the state, especially
+for our MCOs or for CMS, there's
+requirements that health plans
+put in place, you
+have to have labs. You have to
+have a certain number of doctors
+and physicians within a certain
+mileage, um, from where that
+member lives, if not, then
+things have to get paid in
+network. I think the awful part
+of that is we put the patient in
+the middle and it's so
+confusing, and they don't know
+what to do a lot of times, and
+it could be as simple as, um,
+patients. I know even with my
+family members, um, they don't
+show, they think they have
+Medicare, right? But they're on
+a Medicare Advantage plan, so
+that may be
+Blue Cross Blue Shield or
+Presbyterian that we see here,
+and they're only showing a
+Medicare card, but they don't
+have that because they've
+assigned their Medicare to a
+Medicare Advantage, which is
+Presbyterian or Blue Cross. So
+the claims denying or the
+pharmacies not putting the
+information in. And so a lot of
+times it's education and I think
+we have to really get out there
+and educate members and patients
+on, on how to use their
+healthcare, but how do we do
+that? It's, it's been
+so hard for so many years, um,
+formulary updates I know are
+updated on an annual basis, um,
+and I think that it's really
+hard when we look at
+reimbursements because I know my
+doctor has moved to a boutique
+practice because she couldn't
+keep the doors open with low
+reimbursements for Medicaid and
+Medicare, and I know as a state
+we've done such a good job
+raising those rates above what
+CMS covers. And I think we
+really need to look at and maybe
+study, you know, factual
+information on what are most of
+the patients here in New Mexico
+seeing providers for and what do
+we need to raise reimbursement
+for at a state level so that we
+can help doctors keep their
+doors open and operate.
+But I would love maybe for a
+next committee meeting, we
+should bring the health plans
+here and answer these questions
+and these outcomes that she put
+on her paper asking, how do you
+really follow these guidelines?
+What is your prior authorization
+look like? What is in-network
+and out of network, and they
+should be able to answer that
+for us.
+Thank you. And just, just kind
+of as an aside based on, um,
+on the, uh, the meeting that we
+had with the, with the hospital
+association in terms of the, the
+bill that's come, that has been
+passed that
+the, the rural
+the, the, the provider tax that
+we passed a few years ago that
+allows the providers to pay a
+tax so that they can, so that
+the state can use those dollars
+for Medicaid match, so we, we
+use those dollars to grow more
+money that is going to go from
+about, I, I can't find the
+numbers right here. I think um
+it's
+about 1.4 billion that we're
+getting, it could go as low as
+400 million. So we could be
+losing a billion dollars just in
+that, in that one from the, the
+tax that we the provider tax
+that we use to make the Medicaid
+match. So, so it's great that we
+raised the, the Medicaid rates.
+Unfortunately, those may be
+going away sooner rather than
+later, and we need to do more
+rather than decrease. But again,
+we don't know a lot, so we have
+to wait and see. A
+Representative Martinez.
+thank you, Madam Chair, and, and
+um
+Dr. Sontag, I really appreciate
+the, the way you put this
+together. It was easy to follow,
+uh, but I do have a question on
+the
+commentary that one of your
+subjects said
+If my hospital got bought out by
+a private equity, I'd leave.
+Um
+so what happens to
+healthcare in New Mexico if we
+force all these private equity
+hospitals to leave the state.
+How are we going to fill those
+gaps?
+What, how, how does my dad and
+Espanola.
+get healthcare
+because
+the Espanola Hospital when it
+was a local hospital.
+was going under
+If it wasn't for the
+investments,
+that Presbyterian made in that
+hospital.
+they would be traveling to Santa
+Fe or Albuquerque for
+healthcare. My dad is 86 years
+old. He's blind. He can't drive
+himself.
+so he requires somebody to drive
+him. What happens to health, and
+it's, I
+I've been on this committee, uh,
+for a couple of years now, and
+it's a
+uh, uh, very emotional.
+issue.
+um
+my question is, what happens to
+healthcare in the rural parts of
+the state without this outside
+investment.
+Madam Chair, Representative
+Martinez, thank you for your
+question and uh that's what I
+was kind of um
+I, I, I really appreciate your
+input. Thank you for, for, for
+sharing your, your experiences
+as well. And I was trying to
+highlight that in this study as
+well. The, the rural challenges
+you bring up. I, um,
+I can't really answer your
+question, what happens with,
+when we remove private equity,
+um, especially based off of the
+study, because again, I, I was,
+you know, all of this is a
+collection of the experiences of
+healthcare providers. And so I
+feel like that may require an
+additional study of how to
+implement that. Maybe that
+involves an economist who, you
+know, which I, I don't have that
+experience. So I can't, um, do
+that, but I, I think, you know,
+I think you're, you're correct
+with obviously with your
+experience and
+with what you're noting with
+that rural medicine really is
+struggling. And what one person
+I spoke with that worked in a
+rural setting mentioned too is
+that because they were not
+private equity owned, but they
+had relied a lot on
+philanthropic money. But then
+that had also been pulled. So I
+think the issue is just overall
+in rural health facilities, even
+beyond the private equity stuff
+that just, there isn't enough
+money there. There's provider
+drain and, you know, the
+facilities are not getting
+reimbursed enough. So I
+apologize that I'm not directly
+answering
+your question. I'm happy to
+start like looking into like how
+to replace um private equity,
+um, or, or like what to do when
+we replace private equity
+controlled, um, health
+facilities, but I don't have a
+clear answer for that right now.
+Thank you.
+Thank you, Madam Chair, and, and
+um
+I've asked this question several
+times.
+and have never gotten an answer.
+um
+you know, I'm I'm just curious
+with the move to getting rid of
+outside money
+where these investments are
+gonna come.
+Um
+so that's, that's just one of
+the many questions that roll
+around and and uh.
+I think I think we need to take
+a very um
+careful
+um.
+way of going about that. We
+can't just
+push out outside money
+um
+we need outside money coming
+into the state.
+But that's
+um
+I know it's a very emotional
+issue.
+but
+you know, we really need to be
+careful about
+how we go about that, but I do
+appreciate the information it
+was.
+it was very well put together,
+um, and easy to follow.
+Thank you. Thank you, Madam
+Chair. Thank you. And just a
+reminder, her, her task was
+analysis of medical claims and
+billing systems. We all know the
+healthcare system is huge. We
+had her look at one like
+tiny, um, period of, of, of all
+the words written. So, so she's
+not gonna be able to answer some
+of those big, and, and I don't
+expect her to, and please don't
+feel like you need to, because
+this was a very targeted, um,
+study, a very small targeted
+study. So, Senator Charlie.
+thank you, Madam Chair. Um, I, I
+think what's clear to me is that
+insurance reform will bring us
+closer to the results that we
+want to see for, uh, New Mexico
+and we desperately need them.
+It'll increase, um, the
+retention and recruitment of
+healthcare professionals. It'll
+increased, uh, actual patient
+care and ultimately better
+health outcomes for New
+Mexicans, and I'm always
+interested in system fixes. So
+my two questions are what
+reforms can our our uh
+legislature
+um,
+produce that will reduce
+administrative chokehold. So
+what can we actually do right
+now? And then the second is,
+what are other states doing in
+terms of regulating algorithmic
+denials. Thank you, Madam Chair.
+And just a reminder that that
+some of this is way outside of
+what, what, what, what we, um,
+paid them to do. And then I, I,
+I, I think I'm safe in saying
+this is not your day day job.
+It's not looking at healthcare
+systems. So, so the just a
+reminder that some of these
+questions are much bigger and,
+uh, I'm sure you're not prepared
+to answer. So do the best you
+can. Well, yeah, thank you,
+thank you for, for, for that.
+And yes, I apologize that I, I
+keep saying, oh, I don't know
+the answer. But again, I'm, I'm
+happy to, to follow up and like
+look into this as well. In terms
+of what reform
+um, is available. I think
+there's some people in this room
+that may be able to speak on
+this a little bit more. I know
+there's, um, health security
+now, you know, just like more
+system level change, um, and
+maybe Doctor Feldblum can talk
+about this a little bit more.
+Sorry to delegate, but yes, uh,
+in terms of the algorithmic
+denials, I also, again, don't
+actually have an answer for it.
+Um, what I do know with AI, you
+know, we're, um, I think we're
+really slow with
+addressing the issues that have
+popped up with AI and are
+addressing it as it comes
+around. I think my hunch would
+be that I don't think there are
+a lot of um places that have
+addressed this yet. But, again,
+I'm happy to look into this and
+follow up with you because I
+don't know.
+I apologize. Thank you.
+Thank you. And I'm sorry for,
+for continuing to interrupt.
+Emma, I will say that I just
+recently finished a tour of, um,
+I was on an NCSL Health
+Innovations Task Force, and we
+did look at one of our meetings
+was based on, was looking at AI
+And I think we left with more
+questions than we, um, left with
+answers. So it's, it's really,
+it's developing and it's it's
+developing faster than we can
+possibly think about keeping up
+with it, but, but it know that
+NCSL is looking at it in
+healthcare, um, and hopefully
+we'll get more answers as we go
+along. Sopresentative Ferrari.
+uh, thank you, Madam Chair, and
+thank you, um, Melanie. I
+appreciate it. Um, all your work
+into this study. Um, I think,
+uh, along the same with private
+equity and why this person
+thought they would leave if they
+got bought out. Um, at New
+Mexico being the highest private
+equity owned um hospitals having
+the most than other states, more
+than other states, I should say,
+um, could be, you know, part of
+the reason there are a lot of
+doctors who are leaving. Um,
+that correlation seems to be,
+you know, something that, uh, is
+pretty high, but I also think
+that um if there were a way to
+ask um the um
+uh providers that we approve,
+um, at the state level that if
+we ask them to have some kind of
+move to value-based instead of
+just service.
+um, paid, um
+fee that, um, we would be able
+to get better, um, responses
+from them where they weren't
+worried about denying everything
+just so that they could profit
+more. And, um, I, I don't know
+if we, you know
+instead of having to pass a lot
+of bills, maybe it would be
+better to um see who we approve
+and see and make sure that they
+understand we want them to
+approve what's needed by the
+patient.
+Does that go along with what
+you're.
+study is showing.
+Um, Madam Chair, Representative,
+uh, Ferry, thank you. Yeah, I, I
+think so. OK, that's all, Madam
+Chair.
+Thank you, uh, Representative
+Chavis. Thank you, Madam Chair,
+and, and yes, again, thank you,
+thank you for this study. Um
+very enlightening, um, lots of
+good information in it.
+Um, and I just wanted to say
+that I, one of my cousins is a
+doctor
+um, and he recently retired
+little, I think earlier than he
+wanted to.
+But one of the main reasons he
+gave was the administrative
+burden, having to do all the
+things that he, that you talk
+about in this study. He was
+spending weekends, um, and he
+was in, uh, um, private practice
+in a rural area.
+Um, and I also wanted to comment
+on the denial of prescriptions.
+I experienced that
+when my husband had cancer, uh,
+the insurance company denied his
+chemotherapy and we had to fight
+them for a couple of weeks, and
+during that time,
+the place where he was going
+donated his chemotherapy to us,
+otherwise he would have gone
+without.
+So those are some things that
+I'm sure I'm not the only one
+that's based, um, there's other
+families other families that
+have faced that and many of them
+have probably gone without.
+Um, the one question that I do
+have is based on this
+you know, based on the fact
+that, that, that there's so much
+information in here. Do you have
+any recommendations in terms of
+any future studies that you
+think we should follow up on.
+And then also, are there studies
+that we should follow up on
+specific to rural areas.
+Um, Madam Chair and
+Representative Chavez, thank you
+for your question. Absolutely. I
+mean, as, um, um, Madam Chair
+has, uh, repeatedly mentioned
+this is just like a small study,
+just really just a small facet
+of this, so there's definitely a
+lot of opportunity to do further
+studies, um, as you saw on that
+one slide with the graph, with
+a, with a map, we, we tried our
+best to be as um geographically
+representative as possible, but
+there's still a lot of rural
+counties we didn't, um, touch
+that we would love
+to have a chance to talk to
+because again the rural
+challenges were very particular
+and specific. Um, I think it
+would also um be helpful to to
+conduct a study with the
+patients and their experiences
+to really just highlight those
+voices and those experiences to
+really drive home, um, you know,
+the need for systems level
+change, um.
+yes, I, I think there are
+multiple, I have so many
+different ideas, but I'm also
+curious to hear whether the
+committee has ideas of studies
+that they would like conducted,
+things that they would like to
+learn, so I appreciate your
+question. Yeah, I appreciate
+that answer, and I think that
+they're, you know, out of this
+discussion, there probably are
+some studies that we want to
+follow up on, um, and then just
+enclosing one of the things that
+I wanted to say too is that, um,
+I know that some of these
+billers and coders and folks who
+are
+working in patient finances, uh,
+face quotas in terms of, you
+know, the amount of work that
+they have to get done, um, in a
+certain day, uh, and that puts a
+whole lot of pressure on them,
+and I've seen a lot of burnout,
+um, and I've also seen, um,
+mental health issues with um
+some of those workers in terms
+of the workloads they face and
+the demands that are placed on
+them. So thank you so much
+Um, Madam Chair, sorry, may I,
+um, I just want to share that we
+do address the issue of quotas
+in the final report too, which
+I'm happy to share with the
+committee once it's, I'm
+completely finalized because
+they're, there was a lot of
+content that I was just not able
+to cover. Otherwise, we would
+have been here for like 2 hours,
+but, um, I really appreciate it.
+Thank you. So, so when the study
+is complete, we would love it if
+you would send it to Xander and
+he will share it with the entire
+committee. And then, um,
+hopefully, we will have some op
+opportunity to digest it and,
+uh, maybe revisit it
+at.
+in our spare time in this
+committee because we have no, no
+subjects to cover. So, um, thank
+you, Representative
+Representative Anaya.
+Thank you, Madam Chair. Um, in
+addition to the final report,
+um, I kind of nerd out, um, a
+lot, and I also really enjoy the
+narrative part. I, I feel like a
+lot of the narrative gets lost
+in just putting numbers up. And
+so I'm really, really
+appreciative of this in
+particular. Um, so in addition
+to the final report, um, would
+it be possible to read through
+the transcripts if they're an
+anonymous, of course.
+Madam Chair and Representative
+Hanaya, thank you for your
+question. Um, let me double
+check. I just really wanna make
+sure that they are completely
+anonymized because as you can
+imagine, this is a really
+delicate topic. So, um, but yes,
+um, and let, let me check, but
+I, I will follow up with you on
+that definitely. Thank you.
+Thank you. um
+you know, as I feel like
+as a younger person who wants my
+friends here and wants a cool,
+buzzy state with a lot to do and
+a lot of, uh, professionals and
+everyday workers across the
+board. One of the things that I
+really see in common
+whether we're talking about
+medical providers or otherwise.
+It's just workplace conditions.
+and like how hard it is to be in
+the workforce as a person who is
+trying to earn for your family
+or yourself, or
+get a down payment for a house.
+And so, I think about Burnout a
+lot and I also think about
+generations of workforce, um,
+and how it's changing throughout
+the years. Like, what does it
+mean
+What do workplace conditions
+have to do with burnout right
+now, especially knowing that
+younger generations of people
+are looking at
+workplace conditions, sometimes
+overpay. And so I just, I, I
+want to thank you because I feel
+like this is an issue that we
+have to address as we're looking
+at the workforce as a whole. Um,
+I, I'm very sad, um, with
+Martinez is not here, but I'm
+happy to get with him after, but
+I did want to speak to the
+private equity piece as well,
+because as we know, private
+equity is not necessarily, um,
+experts in whatever subject
+field they're buying up at the
+time, their whole purpose is to
+turn profit for their
+shareholders. And so to me, like
+as we're turning hospitals into
+these kind of like money-making
+factories. One, I think about
+the workforce burnout that comes
+with it. Um, but I also think
+about the reality that we're
+fa cing like the reality is,
+yeah, we have private equity
+hospitals here, right? We are
+the highest percentage in the
+nation. And like, it's a reality
+we have to live with.
+It doesn't mean we're like, hey,
+get out right now, cause that's
+just not real. Like, we just
+can't do that. Um, but what we
+can do, and I feel like this is
+a place where we can have a lot
+of common ground and come
+together is figure out, OK, so
+what do we do about the private
+equity that is here? How do we
+stop future private equity from
+coming in. Um, so I think about
+regulation and I think about
+transparency, um, because we
+have to know what's going on
+behind Cly closed doors in order
+for us to make smart
+decisions about patients, about
+workers, um, so I'll close,
+Madam Chair, in just saying, I
+actually think that this is a
+place where we have a lot of
+common ground when we're talking
+about transparency, when we're
+talking about, um
+uh, transparency for private
+equity and for insurance. Um,
+thank you, Madam Chair. I'll
+stop there.
+Thank you. Um, Representative
+Johnson
+Thank you, Madam Chair. Good
+morning, colleagues, and, uh,
+thank you for your presentation.
+I'm, my apologies, I missed it.
+I had to check into work, so
+I'll continue to listen. Thank
+you.
+Senator Pinto, OK, thank you.
+Um, so I just have a couple of
+things. First, thank you for
+doing this study. It, um, showed
+us a lot, and it showed us
+mostly that we need to learn a
+lot more. And I, I just, uh,
+something that, um, recently
+that's really come to my
+attention is that, um, the
+suicide rate in physicians is
+really, really high. I just
+found a statistic that in female
+physicians, their suicide rate
+is between $250 and 400% of
+women in other professions, and
+workload is frequently the
+cause. So, uh, and, and, um,
+probably most of you have heard
+of moral injury, where you go to
+medical school to help people,
+to heal people, to save people,
+and when it comes down to you're
+spending half your time on the
+phone with an insurance company
+trying to save people, um, that,
+that's really frustrating and so
+we, we
+need to get a handle on all of,
+I mean, and this is not a New
+Mexico problem. This is a
+national problem, but since we,
+uh, we are the health committee
+of the New Mexico. We are going
+to try to, um, to do what we can
+here. As I said, we have done
+some prior authorization. Um,
+there's a lot of, um
+pushback. I, I, the last prior
+authorization bill that was was
+passed was for a pharmaceuticals
+for cancer, behavioral health,
+and things like, um,
+uh
+oh, like lupus and I'm, I'm
+blanking on the name, but so we
+are slowly, um, slowly moving
+that way. Thank you. It takes a
+village. So thank you so much
+and we will be in contact and we
+will be waiting anxiously for
+the final report and, um, and
+then we will probably be back in
+touch with you and hopefully we
+can come up with some more money
+for some more studies. And, and
+just to the committee, if you
+have ideas, please
+share them with, with the whole
+committee, but particularly with
+me. So as we're, we're, I think
+we had a million dollars in HB2
+this year for interim expenses,
+and we were told that we can use
+some of those for studies that
+we need. So, so hopefully we
+can, of course, you know how
+that goes, you hear things and
+then when it comes time for the,
+the bucks to hit the pavement.
+They're, they're not necessarily
+there. But thank you so much for
+your time and please thank, um,
+Doctor Sanchez.
+Thank you so much, Madam Chair
+OK, and we will next go to, um,
+our own committee members, um,
+on alcohol harms, alleviation
+coalition, Representative
+Ferrari and Senator Pinto.
+Go ahead whenever you're ready
+No rush, but hurry up.
+That was your first test. You
+bare you barely passed.
+Thank you, Madam Chair. I need
+more protein
+Hm.
+Uh, good morning, Madam Chair
+and committee members. Um, we
+are gonna be presenting about,
+uh, again, you've heard many
+times, but we do have some new
+members that might not have, uh,
+or just to remind people too
+about um alcohol harms
+alleviation.
+in our state, and what we're
+trying to do, uh, and why, and,
+um, excessive alcohol use is
+leading cause of injury and
+death, not only in the United
+States, but in New Mexico and um
+in 2020, uh, mortality was
+estimated to be 2.8 million, uh,
+years of potential life loss
+with an average of 29 years, uh,
+loss per death. Um, and so when
+we're looking at, um,
+over 2000 people in the last,
+you know, um, since in the
+twenties, 2000s, I should say,
+um, we have a lot of potential
+that we're losing
+And
+often we think of, you know,
+alcohol poisoning or alcohol use
+disorder or cirrhosis of the
+liver, but it also includes, um,
+things such as individual injury
+to like falls, suicide,
+drownings, and
+um, then also bystander homicide
+unintentional firearms,
+injuries, motor vehicle crashes,
+and child maltreatment.
+And, um, so we're looking at um
+trying to change how we think
+about alcohol in our state and
+um
+when drinkers compared to
+non-drinkers in past studies,
+um.
+we've, uh, only 50% of our
+population really does drink,
+and the other, and they consume
+only 20% of the alcohol, whereas
+uh, the other, um
+20% consumes 80% of the alcohol.
+and
+what we're trying to do, um,
+is reduce that intake, um, and.
+with the different studies that
+we're learning about all the um
+effects of alcohol and then also
+what we can do to affect alcohol
+use.
+uh, reducing consumption is
+really important and other
+recent studies have also shown
+how alcohol use, um, which is a
+carcinogen
+and the cancer risks that
+they're seeing, um, such as, uh,
+cancer of the mouth, the throat,
+the, um, esophagus, uh, breast
+cancer, liver cancer, which
+we've known liver cirrhosis of
+the liver. And then also, um,
+uh,
+uh, colon and rectal, uh,
+cancer. So these are becoming
+more and more um
+known in some states have even
+uh put up warnings on alcohol
+products, uh, to let people know
+how in uh cancer uh really is
+impacting, um, their health.
+and New Mexico has been one of
+the highest, um, state rates of
+alcohol-related mortality. Um,
+we had a big push in 1993 to
+increase our excise tax and then
+also put in uh funds for
+especially, um, DWI prevention,
+which also affected, you know,
+other health outcomes in a
+positive way, um, but then
+because we didn't have it where
+that excise tax would
+increase over time with
+inflation, um
+things, fatalities started
+creeping up in 1997 and since
+then we've been ranked 1, 2nd or
+3rd, um, there was a period, um.
+um, where we were 6th highest um
+state for overdose nationally
+and, um, 2 times its rate of
+death from overdose.
+and we also have the problems of
+gun-related mortality that
+we're, uh, New Mexico ranks 3rd
+in the country from 2010 to
+2019 and 32% of suicides and 42%
+of homicides are alcohol
+involved.
+Youth drinking is associated
+with increased risk of alcohol
+use disorder, and it's higher in
+New Mexico than other states,
+21% of New Mexico youth reported
+having a first drink of alcohol
+before the age of 13 compared to
+15% nationally. The reason this
+is so important is because
+um, the sooner we can stop the
+early onset of drinking of a
+young person, the less likely
+they will be to have a lifelong,
+um.
+uh, addiction or problem with
+alcohol.
+Um, alcohol-related mortality is
+increasing in 2019 to 21, um,
+our deaths have increased by
+31%, reaching an all-time high
+in 2021, and, um, I think that
+was the year we were up to
+2,274,
+um
+uh.
+alcohol-related deaths, and, um,
+now it's kind of come down a
+little bit, so we're hovering
+around 2000 deaths per year.
+but you can see in, um, the, um,
+slide 6,
+how the graph of New Mexico, it
+has increased, yet nationally it
+is kind of stabilized, but it
+has shown a slight increase too.
+Um, so, um, excessive
+consumption, uh costs New Mexico
+$2.2 billion. That was in 2010.
+and um equivalent to $22.77 per
+standard drink, and adjusting
+only for inflation, costs was
+estimated at $3.1 billion in
+2023, or almost $4 a standard
+drink cost.
+to um
+our state and New Mexico's
+entire 23 Medicaid budget was
+$8.9 billion.
+Thank you
+So as we talk about this too,
+especially in this section of
+the state for, um,
+the Gallup area and the Navajo
+Nation up into the Four Corners
+area.
+There's much concern because we
+also have with the legalization
+of marijuana.
+that
+we also
+we're starting to see cannabis
+drinks and the combination of
+the two along with alcohol, yet
+we separate it, um, but with
+this legalization of marijuana,
+we see our consumers in our area
+also, um, mixing the two whether
+it be um through the liquid or
+um.
+smoking it or gummies or
+whatever, um, whatever access
+they have to it.
+But also it has created much of
+a problem because we do have
+some gaps within our area in
+treatment.
+and infrastructure needs to be
+built up.
+So with this Act too, what we'd
+like to see is a stabilization
+of funding, a funding source for
+this particular um
+so that people have the
+opportunity to seek treatment in
+the area.
+And I do not suspect, even
+though there will be proponents
+that say that it's going to drop
+the, um, consumption of alcohol.
+but you will see that there is
+this commercialization of even
+having mini's accessorized along
+with their, um, attire.
+and
+knowing that we seem to be in
+the trend sometimes that you
+will see that occur. There was
+some legislation to take out the
+miniatures, the smaller, um
+proof liquor products on the
+shelf which led to some of our
+gas stations being closed, in
+which they decide to just seek
+revenue from alcohol sales.
+In the Gelop area, you also hear
+about citations or even DWIs
+data saying, well, there was a
+decrease in it or even charges
+or in that sense, but there has
+been issues prior to
+to addressing this, that um
+some of those did not actually
+follow through. They'll say,
+well, the data went down. Well,
+there's a lot of this is a
+justice system in which working
+with MMIP, um, there are systems
+that need to be adjusted and
+have a little bit better
+cooperation between um
+our law enforcement agencies all
+the way up the line to the
+prosecution because if there's a
+gap in which we're in a dilemma
+right now currently in this.
+district in this county with the
+district attorney.
+that
+these small cases that if we see
+somebody with a DWIC domestic
+violence charges, and they're
+not brought up are fully
+prosecuted, it could lead to, to
+murder.
+and rape
+that these smaller crimes, um,
+if treatment is not
+something they, they, they can
+have to
+go into um it it just escalates
+from there and um it's not
+saying that it's gonna be a
+relief, but I think it is
+something that we as the members
+of this area, pay our taxes to
+have those services to
+relating to this issue
+And
+I couldn't say much more,
+wouldn't
+they say, well, the death rate
+is down, while many have died
+before that, so therefore, the
+death rate probably will go down
+because there's less in the
+population in that sense. But we
+will see a push, um, for our
+younger generation, um, because
+of this
+and I
+I really was against the
+legalization because we did not
+have a handle on the alcohol.
+and I don't think we will
+actually see real data on the
+effects of marijuana until a
+couple more years in which I
+think we'll see an increase in
+the fatalities, but it'll be
+related also with the substance
+abuse in the area that, um,
+just continues.
+Thank you, that's all I have.
+Oh, on slide 8.
+you see this, there is a, um
+table there. That's it.
+on the
+alcohol consumption and the
+mortality by race, ethnicity,
+and tribal affiliation.
+Um, the red numbers there.
+you'll see the Alaska Indiana
+American Indian or Alaskan
+Native numbers are the highest
+and then the second category.
+past 30 days that the um
+that one alcohol drink is less
+for the Native Americans.
+But the knowledge that they
+have, and we know this too of
+the tolerance of the mind and
+consuming alcohol that you would
+have to consume a higher proof
+alcohol to achieve whatever high
+you are seeking. And as that
+goes up, you will see that it
+it is less in that sense, but
+they're drinking a more potent
+proof alcohol in this area and
+the manufacturers and the
+sellers, um, those that sell
+alcohol beverages, know this,
+and they readily stock it by the
+cases, um, and some of it.
+is even about $5 a pint and A
+they'll, they'll top it where
+and price it so that they can
+come in and um
+that is all they have to raise
+in a day or in an hour and go
+into some of these.
+liquor establishments and um
+some of them actually are bars
+and packaged liquors at the same
+time.
+where they can go in and then um
+buy before a certain time and
+leave the establishment with um
+something else, um.
+for later on in, in the night or
+the day, um, thank you.
+I think what we are trying to um
+have recognized is that, you
+know, with 283 deaths in our
+Native American group in New
+Mexico and then only consuming
+36%, um, compared to, um, lower
+death rates of other um groups
+such as black, Hispanic, and
+white, um, and their consumption
+is higher than what we're seeing
+and as a Senator Pin
+to is pointing out, the effects
+are much um
+or what is being uh
+consumed has harsher, harsher
+effects and um
+they don't have the
+resources either to help, uh,
+mitigate, um, the consumption of
+alcohol, and we call that the
+paradox, uh, alcohol harms
+paradox in New Mexico, where
+less drinking, um, but yet have
+higher um alcohol related
+deaths.
+In those categories, as you can
+see on page 9 also pointed out.
+um
+and
+when drinking the same amount of
+alcohol disadvantaged
+populations experience greater
+harms from alcohol than a fluent
+populations. And one of the
+recommendations, um, that I'm
+sure we've repeated over and
+over is, um, and especially from
+the Department of Health is to
+increase alcohol taxes, and
+that's been shown to decrease
+drinking, especially with
+underage drinkers and many of
+the other groups such as
+excessive or binge drinkers.
+and there's other things that
+can be done too, like changing
+outlet density and screening a
+brief intervention, which we've
+talked about, um, Espert, uh,
+being more available through our
+doctors and healthcare, and
+there's other things, um, such
+as warning labels that, um,
+we're talking about for cancer
+and, uh, World Health
+Organization and the CDC have
+all, uh, been supportive of
+raising the alcohol tax, and we
+have, uh, considered, uh,
+different things like just
+raising the excise tax, 25 cents
+a drink, then we've also had,
+um, other views of we need to do
+sales tax, so what we're looking
+at is a hybrid, and I won't go
+into all the details of that,
+um, but it's
+really important that whatever
+we do, the funding goes into um
+uh communities that can use the
+funds for prevention, also for,
+um, uh
+Medicaid assisted programs that
+might help, uh, people who still
+need to have alcohol, but in a
+controlled manner and also to
+have housing that might be
+provided for them while they're
+doing that, um, and so with
+that, I'd like to introduce, um,
+Miss Deborah Martinez, who, um,
+is part of the, uh, Gallup
+coalition that's been working on
+this, um, for many years in
+their community
+and have seen great results.
+but yet we need to support with
+further funding and
+opportunities.
+Madam Chair, committee
+Deborah Martinez, I would just
+like to talk about our um social
+detox program, which, um
+operates about as many intakes
+as we have, um, as a population
+in Gallup.
+So it last year in 2024, we had
+19,331 admissions.
+Um,
+45% of those were for shelter
+either, um, people who are
+intoxicated or um sober, but
+10,575 of those individuals were
+brought in under the detox
+Reform Act where they were
+unable to care for themselves
+and others, and the reason why
+the, the city is really um
+involved in um the liquor excise
+taxes, we're unable to secure
+funding, um, from the DWI
+programs or other resources, so
+we do have to use our local
+liquor excise tax.
+We use about 835,000 of that to
+provide services throughout the
+year, um, more than, uh, most
+programs operate, uh, annually.
+So with that said, um, our law
+enforcement, um, responds to
+52,424 calls a year.
+So we're a biddy pretty busy,
+uh, community, um.
+that, uh
+that takes on, we do
+collaborate, we have an alcohol
+task force, and we've worked on,
+uh, local legislation like
+increasing our local liquor
+excise tax from 5 to 6%, um,
+we've worked on alcohol outlet
+density. We've worked with law
+enforcement and state police to,
+um, tackle some of the problem,
+uh, alcohol establishments.
+we've done, uh, a social host,
+uh law back in.
+a couple of years back, it's no
+longer used, but those are some
+of the things that we'll
+continue to work on and we'll
+work on with the alcohol harms
+alleviation, coalition, um, to
+provide support. So I stand for
+any questions.
+So with that
+especially in this area.
+that the stabilization of
+funding is really the focus on
+this and establishing a fund so
+that we can allow not just here
+in this area but um throughout
+the state our entities to build
+up their services. I do not
+think that this will be the, I
+mean, this is probably one of
+the oldest substance abuse
+items, but there is always
+something around the corner, so
+I hope we really try to be on
+the forefront on that, um,
+because the
+earlier they catch it, the more
+likely they're able to
+handle it and have the
+opportunity to have a better
+quality of life in that way than
+that way you have seen lately
+thank you Madam Chair, members
+of the committee.
+and I'm just gonna jump in here,
+uh, for the, particularly those
+of us who sit on the tobacco
+committee we've heard for years
+that, um, youth are, are most
+responsive to price. And so we
+know that by, if we raise the
+alcohol excise tax, we're not
+going to affect the guy who
+drinks, uh, you know, 2 L of
+vodka every day. We're, and
+that's not who we're targeting.
+We're targeting youth because
+they
+are most sensitive to price. If
+we can make the price a little
+more expensive. They will drink
+less. And, um, you know, we'd
+love to help the folks that are
+further down the road, but
+that's a much more difficult,
+um, so what the, the attempts, a
+lot of the attempts of the, of
+raising that tax is to prevent
+youth from ever becoming
+um, regular alcohol drinkers or
+from even, even, um
+trying it for the first time. So
+we have a lot of time for
+questions, so we'll start with
+Representative Johnson, and, um,
+well, pretty much be unlimited
+unless people go crazy.
+Thank you, Madam Chair, and
+thank you,
+Deborah and
+my colleagues, representative,
+and senator, and thank you,
+Representative Thompson for
+explaining the purpose and the
+youth range, um.
+as you know, I live in Gallup,
+and I also my folks also live,
+um, past the county line.
+So I have both experiences and
+um
+I see on a daily basis the
+bootlegging at the county line.
+and then sometimes I'll walk
+into the store for
+uh, something to drink or a bag
+of ice, and the line
+and the purchases that are being
+made. And so oftentimes I wonder
+you know, um, what are the root
+causes, and we know that it's
+jobs and depression, grieving,
+uh, transportation.
+and, uh, the county line
+provider.
+and then, of course, um, our
+lack of DWI.
+um response responsibilities,
+um, sometimes we read the paper
+and a person is going on their
+7th DWI. I mean, it's
+unbelievable.
+um,
+my elders recently, uh,
+celebrated someone who was
+notorious for driving drunk on
+uh New Mexico Highway 566.
+Finally apprehended and um
+serving a felony.
+So
+we live those types of
+experiences on a day to day
+basis, and we are concerned
+because we do transport our
+elders and our children on these
+roads and um provide a
+livelihood in these communities.
+and I did introduce and pass a
+bill that closed
+our liquor establishments in
+this community on Sundays.
+but that bill was reversed and
+now we're, we're, we've reopened
+on Sunday, but I think that
+Sunday closure gave us a little
+break, and uh, but now we're,
+um, we've reversed that
+situation
+So I, um,
+you know, I support our
+initiative. I just wonder why we
+can't get it past the finish
+line.
+Are we asking too high of a
+are we asking too much?
+Uh, maybe, you know, what is the
+middle ground? What have we done
+this far?
+And, uh, before you answer that,
+um, I just wanna also thank
+Doctor Jenny Way with GIMC who's
+been at the table. Um, I missed
+her today. She couldn't be here
+today. I did inform her and then
+of course, Mara, Shane Phil with
+the four corners. I see her in
+the audience and all her work.
+So, uh, with that, that's, um,
+those are my thoughts. Thank
+you.
+OK. Representative Anaya.
+Thank you, Madam Chair. I don't
+necessarily have any questions,
+um, but one of the
+um
+one of the things that I think
+would be really helpful is
+seeing the comparisons in a
+chart form
+Um, I'm kind of a visual learner
+and so I'm trying to like flip
+through all of these, but seeing
+the differences between the
+percentages taxed for alcohol,
+for cannabis, um, I think that
+would be really helpful just to
+see in a chart. And then the
+differences between the pieces
+of legislation that were
+introduced over the last few
+years. This way we can kind of
+see the progression of like what
+was introduced, um, and I would
+also like to talk through like
+what were the hurdles, um, for
+each
+of those, each of the years? Is
+it ever changing or is it kind
+of the same thing? Um, yeah, so,
+no, no questions in particular.
+I think I just want to start
+learning more about the history.
+Thank you, Madam Chair.
+Madam Vice Chair, I did have a
+little question in there and
+that was kind of the same as
+Representative Anaya was, you
+know, what were the major
+hurdles this last time and why
+didn't we finish the
+you know, past the finish line
+and what are we thinking going
+forward?
+Um
+fair questions. Um, we
+had started 25 cents a drink,
+and then we had an opposing, uh,
+legislation that wanted to make
+it uh that was for an excise tax
+increase, um, and then there was
+the idea that we have a surtax
+and so we um put the two ideas
+together, but without an
+increase on the excise tax, um
+and then a 6%
+uh sales tax, um, and then that
+was negotiated, um, down to 3%,
+but, um, didn't it
+passed, but with an amendment
+that, um, failed or um wasn't
+correct, so we had to go back to
+the committee and then, um, that
+did not pass through the tax
+house tax Committee.
+So
+we are looking at, um
+shoring up support in that
+committee and uh and expanding
+our um coalition, which included
+a lot of groups from around the
+state in behavioral health in
+our local DWI groups, um, other
+coalitions such as uh Doctor Wei
+and, uh, Deborah are part of
+here in Gallup and, um, also
+expanding to more support as
+we're finding out more about
+cancer risks and including
+you know, groups that would um
+come from Matt Engle and um so
+we're
+you know, in the process of
+getting all of these ideas and
+information to people and
+getting that uh bill
+reorganized.
+Sure.
+And also, um, for, uh,
+Representative Anaya, um,
+wanting to see how, um, I think
+it was comparing, uh, the
+the different, um, other taxes
+such as for tobacco and
+cannabis, you know, alcohol is
+very low compared to those and,
+um, you know, in our state, we
+aren't highest in the nation
+like some people tried to claim
+for alcohol, um, taxes. We have
+not kept up with inflation and
+so that is the whole motivation,
+um, to, you know, find a way to
+get that in with the sales tax
+it will, um, you know, increases
+the products go up in price, so.
+that way it's kind of built in
+that we won't have to come back
+and do this all the time.
+Madam Chair, if I can, I have
+one follow-up question on that.
+Um,
+when we're taxing tobacco and
+when we're taxing cannabis, how
+is it that we're taxing them? So
+if they have higher, higher, um,
+taxes are we taxing them?
+um, in excise tax, sales tax,
+both how does
+I guess how does the
+distribution work?
+I am not sure. I think, well,
+tobacco is at sales as a sales
+tax, and cannabis, I believe,
+also is a a sales tax that is
+increasing
+from 12%.
+up to I believe 18%.
+So 1515 now, is it?
+it
+Thank you, Madam Chair.
+Representative Chavez. Thank
+you, Madam Chair. I, I have a
+few questions. Um, and I think.
+was particularly interested in
+what Ms. Martinez, um, talked
+about, um, so one of my
+questions is, you said that you
+had 19,000 admissions, 10,000
+were brought in under the detox
+detoxification reform.
+So are those all from McKinley
+County?
+Madam Chair, members of the
+committee, yes, Senator, our
+Representative Chavez, OK, and,
+and do you have a demographic,
+um,
+yeah, they're based in McKinley
+County, but because this is a
+border town, you will see a lot
+of people from Arizona, um,
+coming up from ZUI to do their
+shopping here or to
+because this is an economic base
+in some sense to, to, to all our
+reservations, um, and we also
+have the same thing
+with the Farmington area, so I
+wouldn't really say they're all
+from McKinley County, but that's
+where the services are. OK,
+that's helpful to know. So do
+you, do you keep, um, sort of a
+demographic breakdown in terms
+of um
+race, gender, ethnicity, age,
+and then now that you uh
+mentioned sort of geographic
+location? Do you keep that data?
+Madam Chair members of the
+committee? Yes, and, um.
+Senator Pinto is correct in
+saying it's where we pick them
+up so they could be picked up
+anywhere in the McKinley County,
+but like she stated they're not
+necessarily from New Mexico,
+from our county, um, when we
+last looked at it, um, a
+majority were from the county
+and about 1/3, but I can get the
+data for you, um, are from
+Arizona. We do do the expert
+screening when they are
+discharged, and we do that every
+6 months.
+and a lot of that data is
+showing that people are from
+Arizona, so we're having to work
+with Arizona Access, so we're
+looking at collaborating with
+Navajo Nation because they are
+opening uh treatments, a 90 day
+treatment center in Phoenix to
+get those people, um, some
+services, OK, and then, um, to
+follow up on that, so in terms
+of treatment,
+if they're from New Mexico,
+where do they, what's available
+to them?
+Madam chair.
+Madam Chair, members of the
+committee, we have various
+resources. It just depends on
+what they're interested in. We
+created a case management Google
+Drive, which has a lot of the
+programs and services, um,
+available. We do have 4 Corners
+detox and we are working with
+them if they're interested in
+going here to the detox or to
+the 30 day residential treatment
+center.
+and then Madam Chair, um, the
+next question that I have is, do
+you provide um
+either your program, does your
+program provide therapy, sort of
+looking at a family sys or
+taking a family systems
+approach? Do you refer them out
+to other organizations that
+might provide that kind of
+therapy.
+Madam Chair, members of the
+committee, we're still trying to
+build
+our our systems of care, um,
+most of our individuals are
+male, um, single, um, so we do
+work with them in that aspect,
+um, whatever the client needs,
+but these are, are individuals
+on the street, so there's a lot,
+a lot more services that are
+needed, a lot more case
+management, intensive, um,
+resources that are needed within
+our community and this tax would
+help. That's why this tax is
+beneficial. It looks more at
+prevention as well.
+instead of us waiting until some
+of these individuals have been
+drinking longer than I've been
+alive, so there's a a lot of
+a lot of issues that we're
+working with. So what kind of
+housing supports do you have?
+What kind of housing supports
+are available to you that you
+can
+place to say someone who's
+unhoused drinking on the street,
+where, where can they, can they
+go? Madam Chair, members of the
+committee, we do have a shelter
+within the detox that people are
+allowed to stay in
+but one of the programs that was
+providing housing was recently
+cut, um.
+so we are really trying to
+figure out where that transition
+of housing, once they go to
+treatment, kind of that step
+down and sober living. We have
+been working with, um,
+facilities in Albuquerque with
+sober living, so that's, that's
+our next best resource, but
+transportation is an issue. When
+one example Representative Madam
+Chair is uh Four Corners detoxs
+right now they're located in a
+former juvenile detention
+center.
+So, um, or I wouldn't even say
+it's a center. It was a juvenile
+detention facility, more like a
+jail aspect. So, um, but other
+than that, those are for just
+individuals, no family, um.
+units or anything as far as um
+when you talked about
+gender or anything like that,
+it's just strictly
+So just following up on that,
+are there any Madam Chair, um,
+plans in the county to sort of
+build any housing, so permanent
+housing for people.
+um, affordable, permanent
+housing is, are there any plans
+for that?
+that you know of
+Madam Chair, members of the
+committee, there is, um, some
+land that has been discussed
+with the Las Cruces provider,
+but no plans have been um
+gone further than that.
+And then my last question is,
+um, so you said that you
+increased the excise tax from 5%
+to 6%, so I sort of have two
+questions.
+Did you see or were you able to
+like track any kind of a
+decrease in the amount that
+people were drinking, um, and
+then what would you recommend in
+terms of, you know, an amount to
+increase that might have to
+increase the tax by that might
+have an impact on.
+um
+stopping folks from being able
+to buy. Madam Chair, members of
+the committee, we were looking
+at that data and we continue to
+look at it. Um, COVID happened
+and that really put a wrench in
+some of the resources. We did
+see a decrease when we did have
+that COVID funding because we
+were able to, um, uh, house
+people in the motels. So we did
+see the 38% decrease that was
+reported by Department of
+Health.
+Thank you, Madam Chair
+Madam, Madam Chair.
+May I, on that point? Yes, not
+on that point though, because I
+had a caucus chair once. She
+said that never happens, so.
+um, the, uh, I just wanted to
+let you know that about 3 weeks
+ago, we had a bridge ribbon
+cutting ceremony on I-40 and
+566, and the governor was here.
+So we toured, we took her to
+Four Corners detox and uh she
+toured the facilities and she
+spoke to the director, uh, Mara,
+gave us a nice tour and spoke to
+staff and
+um saw the entire facility, so,
+um she may assist us some way,
+somehow, um, so that was a good,
+a good day for us. Just wanted
+to add that note.
+So, Senator Charlie, in mid by
+I'm, I'm, I'm practicing to be a
+waitress.
+Thank you, Madam Chair, and
+thank you presenters. This is
+the 2nd time, um, I've had the
+pleasure of hearing this
+presentation. We heard it at
+Indiana Affairs Committee
+earlier that last month.
+Earlier.
+Um
+and
+there was just something about
+slide 8 that I couldn't let go
+of in my body. And I've have had
+time to think about it and
+wanted to address that point. Um
+so I appreciate the opportunity
+to, to be able to readdress
+this. Um, so the report
+highlights that natives consume
+less alcohol than other
+populations. Yet we carry the
+highest burden of
+alcohol-related deaths.
+And that truth matters, but I do
+take issue with how the fact is
+being used here. Without
+context, it risks turning native
+suffering into a data point to
+advance an agenda rather than
+call to rather than call to
+address the actual root causes,
+the historical trauma, um
+that has led our our population
+to use this substance.
+Um,
+disparity, the disparity is not
+about individual consumption. It
+is about historical trauma.
+Chronic underfunding of our
+healthcare systems, inadequate
+housing jobs and care.
+The report highlights native
+harms but fails to center tribal
+sovereignty, culturally grounded
+healing and tribally led
+solutions. It perpetuates the
+same pattern of extraction,
+using native pain to justify
+state policy. Without investing
+in the communities that are most
+impacted.
+So while I support the increase
+and want to help shift this
+narrative, um, because too many
+families, including my own, have
+been buried from cirrhosis. It
+is, it is not beyond the reality
+of my own life. Um, but I can't
+support normalizing the use of
+people's pain.
+as justification
+If we center this data, let's
+center the dignity of our people
+and ensure
+it comes from the solutions come
+from the communities that are
+most impacted.
+So I have two questions, Madam
+Chair. How are we ensuring that
+this data is not weaponized, but
+instead drives real tribally led
+investments and solutions that
+address the root causes of the
+historical trauma that our
+communities are grappling with.
+And then the second is around
+tax structure. What percentage
+of this tax will come to the
+counties with the high
+population of Native American
+people, and what percentage of
+the tax is proposed to go
+directly to tribally led
+initiatives. Thank you, Madam
+Chair.
+Thank you, Madam Chair and thank
+you, Senator Charlie
+There is a, um,
+what do they try to do a, a
+formula too that the DWI, I
+believe, task force already had
+um developed, but to more
+formalize it to those, to target
+those entities that need it. Um,
+and then the, um, fund also, um,
+with what was um
+drafted headlines in there that
+it would, whatever the tribal
+communities would be received.
+That is up to them to deal with,
+that there will be some
+flexibility, a lot of
+flexibility for them to address
+it in their own ways and more
+funding than they have had in
+the past to address this
+particular issue. So whether it
+want they want to use it in the
+the young the youth or in their
+their facilities and um that is
+really really left up to them in
+the very broad, but it was
+specific that they would receive
+part of that funding and the um,
+well, the numbers there, I think
+it's, it's one of the facts that
+um
+the data plane and
+we know the sensitivity of our
+tribes, nations, and pueblos,
+and we know the history. I think
+anybody that's sitting here, um,
+who's very familiar with the
+history of what, um, how it was
+introduced to our people, so it
+is um
+depending on who, who you talk
+to in that sense is very, um,
+I think that's one of the things
+too, when we try to do trainings
+and making sure and assuring
+that the people in those fields,
+the people that provide those
+services should have that
+training and um
+that that's just, but it is also
+a hurdle for us to, to have that
+incorporated within our state
+personnel and with them, those
+that work within our tribal
+communities to make sure that
+training too is
+comes from our people, that
+they, they understand that and
+put that forward that it's not
+somebody else building that, so
+it's, it's another issue on the
+uh on that side to educate those
+that are not educated about it,
+but thank you, thank you,
+Senator Charlie, for bringing it
+up. Thank you, Madam Chair.
+Thank you, Madam Chair. And just
+on that point until the first
+question, um, I would like to
+work with you on reframing this
+because I think there is a way
+to do it that is grounded in
+dignity and humanity, um, and
+that is what I want for my
+community. Thank you, Madam
+Chair.
+Thank you. And if you could
+briefly, and I know there were
+probably 30 iterations of this
+bill as it went through this
+past session. Just briefly talk
+about where the money from the
+increased taxes was going to go,
+um, either at how it ended up
+finally where you started out
+just to give the committee and
+the public some idea of, of the
+direction you were going and how
+to spend the extra, um, funds
+that came in.
+Thank you, Madam Chair. Um, as
+we were, um, projecting, um, 150
+to $200 million at the 6%, um,
+we were, we had uh a formula
+that um was very complex, but it
+took into account as Senator
+Pinto was saying the community
+and um the uh enormity of the
+problem.
+and um the uh we wanted to keep
+the um local DWI groups whole,
+and, um, possibly in double what
+they were getting and then as
+other funding, uh, with, um,
+the
+surtax itself, uh, would go to
+different programs, um
+such as for Medicaid, for
+behavioral health, uh, uh,
+shoring up in which we're really
+going to need now. So we need
+this, uh, more than ever, uh,
+for a lot of the programs that
+might see cuts. And then also a
+special as it um kind of got
+reduced. We were going to make
+sure that at least 50 million
+was going to go to um, uh, the
+tribal, um
+uh
+coalition, um, I'm trying to
+remember the
+uh, you know, it's just been
+but for tribal, um, programs
+that um
+need um
+to be expanded or, you know,
+just to be started.
+So, um
+you know, with all respect, you
+know, we are, we know that those
+are
+just numbers, they're people and
+that we do recognize that um
+there is this paradox of harm
+that isn't.
+you know, uh, there to the
+people of our, you know,
+communities and that that's why
+we were looking to be sure that
+the funding went to programs,
+um, such as what are already
+here in, uh, Gallup area, the
+four corners and the um other um
+detox facilities that we are
+able to help target the funding
+where it will be the most useful
+and um helpful
+to our state and we recognize,
+you know, that.
+um, you know, on page
+I don't know if you saw it, but
+the very next page of
+10, where we do recognize the
+structural violence and the
+intergenerational trauma, the
+historical trauma and the social
+determinants of health that are,
+um, seen by uh Native American
+and Hispanic, uh, groups.
+in our state
+and we appreciate your offering
+to help with.
+you know.
+conveying that, you know, as we
+in our bill
+uh, uh, Senator Charlie.
+Madam Vice Chair, do you have
+questions? Just a comment.
+Thank you, Madam Chair. I always
+have a comment, huh, um, and,
+and I appreciate also that we
+heard this in Indian affairs
+when we were in Tahachi, um, and
+we've heard it in committee
+before too, um, and I want to
+say thank you to both of you and
+Senator Serio Lopez also for um
+I call it bird dog in this
+scene. Um
+oh.
+alcohol, I know many consume.
+different levels, whatever it
+may be, because it's a pastime
+that we have in our country.
+um
+there's always the history that
+comes behind Madam Chair,
+prohibition and what that did.
+when you
+I mean, there's just history. I
+won't go into what my other
+comment was going to be. Um, but
+Madam Chair, on, on page 2
+2 I believe this is.
+if I'm correct anyway, um
+there's uh New Mexico Department
+of Health recommendation.
+recommendations
+And of course, um, some of the
+things that can be done is
+increase alcohol taxes, which we
+know does have as a chairwoman
+did mention we've heard this in
+tobacco settlement. I've been on
+that committee for a number of
+years also as the chairwoman.
+Um, increasing a cost does have
+an effect, especially on our
+young people.
+And I think that is part of the
+directive of what we're trying
+to do too is looking as to how
+we can change the trajectory of
+our young people.
+because once you get your foot
+in that door, it's hard to
+change it.
+We've had the same conversation
+about vaping.
+and how that too, um, opens the
+door for the young people. Oh
+yes, it doesn't have any, uh,
+you know, effect on your lungs
+while vaping is, I think, if not
+worse than the actual cigarette
+of what it has in it, the
+carcinogens, and the same goes
+with alcohol.
+of how it destroys and what it
+does and and as we are people
+of, of um
+uh,
+how would I say, you know,
+looking for different ways to
+take care of the ills that we
+feel, right? Depression,
+anxiety, and all the other ways.
+This is one of the easier
+access, and Madam Chair, a few
+years back we did change
+um, those little tiny bottles
+that we used to sell at the gas
+stations. We did change that one
+thing and it was like a big
+thing. Um, I had suggested that
+and we did put it into the bill
+that was passed a few years
+back.
+But all it, I mean, it got rid
+of that little tiny one, but
+then they just, you know, the
+next size up is the most um.
+easy sell at the gas stations
+now, so it's just you replace
+one with the other
+And Madam Chair, in the history
+of our state, we close the
+drive-up windows and I remember
+that very clearly when we took
+the vote and did that in the
+legislature, but our gas
+stations have become the next
+drive-up liquor.
+dispensary
+I've seen it. We all see it, um,
+in different communities, it's
+not just an Indian country, but
+it's everywhere. People go and
+they walk out of the gas station
+with like 26 packs or something.
+That's, that's their next
+place to purchase liquor
+So Madam Chair, I think even
+when we talk about driving drunk
+we should stop selling liquor at
+the gas stations. That's the
+biggest moneymaker, that
+maverick and everybody else has
+in the state. You see it and
+across the country anyway, but
+talking about New Mexico, I'm
+putting gas yesterday when I got
+into Albuquerque, sitting there,
+standing there putting gas. I
+saw people walk in and walking
+out with both arms carrying
+booze, beer.
+and what does that not do for
+our young people to see more and
+more, right? Adults purchasing,
+walking out with that, getting
+into your car, maybe they popped
+one as they're driving off.
+So, Madam Chair, this is, it's
+an issue that we do have, um.
+with all these different
+pleasure items that we have. I
+don't know what you want to call
+it.
+but
+um
+I, I really believe that
+we need to take a stand and
+taxes, I think it's fine. So
+we're increasing the cost of a
+drink.
+Big deal
+If you wanted it that bad, you
+don't need alcohol to survive.
+It's not a necessary like, you
+know, food, you know, fruit, all
+the basics that we need.
+For those who don't have a
+problem, you know, being um an
+alcoholic.
+Big deal. So you pay 25 cents
+more. What's that going to be on
+your pocketbook?
+But it may have, Madam Chair, in
+effect in other communities,
+especially for the young people,
+is where my concern is too, as
+to how we offset their access
+and what um the the information
+is there. It's the same kind of
+basic information for tobacco.
+I think it has the same width
+and can have the same effect
+with regards if um we finally
+get
+a bill that increases statewide
+the cost of purchasing alcohol.
+And last but not least, Madam
+Chair, um, I said I always have
+many comments. I remember when
+we had a debate on the Senate
+floor when we allowed, um, you
+know, wine to be sold.
+at restaurants and we changed
+the time frame.
+of when we could sell uh wine on
+Sundays.
+That was a big, you know,
+discussion, but once you open
+the door for other sales,
+everything opens wide, and then
+we land up with the problem,
+Madam Chair, that we're trying
+to deal with at this point in
+time.
+Um
+it's, it's, uh
+it's how we regulate the sins,
+the pleasure sins, purchases of
+all these different items which
+are big moneymakers and of
+course, it hurts the economy, of
+course, that's the argument that
+goes back, but to build our
+economy on these um items that
+hurt our people, that cause and
+have after effects as we grow
+older.
+Um, I think that's, you know,
+another big conversation to
+have, that we should be having
+it every year, every session,
+because that's, it's the truth,
+it's what makes a difference in
+our communities. Thank you.
+Thank you. And I just, I think I
+just have a few comments. So,
+um, on slide 7, it's
+shocking actually that, um,
+excessive alcohol. In 2010, so
+who knows what it is in 2025,
+um, that excessive alcohol
+consumption costs New Mexico 2.2
+billion.
+And when our state budget is
+somewhere around maybe 11
+billion, and it's kind of
+shocking that
+that that's 20%. Um, adjusting
+for inflation, 3.1 billion in
+2023, or $3.93 per standard
+drink. So if we look at
+making changes, improving the
+situation, the return on
+investment is going to be there.
+I mean, we, it's, it could be
+multiple, multiple times what we
+invest, um, so it seems like a
+no brainer to me, and I will
+say, um
+Madam, Madam Chair and Madam
+Vice Chair from Indian Affairs.
+We were here last month. We met
+in Pinedale, and there is what
+used to be a gas station on the,
+and it's kind of out in the
+boonies, um, there aren't a lot
+of shopping opportunities
+around, and that gas station
+stopped selling gas because they
+could make more money selling
+alcohol. And so this, these
+communities for lack of a better
+word, more like settlements
+really. um
+now have to go further for gas
+because it was, it's more
+lucrative to sell alcohol than
+it is to sell gas, and we need
+to consider those kind of things
+too that we are making it harder
+for folks to, um
+to get gas to get groceries. I
+mean this, this place sells, it
+looks like it sells alcohol and
+ice, um, and, uh, there, there
+isn't another store for what?
+30 miles maybe
+And if you're low on gas, 30
+miles can be, can be far. So, I,
+I, I want to thank you, um, and
+your, your partners, um, Senator
+Cedillo Lopez, in particular,
+for your stubbornness or
+dedication or stick to
+itiveness, whichever, whichever
+verb you, whichever word you
+prefer, um, and, uh, please know
+that I'm in the fight with you,
+um, as are a lot of members of
+this committee and, um
+hopefully we'll get it done one
+day. Thank you for the
+presentation and um
+and with that, thank you so
+much. We will, yeah, we will go
+to public comment. We are a
+little bit ahead of schedule,
+which is so unusual. 2 days in a
+row. Oh, Senator Pinto, I
+shouldn't have said we had more
+time, I'll say, oh, OK, um,
+thank you about that comment
+about the return on investment
+because I think there's been a
+push about crime and increasing
+this and you put more people in
+jail, that will deplete most of
+our area's revenue
+ue um, trying to do that versus
+trying to tackle it on the front
+end. So thank you, Madam Chair.
+Could I just add, it also will
+help reduce crime, you know,
+with alcohol involved, um, gun
+violence and sexual assaults and
+all the other things, um, we can
+make a big impact. So thank you,
+and I'd like to thank again, uh,
+the Gallup alcohol reforms.
+Thank you, and there are many
+things that alcohol contributes
+to a risky behaviors which
+result in sexually transmitted
+infections, unintended
+pregnancies, domestic violence,
+child abuse, the list
+could be, could go on forever
+and we're looking, we're kind of
+looking at
+pie in the skyways to attack
+these things and to decrease the
+incidence and alco alco
+decreasing alcohol use will
+suicide. I mean, there's just
+any any of the bad things that
+we are trying to reduce
+almost all of them, if not all
+of them, have some sort of a, an
+alcohol related, um,
+causation or effect. So thank
+you so much. We will go to
+public comment. We do have 2
+people in the room, so we have
+Mary Feldblum and Lynn
+Heneman
+I, I knew that, that you was
+silent, but I couldn't remember.
+So Mary go if and after those
+two if you would like to come
+forward, if, even if you haven't
+signed up, we have plenty of
+time. So, so we, I will be
+generous today and give you 4
+minutes.
+Oh yes, and if you are on Zoom
+and would like to make public
+comment, please raise your hand.
+We will hear from the people in
+the room and then we will hear
+from the folks on Zoom.
+Go ahead, Mary. OK, thank you,
+Madam Chair, members of the
+committee, I'm really going to
+speak to you today as a social
+scientist, someone who has been
+working on healthcare reform and
+cost issues for all too many
+years. I don't know if you saw
+the Albuquerque editorial, uh,
+in July that said New Mexico is
+facing a time bomb, and leaders
+must address it. Now, it seems
+overwhelming all the areas that
+you have to address and Madam
+Chair, you have consistently
+said we need a roadmap. And what
+is clear that in this roadmap,
+if you don't address the
+systemic reasons why costs are
+rising
+Um, you're not gonna solve the
+problem. There are many other
+short-term solutions that you
+can consider, and that's why you
+need a roadmap, but your billing
+and accountability is just one
+piece of this big problem. And,
+and that's part of this puzzle.
+Hospital costs, for example, are
+not only due to billing and
+absence of payment and all that
+what you heard today, but it,
+they, they also are connected to
+drug prices. They're also
+connected to a terrible IT
+systems that lead to
+inefficiencies, um, and, and so
+we could go on and on, um, and
+what both Dorothy Muller in her
+drug presentation, and you will
+hear from others say, if you,
+you have to see these solutions
+as interconnected. They cannot
+be siloed. Um, and, uh, so what
+you can do this coming session,
+uh, and the next session is
+figure out what in your roadmap
+you could pass here and now. For
+example, prior authorization.
+New Jersey has the strongest
+bill in the nation. They do not
+have, uh, gold cards. There are,
+there are states that are not
+piecemealing this. They're doing
+something holistic that so it
+would be great if you all could
+get that on the call and
+introduce something like that,
+it would energize the public
+and, and medical professionals.
+There are other solutions as
+well, um, so what, what you
+really need to do is address the
+intermediate situations that you
+can do, but the more complicated
+problems such as lowering drug
+prices, how to do that, such as
+hospital budgets with CMS is
+recommending that more states do
+what Maryland has done, but
+smother it in green and red
+chili is what we would have to
+do it. Um, and, um, and many
+states like, uh, North Dakota,
+uh, Minnesota, and Ohio recently
+are
+their, their rural hospitals are
+joining co-ops to share
+resources because they do not
+want to, to lose their
+independence.
+And, and, uh, there's
+information about that that you
+need to hear about, and that's
+why funding for this project is
+critical. Um, and, and I also
+urge you to consider that having
+Dorothy Muller and, um, and the
+Center for Social Policy and
+some future, uh, presentations
+go before legislative finance
+Committee, because I don't think
+there are, um, there's
+knowledgeable as you about these
+issues and to understand
+that investment, this is an
+investment in dealing with the
+sources of rising healthcare
+costs, is that an investment
+well worth doing for the state
+of New Mexico. We have to, and
+as the Albuquerque Journal says,
+you, you know, the legislature
+has to do this. So that's all
+I'm going to say. I hope I've,
+I'm gonna do the 4 minutes.
+And I'd also be willing to
+present an ideas for a roadmap,
+uh, at a future, you know,
+having a little bit more than 4
+minutes. Thanks. Thank you,
+Mary. Um, Lynn
+thank you again. 2nd day, Madam
+Chair and members of the
+committee. Good morning.
+Y Bena
+I want to follow up on the
+comments from yesterday with
+just a couple footnotes, and I
+sort of touched on two topics,
+and one had to do with so kind
+of shifting gears here, but one
+had to do with mobile home parks
+and uh we happened to have a
+residents meeting yesterday
+evening, and I wanted to share a
+comment that one of the persons
+who's resident Redhill Park
+mentioned
+and it had to do with thinking
+that the owner who lives in
+Florida doesn't do much to keep
+up the park. Now it's not dirty
+or anything, there's staff that
+go around every day and pick up
+things and so on. But like we
+used, there used to be a
+a tenant, not 10,
+uh, I think volleyball court
+there, it's totally gone. They
+haven't restored it, uh, things
+like that. And the comment was
+that
+they do minimal maintenance or
+development because with the
+affordable housing shortage,
+they don't have to do much cause
+they're going to have the park
+full.
+because people are looking for
+places, and so that shortage
+affects how much they put into
+it. And meanwhile, when we
+talked about trying to get a cap
+on how much rent can be
+increased.
+Share a couple of figures with
+you.
+If you figure about a $400 a
+month rent average it varies
+double wides or.
+lots are more than single wides
+and so on.
+If and when I said that they
+raised the rent 10% the last two
+years, each of the last two
+years.
+But if you add that
+and 429 units in the park, uh,
+that comes up to $2,265,000 and
+they were well over $2 million
+is there
+revenue from that
+If there were a cap that limited
+the increase just to 3%, saying,
+OK, you can do handle inflation.
+The total revenue would still be
+over 2 million. Now, obviously
+there's, there's expenses for
+upkeep. There's taxes, there can
+be land tax, there can be
+corporate taxes, and so on, but
+we're talking about um
+you know, some kind, some range
+of over $2 million that the
+company receives. So when we're
+talking about trying to keep a
+rent
+cap, we're not asking them to
+suffer, OK, so I just wanted to
+point that out in terms of um
+uh
+trying to get legislation that
+will put some kind of limit on
+how much they can increase the
+rent each year.
+The other thing I talked a
+little about yesterday, which
+has some overlap, but it's also
+distinct topic and, and uh ties
+in with what we just heard.
+The, the matter of homeless and
+unhoused people in gallop and uh
+how that relates to sometimes
+the lack of affordable housing
+and so on. I just wanted to
+mention that
+there are over 65.
+programs, organizations,
+services in Gallup.
+that interact with homeless
+unhoused people.
+and we're not a city
+We're just a town, a little over
+20,000 people.
+but there's over 65 different
+programs and services that
+interact with and that ranges
+everything from police who
+interact in one way, to private
+mental health counselors to
+shelters, to food programs, and
+I, I, uh, I'll give a, a few of
+you I don't have copies for
+everybody I was going to run
+some more this morning and my
+printer ran out of ink, but I'll
+give a copy of that draft list.
+It's not perfect. It's not quite
+complete, but I'll give it to
+Madam Chair and to a
+couple of people here who are
+closer to Gallup, um, but they,
+the thing is
+we've got people making valiant
+efforts to deal with the
+homeless, with the substance use
+thing and now it's trying to
+adjust to younger people and
+fentanyl, but overall the
+problem's still here and it
+doesn't seem to go down. And so
+what I say to the committee is
+just keep, keep on it, keep
+paying attention, keep educating
+because there's so many factors,
+uh, when it comes to the state,
+sometimes there's a need for
+funding for programs.
+Sometimes there's a need for
+regulations and laws and like
+you mentioned, even on the local
+level, if you increase the price
+of alcohol, does that
+statistically, it usually leads
+to some reduction in
+consumption.
+um, and then looking at the
+historical factors, historical
+trauma. What's what goes into
+these, these situations, um,
+historically, most of the
+homeless street people in Gallop
+or Navajo with Ritz in the
+reservation. Well, there's
+another factor there, and that's
+been historically ineffective
+education.
+Our educational systems have not
+been adapted culturally to, to
+be effective at times. That's
+times, sir. Thank you so much.
+And, and we, we will, we can
+have Xander, um, get that, get
+that handout to, to all the
+committee members, including the
+ones who, who are not currently
+present. So thank you for your
+time and I believe there was
+someone, yes, go ahead and come
+up and introduce yourself.
+um
+and you push the person to turn
+the mic on.
+There you go. Uh, thank you,
+Madam Chairman, and a committee
+members, uh, my name is Patricia
+Sheeley. I live here in Gallup.
+I'm an elder. I'm on Medicare.
+Uh, I'm a retired dietitian, so
+I have a little bit of, uh,
+experience with the medical
+system and the and the, uh,
+oh, I forget the word, where you
+have to decide what you're
+billing for and stuff. Uh, so I
+have many concerns and listening
+to you was, was helpful and
+brought things to mind. I'm
+really concerned that different
+insurance companies make
+contracts with hospitals, so
+your insurance company may pay a
+different amount than my
+insurance company and I, if I
+come back and I don't have any
+insurance, I probably pay way,
+way more
+So that's one concern. The other
+concern is these pharmacy
+benefit managers, which I think
+are increasing the price of
+drugs, but another concern that
+I think is even more of a
+concern to me is the, uh,
+private equity. OK, and I think
+representative and I isn't is
+right. We can't just say you
+can't be here. But, but can we
+find out what they are doing
+My understanding of, of private
+equity is they come in and they
+suck money out because they want
+to make money and this isn't not
+really old thing that happened,
+but the Sears stores, private
+equity bought that and then they
+managed to sell the store.
+you know, to make money on it.
+And then this the what's left
+has to pay rent
+They must be doing the same
+thing. So I would ask you to
+find out, do a little study of
+what, what is happening. Maybe
+they're doing good and we can
+say, yeah, come in, we like you.
+But I don't want them to come to
+Rehoboth right now
+I'm, I'd really be concerned. So
+thank you very much.
+Thank you and just, just kind of
+as a, a follow-up, um,
+yeah, that we do know that, that
+private equity is there to make
+money, um, venture capital,
+whatever, um, and, and they
+frequently do come in and they,
+they
+um, sell the or sell some of the
+sell off some of the, you know,
+the, the CT scan machine or
+whatever, they squeeze the money
+out and then they desert, and
+then we have, we have hospitals
+who can no longer make it. And,
+and I will say, um, talk about
+layers of opacity
+It's really hard to get to the
+bottom of all of that. We are
+trying and the whole country, I
+think, you know, is trying, but,
+um, they have many more lawyers
+than we do, and many more layers
+of, of non-transparency. I did
+have a bill this year, um, for
+hospitals to have to publish the
+price for certain um
+procedures, you know, you need a
+total knee, you can shop around,
+uh, uh, as opposed to, you know,
+you need an emergency
+appendectomy, you kind of have
+to go, but if you need a total
+knee, I wanted to be able to
+follow in Colorado and I believe
+Ohio's leads where hospitals
+have to publish a, you know,
+we'd have a list of 150
+procedures where they have to
+publish what they charge for
+that, so patients would have at
+least that capability to price
+shop.
+Madam Chair, may I make another
+comment briefly, um
+I think we need to find out how
+they are changing, uh, services.
+Uh, we had a, a really good, uh,
+veterinary service here in
+Gallup with 4 veterinarians and
+had has been bought, which I
+think by a private equity there
+is now one, so most of us are
+having to go to Milan, uh, with
+our animals services are just
+decreased. That, that is a
+common occurrence, as, as the
+study showed, you know, 11, I
+think it was a physician, one
+provider said if private equ
+ity buys them out, they're, they
+are leaving. And we, we see that
+that happens very frequently. So
+thank you for that. Um, anyone
+else in the room who wants to
+make a public comment?
+Oh, OK, come on up.
+and you have 4 minutes. Please
+introduce yourself.
+Great. Uh, I, I, uh, Madam Chair
+and other members of the
+committee, uh, thank you very
+much. My name is Paul Charlton.
+I'm an emergency medicine
+physician. Uh, I live and work
+here, here in Gallup. Um, I've
+been here for the last 7 years.
+And um it made time to to swing
+by today, um, out of the
+hospital, just to let you know
+that I have been seeing some
+noticeable changes over the last
+couple of years, uh, with
+different types of conditions
+that are presenting here more
+related to extreme heat, and
+then issues, issues with
+flooding
+I mean I do realize that it's
+not up to the government to
+solve all of the problems that
+that we experience and that's
+part of the joys of, of being a
+a physician is being able to
+work with people during
+difficult circumstances, but I
+did want to put it on the um on
+the committee's radar that we
+are noticing some pretty
+significant changes um around
+the, the way that um weather
+environments and and our climate
+is shifting.
+And it's no longer something
+that um people's health is able
+to to be entirely removed from.
+The um so specifically noticing
+more kids that are coming into
+the emergency department, um,
+experiencing heat illness. Um,
+we've at the hospital that I
+work at, we've had to close down
+certain parts of the hospital
+due to overheating. We have had
+a multi-month uh disruption in
+our supply chain due to flooding
+events that took place in other
+parts of the country in North
+Carolina.
+um, as well as issues with our
+own staff members being able to
+come to work. Um, this is
+becoming more frequent. It's
+becoming more severe. The, the
+primary reason of flagging it is
+because as a health focused, um,
+you know, arm of the of the
+state government, um, or the
+legislative branch, the to to be
+aware that there may be some
+opportunities to, um, one, see
+this as a health issue, um,
+rather than purely an
+environmental issue.
+And to recognize that New Mexico
+has a profile of certain
+categories and certain
+communities of people being a
+little bit higher risk as these
+changes continue to take place.
+Um, the other thing I think
+would be to be aware of some of
+the innovations that is
+happening and are happening in
+Arizona, um, especially around
+extreme heat, and many of those
+are being conducted at a state
+level, and they may be models
+that New Mexico will want to
+follow in future years.
+And it's something that we
+continue to watch closely. Um,
+and then finally, thank you for
+all the other support that
+you're already giving our
+community so that we can keep
+New Mexico a very livable, um,
+wonderful place. That is the
+reason that so many of us are
+really proud to to live here and
+work here, um, and thank you all
+for your service. Um, I'm sure
+you don't get thanked enough,
+um, and I'm sure this is a
+pretty tough job. So, so thank
+you very much for being here in
+Gallop as well to hear comments.
+Thank you. And just as an aside,
+I will say that, um, Charles
+Goodmacher, I can't remember the
+name of his. Does anybody
+remember the name of his. He's
+really working on, um,
+cli heat, heat and workers uh
+that, you know, getting air
+conditioners in buses and making
+sure that outdoor workers have
+breaks and shade and water and,
+and so, um, if you haven't
+gotten contacted by Charles, I'm
+guessing you will. Um, so, so
+there is someone in the state
+who is really pushing forward on
+heat-related issues.
+Yeah, there have been several of
+us, including many of us from
+Gallup, they've been working
+with Healthy Climate in New
+Mexico, and not non nonpartisan
+organization just trying to
+offer a health voice as we try
+to tackle these hard, hard
+challenges.
+Thank you. And yeah, and just, I
+mean, a lot of places in more
+northern New Mexico have no
+swamp coolers or air
+conditioning because it, they
+didn't need them until recently
+and you know, you think about
+Hogans, um,
+chances are good, there's not a
+lot of shade around and, and
+they don't have electricity, a
+lot of them, and, um, so it's
+gonna be a, you know, a really
+major issue, particularly, I
+mean, everywhere, but rural
+areas, maybe even more so.
+Representative Ferro, thank you,
+Madam Chair. Um, I, uh, know of
+a person in Department of Health
+who is, you know, working
+specifically on heat, um, and
+health issues. We might have
+her, uh, come and present to us.
+OK, we will go to Zoom. First,
+we have Mike McMillan and Mike,
+you have 4 minutes.
+Hello, thank you, Madam Chair.
+Members of the committee
+I really appreciated the
+presentation, uh, from you and
+him, uh, this morning, and
+highlighted many of the uh
+burdens with the medical claims
+and the billing system.
+This highlight this study
+highlighted many of the things
+that healthcare providers and
+medical clinics have been
+dealing with for many years, and
+I, and I want to thank the
+Legislative council Service for
+uh commissioning that study and
+hope that um we can commission,
+commission a study on um some
+solutions, um, a couple of
+solutions that that were
+presented or talked a little bit
+about, discussed this morning
+that I think would, would help
+would be um
+the prior authorizations, prior
+authorizations have become a
+huge burden to providing care to
+our patients
+Um, anything we can do to
+streamline that process would be
+helpful. Um, also on, uh,
+payment recruitments, uh, payers
+seem to have almost an unlimited
+time frame, many years going
+back 1 or 2 years, and saying,
+you know, when you treated this
+patient a year and a half ago,
+we don't think um it was paid
+correctly, so we're going to
+recoup that payment
+um, and they'll either demand
+that we repay the money, and if
+we don't, they just take it from
+reimbursement from a current
+patient.
+Um, so that's another area, uh,
+providers are limited to 90 days
+to.
+uh provide a uh submitted a
+claim for patient care. I
+believe our, our payers should
+be limited to 90 days, just, you
+know, determine if
+uh a payment they believe was
+made inaccurately.
+Um
+the other issue is, I think the,
+the elephant in the room is a
+medical malpractice. We need to
+reform to medical malpractice.
+Um, this is not only a cost
+issue for uh
+current physicians practicing in
+the state, but it's also a
+recruitment issue. Many of our
+physicians, um, um, in the
+clinic I work at, are gonna be
+retiring in the next 5 years. We
+don't have the physicians
+to replace them and recruitment,
+um
+is a primary issue in medical
+malpractice, I think is the the
+issue behind a lot of that.
+Um.
+also just, uh.
+something that we, we heard, you
+all heard yesterday from
+Secretary Armijo very concerning
+is our federal Medicaid funding.
+is gonna be slashed, and it's,
+it's
+very concerning because we just
+got reimbursement rates for
+Medicaid increased.
+cutting those back
+although necessary if we lose
+that federal funding, it's gonna
+be very detrimental to our our
+providers in New Mexico and
+especially our, our rural
+providers.
+Um, so we need to, um
+be looking at that. I know the
+legislature, the state's looking
+at that, but anything we can do
+to avoid reducing
+um Medicaid reimbursements.
+uh, would be greatly appreciated
+with the looming federal cuts.
+Appreciate everything you do,
+uh, for our state, and
+appreciate the time for the
+comments. Thank you.
+Thank you. And, and I would ask,
+we are looking for data around,
+um, insurance
+medical malpractice insurance
+costs and increases. So any
+information, any data, any, um,
+any of your costs. If you could
+share them with Xander, who is
+our lead, um, staffer, uh, that
+would be wonderful. We are
+trying to figure out what's
+going on, um, but we just don't
+have the data and so if
+providers can provide us with
+their, their insurance quotes,
+um, what the costs were last
+year, what they are this
+year, what they were 10 years,
+any, any kind of data that can
+help us look at patterns and
+figure out where things are
+going on, would be most helpful
+for us. So thank you. And next
+we will go to Karen Kushner.
+Madam Chair, members of the
+room, thank you so much for
+allowing me um to comment. I
+just had a couple comments about
+your billing, um, person this
+morning from UNM. I would like
+to say that I was in billing and
+collections as a practice
+management person for over 30
+years. Um, I was in Northeast
+Ohio, large hospital groups, and
+I can say that, you know, even
+way back then, in the 90s and
+early 2000s
+the electronic health records
+when they are first coming out,
+also made provisions so that
+there was crossover to billing,
+um, that, you know, the, the
+billing would help code the
+billing uh with electronically
+send claims. We would
+electronically get those
+payments back. We would also be
+able to verify insurance on a
+patient 48 hours before they
+arrived, as long as we have that
+information. And we could also
+we had a list with every single
+insurance payer of who needed a
+prior authorization for what and
+how long it would take, as well
+as people to talk to about it.
+I understand this is a different
+world. New Mexico is a different
+place. Um, but even when I came
+here and was approached to work,
+um, at our biggest hospital
+institution, I was quoted that
+they were only collecting 30% of
+their billables in their
+accounts receivable, which is
+unheard of in any kind of
+practice management. Um
+so I, I would also like to say
+that UNMH negotiates their rates
+directly with Blue Cross Blue
+Shield as someone who's covered
+under UNMH and Blue Cross Blue
+Shield. I can tell you that
+every year we get a schedule of
+what's changed, how much more
+our deductibles are, how much
+more our copays are, but they
+are directly negotiating. So
+when you call the insurance
+company, they tell you to call
+back and talk to the HR
+department. So it, it seems like
+it's a circular conversation
+that
+you know, maybe there needs to
+be more input there. I'm not,
+I'm not really sure. I don't
+know what the solution is. The
+other part of a conversation
+that I didn't hear in this um
+study was what people with
+disabilities go through trying
+to find a provider and how so
+many providers now, as has been
+pointed out, they have to do so
+much verification, they have to
+do so much documentation, you
+add a person with a disability
+or a ch
+ron ic health condition in
+there. We don't often get the
+time we should with providers.
+Um, I've heard this from many
+people. I know it's true in my
+own life, and I'm still to this
+day having a problem getting an
+appointment with a neurologist
+in this state, going on 5.5
+years now of my disability and
+people who don't work with it
+and they just don't want to deal
+with it.
+Um, and then the last thing I'd
+like to say is it would be nice
+if Troy Clark from the New
+Mexico Hospital Association
+could come and give a
+presentation to this committee
+because so many people do keep
+tabs on this committee and
+what's happening. He was one of
+the few people that laid it out
+succinctly of what New Mexico is
+with our pair bases and how
+we're completely upside down
+from other states, and that's
+why we have the problems we
+have. That's why some of the
+things that are are working in
+Maryland or Vermont or, you
+know,
+Virginia don't work here because
+we just don't have the private
+payer base. Thank you very much.
+Thank you so much. Um
+great points. Uh, and
+for those of you who don't know,
+I have an adult son with severe
+autism who lives in a group home
+and um
+I, I know far too well how hard
+they he he had a broken tooth in
+February of this year, and he
+needs to go into the operating
+room for dental work, the first
+available appointment is
+September of 2026. So more than
+18 months with a toothache. So
+tell me that we're being humane
+to people with disabilities. We
+are not.
+Um, and we'll just leave it at
+that. We have one more um
+one more, uh, person on Zoom,
+Davina Norris.
+So go ahead, Davina, and you
+have 4 minutes.
+Excellent
+Let's see. Thank you, Madam
+Chair, members of the committee.
+My name is Debina Norris. I'm a
+pharmacist and pharmacist
+clinician. Uh, originally from a
+small rural town of Cliff, New
+Mexico, and I currently practice
+in Las Cruces, New Mexico. Um, I
+have worked with a family
+medicine residency program with
+multiple family physicians and
+other health professionals. I
+wanted to comment regarding the
+presentation on the analysis of
+the billing and coding system.
+Um, I appreciate, uh,
+representative
+s Thompson and, and Chavez for
+um the contributions that made
+this possible because I think
+it's very important. I believe
+that this report really shows
+what many of us that work in
+healthcare kind of already know
+and that that is that the
+administrative burden of our
+current healthcare system is, is
+very problematic. Um, I think a
+big thing is that the time
+that's spent doing these things,
+um is time taken away from more
+importance
+um patient care activities, um,
+which is, is worsening really
+the um
+or contributing to the, the
+access problems that we have
+within our state. Um, in terms
+of next steps, I really don't
+feel like we need additional
+studies to show that this is a
+problem. What I would like to
+see is, you know, what are the
+next steps in terms of
+solutions. So
+how can we simplify our billing
+and coding system to reduce
+this, this administrative
+burden, um, and so I would like
+to see kind of some more steps
+related to that. I think another
+thing that this presentation,
+um, point or kind of highlights
+for me are two things. One, it
+raises really the question of
+the utility of um private
+insurance companies and calls
+into question as to whether
+or not they are positively
+contributing um to the clinical
+outcomes for our patients. And
+then it also tells me that it is
+time, um, or past time for New
+Mexico to set up its own health
+plan to ensure that all New
+Mexico residents have
+healthcare, and in doing so, if
+we do this in a very thoughtful
+manner, it would actually
+address many of the concerns
+presented in this report. Like,
+for example,
+um networks, it would eliminate
+networks, which we know it can
+be very burdensome to both
+providers and patients. Um, and
+then also if you're working with
+predominantly one plan, um,
+rather than multiple different
+insurance companies with
+different formularies and
+different rules that also
+simplifies the system
+significantly.
+The last thing that I wanted to
+do was, I know this wasn't the
+topic of the presentation but
+was to real quickly comments um
+on the comments related to
+private equity control of
+healthcare, and I would
+encourage uh members of the
+committee to think about this a
+little bit differently. Um,
+instead of making the statement
+or asking the question of do we
+need outside capital, um, in
+order to ensure that our um
+vulnerable hospitals and
+healthcare facilities stay open.
+I think instead we should be ask
+ing what makes hospitals and
+healthcare facilities at risk of
+closing their doors and
+vulnerable to takeover by
+private equity firms and um how
+do we implement solutions like
+for example, um, evaluating
+global budget systems. What a
+global budget system help to
+actually stabilize the revenue
+for hospitals and decrease their
+risk of, of um closing and being
+vulnerable to private equity
+firms take over, um, because we
+know and we've um
+the legislature, um,
+legislative, uh, the court's
+Corrections and Justice
+Committee as well as finance,
+um, presentations have shown
+that private equity control of
+healthcare facilities is
+associated with worth
+outcomes
+Um, because that's my time.
+Thank you all so much for
+considering my, um,
+and thank you everyone for your
+public comment. It's uh
+we hear you
+not that we're going to solve
+the problems. I wish, you know,
+I wish all of our magic wands
+would come out of the shop so we
+could get this done, but we will
+do the, the hard work to do the
+best we can. And with that, we
+are ready for lunch, so we will
+come back at one o'clock for an
+evaluation of university
+workforce endowments by the LFC.

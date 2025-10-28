@@ -1,0 +1,4931 @@
+Uh, I cover educational data
+issues, all things data, uh, and
+today we're going to talk a
+little bit about uh data quality
+from our perspective as
+researchers for you. Uh, we did
+talk a little bit about this
+yesterday, so we'll sort of keep
+reinforcing that theme of high
+quality data leads to high
+quality analysis leads to high
+quality policy. Um, I'm joined
+today by uh, Paige Kowalski,
+who's the executive vice
+president of the Data Quality
+Campaign, a national nonprofit
+that deals with data issues in
+other states, uh, and uh
+particularly help states try to
+transform their data systems to
+be more transparent, more
+responsive to the needs of
+stakeholders so that you all can
+get the data you need to make
+better decisions. I'm also
+joined by Michael Smith and
+Stephanie Mays, who are doing
+some work out of uh iCASA in New
+Mexico Tech. That's the
+Institute for Complex Additive
+Systems analysis. I got it
+without reading it. Um, that is
+a, uh, a group out of New Mexico
+Tech that's been uh studying
+data governance based on
+appropriation they got this year
+to begin some work on data.
+governance, do some asset
+mapping of what is happening
+regarding data governance across
+the state, uh, and then bring
+recommendations to you all about
+a path forward. So, um, I wanted
+to begin the presentation, uh,
+with, with a little bit of kudos
+and uh acknowledgement of the
+work, uh, of some folks in the
+room, uh, the public education
+department is uh has been really
+great to us this year, uh,
+providing data whenever we ask
+for it, uh, giving us the data
+that we need to, to put together
+these reports for you all. Um,
+And they they work really hard
+to do that. So I want to give
+them my thanks and my
+acknowledgement of that, um,
+before we begin, sort of a
+difficult conversation about the
+quality of that data. Um, and
+second, I want to uh acknowledge
+Joey, who is in the room as
+well. Uh, Joey, you heard from
+earlier this year, uh, when we
+were in Los Alamos, uh, is the
+director of the New Mexico rise,
+the longitudinal data system is
+currently housed at HED, um,
+any, any conversation about data
+governance, uh, particularly in
+other states, uh, it talks about
+interagency data governance or
+getting all of the agencies that
+contribute data to the
+longitudinal data system to work
+together to, to make sure that
+that data is high quality.
+Uh,
+beginning with the staff brief
+on page one. I want to highlight
+just a couple of things for you.
+So, uh, when we talk about data
+quality or high quality data,
+data, uh, we can begin with sort
+of the bottom of page one, a few
+terms or a few hallmarks of what
+we consider to be high quality
+data.
+So data quality, uh, there's
+many, many things that you can
+use to uh track the quality of
+data, but what, what I
+particularly think are sort of
+the five baseline things that
+you need for a high quality data
+set, uh, or accuracy data in
+that data set should be
+accurate. They should be
+accurate reflections of the true
+nature of things in the world.
+Uh, completeness, we shouldn't
+be missing any school districts
+if we ask for a data set that is
+for a statewide uh analysis,
+consistency, or that the data
+should be able to talk to each
+other from one data set to
+another, they should be able to,
+uh, be merged together pretty
+easily.
+Granularity or or sort of the
+level of the data, right? So if
+we're doing, uh, an analysis of
+student proficiency rates that
+should be at the student level
+and if we're doing school
+proficiency rates, that should
+be at the school level and at
+the district level and so on and
+so forth. Uh, and it makes it
+very difficult if we're trying
+to do a student level analysis
+using district level data.
+And then finally timeliness or
+uh the idea that data should be
+available when you need it uh to
+inform the policies that you
+are, you all are going to be
+looking at during the
+legislative session. We need
+data in advance of the
+legislative session so that we
+can build those analyses for
+you.
+Uh, I've been talking a little
+bit about why you all need data.
+Uh, I do want to, in the middle
+of page two, just remind you all
+that everybody needs data and
+everybody needs data for
+different purposes. Uh, so
+families need data to answer big
+questions about students'
+journeys through high school and
+into the workforce, school
+school and school district
+leaders need information that
+allows them to quickly target
+interventions, uh, and
+policymakers like you all need
+data about whether your
+investments are having their
+intended impact. And even PED
+relies on data to
+denied implementation of
+programs. So, uh, understanding
+how schools might be struggling
+to implement a program is
+something that they can pull.
+From high quality data.
+Uh, I want to sort of give you
+all a peek behind the curtain
+here, uh, into our perspective
+on data, uh, the type of work
+that we do for you and how data
+quality impacts our work and
+impacts um your ability to, to
+understand how your investments
+are working. Uh, so we'll start
+with the work work plan that you
+all approved uh early this year.
+So you all approved a very
+ambitious work plan. It was very
+lengthy, um, but there were 4
+things on that work plan that we
+considered sort of program
+evaluations or we want to.
+to take a stab at program
+evaluation this year. And those
+four things were our evaluation
+of the family income index, uh,
+a study of structured literacy,
+a study of career and technical
+education outcomes for students
+and the teacher clinical
+practice models that you heard
+yesterday, uh, and he gave a
+great presentation on.
+During each and every one of
+these projects, uh, issues
+related to data quality
+presented significant challenges
+for us to uh analyze the impact
+of your investments. Uh, we'll
+walk through just a few of those
+briefly or FII analysis or
+family income index analysis,
+uh, was hampered by a lack of
+granular relevant data. Uh, we
+initially wanted to see how
+schools spending decisions of
+the FII funds that they got
+impacted whether or not the
+those schools were successful.
+Unfortunately, the data were not
+available in a way that allowed
+us to understand how the family
+income index was specifically
+spent at each school. We
+couldn't make any sense of, of
+how schools were spending their
+family income index to get the
+results that they got to. So the
+the results of that analysis,
+well, it sort of depends, right?
+Uh, some FII schools are doing
+well and some are not, and
+here's what we found um based on
+schools capacity, and then there
+was a little caveat at the end
+of that analysis.
+that said, we need to improve
+data quality or we need to
+improve data reporting practices
+on FII expenditures. Uh, the
+second analysis that I'll call
+attention to here is the
+structured literacy analysis,
+uh, you all heard last month,
+uh, Merritt and I gave you a
+presentation of structured
+literacy initially because
+structured literacy is a program
+for teachers to train teachers
+on the science of reading. Uh,
+we wanted to look at what is the
+impact of that training for an
+individual teacher before they
+got the training after they got
+the training, right? So that
+requires 2 years of analysis,
+and it requires us to know which
+teachers got that training in
+which years? Uh, unfortunately,
+data doing data at that level of
+granularity were not available
+and so we shifted gears and we
+said, well, these schools were
+considered model schools, these
+schools were considered support
+schools, uh, and so we'll do an
+analysis of whether that was
+effective, and the resounding
+answer at the end of that was,
+well, it depends. Uh, some of
+the schools do really well, some
+of the schools don't, and we
+would love to.
+have better data on, uh, the
+effectiveness of structured li
+literacy at the teacher level,
+uh, see how those teachers
+impact individual students.
+Uh, finally, uh, our CTE
+analysis this year, this is
+probably the biggest gap in data
+that we faced. Uh, we wanted to
+understand how students
+participation in a CTE program,
+uh, impacted their outcomes and
+uh we did not get any data on
+student participation in CTE
+programs, uh, and this is
+despite the fact that we know
+this data exists because we have
+to report it to the federal
+government every year, uh, for
+Perkins. So we know this data
+exists, we know which students
+are, are.
+doing, uh, CTE programs, but we
+as staff for you could not get
+that data to do an analysis of
+whether we could see any
+outcomes, better graduation, uh,
+better, uh, proficiency rates
+for those students.
+Uh, I won't totally rehash what
+Annie talked about yesterday.
+Uh, there are some new faces
+today, so I will sort of go a
+little bit into detail about
+what we saw on the EPP analysis
+or the analysis of teacher
+residencies, teacher clinical
+practice. Um, at the top of page
+3, you've got a little table for
+you, um, that has some
+anonymized examples of some of
+the things that we had to clean
+or deal with in the EPP data
+sets that we got. Um, so you can
+see on the left, uh, so
+SE data set and then on the
+right, uh what we would consider
+to be a more clean data set that
+would be easy to analyze, and
+you can see on that messy data
+set, first of all, there is a
+thank you. I'm going to advance
+this. Um,
+So you can see on this messy
+data set, uh there is uh uh an
+ID number that was unique to the
+students at the EPP, but that
+wasn't unique to their state ID
+number. Uh, and so as a result,
+we had to merge data sets based
+on teacher names and you heard
+Annie say uh yesterday that
+that, that caused a lot of
+issues. Uh, the reason for that
+is that the names weren't
+matching between the state data
+set and the EPP data set. So you
+can see, uh, the name field in
+that.
+messy data set, things like uh
+Alexander Hamilton. It's not the
+same as Hamilton, Alexander,
+right? And that would not be
+caught in this uh merge that we
+did for names, uh, something
+like George W. is an incomplete
+name and I don't know if you're
+talking about George Washington
+or a different George W.
+Uh, John Q. Adams would not have
+been caught because there's a
+middle initial there and Samuel,
+Sam Adams, uh, would not have
+been caught because uh there's
+um the inclusion of an
+additional name in that
+teacher's name. So that that's
+the reason that when we tried to
+move from the sort of messy EPP
+data that we got to this cleaner
+sort of statewide data set. Uh,
+we've lost a lot of the data
+that we wanted to analyze, uh,
+and you can
+at figure 1 at the bottom of
+this page, uh, that step right
+there in the middle where we
+match teachers to IDs by name.
+We lost about half of the
+teachers that we wanted to
+analyze.
+I want to briefly talk on page 4
+of your brief about the data
+sharing process that uh LESC
+staff worked with the department
+to get the data that we need to
+answer your questions. Uh, the
+first thing starts all the way
+at the beginning of the interim
+and it starts with that LESC
+work plan that we talked about
+earlier. Uh, one of the problems
+with our data sharing process is
+that we create our work plan in
+a vacuum. Uh, the work plan
+that, that you all approved that
+was
+super ambitious, uh, was an
+attempt to uh put together some
+ideas about what would a high
+quality evaluation of these
+programs look like, and what are
+the data that we need to answer
+those questions. Uh, part of the
+problem with that is that those
+data, while we think that they,
+they exist, they might not
+actually exist, or they might
+not be in a format that allows
+us to analyze them.
+And so, uh, be thinking about
+that in terms of sort of that
+long term planning and vision
+conversation we had earlier this
+morning, right? Uh, if we're
+creating our work plan in a
+vacuum about the, the ideas, uh,
+that you all want to look at
+over the course of the interim,
+uh, it might not be effective
+because it, uh, PED is not in
+the room creating that work plan
+with us or telling us what is
+possible, what isn't possible,
+what are collected.
+Uh, sort of on that note is the
+second item there, PED data
+systems primarily serve the
+department's operational needs.
+So PED collects data uh in Nova,
+for example, or in OBMS uh to
+track enrollment to track
+student enrollment and to report
+on that or to monitor schools
+compliance with a particular
+program. Uh, they don't
+anticipate when they're
+collecting this data that uh the
+legislature will use these data
+to inform uh analyses during
+the, the interim.
+So in some ways, uh, we don't
+really, uh, the data are
+collected in a format for which
+they might not have intended to
+be used, uh, and so, uh, that,
+that creates issues when, when
+we start to use data for ah
+things that that might not have
+been captured in the data
+system.
+Uh, the third issue there is
+that PEB maintains many data
+systems across its many bureaus,
+uh, and each of those data
+systems sort of lives within a
+bureau at the department. So for
+example, the uh the IT arm of
+the department oversees Project
+Nova or Stars as it used to be
+called, um, the assessments,
+research and evaluation, sorry,
+assessments, research evaluation
+and accountability bureau or
+area um manages their school
+proficiency or their school
+assessment data sets, uh,
+And their school budget bureau
+manages OBMS. So all of these
+data systems sort of have
+different rules, and there's no
+guiding policy across the entire
+department about what needs to
+be included uh to make the data
+systems talk to one another.
+And then finally, uh, on the
+next page, uh, quick shout out
+to PED's Policy bureau and uh
+once you sort of take some
+ownership and some
+responsibility of the fact, uh,
+that we asked them for a lot and
+they do a lot for us. uh, and
+they are heavily burdened by
+legislative requests. So we've
+got a spreadsheet that, that
+they maintain that, that we have
+access to, to track uh the
+requests that we send them, uh,
+since June of this year, we
+have, uh, both us and LFC
+combined.
+I've asked them for 120
+different data sets and uh of
+those data if you sort of like
+equate that to the number of
+weeks it's been since then.
+That's about 6 data sets per
+week. Um, that is a, a
+phenomenal workload for the
+department and it gets in the
+way of them analyzing the data
+that they, that they can do. So
+they have a bunch of policy
+analysts in their policy shop,
+uh, who want to to do this type
+of work that we do, or I don't,
+I won't say that they want to,
+but um I won't.
+claim to know what they want to
+do with their time, but, uh, a
+lot of their time is filled up
+by uh answering uh LESC's
+request answering LFC's
+requests. And so, uh, quick plug
+that if some of this data were
+made available online in a way
+that we could query it very
+easily, uh, that could solve,
+uh, vast majority of those lists
+because we're typically asking
+for the same thing every year.
+All right, let's shift gears to
+the main topic at hand. I've
+sort of laid out the problem for
+you and data quality. Uh, I'm
+going to propose to you, uh, one
+solution that has been effective
+in other states as this idea of
+data governance. Uh, so what is
+data governance? It's, it's an
+umbrella term, and there's no
+set definition for it, so I've,
+I've provided for you, uh, in
+the middle of page 5, a couple
+of uh definitions that uh tech
+organizations use for, for their
+data governance.
+policies. So Microsoft, for, for
+example, define state government
+governance as a system of
+internal policies that
+organizations use to manage
+across, uh, manage, access and
+secure enterprise data, uh,
+Google includes additional
+details in their definition,
+data governance is everything
+you do to ensure data is secure,
+private, accurate, available,
+and usable, including the
+actions people must take, the
+processes they must follow and
+the technology that supports
+them throughout the daily life
+cycle.
+Uh, the National Center for
+Education Statistics talks about
+state education, data governance
+specifically, uh, and those
+initiatives typically have 3,
+domains or they focus on three
+domains and those 3 domains are
+listed in table 2 on page 5.
+those are greater organizational
+coordination, higher quality
+data, and improved usability of
+data. And you can see listed in
+table 2 the benefits of each of
+those sort of focus areas of
+state state data governance and
+initiatives. So under
+organizational coordination, uh,
+it helps establish a clear
+ownership and responsibilities
+among the departments that deal
+with data. Uh, it reduces and
+eliminates redundant efforts. It
+can facilitate more frequent,
+better quality communication,
+and it can standardize business
+practices over time.
+Uh, the benefits of higher
+quality data.
+It brings errors and
+inconsistencies to light before
+the data go out to, to the
+public, and it can improve the
+accuracy and reliability of data
+when it's used for the types of
+things that we do with it, uh,
+to evaluate legislative
+investments.
+And finally, improved usability
+of data, uh, it makes data more
+timely. It increases data
+security and it can improve how
+data is used to inform practice.
+So very briefly, uh, I'd like
+you all to turn with me to
+Appendix A, uh, Appendix A is a
+very tangible walkthrough of
+some of the data quality issues
+that we just discussed regarding
+the teacher residencies, uh,
+In the column on the right, you
+can see some sort of callout
+boxes there, pointing to
+specific issues or specific
+breakdowns that happen in our uh
+in our evaluation of EPP data,
+uh, sorry, you have teacher
+residency data, and you can see
+how data governance might have
+improved that, uh, particular
+problem with the data that we
+faced.
+So, for example, on the LESC
+work plan, uh, if the LESC were
+to uh establish a research
+agenda in collaboration with
+sort of a data governance
+council or oversight group, uh,
+you could set a statewide
+research agenda and that
+statewide research agenda could
+be for everybody so that
+everybody knows what needs to be
+collected and uh what needs to
+be evaluated.
+Uh, you can see where we started
+to see issues with the accuracy
+of data that a data governance
+policy could improve staff's
+capacity to evaluate their own
+data so that they, they aren't
+reporting inaccurate data to
+LESC.
+Or to PED.
+Uh, data governance policies
+could require everybody to
+report the same data, uh, and do
+it on an annual basis.
+Data governance policies could
+make sure the data sets are
+examined for completeness before
+they are shared with the public
+or with LESC, uh, policies could
+require all reports to include
+necessary information such as a
+unique ID for teachers that
+allows us to merge data sets
+together.
+Policies could ensure that data
+are shared in a timely manner,
+uh, such as 30 days after a
+request is made.
+And then finally, uh, data, or
+sorry, not finally, data
+governance policies could make
+sure that your validation, the
+validation of student assessment
+results, which is one thing that
+you all rely on happens sooner.
+Typically, we'd like to have a
+student assessment results maybe
+in August or before the start of
+the next school year so that we
+can understand sort of our
+baseline going into the next
+school year, uh, we didn't get
+uh validated assessment results
+until earlier this week, uh, or
+I'm sorry, it was, it was last
+week. Um, and then finally,
+strong data.
+governance will improve the
+quality of data, uh, and we'll
+ensure that the analyses that we
+put together for you are more
+reliable so that you can use
+them to make strong policy
+decisions.
+All right, let's turn back to
+the brief itself, and we'll
+start going on page 7,
+discussing how some other states
+have dealt with data governance.
+Oh
+I would be remiss if I didn't
+mention, uh, we've been working
+on state AI policy this year.
+Uh, we, you all heard from us,
+uh, in, I was in Chama. Um,
+that, uh, so that AI is really
+taking off that stakeholders are
+beginning to use AI and that uh
+we need to sort of develop a
+coordinated state response to AI
+to make sure that uh when it's
+used, it's used to improve the
+quality of education, uh, rather
+than substitute for a teacher in
+the classroom.
+And so we've been uh working
+with Future Focus Education, uh,
+going to policy or stakeholder
+engagement sessions with them,
+uh, and have a few bullet points
+here on those themes that emerge
+from those stakeholder
+engagement session sessions, um,
+all of those themes are things
+that a statewide policy for uh
+AI should address. Uh, and as
+you read through those themes,
+some of these are things that
+need to be sort of consistently
+evaluated, um, making sure that
+somebody is paying attention to
+that.
+there was some body at the state
+level responsible for data
+governance, uh, our proposal is
+that that body might also be the
+appropriate place to house uh
+state AI policy, and you'll see
+when we talk about other states,
+how other states have sort of
+arms of their governance
+councils or advisory councils
+that are supposed to focus on
+specific things, maybe one arm
+of our data governance council
+could be uh the AI Data
+Governance Council. Uh, all, all
+of that is to say that PED is
+working on
+on a uh statewide AI policy,
+they are collecting stakeholder
+feedback from across the state,
+uh, and we anticipate that
+that'll be put together sometime
+in the next few months.
+All right, data governance in
+other states. Um, so a lot of
+other states established their
+data governance bodies as sort
+of councils or sort of these uh
+interagency work groups to uh
+manage their longitudinal data
+systems and uh so we've got a
+few examples of that for you
+here. Uh, the first one is in
+California. Uh, they've got a
+California cradle to career or
+C2C data system, that is sort of
+put together as a longitudinal
+data system and govern.
+by a 21 member governance board,
+uh, and you can see the members
+of that governance board are
+listed on
+Page 7
+Um, and they include the state
+superintendent of public
+instruction, institutions of
+higher education, the student
+aid commission, uh, states
+commission on teacher
+credentialing, health and human
+services, labor, educators and
+legislators. 21 members is a lot
+of members, but
+California is a big state.
+Um, the governing board also
+oversees the work of the Office
+of Cradle to Career Data. That's
+an independent neutral office uh
+that's created to build the data
+system and to ensure wide,
+appropriate and legal use of the
+data system and the governing
+board also hires the executive
+director of that independent
+agency.
+And you can see in the last
+paragraph there, um, to
+facilitate that work and
+creation of the data system, the
+legislature appropriated $2.5
+million split across several
+entities that would be doing the
+work.
+Uh, in Colorado, uh, they
+created a longitudinal data
+system and an accompanying data
+of governance board, uh, and the
+bill doing it established the
+governing board that is composed
+of 5 members, uh, with 3
+advisory members as well, and
+that includes the CIO, uh, the
+state CIO, the director of the
+early childhood department, the
+commissioner of Public
+Education, uh, director of the
+Department of Higher Education,
+and their director of labor and
+employment.
+Uh, and then there are
+additional advisory appointments
+by the governor, the attorney
+general, and the state board for
+Community Colleges.
+Uh, once again, they, they uh
+break that big group into two
+smaller advisory boards. Uh,
+there's a systems build and
+implementation advisory group,
+which is very technical and very
+focused on the technology
+required for the data system and
+then a sustainability
+interagency advisory board as
+well.
+Uh, in Kentucky, Kentucky, uh,
+established what's called the KY
+Stats or the Kentucky Center for
+Statistics. Um, that is a
+semi-independent agency uh that
+is uh also in charge of
+overseeing their longitudinal
+data system, um, but they also
+serve a number of other
+purposes. Um, they, they serve
+as sort of this, this
+independent agency that
+collects, analyzes and links
+data across multiple sectors,
+multiple programs, uh, and they
+provide high quality analysis
+based on
+data in all of their systems,
+uh, to, to, uh, hope to inform
+the work of their legislature.
+Uh, and you can see that KY
+stats over time, they grew from
+this body that was supposed to
+uh only manage the longitudinal
+data system to a body that would
+uh perform that high quality
+analysis.
+And then the final example we've
+got for you is Virginia. Uh,
+Virginia is sort of an
+interesting, unique case.
+Virginia has actually had a
+longitudinal data system since
+2012 and over time, the uh
+issues and communication and
+collaboration among those uh
+data systems create a lot of
+fragmentation and so, uh, the
+Virginia actually put together a
+task force or or work group to
+study uh the the processes that
+are happening right now.
+and then come up with some kind
+of coordinated plan, uh, for
+streamlined governance structure
+in the future. So they, they're
+sort of visiting this as like an
+ongoing piece of the work rather
+than uh uh sort of building it
+from the ground.
+All right. And then on page 9,
+final page on policy
+considerations and
+recommendations for you all. Uh,
+and this is where I really hope
+to get some of your uh input,
+uh moving into legislative
+session. Uh, for those of you
+that are interested in this
+issue and want to take it
+further, uh, let's work together
+and figure out what structure
+works best. Uh, I also want to
+put in a plug. I hope to work
+very closely with, with the
+individuals in the room that I
+mentioned earlier that are
+already working on data
+governance, um.
+Because it's very important that
+we're all in alignment on this.
+So, uh, we've got some options
+for you here.
+Listed in ranking order from
+there sort of lowest complexity,
+but maybe lowest effectiveness
+to highest complexity but maybe
+highest effectiveness, uh, at
+the very bottom. And so, uh, so
+starting from the top, you could
+establish some statutory
+standards and deadlines for data
+sharing, and you could uh put
+together something that says,
+you know, we, we need our
+proficiency data in August every
+year and we need our teacher
+workforce data in uh September
+of.
+career and things like that,
+that would, uh, establish sort
+of this stringent timeline for
+the department, uh, to get us
+the data that we need. Uh,
+reason that might not be as
+effective is that it doesn't do
+anything for the department's
+capacity to do some of this work
+and it doesn't streamline any of
+the efforts. It just sort of
+says, this is what we need and
+this is when we need it. So uh
+step up from that is uh uh
+statutory provision that could
+require PED to establish some
+internal structures, uh, if, if
+you all sort of create those
+guidelines and statute about
+when you think we need data, uh,
+we could, um, a PED could put
+together uh some internal
+policies governing that, and you
+could require them to meet
+certain standards in those uh in
+in statute, essentially.
+Uh, your third option is, uh,
+sort of a task force, right,
+that would get everybody in the
+room to talk about data
+governance, uh, this might not
+be super effective for a couple
+of reasons. The first is that it
+really slows down the timeline,
+uh, you all sort of need the
+data, uh, tomorrow and um it's,
+it's not, uh, you know, taking
+another year to study the issue
+and create a task force to do
+that. Uh, it doesn't, doesn't
+make, you know, it, it gets all
+the right people in the, in the
+room to have the conversation
+and make sure things aren't left
+out, but it is a little bit
+slower than moving forward. And
+it's slightly duplicative of the
+work that's already happening at
+New Mexico Tech, as you're going
+to hear, um, they've already
+done some great work on figuring
+out what state agencies need to
+move forward.
+Your 4th option is an
+interagency data governance
+board that would sort of mirror
+some of the other boards that we
+just talked about in other
+states. Um, this could be
+something that includes, you
+know, PED HED E C E C D C Y FD
+get all of the people on a data
+governance board, uh, and start
+to have the conversations now,
+uh, rather than a task force
+that would take a year before
+that conversation happens.
+And then finally, your fifth
+option is to, uh, in addition to
+that governance board, establish
+an independent agency that would
+sort of oversee the work of that
+governance board that would act
+as sort of neutral staff that's
+responsible for collecting and
+cleaning all of that data. And
+if you want, uh, could be
+responsible for making those
+reports when necessary. So those
+are your five options. Um,
+they're not.
+Um
+Independent of one another, you
+can do sort of any number of
+these things together, um, but I
+wanted to present them now,
+certainly sort of a foundation
+of where we might be going
+before I hand it over to the
+rest of our panel. So, uh, thank
+you, Mr. Chair, and I will turn
+over to page now.
+Yeah
+Chairman Romero,
+members of the committee, can
+you hear me? Do I have to get a
+little closer, maybe?
+OK.
+I think we're good. Um.
+Thank you for having me here
+today. Um, thank you, Director
+Cina, and to Tim as well. Um, I
+think you're in really good
+hands with these two. That's a
+brilliant report. I think this,
+um, is something I've been
+working on for 20 years. It's
+not super intuitive, so I'm
+always impressed when people
+just pick it up and start doing
+the research and come to the
+same conclusions that I'm about
+to share with you. So hopefully
+this won't be too boring, um, I
+am Paige Kolski. I'm the
+executive vice president of the
+Data quality campaign. We are a
+national nonprofit nonpartisan.
+And, uh, policy and advocacy
+organization. We're based in
+Washington DC. We've been around
+for 20 years and um, and our
+mission is simple. We just
+advocate um to change the role
+of data to ensure that it works
+for everyone navigating their,
+their unique journeys through
+the education and um and and on
+their workforce journey and
+We primarily, um, I, I would
+say, you know, 90% of our work
+really is helping folks like you
+think through state policy,
+state data systems, what does
+that look like? all grounded in
+best practices. We're not making
+anything up. We really do kind
+of go back to what is working,
+and I would say after 20 years
+of having these conversations
+and working pretty deeply with
+almost every state, um, the, the
+kind of examples that Tim just
+shared with you, the, the ones
+I'm going to share with you are
+are one of the few things we
+feel very certain.
+about in terms of what works and
+what doesn't, um, as far as best
+practices go.
+So I always like to ground any
+data conversation and why, why
+are we collecting all this data
+we can get down into the weeds
+really, really quickly about
+data, but I like to bring it
+back up and talk about why this
+matters, as Tim mentioned, you
+all need data, um, so that you
+can understand what programs are
+working, what should you be
+investing in, what should you
+not be investing in, but at the
+end of the day, we're all here
+because we're trying to help
+young people and adults alike
+navigate those journeys, and
+this infographic just tells that
+story really well of what that
+looks like when
+young people are starting their
+education journey in their early
+learning experience all the way
+through into their career and
+these key transition points
+where you need information. Tim
+talked about the lack of CTE
+data. You have young people
+engaged in CTE programs, and
+they're not sure what's on the
+other side of that. And prior to
+making the decision to choose
+CTE versus another path. It's
+always helpful to have good
+information about if I know I
+wanna be a nurse, which this
+character does. Is this a CTE?
+is this community college, is
+this a 4-year program? Should I
+join the military and be trained
+there.
+Hi, this is my favorite
+infographic we've ever done. I,
+we picked nursing everyone. I
+have members of my family who
+have gone through every one of
+these routes. They're all very
+successful healthcare
+professionals, all these routes
+will get you there, but we are
+all different people in our
+journeys should look
+differently, and we should have
+good information that helps us,
+helps us get there.
+So as I just said, like having
+this robust information that is
+linked across um helps not helps
+students and families um around
+your state, but is to mention
+also helps folks like you start
+to understand what are our
+policies, how are we going to
+answer these questions, um, I,
+I'm sure if, if, you know, if
+you spent 10 minutes, you could
+come up with a list of 100
+questions you'd like to answer,
+and these are no different, um,
+you know, trying to understand
+what uh what what are our K-12
+programs that are leading to
+successful workforce outcomes
+out there.
+Um, you're all kind of engaged
+in that business of trying to
+answer those questions and get
+and get policy done. Um, in
+2023, uh, DQC released a series
+of use cases that we think of as
+an access agenda we've watched
+states and supported states and
+and helped folks think about
+those policy questions that they
+should design their systems to
+answer.
+For 20 years, but the one thing
+that we found is while every
+state has built these data
+systems, people don't have
+access, um, and, and even in the
+states with the most robust data
+systems Tim mentioned.
+Virginia earlier. They're known
+as having a great data system,
+and I worked on on the work that
+he was talking about and I'm in
+a room of 40 people from
+Governor's aides down to, um,
+you know, legislators like
+yourself and heads of agencies
+and and data folks like Joey and
+and everyone's frustrated.
+And they're like, why do we have
+so much data and so many state
+data assets, so many dashboards
+and websites and initiatives and
+MOUs and RFPs and you name it,
+and we still can't answer all
+these questions and get what we
+need to go forward. So we
+released a set of use cases
+knowing that y'all are having
+these conversations about what
+are we going to do to get the
+data out of the systems? Do we
+even have the right data in the
+systems. So these use cases
+really are about getting it out
+and should be driving you to
+think about how will we govern
+it once we
+decide what we want to do, um,
+what will be our priority as a
+state.
+Who are our priority audiences.
+Obviously you are one, but you
+should be thoughtful about is it
+parents? Is it district
+superintendents, is it mayors,
+community members, higher ed,
+um, and, and the use cases
+really are meant to help you
+start having that conversation
+and, and narrow them down.
+We've seen over time, I
+mentioned all 50 states have
+linked up their data. They have
+some level of robust P20W um
+SLDS data system. When I started
+this 20 years ago in the first
+round of federal funds went out,
+the first states started
+building it. They were really
+these um like for reporting,
+right? We're gonna report up to
+the feds. We'll put out some PDF
+lists of indicators, then the
+researchers started to get
+involved. You started to see
+more research being done with
+these data systems, but as I
+just
+said what we didn't have was
+access. What we didn't have was
+more real time dynamic reporting
+that could really get at some of
+the fine grain details of what
+we need to know. It's 15 years
+ago, understanding what percent
+of our high school graduates are
+enrolling in college, that
+seemed like an impossible task,
+and now that's a routine thing
+that states are calculating all
+the time. The questions that you
+all are asking, and this is what
+we see with data. Once I get an
+answer to this question, I go,
+that's great. Now I want to know
+this, right?
+And it kind of snowballs and
+we're now in a place where the
+questions you all are asking,
+the problems you're trying to
+solve across workforce and
+training and and universal pre-K
+and funding food and security,
+um, all of it, it's so
+interconnected. I know you feel
+that, and yet our data is
+sitting in these silos and even
+when we bring it together, it's
+not governed in a way that's
+gonna get it out so you can
+start using it to solve those
+problems. So we're starting to
+see this emerging view of let's
+start thinking about our data
+systems.
+differently and how they're
+governed so that we can do that.
+And I'm sure, I mean, these are
+just things I hear from all
+over. I'm sure you have heard
+these, you've said these, I
+can't find the data, I can't get
+it. We're investing in an SLDS.
+I still don't have what I need.
+My constituents tell me they
+don't. We have school choice.
+They can't pick a school. They
+don't know if student debt is
+worth it. How can we get better
+information?
+So we have a set of state policy
+recommendations that are about
+how do you start to modernize
+your data systems towards some
+of those uses towards access,
+and I'm not going to talk about
+all of these today, um, although
+Tim mentioned number 3, which
+I'm excited is happening. A lot
+of states are starting to do
+that. I assume like many states
+you have a ton of assets out
+there. You have initiatives and
+dashboards and websites and data
+collections and MOUs, and I bet
+if you mapped it all out and put
+it up like on the wall
+somewhere.
+You would go, oh no, that's a
+lot. Who's in charge of all
+that? Um, how are we deciding
+which ones to to make better or
+or get rid of who's using any of
+them, um, are any of them kept
+current? So it's a valuable task
+if for no other reason, um, it
+always creates an interesting
+aha moment about how much you
+actually have out there. So the
+one I'm gonna focus most on
+today is the first one, because
+if you can get your data
+governance.
+In place and solid and strong
+like Tim talked about the other
+9 so much more smoothly. The
+other 9 can happen without it.
+You can protect privacy. You can
+get access out there. You can
+get, uh, uh, you know rolling
+out access and all of that, but
+when you have governance, you
+start to have a coherent aligned
+systematic way of deciding what
+to do, when to do, who gets
+prioritized, but also it creates
+the sustainability across
+administrations across
+leaderships. So that's what
+we're seeing.
+has been really the big
+advantage of this over anything
+else. Um, Tim's definitions of
+data governance were perfect. um
+data governance is not new. It
+really is about how do you get
+your arms around your data to
+ensure it's protected and
+private and high quality and
+accessible and actionable, um,
+but the kind of data governance
+that I'm here to talk to you
+about today is that that policy
+level. The technical data
+governance is more than likely
+happening. Um, you've got
+agreements in place and
+protections and processes and
+all of that, but without the
+leadership over over all of that
+in a decision-making role. Um,
+it can be a little bit for
+naught and will frustrate you
+in, in what you can get from it.
+So we are talking about when we
+talk about this, um, about data
+governance, we're talking about
+a formal leadership level body
+responsible and accountable for
+making these.
+So I'll spend a minute here on
+this chart, um, it's wonky and
+um but it does a nice job of
+explaining um a particular
+process. So Tim described data
+governance. He talked a lot
+about this bottom, right, this
+bottom part of our data
+governance pyramid is where our
+IT folks are, our researchers,
+our privacy experts, our program
+managers, they're deciding what
+to collect. They're drafting
+best practice MOUs. They're
+sharing data back and forth,
+that chart he showed where all
+the the the
+The messy data, I think you
+called it, that's, that's those
+folks, they're cleaning it up,
+they're identifying problems.
+Now they may find us, they may
+go, you know what, every year we
+have this one problem, and it's
+because we don't have X in
+place. But we don't have the
+authority or the resources to
+get X in place. So you might go
+to your K-12 chief and say,
+well, we need this. And they
+say, well, I can't do that'll
+fix our problem, but it won't do
+it for higher ed.
+We need to talk to higher ed.
+Oh, we need to connect to
+workforce, and we need to bring
+that person in. And you may find
+that 7 years later, those people
+have turned over once or twice
+and you still haven't solved
+that problem. And that data is
+still messy and you've still
+never answered the question. So
+what this allows you to do is
+escalate an issue up to a to a
+leadership, a policy led
+leadership board, who will make
+the decision, who will say, yes,
+we are going to solve X to get
+rid of that problem.
+And we will make a
+recommendation to the
+legislature to
+it provided additional funding
+or FTE or because you have the,
+the heads of your agencies now
+that they've committed to the
+solution, they will bring their
+resources to bear on the
+problem.
+you start to see things move.
+You start to see the problems
+start to to get solved and you
+actually start to see the needle
+moved.
+And then what happens up here at
+the top, they make these high
+level decisions, you bring them
+things and say, hey, what are we
+gonna do? We don't collect
+Social Security numbers. So
+here's 2000 people, we routinely
+can't find. What should we do?
+So you're going to make a
+decision, you're either gonna
+start collecting those or you're
+going to find a new way or
+you've decided it's OK. We're
+not gonna find this 2000 people.
+So on that CTE problem, you, you
+just have to make that decision.
+Do we want to answer those
+questions, or do we not? And if
+you do, it's a matter of
+Determining um across a series
+of options that that staff would
+bring the board what um how they
+want to go about solving it, and
+then implementation comes back
+down. So, and, and this happens
+with a group of folks like you,
+you will make a decision and
+then it goes on to the agencies
+to implement. They bring
+problems back to you and say,
+please can we have more money
+and it and it keeps going that
+way with data, we don't have
+that in place, um, and then this
+middle part we call this
+translation piece. These are
+folks. These are like your ex
+executive directors of your
+state board of ed. This is like
+John and Tim, right? People that
+staff boards and do the research
+and and talk to the the folks
+implementing here at the bottom
+of this pyramid, who can suss
+out what you all need to hear in
+in a way that you need to hear
+it and write a report like Tim
+just did and, and shared with
+you.
+And can present different
+options and then you can make
+decisions and come back down.
+This is sort of the magic bullet
+that's not happening in states.
+It's this top when you hear
+states say we have data
+governance, they're talking
+about this bottom part and
+they're not wrong. But what we
+see too often is our policy
+leaders are absent from the
+conversation.
+And, and that creates a lot of
+the um.
+The inability to solve problems.
+So when you can get this in
+place, when you, when you have a
+strong leadership level body.
+This is what you get out of it,
+sustainability across um across
+administrations, your governors
+will come and go, your
+legislators, your K-12 chiefs,
+higher ed folks, and when you
+have and, and, and if you're
+just operating off of a signed
+agreement or a handshake, any
+one person leaving is going to
+disrupt that. When you have a
+board that's a majority vote, as
+you well know, two people leave,
+2 people come in, you still
+The decisions that you made, the
+work can still go forward.
+Accountability
+All of the great work that Tim
+talked about that is happening
+already. Nobody in your state
+probably even knows that it's
+happening or who to talk to
+about it if they had a concern
+or they wanted to make a request
+or they had a new idea, so it
+creates some accountability
+who's in charge? Where do we go?
+Who do I call?
+Um, transparency and trust, you
+all have a website. Your agenda
+is on there. I think there are
+people able to watch it online.
+The minutes will be posted. We
+need to do that with data, like
+data is a very political
+concept. Y'all are gonna make
+decisions based on what you
+decide is working and not
+working, being transparent with
+data builds a lot of trust into
+the decisions that you're making
+and helps people feel um a
+little bit better that you're
+collecting their data.
+Policy alignment, again, we do a
+lot of great data things. They
+aren't always aligned with what
+you all are trying to accomplish
+as a state. So you may have
+somebody over here that has a
+cool idea and some um
+philanthropy money and they're
+gonna build a dashboard and
+that's great, but could all of
+that been used to drive this,
+uh, a CTE thing maybe if, if you
+all decide that's what matter.
+And this is the path forward to
+ensuring, um, robust policy or
+privacy and, and security.
+Um, it's in place.
+So I'll talk a little bit about
+just what we've seen in other
+states, um, we started this in
+Washington State in 2007. Um,
+they passed a law. The
+legislature created the ERDC,
+um, education research data.
+Center, maybe, um, and they,
+they created it to link up all
+this data to serve them.
+So if you read that, it's a,
+it's a great system. It's a
+great website, but right now
+they, they really do just serve
+the legislature, um, which is
+great, but they, you know,
+probably should be thinking
+about other folks. Maryland came
+along in 2010. Maryland is the
+one that sort of came up with
+that board, the idea of this
+governing board, and it really
+started to change things and
+people started to pay attention.
+Kentucky, Tim talked about um KY
+stats. That is the model
+everybody's trying to get to in
+the country is how do we get a
+KY stat. And, and I will say in
+the last couple of years, the
+number of states who
+called me saying how do I get KY
+stats has like quadrupled since
+COVID. Um, they really are worth
+looking at. Um,
+And then we started to see
+states start to move a little
+faster. North Dakota did this.
+Uh, Tim talked about California.
+It was a big lengthy but high
+quality process. They got to a
+really good place. Yes, they
+have a really big board and very
+big budget, that is a very big
+state. Once California moved on
+this, we started to see a lot
+more movement. So in last year
+we saw Alabama, Montana, Rhode
+Island move, 24 Colorado, I
+think 25, uh, definitely
+Virginia, um, a couple other
+states, maybe you all, um, but
+what's fascinating about these
+states, you might notice some
+really interesting mix of red.
+blue and purple states in here.
+These are not political
+solutions. These are
+administrative solutions to
+administrative problems. There's
+this is is um a way to sort of
+wrap your arms sometimes around
+the the chaos that you see in
+your data to to try to get a
+handle on it and um if you
+looked at every one of these
+laws, you would see identical
+provisions and language.
+And most people um over the last
+15 years when they say like what
+state should we look at? We were
+always pointing to that
+Kentucky, Maryland, Washington,
+because 15 years in, they were
+the states still with the data
+system. I had mentioned to him,
+I was out here maybe a dozen
+years ago, having the same
+conversation that resulted in an
+executive order and at the time
+we didn't know, we thought, oh
+this is great, this is another
+model. In addition to Marilyn's
+lot, now we've got this
+executive order in New Mexico,
+but you all know when a governor
+leaves an executive order.
+May or may not stay. It may or
+may not have a lasting um impact
+that you want. So we don't
+really recommend that anymore.
+Um, and there's been a couple
+other models along the way that
+looked promising, but sort of
+fell by the wayside, and these
+were the three states that 15
+years into their work are still
+producing tremendous work and
+have
+An insane amount of credibility
+and trust in their state and
+among all their participating
+agencies, um, where you don't
+see that very much in, in other
+places.
+Um
+This is just another way of kind
+of laying that out. Tim talked a
+little bit about how these
+states did this, um, California
+and Virginia did start with a
+legislated, uh, task force, um,
+and by the way, all of those
+states I worked with every one
+of those states to do that work.
+So I know the intricacies of the
+pros and cons of of everything
+that they're doing, um, we just
+wrapped up the Virginia task
+force. The report just went into
+the legislature November 1,
+they're drafting a bill right
+now, so we'll see how that comes
+out, but it is largely
+based on what California did.
+Um
+And then again, just a different
+way of the same information just
+to show this from a timeline
+perspective. A lot of people
+say, well, how long does this
+take?
+California spent 18 months with
+their work group and then I
+think once they were done, um, I
+mean it the legislating didn't
+take very long. That was maybe 5
+or 6 months, they stood up their
+governing board and their cradle
+to career office in late 22,
+they're about to roll out their
+first dashboard this fall.
+So it took a while, but they
+they got a lot of buy-in with
+the task force and a lot of buy
+in through with the board, but
+they had zero data system.
+That's data not linked up
+anything, and I gave them a lot
+of grief about that since I'm
+from there and they're big and
+they invented digital everything
+for all of us, and yet they
+still hadn't done anything and
+uh and now they've kind of
+leapfrogged, um.
+Even some of our leading states
+with this work.
+So some things for you all to
+think about next, um, is really
+looking out, you know, what are
+those best practices from, from
+every state. That is what other
+states have done, that is what
+we just helped Virginia do. um,
+we just worked with Colorado,
+um, to get that law done and
+really look at how, how can what
+other states are doing? How can
+you pull out these best
+practices and apply them in your
+own unique.
+Um, place. They're not all gonna
+look the same. They are all a
+little bit different while still
+adhering to um certain um things
+around decision making,
+accountability, transparency,
+and um, um, um.
+that will come to me. Um,
+Thinking about emerging
+technologies, um, Tim mentioned
+AI. I think this is a great kind
+of board to add in some AI
+responsibilities because
+There are some promising uses
+that folks are talking about,
+both on the back end to build
+the data system, to clean the
+data, to match it, but also to
+enhance a user experience. If
+you've ever tried to read a
+chart late at night, um, even,
+um, whatever your degrees in
+education may be, it's hard, um,
+especially a parent, and like I
+love the idea of a little tool
+that I can click on that will
+just stay in sentence form with
+this chart is supposed to say,
+and I'll have to figure out the
+X and the Y and all of that. So
+AI is another way to go.
+All of these things that I know
+you all are trying to do,
+getting that agency, getting the
+governing board, it is really uh
+Uh, straightforward transparent,
+um,
+Expedient way of getting this
+work done.
+And that's all I have for you
+today. I'm happy to answer any
+questions, but maybe that's,
+maybe that's at the end.
+Thank you.
+Uh, Mr. Chair, senators,
+representatives, my name is
+Michael Smith. I'm the director
+of ICASA, the Institute for
+Complex Additive Systems
+Analysis.
+Mr. Chairman, members of the
+committee, Stephanie Meyez, I'm
+so happy to be here with you all
+this afternoon and talk about
+this very important issue. I
+have the privilege of working
+with ICASA at New Mexico Tech on
+the state of governance project.
+So with that, we are gonna jump
+right in. I am conscientious of
+the time, and I think we're
+going to be extra concise in our
+presentation. Much of the
+content we are sharing with you
+all today is um not on screen,
+and it's back on screen. Um, it
+is very much in alignment with
+what Tim and Paige have already
+shared. So I will, um, just jump
+right in. Our agenda today
+includes overview of what ICASA
+is. And what we're doing at
+Casa, specifically around data
+science in the public interest.
+We'll also talk about the
+statewide data governance
+project, as well as share with
+you some preliminary findings
+from our research.
+And we'll discuss the future of
+the project and really dig in on
+how you all can engage moving
+forward.
+I had here a section on talking
+about the importance of data
+governance. I think we just
+spent the last 40 minutes
+hearing about the importance of
+data governance, so I would just
+echo everything that Paige and
+Tim have already said, it's
+important for outcomes and some
+important for your all's ability
+to make data-driven decisions,
+both on the fiscal side as well
+as on the policy side, and for
+people running programs to have
+access to data to understand
+what's working and what's not
+working.
+Um, so with that, I'm gonna turn
+it over to Michael to talk about
+ICASa. Sure, um, Mr. Chair,
+senators, representatives, uh,
+first I wanna say um wonderful
+job to Paige and Tim, that was,
+that was really good, you guys
+would get along with a psycho.
+Um, OK, so more about ICASa
+really, really quick. So I costa
+began in 2001, so there's a line
+item in the legislature that
+says ICASA gets funding, and
+we're funded through research
+and public service projects so
+we're we're an RPSP, um, so July
+of 2001 is when it started and
+funding has incrementally
+increased over the years, um,
+uh, I think we started around
+300,000 and now we're about 1.1.
+$2 million in funding, um, our
+mission over the years has been
+protect critical infrastructure,
+uh, solve complex systems types
+of problems, uh, for mostly the
+Department of Defense. So from
+2001 to 2017, we had a very
+specific DOD customer, um, and
+agency agencies that we
+supported, um, all of all of the
+problems that we supported
+involved data.
+And systems and processes and
+helping subject matter experts
+with their solve their problems.
+Um,
+It involved stovepipes of data.
+How do we aggregate that data?
+How do we tell a story with that
+data, um, you know, pulling out
+intelligent information to help
+them make decisions, basically,
+in 2017, we lost that very
+Important contract due to leaks.
+From the agency that we were
+working with, um, a guy named
+Edward Snowden didn't help
+contracts across different
+universities. Um, so New Mexico
+Tech is one of the places that
+lost the contract.
+Um
+So, we really had to learn how
+to do business development
+again, and we thought to
+ourselves, all right, we're
+known nationally, we're known
+internationally, um, let's take
+all the good information that
+we've learned and experienced
+that we've learned over the
+years, and let's help our state.
+We consult, we can do this. We
+can solve problems within the
+state of New Mexico. So in 2017,
+we began working with different
+state agencies, Department of
+Public Safety, a 2nd District
+Attorney's office, First
+judicial District Attorney's
+office.
+Um, helping them solve their
+problems. Um,
+Next slide
+Oh, I guess I could.
+Uh,
+so while we're helping these
+different agencies solve their
+problems, we created a portfolio
+name, Data Science in the Public
+Interest. So we, we solve data
+science in the public entrance
+projects. Um, so we have a group
+within ICASA that is focused on
+state of New Mexico types of
+problems, um, working with
+subject matter experts, working
+with their data, helping them,
+help, helping them do their jobs
+faster, more efficient, um,
+based on the technology, um, and
+the
+Software development and our and
+our researchers implement to
+help them implement solutions.
+I think, I think that's, that's
+good for now, since we're a
+little limited on time.
+So as you can see, iCosa is
+uniquely positioned to take on
+this chart to really map out
+what our existing data
+governance infrastructure looks
+like in the state of New Mexico
+and you all appropriated
+$480,000 during the 2024
+legislative session. And um
+really are interested in
+learning more about what data
+governance looks like in New
+Mexico and it was interesting to
+me to hear on Paige talk about
+your recommendation under number
+3 in the
+importance of mapping out assets
+and I believe it was Tim, your
+recommendation number 4 that was
+very similar and um it's
+heartening and validating to
+hear that this body is also um
+prioritizing that and has funded
+this this initiative.
+Given that we are in the initial
+stages, we are um excited to
+share with you some preliminary
+findings. Again, I had a section
+on how it relates to the LESDA
+don't necessarily know we need
+to dive into that since we've
+talked about it for the last um
+40 minutes or so, but I will say
+that this is a 2-year
+appropriation and our
+methodology is fairly complex.
+We have been approved by the
+institutions by New Mexico
+Tech's IRB.
+And it includes a deep dive
+landscape analysis and mapping
+of data quality controls of what
+systems and controls are in
+place to ensure that data is not
+compromised at the agency level,
+how agencies are sharing data,
+how they're collecting data, how
+they're utilizing data,
+particularly across agencies and
+to also identify those areas
+where data sharing and
+collaboration is happening and
+is happening effectively. In
+addition to that, we have a
+qualitative survey.
+that we've released to all of
+our stakeholders. You all may
+have already received this
+survey as well, and we're really
+interested in better
+understanding how you're all
+engaging with data and what you
+feel like the needs are um
+around data. In addition to that
+were um conducting a deep dive
+best practice analysis of what
+other states are doing and
+really interested in working
+more closely with Paige and Tim,
+um, on the education side. I
+think that's another um
+important piece to highlight is
+that
+this particular statewide data
+governance project is not
+specific to education. Education
+is a key component of it.
+However, our project really
+encompasses all issue areas
+across the state.
+So, as I mentioned, our, um, oh,
+I would actually like to mention
+within the methodology, one key
+component is technical
+application.
+So really leveraging the
+projects and the work that's
+already being done at iCASA
+working with state agencies,
+particularly those projects that
+engage multiple state agencies
+and um identifying what are some
+of those challenges, what's
+working with collaboration among
+agencies, we presented at CCJ
+yesterday, so we were here
+yesterday talking specifically
+about some of those projects
+within the context of criminal
+justice. I'm Charles Rock is
+here with us. He is our senior
+software developer at iCASA.
+And shared some very interesting
+findings around the work in
+criminal justice. So the
+technical application piece of
+the project is a big one, and
+you all will likely hear more
+from us about that in the
+future.
+Our preliminary findings, this
+is based on our initial
+stakeholder interviews, and
+they're very much aligned with
+the brief that Tim shared with
+you. I believe it is on page 1
+and 2, the key takeaways. What
+are some of the challenges that
+were identifying within the
+context of data governance in
+New Mexico. And I'll just start
+at the top. Really, it's, it's
+there there's some collaboration
+happening.
+Um, across agencies around data
+sharing, however, they're often
+really siloed by issues. So for
+example, in education, there
+might be some data sharing
+happening between PED DWS and
+HED with LESC.
+However, how are there um data
+sharing initiatives taking place
+across to maybe CYFD or HSD, um,
+we know that a student perhaps
+may be receiving multiple
+services from multiple different
+agencies that aren't specific to
+education. Maybe they're
+receiving uh public support
+around health care. So how can
+we help agency heads and you all
+as policy makers, um, make sure
+that those agencies' data are
+able to speak with each other to
+interact.
+Just one another and um provide
+you with the information you
+will need to make the decisions
+you have to make. We've also
+identified, and I think this
+won't be news to anybody in this
+room, that agencies are under
+resourced when it comes to
+engaging with data and
+technology, um, and not just on
+the system side, we have seen
+that there are systems that are
+outdated, um, that unfortunately
+are not able just from a
+technical standpoint, able to
+interact with other systems and
+other agen
+There's also a very clear gap in
+personnel and technical
+expertise at the agency level.
+Not all agencies have analysts
+such as Tim and, you know, or
+senior software developers like
+Charles within their agencies to
+be able to help them engage with
+their data better.
+Um, and then we've also
+identified that there are
+limited data management
+protocols in place, I talked
+about the systems and the
+softwares and different agencies
+using different agencies using
+different vendors, um, making it
+a challenge to interact with one
+another. I do want to lift up on
+the positive side, there is a
+real appetite across the state
+and within the agencies and even
+our quasi-governmental agencies,
+like, for example, the New
+Mexico Sentencing Commission on
+to really collaborate and to to
+solve
+for the state governance issue
+and to build a strong foundation
+of data governance
+infrastructure that will help
+all of us in all of our issue
+areas and in our various roles.
+Um, and that that collaboration
+is really driven by the end user
+and that policymakers are at the
+at the table for these
+conversations as well. So I
+really appreciated that piece,
+page that you lifted up in your,
+I actually thought your pyramid
+was great. It was very
+intuitive.
+um.
+So what is the project look like
+moving forward and here in, in
+your um in your packet, you can
+see it is, as I mentioned, a
+two-year appropriation. We're
+going to continue gathering data
+and engaging you all in other
+stakeholders through early 2025.
+Um, we are not mandated to
+submit an interim report,
+however, we feel like it's
+important to keep you all in the
+loop to answer any questions
+that you have to support
+initiatives like the one that's
+um like the ones potentially
+That Tim spoke about in terms of
+legislative solutions. Um, and
+so we will submit an interim
+report to the LFC and to you
+all, um, in January of this
+year, we aim to begin phase two,
+the technical piece that I spoke
+about in the spring of 2025
+implement and complete that
+phase 2 in the fall of 2025 and
+submit our final report to you
+all and to the LFC in the spring
+of 2026.
+I think um as members of this
+legislative body, you all have,
+uh, very important role to play,
+not just in setting policy and
+making financial decisions, but
+also contributing to the public
+discourse around the importance
+of, of data um page referenced
+this early on in her
+presentation, which I really
+appreciated. I can't remember
+specifically the words you use,
+but data is not always the most
+sexiest of a topic. It is,
+however, extremely important.
+And I think you all understand
+that and I think you all being
+ambassadors.
+to that, um, thinking in that
+narrative is extremely important
+as you talk with your colleagues
+in the various chambers as well
+as externally, so that narrative
+piece um would be a call to
+action. We also would ask of you
+and then thinking through those
+potential policies, the bills,
+and um legislative initiatives
+that Tim referenced and also
+thinking and considering about
+funding for our phase 2 of the
+statewide data governance
+project.
+And that concludes our piece of
+the presentation. Thank you, Mr.
+Chairman and members of the
+committee.
+All right. Thank you all so much
+for the presentation. It's great
+to see you back, Representative
+Maas.
+All right.
+members
+Questions
+Oh, OK. Represent Garrett?
+Thank you, Mr. Chair. Thank you.
+It's good to see you all in the
+same room today, yesterday.
+I, I guess, um, Tim, going back
+to what you said, and this
+applies to ICOs and everything.
+I'm looking at page 9 policy
+considerations.
+And you mentioned that it
+wouldn't be, there's 5 levels.
+I mean, ultimately it looks like
+number 5 is what we need.
+an independent agency
+responsible for staffing and
+data governance board.
+Can, can you guys, especially
+from my Casa and Tim, can you
+just comment on that?
+you know, I once did a a PR
+thing in New York City. I asked
+100 people what they meant by
+towards the more more perfect
+union, and I was thinking of the
+Constitution and roots of our
+country, 25% said uh trade
+unions, 25% said the union
+underwear.
+25% said marriage and
+relationships. So it's like when
+we talk about what we need data
+for, it's like
+You know, there's education, but
+then there's all the things that
+Paige talked about career in
+college, um,
+Um, corrections that, you know,
+economic development. Can, can
+you just
+Kind of give me a picture of
+what
+You think in relationship to a
+state independent agency or in.
+Uh, certainly. Thank you, Mr.
+Chair and thank you,
+Representative Garrett. Um,
+I'll, I'll start and then I'll
+hand it over to our, our
+colleagues from ICASA. Um, the
+What you've got in front of you
+on page 9 is sort of steps,
+right? Or or not steps, but sort
+of graduating degrees of, of, of
+complexity and of rigor and of
+uh difficulty to do. And so,
+well, number 5 is uh potentially
+the most uh effective solution
+that you have in front of you,
+uh, and it's what a lot of other
+states are doing around this
+issue. Um, it, it's also
+probably the most complex and
+difficult to get done. Um, and
+what, what I would want to do
+if, if, if that's the
+direction that you're interested
+in going, uh, is worked very
+closely with, with PED with HED
+with the other agencies, uh, to
+make sure that we build it in a
+way that um number one honors
+the work that they already do,
+uh, and allows them to continue
+their work without uh without
+sort of interruptions that like
+we saw with Project Nova where
+we had basically a year without
+good data, um, and, and sort of
+number 2 would be uh to elevate
+the work that they do in a way
+that, that um streamline
+streamlines their processes.
+Makes things highly effective.
+So, um, my intent would be, uh,
+because that's an extremely
+collaborative process, um, it,
+it, you know, it would be
+difficult, but I don't think
+impossible to get done this
+year.
+Mr. Chair, senators
+representatives.
+When I read number 5.
+I look at our ICO's experiences
+from 2017 until now, and I feel
+like that is what we are, we are
+doing, um, it's not, I don't
+feel like we've been established
+as the the trusted agent to do
+the work. I think that's
+something you all would have to
+do, but I, I feel like that's,
+that's what we, what we do do.
+We
+You know, I don't feel like we
+have a political side. We just
+are technical humans that want
+to solve problems. We want to
+sit down and help y'all do your
+job better. Um, we understand
+technology, we understand
+science, we understand research.
+That's, that's the way we think.
+It's.
+It's fun for us, so.
+Mr. Chair, Representative, if I
+could just add, um, I hope it's,
+I hope it's clear that this is
+not a coincidence that we talked
+about long term planning this
+morning and their governance
+this afternoon, and I think, uh,
+to Michael's point, some of this
+is already happening. We have an
+LDS that's getting there. We
+have folks who are looking at
+data governance across the
+state.
+I would, I would say the same
+thing I said about a lot of the
+other good efforts that are
+happening in education is that
+they're happening.
+But whether or not all the right
+folks are at the table talking
+to each other about what that
+means for all these different
+systems and whether or not.
+To your point, we're all talking
+the same language. I think is is
+is an important step here.
+And it could be that sort of
+that next place where people
+actually sit down together to
+determine what's already
+happening.
+And then how do we get to the
+next, the next level, if you
+will.
+Yeah, cause Mr. Chair and in
+relation to what you just said,
+one of the things from the
+sporting was, we have fragmented
+excellent work.
+And just the fact that yesterday
+you guys were, I don't know if
+all of you were there, but, you
+know.
+course corrections and justice
+and
+And uh getting them.
+Sometimes these committees are
+messy because the same group can
+present to 6 different
+committees.
+Instead of having
+The issue with everybody from
+the 6 committees together.
+Anyway, thank you.
+in Luhan.
+I appreciate the time. Thank
+you, Mr. Chair. Um, um, as we
+are planning, and I appreciate
+that too, the plan, the, the
+long term plan, the planning I
+have to.
+Um, as with the data governance
+systems and everyone.
+Speaking the same uh.
+technical languages.
+The access languages for
+disability communities. How are
+we integrating that into our
+planning, Mr. Chair.
+Uh, certainly represented, uh,
+Mr. Chair and Representative Lu
+Han, that's, that's an extremely
+important point, uh, and, and a
+point that maybe I should go
+back, uh, as well, um, the, a
+very strong voice coming out of
+our AI stakeholder engagement uh
+was from uh tribes pueblos and
+Indian nations, um, to ensure
+that their data, uh, that
+they're, they're putting into
+sort of these AI models or
+whatever, um, the, the state
+ends up putting together for AI
+is protected and secure and so
+Um, that, those types of
+considerations are, are the
+exact conversations that a data
+governance board should be
+having, right? Uh, and so
+representation on that board,
+uh, from, from the communities
+that you mentioned from our
+tribes, nation and pueblos, um,
+should, should, um, very much be
+advocating for those types of
+policies.
+If, if I can add, Mr. Chairman,
+Repsentative Luhan, thank you
+for that question. That is one
+key research question in the
+statewide data governance
+project is what is data
+governance look like currently
+and what's in place as it
+relates to an impacts our most
+vulnerable communities, so thank
+you.
+Thank you, Mr. Chair, and, and
+I'm bringing that up too because
+I am actually looking at a bill
+for a digital accessibility, so
+that, that would be part of a
+big part of this conversation.
+I, I would hope and I'd love to
+further that conversation, thank
+you.
+Other questions from members.
+All right. Um, I did have one
+question. Um,
+Mr. Smith and and represented
+May if um
+When you talk about the budget
+piece and phase two, the
+technical piece. I was wondering
+if you could elaborate on what
+was planned for phase 2.
+Mr. Chair, senators
+representatives as we go through
+the data governance piece and
+talk to each in English, uh
+sorry, each agency.
+Uh, the technical piece would
+be, OK, now how can I cos it get
+in there and help each agency
+with their problems.
+Mr. Chairman, Representative,
+um, uh, just to build on that, I
+think we are have the
+opportunity as we are having
+these stakeholder conversations
+to identify some unique
+challenges um during the CCJ
+committee meeting yesterday. It
+was brought up that there could
+be an opportunity to support the
+real-time crime.
+One stop shop working with the
+administration center um and how
+they're engaging with other
+judicial entities and how
+they're sharing data that there
+are some challenges there, and
+again, this isn't too throw
+anybody under the bus or too
+oftentimes the challenges really
+are centered around lack of
+resources, um, and so it's not
+an unwanting or a pushback, um,
+but I think to um Michael's
+point, really were identifying
+those technical opportunities
+and application.
+op port un ities as we uncover
+them and they become apparent
+during our interviews, Mr.
+Chairman. Great. I certainly
+appreciate that. I mean, because
+being able for
+Us as policymakers, um, staff
+that's working with us on the
+research side of what we're
+working on having this
+information, not just
+necessarily like you all
+mentioned here with an
+education, but what's happening
+elsewhere, um, it would be
+tremendously helpful and a big
+help for us, um, in the work
+that we do and interpreting it
+and then deciding um where we're
+going to go with that
+information, um, but thank you
+all very much and we look
+forward to the work ahead.
+Thank you, Mr. Chairman. Thank
+you. Thank you.
+So we'll go ahead with item 10,
+so everything's behind tap 10
+members of school attendance, so
+continuing on with school
+attendance. So we have Jessica.
+With us
+Along with Mr. Adams.
+From CYFD.
+Oh, please, Jessica, when you're
+ready.
+All right. um, thank you so
+much, Mr. Chairman, members of
+the committee. Um, this
+afternoon, I'm getting some
+echo. Let me move this screen
+back a bit.
+Uh, this afternoon, we're going
+to be continuing our
+conversation of school
+attendance. You all have been
+working on this, arguably for
+years, um, it's looked a little
+bit different in our post
+pandemic um environment where we
+saw chronic absenteeism soar,
+and one of the items that you
+all have asked us to look into
+is the CYFD component, and so
+this is following up on a couple
+of presentations we've already
+given you. You'll remember about
+a year ago actually, we did a
+very large kind of statutory
+review, and then we
+Come before you twice on
+attendance, um, so we are joined
+by a Mr. Corey Adams, who's the
+deputy director of juvenile
+Justice Services with CYFD and
+um we asked Mr. Adams to really
+kind of speak through what
+happens um when CYFD is engaged
+on school attendance. Just as a
+primer for all of us, this is
+referring to at that tier 4
+level, um, there is a call for
+um excessive absenteeism to
+actually be reported by local
+school.
+Boards are governing bodies of
+charter schools and actually
+then work with superintendents
+or those head administrators to
+engage CYFD and potentially make
+referrals to that. And so, um,
+Mr. Adams has some different
+data for us to actually see the
+depth of how many of those
+referrals are happening and then
+just kind of walk us through
+what that actually looks like,
+so with that, I will pass it
+over to Mr. Adams.
+Sure. Thank you, Mr. Chair,
+members of the committee and,
+and a special thank you to
+Jessica who's been a tremendous
+help throughout this entire
+process. This was kind of thrown
+together last minute as far as
+me coming up here. So I really
+appreciate the assistance. Um, I
+thought I would start today
+really just kind of go through
+kind of how the process works,
+uh, with juvenile justice and,
+and how we tie in to um to
+absenteeism. Uh, I did bring
+some some data for FY 23 and FY
+24 was probably best if I go
+through and kind of explain the
+system and that
+I think that will kind of help
+explain the data a little bit,
+so, um,
+We'll start off just by saying,
+um,
+Attendance is attendance issues,
+absenteeisms is incredibly
+important to to CYFD and and JJS
+especially when I say JJS in
+juvenile justice system. I'm
+referring to juvenile probation
+officers who all work under,
+under me. So, um, it's
+incredibly important to us. We,
+we acknowledge, we recognize,
+uh, data tells us that if, if,
+if we have an absentee or a
+truant student and that
+continues over a period of time,
+it's very likely that that, that
+individual is going to end up
+In the referred back to the
+office for a delinquent offense
+within the next year. I mean, we
+ran numbers on that. I was a
+part of a committee that did
+this in Curry County, and we
+looked at our numbers, we
+tracked our numbers specifically
+over a year, and, and yeah, we
+determined 75% end up back. um,
+within the next year for a
+delinquent offense. So, um,
+What, what
+The role of juvenile probation
+plays um in these referral, in
+this referral process. Once they
+reach that, um,
+Tier 4 status. The schools will
+make a referral. They send that
+referral, um, to the juvenile
+probation office. Uh, there is a
+handout there, um, absenteeism
+referral that is on the PED
+website we generated that
+referral so we'd have a uniform
+referral statewide, uh that all
+school districts could use. I
+worked with PED to get that on
+their website. Um, so they can
+go in and fill that information
+out. They make that referral,
+they send all collateral
+information as well, uh, the
+probation office will review the
+referral.
+Um, typically it's the chief for
+the JPO supervisor in that
+district that does that and then
+they will appoint, they will
+assign it to a, a juvenile
+probation officer, as long as
+the referral is uh complete.
+Um, after that happens, the JPO
+will then uh schedule a meeting
+uh with the schools, at the
+schools, with the with the
+client, with their family, um,
+to review all the, all the
+information that's been
+provided, review what attempts
+have been made by the schools
+to, to have an impact on the
+students um at school
+attendance, um, what we're
+looking for during that, during
+that meeting is, um, kind of an
+outside perspective, uh, you
+know, there, there are some
+things that we have access to
+that.
+The schools might not, um,
+there's some things that, you
+know, some situations that we've
+come across that, again, our
+experience can, can be very
+valuable in those situations. So
+we'll offer support to the
+schools, to the families, and,
+and try to come up with a
+collaborative decision on what's
+in the best interest of that
+child moving forward. Um,
+We will make a decision, uh, and
+then process our case and we've
+got several options on how we do
+it. I, I think it's important to
+acknowledge when we talk on in
+juvenile justice terms and in
+juvenile probation. There's
+really two different types of
+cases that we deal with. We deal
+with informal cases, which are
+cases that don't go through the
+court system. They're just
+handled through our office with
+an agreement with the family and
+the client, um, and then we're
+talking formal cases, which are
+cases that actually flow through
+the court system.
+And the judge will make a
+determination, so, um, truancy,
+absenteeism falls under the
+informal category. It is not a
+delinquent act in this state. So
+our hands are a little bit tight
+when, when we get there to these
+meetings, um, we don't walk in
+with quite the stick that I
+think people think we do at
+times. Um.
+But again, our goal is to try
+to, to try to get to the, you
+know, to get to what's causing
+these, these absences. What's
+causing these issues? And then
+try to help the client or help
+the family in any way that we
+can to encourage them to go to
+school. So, um, we can
+As you can see from the data, if
+you can switch to FY23 data, um,
+I've got it kind of broken down
+as far as how all the referrals
+are handled, um, or were
+handled, uh, assessed and
+referred when I'm talking about
+that. I'm talking about a case
+that is, as JPO comes, um, into
+involvement with the case, maybe
+the schools have already
+referred to a program, or the
+parents have already set
+something up, we're satisfied
+with that. And so we'll close
+the cases assessed and referred
+and just kind of monitor and
+make sure that they're following
+through with what has already
+been set up.
+Uh, you'll see CCA reject
+because absenteeism or truancy
+is not a delinquent act in the
+state of New Mexico, um, and
+with the changes in the act from
+a few years ago, there is no,
+there's no CCA referral. We
+can't, we can't refer it to the
+district attorney. There's no
+legal action that can be taken
+against the family or the
+client. So, um, we, we have
+attempted to at the request of
+school districts and we've had
+some DAs at times say, hey, send
+us this case and let's see what
+we can do. Ultimately, those
+over the last few years, they
+just get rejected because
+Cause they legally they can't
+proceed through the court
+system.
+Um, informal conditions cases
+are cases where we will refer a
+client to um a community-based
+program, some something
+available, uh, to address the
+needs of that client. It's,
+it's, it's just depending on
+what the, what each individual
+case, you know, shows, and then
+the JPO with their knowledge of
+what's available in the local
+community. We'll, we'll make
+that referral, assist the family
+in doing that, and, and sign it,
+get them set up with whatever
+program they need to go into,
+um, and then we'll follow up
+with the program. We'll monitor
+and making sure that they're
+attending, making sure that
+they're
+Get what they need to get out of
+it. When we talk informal
+supervision.
+We actually have, uh, it's
+called an administrative
+probation agreement. It reads
+just like our standard juvenile
+probation agreement for
+delinquent offenders. Um,
+But it is a voluntary agreement.
+It's an agreement between the
+family and the juvenile
+probation officer that we, that
+they will follow the that client
+will follow the set of rules for
+a period of time. Um, and then
+we will, um,
+Again, we'll monitor, we'll
+check on the client on a regular
+basis. We kind of run it like
+probation, but the, the
+difference is really if they
+violate that, we don't, we don't
+have a lot of teeth behind it.
+It's, it's, we document and and
+keep that information for if a
+client ends up back in our
+office again later on, but, um,
+there's not a lot that we can do
+through the leak through the
+court system. Um, and then
+you'll see no further action at
+the bottom and no further
+action. Um, there's a lot of
+different reasons that cases
+would wind up in that category,
+um, one, again, the situation's
+already been dealt with.
+By the time that we, we become
+involved and we get there. So
+that may be a reason for it, um,
+because this is not a delinquent
+act because it is an informal
+thing. It's really voluntary in
+the family and the client's
+part, so they basically can tell
+us no, we, we're not doing this,
+and um we do our best to
+convince them and try to show
+them how it's going to be in
+their best interests and this
+and that, but they, they, they
+have the right to say no, and if
+they don't want us involved at
+that point, then there's really
+very little we can do beyond
+just, again, documenting and,
+and keeping track of the
+We had that referral and that's
+how they chose to deal with
+that. So, um,
+As you can see from FY 23, there
+were 647 total absenteeism
+referrals uh sent to the, to the
+department. Um, again, 113
+assessed and referred, 160 were
+handled through informal
+conditions with 126 of those
+cases being completed
+satisfactorily, um, informal
+supervision was 37 clients, and
+again that no further action is
+a big category, 336. Um,
+I should, I should back up for a
+second on the no further action
+cases. We will also
+Document some cases is no
+further action if the school
+does not send us a complete
+packet.
+Um, if it doesn't have
+documentation of the missed of
+the missed classes and things
+like that. If it's not a
+complete packet, um, there's
+another handout here that says
+the school checklist follow-up
+request. That is just, uh,
+again, a, a standard letter that
+we send back to the school again
+after we review the referral. If
+there's something that's, that's
+not there, that's missing, that,
+that needs to be a part of it.
+Uh, we'll send that, that form
+letter back to the school and
+they have 30 days to respond
+back to us and get that.
+information back to us so we can
+move forward. If they choose not
+to do that, then we have to
+close out the cases, no further
+action.
+So, um,
+We can look at, uh, numbers for
+FY 24. Also, if you like, it's,
+it's, we were up to 8040
+referrals, so we had a 200
+referral increase over that
+fiscal year. I do apologize. I
+was not able to get FY 22
+numbers, uh, printed, but I
+can't tell you in FY 22, we had
+410.
+Uh, true to your referral
+statewide, and, and I'll get it
+to you, I'll, I'll put it in
+this format and get y'all a copy
+so you can see where those come
+from on the back of those
+handouts, um,
+You can see the referral source
+in county, typically when, when
+it says school, that's from a
+school district within that
+county. Uh, the other will be
+sometimes it's law enforcement,
+sometimes it may be a parent
+referral, um, these technically
+in our system are family in need
+of services referrals. So
+anybody from the community can
+make this referral. So, uh we'll
+receive them from, from outside
+sources at times, maybe, uh,
+different providers that are
+aware of this problem or
+whatever, they'll send us the
+referral as well, so
+Um, but just to get an idea of
+where we, where we're getting
+referrals from, and, and, and
+kind of why we've seen some of
+this fluctuation over the years.
+I mean, you've got, um,
+You know, you've got some
+significant, I mean, just, just
+looking at the difference
+between um Eddie County and FY
+23 had 76 referrals in FY 24,
+they had 201.
+Absenteeism referrals, uh, uh,
+Curry County in FY 23 had 161
+referrals, um, and then in FY
+24, they had 12.
+So, I, I, I'm not sure, I don't
+think it's necessarily the
+school district is, you know,
+all of a sudden handled all
+those cases, I think a lot of
+cases just weren't getting sent
+our way. I can.
+Speak to some of the issues that
+have gone on in some of the
+districts. I've, I've had some
+conversations with folks in
+those areas so I can speak to
+some of those things. Um, if the
+committee would like, but, um,
+really, I just wanted to kind of
+lay out the basis for how we do
+this and then um make myself
+available for questions. Uh,
+this is the juvenile justice
+system is complicated. The
+absenteeism is incredibly
+complicated. Um, it's hard to
+describe it all. It's best just
+to kind of respond to questions
+and try to educate you as best
+as I can, so, I will turn it
+back over to you.
+Great.
+Thank you so much. So
+Representative Baca.
+Thank you, Mr. Chairman and
+thank you, uh, Mr. Adams for
+your
+Uh, presentation on the process.
+Um,
+One of the, the things that you
+kind of said that kind of struck
+me a little bit was about the
+communication between the school
+districts. It, it has been, you
+know, and through my committees.
+I have
+Really emphasized.
+That we cannot be functioning in
+silos. And so the question, Mr.
+Adams, is what types of
+activities have you done to
+increase partnerships.
+And communication with our
+school districts because I think
+that
+Um, that
+We, we probably need to do a
+better job on both ends. So, can
+you tell me, uh, Mr. Adams, uh,
+thank you, Mr. Chair, uh, Mr.
+Representative, um,
+So it, it, this is something
+that I've been in this position
+now for 3 years, and it's been a
+bit, it's been a prime goal of
+mine to improve communications
+statewide to try to educate
+folks, and I'm not just talking
+about school, which is I'm
+really talking law enforcement
+and, and judges and DAs and
+everybody's familiar with their
+part in the system, but nobody
+has a true picture of the whole,
+very few have a picture of the
+whole system, so, um, one thing
+that we've done over the last
+couple of years, we're doing
+some, uh, community summits, uh,
+juvenile justice summits, uh,
+we, to this point, we've done 3.
+My goal is to do 3 a year, um,
+we've done, uh, this, this past,
+over the past year, we did one
+in Lee County. We did one in
+Curry County. We also did one in
+San Juan County, um, and at
+those summits, what we do is we
+do a presentation from juvenile
+Justice again explaining this
+system, we invite all community
+partners, including school
+districts, including law
+enforcement, everybody else to
+explain as best we can kind of
+how this system works, where
+everybody fits into it, what our
+role is in this, um, so, so that
+is
+And a, and a portion of that
+presentation is specifically
+about absenteeism. So, so we
+talked to the schools about
+that. There's a lot of um
+districts statewide where there
+is tremendous collaboration
+between the JJ JJS office and
+the school and the schools. Um,
+we're welcomed with open arms
+into the schools, it's
+We they were called on on a
+regular basis to help and then
+there are other school
+districts, um, who have chosen
+to
+Not have us there, uh, similar
+to kind of how we've gone with,
+you know, like school resource
+officers, some districts
+absolutely want them other areas
+that they don't want them. There
+are areas of the state that the
+school districts don't
+necessarily want us there. And,
+um, we're doing what we can to
+improve those relationships. So
+again, we attend all meetings
+with the, with the clients that
+we can with those schools, um,
+we're doing, uh, meetings with,
+you know, uh, uh, principals of
+schools where we're starting to
+see attendance issues, things
+like that, trying to see what we
+can do collaboratively, uh.
+Um, another thing that we're
+doing is trying to increase
+Continuum site statewide, see
+where he has a pool of money, a
+pot of money that can go out to
+community statewide to help
+provide funding and programming
+specific to that community, in
+order to do so, the community
+has to have a continuum side up
+and running, the schools where
+there are those continuum sites
+running. The schools are a big
+part of that. And JS will be a
+part of it as well, and they can
+bring in new programs. We're
+looking to expand. We've got
+Curry County on the list. We've
+got Lee County on the list for
+expansion. We're doing meetings
+with Otero County San Juan.
+Also, so, so we, you know, we've
+got 4 different kind of areas
+looking to come into that. So I
+think it's things like that that
+we can do to try to improve
+those processes. And again,
+just, I've made sure that my
+chiefs, my leadership within our
+local districts, there's an open
+door policy for anybody within
+that community if they want to
+go talk, we need to collaborate
+because we're gonna work
+together.
+And, and thank you, Mr.
+Chairman, and, and thank you,
+Mr. Adams for that. Um,
+I guess my, my point for all of
+this is really about.
+That we
+We need to partner and how many,
+how many, how many fill officers
+do you have? How many um sites
+you have throughout the state.
+So if uh we, we go by judicial
+districts, so there's 14
+judicial districts statewide,
+um, and that's how juvenile
+justice is set up. We've got 2,
+I believe it's 27 offices and
+I've, I have roughly 110
+juvenile probation officers
+statewide.
+Um, I, I, I've got some other
+individuals working for the
+department, um, in different
+capacities that that will assist
+in some of these things, but 110
+when we talk juvenile probation
+officers statewide.
+In, in, in part of Mr. Chairman,
+uh, part of my
+I thought about is.
+When you talk juvenile
+probation, it has.
+A very, it
+In some ways, you know, a
+certain connotation that comes
+to mind.
+But when you talk about
+community connections and
+resources, that's quite a
+different way to phrase.
+And work with these things and
+then like as I said before, I
+think back into uh committee
+that I had in Carlsbad, where I,
+I came after CYD pretty hard.
+And the result of that was
+actually an exchange of
+information.
+To sit down at the table with
+these folks, not when there was
+an incident, but when there
+wasn't an incident so that we
+could, I gave my cell number,
+and guess what, they use it.
+So I, I also, I encourage that
+it it can't be one of those,
+hey, you know, and I understand
+that it's a two-way, you can't
+be the school's waiting for you
+to go to them, you can't be
+waiting to go to the schools,
+but I do think that it has to be
+a very intentional.
+Effort to to bridges because
+policy is not going to fix our
+issues. Um, procedures are not
+going to fix our issues. People
+are going to fix our issues and
+the relations that we build, um.
+The um
+Blessing, Mr. Chairman, and I
+again, really briefly, you've
+talked about all the cases here.
+What are the reasons for the
+non-intendance? Why, why
+speaking to those families.
+Because, um, it's important for
+us to understand as policymakers
+and appropriators.
+How we can address this
+statewide issue.
+Uh, thank you, Mr. Sherry and
+Mr. Representative, um,
+Again, I, I, I just want to
+reiterate, it is very important
+for us to collaborate with the
+schools and, and again, I, you
+know, there are experiences
+taking place within certain
+districts and, and certain
+jurisdictions statewide, where
+those relationships are tough,
+but there are some um
+relationships going on in some
+communities statewide that are
+um absolutely tremendous. They,
+they are, they work hand in
+hand, so community events from
+the school's JPO was there, JPO
+is doing a community event and
+the schools are there, that sort
+of thing. There's that kind of a
+Of interactions going on on a
+regular basis, so, um,
+As far as what um
+You know, some of the causes of
+this and what we hear, um,
+absenteeism before, as I've
+moved up the chain within the
+department. I, I, one of my
+specialties was dealing with
+absenteeism. I, I spent, I spent
+probably 5 years dealing with
+only informal cases and really
+focusing on absenteeism, and
+there's a lot of different
+reasons why from from students,
+it's um bullying is a common
+one.
+that, that's a common, that's a
+common denominator. We hear it
+on a regular basis. Um, at
+times.
+It's with the families and with
+the clients. There's, there's
+this feeling that the schools
+have not done enough at times
+to, to help with the situation
+so they get upset, so their
+student doesn't go anymore. So
+it's our job to kind of go in
+and try to kind of be a mediator
+between those two and get that,
+get that back up, but there's,
+there are, um, there's always
+one that stands out in my mind,
+a case that I that I worked with
+personally and it was, it was an
+attendance case that I was on
+this client. I mean, a lot. He
+was not attending. It was, and,
+and finally one day I had to sit
+down with the young man and
+We were going through some
+things and he finally said, why
+are you pushing this for me? My
+entire family works at the
+dairy. That is what I want to
+do. I've already got a full-time
+job out there, um, this is my,
+this is what I want to do.
+I don't need to be. I work
+nights, I don't need to be in
+school during the day. We talked
+about alternatives and this and
+that and found a different plan
+for him to make that work, but
+so it's different scenarios like
+that that we're gonna go
+through, but um
+You know, I, I, I think for me
+the, the, the bullying stuff,
+there's, there's a, there's a
+population of students that
+quite frankly, don't want to get
+caught up in the drama at the
+school. They, they just don't
+want to deal with that. Um,
+there's a program that I'm aware
+of statewide that's working with
+the community college, they'll
+do, they can go into and, and
+get a college degree at the same
+time that they get a high school
+degree and it, it was designed
+to kind of help some of these
+students lower income to kind of
+move along and what's, it's
+turned into is
+The higher performing students
+from high school, I want to go
+to the college and do that
+because they don't want to be on
+campus.
+Because of the issues that are
+going on there, some of the
+security concerns and threat
+concerns that that they're, and
+again, these are things that I'm
+hearing from, from students and
+families, so, um, it's, there's
+no one reason causing it all.
+Uh, uh, it's, it's a very
+complicated issue.
+Absolutely and Mr. Chairman, and
+the, again, just really, do you
+guys have a formal process that
+every student has asked those
+questions as part of that you
+come into contact with referral
+or is it more case by case
+because
+I, I, you know, it.
+Do you guys have a formal
+process? Is that part of your
+intake when you receive this
+case? I see Jessica shaking her
+head. Is that, thank you, Mr.
+Chair, Mr. Representative. Yes,
+we, we, we conduct what's called
+a preliminary inquiry on all
+these. We received the referral
+and, and it's, and it's a
+preliminary inquiry is how we
+categorize it. It's, it's a,
+it's a meeting with the client,
+with the family, with the school
+administrators or whatever,
+whoever's there and we review
+everything, lay it all out on
+the table, um, including the
+issues that that they're having
+with the schools and um so yeah.
+Yeah, there's, there's a process
+that happens where we give them
+an opportunity of also um had a
+lot of those I've had a lot of
+those, those are preferred to be
+done at the school, um, but
+we've had some parents call and
+say, can we come and talk to you
+first. And, and so we'll do
+those meetings if they, if they
+requested that. I mean, our goal
+is to do whatever we can to help
+the youth get back into school.
+And I, I, I know I heard you
+make a comment about
+Collaborative efforts and this
+and that, probation on one side.
+I just want to make it clear,
+probation is not law
+enforcement. Juvenile probation
+is not a law enforcement
+officer. I am, my, my goal is to
+make sure that when we deal with
+the kid, we don't see them
+again. That is what I'm, that is
+what I'm working towards. And I
+know.
+There's a, there's a lot of
+stuff going on with the
+legislature on it, what they
+want to do, I understand that,
+but the law as it stands right
+now, my job is for the care and
+rehabilitation of the youth that
+we serve.
+And so that is what my staff is
+doing. And if, if it changes if
+the legislators so sees fit so
+to change the children's code
+and all that and make those
+changes and we'll adjust. But
+right now, that's our goal and
+our goal is to keep them out of
+the system.
+Try to keep them out of the
+system.
+I assure you, Mr. Adams, I do
+know very much about the system,
+um.
+My, my final um question, and
+this is actually directed
+towards Jessica and Tim.
+In our attendance practices
+right now, we do not make a
+distinction between excused and
+unexcused absences. We also do
+not make, like my, my daughter
+is on the high school dance
+team, and in the fall sports,
+they dance at volleyball, they
+dance at
+Um
+Football
+Uh, they're all over the place
+and so.
+Soccer
+And when we're looking, you
+know, it, it's, we talk about
+the root cause analysis, and
+it's different for every kid,
+but our current system of just
+looking at your absent.
+I'm sure right now she's brought
+the real Rancho Center right
+now.
+She would be considered absent,
+and that's something that I
+think that we need to look at
+and address is how we make that
+distinction in how we practice,
+you know, how we track that and
+how we do that, that's just my,
+my, my take on it. Thank you,
+Mr.
+Thank you, Representative Lujan.
+Thank you. Um,
+Mr. Chair, I appreciate the time
+again, and I, I just wanna say
+thank you for bringing up the
+Children's code.
+Um
+This weekend um courts and
+corrections, uh, committee, we,
+we had a visit from our DA from
+Berna Leo County, and he had
+lots of recommendations, um,
+regarding our youth and um the
+Children's code. Are you, do
+you, are you aware of those
+submit those recommendations and
+changes in the.
+Mr. Chair and Representative,
+uh, I, I have seen it. I've um
+Um, fortunately I have not been
+a part of the conversations
+leading up to that. Others, uh,
+within administration happen.
+Um, I, I, I would certainly love
+the opportunity to, to make some
+comments on some of those
+things, but at this point, um, I
+will wait until I'm asked to do
+so by the department.
+Thank you Mr. Chair, um, one
+question I did bring up during
+the conversation was that exact
+thing, um, where was the voice
+of the CYFD in that
+conversation, some of those
+recommendations, so I would
+highly recommend as a legislator
+that you be part of that and
+then and your expertise, uh,
+lend itself to some of those
+recommendations and and the
+discussions that are being held
+with the the district attorneys
+requests or recommendations as
+we move forward, Madam Chair,
+uh, Mr. Chair, excuse me.
+Um,
+when we are, uh, so, so I hope
+that moves forward, and I'll
+jump into a different question.
+As we are talking about our
+attendance, um, in our schools.
+How is CYFD? How is your, your
+department working with our
+absentee coaches in our school
+districts, is that the, is that
+where you are connected with
+them, Mr. Chair.
+Thank you, Mr. Chair, um, Madam
+Representative, um, this, yeah,
+that, that's where we make the
+connection a lot of times. Uh,
+there are some school districts
+statewide that have those
+attendance liaisons, there's,
+there are a few districts I
+could name out that, that do a
+tremendous job, those, those
+liaisons are basically in the
+JPO office. If not daily, you
+know, they're in their weekly
+discussing some of these cases.
+There are other um other
+districts where we end up just
+going through like an attendance
+secretary or something along
+those lines. Um, so it's just
+depends on which this how the
+school districts want to do it.
+Thank you, what do you find, Mr.
+Chair, what do you find the most
+effective, um, collaboration,
+uh.
+With your work is happening.
+I representative, uh.
+The more involved we are, the
+better, the better the results,
+and I'll say this, um, and
+again, this is from my personal
+experience in going through this
+in a district is, is, is we
+looked at.
+How many attendance referrals we
+would have had over a year, and
+then we tracked them over the
+next year and saw how many, you
+know, 75% of them ended up back
+for delinquent acts, and then,
+so we started a program, we're
+just on our own within the
+schools, this is what we're
+gonna do. We're gonna, we're
+gonna have a real emphasis on,
+on highlighting, you know,
+connecting with some of these
+kids who were absent in this and
+that and um it was, it was
+funded through continuum funding
+through CYFD and, and again,
+what we found was we cut our
+numbers in half. And we weren't
+really doing anything other than
+just being there.
+Uh, it was just eyes on the, on
+the client, on the student, this
+and that, having that, creating
+a bit of a connection there and
+kind of talking to them and and
+doing that, it just helped for
+them to know that somebody was
+there. It wasn't a perfect
+system. I wish we could have
+done a lot more, but just that
+involvement. So when you speak
+about the school attendance
+liaisons that are, that are
+doing these things. It's
+incredibly important. I, I, I
+would love to see more. I, I
+know there are some districts of
+the state where you've got to
+leave one liaison covering
+multiple schools and
+That's incredibly hard to do,
+especially if you're trying to,
+we know that if you can make a
+connection with the client,
+you're gonna get better results.
+And so it's really hard to do
+that when you're not there all
+the time and the, the students
+aren't knowing you this and
+that, they don't know what your
+role is, that sort of thing. So,
+um, to me that's, that, that's
+incredibly important. I would
+like to see more of that done
+statewide.
+Thank you. I, I appreciate that
+as we are, um, having our budget
+meetings and we'll be, uh will
+be part of it and I see
+or else the analysts here, um,
+so he can look forward to me
+bringing that up during our
+discussions, um, and I agree
+with you. I, I talk with my
+school district here in Santa
+Fe, and that is, that is one of
+the, the requests that they have
+for for the funding because
+right now it isn't clear, um,
+Yet, I guess how much they're
+going to, how much they're going
+to receive or if it's enough or
+where they're going to be
+getting their funding because
+they want to continue and
+actually expand the program
+because it is beneficial and to
+hear that also from you, um,
+helps us with that um
+discussion. um, Mr. Chair, on,
+on, uh, I guess it's the page
+number 640.
+You know, this, those are just
+totals in your presentation on
+the 3rd page.
+Um
+In the 4th box down when
+The last sentence that says that
+um.
+Can be referred to the court
+system in if the client violates
+the terms of the agreement under
+the informal supervision. Do you
+agree with that, Mr. Chair, or
+do you feel like that there
+should be uh interaction with
+the courts, going back to maybe
+some of the recommendations from
+the um the DA.
+Thank you, Mr. Chair. Uh, Madam
+Representative, I, this is, it's
+um
+It's hard. I, I, I, I, there
+needs to be more to you. There
+needs to be something because
+right now as it stands with the
+absentee, it's where the kind of
+the last.
+Line and, and where does it go
+after us? Well, there's really
+nowhere for it to go and, and
+knowing that we don't really
+have the capacity or the ability
+to enforce, we're having to give
+families and clients to agree
+and and while a lot can be said
+that we get better results kind
+of with that, that, that
+approach, there are times when
+it, it takes a little harder
+line approach, and we do not
+have the ability to do that
+right now. Uh, and so,
+I, I don't know what the answer
+to that is. I'm, I'm not a huge
+advocate of putting more clients
+into the system. I, I, I, most
+of the clients that we come into
+contact with are, are there and
+you look, start looking at their
+history and there's significant
+drama as they get into the
+system, the system can at times,
+uh, for trauma on them, and, and
+it's not, it's not what we're
+intending to do, but it just
+happens cause that's how how
+complicated the system is for
+the family. So I'm not a
+proponent of putting more kids
+into the system, but I am a
+proponent of of having a little
+more teeth.
+Thank you. It is a balance and
+that that was a really good
+answer. I appreciate that and
+again, going back to these
+multiple conversations that
+we're having in in this regard,
+I appreciate your time and your
+thoughtfulness to this
+conversation. Thank you, Mr.
+Chair. Thank you.
+Representel more.
+Thank you, Mr. Chair. um, and,
+uh, thank you, Mr. Adams. Um,
+I'm um, I work for a local
+school district in Valencia
+County and um and we've heard
+from multiple school districts
+across the state, and I think
+I, I, I won't, I won't say all
+of them, but most of them
+express a acute frustration with
+this whole system that once it
+goes to tier 4, it's nothing
+happens and it goes by and it's
+just this this vicious cycle.
+What is it, is it, um,
+I guess before I ask that
+question, so, so it's, it's
+basically a one department, it
+gets to, to, to uh cheer for, it
+goes to yours and then at that
+point you decide whether it's a
+student issue and it's a CYFD
+issue or if it's a, a juvenile
+justice, I mean, no, that, that
+was gonna be justice issue or if
+it's a lack of care or neglect
+type of issue um with CYFD. Is
+that, is that kind of how when
+it gets there, that's how you,
+you separate the two.
+Uh, thank you, Mr. Chair, Madam
+Representative. Uh, yeah, that
+is exactly, that's one of the
+things we're doing during our
+preliminary court where, um, we
+are mandatory reporters,
+obviously, and we're looking
+for, for signs of if there is
+potentially educational neglect
+or other signs of abuse or
+neglect going on in the home, we
+will, uh, then make a sky
+referral, uh, statewide central
+intake referral. Um, it is, it
+is important to, to
+differentiate the um
+Juvenile justice will handle
+absenteeism referrals at middle
+school age and uh um for
+elementary age, we're much less
+effective. It it's, we have a
+hard time getting through some
+of those students and, and so
+for those cases, those referrals
+are typically gone. They go
+through the protective services
+side of the department where
+they're looking at educational
+neglect and that sort of thing
+when we're talking that age
+student, but we will absolutely
+look for it. Um, with, with the
+older clients as well. And, and
+if we come across it, we make
+that.
+OK, thank you, uh, Mr. Chair,
+and, um, Mr. Adams, I, so, so my
+question is, how can we, cause
+you said you go by uh you're
+divided up into the judicial
+districts. So is it that
+specific judicial district that
+is not
+Following up or doing something
+or like, cause, cause I, cause
+I, I, as we're listening, I text
+my, my truancy officer and, and,
+and I asked, I said, has there
+ever been meetings in all of
+the, the ones that, that, you
+know, from, um, for this when
+you, when you refer to uh tier
+4, and he goes, and, and he told
+me, he goes, no, they kick it
+back seeing lack of evidence.
+And, and that's their
+frustration and, and
+unfortunately, there's a lot of
+families and the ones that are
+chronically that way, they
+understand and they know how to
+work the system and they and
+they know that once it gets
+there, oh, they're not gonna do
+anything, and we can just ignore
+it. The kids know it. I mean,
+people, people get used to the
+system. So, um, um, I thank God
+that's a smaller percentage of
+students, but it's still,
+there's a lot of frustration
+with the people that are truly
+trying to do their job because
+this is like you said, there is
+no teeth any further, but then
+they don't feel like there's
+anything being done within that.
+How can we remedy that? How can
+we work with these school
+districts, so they feel like
+you're actually or or your
+department is actually
+partnering with them. Thank you,
+Mr. Chair, Madam Representative,
+I, it's in that there's so much
+crossover between that question
+and even then going back to the
+delinquency side of things is,
+is how do we prove kind of what
+we're doing is or what we're
+doing on some these things
+because the school might not
+always be aware, uh, you know,
+if it, if it's
+something that ends up falling
+into the department's house,
+well then there's a lot of
+confidentiality issues that go
+along with that, with, with
+clients as they come into our
+system and so there may be ways
+in which we're handling it, but
+the schools are just not privy
+to, and we, you know, we, we
+have an obligation to protect
+information, so we want to share
+when we have an opportunity to,
+but there's sometimes we can't
+share. Um, there's a lot of
+these times when I hear, and I,
+I've heard from a lot of school
+districts about what we send it
+and it just gets kicked back.
+Um, well, it gets kicked back
+with this request saying
+This was missing from the
+packet, like we, we need that to
+enter it into our system. We
+need that information to show,
+hey, this, cause otherwise,
+we're gonna get into that
+meeting and the family's gonna
+say, oh momma, your kids here,
+they're just not marking them or
+they're something else has
+happened. So we need to have
+everything in, in front of us to
+go into that meeting, prepared
+for whichever avenue the the the
+family and the schools are gonna
+go. If we don't have that, we're
+not, we're not going to be very
+effective in our media.
+And so, um, when I've come
+across situations like that,
+I've, I've, I've reached back
+out to the schools. I've had my
+staff reach back out to the
+schools, to whoever's sending
+those referrals and this and
+that and trying to explain more
+of what we need, but to answer
+your first question is, is it's
+really not necessarily district
+by judicial district by
+district, it is school district
+by district, um, is what I'm
+finding. I can tell you, um,
+again, I'm sorry, I keep going
+back to Curry County, but
+that's, that's where I'm based
+out of now. Um.
+Or one school district uh for a
+long time, they, they sent a
+lot. There are other school
+districts in that county, but
+I've never seen one absenteeism
+referral from.
+Um, and so, again, you've got
+some big districts in the state
+that are choosing and, and, and
+I'm, and I wanna be clear, if,
+if the school is dealing with it
+appropriately. I have no issues
+with that. I, if we don't need
+to be there.
+These informal cases, um, we're
+judged a lot of times
+legislatively on what we do on
+our formal case load. So we know
+the importance of informals at
+the field level and, and it's a
+stress, it's a stressor, it's a,
+it's it's an emphasis for me and
+for my staff. But we're gonna be
+graded on what we do with the
+formal case load. And so that at
+times t tends to take priorities
+sometimes, and so if we're not
+getting those attend rules, then
+it's just we have more time to
+focus on these, but it's not a
+desire on our end not to, um, I
+We'll also add their, there were
+some issues coming, coming out
+of COVID, you know, I mean,
+schools had a drastic change. We
+had a drastic change in how we
+operated it as well. Um, and
+then kind of getting back from
+that as we've gone through some
+administrations, changes and
+things like that. We've seen
+some, some changes in staffing
+in some different areas, and so
+they've had to, to work out some
+different agreements with
+different school districts, um,
+saying, you know, we, we really
+don't have the manpower to go to
+the school. Can you come and,
+and do these appointments here,
+and some school districts have
+been
+very open and yes, we'd prefer
+that, some have said.
+No, we're not doing that. And
+again, that's, that's not my
+call to make. It's theirs, so,
+you know, all we can do is make
+sure that we've given them an
+opportunity to do it and if they
+want to take it, then they can.
+OK. Um, thank you. uh, Mr.
+Chair, Mr. Adams, so
+I'm just trying to figure out a
+solution, cause I, like I said,
+I've heard from many school
+districts. Um, they're
+frustrations. So is the
+recommendation that they should
+that school district that feels
+that frustration should contact
+your department and say, OK, can
+we partner with you? Can we, you
+know, what is it that we're not
+doing? Can we, is there a
+training that we need to look at
+so I know how to properly fill
+this stuff out, like what is it
+that we can find some type of
+solution because right now it's
+just, oh, why bother?
+cause it's just gonna come back
+to us and nothing's gonna be
+done. I mean, and that's their
+frustration. Thank you, Mr.
+Chair, Madam Representative,
+this is, um, yes, absolutely.
+They need to reach out to their
+local district because, because
+every chief that I have in the
+state will be willing to go and
+meet with them, um, every
+supervisor that I have will be
+willing to go and meet with him
+and, and again, coordinate
+cause, cause, cause again, we,
+we see the bigger picture. If we
+can't do something with this
+now, and that's a client we will
+likely not deal with later on.
+So we're gonna put all the, all
+the, we're gonna do everything
+we can to help, but.
+That's, that's as long as they
+want us there. So if they're not
+getting that interaction, they
+absolutely need to reach, reach
+their chief. If they can't get
+them, then yeah, they call me
+directly. I will make sure
+somebody will be.
+And, and, and Mr. Chair and Mr.
+Adams, I, I agree with you with,
+with that if we don't do it now
+because I, I mean, I live in a
+small town, so I know, I know
+the, the, the few students that
+are, uh, I know their families
+and I know 2 or 3 years down the
+line, what happens to these
+kids? Um, if we can get them
+there and get them graduated and
+hopefully in a better job or
+hopefully in something,
+something else, um, uh, but, uh,
+you know, a teacher's
+frustration always is if I can't
+get them in my classroom, I
+can't teach him anything, so,
+uh.
+So, but thank you, thank you for
+answering my questions, Mr.
+Chair, if I can, uh, Madam
+Representative, just to, um,
+Uh
+You know what I mean, I, I, I
+appreciate your comments on the,
+you know, where we want to get
+with this, and again, it's,
+it's, um, I, I just, I wanna
+make sure that I emphasize
+again, this is um
+It is incredibly important to
+us. Uh, this is, this is not
+something that, that, that we
+take lightly. It's, it's, yeah,
+um, and while it's not a
+delinquent act, again, our goal
+as a as a as a probation officer
+for all my staff is to, to, to
+get kids on a path to lead them
+to be successful citizens.
+Whatever that path might be, and
+so, um, if we can't address
+this, um, at an early age you
+get them in school, then we know
+that's gonna help him, so.
+Thank you. Thank you.
+Questions from members. Um, so I
+have a few questions and, and
+thank you for joining us, Mr.
+Adams, because I've been
+primarily the voice in in trying
+to get um you all here to, to
+talk with us about this issue,
+um.
+And um,
+OK
+Yeah, I think represents Vlada
+had been in the legislature when
+we passed the attendance for
+Success Act, uh, representative
+Garrett, um, and this was a key
+piece to it, cause like
+represent Mido Amoya had
+mentioned, like, this is, and
+you mentioned Mr. Adams is like,
+this is the endpoint and and
+CYFD's involvement is, is
+Is it as far as intervention and
+where we go to get these
+students back in, in school, and
+I just want to say one other
+thing before I get into my
+questions about um uh what
+represent Baca brought up was
+also like,
+With that we don't make that
+distinction between what types
+of absences there are. And, and
+this is something that at the
+time, we also went back and
+forth on, and I think we settled
+as a legislature on an absence
+is an absence is an absence,
+because for me as a teacher, um,
+I have my class and what we're
+doing for that day, and it's one
+thing for students to, um, you
+know, I could give them the
+worksheet, I could give them the
+reading, I could tell them what
+to do, but I don't think that is
+a substitute for the discussions
+that we had in class, the
+working through vocabulary
+discussions, clarifying
+questions, being able to have me
+there, um, and, and that's
+something that I, I think we
+definitely at the time got
+because yes, there's a place for
+all different activities in the
+school site.
+But also my class as well has
+the class of um um
+Miss Moya and everybody else um
+during this.
+That school day, um, to make
+sure that we're getting the most
+out of our students and that
+they're getting the most out of
+us because, I mean, I take my
+role as a teacher as seriously
+as I do here, because, um, in
+the legislature because I'm a
+public servant here, but I'm
+also a public servant in my
+school, in my classroom, in my
+constituency or my high
+schoolers and their families.
+And I'm paid to serve them, um,
+and this is a part of it. Um, I
+was talking with our director
+here about how this
+um during the presentation about
+how this ties in with the um
+presentation that we had this
+morning on, on restorative
+practices too. Um, I think the
+one thing in this bill for
+teachers where it mentions
+teachers is that we take
+attendance.
+Every day that I'm there, I'm
+accounting for my students who
+are there. Those that may be
+tardy, and then the attendance
+teams are really the ones that
+are collecting, sorting through
+the data and making referrals.
+And I guess, um,
+That that would be my, my first
+question is, Mr. Adams, like,
+What has been your experience
+with attendance teams and their
+referrals and what's the process
+from those referrals to what you
+all are working.
+Thank you was shirt. So, um, I
+mean, the process for the
+referrals is, is as I laid out.
+I mean, the schools, uh, they
+received the attendance, they,
+um, once they reach that tier 4
+status, they with this referral
+form, send it in to us. They've
+got required documentation
+that's going to be there, and
+again, it once, once it's
+received by us, it starts a
+process. We're, um, I mean you
+talk about the distinction
+between, um, you know, unexcused
+and excused absences and while
+that doesn't always factor in
+whether or not they make the
+referral or not. It's, it's
+certainly something that we look
+at.
+Cause we want to go into the
+meeting again prepared for that.
+So, um,
+Again, I, I think the, the areas
+of the state that are being the
+most successful maybe in dealing
+with this, or at least the most
+kind of on the ball and deal
+Again, I, I think the, the areas
+of the state that are being the
+most successful maybe in dealing
+with this, or at least the most
+kind of on the ball and they
+have those um attendance workers
+in the schools, those, those
+social workers that are really
+doing that, they really have
+kind of that history, so they're
+able to come and and almost do,
+I wanna say a warm handoff cause
+they're not, uh, we don't want
+them to give it up to us and
+then just walk away. It's, it's,
+but it's a, it's a warm handoff
+and a, you know, a, a
+collaborative effort with those
+groups, and that's all we.
+That always works out better,
+so.
+And I appreciate that. And I
+guess um more specifically is um
+what sort of interventions have
+you seen as being successful
+both from the attendance team
+side and then um uh uh in any
+interventions that you all have
+done with students or families.
+Thank you, Mr. Chair. I, I, I
+wish I could say that, oh, this
+program is the perfect one. I, I
+honestly, if I could, I probably
+wouldn't be here right now
+because every state in the
+nation is dealing with these
+issues. So, um, it, it really is
+dependent on the student. Uh,
+I've seen, um, programs that are
+culturally relevant that are,
+you know, that, that really, um
+can connect with a student, kind
+of, you know, where that student
+is coming from, tend to be the
+most successful. And again, that
+that's either whether it's going
+to a program, uh, a group
+program like uh boys council
+Girls' Circle programs are
+tremendous programs. They've
+actually done some, so there's
+been some positive results
+coming out of, out of those
+programs with, with attendance,
+um.
+But, but really any program that
+is, you know,
+That's, that's gonna meet the
+needs of the clients and each
+client has a different needs, so
+that's um it's hard to pinpoint
+one specific thing. I will, I
+will point out a couple of
+restorative justice programs,
+um,
+Work really, really well in the
+juvenile justice system, uh,
+when we talk about delinquent
+stuff, I've, I've, I've heard of
+some schools attempting to do
+some kind of restorative justice
+stuff with attendance type
+issues, um, I have not heard a
+lot on the results of that, but
+I think that that may be
+something that would be
+promising to explore looking
+forward, um, mentorship
+programs, things like that. Big
+Brother, Big Sister, things like
+that when we've got
+opportunities to connect the uh
+a student who's having trouble
+with, um, an adult or a mentor
+or somebody that can, you know,
+show
+from a different path or help
+them see it, not necessarily not
+lead them to it, but just show
+them that there is a different
+path that they choose to take
+it. Um, those programs are the
+most successful.
+And, and I appreciate that, I
+guess, um,
+Because in the enforcement piece
+of the attendance for Success
+Act. It talks about additional
+interventions and possible
+monitoring. Um, have you all
+been involved in monitoring or
+any sort of, I guess,
+outsidescribed methods of
+dealing with um
+These students
+Thank you, Mr. Chair. So, so
+when we talk about that, we're
+talking about the informal
+conditions that we do or we
+refer to a program or, you know,
+we may have the client work on
+something specific for us, um,
+in dealing with it in informal
+supervision where we're putting
+them on this, you know,
+probation agreement and having
+an expectation that they'll
+follow it. Um, we have some
+districts they, uh, statewide
+that do, um, attendance
+contracts in different ways. I,
+I know they're done through the
+school sometimes, but we've had
+some where the probation office
+has done it in, and those tend
+to be
+Um, you know, those are
+effective for some. So, um,
+again, I wish I could say there
+was one size fits all, there's
+really not. It's, it's, it's
+each client is it kind of has to
+be approached individually and
+hey, this is what we need to do.
+So, thank you. And, and I guess.
+Being that it's so complex, how
+do you all deal with that, um,
+in terms of, I mean, part of
+this was to provide resources
+for those students, whatever
+might be available in those
+communities. How do you all
+handle
+That workload and plugging in
+those students with where they
+may or may not need to be. Thank
+you, Mr. Chair. Now you're
+getting to the root of what,
+what it is to be a probation
+officer, so, uh, but, but the
+reality, that's what we do,
+it's, it's, it's get the whole
+picture, because we'll receive
+uh and it's the same way with
+delinquent acts also, and we
+received a report, it gives you
+a narrative on what happened,
+but that might not be the whole
+story, and so our job is to, you
+know, connect with the family,
+connect with the client. Let's,
+let's get to the root of what
+the problem.
+as it may not just be, you know,
+I can't tell you how many times
+on a delinquent side of things,
+I'll get a client in for
+shoplifting, and then the, the,
+the
+quote unquote punishment for
+that, never even really deals
+with shoplifting. It was
+something else that led to the
+shoplifting, and that's what I'm
+gonna do it. It's the same with
+absenteeism. A lot of times
+it's, it's not necessarily
+something specific. It's not a
+teacher that they don't like or
+something like that. It's just a
+matter of, you know, there may
+be something going on in the
+home, uh, that, you know, um,
+different things that, that just
+maybe the, the parents haven't
+told the school about, they're
+embarrassed to tell the school
+about for whatever reason. Um,
+so, so we really have to dig,
+um, to, to get to.
+what's at the root of that
+problem, and then, um, figure
+out what the best way to to deal
+with that is, and that's, again,
+whether it's, but we do that on
+a daily basis, whether it's
+Delinquent probation or whether
+it's, it's fences, so.
+And, and I guess that leads to
+my other question is that are
+these cases of attendance are
+they a part of the workload for
+juvenile probation officers in
+general, so they're just a part
+of the entire caseload or their
+specific
+Uh, um, JPOs that are assigned
+to attendance issues
+specifically. Thank you, Mr.
+Chair. Uh, in each district
+we'll do it a little differently
+and I've given my districts a
+little bit of freedom to, to
+kind of adjust for whatever, you
+know, whatever their needs of
+their communities are, um, there
+are some areas of the state that
+yes, they'll have a specific
+staff that's assigned, that's
+what they want. So that's,
+that's what they deal with and
+so they'll deal with all the
+attendance issues in that, in
+that area there may be two
+staff, um, there are a lot of
+other districts around the state
+that they're just, they're
+d iv vi ed up just like the
+regular uh delinquent cases, uh,
+and assigned out that way. So,
+um, it's really, however, each
+case, each district decides to,
+to deal with it, um.
+I, I don't really have a
+preference and I have, there's
+no, there's no difference on
+outcomes, um, it, it, it helps
+when you've got somebody that
+deals with it all the time
+because it is
+They're knowledgeable in it, but
+I can also tell you that for
+probation officer and
+absenteeism, a truancy case is
+some of the most frustrating
+things that we'll have, that we
+have to deal with, because
+again, it's, it's not, um,
+With probation cases, we can
+always say if you violate this,
+we're gonna take you back in
+front of the judge and the judge
+is going to do this or we can
+issue a warrant and you know,
+you're gonna go to, so we have
+something to, I don't threaten
+it, but we can't tell them, hey,
+this is gonna be the outcome. On
+an absentee is in case we can't
+really do that other than to
+say, look, if you don't follow
+through with this, or if you
+guys aren't willing to agree to
+do this. We're just gonna
+document it because it's a
+referral to our, and when you
+end up back on a delinquent
+case, that's, we're gonna
+Take that information um into
+account also, uh, with the
+delinquent thing. So, um,
+There you go.
+And, and, and what's the follow
+up like that?
+What does, what does that look
+like? So once you make a
+recommendation or outline some
+sort of plan to try to get these
+students back in school, um, and
+it gets referred back to the
+school district. What is the
+follow up with the attendance
+team, the administrators at the
+school, as far as
+Um, with CYFD.
+I think it was. So are you
+talking on uh cases that have
+been like set like we sent back
+saying we need more information
+or cases that, hey, we've gone
+in and done the PI and making a
+decision. I think making the
+decision primarily. So, thank
+you, Mr. Char. In most cases,
+uh, again, that, that's why that
+PI is taking place there, uh, at
+the schools, we've got everybody
+kind of there or it's in the
+office with everybody, you know,
+in attendance, so it, it tends
+to be, we prefer to, we prefer
+kind of group decision making on
+some of these things because
+Uh, again, it doesn't do us any
+good to set a client up for
+failure, um, with some of the
+stuff that we're doing. So we
+want to make sure that it's
+something that the family can
+comply with that the that the
+that the youth can get behind in
+the, the schools can support,
+so, uh, you know, we, we attempt
+to do that if it's a
+specifically difficult case
+where we can't come to an
+agreement there, the probation
+officer will take it back. We,
+we regularly do it, it's called
+teenings, um, where there is a
+uh a meeting between the
+probation officer there super.
+adviser, the chief will have uh
+clinical staff from the
+probation office there that can
+be a part, we'll invite school
+officials to be a part, um, and,
+and again, we'll, we'll kind of
+sit down and hash out, uh,
+potential outcomes, um for how
+this would work or what we think
+would be best if we can't come
+to an agreement and
+That's how, that's how we do it.
+And, and I guess my last
+question is, is, and I think you
+spoke in part to this a little
+bit earlier was um the use of
+the Children's code because part
+of that is that once the
+referral is made, um,
+Uh, the, the attendance for
+Success Act says that um
+Students should be considered to
+be neglected child or a child,
+um, in need of services because
+of excessive absenteeism and
+thus subject to the provisions
+of the Children's code. Um,
+In what sort of way has that
+been used? Have you all used the
+children's code in any of these
+cases that you've brought to us.
+Thank you sure. Yeah, yeah,
+absolutely. We, we talked
+earlier about making the sky
+referrals. If we see any signs
+of neglect or abuse or anything
+like that. Um, certainly with
+those younger level elementary
+age students, things like that,
+a skyros made and, and
+protective services starts their
+process in that investigation.
+If we see it with an older
+client, um, you know, the, the
+maybe non-compliance things like
+that. One of the things that we
+do before we do a preliminary
+inquiry is, um, we'll search the
+case. Is there, has there ever
+been a history of protective
+services involvement with this.
+If there is, we'll encourage
+their worker to come and be a
+part of the conversations moving
+forward, um, if they're not,
+then, um, if we think it's
+something that needs to be
+brought to their attention,
+we'll absolutely do it. And, and
+then we'll follow up with with
+the protective services workers
+and um whatever assistance that
+they need with the case, and
+we're there, we're there to
+support and work together.
+Great. And I, I really
+appreciate you being here and,
+and being willing to answer
+questions because I think this
+is a key piece of the attendance
+for Success Act that we have in
+order to make this system.
+system it is and to get our
+students back in school that I
+think a lot of our schools have
+have come to look to for
+guidance and rely upon. So
+things that we can do to
+strengthen the department, um,
+in the work that you all do in
+order to uh get our students
+back in school, please let us
+know in the ways that we can
+help. I think for sure, and I
+will say I, I'm, I, I, I was,
+uh, had the opportunity to meet
+with um Deputy Cabinet Secretary
+Padilla, uh, last week in
+regards to some stuff there's a
+uh I think a task force being.
+Created, I mean, um, to, to work
+on this, and I'm gonna be part
+of that moving forward, so so
+I'm very excited about that, the
+partnership, um, that we can
+have there, you know, I think
+we've, we've worked well with
+administrations and the, with
+the PD in the past, but again,
+we have a change in
+administrations and all the
+players change and it's, and
+it's, I think trying to connect
+people with who they need to be
+talking to right now, so.
+Yeah, I, I appreciate that and
+if there's any room for the task
+force for us, said LESC, we
+would certainly appreciate that
+to see what, um, um, may or may
+not need to be done as far as
+attendance and attendance for
+success. Thank you so much.
+Thank you all very much. Thank,
+thank you, members of the
+committee. Thank you, Mr. Chair.
+All right, folks, so
+Um, OK, I'm counting. Um,
+So we have some business that we
+haven't done yet. So we need to
+approve our agenda that we're
+almost 2/3 of the way through
+already. Um, so do I have a
+motion to approve our agenda.
+Mr. Chairman, to approve today
+this agenda in November agenda,
+the November agenda, right, not
+just today. It's awesome. Do you
+have a second? All right, um,
+multiple hands, so I'll give
+that to represent Moya. Is there
+any objection to adopting our
+agenda, seeing none.
+We have an agenda, and then the
+minutes from our October
+meeting, so hopefully you
+represent a lot of you did your
+reading to report out on those
+minutes or dramatic reading of
+those minutes, preferably, OK.
+No? OK. Can I have promotion?
+All right.
+Thank you, Representative.
+Can I say second Pope.
+Um, any opposition?
+Seeing none.
+We have our minutes. All right.
+Maybe next time represent a lot.
+Um,
+All right. So we're going to
+Go to our, obviously we're a
+little bit early, but we'll
+start with the folks that are in
+our audience here and see if we
+get our Zoom populated with
+anybody that wishes to make
+public comments, so thank you
+all for signing up. Um, you'll
+have up to 2 minutes, um, to
+address us about the issue of
+your choice. So we're here to
+listen. Again, thank you for
+being here. And then we'll start
+with um Nine.
+Please, please, if you would
+make your way up to the
+microphone.
+Thank you for joining us. We
+really appreciate your
+participation.
+And you'll have up to 2 minutes
+once you start talking, so
+please, welcome.
+Mr. uh,
+you said 2 minutes?
+Yes, please, and we have the
+clock up there if you need a
+visual cue. Thank you. Uh,
+sometimes I'm just
+Looking into captioning and
+looking at
+people and uh thank you very
+much gets distracting. Uh, well,
+it's uh how I track.
+Um, thank you very much. My name
+is Nat Dean. I am a disability
+advocate and I'm a person with
+multiple disabilities.
+And I may not need the 2
+minutes. Excuse me. I wanted to,
+um,
+Really compliment the
+presentation about uh the
+restorative, and now I'm raton
+Public Schools restorative, uh,
+Roadmap,
+because this is the thing I've
+been talking about all along.
+We've talked about restraint and
+seclusion as an issue, is that
+it's the modeling and knowing
+that the team that's being built
+that supports the modeling is
+modeling exactly what that would
+be. So that if we utilize
+conflict control.
+As adults are officers using
+force to control.
+That is the model is that is the
+mechanism that one would utilize
+to uh to do conflict resolution
+is through force, and the
+collaborative approach to
+conflict resolution is a
+collaborative approach where
+where you build on the um model
+that they so beautifully
+explained, which is build
+positive relationships and focus
+on preventative strategies,
+improve culture and climate
+within all of our organization
+with our families, with our
+stakeholders who are
+The learners and reduce
+substantial suspensions in time
+from learning and mitigate any
+biases in our disciplinary
+actions, and the exact
+interventional strategies that
+are utilized to prevent
+absenteeism is if you can get
+there and you can have a
+positive experience. You're
+gonna want to get there and
+increase the positive
+experiences. Thank you very
+much, Mr. Chair, madam, Vice
+Chair, I believe. Um, I don't
+see vice chair and members of
+the committee, members of the
+public. I so much appreciate
+your service. And as we
+And the interim and move into
+the session, it will be an even
+heavier lift and I always
+appreciate that we lift that
+together. Thank you.
+Great. Thank you for joining us.
+Uh, Sarah.
+Sala.
+So welcome, you have up to 2
+minutes.
+Thank you. Good afternoon, Mr.
+Chair, members of the committee,
+thank you for the opportunity to
+speak today. My name is Sarah
+Salazar, and I'm a parent of a
+wonderful first grader here in
+Santa Fe. Um, I wanted to bring
+your attention again back to the
+attendance for Success Act, I
+believe there was an oversight
+when it was created and that it
+left out any distinction for
+students with disabilities. Um,
+there are considerations for
+extracurricular activity
+participation, pregnant and
+parenting students, religious
+training, and tribal.
+obligations, but nothing for
+students with disabilities.
+I will briefly share my
+experience and with your
+permission, Mr. Chair, I've
+provided more information on
+those standouts. Um, our first
+grader has multiple disabilities
+that affect his ability to
+learn. He has a chronic illness
+that turns severe with any virus
+he picks up at school.
+Um, and he also has a very low
+incidence of vision disability,
+vision impairment, uh, that we
+see a specialist provider for
+weekly and everything is in
+Albuquerque. Um, we have a
+section 504 plan in place that
+provides accommodation for these
+frequent absences and has a plan
+for mitigating learning loss,
+uh, education is critical,
+critically important to my
+family, and we fully support
+keeping him in school as much as
+possible.
+Unfortunately, it's not always a
+choice for students with
+disabilities. Um, so a few weeks
+ago we received a notice that
+our child's attendance is at a
+tier 3, with ongoing care that
+we know about and cold flu
+season coming up. We're probably
+gonna wind up at a tier 4. This
+is really scary as a family and
+as a parent, and we're doing
+everything we can, um, but we
+just feel like this was an
+oversight in the law to not have
+any special consideration for
+students with disabilities. And
+so
+I respectfully request your
+leadership to address this.
+Thank you very much.
+Great. Thank you for joining us.
+We appreciate it.
+All right, we have
+Stand rounds.
+In a minute, stand, so you have
+up to 2 of them to address this,
+Mr. Chairman, thank you very
+much.
+Well, that's a live mic. Let me
+sit back here.
+So first of all, Mr. Chair,
+members of the committee, we
+want to congratulate you.
+On your choice of your director,
+John Senna.
+We have tremendous confidence in
+him.
+Our organization both
+superintendents and the
+educational leaders of the
+state.
+We want to thank you for making
+that decision, John, welcome. We
+look forward to working with
+you. Now, Mr. Chairman, I'm
+gonna tell you how we're number
+one in the state of New Mexico
+cause I want to give you a
+history lesson. In 1974, the
+state equalization guarantee was
+produced, but in 1976,
+The state of New Mexico took on
+the challenge of special
+education.
+By amending that equalization
+guarantee to fund.
+A special education students.
+We are the only state.
+Including all 49 other states
+and the District of Columbia
+were the 1st $1 for special
+education is the state dollar.
+The 2nd dollar is the federal
+dollar.
+I've been reminding my
+colleagues of that because as we
+look at national policy, things
+that may occur or may not occur.
+I want people to understand that
+in New Mexico, we will continue
+to stand number one, and we
+should not apologize uh.
+Last point, Mr. Chairman.
+Yeah, 31 seconds, wow. So last
+point, Mr. Chairman, uh, you saw
+two tremendous examples of why
+we support local control when
+you had the restorative
+practices, presentation this
+morning. I want to remind all of
+us.
+Those were done by local
+decision makers.
+Using local control to get
+local.
+Solutions, a local problems.
+That's why we say we need to pay
+attention to local control.
+Thank you. Thank you.
+All right.
+Next on the list.
+Joey and
+I couldn't think fast enough of
+a fake name to like stop your
+pacing to the front as a joke,
+so I went with you. Thank you,
+Mr. Welcome. You have 2 minutes.
+I've been uh listening to you
+yesterday and today over at the
+office across the street, so
+thought I'd come over and say
+hello and congratulate you as
+well on your selection of John
+Senna as your director and uh we
+we've worked with him a lot in
+the past that we respect him and
+think very highly of it.
+Second of all, I wanted to
+invite you to our annual
+convention that we're having
+this year, December 12th through
+the 14th in Albuquerque, uh,
+will be taking, of course,
+conducting some training and
+also electing our officers,
+approving our our budget and our
+legislative program.
+Uh, so, uh, we have some great
+general session speakers
+including John, that'll be there
+to provide an update on your
+committee activities. So please
+uh come by on that Friday
+morning is the general session
+on the 13th.
+Uh, the other thing I wanted to
+just remind you that we will be
+here to present to you at your
+next meeting as our individual
+associations and also as our
+partners group. So we look
+forward to seeing you then and
+uh again, thank you for all the
+work that you do.
+Great. Thank you, Joe. We don't
+have anybody else in the
+audience.
+We have one person on Zoom.
+All right, so we have Jan
+Williams. Hi, Jen, you'll have
+up to 2 minutes. Welcome. Thank
+you for joining us.
+Thank you, Mr. Chair and
+committee members, um, as you
+heard, my name is Dan Williams.
+I'm a STEM advocate and a fellow
+of the Society of Women
+Engineers, you've heard from me
+before. Some of you are aware
+that I'm part of a group that's
+advocating to create a
+centralized stem innovation
+network in New Mexico and this
+was briefed at LESC in July and
+you're going to hear more about
+it in December, but I made a
+connection today with two of the
+briefings that I heard over the
+last two days on topics that are
+absolutely crucial to underpin
+whatever efforts we undertake.
+with this bill that I'm talking
+about uh to ensure access to
+STEM learning and exposure to
+STEM pathways for every child in
+New Mexico. We cannot reach
+every student and offer access
+to equal education without
+ubiquitous broadband access and
+digital device accessibility.
+Everything we're doing to
+achieve that goal, um, is, um,
+going to be really important and
+uh to this stem innovation
+network and uh all the other
+education efforts that we've
+been talking about, and
+similarly, we
+track our success, uh, in the
+desired outcomes for the STEM
+innovation network without the
+longitudinal data on students
+through their academic journey.
+So I want to thank you all for
+hearing such rich input on these
+essential issues. I, I think you
+all understand how important
+these things are to underpin
+everything you're trying to do
+and to improve education
+throughout strategic investments
+which was yet another topic. So,
+um,
+Special acknowledgement as well
+to the LESE director and staff
+for their thorough research and
+thoughtful presentations, and I
+thank you for your time.
+And for Director Senna, you're,
+you're no longer just John, you
+are director Senna.
+Thank you so much. We appreciate
+you being here and joining us
+and actually the closed
+captioning on Zoom workplace is
+pretty good.
+So relying on it. All right, so.
+Endorsement of sorts, I guess,
+unofficial, but.
+Thank you also, we don't have
+any other public comment that
+concludes our business for
+today. We'll see you all back at
+9 o'clock. So, thank you, folks.

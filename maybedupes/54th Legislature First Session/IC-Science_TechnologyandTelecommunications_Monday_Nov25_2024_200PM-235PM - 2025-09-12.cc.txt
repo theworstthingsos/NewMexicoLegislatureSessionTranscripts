@@ -1,0 +1,1278 @@
+Expansion, uh, I've got a short
+slide deck. I have a lot of
+extra slides as extra talking
+points. It's a labeled them as
+an appendix, if there's
+questions I can refer back to
+them, but I'm just looking to go
+through kind of the 1213 and
+answer questions for you guys.
+Um, so to that point, want to
+just uh lay out the broadband
+landscape of kind of where
+things are, is that there are
+basically tons of federal and
+state programs going on
+concurrently. Uh, but to that
+point, even with all of
+programs happening, we still see
+a $2 billion shortfall in
+infrastructure, and this gets
+into last mile, which gets into
+middle mile, uh, it also gets
+into things like 5G, uh, you
+know, cell phone technology
+deployments, right? Uh, so
+collectively, you know, that $2
+billion shortfall, even with all
+of the federal and state
+programs running along, there's
+going to still be more ask more
+needs to make sure that we get
+the connectivity that we need
+and address the digital divide.
+And so this is, you know, the
+digital divide when we really
+think about it.
+Is
+Those who either cannot access
+or will not be able to access in
+the future, and we do have these
+one-time federal investments,
+uh, at the moment with broadband
+equity access and deployment
+funds, uh, $675 million coming
+into the state to be able to try
+and get as far out into the
+state of New Mexico as we can,
+uh, but at the end of the day,
+we want to make sure we do not
+leave New Mexicans behind. And
+so on my uh my first slide that
+says broadband landscape slide 3
+I just wanted to note that ARPA
+is the American Rescue Plan Act,
+uh.
+Capital projects funds, pilot
+project program, those were
+awarded to the Office of
+Broadband two years ago. Uh, we
+actually put it out in.
+I'm gonna switch microphones
+here.
+Uh, we actually put it out in,
+in a grant form and
+In the last two years, we've
+gotten through the rights and
+permitting we're actually seeing
+some of the first projects being
+completed this coming quarter of
+this next year. So we're, we're
+pretty thrilled about that. Uh,
+the funding goes through 2026
+December 31st, 2026, so you can
+see on my timeline out there uh
+the rest of the projects that
+will be uh completing up of the
+19 projects we awarded, uh, will
+be through the end of December
+there.
+Beneath that, uh, in the gold,
+you can see the nect New Mexico
+fund uh is the infrastructure
+fund. There was originally $100
+million of uh appropriated to
+the uh connecting Mexico
+council, uh, two years ago, the
+legislature reappropriated that
+funding to the Office of
+Broadband Access and expansion
+for expenditure and in that we
+still kept the 3 programs that
+were originally legislated,
+which is the infrastructure
+program of $70 million. Grant
+writing, engineering, planning,
+which was $5 million for four
+specific entities to apply for,
+which
+is tribal governments, local
+government bodies, electric co
+ops and telephone co-ops.
+Additionally, we had $25 million
+awarded for uh public school
+projects. Uh, so out of that we
+borrowed the authority from the
+public schools facility
+authority through a memorandum
+of understanding this last year,
+launched the state education
+network, uh, so this was like an
+8-year project uh that we uh we
+fulfilled in the last year and a
+half. We built 10 nodes and
+we're still looking to build a
+few more out there, but we got
+our first ones up and running.
+Uh, we actually have the state
+education network with 8
+entities, which is like 5 school
+districts and.
+charter schools attached to it,
+uh, and we are utilizing e-rate
+funding to be able to fund the
+internet going forward with
+that. Student Connect is going
+to leverage that state education
+network by
+Providing assistance grants for
+providers to go out and build
+and connect directly through the
+state education network to
+students who are in need in
+rural communities. And so we
+just launched that one, about a
+month and a half ago now, so
+we're pretty excited about that.
+We actually had our 1st 7
+applications and we're looking
+at turning around our 1st 3
+awards in the next month or so.
+So, as you can see in the last
+two years, we actually had the
+appropriation moved to us. We've
+actually moved out and executed
+on, on funding a lot of these
+programs with $40 million of
+awards so far in the Connect to
+Mexico infrastructure, about 2.5
+million of the 5 million, so
+half of the funding for the
+program and we again just
+recently launched the program
+we're getting ready to turn
+around those, those awards for
+the uh Student nect program.
+Additionally, you have our bead
+program. You can see it's a
+five-year program cycle. So it's
+a 4 years that's really been
+awarded with uh one year
+potential for extension. Same
+thing with the digital equity
+funds that are going out to make
+sure digital literacy occurs,
+devices, uh, all of those
+programs have just gotten
+approvals in July, uh,
+respectively for Bead and in
+October for digital equity, and
+we're turning those around on
+the timelines from the federal
+government and we're launching
+those programs in January this
+coming year.
+For, for applications. The
+remaining programs are put down
+beneath there, you can see that
+there's a lot of other federal
+funds out there that go directly
+to providers, so the FCC has the
+Aroff program, uh, that program
+was, uh, started off the top of
+my head in 2021 and its
+performance cycle is up through
+about uh 2022, 2023. So even off
+the, the chart here, you also
+see the enhanced ACCAM, that is
+going to be a 15-year
+programmatic cycle. There are
+locations that have been taken
+off the map.
+through that program, as well as
+a lot of our tribal communities
+received awards in uh in the
+tribal broadband connectivity
+program through NTIA in round
+one and round 2 announcements
+are going to be coming up here
+shortly in the next month or so,
+uh, so we expect to have a few
+more locations pulled off. We
+also see USDA doing the
+reconnect loans as well.
+So along those lines of all of
+those programs out there, we've
+been very thoughtful about how
+we tailor all of these different
+programs together. If you flip
+over slide 4, you can see I've
+highlighted now all of the
+programs and red and just
+looking at the changes what
+we're going to be going through
+the legislative cycle and for
+appropriations, we like to see
+extensions on the Connect New
+Mexico funds, the grant ready
+engineering, planning, and the
+student connect. Many of the
+programs that we've awarded out
+of the Connect New Mexico Fund
+have very short cycles, so the
+expenditure authority was given
+to June 30th, 2025.
+It makes it really difficult to
+do infrastructure and so really
+taking the takeaway out of this
+is we want to make sure that we
+give broadbands the right amount
+of expenditure timelines
+matching closer to the federal
+on rights way permitting taking
+2 years, engineering, design,
+planning, you know, going along
+with that and then being able to
+get to the construction phases.
+So similar to building roads,
+building bridges, similar to
+building, uh, you know, water
+systems, it takes time and so
+we've done what we can in the
+short expenditure authorities
+and I think the.
+The office for being 2 years old
+has proven that we've been able
+to scale and actually execute on
+these programs, but we want to
+make sure that we get them done
+right and if there's any delays
+in supply chains, any delays in
+rights of way or permitting, we
+do not want these programs to be
+at risk, and so we want to make
+sure that that extension happens
+for the next 2 years.
+Additionally, uh, I'll talk
+about some more depth on this. I
+have a couple of new programs
+that that I would like to uh
+propose. One is a replacement
+temporary replacement for the
+affordable connectivity program.
+We saw that FCC.
+in this last year, um, very well
+respected bipartisan support,
+even, you know, we have a great
+champion and Ben Ray Lujan and
+his office behind it, but also
+on the other side of the aisle,
+uh Vice President-elect JD
+Vance, uh, you know, Senator
+Vance was also one of those
+partners, you know, really
+supporting the Affordable
+connectivity program. We have a
+need to make sure that there's
+affordability in the mix of
+building all of the
+infrastructure.
+Next program is gonna be the
+accelerate Connecting Mexico and
+I'll talk a little bit more in
+depth about that. This is
+looking at how long these
+timelines are to build programs
+and uh to representative
+Harper's Point about, you know,
+uh, having satellite in the mix
+of this, you know, the office
+has long taken the approach of
+fiber is the preferred
+methodology.
+But it's not the only
+methodology, right? Wireless
+infrastructure is going to be
+needed in Mexico. We are very
+rural, very remote locations to
+get to too high cost to get to
+and to that 0.1 of the best
+deployment methodologies for
+right now is going to be
+satellite.
+To the, to the point of uh Jay
+Santianis earlier, uh, as well.
+It is, you know, not necessarily
+the technology that's going to
+be of the future. And so we want
+to make sure we have a portfolio
+and a mix and to that point,
+I'll talk a little bit more
+about the accelerated connecting
+Mexico program, um, but that's
+something that we want to look
+at and make sure that we're
+tackling. Uh, last one is we
+have a, you know, pretty high
+need for, for additional
+broadband support. We have all
+these federal dollars and we
+still have that shortfall I
+talked about $2 billion in our
+priorities of the Broadband
+equity access and deployment
+program.
+It's gonna be fiber.
+And then wireless and then
+satellite and in those those
+technologies we see deployments
+to unserved locations as the
+number one priority, so
+locations that receive 25
+download, 3 upload, or less, and
+then you move into underserved,
+which is above 253 and below 100
+download 20 up, and then we have
+to look at community anchor
+institutions, which are things
+like government buildings and
+then we need to look at low
+income multi-dwelling units.
+Of the funding that we have. We
+know we're going to be able to
+get 100% through the unserved,
+maybe a little bit, a couple
+percentage, you know, points
+into the underserved. And so
+this is where we can leverage
+state dollars in the next year
+as we deploy the uh the actual
+application process, uh, for the
+federal programs and see if we
+can get to some of those
+additional locations, uh, and
+then other issues are going to
+come up or the cost of match
+funding which the a lot of these
+companies you can see there's
+all these other federal
+programs. Many of our, our
+co-ops are already leveraged,
+you know, they have maximized
+what they can to go after these,
+these reconnect loans they've
+gone after, you know, Aroff and
+they've gone after the FCC
+enhanced ACAM. They're really
+having a hard time coming up
+with some additional match
+funds, we should take a look at
+how we can leverage state
+dollars to help out with that.
+And again, maximize what the
+federal dollar are going to do
+out in New Mexico. Uh, and then
+for the kind of last part of the
+broadband support, uh, we also
+need to take a look at how pole
+replacements are being done.
+Ossip holes have gone up
+significantly in the last couple
+of years. If you have to do make
+credit costs on pole, it can be
+up to $6000 per pole. And if
+you're going to add broadband
+along those lines, then it's
+going to cost a fair amount. So,
+uh, with that you can kind of
+see what the landscape is and
+the broadband world, uh Of
+broadband has done very well in
+in executing what we've been
+given so far and we plan to
+continue that same trend and
+moving into the future, and we
+want to make sure that we do
+everything possible to make sure
+New Mexicans are not on the
+wrong side of the digital
+divide.
+So moving into some of the
+successes, uh, briefly talked
+about this already, but they
+beat allocation was uh was
+approved uh and our program was
+approved in July of this year.
+Uh, we are now in the process of
+putting out our notice of
+funding opportunity a couple of
+weeks ago, wrapping up our, our
+location challenges, our final
+location challenges, and then uh
+we have slated January 3rd as
+our day to open our application
+portals. Our digital equity
+program which dovetails with
+this out of the bipartisan
+infrastructure law, again, going
+after devices, going after uh
+In digital literacy skills, um,
+making sure that uh that people
+have cybersecurity uh to go
+along with the devices that
+they're going to be getting and
+learning how to use for the
+first time, uh, this program is
+gonna launch just slightly
+after, uh, middle of January,
+and then we're looking to
+dovetail the closure of it to be
+just after beat that way a lot
+of the applicants who go after B
+can also go after digital
+equity.
+Without overtaxing their limited
+grant writing staff.
+Uh, other things that we talked
+about already, ARPA CPF awards,
+our first projects are coming to
+completion here in first quarter
+of 2025, which we're very
+excited about and then uh we had
+uh renewed our MOU with uh with
+the public schools facility
+authority to launch this in, and
+we actually launched it, so
+again tremendous pride in and
+having that tool and resource
+available for New Mexico schools
+to get hooked up to.
+Uh, and then last thing is, you
+know, just looking at the
+connecting Mexico expenditure
+Authority we've awarded out half
+of the funds already and we want
+to make sure that we finish the
+funding uh here in the last part
+of the year and that we don't
+run the risk of these programs,
+uh, having delays and then not
+being able to uh reimburse our
+awardees when the expenditure
+authority goes away.
+So, uh, with that, uh, I just
+presented at LFC. We've asked
+for a marginal increase on our
+operating budget for this year,
+this is really about we've been
+initially attached to the
+Department of Information
+Technology, and we've not been
+paying them for their
+administrative support for the
+last couple of years. We need to
+do that. So that's going to be a
+large chunk of our, our ask
+here. Uh, we do want to go after
+the $70 million for the
+accelerated Connect New Mexico
+Fund for that satellite
+deployment, $35 million for the
+Affordable connectivity program,
+$80 million for the broadband
+plan support.
+And then again get extensions on
+our existing funding.
+So to the point about the $2
+billion shortfall that's on
+slide 7, you know, out of this
+really comes, you know, middle
+mile opportunities, especially
+on the western side of the
+state, some last mile
+opportunities in the priorities
+we cannot get to out of the beat
+funds and then looking at uh
+again 5G deployment, uh, you
+know, I'm sure most of us have
+driven down one of our
+interstates or even in the
+middle of Santa Fe here if you
+go by Srius and Saint Francis,
+as we've increased our
+bandwidth, right? So we've gone
+from 4G to 5G.
+What's happening is we are
+seeing that frequency, how much
+speed we get has increased, but
+the distance it can be
+transmitted and
+Yeah, how, how, what objects it
+runs into, right? diminishes our
+capability of actually utilizing
+it. And so we see a lot of these
+upgrades have actually reduced
+our, our capability of getting,
+you know, solid phone calls and
+solid internet capability. I
+know as soon as I leave the Sims
+building here in Santa Fe, uh,
+if I'm on a team's meeting, I
+immediately dropped from that
+meeting, you know, and it's
+broadband director leaving the
+Department of Information
+Technology building, you know,
+so there's a there's a gap,
+right? We need to address this
+and and fiber is one of those.
+Tech technology that's going to
+back our ability to deploy more
+towers and get more connectivity
+and have safer roadways, right,
+which is going to impact things
+like our economy. So, you know,
+to just really illustrate the
+point here is that broadband
+really starting to touch
+everything in our lives, you
+know, communication wise, and
+just, you know, getting
+healthcare, education, you know,
+our simple connectivity and
+phone calls, business
+capabilities. So, we want to
+make sure we address that, that
+shortfall and that gap and make
+sure we have the right economic
+development here for for New
+Mexico.
+Moving on to slide, uh, slide 8,
+this is just the breakdown on
+our, on our operating budget
+request of 538,000 is going to
+go for do it fair share, 112,000
+is gonna go to personnel. Uh,
+last year we worked on that MOU
+with with uh public
+schoolsacility authority, uh,
+the legislature appropriate
+$650,000 to transfer, uh, 3 of
+their employees. There are two
+vacant positions that did not
+transfer with them and so we
+want to get those additional 2
+employees to make sure we can
+operate the state education
+network and continue to get er
+funding to support the schools
+and uh leveraging those those
+FCC dollars for E-rate, uh, so
+that's just, uh, you know, kind
+of a continuation of what we
+were working on last year.
+Uh, moving on to, uh, slide 9.
+This is the uh the contents for
+the accelerate Connect New
+Mexico, uh, program, so, you
+know, looking at that timeline,
+right? We, we know we've
+actually reduced a lot of the
+households that will be served
+in the future with a lot of the
+fiber programs. But again, it
+takes time to get build there
+and if you see that ARPA program
+taking 2 years to get its first
+programs completed, we're
+essentially looking at again, a
+5-year program where the 1st 2
+years are gonna be used and
+rights away and permitting for
+this bead program. What are we
+going to do?
+keep New Mexicans connected
+today. And so for those who are
+unserved, we want to actually go
+after a satellite deployment
+program where we have a voucher,
+uh, program to pay for the
+satellite receivers, the
+equipment. Let's reduce the
+barrier so people can actually
+get that equipment in their
+home, and then let's take a look
+at those longcom houses because
+the cost of satellite is
+expensive. It's $120 a month.
+Low income houses.
+Not gonna be able to afford
+that, so we need some sort of
+affordability mechanism uh for
+this. So, you know, looking at
+this, we're proposing a $30
+subsidy for low-income
+households, brings it down to
+$90 you know, is it enough?
+Maybe not, you know, I think
+that could be some of the
+discussion as we move closer to
+the legislative session, um, but
+that being said, it is something
+that reduces those barriers to
+make sure that New Mexicans can
+get connected now and as I spend
+my time going around the state
+and I've traveled literally, you
+know, north to south, east to
+west, every corner of the state
+in the last year and a half, 2
+years.
+When I talked to New Mexicans,
+they're like, you know, I need
+it now. That's great that I'm
+gonna have this amazing thing in
+the future, but I need it now.
+And this is where this program
+can really, you know, take the
+best part of satellite, the
+deployment now to get some
+connectivity while we build to
+the future and make sure that
+New Mexicans get the gold
+standard because at the end of
+this, if we have fiber
+deployment and you know,
+high-speed wireless deployment
+to some of New Mexico, but not
+to rural New Mexico, we're gonna
+create another digital divide.
+And so we want to make
+sure that we avoid this and so
+we're looking at as a two-step
+process, but really trying to
+tackle, tackle those elements.
+11 last part of this and kind of
+the administrative um component
+of the $70 million. One other
+challenge for New Mexicans is
+that if you are, you know,
+someone who's elderly and cannot
+climb on your roof, or if you
+have a disability and cannot
+install your own satellite
+receiver, you're gonna have a
+problem utilizing this program
+and so we'd like to make sure
+some of the administrative
+dollars go to, uh, you know, a
+third party provider to do the
+loan.
+on uh on their, their household
+incomes and to be able to do
+installs for New Mexicans who
+cannot do it themselves.
+So that's the accelerate, uh,
+connecting Mexico program in a
+nutshell, again, really
+targeting and dovetailing
+smartly that we know that we're
+building the long term best
+economic driver for the state,
+the thing that is local, going
+to create local jobs, satellites
+do not do that, unfortunately.
+Uh, they, you know, are up in
+the sky, of course, right? They,
+uh, you know, when you have a
+problem, you're not going to do
+a truck roll to a satellite, uh,
+but that being said, you know,
+we want to make sure that we
+continue to have that local
+economy, especially in rural.
+Mexico, and this is going to be
+one of the best infrastructure
+pieces to do that.
+Uh, flipping over to slide 10,
+we've got our ACP program, so it
+is $35 million. Uh, so there was
+180,000 households on uh on ACP
+when it ended back in May.
+Uh, you know, this program is
+really looking at a $30 subsidy,
+flat subsidy, not trying to
+adjust for, you know, $75 rural
+or tribal, uh, this is just, you
+know, to try and bridge the gap
+here, uh, hopefully as we move
+into the next, uh next
+legislature, uh, but at the
+federal level, they'll be able
+to figure out how to move this
+project forward and move a
+subsequent ECP program into the
+mix, uh, but in the meantime,
+New Mexicans, we see them
+dropping off. Uh, we see a lot
+of the rural providers, uh, see.
+20, 30% of their, their, their,
+their market penetration, uh,
+dropping off. And so that's
+gonna be, you know, continuing
+to be problematic for a lot of
+our providers as well.
+So, uh, this is gonna, gonna go
+to try to address that gap.
+Moving on to page 11, uh, we
+have our broadband, uh, plan
+support. So, you know, in the
+last couple of years I've I've
+come to the the legislature and
+especially um the the
+appropriations committees and
+you know, really trying to talk
+about how broadband is
+infrastructure. Uh, last year, I
+wound up with a one-year
+appropriation for $25 million. I
+will tell you that it's really
+hard to do infrastructure in one
+year. There's not a lot I can do
+with it. And so, you know, we'll
+be looking for the extensions on
+that, but additionally looking
+to to the broadband support, uh,
+we want.
+make sure we get $80 million to
+help us leverage these federal
+dollars and get to everything
+while we're, while we're gonna
+go build it right now, you know,
+we don't want to get $80 million
+in 5 years after we've already
+done this big buildout. Now
+we've missed the opportunity to
+leverage the same construction
+crews at lower costs because
+the, you know, inflationary
+rates on a lot of these products
+are going up. So, um, these are
+the priorities for it, I think,
+you know, kind of hit that a
+couple of times, but you know
+ultimately if I get nothing else
+across I'd like to just say
+broadband is infrastructure
+takes
+years.
+And so that brings us to slide
+12 on our extensions. Uh, I did
+kind of hit on these already. We
+have 3 different funds we're
+looking for extensions on, um,
+all of them, you know, are, with
+the exception of last year's 25
+million, we have, you know,
+plans that we're rolling out on
+including like our 7.9 $4
+million severance tax bond.
+Originally we were gonna build
+some extra uh nodes for the
+education network, but over the
+last two years, we've gotten
+more efficient. We figured out
+how to build nodes in our first
+one, which was about a half a
+million dollars, we reduced the
+next one to about $250,000 and
+then over.
+time we've gotten down to about
+700 or $80,000 right? We've been
+looking for buildings that are
+already, you know, made to do
+this, to do the uh the
+co-location on this and so we've
+been getting more efficient and
+so now we've taken that money
+and we're, we're shifting that
+into some other priorities like
+a dig one's project with New
+Mexico Gas Company, uh, and so
+we have that coming up this next
+year, uh, going from Dixon to
+Penasco and we're gonna add
+broadband dark fiber into that
+project, uh, along with another
+project at Sandia. So we have,
+uh, we've been using that, but
+we want to make sure again that
+we
+We actually can leverage that
+timeline that needs to be built.
+Uh, let's see here, moving on,
+OK, so I have a bunch of other
+slides out there. Happy to
+answer questions, but uh, you
+know, I do like to point back to
+some things for some visuals if
+possible.
+Thank you, Madam Chair.
+Thank you for the presentation
+and I'm gonna go to committee
+members, we'll start with
+representative Garrett.
+Thank you, Madam Chair. Thank
+you, Drew, for that.
+Um
+Question
+What is the status of connect
+New Mexico council.
+Um, Madam, madam chair, uh, and
+uh representative, the council
+still exists and we attend
+monthly. I missed the Thursday
+meeting recently. Uh, I was in
+Louisiana talking with about 30
+other broadband directors and
+talking with uh Louisiana
+Broadband Office. They just
+finished their, their, uh,
+basically round of broadband
+equity access deployment uh
+applications and they were
+giving us a breakdown on what
+pain points they had and so we
+were taking some of that away.
+So the council still has been
+meeting. Uh, we definitely use
+them as advisory, uh, which is.
+kind of how we have been working
+over the last 1.5, 2 years and
+that advisory status, uh, one of
+my staff attends every single uh
+work group committee that meets
+usually biweekly or monthly
+depending upon the work group,
+uh, and then, uh, you know, many
+of the members I talked with on
+a very regular basis to try and
+get advice about different
+programs, different thoughts,
+make sure that we're not
+impacting New Mexico businesses
+too much by, you know, choices
+and programmatics, uh, and so
+we, we work very closely with
+them, uh, you know.
+know that that many of them have
+expressed, you know, verbally on
+the meetings that they don't
+like the advisory role, um, I
+mean, that's what's been been
+done in the legislative body,
+you know, over the work the last
+couple of years, but I do work
+with them very closely.
+Uh, and I'm sure one more
+question.
+Um, we are bringing forth the
+representative, um, lunchrooms
+the lead this year on public
+private part.
+Do you have any insights on the
+continuing.
+Or
+Uh, he's 3 bills in relationship
+to broadband.
+Uh, Madam Chair and
+Representative, absolutely. I
+would say that, you know, we do
+have some mechanisms already,
+right? Uh, RFPs that can be done
+but sometimes they're not
+convenient and to that point,
+you know, there is a need for,
+for, uh, you know, P3s and how
+figuring out how they're
+structured uh to work
+efficiently and economically to
+the point I was making about
+having a $2 million you know, $2
+billion shortfall, uh, you know,
+if government can't fund it all,
+how do we leverage
+dollars uh to be able to do some
+of that other, other part and I
+don't know that I have all the
+answers, but I'll tell you I
+spent a lot of time talking with
+different entities to try and
+figure that out. Uh, we
+highlighted some of it, our
+recent broadband summit, and we
+actually brought a lot of
+different funding, uh, you know,
+types to the table to have a
+discussion and make sure that
+especially a lot of the
+providers in the room knew who
+was there and who could do some
+of that extra match dollars in
+the funding going into the beat
+program, uh, and making sure
+that we're trying to make the
+right partnerships and
+connections.
+Thank you.
+Thank you, Representative
+Garrett, um, we'll move to
+Representative Harper.
+Thank you, Madam Chair.
+And uh Director Loveless, thank
+you for being here. Um.
+And uh I want to say first,
+thank you for doing a great job
+when we started this office a
+couple of years ago, um.
+You know, you're looking at all
+the federal dollars coming in
+and looking at, OK.
+You know, are there ways that we
+can manage, coordinate, leverage
+those dollars so that they're
+used as effectively as possible.
+And uh I think we're all hoping
+that uh.
+This office would be able to do
+some of the great things that
+you're, you've already been
+doing. So I just want to say
+thank you, Madam Chair and and
+director for the good work that
+you're doing with, you know,
+just a handful of folks and,
+and, uh, yeah, I'm very
+grateful. Thank you, Ma and
+thank you representative uh
+appreciate the, the recognition,
+um, and I guess the other thing
+I wanted to, to thank you for as
+well because when we
+We put this um
+Uh, you know, this broadband
+office together, um, early on, I
+asked about, you know, are there
+other approaches besides just
+fiber that we're looking at and
+the response I got was, well,
+you know, they're, those are
+other private companies and we
+can't use.
+State dollars for that.
+And um
+And that was confusing to me
+because back when I was, you
+know, newly married with a kid,
+right? We had a landline phone
+and we were broke and we
+qualified for the lifeline
+program, right? And so we're
+paying 10 or $15 a month for our
+phone through AT&T.
+Right? Um,
+And, and I know that there are
+similar programs now for folks
+with cell phones, um, like that
+Lifeline program, right, it
+still exists. So, ma'am, uh
+chair and director, I'm, I'm
+pleased to hear that we're
+looking at
+OK, we're, where it doesn't make
+sense for fiber. Um, how can we
+Um, maybe help offset some of
+that cost of satellite.
+Um, I think the state actually
+saves a ton of money in the long
+run by doing it that way instead
+of trying to spend millions of
+dollars bringing a fiber to a
+A place with 10 homes, right?
+Um, so can you maybe just talk
+about perspective there you talk
+just a little bit about like
+maybe $30 or things, but can you
+explain that? Sure. uh, Madam
+Chair and Representative, you
+know, thank you for bringing up
+the Lifeline program and, and
+I'll just note that like
+Lifeline is adjacent to the
+broadband office in a lot of
+ways, right? It's an FCC program
+and, and so to your point, uh,
+you know, about how do we
+leverage, you know, state
+dollars and and going directly
+to, to New Mexicans, you know,
+there's, there's two things that
+commentary. So one, you know,
+the program you mentioned.
+Federal, you can use federal
+dollars going directly to to New
+Mexicans, that's never really
+been an issue, um, but looking
+at the anti-donation clause, I
+believe Representative Chandler,
+you know, had, had worked on
+this in in previous years there
+was a, uh, you know,
+constitutional amendment made,
+right?
+Bunching broadband into that
+category of, of necessities,
+right? Um, it's, you know, not a
+utility to, to representative
+Chandler's you know point in the
+previous, uh, presentation, it's
+not regulated, you know,
+industry by the government, um,
+however, you know, that being
+said, you know, it's become the
+thing that touches all of our
+lives. It is the economic
+driver, it's the, you know, the
+healthcare, um, you know,
+helping social determinants of
+health, right, kind of it really
+has become the necessary part.
+of what we're doing and so.
+To that concept, you know,
+having an appropriation directly
+from the legislature to the
+Office of Broadband going to
+that purpose is exactly what
+what that uh the constitutional
+amendment would allow for.
+Yeah, and, uh, Madam Shan,
+director, thank you for, for
+bringing that up. It was kind
+of, I guess my, my real question
+to you, um.
+You know, as a, as a new office,
+right, um.
+Often we'll do like one time
+appropriations, which
+You know, is, like I said,
+great, um, but
+Hard to manage like.
+10 year, 15-year projects, you
+know,
+Things with longevity based off
+of one time appropriations.
+Um, so, so Madam chair and
+director, um,
+You know it's, it's
+Keeping track of most of the
+asks in in this uh slide deck,
+but um you just maybe boil it
+down for us, you know, when you
+come into this legislative
+session, you know, what are, and
+what's the total ask you're,
+you're hoping for and is that
+reoccurring or one time you help
+us understand that.
+And absolutely, Madam Chair and
+Representative, the way we've
+really targeted this is our
+reoccurring as our operating
+budget, uh, which is, you know,
+I think gonna just creep over $3
+million at this point, uh, into
+this next, next year, so you're
+pretty minimal, you know, we're
+running about 25 staff and, and
+um, you know, most of those uh
+positions are actually taken
+care of by a lot of the federal
+dollars, right? So we're looking
+at, you know, increasing the 16
+FTE. So that's our our
+reoccurring uh ask.
+On the one time appropriations
+that's basically everything that
+has been, been done up to this
+point. We have $675 million of
+the bead program, right, we have
+$8.6 million of um you know, of
+the digital equity. I don't
+really need anything along those
+lines, you know, the ARPA
+program is going to be completed
+in a couple of years. We're,
+we're good there. So what it
+really comes down to in the
+extensions and in new
+programmatic asks is gonna be,
+you know, targeting the
+connecting Mexico funds, which
+is about
+uh sorry, $99 million which was
+given, given to the Office of
+Broadband and then we have about
+$50 million.57 million dollars
+of, of, uh, other, you know, one
+time money that we're asking for
+extensions on. Uh, and then the
+new programmatic as total about
+185 million.
+Yeah, madam chair director,
+thank you. I appreciate you kind
+of just distilling that down for
+us.
+Um
+And I guess maybe just my last
+question asking you to kind of
+look in your crystal ball.
+Uh, we're all trying to do that
+right now, um.
+Uh, was the
+Uh, change over at the federal
+level.
+Um
+You know, do you have any, any
+indication as to kind of what
+the, the future of these kinds
+of um programs are, it does
+sound like a lot of, I mean, the
+vast majority of this funding is
+federal.
+Madam Chair and representative,
+yes, uh, the most, most of it
+is.
+So
+Most of these programs are so
+far down the road and have their
+statutory requirements, you
+know, we've worked very
+diligently to execute, you know,
+as fast as possible. Uh we've
+really kept New Mexico in about
+the 1st 1/3 of states learning
+from the, the ones who really,
+you know, uh, run the traps for
+us. So, um, you know, thank you
+to the Louisiana and Kansas
+Broadband offices, which, you
+know, I talked with their
+directors on a, on a, you know,
+pretty frequent basis.
+Um,
+But you know, we want to be
+ahead of the curve on things
+like supply chain and making
+sure we have contractors, you
+know, that, that would be out
+there and be able to do the work
+and not be, you know, uh,
+unfortunately taken up by, by
+our much bigger neighbor to the
+south, you know, Texas and, and
+so we we've done a good job with
+that. So I don't see a whole lot
+of, of risk barring an actual uh
+You know, statute changing from
+Congress, you know, there, there
+were some pretty clear set
+priorities and because we are
+going into the application
+process being open, you know,
+once you get there and you're
+having a competitive process,
+you know, it doesn't make a
+whole lot of sense to try and,
+you know, change the the track
+after that point.
+Yeah, I think you might have
+share and director I, I, yeah, I
+appreciate you saying that I've
+had several folks come to you
+with similar questions not about
+broadband, but just.
+What's going to happen? I'm
+like, well, you know,
+Really almost everything has to
+go through Congress. So,
+It's gonna be the status quo
+and, and Madam Chair and
+Representative, you know, one of
+the uh the oversight agencies on
+the federal side is uh NIST and
+um they follow commerce's very
+specific to CFR, you know, 200,
+um, you know, guidelines on how
+money is supposed to be done
+and, and how grants are supposed
+to be done and, and so, you
+know, going through federal
+rulemaking is a very long
+arduous process too. So, um, you
+know, to that point, we believe
+we're gonna be done with the
+entire program by the time, you
+know, any true rule changes
+would take effect.
+Uh, Ma'am She director, uh,
+thank you for that. And, and
+again, thank you for the great
+work you and your, your
+department are doing. We really
+appreciate it.
+Thank you.
+Thank you, Representative
+Harper, thank you so much,
+Director Lavelas, we appreciate
+you being here this afternoon.
+There's no other questions. Do
+you have a question?
+Oh, I thought you were, you
+were, oh, senator.
+Into
+as a question we'll move on and
+I, it's more of a comment.
+It
+When COVID came out and they're
+trying to get the.
+Internet onto the reservation.
+He had all these little
+programs.
+And then they're like well cons.
+For a little bit.
+And then next thing you know,
+the program's gone and we got
+to.
+Great rate increase.
+So keep that in mind when we're
+down for a little bit.
+But when it comes down to it,
+and then we're back in the same
+boat.
+The man
+Thank you, Senator Pinto. Thank
+you again, director. Thank you.
+So we are going to move on. Do
+we have our last presenter here.
+OK.
+Come in
+If we have um David Gibson here
+we'll move him up a little,
+we're a little early, about a
+half hour, so we'll move on to
+Sandia National Laboratories if.
+David Gibson is here. He's not
+here yet. OK.
+We'll have about a 5 minute
+break while we wait for our next
+presenter.

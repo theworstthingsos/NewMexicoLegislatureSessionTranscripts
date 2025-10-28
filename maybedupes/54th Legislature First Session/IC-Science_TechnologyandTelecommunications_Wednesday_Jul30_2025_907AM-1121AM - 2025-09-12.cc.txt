@@ -1,0 +1,3822 @@
+to gather less in it.
+Thank you for being here for the
+second day of the science
+technology and telecommunity
+should communications committee
+will start off this morning with
+doctor rodlin if you like to
+come up and join us please.
+The.
+Members of the committee
+ongoing.
+Introduced myself just to set
+some time so i'm rod land i've
+i'm out was almost national
+advertise.
+I've been there for.
+Almost thirty five years.
+Ah majority that time i've been
+doing things related to fluid
+dynamics but
+also a big big part of my job
+has been wildfire science and
+wildfire modeling over that time
+started in late nineteen
+nineties.
+Doing that work at the lab.
+The.
+And.
+So probably what I should start
+with is just telling you why
+why landls.
+In that space and how we got to
+that space first of all for sale
+almost have an inherent
+interest.
+In environment fire based on its
+vicinity to fires.
+It's ongoing the exposure to
+both the natural fires as well
+as things like our operations
+that it could start fire so we
+have to we have to always be
+trying to manage
+that's interesting
+we always have to be managing
+our landscape for both the
+natural and the act that a
+vagenic account to fires but
+when lounge started in it was a
+silent serving society effort
+how can we take the things that
+ran all has done historically
+fluid dynamics he transfer high
+performance computing and and
+use that for societal problems
+and wildfire was one of the
+problems it was chosen a long
+with
+water resources and actually
+epidemics and so
+so was almost australian they
+said we'll how do we take what
+we do
+and move into that space.
+And.
+The what when you think about
+fire and you think about all of
+the physics that drives the
+behavior
+it's all interacting and that
+goes across many of landlines.
+Space is that that we work in
+that are outside of this one and
+so
+how do we leverage all that
+stuff so that's why my talk to
+you a little bit about today.
+What are the things it's really
+important for fires is pop fires
+don't work in a vacuum.
+They're they're always
+interacting with the environment
+around and the fuels the winds.
+Both in how they behave as well
+as what they're affects or so
+that's a big part of what we do.
+While in fire also has a lot of
+synergy with other things that
+lost almost as interested in.
+Weapon effects national security
+and so there's a nice tire that
+continually feeds from the
+mission spent the cormission
+space of the laboratory in the
+fire science that we do and
+back.
+So lannell has two tools.
+Two marlin tools that were
+developed over the last couple
+decades fire tack is a high
+performance computing platform.
+Tool that we use thousands of
+processors and get really
+detailed results and can learn a
+huge amount about phenomenon the
+interaction between fire and the
+atmosphere and fire in the fuel
+structure.
+But it's not necessary the right
+to for practice yours to be
+using to play on their sky fires
+or to look at at risk and look
+at the effects of fitting in
+mitigation so we developed quick
+fire as a way to leverage all
+the things that we learned out
+of that high performance
+computing based fire type.
+To
+to enable practitioners to use
+some of that signs for more
+opportunities
+bother those tools about one or
+india one hundred.
+Yeah.
+So over the years this is been
+a.
+A center piece for a lot of
+collaborations for the
+laboratory with agencies.
+And entities that we don't
+typically work very closely with
+it including the us foresers the
+US geological society is a
+special wildlife the stated in
+mexico the canadian forest
+service
+and then the french government
+but it's also been in very
+recent years is huge source of
+collaboration for work with dud
+but what people don't understand
+or realizes that deod does more
+prescribe fire than any other
+agency on a paracle basis for
+what they own and the reason is
+is because they first all have a
+mandate to be responsible with
+their land but they also know
+they're going to start fires
+just through their natural
+operations right if you're doing
+municious testing you're going
+to start fires so you've got to
+be aggressive and you've got to
+get out there manager landscape.
+So dud is after one become one
+of our strongest supporters and
+strongest.
+A funding agency is because they
+want to be proact.
+So i'm gonna back up a little
+bit and just talk about
+wildfire modeling in general
+just so that we we may be
+changed some perspectives so
+historically the focus of
+wildfire modeling has been the
+big crazy fire when it after
+it's already started where is it
+going to go this afternoon where
+is it going to go tomorrow where
+do we do evacuations etc.
+And all of the emphasis since
+the nineteen sixties has been
+put in that direction.
+The.
+However we should put this in a
+context.
+Because if we think about what's
+important for that application
+of wildfire modeling it's speed.
+But the details aren't as
+important.
+And part of that because the
+fires that those fires are being
+driven by
+strong winds broken department
+fee heavy fuels and they're
+actually.
+The details aren't so important
+it's the big growth behavior.
+But the moment we start to think
+about.
+Being more proactive and start
+to add an additional application
+spaces like community community
+planning
+resource benefit decisions are
+we gonna let this wild fire
+bone or are being an attack with
+everything we have.
+The mobile you start to do those
+the details become really
+important you want to you're
+trying to to draw really fine
+line and decide which way which
+side of that line
+so how do we like prescribe
+fires how do we put them out
+there safely when do we do it
+etc those are very detailed
+questions where you might not
+be.
+Just interest in the fire
+behavior might be interested in
+what in the ecologic outcomes
+what are the watershed outcomes
+down the road so now the details
+of what has to come out of that
+become really important
+unfortunately for this proactive
+applications the tools that we
+used in the past for wildfire
+response or not adequate.
+They're different they're
+different spaces in the
+requirements or have much every
+more heavy on the details so
+that's the space where los
+alamos has been focusing on it
+of attention.
+So what makes wildfire modeling
+so hard first of all.
+If you think about whether
+moment how often do we get the
+weather perfectly right we're
+getting better all the time but
+they're still a fair amount of
+error now take that and think
+not only do we have to get the
+weather right to get fired right
+but we have to understand in the
+fuels we have to understand.
+The dynamics app say pinied off
+scales and everything in between
+so this is huge range of scales
+that are important that effect
+the way these.
+These fires behave.
+Unfortunately from a competition
+standpoint that is really nasty
+that is a really hard problem so
+that that range of scales but on
+the right side of the screen you
+see the cartoon of all the
+different things that go to
+gather to make wildfires behave
+the way they are it's not simple
+and just pulling all those
+different processes and
+accounting for them together is
+a challenge by itself.
+Then if we think about what's
+burning.
+If you flew over any of these
+through pictures from the air
+you'd go oh that looks pretty
+homogeneous it's just a
+continuous forest but when you
+get down to the scale of the
+vegetation it's not homeless in
+this.
+It's not the same as if we are
+burning across this carpet.
+That had a genetic effects the
+way things happen and that's why
+fires are so sensitive to sudden
+changes in the conditions.
+Fires are not all the same I
+mention this a little while ago
+there's the intense fires that
+are driven by really strong
+drivers and they're not so
+sensitive to little
+loans in the wind they're not so
+sensitive to a you know a trail
+through the words they just blue
+right past the.
+But on the other hand the lower
+intensity part of fires which
+includes the backing and flaking
+part of of large wildfires those
+are very sensitive to does
+august hit at the moment when
+that fire has to leap across
+that trail.
+If the if the gust doesn't
+happen in that trail might be
+enough to stop those law
+intensifiers.
+So in some senses law intensity
+portions of a fire are harder to
+predict its hearted to
+anticipate.
+So I just want to strike with a
+simple and scenario wind come up
+with for fire you've got a
+constant wind it's burning
+across the field it's flat to
+partner fee.
+In that scenario you would say
+oh we should be able to get that
+we we know the fuel would know
+the wind we know the moisture
+the fuel that should be easy and
+that's what our current
+operational tools require to
+predict fire behavior but if I
+look at the three pictures on
+the screen right now or the
+three fires on the screen right
+now
+they're different.
+They have obviously different
+behavior they were look at the
+same time
+but they have different spread
+rates different size different
+ships what's the difference the
+difference is the size of the
+line at the moment when they
+were ignited.
+So now we now it's not just the
+ambient conditions that dictate
+fire behavior is the fire shape
+it's the first size and so
+there's an except there is
+acceleration there's all kinds
+of other things that happen.
+If we put this into a couple of
+fire amounts for a model like
+fire check and we have two fires
+here that are in the same exact
+conditions flat part of the
+homogeneous grounds constant
+winds but we have different
+windignitions
+the emergent behavior is that
+they have different spreadsheets
+based on those ignition sizes
+so.
+Why don't our operational tools
+capture that it's because
+they're not focusing on the fire
+the atmosphere feedback with the
+fire fire makes it on winds you
+probably heard that before.
+It makes it on its local scale
+as well as large scale that
+feedback is the big diff.
+So historically there's been a
+lot of work to make simplifying
+the assumptions about fire where
+we could think of it is just a
+wonder spread it's going to go
+this way based on my slope and
+my moisture my wind and that's
+fine that allows us to simplify
+things computationally quite a
+bit and so that's the approach
+that's been going on
+unfortunately if we look at this
+picture that's not a wall of
+right this is not the same as
+this from a fire behavior
+standpoint right this allows
+area to go through
+where this would force it down
+or force the window go up
+that's a big difference
+and so by starting this to
+couple fire at my sipulations we
+understand better how to handle
+this and and improve our
+simplified tools so the
+simulation you see right now is
+a fire that's coming out the
+viewer.
+A long with that quite line
+there's a plane and on that
+plane there's a series of
+vectors.
+The the red zellas and greens
+are light blues are coming out
+of you the dark blues are
+actually getting pulled back in
+towards the fire as they
+approach you and what I want you
+to think about is how much that
+fire is changing the atmosphere
+around it as it approaches that
+plane and so you're going to see
+that that all those winds that
+are being caused by the fire as
+it comes toward just they're
+going to break down into these
+towers and trust see him right
+there where you've got updrafts
+and then the gaps between the
+updrafts are aware the harder
+comes through the fireline in
+heat the fire in front or each
+the fuel in front of the fire
+that doesn't armick and that
+interplay
+is missing
+from a lot of the tools that are
+out there now
+and so if we want to make more
+robust tools that can operate in
+a wide range of scenarios
+this is one of the opportunities
+so i'm just going to talk a
+little bit now about the
+opportunity spaces
+we can we can use these next
+generation tools to evaluate
+risk.
+Two communities or
+infrastructure.
+Here are we we had a particular
+site that was of importance and
+somebody else is to do some
+analysis think about how this
+can in my change of the fire
+behavior whether it would stop
+it or not
+when we do these simulations you
+the nice part is these are three
+dimensional representations of
+the vegetation so you could go
+in there and you can
+mechanically treat right remove
+the fuel
+remove every other tray or the
+small trees are the big trees
+from the scenarios change as far
+as behavior we can think about
+how would prescribe fire change
+the fire behavior we can even
+think about how would climate
+change or evolving conditions
+change fire behavior and the
+risk to critical.
+We can look at scenarios that
+are high consequence but low
+frequency events this is if you
+think about you you feel that
+gust before a thunderstorm comes
+in that doubt is because the
+atmosphere is coming down and
+it's pushing it around
+this is a scenario where that
+density current that that dense
+area that comes out in front of
+the thunderstorm can intersect a
+fire and and there are scenarios
+where that is caused fitalities
+for our firefighters the more we
+can understand the phenomenology
+the more weakened safeguard are
+practices and put up the right
+alert so we're we're aware so in
+this case that that back
+spending motion as that density
+current comes around and on the
+top you see the the gray is the
+surface is just the indicator
+where that and
+on the bottom right is
+is the vectors there are caused
+by that as it rules across the
+intersects the fire which is
+seen as that back spending
+motion as it moves across drives
+the hot air down to the ground
+accelerates the fire spread
+makes it so the heat can escape
+that you can't get up so it's
+not just a little bit stronger
+and wind it's actually this
+complicated dynamics in the
+atmosphere of this this having
+the feedback where the fire we
+can study that stuff and improve
+the faster running tools with
+our understanding.
+So taking down a little bit
+further here's another example
+of a density current and this is
+from the dude fire which had
+three fatalities I and if you
+can sell my speed I can't see if
+they're unfortunately very well
+there's I guess in the upper
+right you'd see through dots
+those who were there with
+italities those are the
+locations of the face
+so there was a desert credit
+that rolled across the landscape
+and intersected this fire and
+caused it to go much excellent
+and got much faster than
+anticipated unfortunately we had
+people that weren't didn't know
+the density current had occurred
+the downwash
+and were maybe down in a
+depression or an small valley
+and they were cut off card the
+more we can understand this
+phenomenology and figure out how
+to give the right alerts the
+better off we are but the other
+part of this is how do we train
+our fighter fires with this kind
+of technology so they can see
+and understand what they're up
+against out there.
+Prescribe
+is something that the mexico has
+has unfortunately had some bad
+experiences with.
+Though more weekend and jack
+science in two understanding
+what sets up a successful
+prescribed fire versus
+unsuccessful or disastrous
+prescribed fire the better off
+we are so this is a big place
+that the laboratory has been
+pushing over the last five or
+six years.
+Anyone was taken up prescribed
+fires.
+They land in the space down
+below where it's very sensitive
+to the fine scale activities
+where the finest deal conditions
+on the landscape and so there
+are actually harder to predict
+because you are trying to put
+prescriber into a little box
+rate we're trying to to do it in
+a certain way it takes a lot
+more science in a lot more
+understanding to predict exactly
+how they're going to cur.
+So what makes prescribed fire so
+different than wildfires
+well the first thing is we have
+the ability to plan how to buy
+and where to burn what bond and
+windowburn right
+that's great that means we
+should be able to dial this in
+if we understand the way fire is
+going to respond to its
+environment which be able to
+dial that I
+unfortunately that also means we
+have a lot more responsibility
+every time we but the sky fire
+on the landscape we need to be
+able to dial in and and and work
+very hard to avoid this
+disasters
+so we also need a right you know
+we can just pick the range day
+in person I fire out there
+because then we don't achieve
+our objectives but how do we
+balance achieving the objectives
+of the prescribed fire without
+an unintended disastrous or
+harmful outcomes
+so
+with prescribed fire
+one of the things that were
+really working with d the US
+forest service on is how do we
+help refine prescription windows
+how do we better understand
+the the weather conditions and
+the fuels conditions that are
+going to lead to surprises
+the answer should not be we just
+keep restricting it could then
+we're not putting any fire in
+the landscape we're not getting
+back to any kind of balance the
+answer is we need to understand
+it because there are probably
+some conditions that were on
+comfortable burning because we
+don't understand and conditions
+where we think we are safe and
+or not we need to we need to do
+a better job of of refining
+those thinking about how do we
+use our ignition strategies i'll
+talk a little bit more about
+that but what people also don't
+understand about prescribed
+buyers often times is that they
+were purposefully engineered
+ignition parents to meet the
+objectives the practitioners are
+putting more fire on the
+landscape or less fire in the
+landscape or change in the.
+Patterns to achieve specific
+objectives including safety and
+so how do we help increase the
+learning curve so that that's
+something that is inherently
+better understood by younger
+firefighters
+so along that note here's two
+examples of prescribed buyers
+these are real prescribed buyers
+there's the drone that was being
+used to ignite these fires
+had a gps so we know exactly
+where the ignition spares were
+dropped
+out of the drone this is in the
+southeast not into mexico
+and on the left is the actual
+prescribed conditions and on the
+right was just slightly dryer
+and you might say what they look
+the same but if we look down in
+the lower left there's a hairpay
+and road there that's captured
+on the right or captured on the
+last but on the right you see
+down here in this corner it's
+spelled over it's a escaped rate
+that's just a slight change in
+moisture with the in the unit
+and now we can see at at the
+late stage as it's also escaping
+on the upper side of this burn
+but being able to define what
+that looks like and just because
+it might escape doesn't always
+mean you don't do the prescriber
+but it means you put some
+holding resources on that port
+portion of the line to deal with
+it so
+doesn't doesn't important thing
+so here here is a seven
+simulations or one simulation
+are they
+that was amongst several
+simulations where we're
+exploring a passible prescribed
+buyer in band a learner and this
+was a really interesting
+analysis because
+inside the unit
+it was hard to get the fire
+intensity high enough to get the
+objectives that they wanted.
+But if you look at the upper
+right hand corner there are
+still a couple of escapes it's a
+pretty steep slope up there that
+they were lighting off of and
+with this particular ignition
+scenario they actually got some
+escapes
+again that doesn't mean you
+don't do it it means you have to
+think carefully about it whether
+not you can hold it there but
+the rest of the burn here said
+this was not going to produce
+sufficient fire risk reduction
+or fuels mitigation to call it
+as success
+so what are the big differences
+in the big challenges for this
+kind of modeling is how do we
+get the fuels right this is not
+pencil landscape and say that's
+upon russia for us that's all we
+need to know
+we're actually putting three
+dimensional vegetation in these
+tools because the gaps between
+trees matter as much as the
+trees themselves the gaps
+between the surface and the
+crown whether it's dead or live
+and whether it's that are live
+batters a lot so the so part of
+the game known is we need to
+rethink how were measuring the
+assessing and characterizing our
+vegetation on the landscape so
+that we can drive his next
+generation tools so that we can
+do all the stuff I just talked
+about and so were working with a
+variety of partners but a lot of
+our efforts have been how do we
+use things like lied are which
+is basically using the laser
+sending aways are out and
+looking at its return time and
+mapping what mapping are cloud
+of things that it hip so you can
+actually map a tree by sending a
+laser out and letting respond
+and there's two is to do that
+one is take a try part out with
+this thing on it.
+And it scans are scene but that
+only gets about thirty meters
+from your chipot
+the other one is your flight is
+something over the top and you'd
+take a downward look and but
+that only gets what it can see
+from about it gets a great map
+of what it can see from above
+but it doesn't get the trumps
+doesn't get all of the
+understoreant in a dense forest
+so one of the things that
+automatically work in very
+diligently I have is how do we
+use the machine learning an aa
+to to dove tails bring this
+together learn from the
+torrestor one the one it's on
+the ground which you can't do
+all over the landscape right we
+can't map new mexico
+learn from that one how to infer
+what the structure is an
+associated that with what's
+coming what's being viewed from
+above
+the other thing that we're
+working hard in is not just
+looking at fire behavior but the
+side call of fire fire facts the
+hydrology the ecosystem or
+forest response and how that so
+far goes so that you can think
+about how do we optimise if
+we're going to do forest
+management or prescribe fire how
+do we best
+plan ahead what's the meat and
+schedule right do we need to
+plan to put something out there
+every every fifteen years in new
+mexico in in the hames for
+instance in the south is down
+the dod lands that we work in a
+lot there are having to
+prescribe fire to keep things in
+balance what they feel like is a
+property ecological bounce they
+burn ideally every three years a
+given piss a land not one fire
+on their base but every part of
+their base scam bond every three
+years
+there are folks that say the new
+mexico should be boning every
+every location
+somewhere ten to twenty years.
+There are some people people to
+come up with other numbers i'm
+not i'm not giving out debate
+but understanding that and
+understand the implications for
+the hydrology and for the
+systems as well as fire risk
+it's all a coupled system.
+And I think the the thing i'm an
+end on here is the fact that
+were also working to accelerate
+training or could this is a
+small company in south aside
+this to
+and they're working with the
+laboratory through the trigger
+program to
+create virtual reality based
+training tools that they can
+accelerate while then fire
+training to
+understand fire behavior
+understand these complex
+dynamics that I just want to
+long talking about and
+an increase there the rate which
+we can have people qualified to
+do for sky fires in the safe way
+increase the rate at which were
+pretty simple wild and
+firefighters
+so this is again this is a
+trigger program with side
+estimates and and I think that's
+why I will leave it.
+Thank you very much we have a
+few members with questions and
+it to buy us and we'll start
+with you.
+Um hey if that was interesting
+at long in detailed but really
+interesting um are you the only
+ones at at length that have this
+program or do you give other
+agencies around the state or
+country access to it.
+So thank you for the question
+the the tools were developed at
+landline they are the forest
+service has them done has them
+your special wildlife i'm have
+them especially quick via the
+one that runs faster and some of
+the prescribed buyers and
+relations those were quite bad
+but yeah we're the laboratory
+it's we're not charging for
+other people the to use it or
+anything like that fire tech is
+also available in the forest
+service has had it in the past
+and so forth but you have to run
+it on super computer so it's not
+quite as easy for everyone to
+use
+the universe california san
+diego is taking quick via and
+embedding it in their in some of
+their operational systems that
+they're making available for so
+that cal fire can use it for
+instance and we've been talking
+a lot with lower my current
+cartee here in the state in the
+mexico how do you agree some of
+the stuff into
+her
+program
+thank you and i'm madam could
+share are there scenarios where
+you kind of alluded to it in one
+thing but are there scenarios
+where you decide i'm a
+prescribed burn is not prudent
+in those cases or with this
+program to people call in the
+goats do they have a a combo do
+they just leave it like what are
+different options.
+So again thank you for the
+question
+the
+there are certainly scenarios
+that these programs identify
+that dangerous
+dangerous prescribed by a
+scenarios and in dod which are
+which is the agency that's
+currently taking it closest to
+operations they're having their
+practice learn from it and and
+change their
+guidelines for for
+when is appropriate to write the
+fires you can also change the
+ignition parents or just change
+the number resources
+so so
+so the easiest way to do this is
+is in your first california san
+diego is doing it with this tool
+is to run on samples of hundreds
+hundreds of simulations for a
+given perspective that nap the
+different moisture and wins and
+areas that you might see on a
+given day since you can such a
+bounds a little bit more
+carefully and understand
+even if I if you started the
+fire in the morning and then the
+windstructure change you need to
+be alert that this is getting
+into dangerous territory maybe
+we need to shut it down maybe we
+need to get some our cruise out
+here before it gets bad and all
+what people don't always
+understand about prescribed
+fires when they're done right
+there well engineered there well
+thought out they're not just i'm
+not like some fire and
+let it go in the wind
+thank you manager so the fire
+that we had here a new mexico a
+few years ago that was a
+prescribed fire that did go out
+of control was a tool like this
+use okay and am going back to my
+prior
+I mean I can't laugh asking this
+but is it only fire that's an
+option or I mean I there's a man
+in real ranch or the reason why
+i'm asking I think he's in real
+around show and he has a company
+where he sends out goats even
+comes.
+Down to the real ground area and
+I mean it's amazing what they
+clean out obviously they can't
+clean out an entire forest but I
+am like the the little area that
+you showed us with the canyon
+and that building and they
+wanted to know what would it
+look like in with the canyon
+start it
+are there times where people use
+other means other than
+prescribed to fire to clear how
+do they do that there are
+definitely I mean
+part of the problem that we're
+in
+well first fire is a natural
+part of the ecosystem
+we we have a as a country about
+very hard for many years to keep
+it out of our ecosystem and now
+we've got this back long we've
+got a lot of force that aren't
+in the natural condition they've
+got a lot more
+buy mass both living and dead
+that's there
+and so the first trick is how do
+you get rid of that excess and a
+lot of the excesses on the
+ground and so there's a lot of
+methods to get out that goats
+are one you know mechanical
+treatments are another
+unfortunately there they tend to
+be kind of expensive
+and and honor when when people
+are practised in doing it and
+especially if it's been done
+before
+a lot of agencies I do are going
+to prescribe fire because it's
+the cheapest
+and it's getting fireback on the
+landscape which ultimately gets
+you in that regime where you
+want to be but goats or
+I mean
+mechanical treatments those are
+all things that help you get
+where you want to go and there
+are folks rich network who is
+the fire management officer
+atlanta
+he's done a lot of work where
+they found that a combination of
+mechanical treatment and
+membership is the most effective
+thing so you're you're dropping
+the risk with the mechanical
+treatment then getting the fire
+on the landscape and then it's
+sustainable unfortunately that's
+expensive it's.
+You're your parador cost with
+the chemical treatment and I
+suspect but i'm not sure.
+Sorry there are lots of options.
+Thank you thank you very much
+think you senator and just to
+let them know I have
+viable people on the list and we
+are we have a tightstore
+schedule today so if we can keep
+the questions and answers as
+tight as possible representative
+thinks madam chair and thank you
+this was fascinating especially
+I mean it's relevant to our
+state but all over the world
+there's huge fires
+so one of our sources of fire in
+many places but especially in
+our dry climate here lightning
+so once a fire starts is there
+any kind of mobile unit that can
+start dealing with the input of
+these factors when it's not a
+prescribed fire.
+So this is a little out of my is
+it's out of outside of my area
+that I actually work
+but I can tell you that there is
+a lot of effort going on
+nationally for a faster
+detection
+and then be what are our what
+are the options.
+To get resources to that to that
+fire faster I mean there's
+there's always that the heart
+shots and things are goes but
+sometimes you've stratched your
+resources pretty ten
+and so one of the keys then is
+to be able to tried and
+understand which fires do we
+really need to get those high
+end resources to and which fires
+can we do something else with so
+there is work on a national a
+lot of work on national level
+associated with that there is a
+national account measures turned
+last year on that topic
+thank you over many other
+questions but i'll just ask one
+how is federal funding in effect
+all this obviously it's
+expensive there's multiple
+people around the country doing
+it in other countries are you
+feeling any impact yet
+i'll just say that a fair amount
+of our work historically has
+been supporting the service or
+indeed programs and US g s and
+use fish awhile life
+and so the answer to your
+question is way outside of my
+expertise but
+the fate of those entities will
+directly affect this work thank
+you
+thank you representative of
+senator thorton
+I think a better chair and just
+have a few questions for so I
+think that thank you for your I
+appreciate your presentation
+i'm i'm a sifty guy I retired
+from sandy allowed to chapter
+twenty seven years and so so
+this was all period to me and I
+loved it all uhm
+one of the things that you
+mentioned that you demonstrated
+the sensitivity to the initial
+conditions that you apply and
+and also the your also talked
+about understand the fuel
+structure you know what was the
+fuel health way it out there.
+And so for my perspective I I
+think these could be predictive
+tools by a question to you and
+maybe you can help me with this
+these simulations take time to
+set up you know understanding
+that the degree added to
+established initial conditions
+to bound the conditions how
+quickly can you turn these
+around it and i'm saying you
+have fight attack or quick tech
+which is for quicker analysis
+but how quickly can you turn
+these around given it's it's
+it's still not fire started in
+the east mountains where I live
+uh cedar crashed over to heroes
+or something like that and
+all and we know that it started
+on search blocked from somewhere
+how quickly can you turn around
+with analysis to predict where
+it might go given that you have
+to bring in the weather and
+everything else the society with
+that area so it's it's it's a
+great question and it's an a
+part of the answers that's one
+reason why we spent time on some
+of these other applications
+because that is a very hard
+challenge however the us forum
+service has been investing
+significantly likely and being
+able to generate
+first cut fuels for this credit
+to all and it's available online
+we can pick up any any location
+in the country
+i'm at least the clinton nine
+states but I believe the entire
+us and generate the fuel
+structures for these models
+within an hour
+then we have ability to bring in
+weather streams from there now
+or somebody else might pretty
+producing so you could get it
+going relatively quickly
+and depending on the size that
+you're interested in fire can
+actually run two or three times
+faster than real time smaller
+damage we got a big demand start
+so much
+so i'm going to say hours
+potentially we haven't put it.
+Our focus hasn't been to develop
+an operational center it's been
+to develop the capabilities but
+I think the combination of that
+and the four service and best of
+an etc is getting us and costs
+okay I can appreciate that madam
+so I can appreciate that I I
+think.
+I understand how much time it
+takes to pull put these models
+together and sell and and in the
+course given the sensitivity to
+all these other conditions
+so I was curious if in your
+boundary conditions do you
+change the wind voluntary or
+would typically do to have a
+fixed wind bossy fixed direction
+when you run analysis or do you
+have the ability to put it like
+a cyclic so one of the details
+that I didn't mention is in that
+so there are the two percent
+buyers one was drying one was
+not
+that was actually using the
+actual winds from from the day
+and so there's a there's a
+little error that does this
+during doing the simulation to
+indicate that I didn't point it
+out but yes it's dynamic and
+it's
+touring following etc very good
+I saw that you were getting your
+your you in august this
+initially was there started from
+ldrd so I so could good on you
+for taking that and expanding it
+tired is I think the the really
+valuable thing about the already
+here is fire tech was started on
+an
+and not gonna sin with the
+foresers and optus game momentum
+and then the laboratory saw
+value in investing again
+injecting with elderty and that
+got quick fire up in our quick
+fire is often running with you
+as for a service and the
+extraordinary agency so the has
+been a real important catalyst.
+Two
+to the transformation of changes
+in the program very good just
+want to ask the question are you
+familiar with the sandia two for
+way go or have you had
+interaction with them at work
+with the the team they're
+starting way back when lugrid so
+was there is now from global
+right available those folks and
+and still work with your again
+missing say high to glow if you
+see him and tell him and said
+high thank you very much
+thank you senator representative
+little
+think you madam chair don't
+really think you so much for
+this presentation I really
+appreciate
+all that's being done to take a
+look at this scientifically and
+the analysis that has been
+taking place over time i'm
+curious you mentioned a partners
+that you work with it to develop
+to refine this information i'm
+curious about how the
+communities that's around this
+area might wait into this
+modeling
+specifically err
+we've had stewards of these
+lands who have lived in these
+areas of new mexico for hundreds
+and thousands of years if you
+well and I know coming from the
+public sample piano house we
+have we have history the
+narrative of
+big incident events that have
+happened
+in nature madam chair and so i'm
+curious as to how and at what
+point
+this
+indigenous or community
+knowledge because there are
+spanish communities that have
+been established here for over
+five hundred years how
+win that opportunity comes in
+for that and has it come in
+madam chair thank you.
+So
+locally I I find some of the
+most interesting conversations
+that i've had had the
+opportunity to have as a
+laboratory employee is with like
+the four four pleblos and so
+forth when they come visit and
+we talk to them about this stuff
+because of exactly what you're
+saying adult and and so they're
+very interested from exactly the
+standpoint from a larger scale
+of national scale I probably
+bend to five meetings in the
+last year and a half where AP
+focus of these national meetings
+including things like
+the national science foundation
+I hold meaning holy meanings of
+how do we tap that indigenous
+knowledge how do we tap the
+indigest understanding of how
+you use fire because there's
+there's a a large scale
+realization that we've gotten
+ourselves to replace now where
+we're behind the curve because
+we've
+we haven't embraced fire as a
+natural part of the system and
+obviously we don't we want to
+manage fire and it's influenced
+with people and infrastructure
+or not houses and communities
+but there but but that the
+the folks had been on these
+lands for a long time had a
+different approach to.
+Think you made him change at a
+quick question and i'm happy to
+talk with you offline about this
+and it might be because somebody
+else is dealing with this but
+i'm wondering how um I
+appreciate all of the the
+natural um
+elements that you're deal that
+are being dealt with i'm just
+wondering how and if you factor
+in buildings commercial homes
+otherwise these structures that
+have been pleased in the four s
+I mean I can think of several
+places that I probably will not
+if it's it's challenging to
+beautiful but challenging the
+imagine being prepared how I
+might
+deal with the an event such as
+fire that comes up thank you
+madam chair
+wikis dancer and I realize where
+we're at a time here is that
+we are we are actually currently
+moving into that space there's
+we just received an old already
+that will start in october topic
+accelerators into that worry the
+wild and urban interface space
+are working very policy with
+folks at all you see and yes for
+a serious forest products to
+to be able to account and
+understand and and factor in
+structures that are better
+thank you thank you for that
+response and I just want to
+finish manager with a quick
+statement about a quick a
+comment about
+i'm really glad to hear about
+the indigenous contributions to
+this I think that that
+experience can help compliment
+and probably already has
+complimented the work the
+scientific work the analysis
+it's being done but thank you
+very much for the information
+thank you madam chair thank you
+represented every of two more
+representative martinez.
+Think a man charities had a
+quick question you're talking
+about the instances where
+there's an escape and you
+referenced holding resources
+what what exactly is a holding
+resource in that sorry so a lot
+of times i'm prescribed bios if
+you know I mean let's say the
+wind is going this way and
+you've got a line that you're a
+little concerned about first of
+all you usually light your
+prescribed fire
+moving up wind but that doesn't
+mean you're not going to go
+spark over over that line and so
+a lot of times your put when we
+can't hold in resources which is
+a crue with water
+or or other tools down window
+that to look for those spots and
+to put out fires when they're
+really really small when you can
+manage them you get into trouble
+if you don't have any resources
+there you don't know that the
+spots occurred and then they're
+often running
+but but that's a very common
+practice i'm prescribed buyers
+is to
+if you understand where the
+risky spots are you you treat
+them as risks and and manage
+them accordingly.
+Thank you representative against
+us
+thank you madame chair I think
+my question is and follow up to
+senator thought in then some
+other ones is you mentioned in
+here about how everything needs
+to be considered when you're
+mapping out
+you know the simulations
+and I guess my question is you
+talk about drones but how are
+you actively collecting like
+some of that real time data you
+know wind speed you talked about
+you know the fuels on the ground
+fuels crowns
+like or andor is new mexico
+currently mapped like what is
+the process of collecting all
+those data points that need to
+go into the simulations that
+you're using to make it actually
+available to for prevention real
+time you know you mention it
+took about an hour to maybe put
+one together but just curious
+about how you're collecting some
+of those data proposed yes yes I
+think there's two parts of the
+the drunk fashion and i'll talk
+about
+the one that sort of feeling
+what I was doing but actually
+other people in the items could
+probably talk about
+there are also drawns being used
+for understanding fire
+conditions
+but from a perspective of
+understanding our fuels and and
+understanding senators there's a
+lot of work right now to use
+drones to do to take light on I
+mention this laser based
+assessment of fuels but also
+there's things called structure
+for motion where I can I can fly
+over it with a really high end
+camera and as long as I have
+enough overlap between my flight
+passes I can answer mount the
+trees just by doing by taking
+multiple views of the tree and I
+can I can wrap it out as a three
+dimensional object from that so
+those things are all coming
+there they're being tested and
+use to some extent in the mexico
+I don't think new mexico has.
+Gone after a wide spread program
+at this point to do it across
+the landscape california for
+instance has
+a huge fraction of its lands are
+napped with airborne light at
+this point i'm but but it's not
+it has a cost
+however in out at the lab we're
+also working really hard and how
+do we use satellite imagery to
+back out
+tree hate true diameter and then
+you can also use the higher
+resolution imagery to back out
+species so one of the things are
+dod we're doing for due to is
+how do you get rapid refresh
+anywhere in the state
+using that it's not quite as
+high fidelity is if you do a
+blue and drawn over your your
+small piece of property but it
+gets you
+we're open and get you eighty
+five percent of the way and and
+that's a lot better than where
+we are now
+thankful for that response and
+thinking madam chair and just
+in response to that maybe what
+do you see is the practicality
+of the application of this
+technology I think it's amazing
+technology and coming from an
+area severely impacted by a
+prescribed burn I highly wish
+that you may be some of these
+would be considered in any
+future burn you talk to a lot of
+residents in highly dense areas
+and prescribed words prescribe
+burns are no no there you know
+they're they're feared there but
+they are could be used as
+practical responsible force
+management but something like
+this or maybe what's the
+practicality of this application
+understanding the cost in the
+time and everything it takes to
+put in realistic data points but
+to use these and every
+perspective going forward as a
+practice don't think the
+technological barriers to having
+the available in the relatively
+near future are that big
+I think there is you put your
+friend ran of really important
+issue though there's a social.
+There's there's a social piece
+of this there's acceptance of of
+a scribe and I mean every time
+we have a catastrophic fire
+or a base has no we're not doing
+that for for a long time
+so I think there's another piece
+of it which is helping people to
+understand the homework that's
+been done for prescribed fires
+to help them understand how
+they're supposed to go to help
+them understand how bite size
+peace per sky fires might be
+used to then bootstrap up into
+larger landscapes in the future
+so I think there's a
+communication is that I didn't
+spend a whole lot of time
+talking about that this current
+technology could help out with
+this
+thank you for that in you know
+and in just coming coming from
+that background I think you know
+putting some of this information
+I think would be helpful going
+forward to maybe you know some
+piece of mind knowing that there
+was some effort and that in
+science and data put into maybe
+some of these locations and
+plans for these per screen
+boards but thank you manager
+thank you and I just have one
+quick question it was exciting
+to see that you're working with
+a local company that sibester
+are are there any other local
+companies you guys work with
+some distinction we actually
+have their there at least three
+additional so trigger so so this
+is the big one but then there's
+there's a company called
+firescape which is actually a
+spin off company somebody that
+was at standard has now jumped
+out
+and there's at least two other
+companies that have that started
+small business
+assistance collaborations with
+this topic within the last six
+months
+great that was what I was hoping
+here thank you very much for
+your presentation I think we all
+really enjoyed it this morning
+and since we're s.
+Behind we have to jump to our
+next presenter but thank you
+next step we have doctor carlton
+coffering.
+Great thank you whenever you're
+ready.
+Testing disabled okay great
+thank you for the opportunities
+to maybe i'll just for assess
+the question manager what how
+much time would you like to make
+this session I can adjust
+accordingly let's see if we can
+fit it into an hour including a
+that's very easy I mean I was
+planning for forty five minutes
+with about half of my time
+talking great well I then i'll
+jump right into it so my name is
+cardinal coffin I am a staff
+sign to a step was almost
+national lab i'm one of the labs
+experts on quantum computing
+technologies and I was asked to
+give you guys a talk about
+column computing data centers
+kind of the current where we're
+at now and where we think this
+is going in the future.
+Uhm so i'll be telling you about
+that next week.
+So
+I just want to start with a bit
+of motivation I think data
+centers are a hot topic these
+days uh you've probably heard
+through you know the headlines
+that the next generation of a I
+data centers are anticipated to
+require just an incredible
+amount of resources to motivate
+that I just pulled some data and
+I should say i'm not like in
+hyperforms computing expert i'm
+acquired computing expert but I
+just bought data on this classes
+system that was developed by
+xaid in the last you know year
+or so this is being used to
+train large language models as
+based in memphis tennessee it is
+and really incredible facility
+they have a about two hundred
+thousand hyperformance ai
+computing chips and to support
+that level of
+chips it's
+the has a peak energy uses
+around three hundred megawaters
+which is a huge number and it
+uses watercold servers has
+significant water resource
+requirements
+to roughly you know there there
+isn't perfect data on this out
+there but when you look at the
+infrastructure impacts of
+building this data center
+they immediately could not plug
+it into the grid it would have
+overloaded the power grade to do
+that so they're using ten to
+thirty natural gas turbine
+generators locally to supplement
+the power grade while they
+upgrade it to to be able to
+support this data center and
+it's estimated that it requires
+at least one million dollars of
+water per day that is a huge
+number it may even be higher
+than that the good news is that
+wastewater is viable for this
+type of uh requirement but what
+I read is that they're still
+working at adapting the
+infrastructure to do that waste
+water utilization so
+if you're thinking like wow you
+know infrastructure requirements
+for high tech computing could be
+really high for this I think
+that is a correct assessment but
+i'm here to talk about quantum
+computing so let's go to the
+next slide
+so just to give you my bottom
+line of.
+Front the data center
+requirements for qua- large
+quantum computers are expected
+to be very different than this
+large a idea to centers so i'm
+really happy I have the
+opportunity to tell you about
+this because it is not something
+that you could easily it's not
+you know being talked about in
+the news all the time uh and so
+I can give you kind of the
+basics of
+what's going on so to summarise
+what I see as the requirements
+for these quantum computing data
+centers they're going to require
+modest amounts of energy and
+power not like dramatic amounts
+they're going to need minimal
+amounts of water
+the thing that's really
+interesting about them is that
+they're going to require more
+cutting edge technologies than
+current data centers so cutting
+edge cooling technologies i'll
+talk about some examples on the
+right of the slide
+things like vibration isolation
+can be important for quantum
+computers and even potentially
+cosmic ray protection that is
+still a bit of an open question
+for the scientific community but
+we're learning a lot about it
+there have been ideas of about
+barrying quantum computers are
+putting them in mountains to
+protect them from these cosmic
+race so that is a very
+interesting uh development
+to
+and I should also mention you
+know those are the broad
+requirements these types of
+requirements very quite a bit
+between different types of
+technology as we have a tomic
+chronic computer as we have
+superconducting concrete for
+tonight quantum computers they
+all have slightly different
+requirements but
+did the broad strokes I gave
+here are accurate let me take a
+moment to describe what the
+images are on the right of the
+slide so if you google continue
+computer or you
+you know see a flashy article in
+the new york times or something
+like that about a quality
+computer usually what you're
+going to see is this shandal
+lear so that's the picture on
+the top right corner that is
+essentially the.
+A control and cooling system for
+a very high tech piece of
+computing but the reason why
+it's like a cylinder and kind of
+you know a tall in narrow
+cylinder is because it's going
+inside of one of these solution
+refrigerators so those are the
+two images on the bottom these
+are technologies that can cool a
+small piece of metal down to
+about one calvin or even lower
+so extremely colder than outer
+space is what these types of
+technologies do it's really
+incredible and basically if you
+look at the blue for his example
+that white cylinder right you
+can imagine the sandalia above
+fitting inside of it that's
+exactly what they're doing their
+engineering the thing to fit
+inside the cylinder
+and blue forest is definitely
+the dominant player in this
+solution refrigerator technology
+uh there's a start up in the
+mountain west code nearby that
+is doing very interesting things
+as well that i'm highlighting
+here but i'm deeser the examples
+when I say you know we're gonna
+need cutting edge new
+technologies for this this is
+the kind of stuff I am referring
+to and they have these unique
+requirements like you know to
+run one of these refrigerators
+you need a stable supply of
+water but you don't consume a
+ton of water running it you need
+a stable supply of uh liquid
+nature than and you actually
+need a stable supply of liquid
+healing or helium that can then
+be like a fight on honsight so
+all those are important but
+they're not like you know
+gigantic volumes.
+Let's go the next slide
+so that's kind of the basic
+infrastructure needs let's talk
+about quantum computing today
+you know as it is today.
+Um next live
+this is a list of different
+quantum computing companies that
+are us based uh I can pile this
+list because I want to emphasize
+a couple of different things
+first it's kind of a long list I
+mean you think of com computing
+as like an exotic technology
+it's you know shocking to me how
+many different companies we have
+better making very serious
+players at building one of these
+you know commercially relevant
+quantum computers you can also
+see that there are kind of
+clusters there's a cluster of
+innovation on the east coast in
+de boston and kind of dc area
+then we have a cluster of
+companies that are based kind of
+on the west coast you know think
+wash seattle washington so I can
+valuaria and then atom a quantum
+computing has found a home a lot
+in colorado so you can see like
+inflection and continue and adam
+computing these are all atomic
+physics based corner computing
+companies based in the
+nationwest so
+it's a really exciting time for
+this field with companies all
+over the place.
+Let's go to the next slide
+so it turns out that many of
+those companies not all will
+happily sell your common
+computer today i'm showing you
+three pictures on this slide the
+first one is ibm system to this
+is a like a very resent release
+from the ibm company with this
+long legacy of classical
+computing that is based on
+superconducting technology it's
+a very beautiful computer as you
+can see from the picture
+the next picture i'm showing is
+incuse four day system this is
+based on atomic technology and
+in the back of that picture if
+you look closely you might see
+someone in a lab quote standing
+vice which gives you a sense of
+scale for this device.
+The last one I picked was
+quandella their system is called
+dollar nose uhm and that's a
+photonic company I picked these
+three because I was able to find
+the best pictures of what their
+technology looked like not
+because you know they're the
+best companies that my favorite
+companies but these are really
+emphasis to you that these
+devices are not gigantic you
+know these are um you know small
+room or like medium size room
+devices and once you get that
+advanced technology in place and
+you get those you know basics
+apply chain in place you can
+really put one of these in many
+types of commercial buildings
+with minimal renovation so back
+the the technology today is
+pretty easy to put into existing
+buildings and I mention this
+before they do require very
+reliable supplies of power water
+liquid nitrogen there may be
+others based on the specific
+technology but uhm the
+reliebility of that is very
+important and the reason for
+that is when you install these
+computers you know you build
+them on site you put them in
+place it can take up to a month
+to calibrate them and get them
+ready for running and if you
+have interruption in one of
+those key pieces of the supply
+chain like water or power it can
+cause them to cease operation
+and then have to redo a month
+long calibration process so the
+reason i'm emphasizing
+reliability here is that you
+want to do that calibration once
+and then kind of run for the
+whole lifetime in the sheen with
+zero interruptions otherwise you
+get significant downtime.
+Yep let's go to the next one so
+in this next section I want to
+give you some view on where
+quantum computers may be in the
+future and when I talk about
+future we're really talking in
+the next five years maybe five
+to ten years but this isn't like
+distant future this is what
+companies are racing for
+right now.
+So think twenty thirty let's go
+the next slide.
+So this is a picture from ibm's
+quantum computing roadmap and
+this is very nice be as a kind
+of shows you where things are
+today and where ibm sees them
+going in the future in the
+illustration you can see there's
+little images of human so that
+gives you a sense of scale these
+is not you know this isn't a
+gigantic facility this is like a
+big industrial room
+and on the right side of this
+picture where i've set where
+i've highlighted size of quantum
+computer today that is only the
+ibm system to which was in the
+picture I showed two sides ago
+so that if you are going to buy
+one of those today that's how
+big it is it's the main computer
+with a couple of like black
+servers behind it supporting
+that main computer and it's a
+relatively small system you
+could install it in any places
+what ibm is communicating with
+this roadmap is actually what
+they think that the state of the
+are qualm computers going to
+look like in twenty thirty three
+so if you look at the bottom
+left part of this picture you
+can see there's kind of like a
+line of different boxes and
+those are different components
+of the quantum computer that
+would need to be you know
+stitched together to scale it up
+to a really large and powerful
+device
+so that is the proposals for the
+twenty thirty three machine and
+again not dramatically huge it's
+definitely going to need you
+know ten ex more power than the
+current system more liquid
+natures and supply but it's not
+going to require us to build a
+gigantic new facility to install
+that type of system
+I will compare and contrast that
+with what we have in the next
+slide so this is we can think of
+that one is kind of a building
+you know a room scale deployment
+of a quantum computer.
+A situation which is a fortonix
+quantum computing company it's a
+start up that's based in a
+pollow alto california they have
+a very different approach to
+qualm computing which may
+require a much bigger facility
+and they have teamed up with the
+state of ill annoyed to try to
+prepare the infrastructure for
+that facility so let me first
+talk about the picture that's in
+the lower rate so if you look in
+the far distance of the picture
+it's the skyline of chicago so
+this is in the suburbs of
+chicago it was an old steel
+processing area that the state
+has re allocated to be a quantum
+and micro electronics park
+the state has invested seven
+hundred million dollars and
+basically renovating that site
+to support quantum computing
+companies that may have special
+infrastructure needs
+part of that you know seven
+hundred million dollars is a two
+hundred million dollars for
+building a crio plant so that is
+a special type of infrastructure
+that allows huge amounts of
+cooling usually through liquid
+helium to different quantum
+computing devices and they will
+be providing that as a service
+to like all the tenants of this
+facility like this micro
+electronics park they'll
+basically just have a port they
+can plug into and get liquid
+healing to run all those
+solution refrigerators.
+So this is an exciting
+development in the picture
+the the warehouse if if you look
+very closely it has the
+cyquanten logo on it you know
+that is because cy quantum
+anticipates that they would need
+that size of the building with
+this large amount of cooling
+power to build their quantum
+computer that's a a very
+different requirement than to
+what we saw on the ibm example
+before so if there was going to
+be one you know this is maybe
+the other extreme you know we
+can install the quantum
+computers in in kind of standard
+office buildings or industrial
+buildings with minor uh
+modifications or there's other
+people proposing ideas that
+would require much bigger
+investments but i'll emphasize
+again it's not like dramatic
+amounts of power it's not
+dramatic amounts of water it's
+just a buyer sophisticated high
+tech cooling system that is
+needed for this space
+um and let's go there next line.
+So i'll just try to summarise my
+key points from this part of the
+talk I have some backup slides
+about applications if anyone is
+interested about that but for
+the key piece on infrastructure
+I my summary is that today's
+quantum computers do not require
+dramatic changes to our critical
+infrastructure we have roughly
+sufficient space power water to
+install them the main change for
+present day is this high
+reliability so that the
+computers can run continuously
+for all this time as we look out
+five or ten years to the future
+quantum computers
+I would expect we'll need some
+upgrades to critical
+infrastructure but they look
+like modest ones not dramatic
+ones the criteria capabilities
+are the most interesting
+indifferent thing than what we
+have for industrial sites today
+and then a robust supply of
+liquid nitrogen and helium may
+also be important
+and I think based on the fact
+that you know those two facts
+above now is a really good time
+to start engaging with this
+quantum industries you know I
+gave a list of companies before
+on the previous side and just
+ask them like what are your
+requirements for these computers
+in the next decade because now
+we could make a strategic
+investment to be prepared for
+that industry to come to a place
+like new mexico.
+So are we going to excite with
+that that's the marks at remarks
+that prepared i'm very great
+happy to answer your questions
+could we go ahead and could you
+like quickly run through these
+backup slide sure I don't know
+if you need to open the keep
+going
+yeah so there was when we are
+planning this event it was split
+like should we talk about
+infrastructure should we talk
+about applications my expertise
+at landlines actually
+applications what are we going
+to use these quantum computers
+for a and
+we have it been working closely
+with darpa over the last couple
+years in a program called corner
+bench working to try to figure
+out like these guiding stars
+what are the applications that
+can on computers cannot do today
+or you know next year but when
+they can do them with
+fundamentally change
+the world if you go to the next
+slide the bury the preliminary
+findings in that program where
+at lanel was very deeply
+involved was that there are a
+bunch of very interesting impact
+for applications these include
+things like designing new
+magnets high temperature
+superconnectivity designing
+catalysts for a various types of
+processes there is you know it's
+it's uncertain this is high tech
+stuff but they're incredible
+arguments that we would be able
+to dramatically reduce the
+energy requirements of
+agriculture through preparing
+for lizers for example that we
+would be able to dramatically
+reduce energy requirements for
+like medical technologies that
+require very high power magnets
+so all of the basic science that
+underpins those types of things
+it seems like a quantum computer
+can help us all them we wrote a
+very large report which is
+referenced here it's open you
+can look at it if you like about
+basic research questions plus
+almost national advertory would
+use a quantum computer for and
+we were just part of like a
+whole effort that darpa did
+which included industry.
+You know buying was involved
+academy was involved and this
+plot is summarizing some of the
+cool applications that were
+discovered next slide
+we also did a survey of what we
+use our classical computers for
+as part of this project which
+was are very interesting and we
+discovered that about one third
+of our classical computer cycles
+were doing work loads that could
+be accelerated by a quantum
+computer so this made the case
+that oh yeah if we had a
+classical computer and a quality
+of computer at least almost it
+would be pretty useful for the
+science that we're doing.
+Um list do next slide.
+This is a brief overview of what
+is in that huge report the
+highlight I mean the most
+important thing to understand
+from this is it really spans the
+brath of science you know we've
+got magnetic materials we've got
+super good documentaries quantum
+chemistry optics nuclear physics
+I mean there's for the types of
+science low salamos does there
+will just tons of problems where
+one of these computers would be
+useful.
+The last three sides are about
+workless almost would use the
+first really large really
+impactful computers for their
+kind of in the weeds and the
+science so maybe i'll just skip
+to slide twenty and mention so
+these are two applications that
+we think will be like the most
+like the first ones that would
+we have a really big impact of
+the content computer and the
+thing that's interesting about
+them as they support
+experimental facilities so less
+almost has a large magnetic
+laboratory the high national
+field manage laboratory and we
+have believed that they would be
+one of the first to benefit from
+a quantum computing capability
+and then the other one which is
+chapter three is based on new
+tron scattering sources oakrage
+has a very large new trying
+scattering source in many
+scientists that lost almost use
+that for their science and we
+were able to articulate how
+quantum computer would help them
+do material science research
+more efficiently
+so yeah that's the brief version
+of the backup sites
+thank you very much I currently
+have five people on the list I
+will start with representative
+gonzalez.
+Think you made and charles try
+to be brief you know thank you
+for your presentation a have a a
+vested interest in building a
+stem work force here in our
+state and so some of the
+comments you mean you know some
+of the things you addressed here
+the infrastructure challenges
+specifically water so it's good
+to see that some of that
+technology's being developed
+totally be able to use some of
+those recycled water
+technologies and some of those
+and then maybe looking at the
+future of quantum computing
+coming here to new mexico in and
+if maybe you can elaborate more
+on the economic benefits of
+bringing that here knowing it
+may be what are some of the
+challenges and bringing
+that sector here to our state
+knowing we need to build up our
+stem work force capability
+talking about his assist
+engineers computer scientists
+developers saver security person
+now so maybe just some of your
+thoughts on what the economic
+benefits could be of bringing
+something like this here in
+being technology hub possibly so
+thank you manager yep so yeah
+madam chair and representative I
+think there's a lot of potential
+economic benefits this is an
+emerging technology if it goes
+the way many people think it
+will grow dramatically and ha-
+and create a lot of new types of
+businesses that we'll need so I
+think there's a lot of
+opportunity there for economic
+growth training a work for
+is a important thing and I think
+the labs in the universities in
+new mexico could have really
+help with that type of activity
+in terms of barriers I think
+right now the companies there's
+a lot of opportunities across
+the nation different places
+different hubs incentives for
+them to come to new mexico are a
+great thing and as I understand
+that the EDD department and the
+governor's office are very keen
+to try to make those things
+happen I think those are great
+ideas and will position as well
+to
+you know be a hub for this
+growth in the future.
+Thank you a scenario to buy some
+thinking madam chair thank you
+for the presentation i'm I kind
+of joke with friends and
+colleagues every once a while
+that if I get another return at
+life i'd like to be a quantum
+physicist so I I think it's
+fascinating and it's really an
+exciting time and science for
+sure so i'm first off what's the
+average lifetime of a quantum
+computer and does it differ
+based on the applications or you
+know the purpose of the computer
+sure madame chair and
+representative or senator I
+should say
+the usually we think about
+deploying quantum computers and
+like five to ten year windows
+but the technology moves so fast
+that you'll usually be upgraded
+during that time so you know I
+gave the delusion refrigerator
+example that that for friday
+will be put in a building
+there'll be some support
+infrastructure around it and it
+was sit there and run and people
+will use it for their science
+but every let's say once a year
+it might be shut down for a week
+they'll install a new chip bring
+it back up and then they'll do
+more science but like better you
+know with with more capabilities
+so but get the core
+infrastructure usually kind of
+deployed for five to ten years
+but we should always plan for
+maintenance and upgrades because
+the technology is just
+involving.
+For that and manager and your
+your three photos of the
+computers can had me chuckling a
+little bit because it reminds me
+of the very early computers rate
+so I imagine back in what the
+sixty user whenever that fifties
+m that they couldn't foresee
+what computers could do where
+would be calm just like they
+probably never really thought
+we'd have our whole lives on our
+phone rate which is I barely
+crack open a computer at this
+point so
+can you foresee or maybe you
+can't where this could
+potentially go that's beyond the
+scope of wait you know different
+groups around the world are
+working on with contempt
+computers
+sure thank you manchester and
+center d.
+I would say that
+um
+five years ago if we didn't have
+a lot of clarity on like what
+the applications of these
+computers would be and that's
+why darpa ran that con and
+benchmarking program to figure
+out like is there a for those
+applications now we think we
+have a pretty strong case that
+you know there's a probably
+going to be a big impact in
+material science chemistry like
+some high tech industries.
+Whether it's gonna be of course
+scientific discovery labs and
+assess you know those types of
+places whether it goes beyond
+there and becomes really like a
+commodity for everyone is less
+clear to me that's very
+uncertain but I think you make a
+good point which is.
+No one intersperate what was
+going to happen with classical
+computers and so that the realm
+of going beyond those material
+science and chemistry questions
+is the land of well that would
+be one of those big surprises
+that no ones for seeing but it
+could totally happen thank you
+and manage her one more question
+do you foresee how we could not
+only make quantum computers
+smaller going forward but not
+require and the cooling
+mechanisms that you're talking
+about today
+sure thing the
+what I
+I would say all the companies
+are looking to reduce the
+requirements of their technology
+and probably once one or two
+companies has demonstrated like
+a very i've super high value to
+industry then that will super
+charge like the development of
+mutualisation reducing
+requirements uhm
+so I think everyone's working on
+that it's I didn't go into it in
+my sides but if if cooling is
+your major concern if you look
+towards like the atomic quantum
+computing platforms those have
+lower cooling requirements so in
+some sense you can pick a con on
+computing technology based on
+the kind of requirements you
+want and it's really hard to
+know which will succeed long
+term right now but
+we will see if if atomic and a
+becoming like the way to go
+cooling may be much less of an
+issue
+great thank you so much thank
+you manager thank you
+representative little
+thinking madam chair actually
+following an along the line of
+that it was senator by since
+last question my question has to
+do with trying to rap my head
+around and understand when we're
+talking
+to a machines I I appreciated
+the especially the pictures of
+those of the actual and.
+The physical
+m devices that are being used
+but a beautiful you were talking
+about the
+very journal terms and others
+have or i've not been privy to
+some detailed information but
+you were describing madam chair
+the modest amounts of power that
+it needed to be stable and i'm
+glad to hear that we swatter or
+agree water might be used but
+could you help me please medium
+to to understand or define what
+what.
+Let me say before these the for
+the sizes that you were showing
+us
+how much what are the set
+translate to what does this
+piece of equipment of that size
+require per day if you well in
+an estimate I yeah so think you
+better
+matter and representative little
+I
+unfortunately like I don't know
+all the specs off the top of my
+head but i'll give you my best
+impression so for the continued
+computers we could buy today
+we're talking kill a lot of
+power so like dinner it's not
+much more than one household's
+worth of energy maybe the less
+than one households worth of
+energy
+when it comes to water
+my understanding it's very
+little like a few gallons per
+day because it's mostly a close
+loop system they're using liquid
+nature gen and the could helium
+for cooling and the water is
+just a small part of the
+beginning of that cycle of
+cooling.
+When we talk about those larger
+systems the twenty thirty
+systems it's going to be higher
+but
+you know the details of that are
+are now being figured out inside
+of the companies which was why I
+encouraged at the last point
+like talk to these companies I
+think they'll be able to ask
+them that question what do you
+really need in twenty thirty or
+twenty thirty five and I think
+they'll give you some really
+useful information.
+Okay i'm thank you very much and
+madam church has one follow up
+question we are talking about
+the in your estimates the
+minimum hook
+power that would be quote would
+be required where kilo and you
+describe it as a work one
+household might use is that
+madam chair pretty or per year
+please thank you
+madame chair and representative
+per like it it's a roughly the
+amount per day right that a
+household reduced per day so you
+think about like one small
+household per year as well you
+integrate over time it works.
+Well appreciate your estimates
+very much madam chair thank you
+that's my end of my questions
+thank you next we'll have
+representative on
+thank you madame chair thank you
+for the presentation mexico is
+investing in quantum
+computing and as i'm trying not
+to be as big for notice I am in
+this realm of things that the
+power need is there I mean the
+the energy need is is higher at
+this point you're talking about
+future and what we want to get
+get these needs and that the
+cost of materials and.
+And you know we healing i'm in
+nitrogen in other sort of things
+aren't aren't forever rate as
+far as abundance and so what is
+the circularity if any that
+you're looking in modeling for
+reuse continued used in scaling
+down venture
+madam chair and representative
+loan
+the so first is far as I can
+tell there isn't any like finite
+supply that these computers need
+to exhaust the reason is that
+for the helium they use them the
+best systems use close loop so
+they will collect all the
+healing and cool keeping a close
+problem that's good when it
+comes to nature gen we need to
+have liquidified nature gen
+which requires energy to do but
+that just goes back into the air
+and then we can collect it from
+the air relatively easily and
+like a fight again so there's a
+nice close loop there in terms
+of energy if they will require
+energy yes and we should find a
+way that we have long term
+energy
+cability but part of the reason
+I motivated my talk with the
+data centers for ai is that it
+looks like the energy needs for
+these computers is going to be
+so much dramatically less than
+that
+I I don't foresee we're going to
+need like dremet ring need to
+build a new power plant to run
+the huge parliament computer but
+again you need to talk to the
+companies to know what they're
+really thinking for twenty
+thirty or twenty thirty five.
+Thank you I appreciate it in the
+company that we have here what
+what are their do you know about
+them what they're using what
+their models are
+chair and representative could
+you clarify the company we have
+here your time in new mexico
+I I don't I can't give you the
+name I I was just kind of
+looking into like the details
+like the nano science that we
+are we are now capable of using
+and that is I mean in your
+presentation that's why we need
+to stabilise vacuum type system
+in order for this these
+are
+computing functions to exist
+even so that's that's that's
+that's another challenge so if
+we're looking at scalability
+we're talking in the future
+we're really not there in your
+top we know we're talking twenty
+thirty twenty twenty thirty five
+point forty but for any kind of
+scalability for it for average
+use is really is really far off
+because of the challenges the
+scientific challenges of nano
+science in and of itself and
+with that means
+mountain yeah so a manager and
+representative so first what do
+we have in new mexico you know
+because of the national labs and
+unam atomic physics is a
+strength here
+so trapped iron machines are one
+of the really popular ones I
+don't think we like I think
+there's a great strength that we
+should play on but I would also
+encourage us to be open to like
+any vendor who wants to come and
+set up shop in our state a
+going to the scale ability there
+are a lot of challenges but I
+think the really fascinating
+thing is that industry is doing
+incredible things so there is a
+darper program called the
+quantum benchmarking initiative
+which is trying to figure out if
+the industry can scale
+dramatically faster than we all
+think in academia may be
+possible
+and so I think it's prudent for
+us to pay class attention to
+that and also just get ins like
+talk to industry and and figure
+out what they're thinking.
+Because it's quite a bit
+different than a conventional
+wisdom
+thank you really I I do
+appreciate that and I wish they
+were here with us too so that we
+had the full scale this this
+discussion and we will
+eventually but I think that this
+is quite frankly a great
+investment that we're looking
+into is there any any reference
+or knowledge of
+you mention that states are
+joining forces
+what it would
+would it would mean if we did
+you know really come to your
+kind of provision a type of
+place worth quite a mechanic
+sick we put it in the mountain
+it's fully functional what does
+that mean for the united states
+or for international.
+Oh need if you will mind manager
+manager and representative the.
+I mean I think when the
+secretary of energy talks about
+technology you know he usually
+mentions ai and quantum
+technologies as like the two big
+things and I agree that those
+are some of the most
+transformative technologies that
+are kind of forefront and I
+would hope that uh if we lead as
+a nation in those technologies
+it will leave to great economic
+prosperity and you know
+competitive advantage.
+Thank you i'm just thinking
+really futuristic like we how
+many bigs and I mean.
+To comprehend what nano
+technology is doing already now
+that we can comprehend really
+ever until this week you're
+meeting the time in the need
+right now but it would be my my
+thought prices to say we don't
+need as much rate it's a
+condensed.
+Technology it becomes a
+condensing technology of need or
+use or sharing
+that can be
+maintained as a small component
+if you will thank you
+yes i'm adam chairman represent
+I would say to that like.
+There's many different types of
+crown technologies you know
+quantum communication consensus
+these may be totally because and
+will just have it everywhere
+when we talk about quantum
+computing specifically which was
+my focus i'm inclined to agree
+with you that probably the first
+generation is for big science in
+industry use so maybe we need
+you know like one at every
+national lab or one at every
+huge
+chemical processing company
+right but not like you know
+thousands of them everywhere if
+the
+you know sender advice's idea
+came like where it was like
+something dramatic happen and
+also in everyone he had a qualm
+computer then it would be much
+more you because then just high
+tech science discovery thank you
+thank you for presenting and for
+the answers thank you
+thank you senator souls thank
+you madam chair
+all of this very interesting
+exciting one a little
+disappointed in new mexico
+because we were looking at
+putting some investments in the
+chronic materials and computing
+before the pandemic started and
+it was kind like oh that's two
+new we want to want to do that
+and all the other states have
+caught up with our research
+universities we could have been
+the world leaders in we kind of
+decided that's a little scary
+and didn't do it
+there was a senate bill center
+pathy and I were carrying to
+support industries and companies
+coming here I think one of the
+main ones looking here is called
+continue on my think you had it
+on on your list but this is
+potentially a couple billion or
+couple of billion dollar
+industry for new mexico.
+And we've got the brain power at
+our national labs are
+universities to do this if we as
+a legislative body choose your
+inside
+I I hope people get lots of of
+that
+talk about how much do we need
+or is there still going on in as
+far as basic research and
+applied research are both into
+the quantum as well as the users
+of quantum then afterwards so it
+makes sense what my question
+yes madam chair and center thank
+you for your marks I agree this
+is something that you know being
+strategic on is a good idea
+regarding basic research.
+Vs his applied research I work
+in applied research so you may
+get a bit of a bis answer from
+me i'm very excited about what's
+happening in the industry and
+i'm looking for how can we use
+what the industry is building
+too transformed the country and
+I think there's many of tough
+challenges what are the
+applications what are like how
+do we discover make a
+breakthrough that will save you
+know
+the economy dramatic amounts of
+money or or or grow the economy
+duratically
+and and so i'm working quite
+actively on that when it comes
+to basic research are in the I
+think it needs to be selected
+very carefully because there's
+so much innovation happing in
+the companies you really have to
+find an angle that is different
+than what all these companies
+are pursuing because they're
+dumping like billions into their
+internal r and efforts that's a
+lot to compete with
+recently there was a call from
+darpa about basically plugging
+two very different types of
+quantum computers together and
+they were like will that change
+the story of common computing
+and that what I think was a
+great that's a great question
+for open research because the
+companies seem to be kind of
+silent and like different
+technology sectors and it was
+trying to break down the silos
+um developing new types of queue
+bits or q debts would also be a
+big impact because right now
+everyone has like justice but
+there there's a certain set of
+technologies they're building on
+which the office of science
+pointered like twenty years ago
+but that engine of basic
+research will help make the
+quantum computer companies of
+the next twenty years
+so I think there's room for both
+if you ask me I like applied
+work but that's my buyers
+thank you I I know in the
+research areas of higher
+education they talk about the
+valley of death in research
+where there's the the basic over
+here and the companies need
+applied and the universities can
+do a better job of of filling
+the rd for companies within that
+then I think we do in higher
+education.
+Uh
+about a me right now we see
+across the country the data
+centers I drive by las lunis and
+see the huge solar field you
+know a couple of square miles of
+solar panels to run that one
+data center
+what about that what's the
+difference in energy use if that
+were all quantum as opposed to
+traditional
+ones in zeros running all of
+that and you talked about for an
+a and I looked at the numbers on
+here and it staggering the
+amount of information in data
+that they can manage
+I think the
+took a little bit more about the
+energy use because I think
+everybody's concerned we've got
+to build more power plans to
+fund all of the a ice centers in
+the data centers were with
+connom it's the energy of a
+house I mean substantially less
+resources for the same
+information could talk a little
+bit more about that please sure
+man chair and sender d
+as far as I can tell the energy
+requirements for the
+contributors that are being
+planned are much less than
+current and identity the centers
+so if we wanted to run a quantum
+computer one of the ones you can
+buy today probably a small
+amount of solid panels on the
+roof of a building plus a
+battery is going to get you
+covered uh so I think that that
+is not a huge problem when you
+go to these you know building
+size things you probably have to
+upgrade your local supply but
+it's not going to be like
+upgrading the transmission line
+that comes to the site either
+it's not so bad so
+like i'm not the right now it's
+it's easy to buy and install
+economy computer
+in five to ten years less clear
+but i'm general it yeah I would
+say it's generally expected
+there.
+Going to be more energy
+efficient for the types of
+computations they can do which
+is a very limited special subset
+of all of computations um
+there'll be more energy
+efficient at doing them done a
+classical comp.
+Thank you some of the estimates
+i've seen for like data centers
+is there a thousand as much
+energy intensive for the same
+amount of storage capacity and
+and processing capacity and
+things which is a huge advance
+going forward when we're trying
+to electrify everything and
+we're not spending it all on you
+because I put in a chat gbt
+request yet it uses you a day's
+worth of energy somewhere
+I think it's really exciting and
+I hope this committee in
+particular will help push those
+on the finance committee to make
+these early investments I wish
+we'd done it five years ago when
+it was really a still hot area
+but you know the old I think
+it's a chinese outage the best
+time plan a tree with twenty
+years ago the second best time
+is today you're in so hopefully
+we'll be making those
+investments because I think this
+is a transformative technology
+for the country and new mexico
+is well suited with the brain
+power and expertise we have to
+be leaders in this area and we
+shouldn't wait to be followers
+thank you
+thank you and last week
+representative
+thanks manager thank you so much
+just one of most exciting
+presentations i've heard ever
+I went to my first quantum
+conference at twenty twenty two
+at until and everybody here
+needs to understand we have
+elevate quantum it's a
+consortium with colorado while
+mean in new mexico so we're not
+super behind I think it's
+important that we acknowledge
+that new mexico is a quantum
+state so please said it took
+future presentations
+this is really exciting I went
+to a data center proposal thing
+last week and none
+senators then it was a company
+that wants to do a ai data
+center and you know they wanted
+to use produced water and global
+bubble but but this has so many
+positive implications for what a
+water
+poor state I mean.
+Yeah we can talk about produced
+water and everything but this is
+such exciting implications where
+a state so
+can a I data centers
+they're not using if they're not
+using connem computers
+they don't have access to these
+innovative emerging calling
+technologies.
+Is that the question yeah okay
+have to give a complicated
+answer either no so madam chair
+and representative the
+they don't the way currently I
+works it doesn't need
+sophisticated cooling
+technologies because they're
+using non quantum chips they're
+using classical chips and so the
+problem the challenge there is
+just scale they're just trying
+to get like more transistors
+into like a finance volume of
+space and so marked that
+transmissors means more cooling
+more energy the climbers are
+just really small so
+you just kind of get a lot of
+technology in a very contact
+space.
+And once you get it called
+enough then it works well great
+and then my my last question is
+just I know that already the
+community colleges are working
+on a quantum work force because
+technicians don't need doctors
+they don't need master's degree
+they it's it's like when uh
+until started there ship
+manufacturing program a local
+community colleges do you have
+interaction with the academic
+community on these merchant
+things especially since you're
+interested in that practical
+stuff
+yeah ma'am chairman I was I
+personally have not been
+engaging in those but I do know
+many other scientists at lennel
+who have been and I think work
+force development we add at
+universities as a high priority
+for all of us are in addition to
+training them for industry also
+become candidates to higher at
+the lobs which we struggle to
+recruit high tech people
+in connorm as well so I think we
+the more of that we can be doing
+across the state the better
+great thank you very much thank
+you in senator thought in go
+ahead if you
+think amount here
+thank you mister carter for your
+presentation appreciate it
+even mentioned that there were
+three three technologies for
+claiming quality super
+contacting a tomic which I
+trapped alliance and then for
+tonic.
+Do you see one of those winning
+in the marketplace or is it
+still too premature to make that
+assessment.
+Yes ma'am chair and sender the
+the short answer is it's too
+premature to make that
+assessment and I will say that
+one of the things that so fast
+thing about con and computing
+technology right now is it's
+kind of pre like transistor
+there's no cubit that has been
+better on all metrics than
+another cubit so a thomas cubits
+tend to be kind of slower about
+higher quality superconducting
+ones tend to be faster but lower
+quality and it's like well we
+there's just so many different
+trade species it's like
+impossible for anyone to
+forecast food will win and
+that's why the venture capital
+world is investing so broadly
+right because there's actually a
+credible story for everyone
+these companies that they would
+be the winner
+thank you for that like
+someone the the biggest concerns
+I think for quantum computing
+and in terms of as it advances
+further as national security
+issue of communications
+with rsa encryption and things
+like that becoming available or
+becoming vulnerable do you have
+any anticipation as to when that
+met might occur in terms of
+where we are today versus when
+could tiger fee and
+communications and also
+financial systems to the banking
+system uses on it when those
+might become vulnerable to
+attack if corner becomes a
+what kind of what kind of I will
+give a five years ten years
+twenty years out before we have
+to worry about those kinds of
+things
+madam chair and center that is
+that's definitely a important
+question i'm not the right
+expert to answer it
+you know I would direct that
+towards people in dc what my
+work has been showing is that it
+looks like there will be science
+applications relatively soon and
+so now is is the time to
+get ready for really big
+scientific impact
+but I know less about national
+security impacts
+okay well then we will talk to
+some money from the federal
+government to help us with that
+answer so thank you very much I
+appreciate your presentation.
+Thank you so much
+for being here this morning I
+think it's definitely we need
+more of us and as much of this
+as we can get so think you and
+thank you for the work you're
+doing my pleasure
+and will go ahead next to our
+next agenda item with a update
+from lennel and i'm sorry that
+we we have to condense it to
+roughly thirty minutes because
+we need to be out of his
+building by eleven forty.
+Okay we need to be out of here
+by eleven thirty
+we have to end at eleven thirty
+so i'm sorry there's only thirty
+mins left with hopefully that's
+enough time thank you.
+Up thank you the executive
+officer in the w director for
+our size technology and
+engineering and i'm joined today
+by kathy keep who is our
+director for a communi.
+And you are headed to a land on
+next so we're going to give you
+just overview that um hopefully
+will speriod some question.
+Um lana was founded with an
+urgent purpose world war two
+that was to develop in a town.
+Today we have that same urgent
+purpose as we tackle.
+Are chief responsibility still
+remains to ensure a safe secure
+and effective nuclear deterrent
+but we do so much more than that
+and most of our work at the
+laboratory is performed for.
+Although we support a host of
+other sponsors including across
+dod
+the department of homeland
+security and industry in.
+I work as well supported you can
+see
+our hiring we went through a a
+very fast
+hiring curve over the last
+several years we have slowed
+down um starting in twenty three
+twenty four and twenty five have
+slowed however the
+reconciliation bill and the
+fiscal twenty six budget request
+look like they could mean a
+significant boost to our budget
+in twenty six so with that mind
+we are continuing the men
+mentioned that we have on the
+projects that were working on
+and we're also looking to
+continue growing.
+Alright so a few highlights
+so in our weapons area
+over this past year we have
+assembled the first b sixty one
+thirteen gravity bomb ahead of
+schedule so in a world where
+everything is behind schedule
+that is is up there ahead of
+schedule should have been bolded
+big deal for us we've been
+working with an answer stracom
+and the navy to assess the
+different design options for the
+w ninety three
+i'm sure that you've heard about
+our super computer vanada
+we have move that recently into
+our classified world on our
+classified networks and we have
+a collaboration with open a I to
+put chat algorithms there on our
+classified network that's a
+really big deal open a eye has
+not allowed
+their products to the off of
+their cloud computing networks
+and so this is really the first
+time that they're allowing it
+and it's because it's on our
+classified network is very
+closed environment
+and we have begun twenty four
+seven operations at are
+plutonium facility to support
+our mission to produce nuclear
+pets.
+Alright on our science writes on
+the highlights that I like to
+make is we've got two scientists
+rendered increase and hammerster
+will
+who have been elected to the
+national academy of sciences
+for science nerds that's a.
+Um we hosted this summer over
+nineteen hundred students on
+campus as a matter of fact
+yesterday did the student
+symposium at the end of the
+summer that highlights the work
+that they have accomplished in
+the diff.
+We are planning new investments
+in super computers so vanado is
+awesome we're looking at the
+next versions of banado um for
+both are open computing networks
+as well as.
+We've begun producing medical
+isotope called acting to twenty
+five for cancer there be clima.
+And were very hopeful that this
+clinical trial will demonstrate
+that acting to twenty five is
+really an effective cancer
+treatment
+and finally we launched a mind
+soon one which is a suburban sub
+orbital flight test at white
+sands it's a new flight vehicle
+that we launched on june
+thirteenth
+by our staff and our space
+division as well as external
+collaborators at a white sands
+and this is a demonstration
+where we were able to it's the
+first time we've been able to
+launch a classified and
+hazardous landlord pay load all
+in wonderfly
+within the collaborative.
+Good morning members of the
+committee catherine keith with
+us alamos national laboratory
+just a couple of highlights so
+safety and security always
+important at any rd facility I I
+hope you'll see a little bit of
+that and of those of you who've
+worked in this environment
+before when you know you have
+people in laboratories working
+with chemicals then high
+electricity you have to make
+sure that they're safe we worry
+about that because every one of
+these people is on a mexican
+right when we want to keep them
+safe so we're gonna talk to you
+about tracy and dart um in the
+real world for those of us who
+don't use those uh those numbers
+everyday or there's acronyms
+it's total reporter cases of
+injuries and days away
+restricted or transferred
+basically if you were injured on
+the job so we're happy to report
+that our numbers are on the
+decline in terms of safety of
+those reportable incidents and
+we'll tell you that our our
+biggest challenge is really not
+accidents that happen in our
+high tech facilities as much it
+is what we call walking through
+life so I get out of my car I
+walked down the stairs of the
+parking structure and a trip
+that is reported as an accident
+just like any high hazard
+accident and in a facility and a
+scientific facility would be so
+i'm always in a keeping in mind
+that every everyday counts every
+step counts we want everybody to
+be safe and to get home to their
+family safe in the evening
+so driving is also another big
+hazard or laboratory director
+will tell you that the most
+dangerous part about working at
+a nuclear facility this nuclear
+facility is actually driving
+your car here in the morning and
+home in the afternoon so number
+of accidents we have taken very
+proactive measures first of all
+by installing speed cameras on
+site
+to curb speeding while you're on
+laboratory property and were
+also proud of partnerships with
+our regional law enforcement
+agencies have done a nice job of
+cracking down on speeding to
+help a safety of everybody
+coming to this facility.
+Ah I think that we are we have a
+highlight a little early on that
+we just completed a new facility
+the flight instrumentation test
+lab um which again was finished
+ahead of time
+next slide
+we just want to highlight to you
+or our work that we do in
+community and and a lot of that
+is really geared towards these
+days skilled workforce so to
+represent in a garage point k
+through sixteen rate we all need
+that as a major employer new
+mexico and a major science and
+tech employer in the state we
+were not running school systems
+you make the investments in
+those but our conversation is
+what resources do we have so
+that we can improve to not only
+develop a work force for
+ourselves but develop a more
+work force
+robust work force for the state
+of new mexico as a whole so we
+have a multiprone strategy on
+that first of all that came
+through twelve education
+outreach and really where we
+focused there on that outrage is
+we think it's really important
+for students in new mexico to
+see people who are employed and
+signs and technology to
+understand what there's their
+pathways were to get there to
+understand what education they
+would need and really have them
+walk away with that moment of r
+you know to say that's cool I
+want to do that some day we want
+some inspiration that comes out
+so we've invested in some
+traveling trailers were happy to
+mention to you that we have
+as of last week five thousand
+students in new mexico will walk
+through those students through
+those doors that the trailers
+since january first of this year
+and their primary purpose there
+is to kind of they get a feel in
+those trailers of what a
+scientific work space looks like
+but more importantly they meet
+one of our technicians and
+employee here who's working on
+environment to support the site
+or a scientist and have a
+conversation with them about
+their pathway.
+Understand them as a human and
+hopefully walk away with it
+saying this could be me someday
+I want to go and pursue a queer
+and science and technology
+we also have extensive
+partnerships in higher education
+so are strategy there has been
+working with our regional
+colleges in northern new mexico
+this includes investments in our
+partners new new mexico college
+we have a big investment there
+in radiation control technicians
+and it and trades we have an
+investment with sanity community
+college in machining and
+outreach and really that's about
+the same thing that we're doing
+reaching out to regional
+students bringing them into some
+scientific typic facilities that
+they have and really talking to
+them about what a pathway
+forward in science and
+technology starting at your
+local community college which is
+accessible to all umm also a
+robust partnerships with new
+mexico highland university in
+the area of it and loot a
+community college we have a very
+successful relationship in terms
+of welding they are producing
+welders who come to work on site
+here and we also know that that
+is a skill said that's in demand
+across the state of new mexico
+key partnerships through the new
+mexico consortiums of the new
+mexico consortium is a an
+organization that's made up of
+los alamos national laboratory
+new mexico tech university of
+new mexico in a mexico state
+university making investments
+first of all in joint
+appointments so this is
+important that those faculty
+members who are in the classroom
+with students have the
+opportunity to come here and
+work side by sign with our
+quantum researchers like carlton
+to understand what that
+technology looks like and
+incorporate those things into
+the classroom as they work with
+students also making investments
+in those three research
+universities so in the last
+three years we've invested three
+million dollars in project
+management and nuclear
+engineering programs at u and m
+four point four million dollars
+in radiological control.
+Materials and engineering
+programs at new mexico state
+university and three point one
+million dollars in materials and
+engineering programs at new
+mexico tech
+we also have some out of state
+partnerships that we want to
+mention so texas and university
+university of california are
+clearly important to ask that
+their operators of the
+laboratory and we have one going
+partnerships with them as well
+as university of michigan and
+produce university so university
+of michigan we haven't computing
+an ai research facility there
+we've been asked the question by
+many legislators why not new
+mexico and I think that that
+question has really been
+answered before us this morning
+um highwater high electric
+demand right so a data center
+wasn't appropriate for northern
+new mexico and expanding their
+so we found partners who we
+could do that with at university
+of michigan we have the natural
+resources to support that and
+perdue university primarily for
+hypersonic materials so they
+have a state of the art program
+in that and we have been able to
+greatly benefit from that
+relationship with them.
+So just a a quick update on
+where our partnerships are and
+work force development I welcome
+any questions that the committee
+may have on that I just won a
+highlight first of all I want to
+thank you for being in lost
+almost this morning having these
+hearings around the state I
+think is so important and while
+you're here one of the things I
+just want you to observe is what
+it looks like to have a major
+rnd employer in a rural
+community
+so he's trouble with work force
+those roads that you drove up
+this morning that were very
+thankful to the state and our
+partnership with a state for the
+transportation in and out of
+this community eight thousand
+people come to work at this
+facility every day and they
+commute from outside this
+community so we're a work force
+of about seventeen thousand and
+sixty percent of our employees
+live outside of los alamos
+county so we're thinkful for
+this state and the support that
+we get in that infrastructure so
+that we can move a work for in
+and out of this community we
+also rely on partnerships with
+the county so you have nine
+hundred scientific facilities on
+over forty square acres which
+will see a little later today to
+give you scope so that's intel
+time six
+in a rural community and it
+takes lights of community
+support including firefighting
+services in
+in helping us defend those
+facilities in case there were an
+accident at any one of them so
+we're appreciative to these
+partnerships and work force you
+know since our work forces
+communing outside of our salmos
+not only are we making
+investments in laws almost
+public school system but sixty
+percent of our employees are
+coming from external communities
+and our future work for us is
+sitting in classrooms across
+this state so I think those are
+all good things for us to think
+about and keep in mind as we
+look at growing this economy in
+the mexico and knowing that
+there are opportunities for both
+our urban and rural areas in
+this new economy thank you for
+having us
+thank you so much for that
+overview are there any
+questions.
+Senator authorities
+just a quick question
+with regards to recruiting I
+know you guys recruit nationally
+install how difficult is it for
+you to bring in scientists and
+engineers.
+To us almost you know once they
+get here and then go this is it
+I mean they see the great
+science and technology that's
+going on but they look around
+and go to I want to bring my
+family here how difficult is it
+for you to recruit a staff so
+thank you madame chair and and
+senator
+I was see so i've been at the
+laboratory now about twenty six
+years and are focus in
+recruiting has shifted quite a
+bit over that time um there have
+been periods of time
+over the past twenty six years
+where we focused on trying to
+recruit from schools on the
+coasts and that doesn't
+necessarily work out so well for
+us because it's exactly as you
+said people get here
+and it's a very very different
+environment than they used to
+probably over the past ten years
+or so as we saw a good portion
+of our work force retiring out
+and we really focused on
+bringing in the next generation
+we focus more heavily on the new
+mexico schools and but also the
+regional schools going to
+places.
+Or in utah where are environment
+here is much more similar to
+where they're coming from and so
+they wouldn't get here in
+immediately lose their minds
+that there was no shopping malls
+or restaurants open past eight
+o'clock but instead we have
+amazing.
+No matter just about anywhere
+that you live whether you're a
+commuter or.
+Those are the pluses that we
+have really focused on
+emphasising for our communities
+so
+especially for our science and
+engineering community where a
+lot of folks are coming from
+outer state and that has
+benefited us quite a bit
+are rates of folks leaving if we
+keep people for five years we
+keep them for.
+It's in the first five y.
+And those numbers have been
+shrinking
+for better for worse people are
+l.
+So that benefits us
+but it has been in.
+Which are thank you for that car
+I think having my credit cendial
+apps we experience the same
+thing and I think it's why is to
+start looking beyond just to you
+the eastern less colster to
+bring in new talent so that's
+important just one of the common
+I was glad to see you're working
+with produce that's my almost
+modern and in hypersonics is
+what I buy a background so it's
+proud to see that you guys are
+working very closely with him
+thank you very much they have an
+amazing facility.
+The.
+Thank you a representative of
+martinez
+thank you ma'am charges to a
+quick questions very exciting
+all the stuff that's going on
+but I am very interested in the
+acting two twenty five so it's
+currently in the critical trial
+fees is there an idea of when
+there's going to be a widespread
+deployment on this so thank you
+madame chair.
+Do not have the answer to that.
+And where things.
+Thank you
+thank you representative looking
+as we're talking about the work
+force you've had.
+Some decreases in the workforce
+can you can you tell us about
+that at all in what lead to
+that.
+I'm sure
+sure madam chair representative
+low high
+we are actually having increases
+in the work force right now and
+not decreases but let's talk
+about what that looks like for
+us at los alamos so many chair
+if I may it was in the santa fe
+new mexican your
+in my is that a mistake that we
+that you're going to be
+decreasing.
+Positions here or thank you
+madam chair and representative
+we are shifting people currently
+from
+maybe less technical work to
+more technical work right that
+we have as our portfolio of work
+changes that the laboratory
+based on new federal priorities
+we anticipate overall will be
+hiring about eight hundred to a
+thousand people in the next fy
+some of that will be replacing
+people who are retiring right or
+who we've lost in the first five
+years so a little that is to do
+to attrition about also do to we
+believe looking at the current
+budget scenario in the federal
+government that we will actually
+see a plus up in funding next
+year additional funding coming
+in and may potentially be hiring
+additional people on site to do
+that work thinking I really
+appreciate that that that's
+great
+that's wonderful as far as the
+eight thousand that commute to
+to work a day
+have we
+know that you guys are really
+looking at how you're helping
+your work force you've created a
+and if you want to just update
+us on the the child facility out
+the car facility that you've
+done in that investment and kind
+of were
+our future constructs like that.
+In housing in the
+were you guys moving with that
+manager
+thank you madam chair
+representative luhan so first of
+all I where as you drive over
+this afternoon to the laboratory
+as you're coming down the road
+you're going to look on your
+on your right hand side
+bilingual montes sorry school is
+the school that the laboratory
+has made an investment in
+expanding their location it's
+just a cross from the hospital
+that facility is licensed by the
+state of new mexico to take up
+to a hundred and seventy
+students so you will see lots of
+activity around that facility
+we're happy to have made an
+investment in it we needed that
+especially when we see that our
+work force is the workforce that
+we've recruited in in the last
+five years are average each has
+dropped dramatically which means
+that we're hiring young people
+with young families and they
+need school systems and they
+need child care in order to meet
+those needs and as we hire
+probably not at the rate that
+we've been hiring over the last
+five years lost almost national
+laboratory has hired five
+thousand new employees
+but even as we're hiring eight
+hundred to a thousand new
+employees a year their employees
+were generally early in their
+careers and coming with families
+and need that kind of support we
+anticipate our next investment
+and kind of the wish list of
+what we need is student housing
+so we are having that
+conversation right now with our
+regional universities hoping
+that maybe there can be some
+facility sharing
+you heard angela say we had
+almost two thousand students in
+turns on campus this summer when
+you've got a situation where
+your housing constraint already
+when you bring students in you
+know we read in horror on
+facebook that they are camping
+in the national forests around
+us because there's no housing
+available for them in the region
+it's really a critical need that
+we have to address that this
+laboratory is finding safe and
+secure housing for those
+students who come for
+internships.
+And were hopeful that we can
+also share that housing with our
+regional universities who don't
+have access to housing now as
+well for their student body
+I appreciate that thank you
+thank you very much for their
+any other questions if not thank
+you i'm sure that will definite.
+Uh members of the committee
+if you can drop your cell phones
+in your car is right now if you
+can't david arrange for someone
+to come and collect and secure
+all of the phones in electronic
+stuff and
+you end then you will get them
+at the end of the tour they're
+going to collect him right away
+and put them in the storage fall
+and you will not get them for

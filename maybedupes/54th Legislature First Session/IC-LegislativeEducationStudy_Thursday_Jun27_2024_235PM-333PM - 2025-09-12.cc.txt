@@ -1,0 +1,2282 @@
+Um Before we get started, I just
+want to mention to folks
+that the restrooms are
+on my right hand side
+beyond the gate,
+um on my
+right hand side over here. So
+if you need to use the restroom, they're
+just beyond those golden gates
+over there, or at least they're golden
+from this angle. All
+right. So Tim,
+if you want to start us off,
+>> great. Thank you, Mr.
+Chair. Good
+afternoon, Mr. Chair and Members of
+the Legislative Education Study
+Committee. Thank you for the
+opportunity to speak with you today
+about the rapidly evolving
+landscape of artificial
+intelligence in
+education. As we
+stand on the cusp of a technological
+revolution, it is
+imperative to understand
+both the practical
+applications and the policy
+implications of A I
+within our educational
+system. A I has
+the potential to transform
+how we teach and learn,
+offering innovative solutions to
+longstanding challenges
+from personalized learning
+experiences that cater to
+individual student needs,
+to advanced analytics that provide
+educators with deeper insight
+into student performance
+A I driven tools are already
+making a significant impact.
+These technologies can help bridge
+gaps in educational equity,
+support teachers in creating more
+effective learning environments
+and prepare our students for the future
+workforce.
+However, the
+integration of A I and education
+also presents several policy
+challenges that we must address
+to ensure its ethical and
+equitable implementation
+issues such as data privacy,
+algorithmic bias, the
+digital and the digital divide
+require careful consideration
+and robust policy
+frameworks. As
+policymakers. Your
+responsibility is to
+navigate these complexities and
+create guidelines that maximize
+the benefits of A I while
+safeguarding the interests of all
+stakeholders.
+That was pretty good, wasn't
+it?
+That was Chad GP
+T
+which probably I shouldn't mention
+because now I've just told you all that
+chat GP T is better at my job than
+I am.
+Uh Thank thank you all for,
+for the opportunity to talk today
+about artificial
+intelligence in education.
+Um There are a few
+things that chat GP T got.
+Absolutely right in that
+little blurb A I
+is already fundamentally changing
+how we do education
+and nationally
+curriculum companies have taken
+notice and nonprofits have
+taken notice and everyone has
+taken notice of the power
+of A I to enhance
+learning
+experiences.
+Uh A I is a tool
+A I is a tool that both students
+can use to enhance their
+performance or enhance
+their performance on
+the assessments that teachers give them every
+single day. Um
+Teachers can use it also
+to better adapt
+their strategies to
+meet the needs of individual
+students. And
+so nationally
+teachers have been encouraged to
+integrate A I tools into their
+learning experiences
+and uh teacher and
+students are being told that they need
+to develop a deep understanding of
+language so that they can
+start to interface with these
+tools and use them
+and to do this
+effectively, uh
+everybody in the State will need
+guidance on what to do and how
+to do it, right? Uh
+And so you all as policymakers
+now are in a very difficult
+situation of figuring
+out what do I do
+and what do we do as
+the State to build
+policy around A I and
+education A I and schools.
+So to help
+help you begin to think about
+your role in setting A I
+policy on today's panel
+that we've put together for
+you today, we'll discuss a few topics
+related to the use of A
+I in education.
+Uh Before you jump into
+policy making policy
+around A I, we wanted to
+start with sort of a baseline
+understanding or formative
+conversation about what is A
+I, uh how is it being
+used and what
+can it do? And so
+once we have that foundational
+knowledge, we can step forward
+together and build
+a framework that works for the entire
+State. So I'm joined
+today by Doctor Alexander
+Jacobson, uh who
+is an A I developer and strategy
+consultant. He's going to talk to you a little
+bit about what is A I
+and what can it do?
+Tony Monaldo is the
+Executive director of the Institute
+of Del Puente. Is the research
+and evaluation arm of
+future focused education.
+And he's going to get share
+with you a little bit about a
+specific A I that they've
+developed to help teachers navigate
+Capstone projects.
+He's going to talk to you about what it does,
+why it's useful.
+And then some of the policy
+conversations that have come up around
+the development of the A I
+as, as they have been
+working with it.
+And then I'm joined by Scott
+Elder, the retiring AP
+S superintendent and Tom Ryan
+co-founder of the K 12
+Strategic Technology Advisory
+Group. They're going to talk to
+you a little bit about how
+A I tools are making their way
+into schools and what
+the State can do to provide guidance
+around what's
+already happening in schools.
+So without further ado,
+Dr
+Jacobson,
+>> thank you, Tim. Thank you, Mr.
+Chair. Thank you, Members of the Committee.
+I'm very excited to be here
+today to talk about what is A
+I and the kind of tools
+that we're already developing
+to help with
+education in Mexican
+public schools. So for
+just a very quick context
+about myself, I'm an A I
+consultant in Albuquerque.
+I have been working with nonprofits
+and other public interest organizations
+to identify ways in
+which I tools
+might help with their missions, help
+with the work they're already doing.
+And then I also make the
+tools so I have this kind
+of juxtaposition where I help
+people understand
+what is A I, but I'm
+also kind of within the
+technical side of it at
+the same time. And
+due to that kind of
+duality, I have a lot of
+conversations about what is A
+I, what is it,
+how does it differ from other forms of
+technology we've been dealing with for
+the last 1020 30
+years. So these kinds of
+conversations is something that I've
+done fairly frequently over the last
+couple of months. So
+with that out of the way,
+what is A I?
+Because, um A I
+kind of has the connotation
+of magic and a lot of conversations
+we talk about without actually defining
+what precisely it is.
+And A I is nothing
+more than a program.
+It's 20 gigabytes
+give or take and it runs on a very
+powerful computer.
+This is very different
+from the kinds of technology
+that we talked about even earlier
+today. Um Senator
+Brand, talking about Facebook, for instance,
+if you were to ask me what is Facebook,
+I would say Facebook is a website
+that lives on thousands,
+if not tens of thousands of computers
+around the planet runs on
+data servers here in New Mexico,
+around the United
+States around the world. And
+if you were to say where
+is Facebook, that's actually kind
+of a nonsensical question in the same
+way of asking where is the internet?
+And A I is very different.
+And A I lives in one
+place, it lives on a powerful
+computer. It takes an
+input, it produces
+output while it's
+kind of nonsensical to say,
+should we have a New Mexican internet?
+It is a valid question to ask
+whether we should have a New Mexican A I
+because we can have a localized
+program in a way that we could
+not for the kinds of technologies
+that have been formative again for
+the last couple of decades.
+OK. We talked about this program.
+What exactly is
+this program? So an
+A I is a neural
+network
+like neurons, it looks
+a lot like our brain. So
+the way the human brain functions
+is we have a bunch of cells that are
+linked to one another with
+connections. And when I
+say a word like
+brainstorm, everyone
+in the room has a thought and
+the way that thought is generated, it
+triggers a neuron, the
+connections those neurons have
+to one another has that
+thought start somewhere and go to
+another neuron. The specific
+connections you have has to go to
+another neuron so on
+and so forth. Until
+eventually we have a fully formed
+thought. Um
+The actual thought that
+you have specifically is
+predicated by the
+specific connections in your
+brain. The experience
+you had in your
+educational and
+home experiences,
+um The specific
+structure of your brain leads to
+a specific structure of thinking.
+And A I looks a lot like
+that. It has a lot
+of math, but
+structurally, it
+looks a lot like your brain.
+If you give an A I A prompt,
+it starts at a neuron
+so to speak. And then it does
+some math and that math
+tells it which neuron to
+go to next. And it does
+that again and again and again
+and again and eventually it
+gets you an answer.
+This kind of begs the question,
+where do these connections
+come from? How
+does that differ from the human brain?
+Um The way
+you make an A I
+is, you give it a lot of
+information and you
+ask it to form patterns,
+kind of in the same way we
+educate students by giving
+them all sorts of material and
+ask them to with
+guidance. Look at it,
+understand it, find patterns,
+find systems, assimilate
+that A I is also
+are just given reams and reams of
+data and are asked to
+basically look at them and
+through some very fancy mathematical
+processes make
+connections.
+Um
+If you give an A I enough
+information, say
+the whole internet, which is kind
+of where we're at by this point,
+they make a lot of connections
+and that's how you
+get these incredibly
+intelligent seeming
+programs. We've
+given things like chat G
+bt clad
+various other A is
+as much information as
+humanity can collect together. We've
+asked it to basically form a brain on
+top of it.
+However, these A is are
+static.
+So I used
+the word rainstorm somewhat intentionally
+because I got caught in the rain when I
+came here today and I walked into this
+room absolutely drenched
+the thought association I
+have with the word rainstorm is
+different than from a couple of hours
+ago because I've had this new
+experience of ruining
+my leather shoes. And
+now I think about brainstorm
+that thought comes to
+mind. A I are
+static. We teach
+them once and then
+they're just the same
+until the next A I comes
+out. So this is why
+if you say asked chat
+G BT, what happened in
+New York yesterday? It can't
+give you an answer. It doesn't have
+that information in its brain,
+so to speak.
+Which means that A I
+have a really big
+detriment versus humans. They
+don't have memory.
+What A I programmers have been trying
+to do for the last year
+or so is find ways to
+take these tools that
+don't have memory and make them
+useful. And
+there's a couple of ways you can
+make these programs
+more responsive.
+The first thing you can do
+is
+you can basically talk
+to them in particularly
+efficacious ways
+A is are very, very
+flexible. Um This is
+something that has
+not hit the public conversation
+to the degree that it probably will
+at a certain point. But A is are
+very, very flexible.
+They can be good at a whole
+variety of tasks, but
+they're not necessarily good at that
+task. If you just approach
+them with any given
+request,
+there are certain best
+practices in talking to A
+is we call this prompt
+engineering that
+you can utilize to
+get them to be as
+efficacious as possible.
+So if for instance,
+they excel at being told
+that you are a tool that does blank.
+If I ask an A
+I to summarize a
+document, it might be OK
+if I come at it with ur a
+tool that summarizes documents,
+please summarize blah.
+It does a much better
+job. The second
+thing we can do is we can do
+something called retrieval Augmented
+generation. So this
+is what
+of what we're going to be talking
+about between myself and Tony
+today. Retrieval Augmented
+generation is
+when we get
+around the limitations
+and A I's knowledge
+by finding relevant
+information to give it
+before we have it
+actually given an answer
+to a student, a teacher,
+etcetera. So
+going back to my example
+of what happened in New York
+yesterday,
+chat, G BT can answer that
+question. However, if it
+were hooked up to a
+database that was updated every
+day with all the newspaper articles
+in the country, one
+thing that the tool could do
+is it could go to that database,
+it could poll,
+it could basically search for
+New York News,
+June 26 2024
+get the answer and
+then use that information
+to contextualize
+what it provides to the end
+user. This
+lets us circumvent the kind
+of static A I and provide
+not just updated but
+also bespoke output.
+This is where you really get
+A is to
+be particularly good
+at new tasks that they
+wouldn't necessarily be good at
+beforehand. And
+then the final way you
+can make an A I
+specialize, we can get around
+kind of being stuck with the
+program as it is when we receive it
+is we can do something called fine
+tuning, which is, we can go
+inside the A I
+and we can change its
+neurons. We can sever
+some connections, we can make new
+connections the way in which this actually
+happens, not particularly
+important, but you can do some very drastic
+things. All
+of this is to say that
+A is, are very
+odd
+technologically,
+they can
+live on a single computer. They
+can be made
+to do all sorts of things very
+well. They can be
+specified, they can be
+customized, such that
+they can be particularly
+responsive to particular
+requests, particular context,
+etcetera, etcetera. In a way
+that would simply be
+impossible for pretty
+much any other repository
+of information that
+we've been working with in a digital
+context. So
+to kind of place
+all of this conversation
+into a concrete
+context. What I
+brought here today is a tool
+that I've actually
+been building for future
+focused education.
+So this is an example
+of a customized A
+I this
+program runs on my
+computer at home. It doesn't
+touch the internet, it's not
+sending requests to California.
+It's not
+looking at a database hosted
+outside of my apartment in Albuquerque.
+It's all local except for the fact
+that obviously it's being now streamed
+to me. Oh, thank
+you that it's
+being streamed to my
+laptop.
+It also
+is
+particularly attuned
+to one of these specific tasks
+in particular.
+I'm helping with a tool that's meant
+to aid with capstones in the
+classroom. One of the things that I
+found because throughout the spring,
+one of my tasks was to
+facilitate conversations with
+teachers from around the State. I
+found that a people were
+very reticent to ask
+requests or place requests
+into a model where they were unsure
+of where the request was going.
+Um They wanted to feel
+that they had control over their data.
+And secondly, they
+wanted a tool that could do
+very specific things. They didn't want an
+A I to come in and start
+replacing teachers left and right. They
+wanted very particular
+implementations.
+Um This particular one
+is meant to aid
+teachers with
+gaining knowledge about best
+practices for conducting capstones
+within classrooms. The
+particular need being
+that with the expansion of
+Capstones, there are only so many
+experts right now and they feel
+inundated by questions from teachers
+who are doing these projects for the first
+time. These experts
+said that if there were some tool that
+could summarize
+established practices, established
+knowledge around Capstones, it
+would aid their burden
+and help
+essentially
+promulgate
+means of effectively
+doing capsules in the classroom to
+teachers that don't necessarily have
+access to
+experts or a body of
+knowledge.
+So you put
+it all together and you get
+this tool that can do some pretty
+cool things. At least I
+help. Um It's
+described in the
+handout that I distributed.
+Um An example of a
+customized A I
+So when we
+ask it a question,
+I'm just gonna ask it one from the
+handout.
+What,
+what it's doing is it's going
+to a database of
+documents that Capstone
+experts have accumulated and
+it's looking for
+information.
+So having done so
+it produces an output.
+And another thing that this
+particular tool does
+is it actually double
+checks its output
+before it gives it to the user.
+It makes sure that
+it's not creating
+its own recommendations
+that it's only summarizing
+stuff that's already been done.
+So it double checks, make
+sure that it's not inventing new
+Captone practices and
+it gives an answer. So
+some examples of products student
+might create for the Capstone projects
+include public events
+and services, reach papers,
+reports, etcetera,
+etcetera,
+etcetera.
+So the reason that this
+is helpful
+for our particular use
+case is
+as I have been mentioning, this
+is the precise
+context and
+documents. It's going to
+when you just ask a generic
+caps, when you ask a
+generic A I, when you just ask
+chat G BT for,
+what kind of things should students
+do for Capstones? It
+doesn't have an
+understanding of the intention
+behind Capstones. In New Mexico. It
+doesn't have an understanding of
+the particular
+emphasis on community
+oriented projects.
+So it just gives general
+recommendations like mobile
+applications, websites,
+robotics, software programs,
+etcetera, etcetera.
+These aren't bad
+recommendations per se,
+but it's absolutely
+uninformed by the actual
+reality of how capstones are being
+done in New Mexico and the intention
+for capstones.
+And when you ask this tool,
+any variety of questions,
+it does the same thing. It
+always refers to the specific
+circumstance
+behind
+the practice of
+education within the State, at least
+within the database it has
+access to and
+uses that to inform its
+responses rather than just doing
+its own kind of generic
+computation.
+So when you put all this
+together, what
+we hope we have is
+a program that takes advantage
+of the particulars,
+the particularities
+behind A I, the
+fact that we can have something
+local, the fact that we can have something
+customised, the fact that we can make a
+tool that educators
+would feel more inclined
+to place faith and trust
+within than simply using
+something where it's
+computation. Databases
+are hosted within
+Northern California. For
+example, and when you add all these
+together, you can make
+some things that we
+hope will be really efficacious
+and making
+education more effective and
+easier than the State. Thank
+you.
+>> Thank you Alex.
+So um
+Mr. Chairman and Members of the Committee,
+it's a pleasure to be here. Thank you
+for inviting me,
+Alex is uh
+as you mentioned, he's
+a uh developer
+and he's building a
+prototype A
+I for our
+organization, future focussed
+education and the
+A I that he's developing.
+Our goal is
+to build a
+database
+A I is a database
+where teachers and
+students can access
+the best practices,
+examples and
+of other
+Capstone projects, the
+experiences of other teachers in
+teaching those Capstone projects,
+young people and what they're researching
+and doing. So, I'll
+give you a couple of examples.
+So
+we have Captone projects
+happening around New Mexico right
+now that are result of
+the Innovation Zone initiative,
+result of graduation
+requirements changing.
+And these Capones an example
+would be that
+in um
+Zuni, New Mexico,
+the tribe
+has
+um worked with the school
+district to create a Capstone
+project. And the Capstone
+project is about cultural
+preservation, language,
+preservation
+and uh the
+work on the
+persistence of the tribe.
+So what will the tribe
+be there in the future?
+And what do we need to do in schools
+to make sure that young people
+are able
+to continue the values
+and the language and the culture
+of the tribe. And so students
+are doing capsule projects that are
+about the long term
+um the long
+term viability
+of their tribe. Another
+example would be at Del Norte
+High School, Del Norte. High
+School has the
+largest um
+unhoused youth
+population in the State.
+We have more young people
+without homes at Del Norte
+High School than we have anywhere else.
+Um In New Mexico,
+we are, there are young people
+doing capstone projects
+about youth homelessness.
+They're researching those topics
+and then they're being placed
+in homeless serving
+entities. Um
+And they're building projects
+that um
+uh work toward their
+graduation. So
+they're getting credit for those projects.
+They're in, they're in internships,
+interning for um
+organizations that do
+um um
+that serve homeless
+populations. So those are two
+examples of capstones
+that are part of
+the work that is
+happening around New Mexico and
+it's an emerging field.
+So teachers are learning about it.
+Young people are learning about
+it. It's a way
+for us
+to realize
+the potential of applied
+learning.
+And I'll mention that this
+initiative came out of
+work that um Dr
+ornament and
+I did
+years ago when we
+were working on equity and
+assessment
+and what are more ways
+that we can provide learning opportunities to
+young people to prove
+that they've learned that are
+not based in standardized
+testing.
+And so the capital initiative
+is a way for young people
+to demonstrate that they're,
+that they've learned that they're ready to
+mov'e forward. And
+through an applied learning process.
+And what Alex described was
+that these are community based
+processes. So kids
+learning in community. So they're
+doing internships,
+they're doing group projects, they're doing
+service projects,
+ideas like that,
+that capture a whole
+another way to demonstrate
+that you've learned.
+So this what
+Alex described to you, the database
+he just showed you is
+the platform that we're
+building. So young
+people can connect to each
+other.
+Teachers can connect to each
+other, they can learn about best
+practices, they can
+ask, they can ask the
+A I, what
+is in, in New
+Mexico? What
+is a capsule project that
+cares for
+um language
+sovereignty
+in Zuni.
+What do I need to know about
+that?
+And because teachers, the
+practitioners are adding
+the data, they're adding these
+capstones and they're adding best
+practices, they can learn
+from each other and they can access
+each other in the development of
+their projects.
+So it's a platform for
+teachers and educators,
+it's community-based. And
+the idea is that
+because as Alex described
+the A I model that we're building
+is self-contained.
+It's not something that
+is shipped off to a
+company in
+California
+where the data is really
+a commodity.
+Instead, it, it
+respects and appreciates the
+value that it
+has
+and what our
+hope is. And well, let me,
+let me take a step back before I get
+to what the hope
+is
+when we,
+when we retained Alex
+to build the prototype A
+I, we did it
+because teachers
+started asking
+how do we do
+this in a way that's to
+our benefit and to our young
+people's benefit and does
+not something that, that
+replicates cultural
+oppression does not
+replicate the
+um issues we've
+had in the past
+about um
+the colonialism of the, of the
+system. And
+we're worried that if our young people
+are putting data into
+an A I that we
+don't, that we lose control
+over and it's a commodity
+to a private company in another
+place, then how do we
+protect our communities?
+And so teachers were bringing these
+issues forward. And
+so when we brought them together
+to help us problem solve
+what came out of that was an
+idea that we need to have a
+self-contained
+process where people
+can opt in and opt
+out, they can share
+what they want to share. They don't have
+to share everything
+that the idea
+of um
+appreciating
+the context
+and the sensitivity of
+some of the context
+needs to be part of the
+process.
+So what's come out of this now
+is as Alex showed
+you, there's a prototype
+that's being, that's being developed
+and it's, it's almost done.
+I hope it's almost
+done. Um
+And our goal
+and, and we've been working
+with teachers to refine
+what we're building so
+that their ideas
+and about how it's functional for
+them is included.
+And then we built a task
+force with data
+science, folks, community,
+people, tribal folks
+to try to help us
+understand what parameters
+would look like,
+like what, what is
+appropriate,
+what do local communities
+need to have control
+over? What should
+not be in the public domain?
+How do you know, how do you keep it
+from being in the public domain if it's
+dangerous or sensitive
+or overly
+um
+concerning to the people
+that contribute the data?
+But at the same
+time,
+educators want to be
+part of this
+and they want to be part of it in a
+constructive way.
+They don't want to do harm,
+but they want to be part of it
+because they know that it has
+value to them as
+educators being connected
+to one another and it has value
+for young people to be connected to
+one another to learn from
+each other.
+So what I'll just, I'll
+finish just with a couple of
+thoughts
+um
+that we're
+sort of emerging,
+maybe we'll call them a
+consensus. There's some emerging
+consensus about a few
+things. One
+is that um
+we need to have equitable access.
+It's not unlike the
+internet where we
+need equitable access and that
+equitable access means
+that any A I that's
+built, needs to be built in a way that
+people can use
+it
+as opposed to built in a
+sophisticated way at a
+level that nobody's able
+to access it and you don't know how to
+use it. The
+second thing is
+um people need to be able to
+opt in and opt out and
+if something gets put into the A I,
+that's a data collection piece, you
+need to and it's sensitive, you
+need to be able to back it back
+out. So it's not
+lost, you
+get it out of there if you didn't
+want it in there to begin
+with.
+Yeah.
+Um
+The last thing I'll mention is
+that folks
+are coming to this
+idea
+that we might want to be thinking of
+this as a public
+um resource
+right now. It's a, it's a private
+thing. It's a
+company that
+has runs an A
+I and you contribute
+your data to a lang large
+language model. You've lost
+control over the
+data.
+And part of what
+has come out of these
+conversations has been,
+does this need to be a public
+entity? Does it need to be more like a
+utility?
+And that's been some
+of the thinking right now, I wouldn't
+say we're anywhere close to a
+recommendation but
+the way that people are
+imagining the
+future, they're trying to
+imagine something that's good
+for the
+public
+and is Democratic
+in a way that lets you put
+safeguards in
+that um keep
+it Democratic where there's
+accountability,
+where as Alex was
+mentioning, it's adaptable,
+it's not static, it's
+adaptable.
+And third that um it's
+Democratic in the sense that everybody
+gets to participate in the way that
+they choose to participate.
+So nobody's losing control
+over what they want to have
+um part of the
+Democratic process of
+contributing data.
+So with that, um
+I'm happy to pass it
+on to Tom and
+uh, Scott,
+and I, I appreciate
+you asking me to be here.
+Thank you.
+>> Thank you, Mr. Montalto. I'm glad
+you remembered my name.
+So Mr.,
+Chair Members of the Committee. Thank
+you for having us here today.
+Um Just so, you know, I'm
+Scott Elder. I'm the retiring
+superintendent from the Albuquerque public
+schools. And
+why am I here?
+You May recall that in
+2021 A PS
+was a victim of a pretty
+vicious and complex
+cyberattack.
+And that whole experience
+was fairly upsetting for all of
+us. But especially me and I began
+to really look at our
+cybersecurity
+and our technology arm
+because we recognized
+that we were vulnerable
+in ways that we hadn't
+been before because we've begun
+this process of
+moving to a 1 to
+1 model with our students and
+we were going to utilize,
+continue to utilize that
+more and more
+as such. I was
+actually looking
+at the internet and, and
+what was new in education
+when chat GP T popped
+up. And so I
+jumped on and became an
+early adapter of
+chat GP T
+which sounds pretty
+impressive until I learned
+that it took chat
+GP T all of two
+months to get to 100
+million users. So
+I was one of those 100 million,
+I thought it was really unique, but
+apparently everybody else was there with me.
+So, here we go. But
+it was fun. So,
+um
+since then, I have been
+involved in
+artificial intelligence. In the
+discussion, there's an explosion
+of literature,
+there are conversations
+going on across the
+country, both at the le
+A level and the se A
+level. And
+as such, Dr Ryan and I
+have been involved in
+those conversations
+uh both from the cybersecurity
+and from the A I arm.
+So if you
+had and just be,
+I, I guess I'll introduce
+you. Next to me.
+This is Dr Tom Ryan. Many
+of you know, him, he
+was the Chief information
+Officer, both in Albuquerque public
+schools and in Santa
+Fe public schools,
+he's recognized as one of the leading
+voices in technology
+and education in the country.
+Uh cybersecurity, he's
+developing a voice in A I
+and I believe he's one
+of the main authors, if
+not the main author
+of the Generative A I
+readiness tool developed
+for the coin, the
+consortium for school
+networking and the Council
+of Great City Schools
+that's being used across the country
+now. So last
+year, if you'd invited us to discuss
+A I and what it would
+be, we'd probably be here talking about
+whether or not these kids are
+cheating when
+they use A I,
+how quickly things have
+changed because we no
+longer live in that world.
+We live in a world
+where concerns about the
+ethical use of A I
+or more specifically unethical
+use of A I includes
+concerns about bias and
+discrimination. Mr.
+Montalto touched upon that,
+but that's a significant issue.
+In educational circles,
+the concept of social
+manipulation, the ability
+to use A I
+to change
+thoughts and perceptions
+is tremendously
+powerful.
+Two of the biggest ones that I
+think really impact
+education are the use of
+deep fakes. A deep
+fake technology creates
+real hyper realistic
+uh fake videos
+or audio recordings
+which can be used to spread
+misinformation, manipulate
+public opinion
+or to fame individuals.
+Um You May have read
+in the news recently about a high school
+athletic director in the Baltimore
+area who was
+arrested after he used
+artificial intelligence
+software to
+manufacture a racist
+and anti-semitic audio
+clip that impersonated the
+school's principal.
+It just takes three minutes of audio
+folks and we
+can do it. There's
+also concerns about data
+exploitation. So
+a technologies can be
+used to exploit large
+data sets containing personal
+information without
+users informed consent.
+This certainly can use the unauthorized
+use of data, identity theft
+and other privacy breaches. And we're
+deeply concerned about this in
+educational circles
+because we've talked about this before
+in terms of
+cybersecurity,
+school districts are particularly
+vulnerable because of what we
+pay and who we can hire to to take
+care of our cybersecurity.
+Um The other thing we're
+concerned about is the fact that
+we are well aware that educators
+just like everybody else
+are beginning to use A
+I and they're
+doing this in a
+framework
+um with very little
+guidance, with no,
+with no framework from the
+State or from any le
+A. Um, and I
+think it's a good
+thing that they're doing it.
+They absolutely should
+be looking at a I, because
+A, I can do so much.
+One of the questions we were asked is
+how does A I help in education?
+Well, they can do a lot of work around
+personalized learning.
+You can use A I to
+help us individual student or a
+small group of students
+work on a project
+or develop a skill that
+they're lacking.
+And it will, it's like having an
+intern in the classroom
+with the teacher. Um
+You can use it for
+improved grading and
+feedback. A I
+software has the capacity to
+grade assignments and tests and
+they can offer instant feedback.
+I'm sure that some of you have written
+memos and you've run it
+through A I just to see
+if you could pretty it up a little
+bit and I was always
+disappointed when I did that and discovered,
+oh, this thing is really a lot smarter
+than me because I always
+sounded better, you know, in some
+way you did sound good earlier.
+Um So,
+and you can use it for data driven
+insights. A I can
+process and analyze large
+volumes of educational data
+and helping teachers identify
+trends and assess student
+performance and make adjustments.
+District superintendents
+should be using it. Um
+Strategic decision making.
+It is like having a strategic
+decision maker sitting with
+you and you can talk and it'll
+think of things that you
+did not. The
+generative A I is
+A, it's thinking and
+everything you said is absolutely
+right. But generative A I
+is not going out and just
+finding an answer somewhere.
+It's creating an answer,
+something unique.
+That's why they hallucinate. That's
+why sometimes they give you answers
+that maybe aren't necessarily
+true. The hallucination
+is not, we used to be just terrified
+of hallucinations. Now we've discovered
+that's kind of what makes it A I
+they can think. It's,
+it's, it's thinking along with
+you. It's really
+good for predictive and analytics
+for resource management.
+Um I recently
+was talking to a group of school
+gis planners and they were trying
+to figure out what their trends
+were. And you can use A
+I and look at the data and
+you can break down large State amounts
+and you can start comparing
+where you've got growth in the
+city versus where you have
+decline versus where
+your FTE is going to need to be for
+certain schools. And you can
+do it fast, it can
+reduce some of the tedious
+labor. Um So
+it really can help
+the district and the classroom
+in ways that are very powerful.
+The reality is a we're
+standing on the precipice
+of what we believe is
+the fourth industrial
+revolution.
+This is going to change
+how everything happens. This
+is no longer something that
+we wonder about
+and let's see what happens, it's
+happening and this stuff
+evolves every
+day, it changes
+every day. There's no way anybody
+can really call themselves
+a super expert on A I because
+it's new and two,
+it's hard to keep up,
+you know. So
+um
+the prompt engineering is
+something we're going to have to talk
+about in our school
+systems
+soon. So
+I'm thinking, I was asked
+to think a little bit about what the
+State can do and how
+you can provide some support.
+There's four areas I think you
+have to consider. One is
+political, uh
+you need a task force
+and you probably needed it yesterday.
+And I think Mr. Montalto made
+the example of, of how his
+communities really wanted to make
+sure that the things they
+were touching
+on that they thought were important
+were included in these
+conversations and are part
+of whatever gets developed out
+of this. You also need
+somebody to be in charge of this
+who is going to take
+responsibility for
+the growth of A I both in
+the SE A and at
+the leas um
+who are we gonna turn to if you
+expect it to just be something we
+can add on to people's
+existing
+jobs
+that May be difficult
+because this is
+too big by,
+by itself, if they're doing something
+else, this is going to be a full
+time job.
+Um those task
+force and these people can look at
+things like setting
+principles and guidance
+for you, setting some guardrails.
+I'll give you an
+example.
+I am concerned that there are
+teachers that are writing
+individual IEP plans
+or students. And what
+kind of information are they putting
+into the GP
+T? Are they putting
+personal identified information?
+Probably not, but
+the concern exists
+also how many teachers are
+taking copyrighted
+material and plugging that
+in to modify it
+and thus filling these uh
+these a is with
+data from
+proprietary sources.
+Um These are things that
+we probably need to think about at the
+State. The second area of
+concern is operational.
+Um I think as a State,
+it would be very helpful if we had a
+roadmap probably
+consisted for 2 to
+3 years. And that
+would articulate a clear strategy
+for the State. And for
+leas detailing
+a set of initiatives
+with milestones,
+you know, we just need somebody to plan
+and show people the next steps.
+They take. One of the
+biggest things I'm concerned about
+is the lack of training for
+staff.
+Um
+What was happening is
+people are grabbing on
+to online training or
+they're meeting someone or they're
+going to a webinar
+or a seminar and they're learning
+something but we
+have no idea of exactly
+the credentials of these people
+or what they're doing and
+what are people are bringing back, what they
+think they understand. A I
+is, um,
+my feeling on
+this is when I was running the district
+during the pandemic,
+people said
+you are building
+the plane while you are flying
+it. That's
+where we are with A I right now
+it is in the schools.
+It's being used and it's being
+used widely with
+very little framework.
+Um I think there's a
+technical consideration for
+you all. I
+do think that you should be
+working with the State Cio
+and other groups to align
+with the leas
+to make sure we have
+some government standards
+and make sure we have standards. Everybody's
+reaching, this can reach into
+a lot of areas including
+procurement, making sure
+we because every, every vendor
+you heard it from Tim, the
+vendors have discovered that A
+I is the hot button. They've just
+slapped A I stickers on
+everything,
+but you don't
+know exactly
+what that A I is
+and what it can do with your data
+and there's some real impacts
+there. The other thing we
+are suggesting is at
+least at the le A level,
+if not at the se A level
+that you conduct a comprehensive
+A I Readiness assessment,
+you need to identify your current
+capabilities and infrastructure
+gaps within
+each district. This
+would include an evaluation of
+hardware, internet connectivity
+and data security measures.
+Um Where would something like
+that exist? And
+could anybody local do
+that?
+Uh The
+rubric I mentioned earlier,
+the generative A I readiness
+matrix that Dr Ryan
+developed is exactly what
+I'm referencing. So maybe you'd like to
+talk a little bit about the tool
+and how you see those steps moving
+forward.
+>> Thank, thank you for the opportunity.
+The co coin
+is, is the consortium
+of school networks and the Council
+of grade school is
+a consortium
+of large districts across
+the country together.
+They put together a grant
+to how can we help
+school districts prepare
+for A I? What
+questions they should be asking
+and how do they start to develop a
+plan? So the rubric which
+is free and available
+at coin.org
+gives school
+districts six
+domains of questions
+and maturity levels
+to help them assess
+more current State
+identify where they
+want growth to build a
+roadmap for them.
+Part of it's around leadership
+but risk data
+security
+um legal are
+all a part of that, that
+tool. So it gives you ability
+to assess where you
+are on your
+own and then
+also uh connect
+you with resources that
+as
+doc Mr. Elder
+mentioned.
+Um this isn't a
+technology innovation.
+It's a
+organizational implementation
+of which some of it is
+technology and to
+have these cross functional
+teams and and specifically
+smaller school districts do
+not have the resources
+because that they
+wear multiple hats to be
+able to really level
+plan out and
+prepare for this.
+So, developing
+some statewide guidance,
+15 states already
+have created
+guardrails and policies
+around the use of A
+I. It's going
+to be even more critical for
+our smaller districts as they
+start looking at. How
+do I protect from
+cybersecurity because the bad
+guys are also using A
+I and are becoming
+very sophisticated in their
+attacks on
+our school systems as a
+way to get
+money. And a lot of
+these as Scott didn't
+mention aren't being
+perpetrated by some
+individual in their basement,
+but by by
+countries, other
+countries that are using
+this to attack the
+United States. So
+having statewide
+guardrails and
+some policies starting to
+understand where schools
+are and how we can
+develop resources that can be
+shared. We don't have to
+invent this.
+We're at our lowest
+level A I
+use in our
+kids' future right
+now. It's only gonna get
+more. So how do we
+get out in front of this so that we're
+not fighting it?
+Like we didn't do well
+with social media and
+then we have all of these
+negative impacts
+and, and in our
+schools and with, with our,
+our youth. Thank you for
+the opportunity to share and I'm
+happy to answer any
+questions.
+>> Are folks
+questions.
+All right, we
+Garrett,
+>> thanks Mr. Chair
+Dr Ryan. It's good to see you. I was
+in your first uh
+technology class for
+administrators a
+long time ago.
+>> Good to hear >> you. It
+was, it
+was um
+I have two questions.
+First of all, have
+any of you worked with
+Michael Smith and I CASA
+at New Mexico
+Tech.
+And, and I say that because
+there's an effort to make,
+look at statewide data
+sharing and it's a
+lot of the same issues,
+guardrails
+governance.
+>> No, I don't think
+at >> this >> point >> we weren't
+approached
+>> neither
+>> a good person
+to be connected to all of this.
+And I, I can give you contact
+the second of all, as I was at
+A A I meeting
+and um the person brought
+up quantum computing
+and how it relates to A I.
+Do you have any comments on that
+this, you know, it's like
+just one more variable that's
+gonna change
+everything.
+>> I, I wouldn't worry too much
+about it. A is
+function on NVIDIA
+chips for the most part right now.
+GP us more technically,
+but we don't
+really need a new class of computers
+to get A, is to the next
+level. We can just keep iterating
+on what we're doing now and they're
+going to be getting better and better and
+better. But just to reiterate
+what Dr Ryan said,
+we're at the first
+moment, you know, all of these
+things are still up in the air
+and where A I
+is going has not been
+defined. And there
+is an opportunity essentially
+to direct
+this conversation, direct this
+technology in various directions at
+this juncture. >> Thank
+you,
+Representative Garre and,
+and uh Chairman
+Romero, I, I
+would like to introduce our
+interns because
+they May have some insights as
+well for the question
+portion. So
+Tara Singh
+um here, would you mind
+standing up Tara?
+Thank you and then
+Victor Corchado.
+So Tara is from
+uh North Northeastern
+Universities here for the summer
+working with us and
+Victor's um from
+South Valley by Rito
+Mesa. So they are
+interns for the summer and they're both
+working with
+us.
+>> Represent Guolla.
+>> Thank you, Mr. Chair. Thank you.
+Uh Thank you for this
+presentation. Uh
+It really, I
+really enjoy hearing
+about um the
+development of that
+um
+um
+A AE a
+software. I don't know how you want to say that
+platform, but I guess one
+of my biggest concerns with
+artificial intelligence is the
+bias, right? Because it
+gets fed from
+whatever is available
+and
+multicultural education
+sometimes is not
+like that opening. So
+knowing that it's being fed and
+provided for the data
+to actually being able
+to um to produce
+or account for,
+for the for
+the outcomes
+that we, that are less
+forming a pattern that
+is already out there. Um So
+my question is um have you
+used it already
+or is it developing
+already?
+>> Thank you, Mr. Chair. Thank you, Representative
+Guila. We have, we've been
+demoing it to teachers from around the
+State and taking
+prompts showing them what the
+output is. Um Our
+plan is to demo it in a high school
+when the academic term resumes in
+the fall. Um
+But I I just to expand
+a little bit on what you said about
+context and bias and
+algorithms. When we
+talk about local A is there's a
+philosophical and a practical
+advantage. The philosophical
+advantage being as we've all
+talked about, there's
+a deep concern about
+where data inputted into an
+A I goes. So
+if there is
+essentially data service and State
+and that's as far as the A I is going,
+then we
+don't have to have
+philosophical worry about
+whether our data is going to be used to
+iterate. The next LL ma
+illm is basically
+synonym. The second advantage.
+The more practical one is to your
+point. And I just wanted to
+reinforce and expand a
+little bit upon
+that. There
+is always bias in algorithms
+because they are bias in humans. And
+the algorithms are replicating
+us. The advantage
+of having a smaller, more
+local A I with Democratic
+governance in some degree of review
+over it is you can step
+in and change the
+output. That's the beauty of A is
+they're unbelievably flexible.
+Um So if you want
+to essentially push
+the types of output
+that the A I is generating certain
+directions, you give
+it information
+that essentially pushes it to
+think about issues
+in a more multicultural lens.
+Say that's what
+we're trying to do with this tool where
+essentially it is based
+upon a data set that is pushing
+it in a direction
+that a generic A I wouldn't.
+Um But yes, we're
+very cognizant about
+because this data set is
+so important,
+the ultimate
+database it's based upon
+before we introduce it into a wider
+sphere is critical.
+And the very cool thing about these
+databases is that they're
+just comprised of regular documents,
+word, docs, powerpoints, PDF
+S, etcetera. You don't need a computer
+whiz in order to create
+them. So
+the version that we show to the public right
+now is based upon documents
+that have been provided to me by experts. But
+we're going to think very
+conscientiously
+with multiple
+educators, multiple experts
+about what kind of
+database do we want this to have access
+to? How can we give it
+information that confronts the
+exact issues that you're outlining
+before we introduce them to school in the
+fall. >> And thank
+you. Thank you, Mr. And, and I guess
+that the benefit of
+being that small and done local
+is humans
+can be looking at it
+and getting feedback in
+the, in, in human ways,
+right? Um
+Something that I would be interested
+in see is comparing
+these um
+outcomes with
+like the most uh
+public
+um worldwide
+use of a of
+a active A A
+I uh to see what is
+the difference, if it's actually
+having an impact, this
+data that are
+feeding
+more specific
+and it's showing what would be the,
+the difference and, and we can
+actually be
+careful when we are using that
+and show that result. This is why
+we are talking about things like
+that. Thank you so
+much. >> Well, if I May,
+Mr. Chair Representative Guerilla,
+the handout that I've distributed
+example of.
+So it's, it's comparing
+our specific output to the
+most broad
+open A I and showing the
+distinction between what happens when
+you give it more expertise.
+And one thing I want to mention is
+that the specific tool
+that we're running, it's using a
+really weak A I
+if say we were to have
+a larger,
+more robust
+program backed
+by public
+or larger private entities
+than me in my bedroom. Um
+It would be running a more powerful model,
+it would be giving even more
+inflected response based
+upon the context it's been given.
+>> Thank you. Yeah, I look
+at this but I was also thinking the
+Capstone when it is evaluated
+and, and the projects are actually look
+at through those lens
+and through other lens to see
+what would be the difference in those
+outcomes. Thank you
+so much and thank you, Mr.
+Chair, >> a few
+other questions from
+folks,
+I represent
+cum
+>> thank you, Mr. Chairman and thank you for your
+presentation. We have done a
+little bit in the legislature. We had a
+couple of bills last year. 11
+was transparency in our
+agencies to,
+to see does
+there if they're buying
+outside um
+applications, does it have a
+bias or would they show us if it had
+a bias that one didn't
+pass? And then I believe we
+had another one that did create,
+look at creating a task force,
+but I don't believe that I'm not sure where
+that one went, but so we've been looking
+at it a little bit. We have
+um our, our, our
+C CJ
+justice Committee
+and my Science and Technology
+Committee. We've been looking at this and
+delving into it. So we
+might ask a few of you to come and talk
+to us too if you, if you don't
+mind. So, but, but we're
+starting, but we're not nearly where
+we should be. Um
+As far as education, we had a
+professor out at U and M who
+said uh she
+two professors one used
+A I um
+chat G BT to
+help students start their
+projects. And another one said you can't use
+it all until you're done. So
+it just depends on the mindset
+of instructor, I guess. And that's where we
+have to look at how we use
+it and when we use it. But
+thank you for
+all your, all your presentations
+learned a little bit more very
+interested in yours. I was a computer
+programmer before. So I thought
+that was pretty cool. Anyway,
+that's all I have. Thank >> you,
+Mr. Chair. I know it wasn't a
+question, but
+um just to say that
+one would be happy to come and visit
+again. And I do think
+we are uniquely
+poised right now to start
+doing something because we
+simply can't wait
+because it really is exploding
+underneath our feet. And
+there are some definite
+risks for school
+districts if we don't get
+some guardrails and some guidance
+out there. And you know,
+the cybersecurity is obviously the big
+one and
+it's just another
+way that people
+can. It's right now, it's a very shiny
+tool and we're all very excited
+about it. Everybody's
+jumping into the pool and I just,
+this is the time to start
+getting ahead of it. Like Dr Ryan
+mentioned, we didn't do that for
+social media and now we're all where
+we are with social media. So,
+and I think this is going to have
+is just a significant,
+if not a greater, significant impact
+on what happens in our schools.
+>> Yeah.
+Any other questions, folks?
+All right. So I, I guess
+I had a question that might
+lead to a couple other ones. But
+with the, with the work that
+you all are doing,
+you all had mentioned about
+um information
+that
+could
+would, May
+be shared
+and information that May
+not be shared. Can you give an
+example of
+that
+>> Mr. Chair that I can give a
+couple of examples? So
+we uh
+as I mentioned, we just
+finished a round of
+Capstone projects at Del Norte
+High School. Those
+those are conducted
+by young people,
+they involve sensitive
+information about those young
+people. We
+clearly would not
+um want to put that into a
+database about the specifics
+or even how those young people
+could be identified. So,
+in a sort of personal
+identity way, that would be
+one example.
+Um
+The other example
+is we've been
+super
+um
+conscious of making
+sure that we have
+uh native tribal
+folks in these
+conversations
+and the complexity of
+that is significant.
+And I
+understand
+from those
+folks that
+not all data is
+for public consumption.
+So there are things
+that are
+sacred
+that are not to
+be, that May
+be part of a young person's
+capstone
+because it is about
+their identity and
+their
+um even
+a rite of passage into
+adulthood
+and they May want, and they
+May be demonstrating that
+they're ready to graduate in that way.
+But that data is sacred
+and it shouldn't be in
+and it shouldn't be in a
+large language
+model database. It
+shouldn't be outside of the tribe. It
+should be something that's kept
+separate and held on to
+for its um because
+it's sensitive and because
+it's um
+um owned by
+the community as opposed to
+being in a public space.
+So this would be two examples.
+Um I could
+give
+>> uh Mr. Chair,
+the there are several pieces
+of information
+that you could put
+into a public
+GP T like a check GP
+T as opposed to
+a GP T
+that's behind a firewall.
+Um You could put
+medical information
+in, in helping
+trying to Mr. Elder
+has these medical issues and I,
+what recommendations? Well, that
+now becomes a public thing.
+Um So anything about
+their, their personal
+identifiable information, their
+special education, their
+medical um
+uh discipline
+types of things. There
+are a lot of those
+kind of components. You got to be
+careful that you don't overshare
+that information. When
+you Mr.
+Elder referred to
+uh proprietary
+information, you buy content
+or lease content from a
+company and then you put
+that in to personalize the
+instruction, you just compromise
+the IP of
+that company
+and now you can put yourself
+into a lawsuit
+kind of a situation
+or intellectual property
+going down those paths. So
+there's a lot of
+ways that a person
+doing things
+um to try
+to benefit could be over
+sharing information that now are
+part of a public data set
+that can become a
+problem for the district in the
+future or
+allow
+uh bad
+uh actors to
+use that information
+to um
+harass and harm
+uh people within the school
+district.
+>> And I
+appreciate those answers probably
+brings up a lot more questions.
+The last one I would ask
+about this though. Um
+because Doctor Ryan, you bring up an
+interesting point, like
+will the work that you all
+are doing need
+to be
+edited filtered
+by the individual that might be
+submitting their capstone?
+Or is that something
+that the work you all doing
+would be able to help
+out with that? Because
+Doctor Ryans kind of pointing out
+like it could be
+that I might be over
+sharing something that I
+shouldn't be. And then all of a
+sudden it's available to
+everybody.
+>> Mr. Speaker. I've
+kind of conceived as my role in this
+process as someone
+to interpret what's
+possible with A I
+and what is happening
+with A I and to leave decisions up
+to others right now, my
+tool does not retain any
+information, it doesn't retain the
+prompts, it doesn't retain
+basically anything. Um
+The only static
+data it has access to
+is the database.
+Um It could,
+that's just not a decision
+that I feel that is really mine to
+make, but we could
+have as it is right now,
+a system that simply
+discards the prompts
+as soon as it's been request as soon as
+it's been provided.
+>> And Mr. Chair, one thing I would
+say and answer your question, which is a
+very educated
+question
+is you should always edit
+what is prepared by the A
+I. And that's where we get back
+into the the
+the need for training
+both amongst our staff and our
+students. You should
+never take anything.
+A I told you with a grain
+of salt and I know that one
+of the big things that people worry
+about is will A I replace
+educators? Will it replace
+adults? It never
+will, it will never
+replace educators, it will never
+replace people who do these
+jobs. It
+will help them do the
+jobs more efficiently. It
+will help them reduce some of the
+tedious nature
+of, of the work
+sometimes,
+but you always have to
+be there. We, we like to
+think of this as
+intelligence
+accelerated.
+You're an expert in your field,
+you produce something with
+chat, you want to look
+at it and make sure that it's what you
+wanted and that what you
+intended is produced
+and that's where the people
+always be part of the
+work.
+>> Cool. Well, Thank you all so much.
+I really appreciate you all joining
+us. Thank you.
+All right folks. Um
+So for this
+evening,
+under your announcement,
+tab Members,
+um we need to
+meet at five,
+so we're going to be
+before five if possible,
+but five, if not,
+you're late. And
+uh as yeah,
+yeah, train
+will not be waiting. So
+this is for Members,
+Members only if you have a plus
+one. That's awesome. You should have given
+up that information
+already to folks.
+But, uh, we'll see you before
+five preferably.
+All right. And
+then we'll start tomorrow
+at nine o'clock.

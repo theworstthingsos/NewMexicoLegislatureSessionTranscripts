@@ -1,0 +1,1474 @@
+What's going to happen in our
+communities
+right we learn through that
+process reporting codes would be
+burdened someone taxpayers it
+would be difficult for the
+agency program.
+So we went back to the drawing
+board our drawing board was
+called the smartest people we
+know so that's who we have here
+today to present what they're
+able to do with the R. P. five
+hundred data and R. P. eighty
+data from taxed wrote in the
+idea here is that we can make
+informed decisions based on the
+data we can help say what is
+going to happen in a community
+we can now drill down into the
+next codes and show what's
+happening with attorneys
+architects.
+Hi when we see a tax bill we can
+now ask the system to tell us
+what's going to happen or at
+least what's happened
+historically so with that I'll
+turn it over to the tech team
+so we can see what they've been
+able to do.
+Mr chairman members of the
+committee because tomorrow from
+New Mexico tech associate vice
+president for research more
+issues one of our technical
+centers that the many of you are
+aware of its called the
+institute for complex additive
+systems analysis that was
+created by you in two thousand
+and one the focus that's been on
+national security problem sets
+we focus a lot on the US
+government and the department of
+defense and the intelligence
+community helping them
+understand their data helping
+them understand their problems
+and coming up with solutions for
+them.
+About five years ago the
+institute for complex set of
+systems analysis right Hossam
+begin working on some of the
+problems in New Mexico Saudi
+take that the twenty years of
+experience working with
+government data for collected
+information trying to get us
+understand problems around the
+world.
+That are in our national
+interest how can you take those
+tools that we have built at a
+cost of the plan to the issues
+in New Mexico to make.
+New Mexicans better off so in
+the slide that you see that says
+I Costa on the upper right
+corner is the former district
+attorney about the of the second
+judicial District Court in
+Albuquerque.
+And we were helping them look
+at.
+Criminal data how do you look at
+criminal networks and how do you
+have data informed prosecutions
+so we begin going through forms
+of data working with the
+sentencing commission and
+Senator center roof used to be
+on this committee representative
+Ely worked on that and then the
+the you can look at they look at
+different types of critical
+infrastructure items so all
+these things become additive
+complex systems that's what
+they're specialist at so when
+the problem arose of looking at
+tax data in in the public how
+does that relate to the tax
+policy health legislators make.
+Important decisions we turn to
+the the agency really worked
+turn to our institute to begin
+looking at that problem helping
+develop some tool sets to help
+people explore the data that's
+available create the data lake
+so they can easily explore ask
+questions of those data in this
+particular case taxed either.
+So if you turn to the next page
+on slide number three this is
+the R. P. eighty reports so
+that's a monthly amount of the
+tax reported by each business
+based on the location and the
+reported industry and then the
+R. P. five hundred reports track
+the disbursements back to the
+local entity.
+Based on their total G. R. T.
+collected and that is reported
+by that the RP also so there's a
+bunch of spreadsheets right in a
+lot of our places like New
+Mexico finance authority agency
+believes Association comes LFC
+look at these data and so when
+you ask questions of of those
+economists and those staffers
+they begin to look through all
+the state we want to be able to
+provide
+Some tools to allow for better
+exploration I'm gonna let
+directly whose at the institute
+and his colleagues go through
+the rest of the slides you can
+understand what they've built
+and.
+Pre-filled feel free to stop us
+at any time if you'd like Mr
+chairman to stop in and explain
+anything they're working on on a
+turnover stuff thank you thank
+you Sir Mr chairman members of
+the committee good to see many
+of you again after working up
+here for a while I went back to
+New Mexico tech and working at
+the institute where actually
+started as an intern and all the
+way back in two thousand one so
+it's good to be back doing data
+stuff.
+and with me is Charles Brock
+he's one of our senior software
+developers and really leading
+the team that's been working on
+integrating and ingesting and
+then processing this data so
+that we can display it and so I
+will I will briefly go through
+some of the slides though I
+think we're really geared up to
+do a live demo of the portal
+that we've developed fingers
+crossed that that goes okay
+but essentially Charles will
+walk us through a couple
+different views and some things
+to note I think we have data
+these files are on the TRD
+website publicly hosted but as
+Carlos mention Mr chair members
+of the committee the
+spreadsheets are very noisy
+they're formatted in a way
+that's very difficult to
+understand without subject
+matter expertise and perhaps
+most importantly for the
+purposes that we've talked about
+they really only give you a
+month or a quarter of time of a
+few of the data what we really
+like to be able to see you
+ladies are the trans or the the
+various you know moving averages
+things like that so that we can
+you know retrospectively look at
+what policies have what affects
+what industry perhaps are moving
+in certain areas on the basis of
+the tax collection and then our
+ultimate goal is really to be
+able to do kind of forecasting
+analytics with some of that data
+to maybe be more proactive so so
+so Charles is going to give a
+demo we just had screenshots on
+the paper here in case our demo
+didn't work because technology
+is fun and so really kind of a
+couple different views the first
+one that he's going to bring up
+committee to the full state
+overview.
+So this is essentially so a
+couple things the R. P. five
+hundred is that disbursement
+side the payments that go back
+out to the municipals in the
+counties and the other tax
+entities on the basis of the G.
+R. T. collected the R. P. eighty
+is the collection side of that
+we've gotten the R. P. five
+hundred data completely ingested
+into this portal and are working
+on the R. P. eighty data as we
+speak so this this view that you
+see on the screen there is a
+sense going all the way back to
+we can go all the way back I
+think the two thousand nine in
+this case we're looking at
+twenty sixteen to eleven and
+this is just everything in the
+state these are all the
+communities the cities counties
+and tax districts the
+disbursements by month over time
+if you scroll down one of the
+things we also implemented which
+is based on a report that the
+municipally compiles internally
+each month is also a look at
+each of those entities that
+shows you here's what they
+collected in the last cruel here
+are there changes month over
+month and then here are the
+changes from that same month
+last year so you get kind of a
+red yellow green ability to see
+what's moving so that and then I
+believe that report was always
+compiled manually the previously
+it was intended to Mr chair the
+we were we intend to use this
+and hope uses for communities we
+can now look at the next code
+switch industry level data so we
+can see what's happening inTaos
+we can see what industries are
+moving in the right direction
+which industries are flat which
+industries need help and we can
+do that by community now what's
+happening in Vegas what's
+happening in Gallup we can
+actually show at the industry
+level what the trends are.
+Yes thank you Mr chair members
+of the committee and that's the
+view that the the Charles has a
+now
+we're essentially you can see
+the donut there right this is
+for that for that particular
+period of time
+here are the various industries
+that contributed to the tax
+revenue that then went into the
+disbursements that were made to
+those individuals communities
+and I think you know this is
+this is really a preliminary
+effort I think there's so many
+different things that we could
+do with this in terms of time
+series analysis better
+visualisations of that data it's
+a truck but so as you can see
+there we've also got the ability
+to drill down into some of those
+different categories and then
+select I know there's things
+that we'd like to get done for
+the league and for others that
+might be interesting the such as
+moving average and various types
+of analytics that I described
+there so
+so yeah the
+Yeah so I think the other thing
+to note about the yes Mr chair.
+Senator.
+Thank you Mr chairman and and
+excellent good work this is
+really really great is that a
+couple of questions this is
+going to be public facing we're
+focusing going themselves and
+just simply look around fish
+around without changing date
+obviously you're putting
+anything in but are we looking
+to make this a public facing
+tool.
+Mr chair the idea is it it's
+data we want everyone to use
+right this is not something that
+is exclusive to the league but
+hello Sir the true need for us
+is internal and external
+internal all of our membership
+is ultimately going to want to
+know those those industries
+trends for you all we want
+everyone to have the data for
+your communities
+NMFA counties us right we need
+to do our day a daily jobs so
+our idea is to make sure that
+anyone can can access the state
+as far as a the public facing
+portal I don't think we're there
+yet.
+Mr got up sorry Mister chairman
+Senator Padilla that yeah that's
+one of our goals we call this
+our data science in the public
+interest projects we take some
+of our funding that you find as
+we go after and we received some
+of these projects and the goal
+of that is to help people
+understand data the users of
+these are the consumers of the
+information Mr chairman concern
+for the are you as policy makers
+but also the public right the
+city's the counties but also
+that the public is paying the
+taxes and trying to understand
+those
+How best for those individuals
+to consume I think that's going
+to be important but this is all
+the information so we can find
+it in ways that they can better
+consuming through visit with
+visualisations or even providing
+downloads of the data that's
+something we want to be able to
+do thank you Mr chairman and so
+yeah I mean I I and I'm sure
+specially folks on this
+committee we get any number of
+questions we have city council
+is here today and and different
+folk that ask us all sorts of
+things and great to be able to
+send them somewhere to say Hey
+you can drill it's deeply into
+this is you need to so so so
+that's what and then you know
+full stop would be really great
+and I'm sure maybe you're gonna
+show this to its next I I maybe
+I should look at a little bit
+but when we're about to run into
+a roadblock or a or a cliff of
+some kind is there going to be
+is will the data sort of have a
+Ding Ding the can guess what
+you're heading toward a major
+folder in the street you're
+about to hit it you know see you
+should swerve or you should make
+an adjustment because that I
+think is going to be truly
+correct helpful to us here in
+the legislature I I was here
+when we had to take money back
+from school districts and what a
+horrible thing to do but sure it
+had we have a better
+understanding that early enough
+I know it'll take time to get to
+that but that would have been
+very helpful Mr chairman and
+senator Padilla some of the
+tools that CENIC casa has
+developed over the years find
+for trend analysis so they
+develop these very is hidden
+Markov models in these these
+models are based on cond
+utilizing of vast amounts of
+information to recommendation
+models to come out when those
+models begin to show outcomes
+that are of the same.
+They created a
+alert the monitors the world
+internet for fishing worms or
+viruses they get put people
+trying to hijack information
+they did that for the US
+government in waters currently
+monitors the world internet and
+can alert certain agencies once
+there's a problem the same thing
+could happen here Senator says
+here as you're talking about as
+these models begin to see that
+there are things that are
+happening in the in the data
+that could cause problems it can
+create alerts and Mr chairman
+and senator those are some of
+the things we would need to
+understand right so you're the
+subject matter experts at the
+economists the league the
+association counties have
+subject matter experts in this
+area understanding what some of
+those areas of concern are so
+they can condition those models
+over time that's great you know
+thank you Mr chairman I think
+which working on this phenomenal
+keep doing it to keep making it
+better it would be great if it
+were intelligent enough to start
+warning us you know on things
+that are there had heading
+toward us in in in the last
+thing I'll stop asked me with
+others that have questions but
+these are wonderful tools do you
+plan to go like on a road show
+and show up in every town city
+county everyone that would have
+data here sit them down like
+this little for around ask you
+questions and figure out how to
+use it for them for their their
+their community.
+So Mr chair Senator.
+We've started that manually
+Italy so else in the clothes are
+our policy director can now.
+Bill the revenue streams on how
+your communities are funded on
+an individual basis she can show
+our councils what level of of G.
+R. T. property tax fees
+eccentric go up the funding the
+local government this now gives
+us a tool to show us within that
+G. R. T. bucket what industry
+are actually funding so we can
+now do that so the next step for
+us is pairing Representative
+would when we see a tax bill
+right then we can ask the
+question okay if you craft a tax
+bill attorneys accountants
+architects we can now look at
+the city's individually and say
+what is the tax base what is the
+total tax base for these
+industries for these communities
+we can better estimate fiscal
+impact because right now it's on
+average right it's.
+Committee will be a hundred
+forty million on average as you
+know your communities are very
+different from each other so the
+all the effect of that come
+together.
+Thank you Mr chair.
+Correct.
+Mr chairman and senator one of
+the one of the things that we're
+we would be able to do as we
+develop the state really because
+to have as you suggest the hard
+path analysis that's looking for
+things but also the coal path
+how do you then go through and
+explore those data ask questions
+of the information begin to
+propose if we made this policy
+change back in nineteen ninety
+two what would have happened to
+our tax policy and run those
+models so that you could see
+what would have happened by
+looking at cond at at that data
+repository as we put more
+information if you put state
+budget information you put you
+know workforce data you put all
+these things into their into the
+data like you can begin asking
+questions of it and exploring
+the state and and and really the
+policy people having an
+opportunity to provide good
+policy analysis based on data
+that's available thank you Mr.
+You're going to continue
+Like short with that Mr Mr
+chairman members of the
+committee I mean I think we've
+got a couple different views
+that we can continue to walk
+just some examples of capability
+I do which aired Center the
+issue the comments I think we've
+been brainstorming with the
+league and with others about
+those same kinds of features and
+phenomenon you know and it's.
+The sky's the limit really as
+far as what what trials and the
+team were able to put togethers
+maybe one that would be
+interesting is the industry
+comparison chart or so this will
+basically get the bills need to
+look at different in side by
+side as well I think that's a.
+I stand what are the you know
+what are the differences by
+those categories is different
+different locations and then
+the ability in the current
+version of the portal where you
+can basically pick any number of
+those different entities and
+then kind of filled out of but
+but I think the you know I think
+maybe the the point to make here
+with what you've seen is that
+this is right now this is
+running off Charles laptop but
+we also have the version of the
+portal that will be deploying
+for the league and others
+running inside of our the
+datalink in the cloud that's
+hosted at a cost of and so very
+much we'll continue to plug away
+based on what they and maybe
+what yourself Mr chair.
+The committee would like to see
+in the portal of we do very much
+anticipate I think having an API
+access available for folks who
+are wanting to get to that level
+to be able to access the data as
+well without having to go
+through the web interface or
+even custom reports that get
+developed to be able to download
+those in a format that analysts
+are may be used to seeing and to
+work with and then I think
+navigating navigating the the
+public data of this versus what
+maybe we find in terms of
+advanced analytics to folks that
+have partnered with us to help
+support the development of the
+platform and in those terms if
+you have anything else that you
+wanted to to show all.
+The.
+But the other thing is you know
+very much want to make this an
+interactive tool that when
+people use it's not just
+economic data that you can you
+can zoom in zoom out and
+hopefully have those trend lines
+and things pretty soon in some
+Mr chairman members of the
+committee it's I think we're a
+step where we we are open to
+questions from you all what
+would you like to see from the
+the taxpayers right we have
+Janet peacock or doctor Clifford
+over and we look at the
+spreadsheet we can burn days
+Coming up with ideas or
+questions for really we want
+questions from all of you what
+would you like to see based on
+what type of package tax package
+look put together you have you
+have to act as an asset we want
+to use.
+Senator.
+Thank you.
+First of all just going back
+over ten years.
+When I asked for something like
+this and we put four hundred
+thousand dollars in the budget
+to buy something like this I
+don't know if it was twenty
+thirteen to twenty fourteen but
+was in that that time frame.
+Then TRD wouldn't give LESC a
+single drop of.
+Nothing no data at all previews
+would contemplates tech and now
+the TRD gave you everything on
+everybody in the state.
+Mister chairman Senator I I I do
+remember that study very well
+and.
+For our purposes we Senator
+correct it's it's difficult for
+internal finance staff right
+they have to sign a document
+says I can look at the data but
+I can't share the data so they
+can share the data we can't
+present
+This this is why we needed tech
+there's a lot of public data
+it's in very large unworkable
+spreadsheets and so that's where
+tech has the capability to take
+massive datasets to make it
+real.
+Mr Chairman I'm thrilled that
+somebody now has something they
+can work with because I've been
+asking for this for ever and
+here it appears in front of me
+just like magic everyone heard
+you all before.
+so this is all great go by
+industry an industry what's
+going on and what communities
+but what if something new
+happens so I certainly have a
+tax package that's coming that
+is what I hope is real tax
+reform and the the what I'm
+looking for is it simple still
+enough to pay the bills but it
+it's attractive it brings new
+industry I love oil and gas I
+love cold to.
+But I also want something else
+because I know that oil and gas
+does that which is why we have
+to go snooping around in the
+super and the school
+superintendents couch looking
+for quarters to bring back here.
+How does it account for new
+industries potential potential
+new instant would have a new
+industry yet the potential.
+Mr Chairman center I think I
+don't have an answer on new
+industries.
+This far as we've gone this far
+is trying to look it in current
+industry so we can estimate the
+lost individual cities based on
+proposed changes we have to have
+we have to good data to make to
+to make that educated guess on
+what comes next so with the with
+the a new industry I'm not sure
+we can do that forgetting or
+close to it at this point Mister
+chairman Senator we have the
+daily compiled we put all this
+information in there.
+We work with your economists
+work with and they develop a
+model we have data now to run
+through their model to see what
+would happen we have historical
+information we can look at
+trends it gives a better
+information to be able to
+protect out into the future
+so those are some of the ways
+would have to work on the models
+with the economists and what
+they're what the livers are
+pulling in the you know the put
+lever the tax policy is pulling
+or pushing or eliminating and so
+and then by having a vast amount
+of data you have you have more
+information to push the.
+Would hopefully give you
+a better expectation of what
+would be happening into the
+future so Mister chair of along
+that same line.
+So when I sit in front of tax
+committee next week there is
+going to be at least one
+probably a dozen individual
+companies that are going to
+stand up say that if you do this
+to me you're going to destroy me
+I'm gonna leave the state of New
+Mexico you should burn in hell.
+Their company is so important
+that they don't care for the
+entire tax code of the state of
+New Mexico is the worst in the
+world.
+Their company so important can
+this give us some data what
+that'll do to that company that
+industry anyway.
+Mr chairman and senator I don't
+believe we're at that point yeah
+we're at the Representative the
+proof of concept point in in the
+work Americanist misdirect he
+feels that how how much they are
+in their data collection but the
+goal would be is rig gnostic
+right we're just looking at data
+and we're looking at models in
+so we can tell you to the to the
+certainty of the model what we
+believe the outcome would be
+that industry exactly.
+So I in I think that I as well
+income already upset because
+there are companies out there
+that believe they are so
+important that the entire state
+of New Mexico should be
+destroyed to protect their tax
+or lack of.
+So but that's what was it with
+really destroyed I mean you know
+most of my don't want to destroy
+I just want them to join in.
+The the reform to make everybody
+else strong.
+But that's why I was asking
+could we do this with with any
+particular industry I'm sure we
+both oil and gas question is can
+we do with anybody else because
+well today all part is just.
+So thank you madam chair thank
+you senator anyone else Senator
+Campos and then Senator Woods.
+Anyone else.
+Thank you very much madam chair
+just a couple of questions when
+we start talking about this
+aggregating data.
+is there a way to set this up so
+particularly for the smaller
+communities will have better
+analytics in terms of how we can
+help them in the long run and
+the only reason I bring that up
+because the aggregate as a whole
+it looks good sounds good but
+it's driven if you will buy
+those that do have more of the
+the necessary if you will Tax
+base but the smaller communities
+are going to definitely be a
+component that that I would
+really have an interest in so I
+I maybe you could just comment
+on that thank you Mr
+Representative thank you madam
+chair.
+Mentor.
+Senator I think so because with
+those with those next code that
+industry level data we can.
+We can have a much.
+Better estimate on.
+Where the revenue comes from in
+Las Vegas we have a better idea
+in Raton where the money's
+coming from right per industry.
+And so for when I say our
+internal focus would be working
+with our members to say here's
+the trends within the industry
+in your community right FY ours
+are always on average.
+This hundred six of us because
+there's no on average and so now
+we can say individually.
+Where the money's coming from
+per industry and I think that's
+really valuable right the
+changes you all maybe even with
+Lita a few years ago now they
+can make informed decisions were
+put those dollars so so madam
+chair if I may and the point of
+getting to if you have angel
+fire wagon mound see my own
+incorporated and unincorporated
+communities and we're trying to
+break down that information
+within counties and we talk
+about these industry is going to
+be specific to if you will the
+manufacturing is going to be to
+to logging in to some of the
+other issues that we deal with
+so in in in dealing with those
+comprehensive components the
+issue is how do we really get
+down if you will to the smaller
+communities to ensure that we
+have that vitality and then of
+course it translates to a to a
+better tax system thank you very
+much madam chair.
+Yeah madam chair and Senator and
+actually if you look at the view
+that's up on the screen right
+now
+I think that's that's what
+you're getting at in terms of
+being able to see those
+individual sectors and maybe a
+little difficult to read but
+you've got the Health Care
+wholesale trade mining oil and
+gas construction manufacturing
+center and so what this
+particular view is looking at is
+a comparison right for for
+different industry losses by
+date but I think the point that
+you raise is is a very
+interesting one that might even
+be a feature we could consider
+which is how could we look at
+groups of municipalities
+counties and you know maybe in
+economic development region or
+some aggregate to understand for
+that region but I think very
+much then we have the ability to
+look at each of those entities
+individually and understand what
+their contribution maybe means
+to the so so madam chair in
+terms of the the to as we
+populate information the issue
+would be if we brought up by New
+Mexico within that aggregate.
+What does it look like when we
+start talking about
+transportation rail and most
+those those components and and
+is is that something that is
+that is vital when it comes to
+the tax base or are we
+indicating in general within
+regions this is the way that
+we're going to to deal with it
+it could just be something down
+the road because I realize that
+you're getting this going
+it's it's it's gonna take a lot
+more of the the research to to
+put together the components
+that's that's all I have chair
+thank you madam chair Senator
+Campos that that screen shot
+there is so that in that on that
+models the City of Joe and so
+then you can look at the city of
+child for you can pull out and
+look at the whole county and so
+you can with these data and and
+look at the data over time what
+has been happening to our tax
+base over the past ten years
+what do you see this happening
+based on historical data what do
+you see it going without any
+changes those types of things I
+think those are that's vital for
+the small you know I think some
+of the larger cities and
+counties have the analytical
+staff Mister chairman Senator
+Campos to to help them
+understand their data this is
+going to really help a lot of
+those communities that don't
+necessarily have those
+individuals readily available to
+them so they can explore their
+data so madam chair I think data
+I was going to stop there but
+just do you happen to have the
+information from them to go
+to a corporate committee.
+Mexico.
+In the.
+That's on a chair to the break
+it down by Senator
+thank you Mr chair my question
+Mr chair it is how much is your
+budget every year.
+I'll be there.
+The leaders that Mr leader the.
+The cost of this program.
+Yeah you have a program that
+I'm assuming as a standalone
+Mexico taxed at a.
+What do you do you have a
+individual budget.
+A monster you know inside your
+your university budget that just
+goes to do.
+Mr Chairman in center with so we
+have a research public service
+project line item the goes to
+the institute for complex set of
+systems analysis I was to be
+spent on seventy okay I think
+forty forty so we allocated
+about forty thousand dollars to
+explore this problem so these
+are all the advantages I custom
+built their own software
+programs these are public
+software engineers and and and
+architects and data scientists
+so we they build everything
+themselves so all of these
+programs that the government has
+been tens of millions of dollars
+building we can now apply for
+pretty low because it's just
+labor hours going into this and
+then some funding we're looking
+from other sources to help
+continue the project will.
+She.
+And I appreciate you guys doing
+that I know that you're gonna.
+Really.
+Or in from Peter to pay Paul
+here but I appreciate what
+you're doing here
+So.
+Is this service available this
+is portal available.
+To everyone.
+R. as it soon to be available to
+everyone Mr chair Mr chair
+Senator so I think the agency
+pulley was the pilot so our
+board allocated the funds within
+the minutes fully budget to to
+help start this this pilot so
+our our border located I believe
+eighty thousand dollars for us
+the pilot this okay okay okay
+that makes more sense
+I I used a.
+Certainly not this in depth the
+program that it did.
+Go through the.
+Excel spreadsheet and.
+And.
+But all my.
+Individual.
+Our reserves.
+Information down to the the
+field level.
+To try to figure out to where.
+Where the opportunities were in
+management.
+And.
+It reminds me a lot of that when
+I see it up there on board
+because that's
+That's what most management have
+to do is figure out where
+they're.
+Where they're making money we're
+not making.
+Where the revenue streams are in
+and where there's one of bills
+for the LFC.
+And the sometimes that's a lot
+of foreman for the hell of it of
+course there's not much money.
+But I appreciate the this
+information and I think it will
+be a great tool for us in the
+future so getting back to that
+if.
+Senate finance wanted to know a
+particular.
+The lack of what is the most
+common reason.
+That capital outlay projects
+were being delayed.
+We do have enough data yet ours
+are you just concentrating on
+one tax data right now.
+Mr chair Senator just taxed at.
+Yes yes okay well I can see how
+this would be a great program to
+really focus down into problems
+and and we wonder why the city
+and the city.
+One is prosperous one is not so
+I think that's a very good deal
+and I appreciate Mr chair thanks
+for the time.
+Thank you
+And the Senate finance
+committee.
+Mr chair members the committee I
+believe that would be possible.
+Senator calls oscillation.
+The lady also
+I.
+We see this semester Mr chair if
+I may I just.
+So in the Senate district eight
+there's thirty six incorporated
+and unincorporated communities
+but if we're going to deal with
+the tax analysis it's going to
+be that that would be a great
+example but there's other big
+districts and I and and that
+that raises the concern.
+How are we going to develop the
+analytics so that there would be
+a bit point well taken thank you
+very much Mr the one units
+operation in order to look at.
+You can be almost impossible.
+On the.
+Mr chair yes as long as they're
+in the distribution list we can
+get severance and that they get
+a distribution so every
+corporate so you'll hundred six
+we can get data for us December
+and then if we have some rooms
+roll up we have some runs
+industry level data so we can
+show some room where the money's
+coming from and this.
+Large masses of.
+Measures in Los Alamos is this.
+In the.
+Mr trump.
+Explore.
+And lost by panels.
+If you.
+This.
+It's not incorporated.
+For New Mexico City entities to.
+Yes I.
+Shows I it's in the.
+Service center.
+As I.
+That.
+Thanks in to make Mr Mr chairman
+of the committee may just depend
+on the way that those are done
+in terms of the data you may
+just see you know you may see
+spikes like that you may see
+something where there's a much
+lower reported volume depending
+on how those corrections are
+reported but I.
+Sure.
+Just a all or part of the human
+donor over.
+Yeah.
+Mr chairman and we talk about
+having enough data and having a
+dental X. you can ask questions
+of the data six accord  asking
+all these questions and then
+having them seen you can look at
+okay what we want to look at
+this district I would look at
+the secretary I want to go all
+the way down to to the smallest
+community even the any tax
+district or whatever else.
+Our.
+All six four.
+Thank you Mr chairman and thank
+you for the presentation of.
+So.
+For example like Padilla school.
+They're not incorporated.
+So what you would be getting is
+just a picture of Taos County.
+And so if you wanted to like
+really get into all the smaller
+part to really see what will be
+happening there can that happen.
+Mister chairman Senator not not
+outside of the incorporator
+because they're not they don't
+receive distribution they don't
+receive distribution we don't
+have the next code for where
+that ended in in Mr chair
+Senator right industry right
+whether receipts are collected
+is where where the reporting and
+stuff right so if you're in an
+unincorporated area it's
+unlikely they'll be a lot of
+business activity therefore
+there would be really no data to
+show.
+well Mr chairman for example
+input L. school there's probably
+at least.
+When the state eight to ten
+businesses there than they would
+just be part of the.
+The county the county mmhm.
+Mr chairman the incentive with
+service so we're just getting
+the publicly available
+information I think the question
+you're asking are the taxes
+being paid by individual
+businesses on their address and
+zip code reported that would be
+the the revenue this the inputs
+into the tax department that's
+a.
+That's what we would need to
+talk to TRD about the
+availability to get some of
+those types of data and then
+being able to take up to a high
+enough levels we would identify
+independent individual business
+right so we have to make sure
+that we have we follow the rules
+so that there would be an
+interesting problems that they
+have it be a different source of
+data.
+If possible that I think that
+could find what Mr chairman Sir
+was on was Center compass was
+asking for also a lot of these
+historic communities that are on
+incorporate.
+Mr chairman of the last part of
+this is so to and your screen is
+on.
+I think they have attempted all
+you know that I'm aware of at
+least maybe three or four times
+try to incorporate.
+And it always turns into a big
+thing because they feel that
+they're going to pay more taxes.
+And maybe something like this
+would help them you know at
+least to be in a better.
+Place to make a decision.
+But every time they take because
+they have a vote on that it's
+turned down.
+Just one more question.
+So AG all.
+How does so Janet peacock fit
+into this how does she work with
+on.
+So Mister Mister chairman
+Senator Sen Janet.
+But Mr we call nerd sessions at
+the office so we have Janet Dr
+Clifford we have Allison we have
+that the tech team over and
+we'll spend the day asking
+questions trying to decide.
+Rectus this technical questions
+that we we want to know the from
+I think speaking for Janet but
+she's very policy focused as you
+all know and so when we when we
+ask these questions she wants to
+know from a policy perspective
+what's going to happen or when
+you all put a tax bill out from
+a policy perspective who are we
+helping what industries should
+get the general fund and so
+that's why we love love having
+Janet because it's very policy
+focused.
+Well thank you thank you Mr
+chairman.
+Thank you Senator Steinborn.
+Thanks a good to see you guys
+this morning good morning just
+if you're gonna be preparing
+reports proletarians can I ask
+you to prepare one for hatch New
+Mexico as well thanks for their
+corporate area I represent an
+additional Los crucis of course
+thanks.
+It.
+Mr chairman for us it.
+Right this is the beginning and
+we've asked a lot of questions
+of the data set up and when I
+described yes they do describe
+it as a state asset those of you
+who haven't been there it is an
+amazing place and right the
+university's amazing the point
+when you go behind that fence
+it is.
+Pretty incredible the work they
+do
+Much much different level so it
+it's an impressive place anyone
+hasn't been there I know a lot
+of you have
+to take the time to to the
+ticket was.
+Mr.
+I saw a car get blown up at New
+Mexico tech.
+Your counterterrorism program.
+Yeah that's and that's cool Hey
+your car.
+Fortunately the I would a loaner
+cars.
+The people can always doing a
+course of good.
+To be considered the cost.
+Any other questions from
+committee members etcetera and
+also Mr Chairman thanks so much
+for The presentation very
+exciting information and Mr
+chairman I think that we should
+plan on interim LESC committee
+meeting there to to do a tour of
+the facility and see the amazing
+stuff that you guys are doing
+definitely a jewel and in New
+Mexico and we really need to be
+investing in the work that
+you're doing because it has it's
+just super exciting and has huge
+implications for for the future
+so thanks so much for being here
+thank you Mr chair like to blow
+up a car over there.
+What color is your car some.
+The Center on these thank you Mr
+chairman just very quickly good
+morning to everyone good to see
+you thank you for for this new
+innovative ideas and new things
+you're doing we appreciate you I
+remember Carlos he used to work
+Mr chairman members of the
+committee I don't know maybe
+some of you were here some more
+for the NMFA from way back in
+and did a wonderful job we we
+hate losing you you're doing a
+great job there thank you for
+all that you do and of course a
+J. and make it is the market
+tell me your name I always
+forget what your name is there
+there on a white wrote down I
+it's not market or what it pays
+thanks other passport so.
+Thank you there are yeah anyway
+limit limit just down briefly
+mentioned that one of the things
+we have found in LFC as we're
+working through projects and in
+trying to make big decisions yes
+this throughout the state in
+every district is a lack of data
+and so you know so we can have
+finally comprehensive data that
+is accurate to be able to make
+good decisions and this here
+truly provides a tool to
+extrapolate the data quickly and
+sufficient and adequate data to
+be able to make decisions I
+think we're far behind in doing
+this for many years so this is
+very good information especially
+with even with cyber security
+and everything else going on the
+hackers and scammers and
+phishers they column and who
+knows what else anymore so I
+want to thank you for this I
+think it's a great idea
+appreciate all you're doing.
+Thank you thank you presentation
+yep you'll get how quickly can
+you get a those numbers back.
+Mr chairman
+as soon as possible.
+Will a I don't want to put
+Charles in his team under too
+much of a gun so I mean I give
+you didn't Gallup rate which I
+think I see on this one chart
+yeah yeah right have you Mr
+chairman and members of the
+committee as far as being able
+to just pull a screenshot of
+that entity as long as it's
+unincorporated entity we should
+have the data to be able to or
+to put that together it's a
+matter of just taking that data
+and putting it into a document
+and you know making sure it
+looks we would like to do a
+little validation as well before
+we send that type of information
+out because we are in a pilot
+phase Mr.
+It's just a little hard to see
+over there and it just and it's
+hard to see over here for the
+bigger than yeah make sure when
+you come to our members receive
+that and there minimal without a
+ten X. this Mr chair what I
+would like very much to see the
+data four of the incorporated
+parks in unincorporated part of
+the eighty calendars.
+The there's there is some.
+Bills that there is a bill to
+change the destination of gross
+receipts is what I'd like to see
+because there is that
+destination factor in there
+seems to have affected those two
+counties quite a bit of those
+two downs Hobson and prospect
+quite a bit.
+Mr chair Senator we've actually
+done that that was one of the
+first questions because we
+wanted to see the what the data
+showed is in respect to
+destination sources changes so
+you can see in the first
+distribution month of one house
+bill six destinations forty took
+effect you can see shift.
+See where the revenue what to
+the city and then shifted that's
+what I election one of those
+graphs have that of policy
+change change revenue for those
+down and out and had increased
+revenues for the for the
+counties.
+And then maybe we can try to
+figure out if there was
+anything.
+That went somewhere else.
+But to the state.
+The card is.
+I think that's the reason this
+is Andrea how long a period
+right there.
+Mr chair Senator that's from
+January twenty twenty through
+November of twenty twenty one.
+Yeah I'd like to go back further
+I'd like to go back to
+of state.
+Twenty.
+Twenty two of twenty twenty two
+if you could do that that for.
+Can do a few years.
+In Mr Chairman center we'll see
+as the trend together until the
+end when the state some sort of
+defect in this distributions
+went out to see.
+So those picture Mr chair or.
+I wonder how they would track
+with the price of oil and gas.
+Mr chairman and and etcetera
+what's that's the nice thing
+about creating a data lake as we
+import more and more information
+in there it's as easy as as is
+what Charles is doing right
+there he's pulling the data in
+live on that series and you can
+see them comparing to each other
+I always tell people Mr chairman
+and senator rob any conclusions
+this early based on the data you
+see sometimes takes a bit more
+exploration there may be other
+world events or or things going
+on that may be affecting those
+yeah so Mister chair Senators
+you'll see this is and I know
+it's hard to see from a distance
+but the bottom line is County
+the top line is Carlsbad you can
+see from the start point in
+twenty ten the trend together.
+That being on top but then you
+can see with destination
+sourcing took fact you see the
+media for the.
+Across the yeah.
+Okay.
+Thank you guys for your
+presentation.
+Yes.
+Only thing in a couple days with
+the reports and we'll go from
+there.
+Thank you Mr chairman thank you.
+Everybody knows we're going to
+lunch the bus will be on the
+side right.
+Leave here about ten fifteen.
+Be back right around eleven
+thirty I think.

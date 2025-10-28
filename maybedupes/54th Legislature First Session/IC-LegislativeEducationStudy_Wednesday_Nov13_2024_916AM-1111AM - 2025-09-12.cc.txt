@@ -1,0 +1,3605 @@
+Yeah.
+All right, good morning. Good
+morning Chairman. Good morning,
+everyone. Uh, my name is Brian
+Baca. I represent House District
+8, Valencia County.
+Great to be here and thanks for
+being here.
+All right, Representative
+Garrett, good morning. Good
+morning, Mr. Chair. Good
+morning, everybody. It's nice to
+see some new faces presenting to
+us. I'm Joy Garrett, uh, I
+represent Northwest Albuquerque,
+home of petroglyph National
+Monument and wonderful people.
+All right, and I'm
+representative Andres Romero. I
+represent the uh far South
+Valley and Bertollio County and
+parts southeast to Albuquerque
+and the high school teacher.
+Um, interim director Sanna, if
+you want to introduce yourself
+and the staff, please.
+Thank you, Mr. Chair. Um, I am
+your interim director John
+Senna, um, I'll go around the
+room here, we've got folks all
+over. We're one, we're happy to
+be back in Santa Fe after
+traveling all summer long with
+you all, so it's good to be back
+with you all here in Santa Fe,
+uh, in the back there, we got
+Merritt Andrews, one of our
+policy analysts, Connor L.
+Hicks, policy analyst, uh,
+Natasha Davilos.
+Daniella Stupinan.
+Jessica Hathaway.
+An Armitage, um,
+Alonzo Baca on the back and Tim
+Bado, and then in a minute
+you'll hear from Mark Montoya,
+who's another one of our policy
+anas. Happy to be here.
+All right. Thank you all for
+being here. So we'll go ahead
+and get started with um
+broadband, broadband update. So
+Mark, good morning. Good
+morning, uh, Mr. Chair, members
+of the committee.
+Um, before I begin, let me
+please introduce some of my
+guests here at the panel. I'll
+start with Mr. Vio Villorca.
+Please introduce yourself if you
+don't mind.
+Yes, uh, Mr. Chairman, members
+of the committee. My name is
+Ovidi Veika. I'm broadband
+manager, uh, formerly with the
+public school facilities
+Authority since this summer with
+the Officer Broadband Axis and
+expansion, um, and working on
+various broadband for schools
+initiatives.
+Um, and I'd like to take this
+opportunity to introduce uh two
+of my, uh, uh, my colleagues
+here, David Rodriguez and uh
+Paula Pedressy. They are the 22
+individuals, 2 team members
+working on uh this broadband for
+schools in initiative full time.
+Thank you.
+Good morning, uh, Drew Lovelace,
+acting director of the Office
+Broadband Access and expansion.
+Glad to be here. Uh, Broadband's
+a big topic and so I think we'll
+primarily defer to to Mark's
+presentation and be glad to
+answer questions for you. So,
+uh, we can get into the
+specifics of what you'd like to
+talk about.
+And my name is John Chadwick. I
+am the digital equity
+coordinator for public education
+department.
+And I'm, you know, happy to be
+here to present Mr. Chairman and
+members of the committee, and I
+want to thank our policy team
+who helped our
+soon to be retiring CIO Public
+Education department Mary
+Montoya.
+All right, thank you, gentlemen.
+So I'll start with a brief
+overview of the state education
+networks, the statewide
+education network, along with a
+broad landscape and update on
+broadband infrastructure and
+digital devices.
+Um, additionally, Mr. Loveless,
+Mr. Varker will provide any
+insights that they have on their
+organization and the impactful
+work that they are doing.
+Following their updates, I will
+pass it over to Doctor Chadwick.
+He'll discuss key issues around
+digital equity and device
+accessibility. Finally, I'll
+conclude with the potential
+strategies the legislature and
+the state might pursue to ensure
+both immediate and long-term
+success in these. So, uh, as I
+present, I'll be referring to
+the brief you have in front of
+you, it's also on your.
+On your screen.
+The legislature has made great
+strides to develop the
+infrastructure needed for
+widespread, reliable and
+affordable internet access
+throughout New Mexico.
+It has invested significant
+state resources and leveraged
+federal programs such as
+educational rate program, known
+as ERA.
+The American rescue Plan Act,
+known as AARPA.
+The Broadband equity access and
+deployment program, which is
+known as BEE, as well as the
+digital equity and competitive
+grant program.
+One key component of the state's
+efforts is the creation of the
+statewide education network,
+which I'll refer to as the san
+going throughout this
+presentation.
+Simply put, the sand integrates
+regional connection hubs
+throughout the state and
+supports the insulation and
+maintenance of critical
+education technology
+infrastructure.
+The sand went live in July of
+this year.
+However, Alisy's staff found.
+That there's still a lot of work
+needed to reach the potential of
+this, the full potential.
+There are also challenges that
+need to be addressed to achieve
+this. Uh, one, there is a need
+for additional administrative
+support.
+There are staffing challenges.
+And there are challenges that
+are presented with current, the
+current governance structure.
+Alongside the Seine, the state
+has also launched other
+initiatives to provide and
+improve broadband access and
+promote digital equity to
+schools, students, and citizens
+across the state.
+These initiatives are managed by
+several entities.
+These initiatives can um
+Can include very technical.
+Complex work.
+That um is handled by various
+agencies, and sometimes that
+work does overlap.
+The technical operations
+involved deploying fiber
+infrastructure, I think video
+has.
+A props that he'll show it to us
+later.
+Um, as well as other technical
+uh devices and hardware
+throughout the state.
+Um
+Coordinating data, um,
+integrating this wireless, uh,
+programs and ensuring advanced
+network security and maintenance
+to provide high speed reliable
+internet. Some of the work
+that's involved, uh, this work
+also includes full-time support
+to navigate
+and pretty labor intensive.
+And the state's efforts to
+provide broadband and digital
+equity, there are also other
+factors at play. One example is
+the Martinez Yazi lawsuit.
+As you'll see above on your uh
+screen, I provided a brief
+synopsis of that and the
+implications.
+As we know, the lawsuit was
+originally filed in 2014.
+The lawsuit challenged the
+advocacy and equity of New
+Mexico's public education
+system. It was filed on behalf
+of at-risk students throughout
+the state.
+The the suit argued that the
+state was failing to meet its
+constitutional obligation to
+provide sufficient education for
+all, in 2018, the court ruled in
+favor of the plaintiffs,
+concluding that this uh
+Mexico's, uh legislature and
+state um education funding was
+inadequate and inequitable.
+Uh, the court did mandate that
+the state undertake reforms to
+ensure access to quality
+education for all students, with
+particular focus on addressing
+the unique needs of underserved.
+Uh, groups in 2020, plaintiffs
+filed another motion and sought
+further relief from state regard
+from the state regarding
+perceived failure to provide
+essential technology to at-risk
+students.
+They claim that the state's
+attempts to provide internet
+access and uh educational
+devices during the global
+pandemic was quote woefully
+insufficient.
+In 2021, 1st judicial district
+judge court, a judge, Judge
+Matthew Wilson, um, approved and
+expedited motion for further
+relief?
+Um, he stated, students who are
+lacking access to high-speed
+internet and technology for
+remote learning.
+are not getting much of an
+education, if at all.
+In 2024, July of this year.
+Uh, plaintiffs, uh.
+He's attorneys filed a motion
+and starting that the state had
+yet to fully address the needs
+of at-risk students. The motion
+did call, as we're aware, for
+LFC LESC develop a comprehensive
+remedial plan.
+Among proposed components of
+this plan, the plaintiffs
+emphasize the need for
+technology systems that ensure
+that quote all risk.
+All Irish students and their
+teachers have access to
+broadband services and dedicated
+digital devices at school and at
+home.
+Um, I'll briefly touch on the
+importance of digital devices
+now, but I will hand it over to
+John Chave to dive a little bit
+deeper into that, since that's
+one of the era that he's
+organizations really diving. So
+the digital devices, they played
+crucial role in providing
+broadband access by acting as
+access points. We could have the
+most robust networks in place
+without the devices needed to
+actually access and utilize that
+technology. It's pretty much all
+for naught.
+Um, they need to be up to date.
+They need to be handle the
+resources and the capabilities
+that we have planned for them.
+Um
+So, in talking about broadband
+in the statewide education
+network devices.
+And not be ignored.
+Uh, during the pandemic, the
+state did provide many students
+with devices. However, these
+devices are nearing their end of
+their useful life, they are
+becoming out of date.
+They don't have the apps,
+programs, specifications needed
+to fully utilize um technologies
+like the ones that will buy and
+OB BDCP are actually put into
+place.
+Um, PED.
+Doctor John Harwick and his
+group are one of the state
+agencies responsible for
+monitoring and managing this
+issue.
+They have communicated that
+there's a pressing need for
+funding to tackle this
+challenge.
+Although we have yet
+ED, um, has yet to establish the
+actual amount needed and the
+number of devices that will need
+to be replaced, that is
+something that is on the radar.
+Oh, I'll dive into some of the
+legislation, um, the legislature
+has actually been hard at work.
+There's quite a number of
+legislative items that have been
+passed to enable the work that
+this group and the broad
+initiatives of the state to to
+move forward on page.
+Let's see here, page 3 of the
+brief. I did provide a brief
+graphic that outlines some of
+these legislative items. Um,
+I'll just briefly highlight some
+of the key components here, uh,
+2014 Senate Bill 159 was passed.
+They created the broadband
+development and connectivity
+program, BDCP. It also created
+the expenditure of $10 million
+for funding.
+But there was a sunset, it was,
+uh, scheduled to end in 2019.
+However, in 2017, Senate Bill 64
+was enacted and that removed
+that sunset to allow for ongoing
+support of broadband and send
+initiatives.
+In 2021,093 established the
+Office of Broadband Access and
+expansion. Oh bye.
+Senate Bill 144, also in 2021,
+mandated public school
+capitality PSCOC.
+to develop guidelines for the
+statewide infrastructure
+network, which now is known as.
+Talk about Obai a little bit,
+um, as you may acting director
+Drew Lovelace. He is supported
+by 23 individuals.
+Um
+Uh, as I mentioned, there were
+established by Senate Bill 93.
+They oversee several of the
+initiatives that I mentioned,
+um, in my introduction.
+This includes the bead program,
+again, broadband equity access
+and development. The program
+offers $42.5 billion in federal
+funding to enhance high-speed
+internet access across all
+states and territories.
+Obai will effectively manage
+$675 million of the federal
+infrastructure throughout New
+Mexico.
+They also oversee the digital
+equity program.
+Mexico has received $8.67
+million.
+From the NTIA, um,
+This is.
+Focused on providing support for
+the state's digital equity plan,
+led by Obai which aims to
+improve broadband access,
+affordability, affordability and
+digital literacy.
+There's also the Connect New
+Mexico Fund. This was created in
+2021 by the Connecting Mexico
+Act.
+This program owned by awarded
+over $40 million in grants in
+companies, as well as tribal
+entities.
+To improve their uh internet
+access and support broadband
+projects throughout the state.
+There's also the grant writing
+engineering planning program,
+also known as the GWEP, um, what
+this does is it provides
+financial assistance to tribal
+governments and local entities
+for grant writing, engineering,
+and planning services.
+Now I'll briefly talk about
+BDCP.
+EDCP, also known as the
+broadband Development and
+connectivity Program is compried
+by is comprised of three
+permanent staff members. This
+includes Mr. Vidoorca.
+And what they're doing is
+focusing on education for
+school, uh, for teachers and
+students specifically.
+They oversee projects such as
+the Sin.
+E-rate assistance.
+And student connectivity and Wi
+Fi on school buses.
+The team does also receive
+additional support from Obai and
+a contractor, um, that
+contractor's focus is split
+between Sen and BDCP.
+Sorry for the alphabet soup,
+I'll try not to get too caught
+up in it, but the contractor
+offers provide assistance to
+BDCP but it's also focused on
+other initiatives within Obi.
+Um, Obai is dedicated to
+expanding broadband and digital
+access across various
+demographic groups. Well, BDCP
+specifically targets
+connectivity solutions to
+support educational needs,
+specifically for public schools,
+as I mentioned, and charter
+schools. I do want to note that
+libraries, private schools, and
+schools funded by the Federal
+Bureau of Indian Education.
+are not a part of this focus.
+And on page 4, I did provide a
+brief synopsis of E-rate program
+and how it's utilized in Mexico,
+um, for
+Uh, time and not to bore you, I
+will not go into that, but
+that's there for your reference.
+So I just want to briefly talk
+about the governance structure
+that I mentioned, um, as a
+challenge, when BDCP
+The video's team was created. It
+was created under the PSCOC, the
+public school Capitol Aley
+Council.
+So, therefore, P PSFA public
+school facility Authority is
+administrating body.
+Now, since its beginning,
+Um, it's
+The BDP team in Sana's kind of
+been a little bit
+Uh, ill-placed for lack of a
+better word, um, the focus of
+PSFA is really construction and
+building schools. Um, so since
+the beginning, getting the
+support needed to
+To allow for the BTCP
+initiatives has been a struggle.
+Um, the team at PSFA, although
+willing and um, you know,
+striving to provide assistance,
+they do not have the expertise.
+They don't have the dedicated
+focus and staff to focus on the
+the needs that BDCP.
+And.
+As a natural evolution, um, I
+believe, uh, Obai.
+Has come into the picture. Um,
+there is an active MOU
+memorandum of understanding,
+which is a fade still overseas
+BDCP administratively and
+budgetarily, however, Obai.
+is more of that technical
+oversight, and they also land
+technical expertise.
+Now, right now, that is a
+temporary construct.
+SB 45, which was not enacted but
+presented in 2024 would have
+effectively removed BDCP.
+PSA and the PSOC and the act
+itself.
+And move it under Obai, which is
+under do it, and they would also
+move the source of funding.
+Over to Oba's control.
+That correct?
+All right.
+So
+One thing with this move though,
+um, we do want to highlight the
+need for.
+Or staff. Um, and talks with
+Drew, uh, talks to the video.
+They do have the technical
+stuff, um.
+Available, but I think it's
+important that they do address
+the needs of the scent.
+Um, not to go too deep into the
+specifics with the work that
+video and his team is doing is
+again, very highly complex.
+Very technical and setting up
+the sand and maintaining that.
+But there are also responsible
+for a lot of the administrative
+work.
+Um, helping with Era.
+Filing, um, applications for
+federal funding. They're also
+having to go out into the field
+and assist schools who lack the
+technical knowledge or the staff
+to handle things like setting up
+to send or basically getting um
+usable and reliable, effective
+Internet.
+So they are throughout the
+state, these three individuals
+trying to help. So they, they,
+they need help. They need uh
+additional staff, um, according
+to the words of Mr. Video.
+Also,
+Um
+Technical staff.
+Um
+The staff faces increased
+strain, um, because in addition
+to onboarding,
+stuff and dealing with the
+E-rate program and Wi Fi for
+schools, um, they
+How do I put it?
+Their key.
+If video were to leave today.
+If their staff were to, to, uh,
+you know, see a departure, it
+might take some time, and
+additional effort to find
+somebody who could actually fill
+those roles.
+Um, additionally, governance
+support, as I mentioned, there's
+a temporary construct, where
+they are operating under the um
+Obai, but they're still
+effectively under PSFA.
+Um, this is something that does
+need uh to
+It requires care.
+And the permanent uh structure
+of this to address the problems
+that I've mentioned.
+To ensure that they have the
+correct support.
+Break out to make sure they have
+the correct funding and to um.
+Maintain the success, wrap it up
+in a nice bow. There's a lot
+that's been done by the end.
+It's in a great place, on the,
+the, the cusp of getting it to a
+place that can be.
+uh utilized, and I'll let a
+video talk about the
+possibilities a little bit, if
+you wouldn't mind.
+Of what could be done with the
+sand when it's fully
+implemented.
+But we need to continue that
+progress. We do need to talk
+about the challenges that are in
+the way of them reaching full
+capacity.
+Um, and then also is
+The difference between schools
+having broadband and being on
+the set.
+Right? So all but true skills
+have all but 2 schools have
+broadband currently.
+There, there's work to be those
+schools on board. But having
+broadband does not mean that
+it's secure, doesn't mean it's
+reliable, and it doesn't mean
+that it's being maintained
+properly.
+Like
+Bringing all schools onto the
+Seine, they will receive the
+technical support.
+They'll receive support that
+they don't currently have
+because they lack the staff or
+knowledge, right? The video's
+team who effectively use
+broadband, but also to utilize
+all the the things that the San
+offers.
+Um, with that broadly stop or
+briefly stop and pass over to a
+video and drew to talk a little
+about about the things I've
+touched on.
+All right, Chair, Director, uh,
+thanks for having us here. So,
+uh, again, mainly we're going
+to, you know, be here to answer
+questions. We can get very
+technical and into the weeds,
+and I want to be careful about
+not not diving too, too deep
+into this, or how this fits
+into, you know, broader
+conversations of broadband
+unless, unless the uh
+Uh, LESU would like to to go
+there. Uh, you know, that being
+said, I just want to highlight a
+couple of things for you.
+So looking at, at, you know,
+what the sin is today, and just
+kind of that brief overview
+going back to 2014. BDCP team
+has primarily worked in the
+E-rate space, and that is where,
+you know, the 3 individuals who
+we have here who on the on the
+team, uh, you know, have had
+their kind of longer term, uh,
+you know, focus, as we've
+launched the state education
+network that demands that effort
+is increasing, and so that's
+partially where Obai has been
+able to lend the.
+Technical expertise, uh, but
+that being said, as it continues
+to grow as more schools, you
+know, decide to join, uh,
+The demand is going to be there,
+right, to be able to offer that
+technical capability. So we see
+a future where we're gonna need
+additional staff.
+Uh, and then traditionally, the,
+uh, the team over at PSFA had 5
+positions during this last
+legislative session, uh, we were
+given money to bring the team
+across and so now they are, you
+know, with, uh, on the executive
+side with Obai, right? And um
+and have stepped out of PSFA and
+there are administering
+basically the memorandum of
+understanding between PSFA and
+Obi.
+So those are a couple of key
+elements, uh, and just noting
+that again, there's down to
+positions that did not come
+across because they were not
+filled at the time, uh, for the
+transfer. So, there's a couple
+elements there. I want to turn
+it over to video just to to make
+a couple of quick points, and
+then we'll, we'll wait until the
+end of uh John's presentation to
+stand for some questions.
+Yeah. Thank you, Drew. Um, and
+thank you, Mark, uh, and LESC
+certainly this is a very
+important topic. Um, dear to, to
+my heart, and I want to, to
+emphasize that um I am as a
+longtime employee of, uh, the
+public school Facilities
+Authority. I'm committed to um
+to that organization's success.
+Uh, they have a great mission
+and um they, they have a great
+team. They, they do great work
+and.
+This program, the program that
+we've worked for over 10 years,
+um, over there, um, has, um has
+accomplished tremendous, uh,
+tremendous progress.
+Every pretty much every single
+school in New Mexico has fiber
+optic, um, to that premise, uh,
+exception being 2, say a guy and
+uh and Librook Elementary
+School, these two schools have
+had projects funded for a number
+of years we're working on these
+projects, but they are complex.
+They, they take a long time uh
+for because of all the
+intricacies permitting and and
+other.
+reasons. So we expect the last
+2 public schools in New Mexico
+who do not have fiber optic will
+have fiber optic by um
+By June 30th of next year. Uh,
+what this means is pretty much
+unlimited bandwidth, unlimited
+um potential to send and receive
+um send and receive zeros and
+ones. And the reason that is
+important is because without the
+ability to send zeros and ones
+effectively at high capacity.
+Everything else, education,
+technology, machine learning.
+Even school security, artificial
+intelligence, everything that
+we're talking about in the arena
+of technology will not be
+possible.
+Yet
+You know, it is as simple as
+these small devices here, uh,
+these are transceivers that
+change electric pulses into
+light pulses. It is really
+possible once the fiber optic is
+present to deliver either.
+1 gigabit, a billion zeros and
+1s every second.
+Or 10
+Billion 0s in 1 every second
+that and the difference is
+simply, you know, one or the
+other. The difference between
+these two in cost is really
+insignificant. It's about $100
+if that really for the, the, the
+non-brand
+um element.
+So, at the same time, the office
+of Broadband has a um big task
+and it is an unprecedented ask
+in front of them, uh, connect
+everybody in the state and
+because of the size, the
+complexity, the scope, and the
+time frame of.
+Pretty much expanding $1 billion
+worth of infrastructure in the
+next.
+Or approximately 4.5 years. Uh,
+that's a big task and we are
+committed, they are committed to
+realize that for New Mexico,
+it's very important for the
+future of technology in the
+state. So with that said, um.
+Mark asked me to to speak about
+the potential and I want to
+point you to slides.
+before last.
+Potential central services.
+And
+what's this represents.
+Um, here is a list and the list
+really is, is not um is not
+complete. It's not, this is not
+a comprehensive list. It can be
+much longer because literally, I
+want to, to, to say the sky is
+the limit.
+Um, in terms of what can be
+delivered over this high
+capacity optical network that
+encompasses the entire state.
+Regionally to these regional
+notes to all this, the schools.
+Connected into the, the network
+and those could be books, could
+be lesson plans, could be online
+classes.
+Could be health and wellness
+online tutoring, professional
+development, learning platform.
+And again, the list goes on, all
+this is the potential that this
+network now brings to all the
+participating schools, so, um,
+there is a lot more work to be
+done because once the schools
+are connected into this network,
+which is today, this becomes a
+mission critical 24/7 365
+operation.
+um
+That um that is going to
+basically serve uh probably by
+our expectation, our target is
+2027. We hope that all the
+schools will be connected into
+this network. So that means 89
+school districts, 100 charter
+schools, uh, the constitutional
+schools and hundreds of
+thousands of students and
+teachers, uh, that would depend
+on this for.
+All these services, including
+secure services based on
+cybersecurity. We, we just
+submitted a um an application
+November 1st for the pilot
+associated with the UA program
+for cybersecurity $4.5 million
+that
+would help us secure the
+network, secure everybody
+downstream and provide technical
+support in an arena that.
+Truly, most schools, if not all
+the schools do not have um
+resources for and probably never
+will.
+So that is where we are, um, I
+think that we've made tremendous
+progress. Um, you should be
+proud of, of this progress.
+There is a lot more work to be
+done. We need a team.
+That is going to help this
+network accomplish its full
+potential.
+For the next 10 to 20 years and
+beyond.
+Um, and we'd be happy to, um, to
+answer any questions going
+through this, um, this visual
+aid, um, I'll turn it over to
+Mark?
+Yes, that would be wonderful.
+Thank you.
+a short video, and I'll just say
+that the QR code on that slide
+deck takes you right to this
+video if you'd like to watch in
+the future.
+Why would we connect all 840
+schools in New Mexico to one
+fiber network.
+So any curious student in New
+Mexico can travel anywhere in
+the world.
+So a Native American student in
+Albuquerque can connect to their
+culture from home.
+So a budding chemist in Tularosa
+can take AP State Education
+Network connects, especially
+those in rural areas. The
+opportunity to take
+state-approved courses they may
+otherwise not have access to.
+Students will no longer pay the
+price for lack of resources.
+Teachers on native land can
+spread their knowledge of
+traditional language and culture
+to students anywhere in New
+Mexico.
+The state education network will
+improve upon and model how
+unimpeded by distance or
+location, accessible to all
+P
+Yeah.
+Thank you for having me here
+today, um, Mr. Chair, and
+interim director, yeah, I really
+appreciate the opportunity, um.
+To you. It's a bit loud, but
+anyway, my name is John
+Chadwick. I'm the digital equity
+coordinator, uh, in the
+information technology division
+at New Mexico Public Education
+Department, and yeah, the reason
+I ended up with tidal digital
+equity coordinators because my
+boss got tired of saying er rate
+slash text slash slash that, so
+you know, so I ended up with
+this equity coordinator.
+Um
+All right, so I'm gonna start
+out with um why devices are, you
+know, for students are
+important.
+And research, you know, done by
+Coelho Institute of the Michigan
+State University.
+I found that students who do not
+have home internet or are
+dependent on a cell phone for
+access perform more on a range
+of metrics, an examples of this
+deficit can be found in student
+grades, standardized tests, and
+homework completion.
+And something that we just saw
+last week with the snowstorm
+that shut down a big part of the
+state, and we ended up with, um,
+so, you know, a lot of our
+schools are going to remote
+learning only. Students do not
+have both connectivity at home
+and a device.
+We're at a disadvantage compared
+to the peers.
+And I do want to do a quick
+shout out to New Mexico Office
+of Broadband Access and
+expansion, Bye bye and thank you
+to Drew. Um, yeah, yeah, they've
+launched the New Mexico Student
+Connect to provide internet
+access to unserved and
+underserved students. This came
+about because there was a
+concern that with the estimated
+time frame to get access to
+every corner of the state being
+2029, our students can't wait
+till 2029.
+And I'm going to make the
+argument, although Drew and I
+have had some good discussions
+on this, um, connecting
+connectivity have the equation.
+Students need to have those
+reliable devices.
+And, you know, one of the things
+we found is policies for, you
+know, school issued devices,
+they vary from, you know, school
+district to school district, you
+know, some school districts only
+require um students in high
+school, others middle school and
+high school. Some say we just
+won't do devices for pre-K.
+Or kindergarten students. So
+it's, it's, it's very, it's a
+variable that really is hard to
+get, you know, get some, uh, you
+know, expert numbers on, but we
+do our best that we can.
+Uh, we have some school
+districts to ask students to
+share devices if they're in the
+same household. That could be a
+school issue device, but more
+often than not, that's a device
+that's owned by the family, and
+it's not only used by students,
+but it's used by family for, um,
+you know, telemedicine,
+telehealth, you know, and for,
+you know, and for a whole wide
+range of services that can be
+done online.
+And yeah, one of the, you know,
+things we've found is students
+lacking a scholarship device are
+more likely to share a device
+with others in the in the
+household.
+Next slide.
+We found that about 78% of
+students in New Mexico have a
+school issued device and we're
+about on par with the rest of
+the nation, you know, in that in
+those numbers, but what's, you
+know, really disturbing is that
+we still have 2200 students who
+rely on a mobile phone. You try
+doing a term paper on a mobile
+phone, it's just not something
+that's, it's not the most
+efficient way to do this. And so
+we were concerned about that.
+We found that 10% of students
+use their own computer as a
+primary learning device, and
+that's oftentimes shared with
+others in the household.
+And as of the end of 23, 24
+school year, more than 17,000
+students.
+Use their own device.
+You know, and like I said, that,
+you know, can be used by others
+in the household, and what is
+really concerning is.
+You know, are at risk students,
+those who are, you know, the
+native students, ELL students,
+economic challenge to students
+and.
+Special ed students are, you
+know, less likely to have a
+device of any kind, you know,
+let alone a school that you
+devise. So that is a.
+And, you know, we broke down,
+you know, by, you know, by
+different categories, you know,
+what kind of devices are
+actually out there that schools
+issue.
+Or you know, students have
+Chromebook is, you know,
+Chromebooks are by far and away.
+You know, the, you know, make up
+the bulk of those devices,
+laptops, you know, also, you
+know, that could be Windows
+device or an Apple device.
+Um, you know, and, you know,
+could even be a
+Um, you know, it could even be a
+desktop computer, tablets, both
+Apple and Android.
+And then there's some other ones
+over there, um, desktop, yes,
+and you know, but, but, you
+know, the number there is
+17,000, there's 17,000 students
+who don't have access.
+You know, at home because they
+don't have a device at all.
+And here's a breakdown by device
+and, you know, you can see once
+again, uh the bulk is
+Chromebook.
+You know, but we have, you know,
+the desktop makes up a
+proportion, yeah, good size
+number, laptops, tablets.
+You know, I know that, you know,
+some districts, I think, you
+know, um Los Lunas is using
+Apple tablets, if I'm correct,
+so, you know, you know, so
+there's, you know, it varies, it
+is all based on, you know,
+district policies.
+Yeah, I'm going to, you know,
+Mr. Chairman, if it's all right,
+I would like to do a quick shout
+out to Representative Baca. Um,
+he was instrumental in getting
+the digital equity and Education
+Act passed in 2023, and that
+that requires schools to address
+how they will refresh devices
+that are end of life.
+And you know, I do want to note
+that we are the only state in
+the country to have something
+like that on the books. So thank
+you.
+And, you know, schools are gonna
+need to start replacing those
+devices that are going to end of
+life.
+You know, and, you know.
+You know, you know, so many were
+recurred during, you know, use,
+you know, and they had access to
+extra funds, there was also the
+emergency connectivity fund. We
+know that about, you know,
+200,000, you know.
+You know, about 200 students did
+not have a device and schools
+ask for about 200,000 devices
+for students.
+And there's ways to get around,
+you know, get to this, um.
+Yeah.
+You know, techno, you know,
+opportunity, um, it can be like
+a local bond election in some
+cases or other cases, like, you
+know, a school district can go
+and just say we're gonna as you,
+you know, you know, bonds for
+this, um, you know, get funding.
+Uh, leasing is an option. It's,
+there's something buried in
+public finance, you know,
+chapter 6, you know, that allows
+schools to lease devices, you
+know, it was written back in the
+day when schools were buying big
+servers, but now they can, you
+know, at least, you know, at
+least devices.
+And school district policies and
+needs vary, you know, as they
+work to ensure digital equity.
+Um, you know, so I'm just, you
+know, some districts that I've
+spoken with, they want
+You know, total cost of
+ownership covered. I just heard
+from Albuquerque Public Schools
+yesterday, you know, they think
+it's gonna take
+5.9 million.
+Next school year.
+To, you know, to address just
+replaced 20% of their devices in
+their district. So this is, you
+know, there are things, you
+know, this is coming down the
+pike here.
+Um, you know, what we've done,
+we've done, you know, public
+education department has worked
+to address the Yase Martinez
+tech order to ensure all
+students have access, especially
+at-risk students, and public
+education department has
+provided funding thanks to the
+legislature, um, you know, for
+scholarships for graduate level,
+you know, courses and
+educational technology for
+teachers and edgy badges, which
+is a online virtual training for
+teachers, you know, and a lot,
+you know, it it covers a lot of
+topics, but a lot of
+used it to learn more about
+using technology in their.
+And, you know, of course, now
+the next big divide, you know,
+future considered as we think
+about what's coming down the
+line, uh, you heard about, you
+know, you've heard this already,
+artificial intelligence and
+Brookings Institute.
+Actually causes the and several
+other groups call this the next
+digital divide.
+And, you know, design of it, you
+know, of AI and education, you
+know, it has some positives. It
+can address learner variability
+and a responsive to student
+needs, student strengths and
+backgrounds, and AI is already
+being used and impacting careers
+in medicine, agriculture, and
+petroleum.
+Yeah, but I wanted to, you know,
+I want to share something from
+the, you know, enclosed, you
+know, almost closing from the
+Brookings Institute. The first
+digital divide was, you know,
+some people had technology, some
+people did not.
+Second device, some people have
+the technology and the skills to
+use it effectively, while the
+poor or, you know, others may,
+you know, like, you know, you
+know, restaurants, yeah, they,
+you know, they have the
+technology, but they don't have
+the skills to use it.
+The 3rd divide is.
+You know, people who have both
+technology and people to help
+them use it and others who just
+have the technology and don't
+have any support system.
+But I envision is something
+where we don't have a digital
+divide. We're all students have
+the support they need from their
+teachers, from their families. I
+envision, you know, that's, you
+know, that's the future that I
+would envision.
+Is that everybody, you know,
+every student has the tools they
+need and the access and the
+resources. So thank you.
+Thank you, Doctor Charlie.
+Thank you, Doctor. Um.
+So, what I like to do is wrap up
+with just some considerations.
+Um, to enable the long term
+success of these initiatives.
+Uh, first, develop a
+comprehensive statewide
+broadband plan.
+The legislature in the state
+could consider establishing a
+centralized plan which
+consolidates digital equity and
+broadba initiatives with clear
+goals, regular assessments, and
+a focus on long term
+sustainability.
+Oversight of this plan should be
+assigned to a dedicated body.
+That's made up of Mexico
+leadership.
+As well as knowledgeable experts
+in that field.
+Second, to prioritize resource
+allocation and administrative
+support.
+Legislatures shown a commitment
+to establishing these
+initiatives, they could ensure
+ongoing issues have sufficient
+funding technical expertise, and
+administrative support to
+achieve these objectives
+effectively and reach their full
+potential.
+You could invest in a skilled
+workforce.
+The legislature could address
+the shortage of technically
+trained workers by enhancing
+STEM education and creating
+workforce development programs
+focused on telecommunications
+and broadband installation, I
+will shamelessly plug uh my
+colleague Connor. I know he'll
+be presenting more on the STEM
+work next month.
+And lastly, uh, we could enhance
+digital literacy and community
+collaboration.
+The legislature and the state
+can collaborate with schools,
+community organizations and
+higher education institutions to
+promote STEM education and
+digital literacy, enabling full
+use of broadband infrastructure
+and preparing future workers.
+Thank you. With that, we will
+stand for any questions or
+comments.
+All right, first my lips,
+Representative Buck.
+Thank you, Mr. Chairman. Thank
+you for your presentation. Um,
+and thank you, Doctor Chadwick,
+for your work in the digital
+equity plan as well.
+I do have a couple of very brief
+questions.
+With the Ezer funds.
+Running out. What is a
+district's primary source of
+funding for the purchase of new
+devices.
+There are several options on the
+table for districts, but I
+think, you know, there's also a,
+you know, deed for, you know,
+some level of funding from, you
+know, the, you know, through the
+legislature.
+Yeah, and yeah, if you're, you
+know, if somebody wants to ask
+me about a number, I'm willing
+to, you know, give, you know, a
+reasonable estimate on that.
+We'll come up with that number
+because I'm gonna ask you in a
+bit. Um,
+so I believe that for many
+districts the funding for the
+purchase of devices through mail
+levies, is that correct? Yes,
+some districts to utilize the
+tech not to raise funds for
+those as well as
+which, which again is very
+costly and for those districts
+that are not able to pass on
+elections or mill levies.
+Then that limits their ability
+to purchase devices.
+Uh, for their students. Uh, Mr.
+Chairman, the next question I'm
+gonna ask you, and I did hear
+the word uh the request for
+expansion and more staff. I'm
+gonna refer to the, the chart,
+actually mark your on page 5.
+Uh, and
+What came struck me was that,
+you know, we're asking for
+increases, but when we look at
+the number of projects, and we
+look at the number of funds, it
+seems to be decreasing. Can you
+explain?
+That graph as it relates to the
+expansion, yet we're doing fewer
+projects.
+Mr. Chairman, uh, Representative
+Baca, um, the, the number of
+projects vary, uh, every year,
+but, um, all.
+Overall, um, I would point to
+these numbers in that graph and
+say 2024, actually, it is a
+partial number. So those are
+expected to uh the number is
+expected to increase to
+something like 60 projects and
+the approximate same value of
+$10 million. If you look across
+um historically, we've
+accomplished, we've completed.
+probably since the beginning
+since 2016, we're on track to
+complete 475 projects, uh, worth
+approximately 100, close to $140
+million and those um those
+projects, for example, uh, they
+depend heavily on 8 funding, 85%
+is paid for by E-rate,
+approximately 9% paid for by uh
+by the.
+by PSUC and um I think
+Um, the difference of 6% is paid
+for by the local schools. Um,
+these projects need to continue
+forever. The, the fiber
+projects, uh, we are pretty much
+done, but the upgrades of
+internal networks within all the
+schools have to be done every
+approximately 5 years on a
+cycle, so about 20% of all the
+schools in New Mexico need a
+refresh.
+every year, um, again, the
+number is approximately 50 or so
+every year, and please keep in
+mind that we work.
+At any given time on prior year
+or prior year's projects, the
+current year projects in future
+your projects for next year,
+since it's the the end of the
+E-rate site budget cycle. We
+expect double the value of work,
+so a close to $20 million worth
+of upgrades and approximately 90
+projects in our team has to work
+and provide uh technical
+assistance. Otherwise,
+These schools are going to leave
+money on the table, uh, from the
+year program. So, um, so, so
+again, the numbers will vary
+over time, but the average is
+about the same we're seeing
+somewhere between 50 and 60
+projects every year at any given
+time we work on approximately
+100 projects and that does not
+include the state education
+network that is totally separate
+from it.
+And then, uh Mr. Chair
+Representative Baca, if you
+mind, I just wanted to also.
+He'll bring your attention to
+Appendix A.
+I think this is a good
+illustration of the visuals.
+You'll see phase 1 and phase 2,
+as a video mentioned, each of
+these schools a good majority.
+They need on the ground in
+person support, because to get
+this going.
+So video and his team were
+actually traveling through the
+state.
+And helping these people uh
+focus on needing for staff. I'll
+pass it to Mr. Lovis.
+Chaired representatives also
+just to point out that
+historically PSFA had 5
+positions dedicated to this, and
+because there were 3 fields when
+they transferred over that we
+had.
+And thank you, Mr. Chairman and
+thank you many of my colleagues
+and I, we sit on the legislative
+finance as well.
+So those are the types of
+questions that they're going to
+ask as we, as we have increases
+in budgets, OK? So I'm gonna
+come back to my question, Mr.
+Chairman, to you, uh, Doctor
+Chadwick, when you talked about
+$5 million for just APS alone.
+What are we looking at for just
+a rough ballpark figure for
+The whole state.
+Ballpark, I'm not gonna hold you
+to it, but, but I know that, and
+I guess the other question is,
+will that be included in the PED
+recommendations when they come
+before the LHC. Mr. Chair, and
+yeah.
+In director, uh, Sono and, you
+know, Representative Baca, thank
+you for the question.
+Um, you know, a rough ballpark
+that we've, you know, talked
+about internally at PED. It's
+about 32 million, and it would
+be an ongoing, ongoing recurring
+cost. Yeah, because like I said,
+Albuquerque, they're looking at
+replacing 20% of their devices,
+you know, and, you know, and
+that's, you know, Richard's in
+line with what we've been, you
+know, talking about, as far as
+if it's going to be an executive
+budget. We don't know. It's, you
+know, there are a lot and then
+my final question is regarding
+the SC.
+Uh, and it's actual, the
+security levels in that because,
+as all schools become connected,
+and I definitely see the need
+and I do see the potential of
+that. We've also seen how a
+number of districts have been
+victim because of their
+firewalls or others. Will that
+compromise the whole system.
+Mr. Chairman, Representative
+Baca, um, it may, it could, and
+that is why it is so important
+to secure first this
+infrastructure we are already
+working on it to, uh, we, we put
+in place protections of the
+infrastructure level, uh, to
+protect the network itself, the
+core network, uh, the funding,
+uh, PSCOC approved funding for
+the specific purposes and.
+The uh request to the uh er
+rate.
+Uh, pilot cybersecurity pilot is
+going to augment and help us.
+Uh, expedite the implementation
+of these protections, um, at the
+same time,
+It is uh security is, is
+established in layers. And what
+we want to, to make sure is that
+we have as many layers as
+possible. So, uh, so, so the,
+um, the, the incidents really do
+not reach the, the end user, so,
+uh, the, the network will have
+tools and protections in place
+and and actually individuals
+constantly monitoring what uh
+what is.
+Uh, is being done, the schools
+will continue to operate their
+networks, their firewalls and um
+the expectation is that all
+these um the multitude of layers
+that are put in place are going
+to reduce or completely
+eliminate um the uh the
+incidents that are experienced
+by our schools, particularly
+the, the, the rural schools, the
+smaller schools will never have
+the resources in the, in the
+personnel specialized.
+personnel, um, who, uh who can
+take care of that. We are
+partnering with, uh, with some
+other organizations we're
+working with the Office of
+Cybersecurity. We're working
+with the PED uh Chief
+Information Security Officer.
+Uh, we're working with the
+higher ed institutions, uh, to
+develop, in fact, a pipeline and
+utilize the sin as a tool for
+hands-on, uh.
+Practice to build the uh the
+workforce that is going to be
+specialized because New Mexico
+has a significant deficit of
+expertise, and we have to expose
+these kids from K-12 through
+higher security uh to, to higher
+ed to the industry and make that
+connection to make sure that
+they realize this is uh a
+valuable and and real career
+opport opportunity that they can
+pursue and
+Um, and I, well, I think that
+we're going to make progress
+utilizing all these resources in
+place.
+If I may add on to that.
+Represented, uh, just quickly, I
+want to highlight that you kind
+of glossed over that the E-rate
+pilot uh cybersecurity, uh,
+grant that he's applying for.
+This is a specialized grant
+that's coming from the FCC and,
+you know, basically done all the
+work, working with those, those
+partners that he listed. This is
+gonna be a critical next step
+and I think, you know, the
+federal government is
+recognizing how challenging this
+is for schools, uh, in
+particular with this program,
+and it's one that we're looking
+to really maximize and leverage.
+federal dollars to go after.
+Thank you, Mr. Chairman.
+groups of gear.
+Thank you, Mr. Chair. Thank you.
+I just want to salute acting
+director of Obay Drew Lovelace,
+Oduora from who's with opiates
+the broadband program manager
+and Doctor John Chadwick, who's
+the digital equity uh
+coordinator because I know you
+guys have been tired tirelessly
+working always with limited
+staffing for years. So just
+super thanks and then you end up
+presenting to 6
+different committees. So it's,
+thank you. Um, I have a couple
+of questions. Um, first of all,
+so Obi, are you still uh
+Can you just clarify, you still
+operating under an MOU with OB.
+Mr. Chairman, Representative
+Garrett, um, I, I will say first
+thank you for attending the
+ribbon cutting ceremony for the
+scent, uh, this summer, it was,
+it was wonderful to see you
+there. Always a big supporter of
+our efforts.
+I am, um, and so Vieica and
+Paulo Pedresy, David Rodriguez,
+the 3 individuals working on
+BDCP are Office of Broadband
+employees. So we are working for
+the Office of Broadband, the uh
+broadband deficiency development
+um and connectivity program
+BDCP, the program is funded
+still under PSCOC, which is
+valuable because that kind of
+predictable.
+in continuous funding is
+extremely important for an
+effort like this. So PSFA PSTOC
+are still in charge of the
+funding and the mission for uh
+the Ere projects that will
+continue forever, as well as the
+stable education network and um
+some parts of school bus Wi Fi
+and, and student connectivity.
+Um, so, the program, the funding
+is still there and under an MOU
+with the Oso Broadband.
+Of the office is managing these
+programs with uh basically uh
+with our full focus on the
+program and some assistance from
+the office and still from the
+office, uh, from the public
+school facilities authority
+there, um, their accounting
+processes, some, some paperwork
+and so on still, uh, still, uh,
+is located there.
+We like to leverage all these
+resources.
+poses some challenges as well.
+Um, so we just, we're making it
+work.
+Uh, chair and representative
+just to add on a little uh kind
+of layer of complexity is that,
+you know, as Obai was created,
+uh, this program was, you know,
+in those early stages and so
+many of the early procurements,
+the phase one elements, really
+housed at PSFA. And as we came
+on, and we've brought on a video
+and his team over to the Office
+of Broadband. We've, you know,
+been looking at how to deploy
+phase 2 and 3. And so we kind of
+see like a tiered structure in
+how the MOU is run, is that, you
+know, PSFA has a lot of the
+phase one element
+because they did all the
+procurements, you know, to go
+along with that. Uh, and then as
+we move into phase 2 and 3,
+that's where Off Broadband is
+going to take more and more of
+that over.
+Thank you. Um, and Mr. Chair, in
+regards to Senate Bill 45, um,
+The governor evidently just
+wanted two broadband bills in
+the special session, and as
+somebody who had planned to
+support as a sign on sponsored
+S345. I felt it was far too, it
+puts so much together.
+That it was unwieldy and so I
+just want to state that I'm
+happy to work with you. I think
+it's important for this kind of
+bill to have both Senate and
+House sponsorship and to be
+broken up because it was so
+complex. It tried to do too much
+and too little time, you just
+want to go on record with that.
+Um, in Mark, you've put policy
+considerations, but um on page
+8, what I'm concerned is obey
+already is developing
+comprehensive statewide
+broadband plans that have to be
+updated and presented to the
+legislature on a yearly basis.
+Could you update us on what to
+expect when what the timeline is
+to get the next updated
+comprehensive statewide
+broadband plan.
+Chair representative,
+absolutely. So it is in statute
+for January 1st and given that
+it's a holiday, we've been
+delivering that the last couple
+of years on January 2nd to the
+legislature, as well as the the
+governor's office as stated in
+the statute. And so our first
+one was 2 years ago. Uh, we
+didn't update this last year and
+we will have another update, uh,
+forthcoming this year as well on
+January 2nd.
+And Mr. Chair, if you can make
+sure everybody
+Actually, the legislator needs
+to get it.
+If you can make sure we all get
+it, but especially LASC, LFC and
+science and tech.
+Uh thank you for that. Um,
+And also, I will just say that
+everybody's working on investing
+in the skilled workforce, the
+opportunity scholarship focuses
+on those things.
+Um
+Uh
+Representative Sarana, who's the
+chair of Science and Technology
+has had that, so that's
+happening a lot of this is, is
+actually happening. Um, my
+second question is,
+I'm concerned about what's
+happening with the
+administration, uh, the owner of
+Starlinks is now going to be in
+charge of government efficiency.
+I'm really concerned who is in
+our state government is
+overlooking what happens to
+E-rates.
+Just very worried about
+education office of education,
+How are you, how are you
+tracking that.
+Uh, chair and representative,
+uh, at least from the Office of
+Broadband perspective, we've
+been looking at uh the Fifth
+Circuit rulings on the FCC and
+monitoring, you know, what AFCC
+is doing around some of their
+administrative authority and how
+they're making some changes, uh,
+currently there's no impacts to
+the E-rate program, uh, with
+that, um, however, you know,
+it's something that we are
+looking at, you know, very
+carefully and if there's, you
+know, uh, a point, you know,
+where we need to interject, you
+know, we will certainly take
+that consideration. Uh, so
+that's at least with the, the
+FCC side.
+Uh looking at the other programs
+from the Office of Broadband,
+you know, many of these things
+have been awarded to the state.
+There have been approved plans,
+you know, that we are working
+with NTIA, which is the
+administering agency for a lot
+of our funding, uh, and when
+that, with that funding, right,
+we're not really that concerned
+at the moment that that that
+money would be uh taken away
+because there's so much demand,
+uh, additionally, how the
+allocations came out for the
+funding is based on population
+and I think, you know, most you
+know most folks who live in New
+Mexico
+would, would certainly
+understand the low density, low
+population density right in New
+Mexico and and large amounts of
+territory that we have to cover
+and so we just don't have enough
+funding, you know, to go there.
+Uh, we will have a mixture of
+technologies, uh, the office has
+taken a stance, you know, from
+the very beginning that we're
+going to need fiber as far as we
+can get. We're gonna need, you
+know, uh, fixed wireless, you
+know, for some of those other
+gaps, and then where we really
+cannot get to those very remote
+places or too expensive, it's
+gonna need to be satellite. And
+so we actually had built a
+satellite mechanism.
+into a lot of our deployment
+plans going into the future, so,
+uh, at the moment we do not
+anticipate any changes to a lot
+of the infrastructure
+programmatics, uh, but we are,
+you know, very much watching,
+you know, what's happening and
+tracking, you know, as best we
+can and and then making
+anticipative, uh, you know,
+thoughts of what we can plan.
+And I'm a member of the, you
+know, I'm on the board of
+directors for the state
+educational tech uh, I'm sorry.
+Let me back up. Mr. Chair and
+representative, um, you know,
+I'm on the board of directors
+for the state education to not.
+Technology directors association
+CETA, and we get weekly updates
+from Foresight Law and which
+like lahy, who gives us updates
+about what's going on, you know,
+and at the federal government
+level, so, you know, I'm, you
+know, we monitor this closely
+and when there's something that
+comes across, you know, I share
+it with our policy team and
+with.
+Thank you. And my last question
+is, and John, I may need your
+input on this.
+As you know, there's a new, um,
+uh
+suit about the Martinez Yazi
+lawsuit and digital equity as
+part of that.
+And has the judge, the judge
+hasn't ruled yet on it.
+Anyway, I just want to thank all
+of you because I know that
+constantly as you work with
+education across our state, all
+of you are constantly focused.
+On meeting the digital equity,
+uh, for all the groups concerned
+in the Martinez Yai lawsuit. So
+thank you for that focus that
+that never leaves what you're
+doing. Anyway, thank you very
+much for being here today.
+Representative Saraella.
+Thank you, Mr. Chairman and
+thank you for your presentation.
+Um, so I'm gonna ask a little
+more on cybersecurity. So you
+said 4.5 million, you've applied
+for. So what if you don't get
+it? What will happen?
+Mr. Chairman, uh Representative,
+the public school capital Alley
+Council already approved $1
+million for um cybersecurity,
+the initial protections, the
+basic protections, it's not
+going to be sufficient. That's
+going to be an ongoing cost. Um,
+so additional funding is needed.
+Um, we expect
+That, um,
+All this the sin-related
+activities will fit uh within
+the existing $10 million budget
+but um obviously if we reach
+that that cap, um, and we, we
+are unable to do everything that
+needs to be done additional
+funding will need to be um uh
+found somewhere somehow,
+certainly with the um infusion
+of
+Eate funding, so about half of
+the cost of the sand is expected
+to be irre eligible. It is under
+threat, but um right now it is
+in place and again, um, most
+likely even if something is
+happening with the.
+Program, this, the cost of the
+stable education network fits
+within the existing PSUOC
+budget, which is, which is a
+plus because the schools will
+not have to scramble to find.
+Money to pay for their Internet
+if they're connected into this
+network, if something happens to
+uh to the program. We'll report
+back, um, obviously the more
+money, the more funding is
+available, the more we, we will
+be able to accomplish. Um, it
+would be helpful for the funding
+to be specifically, uh, directly
+allocated for this purpose, uh,
+but right now the public school
+capital LA council is, is
+extremely supportive of this
+effort.
+So again, they funded
+previously, um, the, the
+cybersecurity just initial
+implementation, uh, I am pretty
+confident that they will
+continue to to to fund that.
+that effort because of its
+importance.
+Chairs representative just to
+add on to that, uh, you know, we
+have good conversations with uh
+with director Samba Dam, uh,
+from the Office of
+Cybersecurity, and he actually
+has, you know, some, some uh
+tools that are deployed to
+schools as well, uh, and
+certainly as we bring more
+schools onto the network, we'd
+like to see those same tools
+being deployed, uh, to, uh,
+videos, you know, comment,
+right, that the more money there
+is, right, the, the more
+security you can, you can buy,
+you know, there's certainly
+elements that we want to really
+look at and what are the, the
+true risks.
+Out there to schools and by the
+most important tools to make
+sure that the schools stay safe
+on the network.
+Thank you. I'm Mr. Chairman. So
+as far as do it in in
+cybersecurity, how closely are
+you working with them? Is a lot
+of within-house vendor driven,
+so I just want to know how close
+you were with them because if
+the network is infrastrated,
+that's huge. So tell me what
+you're doing with them.
+Uh, so chair and representative,
+uh, you know, basically Office
+of Cybersecurity has, has really
+just gotten started in the last
+year, so a lot of where they're
+at is in kind of similar to
+where we were two years ago, and
+they're building capacity and
+building programs, uh, and so a
+lot of what they've done is is
+buy some programmatics off the
+shelf, like things like
+penetration, uh, testing, uh,
+uh, you know, for the, for
+different networks. Uh, so as we
+move forward into the future, a
+lot of this is planning and then
+deployment that will be seen
+over the next couple of years.
+I will add to that, Mr.
+Chairman, uh, Representative
+that we're meeting weekly with
+the team from the Office of
+Cybersecurity. We have a working
+group, uh, that's composed of um
+Office of cybersecurity, the uh
+public education department, uh,
+higher education institutions
+and others, um, and we're
+working to develop this specific
+uh tools and approaches that
+we're going to implement, we're
+already implementing tools.
+We're not going to wait for the
+4.5.
+$5 million award um to put in
+place what needs to be put in
+place, uh, but definitely that
+funding is going to um help out
+and make more financial
+efficiency if the federal
+government is paying for the
+majority 90 86% of the cost of
+the tools that we are already
+implementing.
+OK, so, Mr. Chair, I guess.
+I guess the big thing is you're
+working directly with
+Uh, the Office of Cybersecurity,
+they know what's happening.
+They're working with your
+vendors or whoever's working on
+your side directly, so we will
+be assured that
+If you get on the network or
+when you, when it's complete,
+the network is safe for the rest
+of the state. So that's, that's
+my um difficulty here, but thank
+you. Thank you, Mr. Chairman.
+I don't have anybody else on the
+list, but I had a couple of
+questions, um, Mr. Chadwick,
+about, um, I'm looking at the
+graphic on page 6, the New
+Mexico digital equity gap data,
+um, does PED issue any guidance
+to the districts on.
+Hardware or equipment.
+Mr. Chair, thank you for the
+question. We do not, you know,
+we do not issue guidance on, you
+know, devices, I think I, you
+know, you know, and the types of
+devices, I think our districts,
+you know, know what they need,
+they know their student
+population, and I think they've
+done, you know, quite honestly,
+especially, you know, through
+the pandemic, they've done a
+very good job of making sure
+that, you know, students have
+the resources they need, you
+know, the concern, of course, is
+always, you know, now that Eser
+funds are running out and you
+know, emergency connectivity.
+And, uh, yeah, as, you know, has
+expired, you know, how do you
+sustain that and looking at
+predictable.
+sustainable and reliable
+funding.
+And I, and I appreciate that, I
+guess, um,
+One of the other questions that
+I do have is um with 50 56%, um,
+being Chromebooks, um, because
+as we're talking about, um, high
+speed internet connectivity, the
+possibilities with high speed
+internet connectivity, and
+students would also have to have
+like the hardware to match those
+capabilities and what we're
+talking about, it can be very
+intensive, and I'm just
+wondering if, if Chromebooks are
+appropriate.
+for that sort of work when we
+talk about, you know, the rise
+of artificial intelligence, um.
+That our students um educators
+are going to be using.
+Thank you for the question, Mr.
+Chair.
+Yeah
+You know, Chromebooks, you know,
+run things we learned early on
+in the pandemic, um, we, yeah, I
+worked with Kara Bobov, who is
+at PED at the time when the
+pandemic hit, and we were able
+to procure about 7500
+Chromebooks for native students
+in the western part of the
+state.
+The problem at that time was,
+you know, the only thing we
+could buy.
+We, you know, we're the low end
+devices.
+And what we've learned,
+especially with some research
+that was done by Doctor Tom Ryan
+and Doctor Neil Weaver, is that,
+you know, you get a higher in
+Chromebooks, and they're
+perfectly capable of doing, you
+know, you know, some of this
+intensive work.
+And you know, so that's, you
+know, when Albuquerque Public
+schools made their estimate
+about what it's going to take to
+replace 20% of their devices
+next school year, they're
+really, you know, they are
+talking about.
+$475 roughly speaking, or
+You know, Chromebooks, and at
+that price point, you're gonna
+get some very good, you know,
+devices that are, you know, have
+good memory and, you know, and
+can handle, you know, what's
+coming down the pike, including
+AI.
+That's super encouraging to
+hear. um thank you all very
+much. We certainly appreciate
+the work that you all are doing,
+the continued work, and uh your
+expertise on the topic. Thank
+you.
+Right.
+So.
+We'll switch topics to
+future clinical practice, an
+update.
+Annie, good morning.
+Good morning.
+We don't have a signal yet.
+Yeah.
+Oh,
+there won't be anything. As I
+just said oh, OK, cool. And,
+please, when you're ready. Good
+morning. Good morning, Mr.
+Chair, members of the committee,
+um, you know this, but my name
+is Annie Armitage and I'm your
+senior policy analyst covering
+the educator workforce. Um, this
+morning I'll present our report
+on teacher clinical practice.
+Uh, it looks like this, and you
+can find it behind the 3rd tab
+in your binder.
+First, I'd like to thank my
+colleague Tim Bado, who um was a
+great supporter in the data
+analysis for this project.
+I'd also like to thank our
+partners, the educator
+preparation programs who very
+graciously trusted us with their
+data and responded to many of my
+questions over the past several
+months. And finally, a big
+thanks to staff at PED for also
+sharing data and for all the
+hard work they've been doing on
+teacher preparation, um,
+particularly over the past few
+years.
+Now, as we all know, New Mexico
+continues to face substantial
+teacher shortages. There are
+high teacher turnover rates and
+large student achievement gaps.
+We also all know the importance
+of instructional quality in
+improving these student
+outcomes.
+With all of this in mind, the
+legislature has made major
+investments in the educator
+pipeline over the past several
+years, including in teacher
+residency programs.
+Last session, you all
+appropriated $60 million to the
+growth fund for educator
+clinical practice, be expended
+from FY 25 to FY 27.
+And one of the conditions of
+that appropriation was that the
+efficacy of those investments be
+evaluated.
+This report examines early
+outcomes of New Mexico's teacher
+residency model from school year
+23, which was the first year of
+full implementation.
+Prior to that year, only a few
+small programs uh were funded,
+and they had different
+parameters for implementation.
+We want to emphasize that this
+report's findings should be
+interpreted more as a baseline
+for teacher residency programs
+in the state to which future
+evaluations of teacher
+residencies can be uh compared.
+So first, I'll briefly describe
+the state's four main teacher
+preparation pathways, including
+the differences between
+traditional alternative
+licensure as well as the
+different clinical practice
+options those candidates have.
+Next, I'll review initial
+teacher residency descriptive
+outcomes, and I'll review our
+preliminary analysis of teacher
+preparation and student growth,
+and finally, I'll share some
+policy considerations.
+Let me get my
+Now, on the first page of the
+report, table one shows the
+state's 4 main preparation
+pathways.
+While traditional teacher
+preparation programs have
+typically been designed to
+prepare undergraduate students
+to become teachers, alternative
+programs have primarily targeted
+career changers who are
+interested in teaching.
+Turning to page 2, research is
+mixed on whether traditionally
+or alternatively prepared
+teachers.
+Um, are more effective in
+improving student outcomes. Um,
+though there are several large
+studies that suggest
+traditionally prepared teachers
+are more effective, and some
+research suggests that
+traditionally prepared teachers
+have lower attrition rates than
+alternatively prepared teachers.
+In table 2, you can see a
+comparison of traditional and
+alternative elementary teacher
+licensure requirements in New
+Mexico. You can see that in
+traditional programs, students
+gain a bachelor's degree in
+education and complete at least
+616 weeks of student teaching
+before they enter the classroom.
+In contrast, alternatively
+prepared educators already have
+a post-secondary degree in an
+area other than education.
+And to begin teaching, they must
+be enrolled in an approved
+alternative educator preparation
+program and pass any required
+licensure exams.
+The city does require um these
+programs to provide at least 18
+semester hours of instruction to
+the candidates, but the
+candidates can complete that
+coursework while they're
+teaching.
+Now alternatively prepared
+special education teachers do
+have to complete at least a
+15-week internship before they
+enter the classroom.
+But the sea does not require
+alternatively prepared teachers
+and other areas to complete any
+clinical experience prior to
+teaching.
+Although we should note that
+before receiving a level one
+teaching license. This
+alternatively licensed teachers
+do have to teach on their
+alternative license for 2 years
+before getting that regular
+level one license.
+On page 3, table 3 shows that
+New Mexico's requirements for
+alternative licensure don't meet
+recommended best practices and
+could be strengthened.
+It could be strengthened through
+um
+Stronger program entry
+requirements, um, additional
+demonstration of content
+knowledge requiring performance
+assessments and requiring at
+least some amount of clinical
+practice before entering a
+classroom.
+Figure 1 shows which EPP's
+educator preparation programs.
+Offer which teacher preparation
+programs. And within the core
+licensure areas of early
+childhood, elementary,
+secondary, and special
+education, there are notably
+more alternative programs
+available to candidates than
+traditional.
+Turning to page 4.
+This page summarizes the number
+of teacher candidates admitted
+to and graduated from teacher
+preparation programs in the
+state over the past few years to
+a decade.
+And here I'll just note that
+over the past several years, the
+number of admitted teacher
+candidates has increased, with
+the exception of a slight dip in
+school year 24.
+And likewise, the number of
+completers is continuing to
+increase, but still hasn't quite
+risen to to a high last scene in
+2010.
+Over the past 2 years, we've
+seen an increase in the number
+of candidates completing
+traditional programs, and that's
+encouraging.
+But candidates from alternative
+programs continue to make up the
+vast majority of completers in
+our state.
+Each 5 outlines the account
+educator accountability report,
+which PED is required to submit
+to all of you by November 1st of
+each year.
+For the last time this report
+was submitted was in 2022 with
+school year 21 data, and you can
+see in table 4 that that report
+was incomplete.
+The way this report works is
+that EPPs submit their data to
+PED and PED publishes a report.
+In the past, the data from EPPs
+has not been validated by PED
+and frankly, as I'll discuss
+more later in this report, there
+have been a lot of reporting
+inconsistencies and just
+incomplete reported information.
+PD is right now working on
+improving data reporting
+practices and going forward
+plans to validate all of that
+data.
+I went to this end, PED has
+decided not to go back and try
+to fix the data, um, and publish
+a report in 2023, but instead
+plans to publish a validated
+2024 report in January of next
+year.
+OK, so we've talked about the
+differences between traditional
+and alternative programs,
+teacher candidates in both of
+those programs can decide they
+want to complete a year-long
+paid residency.
+So now I'll give a very, very
+brief synopsis of the research
+behind teacher residencies, and
+I'll talk about uh residency
+policies and funding in New
+Mexico.
+I think most of you already know
+this. You've made these
+investments in future
+residencies, but in a very fast
+nutshell, national research
+suggests that strong teacher
+residency programs produce
+teachers who are more diverse
+and more effective in the
+classroom.
+Teachers who complete a
+residency, consistently have
+greater self-efficacy than other
+novice teachers and are more
+likely to remain in classrooms
+longer.
+That is your synopsis in a
+nutshell.
+Um, I want to really emphasize
+that New Mexico is a national
+leader in teacher residencies.
+While 22 states have supported
+residency programs in various
+ways. No other state has
+invested as much as New Mexico,
+um, on a per capita basis, as
+New Mexico has.
+Um, figure 6 shows the $147
+million.
+on page 6, right? Page 6 and 6.
+Um, so that's the $147 million.
+You all have invested in
+educator clinical practice over
+the past several years.
+Included appropriations of 15.5
+million and $13 million for
+teacher residency programs in FY
+23 and FY 24.
+And this year you all
+appropriated that $60 million of
+sustainable funding for educator
+clinical practice through FY 27.
+A portion of that will fund
+teacher residencies.
+And that big jump in teacher
+residency funding you can see in
+school year 23, was accompanied
+by a strengthening of state
+requirements for residency
+programs.
+And you can see those
+requirements in the bulleted
+list on page 7. These changes
+really strengthen the Teacher
+residency Act and included
+things like requiring a
+co-teaching approach, increasing
+stipends for residents,
+requiring state stipends for
+mentor teachers and partnering
+principals, and we requiring
+compensating a residency program
+coordinators with at least
+50,000. Turning to page 8.
+People 5 shows a comparison of
+New Mexico's teacher residency
+Act to national best practices
+for residency programs.
+And New Mexico frankly measures
+up really well on this. It's
+really encouraging, but there is
+one glaring gap that pops up in
+nearly every focus area of the
+table. Um, and that is weak data
+systems.
+So to effectively design and
+manage teacher preparation
+programs, including residency
+programs, EPPs really need
+access to data that allows them
+to track their candidates into
+public school classrooms.
+They need accurate, timely, and
+granular educator workforce data
+to understand what the workforce
+needs are of the state. Where
+are their candidates likely to
+be hired, and how can they help
+those candidates meet the needs
+of the school districts, they'll
+eventually serve.
+And they do not have this. In
+fact, some of this information,
+PED doesn't have either.
+Um, that's a big reason that
+these statutorily required um
+ears and teacher residency
+reports are not being submitted.
+And statute does require that
+teacher residency report to be
+submitted to the legislature by
+November 1st of each year.
+Um, on page 9, you can see table
+6 shows the completeness of the
+information reported in the 2022
+teacher residency report, and
+that's um to our knowledge, the
+only teacher resident residency
+report that has been submitted
+to the legislature.
+OK.
+So, now I would like to share
+some initial teacher resident
+residency outcomes with you all.
+On page 10, turning the page.
+Um, there are 8 EPPs in New
+Mexico who have a teacher
+residency program on page 10,
+um, these figures show annual
+numbers of teacher residents by
+preparation pathway and
+licensure area and a strong
+majority of teacher residents in
+New Mexico are pursuing
+licensure through traditional
+pathways.
+In school year 24, in fact, 79%
+of teacher residents were
+enrolled, uh, in alternative
+pathways. That should not be
+alternative.
+In traditional pathways.
+79% of teacher residents were
+enrolled in traditional
+pathways, and this does concern
+us just a little bit, um,
+because residencies could be
+really especially helpful for
+alternatively licensed teachers
+who are far less prepared
+usually than traditional
+candidates.
+Um, but because alternatively
+prepared teachers can receive
+their alternative license and
+become teachers of record
+immediately of passing um
+passing examination
+requirements. Those candidates
+are often faced with a choice
+between completing a year-long
+residency with the support of
+$35,000 stipend or beginning
+their teaching career right away
+with at least a starting salary
+of $50,000 plus benefits, and
+those health benefits are a
+really big sticking point when
+we talk to the field.
+For many of these often
+mid-career professionals, the
+increased pay and benefits, uh,
+deters them from completing a
+residency.
+So figure 8, you can see that
+the licensure areas with the
+most residents are elementary
+education and special education.
+We think this is probably a
+pretty good thing as so educator
+vacancy reports have indicated
+those are the two areas that
+have the greatest need for
+teachers in the state over the
+past few years.
+Figure 9 shows that teacher
+residents are more diverse than
+the state's current teacher
+workforce, and potentially even
+a little bit more diverse than
+the current teacher candidates
+we have as a whole.
+We know it's important for
+students to have teachers who
+reflect their community, and
+research suggests that providing
+substantial stipends to
+residents can help programs
+succeed in recruiting diverse
+candidates. So kudos to you. We
+think that's helping.
+On page 1110 shows a map of
+teacher residency placements. We
+actually made two maps, one for
+school year 23 and one for
+school year 24. They were
+identical, so that's what they
+looked like. You can see that in
+both years residents were
+concentrated in Albuquerque, Las
+Cruces, Rio Rancho, and Gadson.
+The remaining residents were
+spread widely across the state.
+On that same page, figure 11
+shows the number of residents,
+uh, resident placements funded
+each year. The number of
+candidates admitted to a
+residency, and the number who
+completed a residency.
+We can see that while the number
+of resident completers increased
+slightly from 23 to 24.
+And residency completion rates
+are high. The demand for
+residencies has not kept up pace
+with funding.
+EPPs, uh, when talking about
+this information, noted that
+they've avoided over recruiting
+for residencies in the past,
+saying they were unsure of
+whether or not and how much
+residencies would be funded.
+Hopefully going forward, that
+will no longer be an issue as
+there's now sustained funding
+for the next several years.
+He also cited several reasons
+that candidates choose not to
+complete a residency, um, one
+being higher pay health benefits
+for those alternative candidates
+who begin teaching right away.
+Traditional students who
+graduate in a fall semester and,
+uh, that doesn't align with
+their program's residency
+program.
+And an unwillingness to commit
+to teaching in New Mexico for 3
+years after graduation.
+If you'll turn with me to page
+12.
+I will present the preliminary
+analysis of our teacher
+preparation and uh student
+grant. One of the measures of
+success defined in the teacher
+residency Act is how the
+academic performance of
+students, residents, students
+compares to the students of
+other novice teachers.
+To our knowledge, this is the
+first report that has analyzed
+these measures in New Mexico.
+We sought to measure how
+teachers' contributions to
+student growth and school year
+24 varied among the four
+preparation pathways.
+However, in the end, our
+analysis was limited by
+incomplete data, inconsistent
+data reporting practices and
+difficulties matching teachers
+to students.
+And normally I wouldn't present
+very much to all of you about
+data collection and cleaning.
+But I'm going to tell you a
+little bit about it today,
+because, frankly, the existence
+of substantial data problem
+problems relating to the
+collection, collecting and
+reporting of EPP data is one of
+the most important takeaways of
+this report.
+So bear with me for just a few
+minutes while I talk about some
+data.
+So table 7.
+So on page 12, shows the
+variables in the analysis and
+the data needs associated with
+each variable. Here, I really
+just want to highlight for you
+that this analysis required
+collecting and linking quite a
+bit of data.
+First, we requested data from
+PED on recent EPP completers.
+And they sent us what they had.
+Thank you.
+Um, however, they didn't have
+clinical practice information
+for those candidates. So we
+asked EPPs, please give us the
+clinical practice information
+for these candidates. Did they
+complete a residency, etc.
+But in that process, we found
+that there were a lot of
+inconsistencies between the data
+PED head and EPP's head.
+EPP said, we don't know who some
+of these candidates are that PED
+says that we had. Also, here's a
+few 100 candidates that are not
+in PEDs data set that we had.
+Also some of these are
+miscategorized in the programs
+that they took, these sorts of
+issues.
+Several months of back and forth
+with EPPs, um, we
+Managed to put together what we
+hoped was as accurate of uh a
+data set as possible regarding
+candidates.
+Then we needed to connect those
+that data set.
+Um, to other PE PED data sets.
+And those would be PED class
+roster data and 2 years of
+student assessment data.
+But EPPs and PED track
+individuals differently, as you
+might imagine.
+EPPs track candidates with
+university IDs and PED tracks
+teachers with license numbers.
+Because staff were unable to
+match a university IDs to
+license numbers for many of the
+completers, we had to rely on
+knee matching for the remaining
+computers, and name matching is
+fraught with problems, um,
+inconsistent spellings. Some
+includes a hyphen in one
+database, but not in another.
+Someone gets married and their
+name changes, a middle name is
+on one but not in the other. All
+of these can make a match fail.
+Also, you can have people with
+this exact same first and last
+name, and we can't match those
+people either. Um.
+If you look at table 8 on page
+13.
+You can see that we wanted to
+create groups of recent EPP
+completers who fell into those 4
+main preparation pathways, who
+then went on to teach either
+English language arts or math so
+we could look at their student
+results.
+While we expected uh to see over
+200 residents because of all of
+these data problems are sample
+sizes for residents were reduced
+to 23 traditionally prepared
+residents, and 10 alternatively
+prepared residents. Obviously,
+these are very small sample
+sizes that present major
+challenges for analysis.
+Figure 12 shows each step of the
+data cleaning process and where
+EPP completers were lost from
+the sample. The biggest loss was
+in that name matching stuff, OK.
+Taking a break from data. Now,
+on page 14, I'll briefly uh talk
+about our methodology.
+reconstructed a two-level
+hierarchical model designed to
+estimate each teacher's
+contribution to a student's
+growth over the course of a
+year.
+The first level of the model
+estimates student scores on the
+Spring 24 Namasa test?
+Based on the number, a number of
+student level factors, including
+their prior achievement, grade
+level, economically
+disadvantaged status, English
+learner status, and students
+with disability status.
+The second level of the model
+predicts the aggregate amount of
+growth a teacher should be
+expected to have facilitated,
+given a number of class and
+school-level factors, including
+grade-level taught, classroom,
+and school demographics and the
+school's rurality.
+On page 15, you can see the
+results.
+So figure 13 shows the average
+teacher contribution.
+The student ELA scores by
+preparation pathway.
+Figure 14 shows the same, but
+for math.
+The horizontal lines that you
+can see, there's one dark one in
+each of these figures that
+represents the average teacher
+contribution to student scores
+from the uh kind of existing
+workforce that we were comparing
+recent EPP completers too, and
+you can think of that as sort of
+a baseline.
+On average, recent EPP
+completers displayed slightly
+lower growth and other teachers
+with additional years of
+experience, which we would
+expect.
+Given teacher effectiveness
+tends to improve over the 1st 5
+to 7. If we compare preparation
+pathways, you can see the
+biggest difference is between
+alternative candidates who begin
+teaching immediately, or teaches
+a record, and those who complete
+a residency.
+candidates who completed a
+residency scored notably above
+other teachers, while all
+candidates who went straight
+into the classroom or below
+other teachers.
+This intuitively makes sense and
+is encouraging, but the
+difference is not significant.
+Overall, these results should be
+interpreted with extreme
+caution, given data integrity
+issues and very small sample
+sizes.
+Unfortunately, PED and EPPs are
+aware of the issues with teacher
+candidate data collection and
+reporting, and work is already
+being done to address some of
+these problems.
+Pages 15 and 16.
+Describe data work that's being
+facilitated by prepared to
+teach, prepared to teach is a
+national nonprofit organization
+that's been supporting residency
+work in New Mexico.
+If you look at figure 15 on page
+16.
+Shows what prepared to teach is
+hoping to accomplish. What I
+want to highlight for you in
+this figure are the two
+directions of linking data that
+are presently missing.
+So we've mostly talked about the
+difficulty connecting data
+vertically on this figure
+between EPPs and PED.
+But one big challenge EPPs face
+in reporting complete,
+consistent, and timely data is a
+disconnect between their program
+data and data for those same
+candidates that are held in
+their institutions databases.
+So for example, um, ENMU might
+have a residency program and
+their department staff has that
+clinical practice information,
+but potentially some of the
+enrollment information and other
+data that they need for
+reporting this housed in a more
+central database for ENMU and
+those two databases don't
+communicate with each other.
+So federal grant money, um,
+awarded to PED in 2023, GD is
+using that grant money um to
+contract with Crocus developers
+to actually build a data
+collection interface at EPPs can
+use to connect that program data
+to their institutional data free
+of charge, and work on that
+interface is presently being
+finalized and is scheduled to be
+piloted by EPPs in January of
+next year.
+That's really great news. Um,
+another challenge being
+addressed is inconsistent data
+reporting practices between
+EPPs.
+Primarily do um to insufficient
+clarity and guidance from PED.
+Over the past couple of years,
+PED prepared to teach and EPPs
+have been collaborating to
+identify which data indicators
+are required for state and
+federal reporting, and to
+establish standardized
+definitions for those
+indicators.
+PED also plans to provide
+training and increased support
+for EPP data submission in the
+future.
+I want a foundational level. We
+also have some problems with the
+way that statute defines
+alternative and traditional
+programs.
+Um, and those definitions do in
+some sense guide which data is
+collected and how it's reported.
+Now, the statutory definitions
+are no longer nuanced enough to
+really describe the variety of
+preparation programs that EPPs
+offer, and this came up a lot in
+our discussions about this
+analysis. The definition also
+doesn't match the new federal
+Title II definition for
+alternative licensure programs.
+PED is presently working with
+EPPs to differentiate data that
+will track distinctions between
+5 pathways rather than 4, and
+the legislature may wish to
+consider revising statute to
+align with these these
+distinctions and federal law. So
+going back to that vertical data
+sharing and that figure 15.
+Between EPPs and PED.
+How that newly linked EPP and
+institutional data at the bottom
+is going to be linked to PED has
+not yet been established.
+Initially, the way this was
+happening was EPPs were emailing
+spreadsheets to PED with their
+data.
+That was later replaced by
+uploading data to FileZilla,
+which is an open source
+software, which many EPPs um are
+objecting to, uh, due to data
+concerns, or sorry, data
+security concerns.
+PED does plan to submit a
+detailed funding request to the
+legislature in FY 27 for a new
+data interface system between
+EPPs. So in conclusion over the
+next interim LESE staff planned
+to study teacher residency
+implementation at each EPP and
+partnering school district to
+better understand strengths and
+opportunities for improvement
+and to hopefully answer a lot of
+questions that this report
+raised.
+Um, based on the studies's
+preliminary findings, the
+following recommendations will
+help the state strengthen
+teacher residency programs. I'll
+go through those now.
+So the legislature should
+consider strengthening
+alternative licensure program
+requirements, including
+requiring candidates to complete
+clinical practice prior to
+serving as teacher of record.
+Consider refining statutory
+definitions of traditional and
+alternative pathways to align
+with PED's new classifications
+and federal reporting
+definitions.
+Consider requiring more nuanced
+data collection and reporting in
+the educator Accountability
+report and teacher residency
+report to ensure the data
+necessary for program evaluation
+is collected.
+Set minimum criteria for mentor
+teacher eligibility based on
+evidence of instructional
+effectiveness, including
+evidence of student achievement
+growth.
+Consider requiring alternatively
+licensed teachers to complete a
+residency prior to teaching.
+Consider ways to improve data
+tracking and reporting capacity
+at small EPPs.
+A lacked the support of
+institutional data specialists.
+The public education department.
+should submit complete educator
+accountability and teacher
+residency reports to this
+legislature by November of each
+year.
+Support development of a state
+longitudinal data system with
+unique identifiers that tracks
+candidates from teacher
+preparation to the classroom,
+including hiring, retention, and
+student outcomes.
+And provide increased guidance,
+clarity, and training for EPPs
+on collection and reporting of
+educator candidate data tracking
+and reporting.
+educator preparation programs.
+Should ensure all candidate
+educator candidate data.
+Submitted to PED is complete and
+accurate and reported in a
+timely fashion.
+Collaborate with PED and the
+legislature to ensure the data
+necessary for program evaluation
+is collected and reported.
+And increased recruitment of
+candidates to teacher residency
+programs, particularly amongst
+alternative candidates.
+And finally, school districts
+and charter schools?
+Consider using local and federal
+funds to provide teacher
+residents additional stipends or
+health benefits.
+Thank you, Mr. Chair, and I'll
+stand for questions.
+Representative.
+Thank you, Mr. Chairman and
+thank you, Annie. I do have a,
+just a couple of quick questions
+and um so the focus of this
+report is on teacher residence.
+What about educator fellows? Is
+that something that still is,
+uh,
+A pathway for non-traditional or
+support staff.
+To become teachers.
+Uh, thank you, Mr. Chair
+Representative representative
+Baca, that's a great question in
+this report did not look at
+educator fellows, but it is
+still a funded path you all
+appropriated $20 million to the
+educator, uh, fellows program
+last year. It had been funded
+with those expiring federal
+pandemic relief funds, um, and
+that program continues, and we
+will be happy to look into how
+those outcomes are going.
+Thank you, Mr. Chairman and
+thank you, Annie. uh, it's gonna
+build into I have a method in my
+madness here.
+Which is scary, right?
+Um
+Mr. Chairman, and any, I do have
+a question, and I agree about
+the teacher residency programs,
+OK, as far as the effectiveness.
+One of the errors that I think
+we're not utilizing is our
+summer work.
+As far as we're talking about
+teacher residency programs,
+anyone's hired.
+On an alternative license.
+I think that we need to have two
+supports for those teachers.
+One, I do think that we have
+some kind of
+Uh, either curriculum or modules
+that they can work on if they're
+hired, you know, mid mid.
+Mid-semester, midterm, but also
+we have um
+Summer, where we talk about the
+summer reading program and as an
+opportunity to
+Get those teachers combined with
+a, uh, and we pay them their
+stipends. Let, let's, we, we've
+made an investment here and we
+know that those are gonna help
+out our, our teachers, you know
+they effectiveness in the
+classroom.
+The other uh question, Mr. uh
+Chairman and Annie is really
+about, and this is about kind of
+a grow your own, which is
+leading to this educator fellow,
+as we're talking about young
+identifying young students in
+high school through a career
+pathway and then working their
+way up through the schools as
+far as to identify these guys.
+You know, like in our school
+district in Launas, we have the
+student mentors where we have
+students that are combined are
+paired with students who may be
+on, you know, have needs that uh
+can be supported by student
+mentors as a way to identify um
+Potential and future teachers.
+One of the best districts that
+I've seen that have done their
+own Grow Your Own program is
+Denton ISD and uh Texas.
+Um
+The, uh, Mr. Chairman, the
+other, um,
+The other question I have as far
+as is with the data and I wasn't
+quite sure.
+Or the disconnect came. I, I'm
+looking at Tim and I, I remember
+all the work that we've done and
+you've done with your databases
+and everything like that. So can
+you very briefly just tell me
+where the disconnect is.
+What can be done to rectify it,
+and I, and I do appreciate your
+uh offer to study the
+Um, educator fellows, cause
+that's also an important part,
+you know, we talked about. I'm
+not interested in the teacher's
+scores per se as much as I am.
+Uh, especially early on, because
+as I said before, I was an
+alternative licenser teacher. I
+love my students, I worked hard
+for my students. I don't think
+it, well, it's questionable
+whether I ever became effective
+or not, but, uh, it, it takes
+years to develop that craft, and
+so,
+Um, can you just briefly, and
+Tim, if you need to jump in,
+tell me again how we had the
+disconnect as far as
+The unique identifiers, Mr.
+Chairman.
+Mr. Chair, um, Representative
+Baca.
+Yeah, so
+We had to connect
+New teacher candidate data.
+At each of the different 8 EPPs
+pass.
+Sort of a different fashion at
+each of them.
+And that data had to be
+connected to PED's class roster
+data and student assessment
+data.
+Um, but
+uh PED uses a teaching license
+number to track individuals, and
+EPPs use the university ID.
+And EPP did not have a file
+linking those two numbers, those
+two IDs.
+For all the people we were going
+to look at.
+We had to try to match them
+based on their names.
+Which is just not very.
+accurate.
+Uh, in, uh, Tim, I'm sorry if
+you want to jump in.
+Uh, thank you, Mr. Chair. Thank
+you, Representative Baca. Uh, 11
+thing that I'll mention, and I
+don't want to talk too much
+about this because we're going
+to talk about it tomorrow. Um,
+is, is this idea of data
+governance, but, um, part of the
+reason that some of these data
+issues occurred, uh, is that
+LESC, you all have an interest
+in in studying the effectiveness
+of teacher residencies.
+Everybody loves teacher
+residencies. We want to know if
+they're working or not, so that
+we want to know how much more
+money that we can put into the
+program, uh, to get the best
+bang for our buck.
+Uh, similarly, PED really loves
+residencies. I, I would, I would
+venture that all of the EPPs
+that we talked to, uh, they love
+their residency program as well.
+We all have an interest in, in
+measuring this, but, uh, LESC
+developed this research in sort
+of a vacuum, right? We, we, we
+brought you a work plan with a
+research question, uh, that we
+worked on internally, uh, and we
+got your stamp of approval and
+then we went to PED to ask for a
+bunch of data. And when PED
+didn't have the data that we
+quite needed, uh, we went to the
+EP.
+Ps themselves. Uh, if we had
+worked in and, and we'll take
+some of the responsibility for
+this if we had worked in, in
+consultation with PED and EPPs
+from the outset and said, this
+is our research question. We
+need you to get this data to us
+and give them sort of a nice
+timeline to get us that data. It
+could have been a lot cleaner
+at, at, at the, uh, on the back
+end. So, um, there is sort of
+this, this idea that uh we can
+work together on the front end
+and sort of this governance
+fashion, uh, not only for EPP
+data.
+but for everything that we're
+studying that um can streamline
+some of these processes, uh,
+and, and build sort of a
+collaborative culture around
+what do we need to collect, when
+do we need it, uh, and then how
+are we going to analyze it at
+the very end, so thank you, Mr.
+Chairman, I agree with that and
+as we're talking about as far
+as, you know, as the
+legislator's decision makers and
+appropriators it's important
+that we kind of see, you know,
+where we have, you know, areas
+of need and where we need to
+invest future dollars because as
+I said before, everyone in this
+committee here.
+is a supporter of public
+education.
+It would help us to have some of
+this data to see if we're
+directing our funding to the
+right source. And the last
+thing, Mr. Chairman and folks,
+when we talk about and you
+mentioned it briefly about
+mentor teachers at school sites,
+OK, for, for that many years
+ago, we had a requirement for
+paying a stipend for mentor
+teachers. Many districts do not
+offer that anymore, maybe
+because they cannot afford that,
+maybe because it's not part of
+the collective bargaining
+agreement.
+But there should be in some way
+looking at some kind of
+compensations or wait for
+districts. So if I was a new
+teacher to APS and
+representative Saignana or
+represented Garrett would
+receive not only the curriculum
+to support the areas of need,
+it's more than just
+How to take attendance, how to
+manage the student information
+system.
+If there were things same as
+part of her mentorship program,
+these are the five areas that I
+need to hit for effective
+teaching, and that she be
+compensated accordingly for
+taking time out of her day and
+going above and beyond to
+support a teacher resident or
+mentor teacher like myself. So
+with that, Mr. Chairman, thank
+you.
+Representative care.
+Thank you, Mr. Chair. My first
+question comes from
+Representative Natalie Figueroa,
+who is with us from Volcano
+Vista High School online. Um,
+and her question is a challenge
+to requiring alternative
+licensure program candidates,
+uh, to complete a residency. Uh,
+they serve districts across the
+state, but residency is not
+necessarily are available in
+every corner of the state. How
+can we address the issue, and I
+would extend that to I don't
+know cooperative.
+Education services. I know they
+have programs, alternative
+licensure where people come
+together on weekends. Do we have
+existing programs or do any of
+the 8 programs have an online
+component for alternative
+teachers to do a residency when
+they're living in more isolated
+frontier of rural areas, Mr.
+Chair, Representative Garrett
+slash figure out that's really
+great question. Um, I do not
+have a really great answer to
+that.
+now, but I can look into that.
+Um.
+I would think that the biggest
+challenge would be.
+The requirements to have their
+university kind of teacher
+coach, check in on them at the
+residency site, and I don't know
+if that's possible, uh,
+virtually or not, potentially, I
+would think, but I will look
+into whether there are any
+programs who are offering
+something like that presently.
+Oh, thank you. And then to build
+up what representative Buck
+said.
+I'm the
+A lot of the attention and money
+has been poured into the
+educational fellows program.
+And as we met around the state
+over the last couple of
+Of years.
+It seems like Superintendents
+and principals.
+Use that those fellows in
+different ways cause I'd like to
+know how many fellows
+Actually, is it was it in some
+places I understand in eastern,
+uh, New Mexico University.
+It's been a very effective
+pipeline into certification.
+Uh, some of the specialized
+programs where you have the
+multi-classroom teacher model as
+utilized pillows. So,
+I think we really need to study
+what's happening with that.
+Um
+Because it's multipoly used some
+districts have dozens and
+dozens, some don't have that
+program at all. And then I'm
+concerned that grow your own
+teacher program.
+Um
+Focused on existing
+instructional aids or
+educational assistances
+depending on what the
+District called them and
+included even people who are bus
+drivers, some educational
+assistants already have college
+degrees. I know from my
+experience at a very large
+elementary school that when that
+law was passed, we had some EAs
+who today are certified special
+education teacher who took
+advantage of that program.
+And I'm sorry to see PED not
+talk about it. I think the
+funding is housed in higher
+education. I've bugged her
+acting director about it.
+Um, I know for a while Gallup
+had a program that focused.
+On classes for EAs, making them
+on Friday afternoons and
+weekends.
+So I, I feel like that's another
+channel because you're getting
+people
+who already are in the education
+system.
+Um
+And know that that's what they
+want, and no, because any EA in
+the system knows.
+Uh, the strings, the challenges
+of teaching. So I, I don't want
+that.
+pipeline to be overlooked in
+what I call extreme excitement
+about education fellows.
+Just, just a comment.
+And then I, I'm just grateful
+that um
+I finally paid off my student
+loan and I credit that to
+President Biden actually.
+Um, which, because I was a, I'm,
+I'm a product of an educational
+residency program with APS and
+UNM uh unpaid residency, uh, so
+my salary was my student loan,
+so I'm just so grateful that
+we've been able to
+Fund these programs increasingly
+at a good level.
+Uh, thank you.
+Other question.
+No, OK, um.
+I did have a, um, one very broad
+question. Um, and I think I
+asked this every year to kind of
+keep it um on our radar because,
+I mean, it's only been a program
+for a while, educators rising,
+and if we have any information
+about educators rising students
+that have gone on from high
+school into um educator prep
+programs, and then thereafter.
+Um, Mr. Chair, also a great
+question. We did not look into
+educators rising in this report,
+but that's something that we can
+also look into along with Grow
+your own An E fellows.
+Mr. Chair, um,
+I hope it's apparent by now
+that, that all the work that
+we're doing is is connected to
+one another. So we, we often say
+that we don't want to steal
+thunder from the presentation
+we're going to give later on,
+but I'll talk a little bit about
+one of the examples we'll talk
+about in terms of long term
+planning is, is exactly that,
+that sort of intentional
+connections between the
+disparate programs that exist
+across the state, I think to
+Representative Garrett's point
+about um grow your own and um
+Sometimes these programs are
+seen as competing or different
+and really what needs to happen
+is, is
+Some intentional coordination
+between them, and I think
+educators rising, you know,
+which is essentially I think 1
+or 2 people, uh, at the higher
+ed level who sort of coordinate
+the statewide program, um, that
+don't necessarily connect
+directly with all the EPPs
+around the state and um may may
+or may not have intentional
+goals about how many students
+were trying to recruit into
+educator, the educator
+workforce, those kinds of
+things. So we'll talk a little
+bit more about the
+intentionality. I think that's
+required.
+Uh, for all of these programs to
+talk to one another, and that
+the the folks responsible for
+implementing those programs or
+coordinating them, are also
+communicating in an intentional
+and regular, uh, regular way.
+Cool. Certainly look forward to
+that, but with that, Annie,
+thank you so much. We appreciate
+you. Thank you.
+We are way early.
+So, this lunchtime, folks. So
+lunch is on your own. Um, so
+just a note to members who are
+here, of course, thank you and
+those that I know are coming
+along for the um afternoon
+portion we'll start
+right at one o'clock, so we have
+a good amount of time for lunch,
+but we will start right clock
+right at one o'clock with our um
+director interviews, so.
+Please be back, uh, by one
+o'clock and we'll get started.
+Cool. Thank you all. We'll see
+you at one.

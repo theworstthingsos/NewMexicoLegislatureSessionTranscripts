@@ -1,0 +1,5458 @@
+Um, so Madam Chair, we then
+added the word or at the end of
+line 19 because we
+Alternative exemption, uh, which
+is now item 17. This deals with
+the fluoro polymers that were
+discussed by many commenters
+last week.
+Um, so that was all of 17 was
+added as an exemption.
+And then Madam Chair, moving on
+from there, there's just 2 more
+edits, and they start on page
+15, sorry, Madam Chair, 16.
+Uh, letters C and D line 4 and
+line 12 of the committee sub, it
+used to say prior to January
+1st, 2028. Now it says honor
+after inherently Madam chair, if
+we had left it as prior to
+January 1, 2028. That would be
+when the bill went into effect.
+And that was a um
+Construct or where we meant to
+say honor after January 1, 2028
+in both items C and D, and Madam
+Chair, those are the um
+About 6 changes we made to the
+uh that represent this committee
+so.
+All right, um
+Any questions just on what we
+just went through, you know,
+what changes, not a full blown
+discussion of the bill.
+I'd like to move a do paths.
+The committee substitute, um.
+Or has
+2
+you call the rules.
+Yes, thank you, Madam Chair.
+Representative Abeta.
+Representative Chavis. No.
+Representative Hall.
+No.
+Representative Hoffman V Hill.
+Yes.
+Representative Martinez.
+No.
+Speaker Martinez.
+Representative McQueen.
+Yes.
+Representative Reeb, no.
+Leader Sapansky. Yes.
+Representative of beta.
+Madam Vice Chair, yes.
+Madam Chair
+Yes.
+Madam Chair, you have a due pass
+on committee substitute 212.
+That's good.
+You have a due pass?
+Madam Chair and committee.
+So we are now on House Bill 60,
+vice chair.
+Romero will take
+Charge
+All right, we are on house Bill
+60, you have the.
+chair and do have a committee
+sub that would probably the
+focal point of our discussion.
+So does somebody want to move
+that for discussion?
+Believe it's being handed out
+the 202 number last three digits
+are 26.6.
+I have with me um two experts,
+Madam Chair. One, you get their
+name, and I also have Chris
+Moore with me, who is with the
+Santa Fe Institute has presented
+to a number of interim
+committees on the subject. Um,
+thank you, Madam Chair and
+committee.
+This bill is.
+I know it's, it looks appears
+very dense when you look at it
+because it has a lot of
+terminology that I think many of
+us are not familiar with, but
+the concept is very simple. It
+What it does is it provides a
+framework for um.
+Companies that create, develop.
+AI that is predictive, that is,
+it's used to help.
+Human beings make decisions and
+it screens out people
+potentially for important
+opportunities like employment
+and housing and access to loans,
+rental, so it puts obligations
+on the developer of that kind of
+AI that's being used here, it
+also puts obligations on the the
+individuals or companies that
+are using it, we call them in
+our bill, the deployers.
+And there's some words maybe I
+think we should maybe understand
+before we talk about what the
+bill does.
+There's something called
+algorithmic discrimination, and
+that's defined in the bill.
+And it talks about um.
+It means a condition in which
+the use of a artificial
+intelligence system results in
+unlawful differentiation of
+treatment. So this is a concept
+we're all very familiar with in
+discrimination law. You can't
+treat um distinguished on the
+basis of sex and national origin
+and those kinds of things, and
+we want to make sure that
+electronic tools that are used
+do not factor in those kinds of
+things.
+There's a term called
+consequential decision. That's
+an important part of this
+because we're not trying to
+ferret out all predictive AI in
+a way that there's, you can't
+discriminate. It has to be
+focused on what we're calling
+consequential decisions, and
+that's on page 3.
+And that's a decision that has a
+material legal or similar
+significant effect on the
+provision or denial to a
+consumer or the cost or terms of
+and then it's educational
+enrollment, employment or
+employment opportunity, a
+financial or lending service,
+healthcare service, housing,
+insurance, or legal service. I
+think we would all agree these
+are very significant issues in
+all of our daily lives, and we
+do not want
+The fact that a machine has
+screened you out or made some
+part of a significant decision
+to be discriminatory and lastly,
+I think we need to be talking
+about what is a high risk, um,
+artificial intelligence system
+because that's what we're trying
+to regulate those systems, and
+it's on page 5. Any artificial
+intelligence system that when
+deployed makes
+Or is a substantial factor in
+making a consequential decision
+and we just talked about what a
+consequential decision is, but
+it does not include.
+Um, a relatively long list of
+routine.
+Type um electronic or computer
+type activities. We put that
+list in because we were getting
+emails from people saying, but
+what about this? And we'd say,
+no, no, that's not what we're
+talking about. We're talking
+about when consequential
+decisions are being made, so we
+try to address some of those, so
+having done that, what, what's
+next? Well, we impose duties on
+the developer, a duty of
+reasonable care to make sure
+that they are not deploying or
+developing systems.
+That are likely to be
+discriminatory and we put such a
+duty of care on the developer,
+and that's on page 9.
+And we put such a duty of care
+on the person who's deploying.
+Deploying the um
+The, the software that might be
+making the consequential.
+Lastly, there are various things
+that we we impose on the
+deployer. We, we, um, we require
+that they do risk assessments,
+so periodically they need to be
+looking at the tools that
+they've developed or are using
+to ensure that they continue not
+to have a discriminatory effect.
+We talk about what a risk
+incident is, and that's when a
+deployer, that's the person
+using the.
+Let's the developer know that
+they just found out that it
+looks like there may be some
+discriminatory impact. That's to
+alert the developer that certain
+actions need to be taken and
+those actions are notifying the
+uh the attorney General has
+plays a role in enforcement of
+this act.
+The deployer must do, I believe,
+and impact assessment or when
+they change how the um software
+is being used or if they make a
+significant change to it. A
+deployer can turn into a
+developer if they start changing
+the software that they initially
+purchased or received. There are
+notices requirements to let
+customers know when they first
+of all, the developer has to
+post um information.
+About the, the um AI systems
+that they've developed on their
+website.
+The um the employer has to let
+customers know, and a customer's
+person using it, that they are
+interacting with a high risk.
+Um, AI system, OK, so when you
+get online, you're applying for
+a job, something's gonna pop up
+and let you know you're
+interacting with AI and that's
+part, um.
+If they also when someone is
+screened out and and not and
+denied an opportunity through
+this application of this high
+risks AI, um, they have a right
+to know that, right to know why
+and have a right to correct any
+misinformation. This is not a
+new concept. We see this in
+credit reporting, um, and, and
+we, why do we have that
+incredible reporting because
+that's a big deal to have a bad
+credit rating in your life. So
+we want to make sure that
+correct information and that
+person should
+have an correct the information
+that perhaps improperly screened
+them out of a job. Um, so that's
+pretty much the framework uh uh
+in terms of how this bill works,
+um, I don't know, Steve, if you
+want to add something and then
+I'll ask um.
+Doctor
+Madam Chair representatives just
+wanted to further frame this
+conversation to exclude
+generative AI because that
+particular technology has been
+very explicitly omitted or I
+should say excluded from the
+language so these typical
+interactions that you would have
+with natural language with
+spoken word, with typed in
+information, those types of
+technologies have been removed,
+so the, uh
+The platforms such as Chat GBT,
+uh, Gemini and the like. Those
+are not being.
+scoped and not being affected by
+this techno by this legislation
+at the.
+Yeah, just to reiterate, it's
+important that you know we're, I
+think at this point we're all
+using AI every day. I know I do.
+So using it to draft an email is
+fine. That's not what this bill
+is about. Please proofread it
+before you send it, of course.
+And you know, using it to help
+us sort things using it, using a
+database to organize data that
+is already in our possession,
+sorted.
+Screen people to see if they
+have a degree, things like that
+is fine. But once you're
+Helping a human decide who to
+hire, who to loan to, uh, who to
+accept into an educational
+program in in terms of
+enrollment.
+Then these are consequential
+decisions and they should be
+made as transparently as
+possible, and we should be
+vigilant about the possibility
+that without any ill intention
+that these tools might be
+allowing discrimination into the
+system.
+Um, Madam Chair, with that we're
+ready to hear public comment.
+Oh, thank you.
+Great, um, we'll go to the
+audience who is in opposition
+of.
+0.
+Right, if, um, we'll give you
+all a minute.
+want to stand up.
+And uh
+Reach the microphone center.
+You want to speak.
+Madam Chair, members of the
+committee, my name is Brent
+Moore, and I'm a registered
+lobbyist for the American
+Property Casualty Insurance
+Association, the American
+Council of Life Insurers and
+America's Health Insurance
+plans. Those are 3 national
+trade associations in various
+lines of insurance, and they all
+stand opposed to the bill. The
+reason why they stand opposed to
+the bill is insurers in the
+state of New Mexico and
+throughout the United States
+comply with the requirements
+that are in the respective
+insurance codes in the insurance
+code in.
+Mexico, they're really robust
+requirements for how the
+insurers should conduct
+themselves and how they should
+go about treating policyholders.
+In the insurance area there are
+choices that are made through
+underwriting where certain
+factors are taken into account,
+putting age and gender in in
+various lines of insurance in
+the in, in the one state, sorry,
+the one state that's done
+comprehensive AI legislation.
+This is Colorado. They have
+included a safe harbor provision
+in that law, and that takes into
+account the unique way that
+insurers function and that type
+of safe harbor.
+He's also in Virginia. They have
+uh they passed it through the
+legislature but it hasn't been
+signed. Thank you very much.
+Madam, excuse me, Madam Chair,
+uh.
+Committee. My name is Ward
+Tisdale. I'm with the National
+Association of Mutual Insurance
+companies work very closely with
+with Brent and other members. I
+really just want to echo his,
+his point. We are already
+regulated by the superintendent
+of insurance, this would create
+a scheme.
+Um
+That would not be an efficient
+use of your resources, Brent
+mentioned, Colorado is another.
+state that I handle.
+Uh, insurers were carved out of
+that, as well as Virginia and
+also Nebraska, so each time this
+comes up.
+states recognize.
+This would create
+Confusing
+And costly and duplicative
+regulation, so we would um
+We would urge that you.
+Exempt the insurance industry
+from this bill for the sake of
+efficiency. Thank you.
+Good afternoon, Madam Chair, I
+share grown horse with uh PNM.
+uh PNM appreciates Cha
+Chandler's efforts in initiating
+an important conversation on the
+need for an artificial
+intelligence governance
+framework and security standards
+for New Mexico businesses and
+businesses and consumers,
+however, HB 60 as currently
+drafted, is overly broad and
+lacks clarity.
+Additionally, it does not
+adequately address the
+complexities of generative AI
+rather than moving forward with
+this legislation and its current
+form, New Mexico should
+establish a task force or
+working group composed of
+industry experts to develop
+targeted and effective policies,
+specifically for generatingative
+AI. Any framework should align
+with best practices, including
+those set by the National
+Institute of Standards and
+Technology and IST for these
+reasons, PNM poses HB 60 is
+currently proposed. Thank you.
+There anyone else, um, in the
+audience in opposition. Oh good.
+Ah yes, Madam Vice Chair,
+members of the committee. My
+name is Ann Conway, I'm the
+registered lobbyist for the
+State Farm insurance companies,
+and for the reasons that have
+already been set forth here, um,
+we have talked with the sponsor,
+we'll continue to work with her.
+I think it's appropriate to have
+an insurance exemption because
+this is already regulated in the
+New Mexico insurance code. Thank
+you.
+Chair members the committee. My
+name is Alison Riley, public
+policy director at the New
+Mexico Chamber of Commerce in
+opposition to House Bill 60. We
+oppose the bill as it the
+language is identical to the
+legislation that was signed in
+Colorado, and what we're seeing,
+they're still in the processes
+of creating a cleanup bill to
+address the unforeseen
+compliance standards, and this
+raises serious concerns about
+rushing a similar law here. The
+extensive disclosure
+requirements mandate that
+companies to reveal detailed
+information about their AI
+systems, including sensitive
+data about their algorithms and
+training methods, which
+jeopardize
+trade secrets.
+The requirement to provide
+direct consumer notice and an
+appeal process for every adverse
+decision poses practical
+difficulties and could overwhelm
+companies with processes that
+may not even be necessary. We'd
+also ask for a 30 day right to
+care provision, similar to what
+has been written in the Texas AI
+law to provide businesses with a
+reasonable opportunity to
+address potential issues. For
+these reasons, and those
+mentioned before me, we oppose
+this bill. All right, um, anyone
+else in opposition that would
+like to speak?
+Right, we'll go online, if you
+please raise your hand if you're
+in opposition to House Bill 60.
+Give you um one minute each.
+Donald Maurice
+Thank you.
+Yes, thank you. Uh just setting
+up here.
+I don't know if my video is on.
+We can hear you, that's.
+OK. Thank you. Um,
+Chairperson and respected
+members of the committee. I'm
+Donald Maurice. I'm outside
+counsel to the receivables
+Management Association
+International. It's a trade
+association of various financial
+institutions, our concern is
+with the definition, uh, the
+exemptions that are provided for
+only banks and credit unions,
+federal law provides various
+protections in the space of
+anti-discrimination such as the
+Equal Credit Opportunity Act,
+fair lending laws, also.
+Graham Leach Bliley act applies
+to data security and data
+privacy. It broadly covers
+financial institutions which are
+greater than the banks and
+credit unions that are defined
+in the act. We believe that in
+order to properly align the act
+with existing federal law that
+the definition of financial
+institution is provided under
+federal law be included in the
+act.
+Our second concern is the
+private right of action.
+Colorado does not have it. We
+believe that you could wrap up.
+Uh, next
+We have a Dean Ikas.
+Good afternoon chair members and
+chair and members of the
+committee. My name is Aidan
+Gass, and I serve as policy
+analyst at Chamber of Progress,
+a tech industry association
+supporting public policies to
+build a more inclusive society
+in which all people benefit from
+technological advances. Our
+corporate partners include many
+companies working in artificial
+intelligence, but they do not
+have a vote on our veto over our
+positions. And before your
+committee today to oppose HB 60,
+which is intended to address
+discrimination, but would render
+many online services unusable.
+Without meaningfully advancing
+civil rights. The sponsors of HB
+60 are justly concerned about
+the civil rights abuses,
+particularly discrimination,
+housing, employment, or lending.
+However, pinpointing the source
+and catalyst of discriminatory
+outcomes of an AI system, it's
+not always possible, nor is
+consistent nor is consistently
+determining who or what is
+responsible for an act of
+discrimination.
+Section 8A1's requirement that
+online platforms notify
+consumers every time a high risk
+AI automated decision tool is
+used to make a consequential
+decision, presents a complex
+challenge.
+While addressing harmful.
+Thank you so much.
+Renzo Soto.
+Uh, Madam Vice Chair and
+committee members, my name is
+Renzo Soto here respectfully
+opposed to House Bill 60 on
+behalf of TechNett. We continue
+to share the goal of ensuring
+that AI is developed and
+deployed responsibly in the
+state as well as nationwide. We
+are still reviewing the
+committee received this morning,
+um, but there are still
+provisions that maintain the
+untested framework borrowing
+from Colorado, and we understand
+the concepts within the bill,
+but because of the complexity of
+the AI ecosystem, we believe
+it'll lead to massive burdens in
+practice, uh, that will
+ultimately
+discouraged
+AI development and deployment
+within the state.
+There are also highly uh
+concerning deviations like the
+extremely detailed and
+infeasible reporting
+requirements that could risk
+security incidents as well as
+the punitive private right of
+action. Uh there also seem to be
+some concerning new additions
+that further broaden the scope
+of the bill.
+We believe House Bill 60 will
+introduce significant
+uncertainty, uh, within the
+state. Uh, so we do maintain our
+recommendation that the state
+first establish a clear
+interoperable data privacy
+framework to the benefit of
+consumers and businesses as well
+as to study the AI issue in the
+interim to account for any
+unique state contexts and avoid
+unintended consequences. Thank
+you.
+OK, um, includes opposition.
+We'll go back to the audience
+live. Um, is there anyone here
+in support of House Bill 60.
+Um, if you'd like to speak, if
+you would go ahead and um stand
+up if you can, um.
+And uh we'll do one minute each
+for folks in, Madam vice chair
+members of the committee. My
+name is Lena Weber, policy
+director with the ACLU of New
+Mexico. We think the sponsors
+for bringing this bill forward
+and are in strong support. AI is
+reshaping and influencing core
+social domains that impact our
+daily lives. From the criminal
+legal system to education to
+healthcare and beyond.
+Unfortunately, AI systems are
+often developed in ways that do
+not adequately consider existing
+racism, sexism, and other
+inequities.
+built an algorithmic bias can
+undermine predictive decisions
+and and result in very real
+discrimination, as these systems
+are deployed, they exacerbate
+existing disparities and create
+new roadblocks for already
+marginalized communities. This
+bill will be an essential piece
+of a broader framework of
+urgently needed guard rails
+around how New Mexicans'
+personal information is used
+against them, and as
+complimentary with other data
+privacy bills in our legislative
+session this year. We urge a due
+pass. Thank you.
+afternoon chair members of the
+committee. My name is Kara. I am
+a fellow with the Quality New
+Mexico. I stand here in support
+of House Bill 60 as we believe
+it to be a decisive step in
+protecting LGBTQ folks and all
+New Mexicans. Queer and trans
+people face specific kinds of
+discrimination based on sexual
+and gender identity. An AI
+systems are known to be trained
+through programs that impart
+bias, which result in act of
+discrimination. The LGBTQ
+community is already facing bias
+and discrimination in several
+aspects of life. Alrithmic
+discrimination is going to
+amplify this in all aspects.
+of our life. Health care,
+employment, and housing are also
+areas, and they are heavily
+impacted by the use of these
+systems, which also have the
+potential to impact her mental
+health. We face much higher
+rates of suicide already, and AI
+can play a role in what
+resources we're able to access.
+We truly, we strongly urge you
+to support this bill as a means
+of protecting uer New Mexicans.
+Thank you.
+Good afternoon, Madam Chair,
+members of the committee. I'm
+Melanie Moses, a professor of
+computer science at the
+University of New Mexico and
+chair of the New Mexico AI
+Consortium, uh, that consortium
+consists of, uh, CNN, the
+National Labs, the New Mexico
+Consortium, and the three main,
+uh, major research universities
+in the state. We were recently
+uh able to give some input into
+this bill, uh, which we believe
+has made some substantial
+improvements in the revisions
+you have in front of you.
+Uh, this bill, uh, I believe,
+uh, is superior to similar law
+that was passed in Colorado and
+was recently passed as a bill in
+Virginia.
+It addresses real risks of AI
+discrimination while protecting
+the innovative use of AI in
+research and education, which
+the NMAIC advocates for.
+The bill requires developers and
+employers to alert the public
+when AI is used to make
+consequential decisions,
+requires reasonable and sensible
+steps to ensure AI is not
+illegally discriminating, and
+the revision has more clear and
+focused definitions and closes
+loopholes.
+Uh, I know there have been, uh,
+some concerns expressed, and
+this revision does, uh, address
+those concerns. So I thank Chair
+Chandler for, uh, accepting
+uh the many uh recommendations
+we made.
+All right, we'll go online. I
+understand they're about 5
+different.
+lk s that are
+You up to speak and just go
+ahead and call you, um, as our
+list.
+Enrico Pontelli.
+My name is Enrico Pontali and I
+serve as the Dean of Arts and
+Science in New Mexico State
+University, as well as the vice
+chair of the New Mexico Air
+Consortium. I would like to
+express my sincere appreciation
+and gratitude for the
+opportunity that was granted to
+the New Mexico Air Consortium to
+review earlier version of the
+bill and provide feedback. I
+would like to positively comment
+on our carefully and seriously
+our comments and feedback have
+been considered.
+And how carefully the bill has
+been revised to reflect and
+address our concerns. The
+presentation of the bill
+provides much clarity and
+important direction
+recommendation which would be
+either beneficial to the states.
+Uh, the respect that the bill
+makes to education and research
+institutions is key to promote
+the growth of AI training in our
+research and contribute to
+bringing the state of the, uh,
+to being the state at the
+national forefront in AI. We
+there to express our
+availability and commitment to
+continue helping and supporting.
+The creation of guidelines and
+regulation to lead and guide the
+process of developing and
+adopting AI solution across all
+disciplines in the state. Thank
+you.
+Grace eddy
+Hello, can you hear me?
+Yep, go ahead.
+Wonderful. Madame Vice Chair and
+members of the committee. I'm
+Grace Getty, a policy analyst at
+Consumer Reports focused on
+artificial intelligence, where a
+nonpartisan nonprofit with 6
+million members across the US
+and I'm here to respect the urge
+a do pass on HB 60. HB 60
+addresses a critical issue.
+Right now companies can use
+biased and sometimes erroneous
+black box AI systems to help
+decide who gets a job, who gets
+into their dream college, who
+gets access to medical
+treatments, and more. For
+example, a health care algorithm
+used widely by hospitals to
+identify which patients would
+receive additional care was done
+by independent researchers to be
+biased against black patients.
+Why was this? In attempting to
+predict which patients would
+become the sickest. It instead
+predicted who would spend the
+most money on care. While there
+are ways in which we'd like this
+bill to be stronger, HB 60
+represents a compromise solution
+to this problem. We appreciate
+the chair's careful revisions.
+This bill provides a critical
+patch for New Mexico's civil
+rights and consumer protection
+laws in the AI era, and we
+encourage an
+I vote.
+Mattreer
+Hi, uh, my name is Matt here,
+Madam Vice Chair, members of the
+committee. Thank you. I lead the
+workers' rights Project at the
+Center for Democracy and
+Technology. I want to thank
+Chair Chandler for her diligent
+work on this excellent bill, HB
+60 attacks the growing problem
+of companies using hidden
+algorithms to make key decisions
+like whether job applicants are
+hired, what a bank customer's
+mortgage rate will be and how
+much we all pay for life's
+necessities like health care and
+rent. There's considerable
+evidence that many such AI
+systems are biased or simply
+don't work. HB 60 would
+provide crucial protections for
+workers and consumers who are
+subjected to such decisions,
+providing them with basic
+transparency and guardrails
+against bias and arbitrary
+decisions. It would not touch on
+trade secrets, contrary to what
+you might have heard. Crucially,
+it avoids the narrow definitions
+and fatal loopholes that appear
+in most bills relating to AI
+driven decisions. I've submitted
+written testimony to the
+committee expanding on these
+points, and thank you very much
+for your attention.
+Ben Winters
+Apologies was muted. Uh, Madam
+Vice Chair and members of the
+committee, thanks for allowing
+me to testify in support of HB
+60. My name is Ben Winters,
+director of AI and privacy at
+the Consumer Federation of
+America. Algorithms increasingly
+mediate critical determinations
+for New Mexicans without
+transparency and with
+significant discrimination. HB
+60 would create common sense AI
+regulation to enable
+accountability and increasingly
+automated age with critical
+transparency provisions to allow
+people to hold entities
+accountable and create clear
+ground rules to allow consumer
+first innovation.
+flourish. I'll spend the rest of
+my time with a few brief replies
+from the support. Um, one, it's
+critical that safe harbors do
+not get added here.
+For example, insurance decisions
+have life changing impacts on
+people and discrimination made
+in that world can't get a free
+pass. The existing regulatory
+infrastructure should actually
+allow them to follow the rules
+more easily. 2, if an entity
+cannot explain their decisions,
+they should make that decision
+differently or figure out a way
+to be able to do it. It's not a
+free pass just because you can't
+do it. 3, generative AI is
+exempt from this bill, as the
+person in the first panel
+mentioned, but just wanted to
+flag that since it was mentioned
+again. And for the text is no
+longer identical identical to
+Colorado, as it said. It's
+stronger, a good thing.
+Uh, we have one final speaker,
+but I don't see your is it's
+Kara Williams.
+Can you hear me? Yes, go ahead.
+Thank you, Madam Vice Chair and
+members of the committee. My
+name is Kara Williams, and I'm a
+law fellow at the Electronic
+Privacy Information Center, an
+independent nonprofit focused on
+tech issues. I'm here today to
+urge a due pass on HB 60.
+Passing this bill would be a
+significant step toward
+protecting New Mexicans from
+opaque AI systems that are often
+biased or inaccurate. Companies
+across sectors use high-risk AI
+systems to make important
+decisions about our lives, such
+as whether we get a job or
+admission into a university. If
+we qualify for a mortgage or a
+loan.
+And how much we pay for rent or
+insurance. Right now, consumers
+and workers have no way to know
+whether companies use AI in
+making these decisions about
+them or how these decisions are
+made. HB 60 requires real
+transparency from companies
+about AI systems and gives
+important rights to New Mexicans
+who are subject to them. The
+harms of high risk AI systems
+are real. This bill would go a
+long way toward mitigating those
+risks, and Epic would urge you
+to support this legislation.
+Thank you for the opportunity to
+testify today, and I'm happy to
+answer any questions.
+Thank you, Kara. That concludes
+our um.
+Representative Hochman.
+Thank you very much, Madam
+Chair, and I'm just being clear,
+this is on the committee, my
+comments are just limited to the
+committee substitute.
+So thank you, Madam Chair, and
+Madam Chair, experts, so I see a
+couple of differences in
+definitions between the
+committee sub and the original
+bill, the first being the
+definition of developer. Can you
+kind of talk me through uh what
+the differences are in those two
+definitions and what led to.
+Yeah, Madam chair
+representative, one of the
+things we really wanted to do is
+make sure that the scope of the
+The party that was doing the
+development of the software was
+very clear. We felt it was
+important that we
+Clearly articulate that this was
+applicable to those developers
+who are doing business.
+OK
+Um, thanks, Madam Chair. Madam
+Chair. So, um, does that mean
+that this would only be
+applicable go or to developers
+in the state of New Mexico and
+other developers.
+Developing software that is
+deployed in the state of New
+Mexico is covered. Thank you,
+Madam Chair. That's Next, uh,
+Madam Chair, uh, we have a
+different definition for high
+risk artist.
+Um, and specifically the first
+bill, madam chair,
+Madam Cha included video games
+and.
+Yeah
+Madam representative.
+We went through the bill and
+basically took a look at it to
+make sure it made sense. For
+example, we can all pretty much
+agree that an AI powered
+calculator C. So we remove
+calculator from the list as a
+result. We did further analyze
+how these types of technologies
+might in fact propagate into
+existing platforms. So we wanted
+to make sure that we took a look
+at use cases in those areas
+where technology specifically
+was going to proliferate
+specifically if you take a look
+at the office platform that
+Microsoft puts out. You can see
+co-pilot making its way slow.
+but surely, we wanted to make
+sure that use cases that did not
+involve the AI capabilities that
+were slowly being added to those
+platforms were specifically
+excluded from any kind of
+regulation. So we took a look at
+the industry as a whole in
+partnership with uh with, with
+Chris and the folks that uh
+University of New Mexico, we
+discussed how perhaps these
+particular categories might in
+fact be modified the way that is
+more representative of what
+we're.
+typically seeing in the in the
+marketplace today.
+um, and lastly, there was a
+potential factor. Can you
+explain that to me?
+The definition, uh, again, Madam
+Chair Representative, the
+definition of substantial factor
+was in fact simplified because
+if you go back to the previous
+version, it was fairly
+Not specific. We wanted to go
+through the language and find
+something that would be much
+more easily understood and
+frankly applied.
+And
+We
+Felt that this particular
+Definition took the existing
+work that had been done both in
+Texas and in Virginia and in
+Colorado improved upon that
+language, and that's why we're
+putting it forward now is the
+solution that we feel best suits
+the need at this point.
+Thank you, Madam Chair. Thank
+you, Madam Chair. So how to
+define substantial.
+Thank you, Madam Chair. Thank
+you, Representative
+Representative Hall.
+Madam Chair, madam chair, an
+expert, um,
+I had a question about section
+13.
+It went in the old one, it said,
+uh.
+Enforcement State Department of
+Justice, consumer civil actions,
+we changed that over to
+Apartment
+Opportunity to
+pure
+Consumer civil actions.
+And then along those lines, um,
+on the um the new sub on page
+29.
+Line 89, and 10.
+That was added from the old one,
+the developer, deployer or other
+person reports the violation of
+the department, cures the
+violation within 7 days.
+Is there
+A reason for the 7 days or where
+did that?
+Beam.
+Well, um,
+Madam Chair and representative,
+the intent is to allow in um
+companies, but we want that cure
+to be prompt because remember,
+I'm madam, our high risk systems
+that are used, don't want to
+give 3 months or 6 months
+because it's impacts people's
+lives in such a significant.
+And Madam Chair and experts and
+and Madam Chair, um.
+That's
+Because in the land of and I'm
+kind of ignorant as you guys
+probably well know on on
+computers.
+They can turn this around
+because my understanding is most
+of this is, as the doctor, uh,
+eluded is not intentional, it's
+the way the system is set up. Am
+I interpreting that correctly,
+Madam Chair.
+Madam Chair and represent, I
+think it's fair to say that
+probably or biased, um, that's
+why we have this bill. We want
+people really focus.
+That's all I have on the
+substitute madam chair. Thank
+you.
+Thanks.
+Thank you, Madam Chair. I'm,
+I'm.
+I can usually understand a lot
+of this stuff, but I'm really
+struggling.
+So is this basically.
+vehicle to go after the.
+The developers
+If they misuse this information,
+Madam Chair and I wouldn't use
+the terminology go after. I, I
+view this and I I should
+emphasize it more, it's a it
+allows us all the sense, and it,
+it emphasizes that developers
+and deployers are responsible
+for ensuring that they show
+reasonable care in ensuring that
+the data that's um, so that's
+what the, it's transparency
+because we're letting people
+know that AI.
+and it also requires reporting
+on generally what kind of
+systems and it allows an
+enforcement act and does because
+you really not intended to
+pursue wrongdoing. It's really
+intended to get developers and
+deployers thinking about how to
+ensure that their systems are
+doing what they claim they do.
+You, Madam Chair, Madam Chair,
+so.
+When you say that everyone will
+get to black box. How are we
+going to do that? And I can get
+help from my, I'm trying to.
+It is by post, we require the
+developer to post on their web
+they developed and generally not
+trade secrets, but we require
+that for the deployer from the
+developer and the developer is
+required to provide information
+with the act.
+So how's the general public
+gonna know, Madam Chair.
+Madam Chair.
+all the players. Um
+Good question. Uh, madam, Madam
+Chair and representative when
+one is a customer, so this is
+one way they'll know when one's
+a customer, there will be a
+notice that has to pop up.
+That's part of the notice
+provisions too, saying you are
+using this AI so you want to
+follow up, you have the ability
+then to go look on the website
+of
+Thank you, Madam Chair, Madam
+Chair.
+For a lot of it, it does, but if
+I go to the doctor.
+How am I gonna be able to track?
+We go to the doctor's website.
+How am I gonna know
+We to look to see if my
+information is being
+represented. I can go ahead and
+take that question, you in that
+situation are.
+Going to, you're you're not the
+end user at that point.
+The person who's the end user is
+the physician, and the physician
+it's his responsibility to know
+whether or not the uh the system
+that he's being used or that is
+being used to render some kind
+of decision is in fact in AI
+system or not.
+So it's really not the consumer
+per se who needs to know that
+it's really the person who's
+using it and the person who's
+using it in this case would be
+the physician and not
+necessarily the consumer in this
+case.
+Thank you, Madam Chair.
+Madame Che
+It just seems to me that if I go
+to the doctor, that's my
+information.
+That's cool. I don't care if a
+dog, I don't care if he knows.
+What system he's using, I want
+to know.
+Because it's my.
+Yes
+I get you what you're saying.
+But, uh, Madam Chair, Madam
+Chair, I think it's just a.
+Understand the transparency.
+Just not sure.
+Just not sure that the way this
+is written.
+I'm gonna be
+My health understand right now
+that if I go on this,
+There's a good chance that I'm
+gonna get all kinds of ads or
+they'll get my blood tested.
+All of a sudden
+All these medications are coming
+up on my phone. I understand
+that and
+I do want to be able to fix
+that.
+If I go to the doctor, Madam
+Chair, Madam Chair.
+Since I'm not the end user.
+That's very important
+information.
+I'd like to see that fixed.
+Um
+I'm not sure how
+But I think that's, that's very
+key to getting a good clean.
+that I could say yes, um.
+You, Madam Chair, Madam Chair.
+Representative would love to
+talk to you just a little bit
+more to that topic because it
+does hit on this, this very
+important uh
+The the this important aspect.
+Of, of, of how do you treat
+privileged information in these
+situations and what you're
+talking about in in this
+particular situation is the
+protection of your data, which
+of course is super important,
+but you're not making the
+consequential decision. This
+bill is all about who is using
+this data to make with the data
+at hand.
+This would be the physician and
+not you. So it would be beholden
+onto the physician to be mindful
+of the technology that's being
+used, and to realize that, hey,
+there is this consequential
+decision that is being made. I'm
+utilizing it. I need to make
+sure that I understand how this
+AI that's helping me make this
+decision is in fact involved.
+A
+Hey
+Um
+What is the will of the
+committee? Are there is there
+any more discussion?
+On the go ahead.
+you, uh, Madam Chair, Madam
+Chair, um, addressing the
+concerns that the a lot of uh
+comments on that. Can you
+address that and why they're not
+exempt from this if they have
+that other protection in more
+detail, so I understand that
+better. Yes, madam chair and
+representative, and, and I tried
+to explain it to him on multiple
+occasions, um, yes, we recognize
+is heavily regulated, but they
+are not regulated by.
+And um I will say that I have
+spoken to the superintendent of
+insurance and she does not. She
+believed in representative that.
+Yes, there's a lot of reporting
+in terms of their technical
+requirements, but there's
+nothing that is comparable in
+terms of how they need to test
+their at they're adjusting for
+risk and so on.
+Thank you, Madam Chair, Mount,
+that was my only.
+anyone else.
+Is there any objection to
+adopting the kidney substance.
+We have an adopted.
+Any other
+Thank you, madam chair thank you
+ma'am, sure. um, so.
+And I'm sure what I do to help
+myself kind of summarize really.
+Huge and intense bills like this
+is just try and boil it down to
+the um.
+Correct me if I'm wrong, so this
+bill is about.
+Regulating.
+Um, predictive.
+Uses of predictive AI.
+Meaning
+AI decision.
+That will have consequences on
+somebody's life, is that I'm
+sure I'm not sure so.
+For those, for that.
+Specific context, this bill
+regulates instances in which
+people feel that the use of
+predictive AI has resulted in an
+unfair.
+Or biased results.
+Is that correct, Madam Chair and
+Representative, I think that's a
+fair statement as well.
+Thanks. And so, Madam Chair,
+Madam Chair,
+this bill requires the
+submission of.
+Well I count 3 different
+reports, so a report by the
+developer.
+Of the predictive AI technology,
+a report by the deployer.
+Of the predictive AI technology
+on a report that um is required
+once.
+Someone discovers that
+predictive AI has resulted in uh
+a biased or um.
+Let's just say a biased result.
+Here and representative I think
+that's correct as well. OK.
+So, um,
+Thank you, Madam Chair. Madam
+Chair, as it results, um, as it
+relates to
+The submission of these reports
+by the deployer.
+There's
+A lot of requirements in these
+reports, they have to be
+submitted annually and they, it
+looks like they have to be
+submitted once there is, let's
+say um.
+Uh
+Substantial change in the
+technology and what the
+technology is, um, utilizing or
+the information that technology
+is utilizing to make a decision,
+so my.
+question, Madam Chair, Madam
+Chair.
+As it relates to again, just the
+deployer reports.
+Now, let's say we're talking
+about a healthcare company.
+How do we know that a healthcare
+company, Madam chair, Madam
+Chair has.
+Access or the technical ability
+include and write this
+information in these reports, so
+they need to like hire an expert
+or how's that supposed to work?
+Madam chair representative.
+It is beholden upon any company
+that deploys a tool to
+understand how it works.
+What its upsides are, what its
+downsides are and the same
+reason that if a a technology
+that's not AI based has some
+known defect if you as a company
+make that product available to
+consumers.
+That's on you.
+And this bill is essentially
+trying to create a framework of
+responsibility of both the
+people who built the software
+and the people who put it into
+use for the, for the public's
+consumption, making sure that
+they understand what the
+responsibilities are and they
+take them seriously.
+Because of the important and
+significant downstream impact.
+That's why these reporting
+Uh, instructors are as stringent
+as they are to provide that
+level of transparency around
+these tools and to make sure
+those folks who are building the
+software, as I said, and our
+deploying it fully understand
+the the downstream implications
+of what they're doing.
+Thank you, Madam Chair.
+Thank you, Madam Chair, ma'am
+sure. So, um.
+Turning to the issue of, um, IP
+and protected IP.
+If you could, um, again, tell
+me, Madam Chair, Madam Chair,
+what the protections are in this
+bill.
+That, um, ensure.
+Against the disclosure of
+protected, um, Madam Chair and
+Representative, neither the
+deployer nor provide trade
+secret and through this bill.
+OK, thanks. Thank you, Madam,
+sure. So let's say we're talking
+about the black box, what an
+acceptable response by a report
+be something like, well, these
+are all the metrics we use in
+our black box, however, the
+specific algorithm we use is
+intellectually protected. That's
+an acceptable response.
+Chair and representative of very
+OK, thank you very much. Um, and
+last, Madam Chair, I'm sure I
+want to turn to the um private
+right of action as it exists in
+this bill, so um.
+Madam Chair, Madam Chair, the
+Attorney General, I'm sorry, the
+Department of Justice is in
+charge of enforcement for this
+bill, let's say we have the
+report of um.
+A risk assessment or something
+goes wrong and someone is is
+wrongfully denied benefits.
+What private right of action
+would that individual have.
+As it relates to the language in
+this bill.
+Madam Chair, I would refer to it
+as a limited private right of
+action. It's not one cannot
+collect damages, one can only
+enforce the act if it as it
+applies to them. So let's say um
+a a deployer refuses to correct
+misinformation.
+And, you know, the request is
+made, it's refused. I think
+eventually that person would
+have a private right of action
+to.
+For an injunct does provide for
+attorneys' fees, but it does not
+provide, Madam Chair, for
+damages. So I, I consider it as
+a fairly, you know, use of the
+private right of action, Madam
+Chair representative.
+Thank you man manager. So just
+to summarize as it pertains to
+this bill, let's say someone
+feels that they were unduly
+denied workers' compensation
+benefits based upon a predictive
+AI model, this bill would not
+allow them to sue the deployer
+who utilized that AI technology,
+um, for the damages they feel
+were caused by the um denial of
+those benefits.
+That's right, they would just be
+able to say please correct the
+information, Madam Chair,
+representative.
+Man.
+Yeah, go ahead out of.
+Thank you, Madam Chair. Madam
+Chair, experts, um, correct me
+if I'm wrong.
+It doesn't apply if the deployer
+employs fewer than 50 employees.
+Is that correct, Madam Chair,
+Madam Chair Representative, no,
+that's not correct. uh, what it,
+it does not apply if the
+application only involves, I
+think 50 users, 50 people, so,
+um, people who might be applying
+for a job, it could only apply,
+it would not, they'd have to.
+Adhere to this if it applies to
+more than efficient customers.
+OK.
+Not the number of employees for
+the company, but the number of
+people who might by the use of.
+Oh, OK. I think uh I think that
+makes sense. Thank you, thank
+you, Madam Chair.
+Thank you, Madam Chair, I'd like
+to move a do pass on the
+committee sub B 60.
+We have a motion for a due past.
+So I, I'd be happy to a do not
+pass. You pass motion. OK. So do
+not pass on the bill, do pass on
+the committee.
+Great.
+All right. Um, I just wanna, uh,
+thank the sponsor for this. I
+know we've been getting
+countless emails, um.
+In, in all of the wrestling,
+we're on a 0.6 version. I'll
+just remind the body that
+there's been a lot of iterative
+process with this, a lot of
+comments, a lot of feedback.
+We're trying to, um, you know,
+make it as solid as possible, so
+thank you to the, to the um
+chair for being so deliberative
+about it, um.
+And with that, we will go to a
+vote.
+Thank you, Madam Chair.
+Representative.
+Yes.
+Resent of a beta
+Representative Chavez.
+No.
+Representative Hall.
+I know, but with an explanation,
+please. Thank you.
+Representative Hochman V. Hill.
+Yes.
+Representative Martinez.
+Yes, and I'd like to.
+Speaker Martinez, yes.
+Representative McQueen. Yes.
+Representative Reeb. No.
+Leader Sapansky. Yes.
+Madam Vice Chair, yes.
+Madam Chair
+Madam Chair, you have a do not
+pass on House Bill 60, but I do
+pass on committee substitute 60.
+Yes, we'll start with
+Representative Hall.
+Thank you. This is
+That's, that's OK.
+Uh, I just, this, this is
+incredibly, uh, and I know how
+hard you worked on it and we
+heard it over the interim. I
+just, I didn't understand
+everything, so I just, I don't,
+I, this isn't complicated, but
+it's scary how intricate this
+is, so, um, that's all I wanted
+to say. Thank you.
+Thank you, Madam Chair, Madam
+Chair, I, I know how much.
+You, you, this has been a
+struggle.
+I've heard this
+True
+Intrus in a row
+Both times it's, it scared me.
+I think
+Once we start putting guard
+rails in, it's a little bit more
+manageable.
+I'm not sure that this bill, um,
+Go where I wanted to go, but I
+think it's, I think it's a
+decent start.
+I think
+One of those bills that it's
+gonna take.
+You hacks at it to get it right.
+But I do appreciate all the work
+and.
+I appreciate you talking to as
+many people as you have.
+Congrats you.
+Out through the shuffle, the
+We are on House Bill 178 nursing
+practice changes.
+Understand you all have an
+amendment, we'll get that passed
+out.
+Sure.
+Welcome, chair.
+Thank you, Madam Chair.
+Am I ready?
+We're ready. OK, thank you.
+Madam Chair, members of the
+committee, I'm pleased to
+introduce House Bill 178. The
+nursing practice Changes Act
+proposing changes to the nursing
+Practice Act. These changes aim
+to clarify the scope of practice
+at various categories. The bill
+also seeks to expand the
+authority of the state board of
+nursing, modify and streamline
+licensing processes and enhance,
+uh, the confidentiality uh
+disciplinary actions.
+The changes proposed in House
+Bill 178 are designed to resolve
+current challenges in the
+nursing practice, ensuring that
+nurses in New Mexico can operate
+within a clear defined scope of
+practice. This coupled with
+proposed expansion of the
+nursing nursing, um.
+Excuse me, expansion of the
+board of nursing oversight and
+regulatory Authority will help
+to ensure high quality patient
+outcomes, professional
+accountability and supportive
+systems of nursing in the state,
+um.
+We have an amendment which I
+think has been passed out, um,
+it is the number is.
+0.230938.1.
+And I would like to defer to my
+witness to um explain the
+amendment.
+Thank you. This is an amendment
+that was brought to our
+attention in the last committee,
+every section of every
+healthcare provider practice Act
+has a conversion therapy
+section, and in that section,
+sexual oriented mind. Well, in
+the 2023 session, the Human
+Rights Practice Act when we
+opened it up with the Human
+Rights Amendment.
+Thank you, Madam Chair, and with
+that, um, I also have Gloria
+Doherty, who is also uh one of
+our, our expert witnesses today
+and with that we stand for
+questions.
+This is what I propose we go to
+public comment and we can talk
+about the amendment and any
+questions people have about the
+amendment, adopt the amendment
+as appropriate and then.
+Talk about the bill. So those in
+the audience wishing to speak in
+opposition to the please step
+forward.
+I don't see anyone in
+opposition.
+Those online.
+those in the audience um wishing
+to speak in support, please um
+step forward, um, there's a
+gentleman who will have your
+comments to about a minute.
+my,
+um, Madam Chair and members
+representatives of the
+committee. I am Lisa leading.
+I'm a doctorly prepared
+registered nurse who has
+practiced nursing in New Mexico
+for 31 years, um, as a
+correctional nurse and currently
+in the emergency department and
+as a nursing instructor. The
+updates to the nurse Practice
+Act include clarification of
+registered nurses being able to
+administer medications, which we
+are specifically trained to do.
+Um, one of the biggest meds is
+the sedating meds which occurs
+during procedures when
+providers' hands are typically
+busy with reducing fractures,
+intubating, or placing chest
+tubes. These procedures occur
+daily in emergency departments
+across their states, and many
+hospitals are without a second
+provider to push medications
+while the other performs the
+procedures. Since we are
+specifically trained to
+administer these medications,
+this update clarifies nurse
+practice and makes safer care
+for both patients and nursing
+practice.
+Eric.
+Madam Chair, members of the
+committee, Jared Najar on behalf
+of the New Mexico Society of
+Anesthesiologists and also
+Loveless Health System. We think
+the sponsor and the experts for
+working with us and listening to
+our concerns and we strongly
+support this bill.
+Thank you. Anyone online wishing
+to speak and support, please
+raise your hand.
+Jason Bloomer.
+Jason
+afternoon, evening, madam chair,
+members of the committee. My
+name is Jason Blumer and I'm the
+vice president of the New Mexico
+Nurses Association. My clinical
+practice encompasses 11 years as
+a critical certified critical
+care nurse in New Mexico and in
+California. It is my belief that
+these changes to the nurse
+practice practice act with
+regards to the language on
+sedation aligns with state or is
+aligning state law with current
+evidence-based practice being
+utilized at the bedside. We
+currently use these classes of
+medications in the form of
+continuous drips and ongoing
+sedation.
+as such as procedural or
+moderate sedation interventions
+for invasive procedures.
+For example, utilizing moderate
+sedation during procedures where
+cameras, tubes, clips are
+inserted through the mouth in
+order to assess and intervene
+upon bleeding in the stomach or
+intestines. This is a very
+uncomfortable and potentially
+traumatizing intervention if
+performed while awake. Having a
+registered nurse manage these
+medications while a physician is
+intervening allows their focus
+to remain on the invasive
+intervention itself and allows
+the nurse to assist the
+physician in the
+in the way we normally do. I am
+the New Mexico Nurses
+Association stand in support of
+this bill as amended. Thank you.
+Anyone else wishing to speak and
+support online, please.
+I don't see anyway, um,
+sponsors, anything else? No,
+madam Chair, we stand for
+questions. Great. Thank you. So,
+um, discussion.
+S
+Anyone have questions about the
+amendment first.
+OK,
+I am happy to accept a most made
+by Speaker Marti Spansky.
+Um, any opposition to adopting
+the see any opposition, you have
+a an adopt.
+Questions, comments about the
+bill.
+Uh, Representative Martinez.
+Thank you, Madam Chair.
+Thank you
+Representative
+I
+I voted for this in.
+Oh, I'm just trying to figure
+out.
+Madam Chair
+Yeah.
+Yes
+In every single um health care
+practice.
+17 um section.
+disallowing.
+If, if you don't know if like
+that they're gay and they
+ologist or some healthcare
+professional or some not
+healthcare conversion therapy
+section 7.
+You may go to anyone you want.
+And so we had to make amendments
+in it to track with the existing
+law in the Human Rights Act,
+which defines.
+Thank you, Madam Chair.
+Thank you, Representative.
+I could go off.
+Um
+I just
+I just don't understand some
+laws, you know, what, 18, you
+can't.
+And talk to them until they're
+18.
+My procession here we passed
+Bill saying, if you're 12 years
+old, let's.
+Make life changing decision.
+It just seems kind of out of.
+It, it just bothers me.
+you know if we're gonna do
+something, let's be uniform
+about it.
+It's good for a 12 year old, and
+this is good for a 12 year old.
+If 18 is the line, then 18 is
+the line.
+Um, that's just my.
+Commons for the day.
+but I do appreciate you bringing
+this listen to the rest of the
+debate.
+Thank you Madam Chair. Thank
+you.
+Uh, representative Ramiro.
+I thank you, madam chair, I
+think you representative, thank
+you, experts, um.
+Going back to the uh what was
+just adopted in the amendment. I
+was surprised that we have.
+I mean, and this isn't your bill
+cause I think I understand the
+parts of your bill that you are
+actually updating, and I agree
+with.
+Um, but it is quite shocking to
+see um conversion therapy
+defined in law at all. Um.
+I would actually recommend just
+striking that section in its
+entirety, um, it's not
+scientific or um.
+I don't know why it's even in
+the statue. I don't, can you
+elaborate a little bit if, if at
+all, I just, I'm curious for
+this, um.
+Committee if, if that's
+something might be friendly.
+Um
+I mean
+Every health care Practice Act
+has doctors, like kind of
+therapy, they have in their act
+from therapy ban.
+This act, but it's still in
+every other healthcare
+practices. Oh, thank you, Madam
+Chair, I'm, I mean, it is.
+Just quite troubling to see the
+uh, what it is or what it isn't.
+When
+My understanding.
+Of the entire form of therapy is
+that it's, it's unscientific and
+it's um.
+Inappropriate for the practice
+of.
+nursing or what have you, um.
+And the allowance of us to
+continue to perpetuate any sort
+of definition means that we
+would make it legal,
+essentially.
+Um
+I
+So I, I would consider just
+removing
+Conversion therapy as a
+definition from lines 18 through
+on page 26, lines 18 through 25,
+um.
+All the way through lines on
+page 27 from 1 to 8. I don't
+know what that would compromise,
+however, as far as where else we
+use this definition, um.
+And then I know that it would
+mean your amendment is also
+stricken.
+Um
+Madam, conversion therapy is.
+And all this is saying is
+healthcare providers.
+If you do conversion therapy,
+you can do it on your boat.
+There's still gonna be all and
+if we remove it, then.
+Like the fact that they're gay
+and we don't think they should
+be gay, then they would be able
+to do that.
+That's why
+I, I hear you, madam chair, um,
+expert, I think it's just.
+Whether you're
+17 or 18 or.
+or
+or whatever.
+Again, my understanding is that
+this is not.
+I mean, it's sort of like.
+Back doctoring in a in a way of
+my understanding like it's it's
+allowing for something to
+persist that isn't actually.
+Scientific and so when we have
+it in the act, my understanding
+is that we would.
+Perpetuate something, whether as
+an adult that you may subject
+yourself to that is.
+Um,
+so I'm just concerned that if we
+continue to have that in our
+statute, we are allowing that
+practice, somebody, and I don't
+even know if it's covered by
+Medicaid. I don't know who's
+paying for this at the at this
+time as well, but if you are,
+you know, understand that you're
+gonna go get your palm red or
+your tarot red and there's some
+other things that we subject
+ourselves to that may.
+The financial transaction in
+nature, we don't see those
+definitions in law, whereas this
+is something that.
+In my opinion, is.
+Quite troubling to have
+allowable as, as a
+transactional.
+Um, basis for which we have um a
+medical practice provide um
+these services.
+Um
+I don't know if it, uh, I don't
+know what I'm recommending
+outside of the fact that.
+If it's here in another statue,
+and I know that's not, this
+isn't the substance of the bill.
+So I agree with the substance of
+the bill, and perhaps we just
+work on something that where we
+can, you know, sort of work
+through.
+Some sort of edit, um.
+I would love to work with the
+sponsor. And I'm just again
+troubled that we allow this.
+in in law, and I don't know if I
+have a recommendation.
+Otherwise.
+appreciate
+Express you express concerned. I
+don't hear emotion represent.
+Madam Chair, I was just gonna do
+an on that point, uh, cause I
+think you need. So just to add
+to the conversation, uh, Madam
+Chair.
+I think you need that section as
+unfortunate as it is because
+page 25 line.
+3
+Is actually where we say
+conversion therapy can't be used
+on.
+So it, um, it just strikes me
+that it might be a separate bill
+to just ban the practice um.
+anyone else with questions on
+the amended bill and I do so.
+OK, um,
+So on page 9,
+Allow um.
+And a registered nurse.
+To administer anesthetics.
+Um, or moderate sedation to
+anyone.
+I want to understand.
+So does that mean a nurse, not a
+anesthesiologist, doctor.
+can knock somebody out for 7
+hour surgery and.
+No
+OK, so explain to me what what
+this nurse is now registered
+nurse is now given authority to
+do in this act cuz this is new.
+Madam Chair, members of this
+committee, actually this is not
+new. This has been in practice
+for over 2 decades and know a
+registered nurse cannot
+administer medication that would
+keep a patient out for surgery
+for 7 hours, that is reserved
+for a CRNA certified registered
+nurse anesthetist in this bill.
+What this bill does is to put
+definitions of sedation to make
+sure nurses don't do that. In
+fact, they are doing up through
+moderate sedation, which the
+definition is in there. That
+includes when you go for your
+colonoscopy when your child
+breaks their leg and their leg
+needs to be reset when I have to
+put a chest tube in somebody.
+Um, I practice in critical care,
+and I have to use this on a more
+than daily basis, both in the
+emergency room and in critical.
+care as a provider. I order the
+medications for the nurses to
+administer.
+As does, as do physicians in the
+emergency department.
+Um, if this has been in practice
+for 20 years, why are presumably
+it was authorized, Madam Chair,
+members of the committee, this
+is.
+Has anything in medicine,
+basically emerging to the need
+where it needed to be put in
+statute to separate out the
+different types of sedation to
+make sure our patients were safe
+and to make sure we had a public
+safety mechanism in place where
+we know nurses are being trained
+appropriately to give these
+medications and that there is an
+airway specialist immediately
+available as defined in the
+rules that have been
+promulgated.
+And Madam Chair, it wasn't in
+the statute. They promulgated
+rules to say you're doing this,
+you've been doing it, but now
+there are more sophisticated
+drugs and is expanded the
+training that only when ordered
+by a physician or another
+provider. They can never give
+drugs on their own. They can
+never inject on their own. They
+have to.
+have an order.
+And we clarified that in the
+bill saying an order by a
+physician writer. OK.
+Um, my question to answer.
+Anyone else?
+I
+Do pass motion on House Bill 1
+said by Representative Romero
+and seconded by Representative
+Hall, would you call the roll,
+please?
+Yes, thank you, Madam Chair.
+Representative of Beta.
+Representative Chavis. Yes.
+Representative Hall.
+Yes.
+Representative Hochman V. Hill.
+Yes.
+Representative Martinez.
+Yes.
+Speaker Martinez, yes.
+Representative McQueen.
+Yes.
+Representative Reeb.
+Yes.
+Leader Sapansky.
+Madam Vice Chair.
+Madam Chair
+Yes.
+Madam Chair, you have a you pass
+on has 178 is twice amended.
+Madam Chair and thank you to the
+committee.
+We are now on House Bill.
+169.
+Public expression Protection
+Act.
+So my recollection is that we.
+Um, discuss the bill.
+We had public comment, but we
+didn't fully discuss the bill,
+we didn't have time to ask
+questions and so on, so we're
+gonna go to where we left off,
+which I believe is committee
+discussion and questioning, is
+that your recollection, vice
+chair? That's, and we had moved
+the committee. So are we handing
+out the sub again, just because
+we're really bad about carrying
+our paper everywhere we go.
+And
+I think it was a sub that was
+introduced on.
+No, just the same stuff. Yes.
+It it was a 0.2. It's a 0.2 6
+8.2.
+OK.
+Very good.
+So, um, and remind me, did we
+adopt this? Well, no, we
+wouldn't, we'd have to have one
+of those weird motions, so, um,
+long weird motions.
+So open to conversation or
+discussion about the committee
+sub which was moved for
+discussion.
+I asked for an allowance to
+reintroduce.
+Ourselves, feel free, OK. Um,
+um, Madam Chair, uh, with me is
+Karen Myers. Um, we again are
+looking at a piece of
+legislation which enacts act,
+um.
+This has been across uh 35
+various form. The last time we
+update, it's time for an
+upgrade, um, the last time we
+checked the institutes, um, and
+this would get us back to, um,
+but really the, I'm, I'm sure if
+you've heard about anti-slap or
+slap legislation, um.
+But, uh, essentially this uh
+prevents and uh sorry, excuse
+me, protections for strategic
+lawsuits against what's before
+us. We've had bipartisan support
+in other states. The last one
+most recently was Ohio, which we
+did, um, and that was the
+thirty-fifth state. Madam Chair,
+um.
+You may have.
+Members happy to take names.
+questions.
+Representative Martinez.
+Madam Chair, um.
+What are we trying to do here?
+A chair Representative Martinez.
+Well, we're trying to do is
+provide a statutory remedy when
+Um, someone is speaking out.
+Attending a protest, coming to
+testify before you or other free
+speech protected activities.
+That they aren't sued because
+someone else did historically
+what's happened is slap suits
+are used to strategically to
+intimidate people from from
+expressing their opinions or
+from testifying.
+And this says that should that
+happen in your suit for for
+exercising your First Amendment
+rights. It provides a statutory
+remedy to allow the court to
+have an expedited procedure to
+review whether or not your
+activities were indeed and then
+dismissed the lawsuit before the
+person or the uh the
+association, for example, has to
+undergo very expensive, costly
+and time consuming litigation.
+Oh
+The the the the
+Free speech doesn't have to be
+true.
+Madam chair.
+Free speech
+Doesn't have to be true as long
+as it's subject to First
+Amendment.
+That isn't the, that isn't what
+this is addressing. What it's
+addressing, Madam Chair and
+Representative Martinez is
+assuring that a court has a
+mechanism to determine whether
+or not this is.
+Thank you Madam chair, um,
+Representative
+Wasn't this fixed?
+Nationally
+The New York Times versus
+Sullivan.
+Madam Chair Representative
+Martinez, this raises other
+issues and provides the states,
+um, which is critical at this
+time to assure that state courts
+have a Thank you, Madam Chair
+Representative, so does this
+expand the protections of the
+Sullivan case,
+it provides different remedies
+and Sullivan, I believe, and I'm
+not.
+An expert on Sullivan. I, I
+believe primarily applies to
+journalists. This also applies.
+To you.
+Speaking out in your public capa
+in your opinion at going to a
+protest, for example, or writing
+a letter to the editor or me
+coming to testify this body.
+That I couldn't be sued because
+I participated in those
+activities or I, but it would
+provide the court a mechanism to
+determine that if I was
+exercising my First Amendment
+rights that I
+would have an opportunity.
+Thank you, Madam Chair. Thank
+you.
+Madam Chair
+Representative and expert so.
+And I know how you and I, this
+may have been asked and the
+answer, but I'm gonna try a
+different format if that's OK.
+Does this allow someone to
+knowingly make false.
+Statements
+Just to slander someone.
+Not that that would ever happen
+in our country, but just, just
+in case, Madam Chair.
+Madam Chair Representative Hall,
+it doesn't allow that, no, and
+it's not what the.
+So
+not to beat a dead horse of
+Madame chair, I'm sorry, Madam
+Chair Representative, does this
+just
+This is actually to prevent.
+Being hit with frivolous
+lawsuits over something you
+said, that's basically what this
+comes out to, uh, representative
+expert Madam Chair,
+that's correct. For if I can
+give you a couple of examples,
+um.
+For example, slap suits have
+been used, um, to companies
+who've been criticized by a
+journalist.
+To sue the journalist for
+criticizing them.
+Uh, this would cover that.
+to seek a procedure to have that
+dismissed.
+There are other many examples,
+but for the sake of time.
+Thank you, Madam Cha.
+Speaker Martinez. Thank you,
+ma'am, just a couple of points.
+Uh, the first one is just
+reading the.
+I think it was section 2.
+Findings and purpose, that's
+pretty unique, um, in terms of
+that sort of construction. Can
+you expand a little bit as to
+Yes, um, Madam Chair, Speaker
+Martinez, um, the prior
+substitute that is not before
+you did not have that.
+Um, in researching the existing
+law and there is existing New
+Mexico law, but it's much, much
+narrower. It just covers people
+who are testifying in a quasi-ju
+committee or before an
+administrative agency, um, in
+the cases that um are on record
+in both the Supreme Court. They
+actually looked very carefully
+in determining the the issues on
+that appeal to the purpose.
+So the existing law, which is
+similar to this but it's been
+cleaned up and expanded the
+proposed bill.
+Um, but because the Supreme
+Court and the Court of Appeals
+relied on that. Thank you, Madam
+Chair.
+Um, expert and Representative
+Romero.
+Um
+Let me walk through just a
+couple of hypotheticals, so.
+This would provide some
+protection, say to.
+Folks
+I don't know, an oil and gas
+company.
+Ma
+This would also provide
+protection, say, to a group of
+neo-Nazis protesting.
+Madam chair thank you.
+Any other questions, abortion
+provider.
+Madam, yes.
+and do not pass on.
+House
+6916 but I do pass on judiciary
+Committee substitute for our
+Yes, thank you, Madam Chair.
+Representative Abeta.
+Representative Chavis.
+Yes.
+Representative Hall.
+Yes
+Representative Hoffman v. Hill.
+Yes.
+Representative Martinez.
+Speaker Martinez, yes.
+Representative McQueen.
+Yes.
+Representative Reeb.
+Yes.
+Leader Sapansky. Yes.
+Representative Martinez.
+Yes.
+Madam Vice Chair.
+Madam Chair, yes.
+Madam Chair, you have a do not
+pass on House Bill 169, but I do
+pass on.
+House Judiciary Committee
+substitute 169. Thank you, thank
+you, uh, vice chair.
+Um, next item on our agenda is.
+Follow up discussion on House
+Bill one protect reporters from
+exploitive spying.
+Thank you
+Thank you, chair.
+Yes, for the additional time.
+Absolutely, we're handing out
+the.
+Oh final committee sub.
+Um, so let's get that handed
+out, we can.
+A representative to someone want
+to move?
+For discussion.
+90, 85. Right, we have.
+The sub before us representative
+do you want to speak to what it
+all involves. Sure. OK. So how
+Bill 153, um, basically updates
+New Mexico's press shield law
+from 1973.
+Um, and for reference in 1973,
+the top song was Tie a Yellow
+ribbon around the old oak tree,
+and the top movie was The
+Exorcist.
+Um, and so, and I, and I was
+just a glimmer in my father's
+eye.
+So, um.
+So this law would update the
+press shield from 1973 would
+update definitions for what a
+journalist is and for, um,
+different modes of communication
+for a journalist, um, including
+internet, email, uh, text
+messaging, cell phones, that
+sort of thing, uh, and, uh, and
+then strengthens the press
+shield to update for how
+journalism is done today.
+Um, and the amendments that were
+added, uh, bring the, bring in
+line some of the words and
+phrases that New Mexico courts
+uses, so from serious bodily
+harm to great bodily harm, for
+example, um, and we were just
+getting much more feedback from
+the state Supreme Court. We met
+with the general counsel of the
+Supreme Court to get their
+feedback on this. And so, um,
+the second version of Amendments
+includes some of their feedback
+that tightens up that language,
+um.
+it relates to Ammerman. Um, I
+want to introduce, um, also my
+expert witness, Mr. Charles
+Purcell, um, who also there's
+anything you want to add, Mr.
+Purcell, if not.
+So we already took public
+comment on Saturday, so we're
+not gonna do that. Um, let's go,
+sorry, we did not did not. OK,
+my apologies. All right, so
+let's go um out to the public,
+those wishing in the audience to
+speak in opposition to the bill,
+please approach the gentleman
+with a microphone.
+Don't see anyone.
+Those online wishing to speak in
+opposition, please raise your
+hand.
+Don't see anyone.
+Those in the audience wishing to
+speak in support.
+Um, please approach the
+gentleman in the audience out
+there here.
+Please stand up and
+Afternoon, Madam Chair and
+members of the committee,
+Tatiana Prieto with the ACLU of
+New Mexico, and we are in strong
+support of HB 153, which is
+essential to protecting press
+freedom and ensuring journalists
+can do their jobs without fear
+of retaliation. A free press is
+the backbone of democracy,
+serving as both an information
+source for the public and a
+crucial government watchdog.
+When reporters are forced to
+reveal confidential sources or
+are subjected to government
+surveillance, it undermines
+their ability to
+power accountable. HB 153 would
+create important protections,
+reinforcing the First
+Amendment's promise of a free
+and independent press, and we
+urged the committee to support
+this bill. Thank you. Anyone
+else in the audience wishing to
+speak say that anyone online
+wishing to speak.
+In support move for discussion,
+the sub that's before us.
+Madam Chair, thank you.
+Um, in looking through this
+defines.
+Pardon me, I didn't
+Representative expert, I
+apologize. It's been a long day.
+Um, it defines
+Broadly
+The press corps, so to speak.
+Is that include, um,
+People who just show up with
+their cell phone and blog or
+Uh, just kind of.
+Were there a random journalist,
+uh, this morning I
+Happened to witness someone in
+the halls here and they had no
+journalism.
+Credentials, but they said they
+were a journalist and so it
+brought an interesting
+conversation among.
+Our security and I kind of came
+to mind in this bill if that if
+that makes sense, Madam Jerry.
+So, uh, Madam Chair
+Representative, uh, yes, it
+would expand the definition of a
+journalist, um, to include, uh,
+nonprofit journalists, which the
+current 1973 law does not
+include, uh, it, it would
+include someone who's a
+freelance journalist, uh,
+someone who is a blogger, um, or
+does other mediums of journalism
+online, um, and the definition
+does include, um,
+For it to have a, you know, a
+person who regularly gathers,
+prepares, collects photographs,
+records, writes, edits, reports
+and investigates or publishes
+news or information that
+concerns local, national or
+international events, etc. So,
+and that's on page one, line 2.
+And then Mr. Madam Chair and
+Representative Hall, yes, that's
+exactly correct and it does, it
+addresses.
+A perceived bias in favor of the
+mainstream media that the
+existing statute.
+Has, um, it allows for
+protection of amateur.
+Journalists, as long as they
+blog, for example, regularly. It
+is not a
+It is not intended to protect
+people who blog occasionally, of
+course.
+courts are going to have to
+Flesh that out over time.
+But, um, but it does, as we've
+said in a in a different
+committee, it, it requires a
+seriousness of purpose, but it
+doesn't require that the blogger
+or the journalist be paid.
+Thank you, Madam Chair. So,
+That helps clear up quite a bit
+and the regular would be left to
+the courts when you said
+regularly does this.
+Um, and I
+your efforts because the press
+has certainly
+changes from the old days of
+having a press cards stuck in
+your shirt and carrying a camera
+with flash bulbs, which
+1973, I remember.
+Um,
+so, as, as regular.
+That takes away some of the uh
+randomness.
+That I think would be some
+concerns of this bill. Is that a
+safe way of, of, of saying that,
+Madam Chair.
+Madam Chair Representative Hall,
+I think so.
+Uh, I, I'd like to think so in
+any event. Um, it, it, it
+broadens the definition
+substantially, but there is
+still that control that someone
+has to be
+In this business, whether for
+pay.
+Madam Chair, um.
+We had the other day because we
+didn't have all this put
+together representative expert
+witness. I had asked several
+questions about.
+Witness to a crime and and
+looking at uh page 7.
+Uh, line 5.
+This, this, I think answers my
+question, but it delineates.
+That they're not protected if
+they're a witness to a crime
+unrelated to engaging in their
+journalism, such as I had given
+you an example. There's a crime
+that goes behind a journalist.
+They have their
+Phone or whatever they're using
+for their media.
+That
+They're not protected in that
+point, they would have to give
+over their media to law
+enforcement if that became an
+issue, is that correct?
+Madam Chair Representative Hall,
+I am not sure that that is
+correct. What, what I think this
+is getting at is the journalist
+who is off duty as a journalist,
+uh, is it, for example, um,
+driving down the street and and
+seize an assault, um, that, that
+person is certainly not.
+Engaged in journalism. The
+person who is at a public
+protest, for example, and is
+covering that protest.
+Um, even if something takes
+place.
+That that this journalist is not
+interested in something that
+takes place not quite.
+In his line of sight.
+he's still going to be engaged
+in journalization and so this
+bill probably.
+Would protect.
+Um
+His, his sources.
+So Adam Chan, so that's, that's
+where we would have to like we
+discussed last week, go through
+the legal process of
+Uh, because we discussed the
+difference between admin
+subpoenas and warrants and
+stuff. This is where we probably
+have to go to the courts.
+And see if he would give it up
+depending on the.
+case, is that correct?
+Yes, Madam Chair, Representative
+Hall, I'm, uh, thank you for
+bringing up the distinction
+between warrants and subpoenas
+and I
+After we had our Saturday
+session. I did want to go back
+to clarify in my own mind the
+difference between those and
+state law is very clear that a
+warrant must always be issued by
+a judicial officer, and there is
+no statute.
+That entitles an administrative
+agency.
+To issue its own warrant. The
+Fourth Amendment to the United
+States Constitution, Section 10
+of the New Mexico Bill of
+Rights.
+They both require
+That warrant be issued by a
+judicial officer and this bill
+does not address what a court
+can do.
+Or should do
+and the United States Supreme
+Court has said
+Administrative subpoenas.
+Not the same thing as once.
+Um, Madam Chair, thank you.
+Representative Martinez.
+Thank you, Madam Chair
+Representative, um.
+On your definition, going back
+to.
+Discover somebody that posts
+regularly.
+Madam Chair Representative
+Martinez, I believe it would.
+Madam, that opens it up to.
+Almost anybody.
+Understand what
+This opens it up to everybody. I
+post.
+But I would consider regularly
+to Instagram.
+I don't know that I post.
+Stuff that's going on in the
+show.
+And my
+Madam Chair Representative
+Martinez.
+I, I think the term journalist.
+In the first place has a fairly
+well understood meaning.
+It's, it's not someone who does
+journalism as a sidelight. It is
+someone who
+Performs it regularly and I
+understand that uh
+Representative, you post
+regularly.
+But I don't think anyone would
+call you a journalist.
+Under the common understanding
+of that, that term.
+But, and even though you could
+say that I that you fit within
+that statutory definition or the
+the bill's definition.
+Um
+I don't think that a court would
+classify you as a journalist
+under those circumstances, but
+it it certainly does.
+Broaden
+the protections that that is
+undeniable.
+But I regularly gather.
+Repair
+It is
+Publish
+Journalist
+Whether I get paid for it or
+not.
+I post stuff that goes on.
+You know, the fire department's
+hiring somebody, the fire
+department promoted this
+department, did this, there's
+this out going on.
+I'm gathering and then I'm
+publishing it.
+Under this definition.
+What I'm saying is,
+I think the definition.
+Unnecessarily broad. I
+understand.
+For me, I think that definition.
+Used to be tighten just a little
+bit.
+I'm not saying narrow it down to
+some works for a television.
+Because these days everybody has
+a blog.
+Some of them I think are good.
+Um
+others are
+You know, whatever
+Madam Chair, Representative, um,
+I appreciate that perspective
+and um, someone like you or me
+or like.
+Last Facebook page in Las
+Cruces. Um, isn't necessarily
+quoting unnamed sources.
+And this piece of legislation
+applies to people who are
+journalists who might be um
+Might have to use an unnamed
+source after going through a
+rigorous set of practices in
+their craft to to find the
+source that is named, um, there
+are, I think, significant
+rigorous things a journalist
+goes through to try not to have
+a name we want to and this bill
+aims to protect those unnamed
+sources. Um, so for instance, if
+there's a whistleblower at a
+state agency that has done an
+interview with a local radio
+station, um.
+Or even a nonprofit journalism
+outfit. And that state agency
+might get upset that there is a
+whistleblower.
+Um, they will use the interview
+that was published, but they
+might also want to subpoena all
+the notes and all the documents
+of that journalist to see what
+else that whistleblower might
+have said or not said.
+That's what we're trying to
+protect in in this legislation.
+Um, and we're trying to also
+protect the mediums of
+communication, because right now
+if a journalist collects that on
+the typewriter or a word
+processor that's protected, um,
+but on their phone or on their
+computer.
+Thank you, Madam Chair
+Representative, like I said, uh.
+I understand the idea.
+I'm just
+I'm just stuck on the
+Extremely broad definition,
+Madam Chair representative.
+uh, thank you, Madam Chair and
+representative and expert um.
+I will say, um, after
+representative Martinez and in
+the broadness of that
+definition, but I'm back to the
+search warrant issue, um, as I
+was on Saturday, so if if this
+won't, could we add some
+language in there that simply
+just says nothing in this act,
+that would make me feel a lot
+better, um, something you
+consider um as a friendly
+amendment or not.
+I, I mean, I, I am not the, the,
+the principal drafts excuse me,
+Madam Chair.
+Um, and representative. I'm not
+the principal draftsperson of
+this of this bill. I personally
+would consider it a friendly
+amendment.
+I don't think it's a necessary
+amendment, but if it is required
+to make.
+people comfortable with the
+bill. I, I see no.
+and um representative and
+expert, I appreciate that I make
+myself law enforcement people
+like that a lot more comfortable
+with the concern I have, um,
+but.
+Um, if that language was in
+there.
+And also addressing the issue
+with a little more succinct um.
+That I could probably support
+this. Thank you.
+Manage
+I, I apologize, I stepped out
+for a second, was a motion
+articulated? No, OK.
+I see. All right.
+All right, um.
+And oh, Representative Chavez.
+Thank you, Madam Chair. Thank
+you, Representative. I was just
+gonna echo what Representative
+Ree said, just going back to,
+say, a journalist who's filming
+protesters attacking the police.
+What's going to compel them to
+hand over the video. I think the
+same thing about anti-government
+YouTuber, maybe antagonizing
+government agencies, videoing
+them and then posting about it,
+um.
+What's going to make them turn
+that over.
+Um, Madam Chair, Representative,
+um, this bill does not cover
+inflammatory language or a
+libel, um, or any of those
+things, so this is simply about
+what happens when a journalist
+has an unnamed source, um, that
+a state agency, so either the
+legislative branch or the
+executive branch is seeking to
+To name
+Um, or to also get all of
+The evidence that they might
+have all the notes and
+recordings and have it be so
+broad.
+Um, that then they're now
+reaching into other searching,
+um, and so, so that's what this
+bill speaks to, it doesn't speak
+to, um, journalists position on
+anything, um, or the issues that
+they're working on and or liable
+in any way.
+Um, and so, so that's, that's
+the scope of, of, um, and then I
+also just want to add that to
+Representative Reeb's point, um.
+I, I don't believe that that
+additional language is necessary
+because out of the 54 or so, uh,
+state agencies, departments,
+commissions, boards, they're
+over 54 that have subpoena power
+in the state of New Mexico.
+Out of all of them, none of them
+have search warrant
+capabilities. So, um, so I feel
+like that language might be um
+extra, and I don't wanna also
+tell the judicial branch what
+they are.
+Anyone else?
+I'm sure I'd like to move a do
+not pass on house go 153 and I
+do pass on.
+Is there a second? OK, we have a
+motion for a do not pass on
+House Bill 153, but I do pass on
+House Judiciary Committee
+substitute for House Bill One.
+53, would you call the roll,
+please? Yes, thank you, Madam
+Chair.
+Representative of Beta.
+Yes.
+Representative Chavis. No.
+Representative Hall.
+No.
+Representative Hoffman V. Hill.
+Yes.
+Representative Martinez.
+No.
+Speaker Martinez, yes.
+Representative McQueen.
+Yes
+Representative Reeb.
+No.
+Leader Sapansky, yes.
+Madam Vice Chair, yes.
+Madam Chair, yes.
+Madam Chair, you have a do not
+pass on House Bill 153, but I do
+pass on House Judiciary
+Committee substitute for 153.
+Thank you, Representative. Thank
+you, Mr. Purcell. Thank you.
+Thank you.
+Right. Next up.
+House Bill 73.
+OK.
+Welcome, Representative Ana. I
+know there's a committee sub.
+Well, let's have that passed
+out. That would be great. Thank
+you, Madam Chair.
+And if you'll have it in front
+of you, it should be version and
+there was shown a little bit
+earlier, uh, whether or not the
+amendments applied to the
+committee.
+Very good. Um.
+Let's get the sub passed out
+before but for discussion.
+All right. I, I'm happy to
+discussion.
+All right, um
+Represent
+Madam Chair and. Is your mic on?
+Yes, it is. I'll get a little
+bit closer. OK.
+Um, Madam Chair committee
+members, um, it repeals the
+civil statute of limitations for
+childhood sexual assault. Very,
+very specifically.
+Um, it also adds a retroactive
+piece, uh, with the exception of
+pending litigation.
+Um, currently our statute of
+limitations for uh on the 3
+years or um someone's 24th
+birthday.
+Um, I also want to outline,
+Madam Chair and committee does
+not cover.
+And not cover our general
+statute of limitations for the
+state of New Mexico.
+It does not cover, which would
+be governmental entity, um
+entities within the New Mexico
+Civil Rights Act, which are also
+governmental entities. So,
+essentially this bill does cover
+private entities, uh, throughout
+the years, which would be the
+boys and girls club, um, the
+Catholic Church and and so just
+so we can get in uh the right
+frame for this particular bill.
+That is what it covers and
+Narrow
+limitations
+A very narrow section of law,
+specifically for childhood
+sexual assault. Um, Madam Chair,
+committee members, I have 2
+experts with me today. I who uh
+litigates in this particular uh
+section of law often, and I also
+have uh Alexandria Taylor. She
+is the executive director of the
+New Mexico Coalition of sexual
+assault programs. Last, Madam
+Chair, I just want to
+acknowledge, um, we do have some
+of our survivors in the audience
+as well, um, so thank you, Madam
+Chair.
+Many members and we stand for
+questions. Thank you.
+Those in the audience wishing to
+speak in a bill, please.
+Stand up and approach the
+gentleman who will be coming
+forward with a microphone.
+This is opposition.
+share my time limit.
+On it
+Um, Madam Chair, members of the
+committee, my name's Marty
+Esquivel. I'm a general counsel
+for the New Mexico Public
+Schools Insurance Authority. I'd
+like to begin by uh.
+Conveying how important this
+issue is, and we recognize the
+duty we have to protect children
+in our public schools.
+Additionally, I'd like to thank
+the sponsor for attempting to
+work with us on this bill, um,
+she's listening to our concerns,
+and, but, however, we still have
+two major concerns, and I have
+very limited time, so I'll say.
+That I, I, I think because of
+the enormous financial exposure
+to public schools and to our
+public funds. It comes down to
+two issues. So the first issue
+is,
+Should you have a statute of
+limitations with a clear
+exclusionary language precluding
+claims against the public
+schools and public employees, or
+I think as we have here.
+Um, an unclear statute without
+clear exclusionary language that
+could run the risk of public
+exposure. I think the problem
+with the proposed substitute is
+a private individual.
+Abortion is not really
+identified, it opens up problems
+in terms of how that's going to
+be identified. And I think the
+simple solution I would offer is
+if there's clear exclusionary
+language that would address the
+issue. Thank you. Thank you.
+Anyone else wishing to speak in
+opposition and if you're gonna
+be speaking, could you just come
+up before um.
+You know, form a line, please.
+Yeah
+I, uh, my name is Bridie
+Ferrell. I'm the founder of
+America Loves Kids, which is a
+nonprofit organization that
+works to
+As statute of limitation bills
+across the United States. I'm
+also a survivor of childhood
+sexual abuse, um, and I'm a suit
+against my abuser all the way up
+to the United States Olympic
+Committee. My issue with this
+bill specifically is it exempts
+specific organizations, which we
+have child sexual abuse in every
+organization from,
+unfortunately, our schools to
+our pool decks or our ice rinks,
+or synagogues, to our own homes.
+And so I think that we need to
+have a bill that doesn't exclude
+any survivor that's sitting in
+this audience or in our
+classrooms.
+Or anywhere else throughout the
+state of New Mexico. So thanks
+for giving me this opportunity,
+and I'd love to work with anyone
+on this. Anyone else?
+In opposition.
+All right, let's go online. This
+is an opposition, Carrie Silver.
+Good afternoon, members of the
+committee. Um, my name is Carrie
+Silverman. I'm here on behalf of
+the American Tot Reform
+Association. Thank you for the
+opportunity to testify, Madam
+Chair. We have 3 concerns with
+the bill is introduced. First is
+the precedented sets by
+completely eliminating a statute
+of limitations there and a key
+part of a properly functioning
+civil justice system, they allow
+judges and juries to evaluate
+liability when evidence is
+available. If the committee
+feels a longer period is needed
+to file a
+sexual abuse lawsuit, it can
+extend that period, but the bill
+before you doesn't extend it, it
+eliminates it. It would allow
+attorneys to file lawsuits
+regardless of whether what
+occurred happened in 2025 or
+1955. Never before has it's been
+done in New Mexico. Our second
+concern is the bill's
+retroactive application. These
+lawsuits uh revived claims to be
+filed against nonprofits,
+business, schools, alleging they
+should have or could have done
+something more decades ago that
+might have prevented abuse. Um.
+Organizations are going to be
+unable to respond with the
+perpetrator dead, the employees
+and the records.
+Thank you.
+Those in the audience wishing to
+speak in support, please line
+up.
+I'm going to limit it to 5
+people.
+So you sort yourself out in
+terms of order.
+One minute each, madam chair and
+members of the committee. My
+name is Andy Costellano. Thank
+you for the opportunity to speak
+for you tonight, uh, in 1987 and
+1988, I attended the Albuquerque
+Old Town Boys and Girls Club
+after school and during the
+summer for their youth programs.
+I was 12 years old and 13 years
+old during that time. I was one
+of many boys who was sexually
+abused by the director of the
+Boys Club during that time. In
+the year 2000 when I was 25
+years old, the memories of my
+sexual abuse start to flood my
+mind.
+And my dreams while I slept. I
+was embarrassed that I had been
+sexually molested and I tried to
+drown my bad memories of
+alcohol.
+In 2003, I was 28 years old and
+I had just been arrested for my
+2nd DWI in 3 years.
+In 2003, I finally told my mom
+about the sexual abuse I endured
+when I was a child.
+My mom immediately helped me
+find a therapist to begin
+healing and an attorney to seek
+justice. The attorney asked me
+to find other victims to
+corroborate my story.
+Um, 2003 because social media
+didn't exist, I couldn't find
+anybody.
+I decided to give up my seeking
+justice in 2003.
+Madam Chairman, members of the
+committee, I am the mother of
+Andy Costellano, and I'm here
+today as a mother, as a parent,
+and um
+This doesn't just affect the
+child, this affects.
+The parents, the family, and um
+I am here to to
+Humbly ask for you to pass this
+legislation. My son has, we have
+been.
+Dealing with this for 23 years.
+Uh, and my motto is never should
+never ever hurt a child.
+Um
+Because of the time limit, I
+can't even tell you the, the,
+the trauma that we have both
+been through and and still
+dealing with as a a parent and a
+grandparent, I'm terrified that
+there are all these predators
+that are still out there and
+because the law doesn't allow
+for someone to come forward
+after a period of time.
+They're still doing it. And I
+beg you, I asked you humbly ask
+you, please pass this
+legislation.
+Thank you.
+Good evening, Madam Chair,
+members of the committee. My
+name is Lex Garcia.
+come to you today as a survivor
+of sexual child abuse and
+exploitation for 2 years at
+almost a daily cadence, my
+teacher raped me. He convinced
+me that the ticket out of
+generational poverty would be an
+education and that the price for
+this education was access to my
+body, my innocence, and being
+robbed of my childhood.
+Make no mistake, I did report
+this abuse. I've reported it to
+the school district, the police,
+and PED. I made every effort to
+seek justice and accountability
+that was available to me, but it
+was too late. My time to report
+had ran out.
+I didn't process this trauma
+fast enough for it to matter in
+the eyes of the law.
+Since my since my reporting, my
+abuser has now founded an
+operates charter schools in our
+state and outside of our state.
+Today he's still entrusted with
+young children. I stand in
+strong support of HB 73 and the
+accountability that it brings to
+private entities, and I would
+consider it a victory to see
+this legislation passed, but I'm
+begging you to reflect on who it
+leaves out. Why, why are those
+of us who suffered abuse in
+public sector less worthy of
+justice before you stands an
+adult, but I'm asking you to see
+the little girl who needed
+protecting and deserves to seek
+justice for the harm done to her
+no matter what entity.
+Thank you.
+Sheriff Representatives. My name
+is Isa Viennarajo. I'm here on
+behalf of Equality New Mexico,
+and we stand here in strong
+support of HB 73. As a victim
+myself of childhood sexual
+abuse, I understand the intense
+internal struggle of knowing
+something awful happened to me,
+but not for years, having the
+ability to even begin and
+verbalize what happened or what
+action I wanted to pursue moving
+forward. LGBT LGBTQ folk like
+myself face higher rates of
+sexual abuse in childhood and
+throughout our lives, especially
+if help is never received for
+past traumas, not only would
+this allow people the grace of
+understanding their traumas
+before having to relive them in
+a court setting, but it would
+give people the option to report
+abuse while still having time to
+decide how to proceeds of this
+bill will help support LGBTQ
+plus people and survivors all
+across New Mexico. For this and
+more equality New Mexico or just
+a due pass. Thank you.
+Thank you. Last one.
+I'm sorry. He doesn't get, you
+don't get to hold it art.
+Good evening, Madam Chair,
+members of the committee. My
+name is Arthur Melendrus. I'm a
+lobbyist and lawyer for the
+Albuquerque Public Schools. I
+want to thank the sponsor.
+are listening to our concerns
+and working with us to
+strengthen the definition
+section of what is now the
+committee substitute.
+Um, this is very, very important
+first step, and we appreciate
+that. I want to say on behalf of
+APS, uh, my superintendent and
+what this bill is trying to do
+and recognize the importance of
+preventing sexual abuse.
+Busy working on more prevention
+and finally I want to say that
+APS faces a very difficult
+situation. I want to let you
+know that we received today.
+A letter
+From the insurance company that
+insures us.
+Saying that we were on a
+reservation of rights for a
+claim that's very serious. We
+have no coverage, and so where
+I'm at is working with all of
+you and the sponsor, we need to
+be thinking about.
+What happens when the
+catastrophe occurs.
+Like 44 million in Las Cruces,
+and how can we
+Work together to pay for that,
+so victims are.
+Taken care of, but we can't
+afford to break the bank, so.
+Uh, I don't know if this is
+interim or thank you thank you.
+OK, online.
+Those wishing to school.
+Raise your hand.
+back to the spot.
+Thank you, Madam Chair. um
+Uh, use of many, many
+negotiations back and forth to
+make sure uh that this language
+covered the intent of the bill,
+um, which is private entities,
+so.
+Right.
+I have Representative Chavez
+anyone speaker Martinez and
+read.
+Uh
+Wow
+OK. Um, Representative Martinez.
+And representative, right, so
+representative Chavez.
+Thank you, Madam Chair. Thank
+you, Representatives.
+I just wanna thank you for
+bringing this up and allowing me
+to be a co-sponsor on this bill.
+I really believe by removing the
+time constraints on this, it
+acknowledges the complex trauma.
+Associated with childhood sexual
+abuse.
+And it empower survivors to seek
+justice.
+Try not to get emotional.
+I just really want to commend
+all of you here um it takes a
+lot of strength.
+To tell your story and I'm
+thankful for that. I think it
+helps us pass.
+Common sense legislation and
+It's not always easy, um.
+Recognizing that many survivors
+take a long time to come forward
+into adulthood.
+When we've had.
+Behavioral health we've gone to
+therapy. And it takes a lot and
+sometimes we don't know that.
+Um, I am a little disappointed
+while I understand.
+The reasonings that we protected
+government entities.
+It's a little frustrating, um,
+you know, I have kids in APS
+school system. I'm gonna be a
+grandma, God willing, in April,
+and I would hope that we are
+protecting our children that are
+in the school systems, most
+especially because we empower
+our teachers and trust them with
+our children every day. Um, so I
+just want to really thank you
+for bringing this forward and I
+just want to share my thoughts
+and um strength with all of you
+survivors in the room. Thank you
+for sharing.
+Thank you, um, Speaker Martinez.
+Thank you, Madam Chair. Thank
+you, Representative for all of
+your hard work on this bill. Um,
+this is a difficult issue, and
+I've been in this building long
+enough. I've been, I've actually
+sat in this committee where
+there were victims of murder in
+the audience.
+And we've been asked to vote on
+things that are very difficult.
+And they're victim, um, so these
+are highly complicated cases. I
+wanna tell the folks.
+We try our best to make
+decisions, Madam Chair
+representative.
+Based on what's in front of us.
+And really try to disconnect
+ourselves from the emotion.
+We have to, that's kind of our
+job.
+Understanding that.
+Um, the votes that we take and
+the things that we pass or don't
+pass.
+Have impacts that's not lost on
+me.
+Um, so, having said that, Madam
+Chair and Representative.
+Uh
+You said that your bill does
+not.
+Apply
+To public entities as as as that
+the sub does not apply to public
+entities.
+Yet I heard one of the public
+entities say that maybe it does.
+So I would just like
+clarification because either I'm
+being lied to.
+Or folks are just kind of
+budging with the facts here.
+So I'm gonna ask again, does
+this apply to any public
+institution,
+Madam Chair. Madam Speaker, I
+will say um.
+The, the way that written
+information is, um, we actually
+had several different, um, but
+we got to a place where
+everybody was on the same.
+First, we were asked to include.
+The torque. Let me take a step
+back. Originally, we were asked
+to very specifically exempt.
+Um, APS in public schools.
+And I told them that it is not
+done, however, think about
+exempting the Tort Claims Act
+and exempting uh folks within
+the Tort Claims Act that this
+bill is doing, um, the 2nd
+iteration that uh thank you for
+adding the Tort Claims Act Kids
+Act. And we said, OK, sure,
+yeah, we know the intent of our
+bill, um, the intent of our bill
+is for private, um, the 3rd
+iteration of error, we added a
+word not when it shouldn't have
+been there, so we took that out.
+Um
+The that was uh a version that
+we, Madam Chair and Speaker was
+that I was called off the floor
+by our drafters, um, to say that
+that so, um, our drafters
+essentially said, um, because
+you have now mentioned theort
+Claims Act and the have a loop
+in our law sending, um, because
+the New Mexico Civil rights, um,
+an end sentence in there that
+says.
+Unless there is a statute of
+limitations that is longer. It
+was essentially sending folks
+back and forth from our new
+language that we had all the all
+the drafters caught that, and
+they said we can't have two
+laws, uh, sending folks back and
+forth. It's unclear. And so the
+language you have before you
+today, Madam Chair and speaker
+is actually drafters language.
+Um, it's drafters language with
+one edition.
+Um, we were also asked by um APS
+to amend the language on page 2,
+Um, we were also asked by um APS
+to amend the language on page
+29, to include non-public legal
+entity to make extra, extra,
+extra sure that we are not in so
+we said we are totally open to
+that. We added it to this
+language, but, um, Madam Chair
+and Mr. Speaker, this is
+language directly from our
+drafters who caught um
+essentially a loop in our
+previous language.
+Thank you, madam. Got it. Thank
+you, Madam Chair,
+representative. That's, that's
+really helpful.
+Um, and I've been in that boat
+myself on.
+Things get caught up in this
+twilight zone, Madam Chair, can
+I have the uh lawyer for NEMSA.
+Just give us a little bit of.
+Background as to their concern.
+Um
+Um, OK.
+Um, Mr. Escobel, would you,
+would you mind?
+Just giving us a little bit of
+insight because I think what we
+heard, Madam Chair
+Representative.
+Um, is that in fact, the
+language in front of us.
+is designed to exempt these
+public entities and and I'll get
+to why that's even an issue, by
+the way, child abuse is child
+abuse, period.
+But I'll get to the why the
+public thing is is an issue. Um,
+can you expand on why this
+language.
+is not
+Um
+What's the issue with the
+language?
+Madam Chair, Mr. Speaker, I
+think that the issue is un
+conveyed that it's not supposed
+to apply to public institutions
+or public entities. I think the
+lack of clarity that it applies
+does not apply to public
+employees.
+Problem you have is that it
+term private individuals is not
+defined, and I think that
+language may have been borrowed
+from the statutory construction
+portion of the statutes. So the
+concern that you might have a
+hybrid situation.
+Of a public school teacher who
+may have become acquainted with
+a student and then something
+happens outside of the school
+district.
+Um, is, is the issue, so my
+proposal or our proposal that
+you have a specific exclusionary
+language with the public
+institutions and the public
+employees makes the most sense.
+Now, um, the, the difficulty is
+that you now have to
+retroactively go back and make a
+determination in that public
+employee, not the public
+institution, creates
+A lack of clarity and exposes us
+to huge financial resources, so
+I, ma'am sure, Mr. Speaker, I
+hope that answers your question.
+that we're talking about.
+Oh, Madam Chair Representative
+Mr. Escobel, so.
+I'm reading the language, so.
+If the action is against a
+private individual.
+Is your concern that that
+private individual.
+It's still a public employee.
+And even though the act may have
+occurred.
+Of
+Site the republic.
+entity a public space.
+That the private individual who
+is still be held liable.
+And therefore,
+Whatever protections or else.
+May actually be triggered.
+Madam Chair, Mr. Speaker, the
+short answer is yes, so the, the
+issue in that situation is that
+the private private individual
+who was a public employee could
+go back to the public schools
+insurance authority and say,
+You need to provide me coverage
+for this action going back 25
+years ago.
+Um, and that's the primary.
+Thank you, Madam Chair.
+Um, thank you, Mr. Esco. Thank
+you, Representative.
+Uh, so let me expand a little
+bit, if I may, Madam Chair, on
+why I'm asking these questions.
+Um
+While any type of abuse
+anywhere.
+is equally reprehensible and in
+fact should be.
+Punished through the criminal.
+Uh through criminal law and then
+of course victims need to be at
+least when it's happened.
+part of the issue and it's not
+necessarily a conversation for
+this committee anyway because
+this bill is, I think, uh,
+scheduled for appropriations uh
+should it pass here today.
+But
+The, the, the issue that I
+think.
+That I'm trying to get at is
+putting the legislature on the
+hook for hundreds of millions of
+dollars because ultimately it is
+us, it is the people of the
+state who pay these.
+The settlements, right?
+or these judgments, um, and
+It's um
+It's
+It's easier said than done.
+I mean, we just passed the
+budget today that was 10 point.
+$6 billion I believe.
+Um, and we're kind of hitting
+that plateau in terms of
+recurring expenses, granted
+these are non-recurrent
+expenses, but still.
+Um, that's something that this
+be responsible for, uh, let, let
+me, let me, um.
+Let me move from that, Madam
+Chair, so, uh, Madam Chair
+Representative, the current
+statute of limitations, I think
+you said or somebody said was up
+to the age of 24.
+43 years after disclosure.
+That's correct.
+And why, um, the first question
+is why is that?
+Adequate enough and was thought
+given to.
+Expanding, increasing, and then
+the 3 year window expanding that
+to 5, 1015 years, Madam Chair,
+Representative
+I will give my answer, or
+actually, both of my experts can
+address that briefly. I don't
+know that we need to hear two
+experts. OK, well then I will
+just, uh,
+Madam Chair, Mr. Speaker, um,
+the average for disclosure of
+childhood sexual abuses over the
+age of 50.
+Um, and as we know, those who
+have experienced childhood
+sexual abuse, don't report or
+delay reporting for many, um,
+their own safety, their own
+livelihood, um, they may be
+living with the person that
+assaulted them and it's not safe
+for them to disclose or they
+would not have a home if they
+disclose, um, the reason for
+delayed disclosure is, is
+various, but the average age is
+over 50. It's actually between
+the ages.
+And Madam Chair, uh, Miss
+Taylor, where is that data from?
+Madam Chair, Mr. Speaker, that
+data is specifically from a
+youth serving organization
+called Child USA.
+And Madam Chair, Representative
+was thought given to a statute
+of limitations that was more
+within. Um, madam chair and the
+only reason I raised him, ma'am
+uh chair and representative, and
+I don't know, maybe, maybe you
+guys know, but I don't know if
+there's any other, does anyone
+know?
+Right.
+OK, so, so,
+so in in in criminal law then
+then we first degree murder and
+are set limitations, but in
+civil this this would be.
+First of its kind here.
+Madam Chair and Speaker
+Martinez, that's correct. It's a
+unique.
+It's a unique
+Type of claim as has been.
+Address this, this body passed
+that.
+Or, um, a lot has been learned
+about.
+Childhood sexual abuse over the
+over the last 30 years, it has
+already been testified to and
+what we know is that the.
+The
+Incident, the
+The all of the
+Obstacles and hurdles to a
+person coming forward.
+Are, um, the myriad and they're
+very individual and
+Um, the reality is any
+Mm
+Just like this body did in 1993,
+they picked up, it's sort of
+random. You just picked a random
+number, 3 + 24, um, and, and
+that is what this bill and in
+many, many other states found.
+Is that there isn't use for
+these types of claims.
+Thank you, Madam Chair and
+thanks for the, for that
+clarification that that
+certainly is helpful. Um, so
+you, you could, what happens?
+Um
+But what happens if somebody say
+70 years old.
+Right? And, and they
+finally feel comfortable
+disclosing.
+That something like this
+happened.
+Um
+The abuser is long dead.
+Presumably uh witnesses are gone
+or hard to come by, but the
+entity say the the boys and
+girls club is still there,
+right? It's, it's a long
+standing organization.
+The Boys and Girls Club.
+70 years after.
+the abuse happened.
+is now a responsible for
+Damages to the vision. And so,
+um, I'm chairman, chair and, and
+Speaker Martinez um the boys
+club is a good example.
+Because many of those cases have
+recently been resolved, and many
+of those cases are.
+Very, very old, mister uh
+Castiliano spoke about some of
+them.
+Um
+And the plaintiffs had to prove
+it really happened.
+They had to prove
+It was real and it really
+occurred. So the fact that it
+was 2 years or 10 years or 40
+years, didn't change the burden
+of proof.
+The the the the
+Alleged victim, the victim had
+to still prove her case or his
+case.
+And in that way, it's no
+different civil case that comes
+before the courts.
+Yeah, Madam Chair and Mr. Hart,
+yeah, I agree, and, and this is
+not about believing the victims.
+I mean, I've, I've
+Um,
+I married into a family that
+like does this work for a living
+like victims' rights work.
+And it has been ingrained in my.
+My brain that you always believe
+the victim.
+It's not about that.
+the question is,
+You have a boys and girls club,
+not to pick on them. 70 years
+later it's a, I would assume I
+would hope I've never been to
+one, but I would think it's a
+different culture, different
+hiring practices.
+Um
+Obviously different boards of
+directors, um.
+A different way to do business
+and so we're holding an
+organization.
+Liable for something that
+happened 70 years ago, even
+though it is a completely
+different.
+Maybe except for the name.
+Organization
+Um, which I guess it's a policy
+decision for us to make, right?
+I mean, maybe that is fine.
+In order to make victims whole
+or at least attempt to make them
+whole.
+But the impact on the
+organization itself, I think
+does present.
+Some, some things to think
+about, right? Uh, because I
+think
+You know, if, if I think of of
+an institution that is.
+Um
+Sloppy in their hiring
+practices, Madam Chair
+representative of that.
+Maybe doesn't do background
+checks or sort of sloppy
+background checks, um.
+Just doesn't
+Do a good job in its own
+mission.
+Absolutely, we need to hold them
+liable.
+But I guess if it's 70 years
+later.
+Right? That's where it.
+Comes a little bit
+Problematic, I guess, for the
+lack of a better word.
+Um, given, um,
+Given the amount of time that's
+gone by.
+Um, the last question, last
+point to have, Madam Chair. Um,
+You know, really goes back to
+spite of the victims.
+And Chavez, I think made
+excellent points in her first
+statements.
+Um
+These are very difficult issues.
+And um,
+Madam Chair, Representative, uh,
+uh, I commend you as being as
+heavy as this.
+Is, uh, is, is commendable, um.
+It's not easy
+Um, particularly when you have.
+Um
+Different
+Groups and and and and whatnot
+sort of coming or at least try
+to help to.
+To to to craft your bill.
+Um
+I think that the state of New
+Mexico.
+Should make um should work
+really hard.
+To find ways to make victims
+whole.
+Um
+Particularly
+With regard to this issue
+because it's just like one of
+the worst, if not the worst.
+Uh, of issues, at least as far
+as I'm concerned.
+Um, and it is very difficult.
+To
+To quantify and it's almost
+impossible because.
+If you've been the victim of
+abuse.
+And the entire trajectory of
+your life has changed because of
+that.
+Many times not for the better.
+That's a, that's a real problem.
+So I'll go back to the beginning
+of my Q&A with you all, and I
+think I told one of you, I think
+one of the experts we talked
+about this uh weeks ago.
+Like it leaves me with a pit in
+my stomach that this does not
+apply to public institutions.
+Like it's not
+Less evil form of abuse.
+And I don't know what the data
+is, I don't know what it would
+show, I don't know what
+percentage of these cases.
+More often than not happen in
+public institutions ver versus
+these private entities.
+But I would imagine it's a lot
+of them.
+From public schools?
+CYFD
+To any other public institution
+that has children in its care.
+Uh
+And we are gonna have to come to
+terms with that. Now, how we do
+that, I don't know.
+I don't know because
+For every $1 we invest.
+In
+Making people whole.
+It's a $1 that we may not have
+for.
+My childhood or whatever else.
+But that's also a public policy
+decision we as a state will have
+to make, um, and maybe it's not
+with this piece of legislation,
+but it certainly will.
+Come up at some point as it
+should.
+Because abuse in the public
+institution is not any less evil
+than abuse in a.
+private
+setting
+Uh, thank you, Madam Chair.
+Thank you all for indulging my
+questions and I'll. Thank you,
+speaker.
+Madam Chair, I just have a.
+Thank you. We don't do this back
+and forth, you know, if there's
+a question, then thank you,
+Madam Chair and representative.
+Um,
+up with kind of a lot of what
+Speaker Martinez asked.
+I done a ton of these cases and
+I totally understand. I'm
+currently being prosecuted on
+the disclosure.
+Um, so I definitely get that.
+I also don't believe this should
+just be subject to private
+entities, he allowed this to
+happen, then there should be,
+you know.
+Money
+Saying that
+I also though, agree with what
+Speaker Martinez said and the
+part that I, I think we should
+try to find.
+So I mean, obviously 3 years is
+4, but I think at some point
+trying to balance being a lawyer
+and understanding that there has
+to be.
+At some point, a time where we
+know that this is done, you
+know, that we need to find
+somewhere in the middle where
+it's a higher age, longer years,
+and it, but I, I just don't
+think it can be a 2030, 40
+years. I don't know what it's
+somewhere in the middle there as
+it is in criminal law, you know,
+where there's uh that person can
+now know that that that's gonna
+happen to him.
+But I mean, I don't know what
+that that age is because as you
+stated, um.
+I've seen it very, very long
+into a child's life or an
+adult's life old and happened
+when she was a child, and so.
+There just is no set number, um,
+but I do think we've got a maybe
+find that, um, talking.
+I also kind of have the issue,
+and can you explain, Madam
+Chair, what, what the
+retroactive, it would just go
+back to anything 7 as well.
+And
+Re
+Um, the retroactivity.
+And other states have addressed
+this, um.
+from
+Quite some time, retroactivity
+is, is consistent with the
+notion that there, as you put
+it,
+There is no set time.
+There is no set time.
+When it's enough time.
+I think those, I tried to write
+down what.
+Exactly what you said.
+And it's a recognition that
+there is no.
+Set time
+For these types of harms and um
+the
+And, and if, if this body were
+to enact a statute that says,
+OK, well, from today forward,
+For
+There's no statute of
+limitations, then.
+How do you answer the people?
+That get cut off today.
+How, how's that fair to them?
+And, and, uh, Madam Chair and
+Representative Reeve.
+No
+But we have no.
+in many ways it makes no sense.
+But we have statutes that until
+1984, you couldn't sue the
+government for anything.
+So we have this Tort Claims Act
+and it's this huge body of law
+that you can't just attack with,
+you can't cut a little hole in
+the side of it. It's the same
+with the Civil Rights Act.
+So we
+It wouldn't be a surprise, I
+think, for a year from for us to
+be back asking you and, and
+representative Anaya looking at
+exactly.
+But what this
+With this
+does it's incremental.
+An incrementally opens the door.
+To May.
+Not all.
+And that's, that's that.
+That is a
+A career disappointment to view
+this work.
+It is a career disappointment.
+But it's a step forward that
+that I think we can't, and if I
+may address the issue of
+government.
+The the government um
+Exemption
+If you look at the bill, the law
+as the bill is today.
+There's nothing in there that
+says no tort claimed act.
+Actor. There's nothing in the
+bill that the law today that
+says you can't sue a
+schoolteacher.
+You know why? Because the tort
+Claims Act says you can't.
+There's nothing in the law now
+that says you can't sue.
+You know, a government.
+You know, a mountain, a bad
+actor in the government. There's
+nothing in the law today.
+You know why? Because there are
+huge barriers to that. I have
+tremendous respect for the
+warrior Nipsey people.
+We've worked together on many,
+many things, but
+This is, there's you can't read
+this bill.
+To see it as.
+Opening up a cause of action
+against the school teacher.
+That doesn't exist today.
+I mean, we put the sponsor put
+lots and lots of language in
+here to like boots, I mean, the
+suspenders and belts to make
+sure that the, that the schools
+and the and or feel comfortable
+with this.
+But if you look at what the
+sponsor has done.
+had all this stuff for private
+individual, corporation,
+business trusts, all these
+words, they're not in the law
+today.
+The reason why the schools
+aren't, haven't been up here
+since 1993 screaming and yelling
+year after year after year
+because you can't sue them.
+You can't.
+And that's just the law.
+And it's incredibly frustrating
+to tell somebody who comes into
+your office.
+I, I, I can't help you.
+I can't help you, but that's the
+law.
+Thank you, uh, Madam Chair,
+next, I was going to ask you
+what the current status of the
+law was.
+Yeah, a lot to think about and.
+Oh.
+Thank you Madam chair.
+will be
+This.
+Um
+Why was this not?
+Why is this Madam Chair, um,
+Representative Martinez, there
+is a
+Thank you, Madam Chair.
+That's the bill that you're
+talking about.
+Madam Chair.
+I didn't quite
+If a teacher leaves the school.
+He's at home
+As a private individual.
+And
+Comes a predator in his
+neighborhood.
+I don't understand why he cannot
+be held responsible as a private
+individual, it's not at the
+school.
+Understand the schools are
+against it because of the
+liability and the cost, but.
+He's
+He's not an acting as a teacher.
+He's not acting as a public
+employee's acting as a private
+person.
+I, I
+And I tried to listen to the
+discussion, but
+me.
+Madam Chair and Representative
+Martinez.
+Yeah. A private individual.
+In her or his own home.
+abuses a child.
+is not immune, is not immune can
+be sued.
+can be, it's exactly that if the
+person and there's a lot of,
+there's an enormous body of law
+that talks about when a
+Public employee if they can or
+cannot be subject to claims of
+the Tort Claims Act or
+They don't get the protection of
+Tort Claims Act because they're
+acting as private citizens.
+And that is the law found chair
+and Representative Martinez,
+that's exactly right. That's a
+private individual. This
+The statute of limitations would
+not run out.
+On a private individual.
+Madam Chair, thank you,
+Representative. Thank you.
+Representative McQueen.
+Thank you, ma'am, chair, um.
+Meer or salmon experts.
+I share many of the speakers'
+concerns, so I will, I'd like to
+just touch on them briefly, um.
+First off, you know, I'm still
+sort of wrapping my head around
+the definitions.
+And the
+What I'm hearing is that.
+Um, public employees when they
+commit abuse are not liable
+under this, and I'm
+Uh, troubled by that.
+Uh, I'm troubled by the, uh,
+Representative Reed was the
+Mission of public entities, um.
+Uh, I'm also troubled by
+Um
+The fact that there's, there's
+no limitation.
+Uh, and you could easily have a
+situation where.
+Someone, um, Susan organization.
+Um, for abuse.
+And the alleged perpetrators
+long since gone.
+Uh, the organization doesn't
+have records.
+Um, but, you know, there could
+be a compelling case made
+through.
+You know, personal testimony
+that the person was abused.
+Um
+And and like it's just, it's.
+After 30, 40, 50 years, it
+becomes pretty hard to defend
+against.
+Um
+So I, you know.
+I the
+Public testimony was compelling.
+Um, it always is, as the speaker
+observed in issues like this.
+Um
+We want to do the right thing.
+Um, I'm, I'm troubled by
+different aspects of the bill.
+That maybe we're, we're not
+quite there yet.
+But I will continue to listen to
+the debate.
+Thank you, ma'am, chair.
+Thank you, Madam Chair.
+Uh, thank you, Representative.
+You know, I've been uh listening
+and um.
+You know, I while this bill
+isn't perfect, um.
+You know, I don't know if, if
+one of your experts perhaps Ms.
+Taylor.
+Or you representative could talk
+about the challenges in
+reporting. How many of these
+reports go unreported.
+Um, because I'm hearing a
+concern about potentially uh
+over litigation or, you know,
+sort of a flood of cases coming
+forward as a result of this.
+But I think what I've reviewed
+in the past is that it's very
+difficult for survivors to
+actually come forward. I know
+that's the case for harassment,
+for example, but I'm just
+wondering in terms of childhood
+sexual abuse, which I know a
+little bit less about if you
+could just talk about that.
+Um, Madam Chair, thank you for
+that question. Um, so in New
+Mexico, we know that over 50% in
+their lifetime, um, and just in
+the research so clearly shows
+that, um, it takes time for
+people to them.
+Um, we heard it in the public
+comment from those who stood in
+support that it often that
+they've been groomed, um, and
+that the way they've been harmed
+was actually a violation and was
+sexual assault. I will say, um,
+when we started the statewide
+sexual assault helpline.
+We had those very calls of older
+people calling and saying this
+is the very first time I have
+admitted that I was sexually
+assaulted, 70 year old, 75 year
+olds, um, and
+The research and those of us,
+I'm a licensed master social
+worker, those of us who have
+been in clinical practice. We
+know that even once someone
+begins to understand what
+happened to them and that it was
+a violation. It takes them a
+while to understand the actual
+impact. The research also shows
+that a sexual assault often
+costs, um, anywhere over
+$200,000 per survivor and what
+they lose in weighties, um, and
+job loss and other uh needing
+medical treatment.
+um, mental health care, um, and
+so it's a pervasive issue that
+you um on what healing and what
+and representative, it.
+It seems to me that uh the
+process to seek justice is
+pretty arduous.
+You know, you've got to
+Go up in front of a judge and
+disclose what has happened,
+you're prepping for that day,
+you know, um, I don't know the
+sort of day blow by blow day day
+to day reality of that.
+Um, I've certainly witnessed
+that here in this building with
+people who are grappling with
+situations of harassment.
+Um, and so I can only
+extrapolate that it it would be.
+Um, particularly when you're
+talking about something that
+happened to you as a child, that
+it would be even more difficult,
+so you know, to me, I think for
+people to even access justice
+through this bill.
+It's gonna be a difficult
+process for them to come
+forward.
+Um
+Which
+You know, I think putting that
+in context of the understanding
+that we are starting with this
+first step.
+Which doesn't include public
+entities, and I think that there
+are I think you've heard a lot
+of comments today that there's a
+lot of folks that are very in
+creating an avenue to justice.
+Um, I just wanted to go back to
+that.
+Is there a pathway to get out of
+public entity.
+And if so, what, what would that
+pathway be because it wouldn't
+be the Civil Rights Act.
+Which I know very well.
+Um, and so, Madam Chair,
+representative uh experts. I, I
+don't know what what would be
+the pathway, cuz it sounds like
+it's not the tort Claims Act
+either.
+Um, so how would?
+Uh, the inclusion of this
+language about a private
+individual tea.
+Chain
+Represented by
+Um
+That is
+As a
+Very, very important question
+and something that
+And we be have, I mean, I think
+it's important.
+Probably don't have the
+I think starting point would be.
+Recognizing within the Tort
+Claims Act that.
+Of claims
+For which the statute of
+limitation, uh, statute of
+limitations applies and other
+and potentially these Claims
+Act.
+And the Claims Act has got its
+own.
+Like
+Tor Court Claims Act has its own
+statutes of limitations. You
+have to give notice. You have to
+give written notice.
+Within 90 days of the event.
+So that makes plenty of sense if
+a highway.
+Yeah, you could, you get 90 days
+to tell.
+The DOT or whoever, you, you
+smashed my car.
+Doesn't make a lot of sense.
+For the same reasons we've been
+talking here and there's a 2
+year statute of limitations
+general random cut-off date,
+years and years ago. So it, it
+is a complicated.
+But it is a representative. It
+is a solvable problem. This is.
+This is not solving that
+problem. It is incrementally
+moving us to a fairer.
+Fewer barriers or problems.
+And I just wanna address if if I
+can, I think you're referencing
+sort of the
+You know, the public body.
+Clearly it's not, let's not
+pretend the public bodies.
+are concerned about my
+legitimate concern.
+That they, they want to.
+From having to pay claims.
+And there's nothing wrong with
+that, but that's, that's what
+this is about. Madam Chair,
+representative.
+I think my
+Question is, given this existing
+language in this legislation.
+I don't see a pathway to get at
+the public will assert, no,
+because the statute of
+limitations has expired on the
+under the Tort Claims Act or um,
+no, this is, you know, you can't
+bring this under the Civil
+Rights Act because this person
+was not acting in their capacity
+as a public employee. So I think
+under it, it seems to me that
+under the bill that we are
+looking at today.
+That pathway that was discussed
+and as has been discussed as a
+point of concern, doesn't really
+Actively helped put um some of
+the guard rails in for the non.
+Thank, thank you for that, um.
+And then finally, I, I
+appreciate the retroactivity
+because I think.
+It creates a sort of an equal
+standard and a sense of fairness
+for people as they exist today,
+so that folks who have
+experienced this, um, whether it
+be.
+10 years ago or unfortunately,
+in the next two weeks, um, I, I
+appreciate that they're gonna be
+all treated with the same access
+to this form of justice, um, and
+hopefully criminal, you know,
+hopefully criminal penalties as
+well, um, for the uh events that
+will occur in the future, uh,
+you know, so to me, I appreciate
+this is an incremental step.
+Um, I think if we do approach
+the really plan for that, really
+the potential cost of that.
+Um, and perhaps as an
+intermediate step.
+You know, we can just take a
+hard look at
+Um, how we are dealing with
+prevention of.
+These kinds of abuses within the
+schools and other public
+entities today through training
+programs and risk management and
+etc. um, so I appreciate you
+bringing this forward and um
+just wanted to get those, those
+points clarified. Thank you.
+anyone else.
+Thank you, Madam Chair.
+I would say I have worked
+hundreds of these as a retired
+FBI.
+The litigious part of this, the
+money.
+I understand the concerns,
+however,
+When we begin to move towards.
+Disclosure.
+You know, that's where someone
+comes forward.
+We forget
+Couple things.
+One most critical thing is
+usually someone in a position of
+authority.
+Could have been a coach.
+Could have been a teacher.
+Could have been whatever
+More importantly, once the
+disclosure occurs.
+More than 9 times out of 10
+leads to more disclosures for
+the same individual.
+Who's been perpetrating these
+crimes.
+Oftentimes, for many, many
+years, I always equate it to
+DWI. First time you're arrested
+for DWI was not the first time
+he drove while intoxicated.
+I think
+I don't know. I'm not a lawyer.
+That shows
+I know how to go after these.
+People, um,
+So
+I tackle the speaker and I've
+been whispering back and forth.
+It's a very
+You know, we, we look at the the
+The money thing but, but we, we
+have to get somehow get these
+disclosures out there.
+Regardless of one's age.
+Um
+Because it goes on in many parts
+of this state in particular for
+generations. It's my belief your
+numbers are low and no offense.
+At 40 and 50%.
+I did this, uh
+Working Indian country.
+And I would say in many places
+it's upward of 70.
+So how do we do it?
+Mr. Speaker, I, I don't know
+this is so important. It's
+almost.
+It's not fair to try to put it
+into.
+Bill
+I don't know how to start, but I
+want to put that out there,
+these disclosures.
+are critical to finding these
+predators.
+Now
+Some of the predators have died,
+I think we still get the
+disclosures out there. Maybe
+there's not an ability to sue
+somebody. And again, this is
+more of a lawyer question.
+But
+Get it out there, that helps
+people.
+People need to talk about this,
+and that's probably more of a
+comment than I.
+have said, ma'am, but I just,
+I'm a firm believer in going
+after these.
+People who commit these crimes.
+So, uh
+Alright. Thank you, man.
+Representative Abeta.
+Concern is that
+Our our entities are doing the
+Prove that and
+What?
+and and
+Represent the short answer is
+yes, but in many cases.
+On behalf in the in the Tort
+Claims Act foster parents are um
+subject to
+The Federal Civil Rights Act. So
+there have been remedies for
+children in foster care either
+under the state tort.
+claims or the federal civil
+rights.
+kids in foster care, verdicts
+and save my firm.
+And, and that
+The children in foster care, um,
+are take some legal gymnastics
+to get um.
+But we're also aware of your,
+you know, our firm is lead
+counsel on the Kevin S
+litigation, which you probably
+heard some about too.
+And so we are seeing these all
+at
+Layering
+Particularly the most on the on
+the agenda.
+That's the only question I have.
+Just like to move it.
+Do not pass on um house.
+Uh
+Yes, thank you, Madam Chair.
+Representative Abeta.
+Yes.
+Representative Chavis.
+Representative Hall.
+Yes.
+Representative Hoffman V Heel.
+Representative Martinez.
+Yes.
+Speaker Martinez, yes.
+Representative McQueen, yes, and
+I'd like to explain it.
+Representative Reeb.
+Leader Sapansky. Yes.
+Madam Vice Chair. Yes.
+Madam Chair, yes.
+Madam Chair, you have a do not
+pass on House Bill 73, but I do
+pass on House Judiciary
+Committee sub for House Bill 73.
+And.
+Go ahead
+representative, um, you just got
+a resounding endorsement for a
+bill that caused
+A lot of conservation.
+I hope going forward you.
+Continue to look at the mission
+of public entities and continue
+to think about whether a
+specific uh time frame uh would
+be accepted.
+Is that an explanation.
+I mean, I, yeah, I
+I know what I just said an
+explanation
+is why you voted for what you
+did, not an advisory, but let's
+just try to keep that in mind.
+Thank you, Madam Chair and
+committee members.
+OK,
+we're on our last bill.
+Um
+All right, let's.
+Let's hear from Representative.
+House Bill 339.
+Housing discrimination and human
+rights Act. Thank you for being
+so patient.
+I can barely keep my eyes open,
+so I'll keep it as brief. We'll
+try to jar you awake.
+Thank you, madam chair.
+House Bill 3339.
+is a necessary step to protect
+tenants from discrimination
+based on their source of income.
+Ensuring that landlords cannot
+deny housing simply because
+someone relies on vouchers,
+disability benefits or other
+lawful support.
+Where we're we're here to
+strengthen our Human Rights Act
+and giving the Attorney general,
+um, hopefully to uphold basic
+fairness and making sure that
+all New Mexicans regardless of
+income, have a fighting chance
+at safe, stable housing. I have
+a couple of um.
+Uh, experts here, but we'll open
+it up to.
+All right, well, before we do
+that, and you get the. Correct
+so you get a.
+star
+For that.
+Evening on that.
+All right, we do have to talk
+about the bill for a little bit.
+Let's go to the audience, those
+wishing to speak in opposition
+to this bill, please step up to
+the gentleman with the
+microphone.
+About a minute.
+Uh, Madam Chair, members of the
+committee, good evening. I know
+the hour is long, and I have 6
+or 7 different points I'm gonna
+address just one of them, um.
+And that is the fact that a
+large portion of our inventory,
+our rental inventory in this
+state is owned by.
+People that don't have
+Um, a lot of assets. Did you
+tell us who you are? I'm sorry,
+ma'am. My name is Kent Cravens.
+I'm a registered lobbyist with
+New Mexico Association of
+Realtors, and I apologize. Um.
+But they, they don't have a lot
+of assets. They have this house
+that's been passed down rented
+to a family member, or they may
+rent it to somebody else, but
+this would really put them in
+jeopardy of being in violation
+now of Human Rights acts, um,
+and we just think that's a
+little like putting a battleship
+in the bathtub. There should be
+maybe another place to put this
+as it's a transaction, uh, any
+more time, Madam Chair, I
+appreciate Madam Chair.
+Members of the committee, Randy
+Traynor with the apartment
+Association, uh, that, that lead
+in on the amendment, uh, it's
+been a little awkward position.
+I'm, I'm here to ask for a one
+word amendment.
+Uh, if you look at page 7, line
+5.
+After the words lawful, we'd
+like to add the word recurring,
+and the reason, two reasons. One
+is an owner is supposed to
+calculate the applicant's rent
+ratio after.
+The assistance. This is not
+possible if the income is not
+recurring.
+And secondly, the source of
+income bills in Albuquerque,
+Burlio County, Santa Fe, and Las
+Cruces all require the source of
+income to be recurring.
+And this change would align the
+bill with those ordinances.
+Um, let's go online.
+Anyone online wishing to speak.
+Online
+Let's um go to the audience,
+those wishing to speak and
+support, please.
+Caps um
+Thank you, Chair and members of
+the committee. Uh good evening.
+Kat Sanchez with Bull Futures on
+behalf of the Public Safety
+Coalition, a coalition of 11
+organizations.
+That stand in strong support of
+HB 339, HB 339 strengthens New
+Mexico's Human Rights Act by
+prohibiting housing
+discrimination based on a
+person's person's source of
+income. The New Mexico Human
+Rights Act is a critical legal
+tool to creating accountability
+for discriminatory practices,
+and we are excited for this
+effort to strengthen and expand
+the act. No one should be denied
+housing simply because they rely
+on lawful income sources such as
+Social Security, veterans
+benefits, or housing vouchers.
+This
+ensures fair access to housing
+and prevents discriminatory
+practices that
+disproportionately harm
+low-income families, seniors,
+and people with disabilities.
+Housing is public safety and HB
+339 is a crucial step towards
+equity and inclusion in our
+communities. Thank you. Thank
+you.
+My name is Ellen Ackerman and I
+am a section 8 voucher holder
+who last year lost the housing
+that I had had for 30 years when
+my landlord wanted to sell, so I
+was having to find a new rental
+and I have to say almost all of
+the landlords who I spoke to
+would not take my section 8
+voucher that discrimination
+absolutely exists. I finally
+found um
+of somebody who was a friend of
+a friend who uh was willing to
+rent to me. She had no idea what
+section 8 vouchers were, she
+asked me to help her, um, get it
+set up. It was a very easy
+process. All she had to do was
+produce um
+Her her um proof that she owned
+the house, and or or the rental
+and also um the inspection
+process is very simple. It's
+basically um
+What what anybody would want to
+have in a rental, um, there's no
+big deal about the inspection
+process, so I just wanted to say
+all that. Thank you. And I live
+in District 46.
+Very good. Yes, ma'am.
+Good evening, Madam Chair,
+members of the committee. My
+name is Winter Torres, and I am
+the founder of prevention and
+diversion, also sit on the uh
+MFA's housing Trust Fund
+Advisory Board, and I want to
+say in our work every day, we
+deal with folks losing vouchers
+and looking for another time to
+go and reuse that voucher, and
+New Mexico has the 6th worst
+uptake among landlords for using
+vouchers.
+We are seeing people on the
+streets, and it really does. I
+don't think family, we screen
+out the family cases where
+they're suing each other to
+evict each other because we
+think something else is going on
+there. Um, so I don't think that
+that is really a situation that
+we're going to encounter much.
+Thank you.
+Um
+Back to the sponsor. Oh wait,
+online, I see.
+Or um Diane McCash.
+Thank you, Chair and committee.
+I'm Diane McCash. I urge you to
+pass this bill because access to
+safe housing should be a basic
+human right, and the practice of
+discriminating against renters
+based on their source of income
+is a barrier for families to
+become and stay housed.
+When we allow barriers to
+housing, we increased
+homelessness in our state. Not
+only is being unhoused a
+nightmare for individuals and
+families who are directly
+impacted. It contributes in a
+big way to the societal problems
+we say we want to solve.
+This bill is a vital step in the
+right direction because people
+have men and are being denied
+access to housing because of
+unfair income discrimination.
+Housing should be a human right,
+allowing barriers to housing
+hurts all of us. Please support
+this bill. Thank you.
+Thank you, Madam Chair and
+members of the committee. My
+name is Maria Grego. I'm an
+attorney and the director of
+economic equity at the New
+Mexico Center on Law and
+Poverty, and we thank the
+sponsors for this bill. Uh, we
+stand in support of it because
+it's an important step in
+addressing New Mexico's
+ever-increasing housing crisis,
+housing vouchers are key
+resources to ensure families can
+access stable and affordable
+housing.
+Uh, despite having these
+resources available over 1/3 of
+voucher holders in New Mexico
+cannot find housing before their
+voucher expires, because many
+landlords refuse to rent to
+someone who is paying with a
+voucher or some other legal
+source of income.
+Source of income discrimination
+causes inequity. When landlords
+deny housing to families who
+participate in public programs,
+families are excluded from many
+neighborhoods and are
+concentrated in areas with fewer
+resources. This discrimination
+also disproportionately impacts
+renters of color. In other
+jurisdictions were sources of
+income discrimination is
+illegal. Families were 12% more
+likely to succeed in finding
+housing than in places without
+such a law. The result is that
+more families are housed and
+landlords who rent to voucher
+holders can rely on
+and timely rent payments. This
+benefits members. Thank you
+and I can talk about the
+suggestion to me, so let's go to
+Arturo.
+Yes, madam.
+OK, Madam Chair and members of
+the committee, my name is Arturo
+Castillo and I'm the director of
+equity and culture at
+Conservation Voterss New Mexico.
+Conservation voters report
+supports this legislation
+because we believe in
+prohibiting discriminatory
+practices, especially as they
+relate to housing and decreasing
+the unhous population in our
+state.
+As the climate crisis continues
+to increase, weather and climate
+catastrophes within our
+communities, um, impact on how
+New Mexicans, uh, the, the most,
+and in the year 2025, landlords
+everywhere are permitted to and
+do refuse to rent to those
+receiving housing subsidies.
+This will will prevent that
+discriminatory practice, which
+will contribute to decreasing
+the cycle of homelessness in our
+counties. New Mexicans are
+losing their lives to the
+effects of climate change every
+day. Conservation voters stands
+in strong support of this
+legislation to prevent more New
+Mexicans from losing their
+lives, from being unhoused, and
+from suffering negative health.
+outcomes. While we continue to
+address the climate crisis more
+Uh, yes, good evening. Can you
+hear me?
+you could tell us who you. Thank
+you, Madam Chair. My name is
+Elizabeth Elia. I'm the
+co-founder and secretary for the
+New Mexico Center for Housing
+Law, and uh I'm happy to talk
+with you about any questions you
+have about this bill. Thank you.
+Well.
+I don't know if I'm, but let's,
+I'm gonna do it anyway.
+So
+I just want to understand well.
+A Mr. Trainer made a trainer
+suggested on page 7, we add line
+5 source of income means any
+lawful.
+I think and recurring.
+Um, and verifiable source of
+money, so we would add.
+The suggestion is to add
+recurring afterlo.
+Yes, madam Chair, thank you. I'd
+be happy to, madam chair and
+members of uh of the committee.
+It was an intentional decision
+not to include recurring in the
+definition of source of income
+at that new paragraph FF on page
+7, line 5,
+Mr. Trainor's concerns, um, are,
+um, it's not necessary to
+include uh recurring there,
+there are two reasons that he
+gave were first that for uh
+income screening, uh, tended
+land lo rd would not um use
+would only use recurring sources
+of income and uh in the income
+screening provision in the bill
+that is permissible. So it, it
+the the not having the word
+recurring in the definition at
+FF for source of income does not
+require landlords to use ad hoc
+or one-off, uh, uh, sources of
+income that a person might have,
+um, a landlord in the screening
+process for
+an applicant could still use
+simply recurring sources of
+income, um, and that goes to the
+parts of the amendment that talk
+about uh the invalid screening
+process, um,
+The, the, the main reason to to
+to not include recurring in that
+definition. It is because by if
+we did include recurring in that
+definition of what source of
+income discrimination means, it
+would allow landlords to decline
+to accept things like um
+eviction prevention funds, which
+we saw landlords attempt to do
+during the pandemic and
+afterwards when we had eviction
+prevention money available, so
+it's not common, but when a
+tenant is able
+to avail themselves of some sort
+of eviction prevention funding
+from a nonprofit or governmental
+source, um, the definition of of
+what counts as source of income
+would require a limb or to
+accept that source of income. It
+would not require a landlord to
+to change their screening
+processes for applicants, the,
+the bill also adds a definition
+for housing applicants, um, and
+their screening procedures for,
+for applicants can
+look at sources of income to
+make sure that they're recurring
+because those would be
+progressive, you know, uh, uh,
+forward looking, uh, screening
+processes we get it.
+Um, thank you. Um, I'm gonna go
+back to
+very good, um, Speaker Martinez.
+Thank you, Madam Chair. Thank
+you, Representative, uh, expert.
+Um, a couple of questions. Uh,
+the first one because we just
+heard about this the recurring
+language, uh, so I, I.
+I think I'm more confused after
+hearing the expert on Zoom.
+It might just be me, it probably
+is me,
+um, but if.
+So everything the expert said,
+Madam Chair and Representative,
+why not just create like a
+subsection given what we heard
+from the Madam, Mr. Speaker,
+great question. I think in this
+case because we don't know what
+kind of future assistance may
+come, and this is specific to
+someone already in there. We
+wouldn't want to prescribe
+eviction prevention. It could be
+another type of funding the city
+of Albuquerque, for example,
+has, so I think we'd have to
+describe all I think is cleaner
+to justice.
+Find what source of income means
+first up, and then define the
+screening processes to be really
+clear, check minimum income
+requirements, background.
+Uh, so
+Madam Cur, what we also heard
+from that Zoom that nothing
+would keep the.
+From actually ask.
+Proof of recurring.
+I can address that if you'd
+like.
+Uh, I'll ask the sponsor who she
+was, yes, Elizabeth is my
+uh.
+That's correct, as long as
+they're asking for the same
+things from, from all of their
+applicants, then they can ask
+for recurring sources of funding
+Uh, Madam Chair, representative,
+uh, my last question and I
+probably.
+Is it designed to impact, is it
+just section 8 vouchers? It's
+for any rental.
+Chair. Thank you,
+Representative. Yes, it's
+anybody who.
+Needs to supplement, um, they
+also receive vouchers, um, that.
+That allow for a renter to
+supplement their income.
+And Madam Chair
+Is the problem we're trying to
+resolve might have um a packing
+those folks from being.
+Discriminated against because of
+the source of income.
+Madam Chair Representative, yes.
+And under your proposal, this
+would.
+Amend the Human Rights Act and
+bring.
+That into the human.
+Thank you, Madam Chair, first.
+Common
+You brought veteran, I would say
+99% we pulled off the street
+into a program.
+forgot about you for the they
+were able to use the voucher so
+it just, it's always bothered me
+when people bring in veterans
+to.
+Make it look better.
+Uh, my question is, on page 7,
+I guess mostly on line 11.
+talks about pension annuity,
+alimony or child support.
+to ask how long that might last.
+child support doesn't last
+forever.
+Alimony doesn't last forever.
+it fair to ask
+When is, what's the timeline on?
+Madam Chair
+There isn't.
+Uh
+If you're paying child support,
+that child support, there is a
+timeline.
+Is it fair to ask?
+How long are you going to get
+child support?
+As part of the.
+The conglomerate, I can afford
+it.
+Madam Chair and Representative,
+yes, as long as you're asking
+all types of questions about
+their um same for employment
+income, there's no guarantee
+that you would be employed
+longer than a week. So there's
+not a lot of guarantees and and
+a lot of sources of income as
+well. But I hear your concern
+and one.
+I'm sure I wish in this bill the
+issue of getting paid on.
+voucher
+buy a house
+Except vouchers in your waiting
+the 90 days for else.
+I get by.
+evict that person.
+My gonna be liable if, if I
+haven't received.
+And I evict that Madam Chair,
+the same eviction.
+Madam Chair, the department to
+somebody with a voucher.
+That voucher is almost owned.
+by the exception.
+We in the process of evicting
+that person.
+Because the government I'd be
+happy to answer that if you'd
+like.
+Thank you, Madam Chair. Thank
+you, Representative for that
+wonderful question. It's a great
+opportunity to clarify you're
+absolutely right that of that of
+a voucher through the Section 8
+program, which is the majority
+of our housing vouchers in New
+Mexico are in fact contracts.
+The contracts that are um
+mandated by HUD and in that
+contract by HUD, um, HUD.
+Requires that that the public
+housing authority or
+organization that signs the
+contract with the landlord, um,
+must pay on time and is subject
+to late fees if they don't pay
+on time, and, uh, uh, a tenant
+can be evicted for non-payment
+of rent, whether it's the tenant
+portion or the or the
+governmental portion.
+Thank you, madam chair.
+Um, you know, I just wanna thank
+the sponsor for bringing this
+bill, I was was following some
+of the housing issues over
+there, um.
+Just wanted to add on rental
+property doesn't anymore, so I
+don't have any financial
+interest in this, um, and.
+You know, he took section 8
+housing all the time.
+Oh and was happy to do it.
+And
+Didn't have any trouble.
+And the and the nice thing, and
+we were talking about this bill
+or the policy kind of over the
+summer about stuff is, you're
+getting, you're getting paid.
+Right? Yeah, there probably are
+times when the government's
+slow, although I never heard
+that she's associated with the
+section 8 vouchers and so on.
+You're getting paid, so and and
+the money's coming through, so
+the issue now is we, there's
+such a shortage of housing that
+landlords are not wanting to
+take the vouchers because they
+can really jack the rents up and
+get for for very modest.
+places and get a lot of money
+and I know that's true in my
+community I know super happy to
+see this um legislation and um
+with that uh do we have?
+Well, there is an amendment, but
+it came before, um, I came to
+us. Are you a second speaker?
+Yes, OK, um, motion made by Vice
+Chair Romero. Um, I do pass on
+House Bill 35 Speaker Martinez.
+Did you call the roll?
+Yes, thank you, Madam Chair.
+Representative Abeta.
+Representative Chavez. No.
+Representative Hall.
+No.
+Representative Hoffman V. Hill.
+Yes.
+Representative Martinez.
+No.
+Speaker Martinez, yes.
+Representative McQueen.
+Yes.
+Representative Reeb.
+Leader Sapansky.
+Madam Vice Chair, yes.
+Madam Chair
+Yes.
+Madam Chair, you have a due pass
+on house bill.
+339 as amended.
+OK, we have a due pass, um,
+thank you, everybody. I thought
+it was a really good meeting,
+um, see you soon.
+Perjured,
+well, and then you can tell
+representative Rubio, what she
+should do next.

@@ -1,0 +1,6638 @@
+Mhm
+Let me, let me stop you right
+there real quick. So we're being
+broadcast and so if they can't
+watch it online, they need to
+click on the Zoom side of the
+link to watch and listen.
+Counsel
+Counsel, you're, you're fine,
+you're fine. Um, but counsel
+cannot figure out how to make it
+work. So if you're trying to
+watch on the Zoom link and
+listen, then I'm on the link you
+need to click on the zoom side
+of the link.
+And and probably mute yourself.
+Mm
+Thank you. Is he we're gonna
+extend the questions are we
+gonna go 3 years? I think uh
+we'll go to my presentation
+next, Mr. Chair.
+This will be behind tab A.
+And it's titled Fiscal Impacts
+of Oil and Gas Setbacks, and it
+looks like this.
+It'd be behind your tab.
+Switched over on the projector
+up here.
+Good morning again, Mr. Chair
+and members of the committee. My
+name is Ismael Torres. I'm the
+chief economist for you all at
+the Legislative Finance
+Committee. And I just want to
+start off by um highlighting the
+difficulty of this topic.
+It's a very complicated topic.
+I'm sure you all know how
+difficult it is. It's difficult
+for us to untangle and analyze,
+but I do want to shout out, um,
+the team that put this together.
+I'm very proud of the work that
+we've been able to accomplish,
+as I'm sure Mr. Golding can
+attest the kind of analysis that
+we were able to reproduce with a
+very limited amount of time,
+staff time, staff resources, um,
+is, is truly incredible to me.
+This is some of the most uh
+proudest work that I've been
+able to accomplish at the LFC.
+Uh, because I know that this
+kind of analysis that we've
+recreated here and been able to
+develop is the kind of analysis
+that uh
+Global energy analytics firms
+are paid a lot of money to put
+together, so, uh, with that
+being said, there are certainly
+a lot of caveats to this
+analysis that I'll be going
+through in the presentation, um,
+especially at the end of, of,
+uh, these slides.
+So starting off on slide one
+here.
+As we were tasked with putting
+together the fiscal impacts of
+oil and gas setbacks. Of course,
+there are sort of two sides to
+this equation.
+They are the associated costs
+with
+um stepping back allowed oil
+production from certain zones,
+but there are also theoretical
+health benefits or health costs
+that can be avoided from those
+setbacks. And unfortunately,
+there aren't a lot of studies
+specific to New Mexico's health
+impacts related to proximity to
+oil and gas production. There
+are some, there's a lot more
+research in say California, not
+as much in Colorado, but we were
+able to find one national study
+that broke out New Mexico's
+health impacts were estimated.
+New Mexico's health impacts due
+to oil and gas production.
+That being said, this study is
+estimating the impacts from 2016
+production, so this would not
+include the recent climb in in
+production in the Permian Basin
+as Mr. Golding just described.
+But it also includes health
+impacts estimated from distant
+populations. So this would
+include health impacts in places
+like Albuquerque, which would
+not benefit, um, or would not
+see health benefits from an oil
+and gas setback. It also, um, it
+is including sort of what I
+would consider economic value.
+These include things like the
+statistical value of a life,
+which estimates foregone wages
+over, over a lifetime due to
+increased mortality. So these do
+not reflect the.
+impact to the state. These are
+impacts and costs borne by New
+Mexicans and a share of that, a
+fraction of that would be cost
+to the state. And then again,
+because this is all oil and gas
+production, and not necessarily
+just the oil and gas production
+that would fall within a setback
+zone, the entirety of this cost
+would not be ameliorated with a
+setback zone. So, a portion of
+this would be reduced with a
+setback and then a portion of
+that would be the state's fiscal
+cost. Unfortunately, we don't
+have the data to do this kind of
+analysis.
+If we are able to get access to
+some health department of health
+data, we might be able to do
+some statistical analysis to
+find maybe health disparities
+within setback zones. But again,
+I want to highlight some of the
+work that we heard from and that
+we've worked with, with Doctor
+Shade earlier from July, I
+believe, or maybe it was May,
+um, on, on how proximity can
+translate into health impacts.
+And so, a couple of things to
+keep in mind are maybe wind
+direction could be an important
+determinant of health impact,
+maybe even more so than
+proximity if you're.
+Downwind, even outside of a
+setback zone that may be a more
+important determinant of health
+than maybe if you're upwind and
+closer in the setback zone, some
+of this pollution also could be
+coming from up to hundreds of
+miles away as these volatile
+compounds can travel, say from
+the Texas side of the border,
+traffic pollution, which also
+may not be ameliorated by oil
+and gas setbacks and other
+variables. So important to keep
+in mind, uh, 600 to $1.5 billion
+in health impacts for New
+Mexicans, a portion of that
+could be affected by an oil and
+gas setback.
+And then, uh, I think it's
+helpful to set some context on
+what setbacks currently exist in
+New Mexico. And it's a very
+complicated patchwork that
+complicates our analysis of this
+topic, but we, as of now have
+federal rules which can apply
+nationwide and statewide, and
+then there are certain field
+office rules which can only
+apply within their own
+particular borders, and then we
+have local rules as well that
+depend on county and municipal
+ordinance. So we have sort of a
+patchwork and an overlay of
+different
+setbacks that already exist.
+From the uh Roswell field
+office. I was given these
+federal um um uh exceptions,
+exceptions on on leasing for
+onshore oil and gas production
+on federal land within
+incorporated cities, towns and
+villages. Carlsbad and Roswell
+field offices, surface
+disturbance within 200 m of a
+100 year flood plain statewide,
+uh, you must comply with the
+endangered Species Act to ensure
+that you're not um
+disturbing any or creating any
+activity that could disturb
+those protected habitats.
+I'm not gonna go through all of
+these, but you can see how many
+that we've identified here and
+how complicated it could be
+based on the production
+facility, the municipality, the
+certain structure or water
+source, um, and, and you can
+feel free to peruseuse those at
+your leisure.
+So, here's how we produced our
+estimate.
+We first were able to analyze
+135,000 data points of oil wells
+from New Mexico oil conservation
+division. Also another 135,000
+wells from New Mexico Tech. We
+did that from two separate
+databases. So all told, well
+over 300,000 getting close to
+400,000 data points that we had
+to match individually to each
+well. Once we did that, we were
+also able to geolocate those
+wells and use some geolocating
+data that I'll go through here
+shortly to identify structures.
+that could be uh a setback zone.
+Those wells must be uh set back
+from certain um structures
+that's using some AI technology
+to identify structures using
+satellite imagery. We've also
+used some national data on
+waterways to identify those. And
+then we've also combed through
+those 135,000 data points from
+OCD to recreate what we call
+decline curve analysis to
+simulate how Wells behave in the
+most recent data and also
+show how we expect future
+production from existing wells
+to continue into the future.
+We've then matched that up with
+the consensus revenue stimating
+group's estimates for oil
+production in New Mexico to
+isolate specifically the
+production that we think is not
+yet permitted and could be
+impacted by a setback rule. And
+then we were able to apply a
+proportion of this earlier
+analysis from the well data to
+that Craig share of unpermitted
+to be produced data and then we
+were able to get the production
+impact. And that's how we
+calculate the fiscal impact. So,
+don't worry if you didn't catch
+that, I'll be going through
+that, um, as we get into the, to
+the figures here.
+So, as I mentioned, OCD data on
+wells. Um, I should clarify that
+this is specifically Wells, not
+other production facilities. So
+in some of the setbacks
+proposed, there are setbacks for
+tank batteries, compressor
+stations, gas plants, and more,
+that is not included in the
+estimate here. So we are
+specifically looking at the
+impact from wells, because we
+didn't have data for those other
+production facilities.
+As I mentioned, Water data US
+Geological Survey and an RGIS
+data source to try to capture
+flow lines data and major water
+bodies, and then we were able to
+use that AI building identified
+or structure identified um
+footprint data from UNM's
+database.
+Uh, I, I want to highlight here
+that there is a more
+straightforward way of doing
+this analysis, uh, that is,
+well, it would be
+straightforward, but is of
+course complicated by
+Very sensitive industry data. If
+we were able to get the specific
+industry data on where even
+anonymized, maybe take away, who
+plans to do it? And even if
+they're able to anonymize where
+they plan to do it, we were able
+to get from the industry.
+Future production sites, we
+could directly estimate the
+impact of this. Instead, we have
+to go through that sort of long
+snake procedure to estimate
+this. And furthermore, I want to
+highlight that there is no
+current rules in place by the
+Environment department or other
+permitters on how waterways will
+be interpreted. So that's why
+we're using this US geological
+survey data, if the Environment
+department were able to decide,
+which of course, you know,
+without uh a statue in place
+wouldn't make sense for them to
+do, but that's also a high, uh,
+a highly
+sort of determinant variable
+that's still left out here. What
+is the interpretation of what
+constitutes a waterway here for
+this setback.
+So, here's some of the data that
+our economist, Jennifer did on
+uh well locations within the
+state. These are those 135,000
+wells in green, you can see
+those that are permitted and
+active plugged, completed,
+abandoned, so not, so all of
+those that have already been
+producing in green, and then
+what our focus here is in those
+pink zones. So these are the new
+permits that have gone forward
+and have been, have received a
+permit, but are not yet
+producing. And so the reason
+we're
+Look at this map is we're not
+trying to identify all of the
+production in New Mexico that
+could fall within a setback.
+I'll get into that shortly, but
+we are trying to identify the
+direction that production might
+be moving towards to give us an
+insight into the future and what
+production could be impacted in
+the future.
+And so you can certainly see
+there the hotspots in the
+Delaware Basin and then in the
+San Juan, which
+Is really the focus of this
+presentation.
+Here is a map of those
+structures, those AI structures,
+and their setback at 22 2250 ft
+in blue, shaded in blue, and
+then the currently permitted but
+not yet producing wells in pink.
+So you can see how this plays
+out in Southeast New Mexico
+here, there's certainly a lot of
+wells, not even close to those
+blue borders, but we do have
+places like Carlsbad and then
+the southern part of Artesia
+here, that would see some, some,
+uh,
+Um
+Affected wells. A zoom in here
+over by loving, and I want to
+draw your attention to some of
+these lines. This is pretty
+common within the industry if
+you have a, a good resource, you
+may see lines of wells, um, in a
+row, tapping into that resource.
+And so, if you can see here,
+there's a a line south of Loving
+that we might expect could be
+the source of future production
+that gets cut off by these
+setback zones. So that's kind of
+what this analysis is able to
+accomplish, identify where those
+future sites might be.
+Here's the waterway data, the
+chart on the left or the map on
+the left is the whole state of
+New Mexico. And if you maybe
+could zoom in on your slide
+individually. You can see that
+the San Juan has a significantly
+larger share of these waterways,
+which could affect production
+then say Southeast New Mexico,
+which tends to be in a little
+bit more of that white area.
+Izzy, hold on one second. So the
+slides aren't showing up on
+Zoom. OK. So those people on
+Zoom can download them from the
+LFC.
+Website and this presentation to
+see them. Absolutely, Mr. Chan,
+and on the agenda as well,
+they'll be able to download this
+and crashed all the computers
+while you're doing
+we did we have someone to blame.
+You know, Mr. Chair Jennifer, I
+did think go through 22
+different computers trying to
+run this analysis. I had to use
+my personal computer at home or
+or LFC laptops weren't strong
+enough, so I don't blame them.
+Um, if, if you look on the right
+here, the maps, uh, we have
+Artesia here. You can see how
+the waterways affect you see
+maybe in the north, uh, uh, east
+quadrant here, well is less
+affected by waterways, but the
+San Juan at the bottom, it's
+really hard to find a a
+production spot not within some
+of this waterway setback zones.
+And then we have to combine
+those two. So of course, it's
+not just if you're within a
+waterway setback or a, or a
+structural setback, you, you
+can't be within either of those
+setbacks. And this is those
+setbacks combined. Farmington on
+the top left, and then um some
+portion we've zoomed in here
+again on loving in the bottom
+right. It's too hard to zoom in
+on, of course, the entire state,
+but you can see, especially down
+on the bottom right, those lines
+again that I was talking about,
+those sort of rich production
+veins and uh um
+Whether or not they're affected
+by a setback zone. So, that
+being said, here's a map of the
+entire state, setbacks in blue,
+unaffected wells, those are,
+those falling outside of the
+setback zones in pink, the green
+are those within a setback zone.
+And so what we're really looking
+at here now is we're zooming in
+again, we're, we're narrowing
+down again. What are the
+Wells that are not yet
+producing, that are permitted
+and not yet producing to give us
+an insight into future
+production zones. And then
+within those zoom down either
+further or reduce even further,
+only the wells that are going to
+be affected. And then we start
+looking at proportions. What
+proportion of those permitted
+not yet producing wells are
+affected by a setback. And
+here's some math for you all.
+Here's a table on all of the
+wells that we were analyzing
+here.
+These are currently producing
+current or already plugged,
+already abandoned, or permitted
+and not yet producing. You can
+see all 125,000 and then those
+within any setback zone 42,000.
+Of the active wells, so these
+are not, are permanent exclude
+permitted but not yet producing,
+but only those that are
+producing, so not abandoned, um,
+or plugged. We have 51,000 wells
+analyzed, about 20,000 of those
+are in a setback zone.
+Specifically, we keep drilling
+down, keep drilling down. How
+many are permitted not yet
+producing which give us an
+insight into future production,
+13,000 wells of those, only
+2.3,000 wells are within a
+setback zone. And then we get to
+our proportions here. This is
+how we are applying it to future
+production estimations.
+Of oil wells specifically, we
+expect 15% are in a setback
+zone. And you can see those
+broken out by uh two of our
+largest oil and gas counties
+here and by land type.
+As you can see, the share of
+gas-affected wells total here on
+the right 27%. That's what I was
+highlighting earlier in the San
+Juan, largely due to waterways.
+Setbacks around waterways, I
+should clarify. And then you can
+see how that's affected by
+county. You can see the San Juan
+share is much higher at 61%.
+Now, that being said, so we've,
+we've keep narrowing down future
+wells, the only those that are
+impacted. But even then, we
+don't estimate that 100% of the
+resources within a setback zone
+are totally lost because of this
+new horizontal drilling
+techniques. We know that some of
+this resource can still be
+accessed by long laterals. So,
+what portion of those affected
+wells
+are locked off, or are lost
+resources that cannot be tapped
+and produced. And we do have
+some data from Inverri which
+tried to estimate acreage
+affected by the largest
+producers, so we only have it
+for the top 10 producers and
+their estimate was about 36% of
+the acreage could be locked off.
+And so,
+Um, our top 10 producers make up
+a large share of our total
+production, maybe over 80%. So
+we think this is a pretty good
+estimate of what total resource
+acreage might be lost. So of
+total future production, say
+about 15% of oil production
+represented by 15% of oil wells
+might be affected, and only
+about a third of that, that 36%,
+we expect to be totally lost. So
+you can see how the math
+translates to about 5% future
+oil production lost is what
+we're estimating here. I do want
+to highlight though that even if
+we aren't estimating
+2/3 resource loss here. Those
+2/3 that would be impacted,
+would have less economical, uh,
+less, less advantageous
+economics. So the cost to
+produce the breakeven price for
+those wells with a longer, less,
+uh, optimal lateral.
+is also uh uh something that
+we're not estimating here. So
+maybe there would be some
+production lost from the uh
+They worsened economics of those
+wells that we aren't estimating
+here. Only, only the locked off
+resources is what we're
+estimating here.
+And then we, we, uh, conducted,
+as I mentioned, our decline
+curve analysis here on slide 16,
+if you're following along
+online, and we were able to um
+extrapolate sort of the maximum
+production. So if you look at
+the chart on the right here,
+this is the typical production
+curve for an oil well in New
+Mexico. In the first quarter,
+you might start off slow.
+Eventually, you hit your peak,
+your maximum production in that
+typically 2nd quarter and then a
+pretty rapid decline into the
+out years, and you see we've
+analyzed the data to go out to.
+5 years and beyond, um, and
+that's for our analysis that
+I'll get into here shortly. But
+you've also seen the maximum
+production.
+Or on average for these wells in
+New Mexico on the left here. So
+you can see how those efficiency
+gains have really contributed to
+our production, uh, growth here
+in New Mexico. Although we have
+seen lately in the last couple
+of years, that production.
+Efficiency per well start to
+decline. So the amount of oil
+produced per well is coming down
+slightly over the last several
+years, and we are using the most
+recent maximum production per
+well, not the sort of peak that
+we saw in the early 2020s. So,
+that's another important caveat
+if, if production efficiency or
+maximum production per well
+increases again the cost
+estimated here would increase,
+but if it continues to decline,
+the cost will decline.
+OK.
+So here we are doing combining
+some of that rapid decline curve
+analysis with our wells
+analysis. We're able to produce
+what we are calling sort of our
+estimate buy well vintage, and
+we can see in green here those
+that are already permitted,
+already producing with their
+decline curve, and how that
+might produce into the future
+with pretty high confidence
+because we've seen that decline
+curve analysis, we can just sum
+all of the existing wells, some,
+how much we expect they will
+decline over the years.
+See how much we might produce in
+the future. Then we have in
+blue, the amount of permitted
+wells that are not yet producing
+again, we know what their well
+curve analysis looks like. We
+can estimate how those will come
+online and with pretty high
+confidence how that production
+might look into the future. And
+then we are looking primarily at
+that yellow chunk, how much we
+are estimating oil will be
+produced that has not yet been
+permitted yet. And that's the
+share that we're applying this
+sort of setback analysis too.
+But of course, this is yielding
+some incredible insights for us
+and our team. We are able to
+sort of break apart what were to
+happen if there was no new
+drilling, we can see the
+production impact that would
+have on New Mexico, the red is
+would be the last oil produced,
+and then the green would be our
+current production scenario. So
+you can see how quickly our
+production would decline in that
+scenario. We can see if no new
+permits are, are given, um, a
+share of this, if only federal,
+as Mr. Golding mentioned, uh, as
+that was discussed earlier in
+the decade, how that would
+impact.
+New Mexico's production outlook
+and we have that graph for you
+here. And then, of course, the
+focus of this analysis, how a
+setback scenario would impact
+production into the future. You
+can see that about, I, I think
+on whole, it's like 7% when you
+include the gas wells of
+production into the future that
+would be lost in red here. And
+so what that translates to in,
+in Los uh production value is it
+would we expect that it would
+climb to about $4.5 billion in
+lost production value per year
+by the end of the decade.
+over 10 years, about $35 billion
+of lost production value here in
+New Mexico.
+And what that translates to in
+into a fiscal impact if you
+remember this presentation from
+Miss Fabian earlier this year,
+very complicated network of how
+oil and gas taxes feeds into
+states revenues. Here's a
+reminder of that, um, in this
+sanky chart that you can follow
+if you um are able to keep your
+eyes crossed long enough. But
+we've done that for you already.
+We estimate that the fiscal
+impact could climb to about $800
+million per year by the
+beginning of the next decade. It
+starts off slow with some of
+that currently.
+permitted wells come online and
+then builds um as that uh share
+of the future production grows.
+We expect in the next 3 years
+almost half a billion dollars in
+fiscal um losses compared to the
+alternative, uh, for the state.
+Here's the big table on slide 24
+of how those estimates estimates
+play out in dollars and where
+the impact would be. Some of the
+largest losses are in capital
+outlay funds, because that's, of
+course, supported by the
+severance tax, but the general
+fund also has large losses of
+around $100 million here, uh,
+really some of the largest
+losses are to the permanent
+funds, which then would result
+in lower distributions to the
+general fund in future years,
+um, but all of that's here for
+you to peruse at your leisure.
+As I mentioned at the beginning
+of the presentation, lots of
+caveats here with this kind of
+analysis on slide 25, some of
+the things were not estimating
+our knock-on effects, as you all
+know in our fiscal impacts, we
+do not do sort of that dynamic
+analysis. So, in addition to the
+lost production of oil and gas,
+we know that that results in
+lost contracts for servicing
+companies to those wells for
+trucking services of those of
+those wells. Also, the secondary
+employment impacts we do
+estimate losses to GRT and
+personal income tax, but there's
+also a multiplier and a
+spinoff of those dollars within
+the economy that we are not
+estimating here. We are also not
+estimating the loss of economic
+activity from those dollars that
+could have been spent had the
+state government spent those,
+say, on capital programs or on
+other social programs. Those
+also have an economic stimulus
+effect, and even a small return
+to the state that we're not
+estimating here.
+All that being said, if you, I'm
+sure it was easy to, to hear me
+caveat as I went throughout the
+presentation. I have some of
+these listed here for you on why
+these estimates could be higher
+and why they could be lower. Um,
+something that I did not mention
+earlier, oil wells have an
+associated gas, especially in
+the Permian Basin, a large
+associated gas that comes out
+with that oil. And if that gas
+is larger than what we're
+estimating here, uh, then
+certainly the cost would be
+greater if production shifts to
+more restricted areas than we.
+Meet with our permit analysis
+that could increase the cost.
+Again, didn't estimate the
+impact of tank batteries,
+compressor station gas plants
+and habit and habitat
+restrictions, importantly, only
+waterways and structures, so
+habitat restrictions could be an
+important um cost raiser in
+this, in this scenario that we
+did not estimate. Uh, waterways
+that the environment department
+interprets them to be more
+restricted, um,
+Let's see what else here our
+municipal GRT losses were not
+estimated that would be
+difficult for us to produce, so
+only county GRT losses were
+estimated here. And then, of
+course, we are using the
+consensus revenue estimating
+groups prices and volumes, if
+those were to be higher, that
+would be a really large increase
+in the cost of this analysis.
+And costs could be lower because
+waterways are interpreted to be
+less restrictive, production and
+prices are lower than we
+expected and the proportion of
+production is less than that 3
+acreage that I mentioned. So on
+whole, I do feel that this
+analysis is a low estimate
+because we have much higher
+costs, more, much, much more um
+variables out there that could
+lead to a higher cost than a
+lower cost.
+And with that, Mr. Chair, uh, I
+think Mr. Golding and I are
+ready for questions.
+That concludes how many weeks of
+work?
+All interim, Mr. Chair, all
+interim.
+Thank you. So, let me first say,
+we've tried to figure out where
+the balance is, right? Not
+pushed to the one side in mass
+production or pushed to the
+To the other side of mass cuts,
+and figure out where a baseline
+really is, so if something does
+happen that we'll know.
+We'll have a basis point to
+start. That's what this report's
+reflecting.
+But one thing I did ask you, ask
+me, it was the GRT impacts in in
+throughout the state, you didn't
+come up with any
+Number that you could
+I mean, that's an important
+number for me and everybody
+else.
+Mr. Chair on slide.
+24, this huge table here, we do
+have a few gross receipts tacks.
+Uh, uh, estimates for you,
+although this would be
+specifically on GRT from wells.
+So the GRT lost on those
+associated wells, and we're
+estimating about $50 million
+lost to the general fund about
+3.7 million lost to counties
+annually by the end of the
+estimate period, but we do not
+have an estimate for
+municipalities.
+Looks like you're getting a
+computer for Christmas.
+Representative David Cruz will
+be our first.
+Thank you, Mr. Chairman.
+Um
+One of the things that I noted
+was that on the LFC.
+Newsletter
+Right at the top, 3rd paragraph
+in relation to setbacks, it says
+that staff scheduled to present
+the findings to the committee at
+8:30 October 22nd, estimate the
+impact on production value could
+be about 408 million in 2026,
+but would grow each year and
+could reach 4.1 billion.
+Yeah, uh, in the next 5 years.
+So here's my question.
+We the that only takes into
+account production itself and
+revenue coming to the state in
+Mexico. Is that correct, Mr.
+Chairman?
+Mr. Cha, yes.
+Mr. Chairman, was there any
+analysis done of uh of how that
+would affect the local Mr. Chan
+and Representative, no, that
+would be sort of that dynamic
+analysis that we we're missing
+here. Um, we, uh, as you point
+out, there would be, of course,
+an economic loss to the area due
+to less drilling, less
+employment for that drilling,
+less dollars invested in the
+sort of local economy that also
+would then trigger maybe say
+leisure spending or or dining,
+um, that is not estimated here.
+Mr. Chairman, I think that's a,
+a very, very important question.
+You know, a few years ago when
+we had the economic downturn
+back in 2008 and 2009, uh,
+In my community, which is a
+working community, it was, it
+was a stark reminder of how the
+economy is affected when you
+have a significant impact as we
+had in the economic downturn. It
+appears to me that
+We need this information to see
+what it means to individual
+families.
+The other question that I would
+have is German, and last
+question.
+Um, has the population of the
+affected areas grown
+specifically because of the
+production, the work that's
+available.
+Mr. Chairman.
+Mr. Chair, certainly since 2016,
+we haven't seen the sort of same
+population growth rates that we
+saw at the end of the last
+decade. But um certainly still
+higher levels than pre.
+Boom, pre latest boom.
+So, Mr. Chairman, it seems that
+there's a correlation between
+the fact that there are more
+people that are more you know
+closer proximity to the wells
+because specifically they're
+working there.
+Thank you.
+Thank you.
+Representative Armstrong.
+Thank you, Mr. Chairman and
+thank you, Izzy, um, a very
+thorough job as usual, um,
+Uh, always proud of the work
+that you do, uh.
+One of the questions I have is
+on the production value.
+How is that calculated and is,
+are you pulling out just the
+wells that would be uh
+Affected if setbacks were put in
+place.
+Thank you, Mr. Chen. Thank you,
+Representative for that
+question.
+The there's there's a long
+story, but the short story here
+is that the share of the wells.
+And the share only of the
+acreage or the resource lost of
+the wells. So not just the wells
+that are impacted, but
+specifically those are all
+locked away from their own from
+those resources.
+Their production value, which is
+how much we estimate that well
+could have produced an oil and
+gas times the estimated prices
+of that oil and gas. So that
+would be the total value of that
+production that is lost, but,
+uh, to, to your point, I think
+to your point, um, there's also
+sort of lost value in that, um,
+opportunity costs that I was
+mentioning earlier, if it is
+more expensive for you to drill
+a well outside of the setback
+zone and go further to reach the
+resource. There's some amount of
+economic value loss.
+the increased cost, which is not
+reflected by, say, this
+production value lost here.
+That makes sense. That does make
+sense. Um, I, I was just curious
+because I, you know, I'm seeing
+different estimates from
+different entities. And so I
+was, I was curious, you know,
+your, uh, the 6% you would
+assume would be a loss of 4
+billion where the oil and gas
+industry is thinking 6% is more
+of a $10 billion revenue loss,
+and so, um, that's, that's quite
+a ways off and so, uh, what I
+don't want to happen, Mr.
+Chairman, is for us to estimate
+and then it
+to be a real kick in the pants
+for all of New Mexico. Uh, my
+next question is, um,
+With the on page 21.
+Where you're saying the
+estimated uh cumulative
+production value lost.
+One year, 3-year, 5-year, 10
+year, and then uh and then also
+in, in uh in the same time with
+24, page 24 where you're talking
+about.
+The, um, the estimated direct
+costs.
+So with that amount of loss in
+our budget.
+Um
+What do you think the, do you
+think that, according to this,
+the 5 year would be around 1213
+billion, and the 10 year would
+be 35 billion.
+Loss to our
+Budget, is that correct?
+Mr. Chair, Representative, this,
+uh, the figures that you
+referenced are production value.
+So the taxes are applied onto
+that production value. So, uh,
+it would only be maybe a 5th, a
+50% of that. Um, my quick math,
+I should be careful with that. I
+would refer to flight 24 if you
+would like to see the, the, the
+budget sort of impacts, um,
+slide 21 is the production value
+loss, so that's maybe a better
+sort of economic value, not
+necessarily.
+Losses to the state budget.
+OK, thank you for that. And what
+would the, so the loss to the
+state budget is more on 24?
+That's right, Mr. Chair. And,
+and I think the general fund is,
+is over $100 million sort of by
+the end of the forecast period.
+Um, but there are other losses
+that reach that uh uh charted
+losses on slide 23, um,
+Not quite a billion dollars by
+the end of the forecast here.
+OK, thank you for that. Um,
+Why are we only
+When we talk about, um, you
+know, the quality and the
+health.
+Um, portion of this.
+Um, from the, your very first uh
+on the the fiscal costs of
+health.
+Um, why are we only talking
+about oil and gas and not like
+air quality across the whole
+state.
+Um, and, and just focusing on
+oil and gas is this specifically
+what you were trying to do or?
+Yes, Mr. Chair and, and
+Representative, um,
+The, the task here is really
+the, the fiscal impacts,
+analyzing the fiscal impacts of
+setbacks, which would only apply
+to oil and gas, and so that's
+why we're trying maybe
+unsuccessfully here to estimate
+some of the health impacts or
+the health costs that would be
+ameliorated by those setbacks or
+could be ameliorated by those
+setbacks.
+OK. Thank you, Mr. Chairman. I,
+uh, I just want to remind the
+committee that, you know,
+there's other entities in the
+state of New Mexico that
+That, uh
+You know,
+Cause
+Health
+Uh, risks or whatever direct
+costs.
+For health and to, I'm just, I
+understand what you're trying to
+do and what you, what you were
+asked to do by the task. Um,
+And I think I, a lot of my
+questions got answered with the,
+the rest of the, the um.
+Your, your presentation. Um, my
+My final just reference would be
+that, um, Mr. Chairman and
+committee that
+We need to look at across the
+state.
+Or what happens to our
+communities, uh, and the
+negative impact that setbacks
+would have.
+Uh, there's already setbacks, as
+you stated and as you showed
+very well in your, in your, uh,
+presentation.
+Where
+You can look at a high rate of
+inflation, first of all.
+If we do these setbacks, a high
+rate of unemployment.
+And a high rate of uh companies
+just moving across the line to
+Texas.
+That, uh, really hurts our
+economy even more.
+And um
+And
+The health impacts.
+won't change.
+Thank you, Mr. Chairman.
+Senator Gao.
+Thank you, Mr. Chair and thank
+you, Mr. Torres. A lot of good
+detail here. I appreciate it. I
+just wanted to clarify one
+thing. I live in Eunice, 4 miles
+from the Texas state line, about
+95% of our air volume.
+is going into Texas, not the
+other way around, unless there's
+a huge er hurricane in the Gulf.
+I don't know that uh Texas.
+Sends any pollutants towards us,
+so, uh, they may wanna look into
+your details, see what we're
+doing to them, but I did have a
+question on uh the current
+setbacks and have we done any
+kind of historical view at
+Where we are with any issues
+with current setbacks. I, I
+guess I'm trying to figure out
+what our benefit is. We can
+already see the loss in revenues
+that this isn't gonna be OPEC
+cars, there's gonna be
+legislative cause our state
+budget, but I'm wondering if the
+uh
+In the current numbers that you
+had here, uh, are there issues
+with setbacks, uh, I, I guess
+just another caveat there is I
+live, I've been in Eunice for 35
+years. I lived about 70 ft from
+an oil well.
+I never had an issue.
+I did have mother die of cancer,
+but I brought it from Clayton,
+New Mexico, so probably the gas
+from the cattle.
+Could have been uh part of that.
+But, uh, currently I don't know
+or that well has ever caused me,
+my wife, my daughters, or my
+granddaughter an issue, and I'm
+just trying to figure out what
+the setback is that.
+Uh, it's probably 200 ft from
+our football field.
+Uh, you know, schools, which I'm
+also on the school board.
+Uh, so it's never been a
+concern. I'm just trying to get
+a graph.
+for the issue is on the setbacks
+and why we're going so detailed
+into trying to find out.
+Um, the, the need for sip.
+Mr.
+Uh, Mr. Chen and Senator, we
+have not done an analysis on, on
+historical setbacks, impact on
+production.
+Um
+I, I, I do appreciate the
+opportunity though to clarify
+that
+The setbacks proposed.
+Um, would only apply to new
+permits. So those existing
+wells, say close to you or close
+to to the football field would
+not be impacted by setbacks. So
+that's, I think, um why the
+detailed focus on sort of the
+future impact. Um,
+Uh, I'm not sure if that
+answered your question. Well, it
+gives me an indicator and Miss
+Torres, I appreciate it, uh.
+The community already do that.
+So, uh, I'm, I'm trying to
+figure out why we're
+duplicating, for instance, gal.
+Ja, New Mexico, huge Permian
+Basin.
+Or gas
+mean
+They pushed back on some uh
+whales.
+Because it's too close to their
+infrastructure.
+And they personally as a
+community, look upon themselves
+to
+Uh, do a setback rule for that
+entity. So I guess I'm trying to
+wonder why we as a legislator
+trying to impose it.
+All entities and give back the
+the setbacks, and I'll, I'll end
+with this Miss Chair and Mr.
+Torres, uh, January of 2023, I
+was able to go to speak the
+Congress on the value of
+permits.
+Because we know there's
+shortcoming on permits taking
+along longer time on the federal
+side.
+And when I did that
+presentation, being that I've
+been on school board for at that
+time, 21 years, I'm 22 years
+now, uh, the value of the permit
+and the value of the old gas
+towards our students.
+And our teachers.
+And we need to remember what Oas
+does for our communities.
+And who had definitely affects,
+but I appreciate all the detail
+and I like that you're trying to
+be uh just find this wine and
+sand of what the values are.
+But I think there's a lot more
+to the discussion.
+And just the value to.
+Of the state of New Mexico, so
+with that old deal. Thank you,
+Mr. Chair. Thank you, Mr.
+Torres.
+Senator.
+Thank you, Mr. Chair.
+So, Mr. Chair, my first question
+is,
+Why are we even proposing
+setbacks.
+What end? What's the goal? What
+are we trying to do?
+Mr. Chair and Senator, I, I
+think I also appreciate the
+opportunity to clarify that um
+I'm not here in, in, in favor or
+opposition of this proposal as
+staff, we're tasked with
+impartial analysis. So, um, I
+don't think that would be an
+appropriate question for me to,
+uh, impose my own perceptions
+of, of the goal here. So, Mr.
+Chair, why?
+Are we doing this? Why are we
+even considering it?
+Are you asking me the question?
+Yes, sir. I, I mean, bills were
+introduced last year, right? And
+we didn't know if something
+passes in the legislature, what
+the actual cost is to the
+legislature, right?
+So, you have to look at
+everything.
+The budget committee and say, if
+this happens or this bill
+passes, we want to know what our
+Our costs are to the state. And
+so I think you look at setbacks
+cause it's been a topic for how
+many years now? 34.
+Maybe more.
+Maybe less, maybe less.
+That, that from an economist,
+just a guess.
+Um.
+But I think you have to look at
+everything and say, OK, if this
+happens in in in the economy or
+this happens, and a bill passes,
+what is our cost? We do that all
+the time. We do that with health
+care bills, we do that with
+educational bills, we do that
+with every single bill that we
+in an FIR on. And so this is a
+big topic for the legislature
+and say, OK.
+We know that
+We know this, this is gonna be a
+very interesting people should
+listen and New Mexico is really
+set itself up.
+Be independent of oil and gas
+with a few more years.
+And so
+You're gonna hear some good news
+in January and news that's gonna
+shock a lot of people that that
+were in New Mexico's really at,
+and so how do we really get
+that?
+Going in, and how do we take a a
+view across every piece of
+legislation that that happens. I
+mean, we, we looked at these,
+uh, I can't remember what
+Charles are some bills that we
+looked at in LFC that in the
+past that we wanted to see what
+the actual cost of would happen
+if they, they were to the state.
+I mean we at oil and gas, look
+at
+Fuel taxes.
+Gas taxes, right? And see what
+the revenue is to the state. We
+look at what the whole harmless
+cost was to the state. That was
+232 million back then. I don't
+know what it is today, right?
+And so we look at all those
+across the board.
+So, Mr. Chair, I, I, I'm not
+disputing why we're having this.
+This discussion on, on what
+happens to the revenue.
+Why do we have setback?
+Why are we even discussing
+setbacks?
+To what end?
+Now, if, if the end is simply
+the destruction of oil and gas
+industry in New Mexico or the
+world.
+Well
+OK.
+If it's really about health
+issues, that's different.
+Um
+So, so that's the question, why?
+Why are we even having a setback
+discussion.
+And, and, and I bring that up
+because we have oil wells.
+There are a few yards from a
+football stadium.
+Or
+Even shorter distances, the city
+parks in the city of Farmington.
+And nobody's dying from them.
+So why are we having the
+discussion? Do we want to get
+away from oil and gas. I think
+that's foolish. Do we need
+something beyond oil and gas?
+Absolutely.
+But I don't think we can get
+away from oil and gas. If y'all
+really want to get away from
+that, take off every piece of
+clothing that is not synthetic.
+It would be very disgusting.
+Don't you,
+you, you, you can't sit on those
+chairs because they, they were
+made from some petrochemical
+company.
+You can't use your computer, you
+can't use the microphone. You
+can't drink out of the cup.
+Because all of that is
+synthetic. Almost everything in
+our world today is synthetic.
+Yes, we have cotton.
+And my shirt is, oh, I think it
+says 80% cotton, so that means I
+still get to wear 20% of my
+shirt, right?
+But it's, it's, it's, it, it
+makes no sense to try to make
+oil and gas go away. It makes no
+sense to our economy. It makes
+no sense to health.
+Because
+It's cold out there, and if
+everybody wants to go back to
+their car, which, oh, by the
+way, uses oil and gas.
+Uh, including the tires,
+including the roads you drive
+on.
+Then walking back home,
+Which
+Has paint on the wall and carpet
+on the floor and the insulation
+in the walls and the ceiling,
+which is all oil and gas.
+It doesn't take long for
+everybody in this room to freeze
+to death tonight.
+If we did that.
+And that's not healthy.
+So I don't know why we're trying
+to do this unless we just hate
+humanity so much.
+Um, the health.
+As Senator
+Gallegos pointed out the wind
+generally blows from California
+to Texas.
+And, and we're just, we're just
+flyover country.
+So most of the garbage that's in
+New Mexico here came from
+California. Fortunately, we're
+still shipping it to Texas and
+who's sending it to Louisiana
+and off wherever they go from
+there.
+But
+When we're looking at the health
+benefits,
+One of the things I'd really
+like to know, Mr. Chair, is
+asthma and cancer rates.
+For children in hobbs.
+Versus children in Clovis.
+Asthma rates are higher in
+Clovis.
+Answer rates are higher in
+clothes than in Hobbs.
+A lot higher than they are in
+farmington.
+But I would also like to know
+what are those rates in Omaha?
+Compared to Hans
+What are those rates in San
+Francisco compared to Hobbs or
+send uh uh um Manhattan compared
+to Hobbes.
+That makes a difference compared
+to what we can say 1000 kids
+have asthma.
+OK. Compared to what?
+We don't have a comparison.
+We just say kids have asthma.
+Kids have asthma all over the
+world. It's have asthma in
+China, they have asthma in
+Australia, they have asthma
+here.
+Though compared to what
+I think that's important to
+know.
+The other thing that I think
+that we've, we're, we're missing
+here, and I would really like
+to, to have some better data. I
+heard, I was looking this up
+here, I was trying to find it.
+The cleanest barrel of oil in
+the world.
+Comes from the Permian Basin.
+Now, what that means is not only
+is the oil itself.
+clean
+But how you get it out of the
+ground, the production is clean.
+How you transport it is clean.
+So the cleanest barrel of oil in
+the world. Now, I heard that.
+I couldn't find it here.
+Well I, I admit that I don't
+have the, the reference other
+than whoever told me this, OK?
+But it makes sense.
+Because we already know that the
+oil there is good oil.
+And we know that we've got a lot
+of rules today that make it
+clean in the production.
+So why would we want to shut
+down the cleanest oil.
+And encourage Russia or
+Venezuela or Saudi Arabia or
+Iran to produce more oil that we
+would then buy from them and arm
+them so that they could kill
+more people.
+Why would we want to push that
+production to those countries.
+Their their oil and their
+production is not as clean as
+America.
+And we're using it to build
+hospitals in New Mexico.
+They're using it to buy weapons
+in Ukraine.
+Be a difference compared to
+what?
+That's the question. So on all
+of these things.
+All of these things.
+Before we do something stupid,
+we need to say compared to what?
+On everything, and at what cost?
+You hit the at what cost?
+We didn't hit compared to what.
+And I think that that's
+important.
+Important.
+So, thank you, Mr. Chair.
+Representative Lujan.
+Thank you, Mr. Chair. I
+appreciate the time.
+Um
+This is a lot of work. This is,
+I want to thank you for, for
+taking a, a stab at this and
+really with all the other
+factors and variables that you
+couldn't include in, in this
+work that you did, because it's
+gonna take a little bit longer
+for you to do that. With that
+said, from the first
+presentation we had from um
+It was mentioned that the, the
+OPEC in the market actually
+Affects our production and
+supply by withholding supplies
+so that there's a market
+control, I assume, or as I
+heard.
+Was that used in your factoring
+in any of, of your data or
+information. And if so, which
+would have a bigger effect on
+production.
+Mr. Chair.
+Uh, Mr. Chair and Representative
+Wuhan.
+Yes, that, uh, that type of
+analysis that Mr. Golding
+presented is incorporated in
+here through our estimates of
+prices.
+So, the expectations that Mr.
+Golding laid out.
+are certainly this same
+expectations we build into our
+oil and gas price forecasts. We
+have very similar outlooks as,
+as Mr. Golding presented, um,
+for that reason.
+Um, I think that if the question
+is, would say a price war or, or
+to Mr. Golding's mention of, um,
+you know, market control, uh,
+increasing production to drop
+prices to increase market
+control.
+That can have a very large
+impact to the extent of the of
+the price war to the extent
+prices decline, has different
+impacts on production in New
+Mexico and different impacts on,
+on
+Production value or tax revenue.
+Um
+But it could certainly be
+greater than the impact of
+setbacks if prices were to go
+low enough, say $30 in the $30
+or even the low 40s, we could
+see um break even prices being
+hit, which would slow down
+significantly more drilling in
+New Mexico. But that being said,
+we do not currently estimate
+that to happen.
+Thank you for, thank you for
+that last statement. We don't,
+we don't presume that that's
+going to happen. In fact, we
+know that.
+There's a, there's a stable line
+of production and for the future
+for the
+The longer future, I think we've
+said that in this committee
+before too, Mr. Chair. I guess
+what I'm trying to get out is
+during the report here, it says
+it set backs are anywhere from
+10 or 5 to 10%.
+Um
+Did your, a, a decrease, are we
+looking at
+Profits and production, when
+we're looking at record amounts
+of production. We're looking at
+record amounts of profits for
+the industries.
+What price are we putting on
+health. And also, Mr. Chart, I'd
+also like to note that
+You know, I don't, were you a
+second question, Mr. Chair, did
+you estimate any of the natural
+disasters due to
+Um, the effects of this industry
+in our state, uh, just our state
+alone. I mean, there's a global
+effect as well. Now, those are,
+those
+Or variables as well. So this,
+what I'm getting at, Mr. Chair,
+we don't have a full picture of
+all the
+The variables are are in the
+effects of this industry, but
+what we are trying to do is find
+solutions. And I will say that
+that is really important too, as
+we're working across the board
+with industry and with
+everybody. We're trying to look
+at solutions. This is another
+way of us coming together to not
+just look at the, the 5%
+economy, uh,
+That could be could be lost.
+From the, you know, for
+setbacks. It's to say.
+Where are our values here? Um,
+is it more valuable to protect?
+Or health
+And um
+In our, and our taxpayers here
+in New Mexico by figuring out a
+type of solution because it's
+not just based on what we are
+going to get in the revenues.
+It's based on a bigger overview
+of what is, is happening due to
+um
+The uses of of this product.
+Quite frankly, Mr. Chair, so I
+think this is a bigger
+conversation. I really
+appreciate the work. This gives
+us a lot of insight, but I don't
+think it's to the full and clear
+picture that we're, that we need
+to make some very big decisions,
+but decisions, big decisions are
+already being made.
+Economically,
+From our federal government on
+down. We do have timelines of
+how we are trying to move away
+from uh depend dependency on oil
+and gas, and I don't see this as
+part of the equation. What we
+have done in New Mexico is
+we've, we've had a, a, a very
+good bill from Senator Bobby
+Gonzalez SB 26 in 2023. The
+strategized and new strategy to
+help us um cheer up.
+What some of these downfalls
+could be the downturns in the
+economy due to these uh what we
+need to do through our ETA and
+through other policies received
+from the federal government and
+global, um,
+issues we have due to this
+industry. I'm just trying to be
+realistic here. I'm not saying
+we're gonna move completely away
+from oil and gas. We, we know
+the dependency and
+And the benefits we, we have
+from the industry, what I'm
+saying is, how are we going to
+strategize to say we need to
+look in a better way to
+Through all scopes,
+all these variables of how we
+can get to a better place to
+protect the health of our New
+Mexicans.
+And if, if the concern is how
+the air is blowing, then it not
+only affects this population in
+this state, it affects
+populations in other states, in
+other areas. So that can't even
+be measured, uh, Mr. Chair, what
+I'm saying this is a bigger,
+bigger, bigger issue. Um, and we
+as the policymakers.
+Here in New Mexico, and on this
+committee understand that we
+have a job to do in
+understanding where our revenues
+come from, and working with that
+industry to see how we can, um,
+Better prepare for our future,
+but we also, the first priority
+are our taxpayers and their
+health.
+And what
+We need to get some better data
+or more data or just a fuller
+scope of information because I
+don't think we're seeing the
+entire scope of that here,
+though you did incredible work
+and I commend you for that. I
+just think there is more to do.
+We need more data, we need more
+information. And if5% to 10%
+decrease in those reed revenues
+if it can be proven that we will
+improve the health.
+Of our taxpayers and maybe
+others in other states as we're
+talking as the wind blows, Mr.
+Chair, I think it's really well
+worth the investment if that's
+the way we want to look at this.
+Um, but I do not believe we have
+enough information. Um,
+It's just focused on, on the
+revenue part of this. We need
+more information from these
+other variables that I've
+mentioned.
+And I think we owe it to our
+To our taxpayers and to our
+state to do that type of work,
+and I commended the chair and
+making and the committee for
+doing this part, this portion of
+it. It's really important, but
+it just gives us uh a short view
+into this and, and we don't need
+to start this, this division of
+Of um
+You know, just uh focus on oil
+and gas and industry and
+protecting that at all costs
+versus, you know, we have to,
+you know,
+have this other discussion and,
+and create this polarization
+that
+I don't think it needs to be um
+part of the discussion right
+now. I think the more
+information that we get, the
+better, um, policies we can come
+up with just like what we did
+with Senator Gonzalez's policy
+because that's the direction
+we're truly moving in. That's
+really what's moving, uh, we're
+missing from this conversation
+today. I think being proactive,
+having a holistic approach to
+this is really where we want to
+be, Mr. Chair, but I don't.
+We're just getting um
+The tip of the iceberg as far as
+I'm concerned with this
+information piece and we need to
+sit down and really have some
+better strategy and looking at
+our policies moving forward.
+It's gonna, it's gonna take a
+lot more than this and that's
+I mean at a polarized uh way or
+approach what I'm hearing today.
+We need to stop that. Thank you,
+Mr. Chair. I appreciate the
+time.
+Thank you, Representative
+Sariana.
+Thank you, Mr. Chairman. First,
+thank you so much, you and your
+team for all your hard work on
+this um presentation. I really
+appreciate you. Um, I love LFC.
+Um, comparing human health to
+the value of gas and oil
+involves weighing the economic
+benefits of fossil fuels against
+their negative impacts on
+health.
+Of New Mexicans.
+Um
+I was invited to the rollout of
+the new healthcare database
+synchronous, which tells and
+shows, um, the effects, the gas
+and oil, um,
+has on the community surrounding
+the extraction areas. It shows
+it and it shows the cost to the
+state, but yet we cannot get
+that information from Department
+of Health or whatever they're
+called now. When we can get
+that, we will show the effects
+and the cost to these
+communities because we can, we
+can say, oh, nobody's really
+getting hurt. Butal is brave
+enough to say, yes, we are,
+let's move those setbacks back.
+Um.
+The health costs.
+They lead to
+Help, help, um,
+Respiratory disease, all these
+different things, heart
+conditions, illnesses that
+result in significant public
+health expenditures. We saw that
+yesterday in the meeting when we
+were talking about the effects
+of wildfires, the extreme
+effects of wildfires and are
+flooding that is directly caused
+by gas and oil, and we know
+that.
+So
+So this industry and what we're
+trying to say is great because
+it gives us so much money, is
+hurting New Mexico in so many
+ways. We are paying for the cost
+of cleanup. We are paying for
+people with people's lives
+because of wild flowers, fires
+and floods. These have to be
+important to us. We can't just
+say money is the most important
+thing. It's not. It really
+isn't.
+Um,
+I don't know how to make it
+clear, I guess, cause yesterday
+when we were talking about the
+effects of the wildfires and the
+floods.
+And the costume New Mexico. This
+isn't going to change. We're
+gonna, it's gonna continue as
+long as we have um this industry
+causing the heat effects it is,
+the global warming, the gas, we
+learned in our last meeting
+about ozone, thanks to Senator
+Woods asking what is ozone? We,
+we, we learned what it is and
+how it affects and how directly
+gas oil directly impacts it, and
+it's, it's hurting our state,
+it's hurting our world, but we
+don't seem to care because money
+is so important.
+Um, I think the quality of life
+of the, of the community, we
+have to really look at. These
+kids, 34,000 kids would live
+within a mile or go to school
+within 1 mile of an extraction
+site.
+We know what's coming out of the
+extraction sites, benzene.
+Carbon dioxide.
+All these methane, these things
+hurt our kids. So their future
+is just expendable, I guess.
+I guess that's what we're
+saying because if money is more
+important than anything else,
+that's what we're saying, and I
+don't believe that. I don't
+believe as a state, we don't
+find our kids and our educate,
+educating our kids is important.
+We give a lot of money to it.
+But yet
+They're expendable here, and
+that's not right. And that's
+what we have to think about as a
+legislature. Our job is to look
+at New Mexicans and how do we
+help them?
+Not Manhattan, New Mexico.
+Um
+I guess, while gas and oil has
+significant economic value.
+There's impacts on human health
+can be profound and
+far-reaching.
+Prioritizing health and energy
+policies and investments can
+lead to more sustainable and
+equitable outcomes. We need to
+focus on how we move away from
+this industry because it is
+hurting us so much.
+Um
+And and and thank you for
+everything you said and did and
+everything you, you came up
+with, but I still believe, um,
+money can't be the most
+important thing to the states.
+Our kids, our communities,
+That live within this area have
+to be important too.
+Thank you.
+Thank you, Representative
+Sariana. You know, we started
+this journey in Carlsbad, right,
+to educate ourselves, and this
+is, this is educational, right?
+We're not
+Drawing the basis analysis. This
+is an educational process
+because nobody knew what
+setbacks really were, what they
+really did, and how they
+affected anybody, so.
+And Mr. Chairman, thank you for
+that. I do appreciate that and I
+do appreciate this presentation
+and all the time we bringing to
+this because everyone needs to
+know what's happening. And, and
+that the gas and oil industry,
+yes, it's great for our state
+and the money, but if there are
+other effects and, and like I
+said, um, with climate change
+and greenhouse gasses, wildfires
+aren't gonna stop. They're gonna
+continue. Floods aren't gonna
+stop. They're gonna continue. So
+we're gonna be paying out for a
+long time because of this
+industry, so anyway.
+Thank you, Mr. Chair. Thank you.
+I don't.
+Thank you. Uh, Senator Woods.
+And so let me go down the list
+to get Senator Woods,
+Representative Baca,
+Representative Chatfield,
+Representative Garcia and
+Senator Padilla.
+And represents small.
+Tender woods.
+Again, Mr. Chairman, I, I wanna
+thank you for the opportunity
+for
+To be on this committee and, and
+uh
+Hear this discussion.
+My question are gonna be about
+Something you may not be able to
+answer, but maybe
+I could ask you to think about
+it when you're further analysis.
+In, in the United States, we, we
+created a
+Uh, a system of government, and
+then we created a a rule of law.
+Because when we
+Came
+When our forefathers came.
+They decided that
+The king didn't know everything.
+That, uh, there was value in
+private property ownership.
+That an economy could happen.
+Because people actually want to
+take initiative to work for
+themselves, better their
+families.
+And
+It created a a capitalistic
+system that, that many people
+are still fighting against
+today.
+And uh there there's certainly
+countries in the world.
+That, uh
+Uh
+Government has taken over
+industry.
+Rush is a perfect example.
+Uh, they have taken over
+industry, uh,
+To create uh wealth for
+Themselves or or government.
+And
+So, but in the United States
+right now, I'm pretty sure.
+Uh
+Private ownership of property.
+It's still a big thing.
+And I think, uh, you know,
+Probably everybody in the room
+owns a car.
+Every probably everybody in the
+room, a lot of you own a house.
+And I know I'm gonna make these
+statements being a non-lawyer,
+everybody knows that I'm
+The furthest from a lawyer,
+there was, but
+I had a couple of uh mentors.
+During my legislative time.
+Uh, and I hope I don't ruin
+these guys' reputation.
+By mentioning names.
+One of them was Kenny Martinez.
+And one of them was Michael
+Sanchez.
+And they both believed
+That there were fundamental
+laws.
+That we had to deal with.
+So, my question to you,
+is on page 15.
+And it shows the share of New
+Mexico wells affected.
+And when we talk about
+You know,
+The, the private ownership.
+Of these wells.
+And the total
+Um
+Sheriff of New Mexico oil wells
+affected, and it shows private
+ownership, the total.
+is 52%.
+And
+When it goes to the counties of
+80 and San Juan.
+Private ownership is 71%.
+Of the wells affected.
+So just a quick question.
+You know, and our constitution,
+there's this little deal about
+compensation,
+compensation for a taking.
+Is there, has there been any
+thought?
+About
+There will be a taking.
+this regulation.
+I mean, if, if a law passes.
+And whatever setback is there.
+Is there any thought to that
+being a taking, taking.
+Of a private individual's
+property.
+And even at that, when, when we
+go, you know, uh, there, there's
+much.
+Thought in the state in Mexico
+that uh state owns the water.
+For example, it's a natural
+resource, the state owns it.
+But
+The person that put that to
+beneficial use has, has a water
+right.
+So he has a right.
+That if we take that right away
+from him.
+Then we're probably gonna have
+to compensate.
+Someone does.
+All right, how about oil and
+gas. Now all is a completely
+separate type of of uh law
+pertaining to oil and water,
+does the state own all the oil
+in the state of New Mexico.
+You know, evidently not when we
+start talking about the Federal
+Reserve over here, it's got on
+page 9.
+It shows production.
+By uh
+By the federal, private, and
+state.
+So that gives me an indication.
+Those are the owners of that
+oil.
+Not the state of Mexico, the
+state of Mexico has the red
+there on that chart.
+So again, the setback rule in
+the Mexico.
+Will that govern
+The Federal leases.
+I know,
+I saw him in here a while ago.
+I'm sure he's.
+He may have left already.
+But my question to you, uh, have
+we
+Have we included in our
+Financial impact.
+Any thought about takings and
+what those will cost.
+Mr. Chair and is, yes, Mr. Chair
+and Senator Woods, we have
+thought about that, um,
+are, are finding is that if
+setbacks were to somehow be
+created that impacted already
+permitted, already producing
+wells, that would certainly
+trigger compensation.
+For this analysis, um, we were
+assuming setbacks only applied
+to not yet permitted wells. So
+there wouldn't be a taking and,
+and your example, and so there
+wouldn't be compensation needing
+needing to be provided. But yes,
+absolutely, if, if
+Any legislation, or if, or if
+such legislation were to remove
+the ability of existing permits
+to produce and and to your point
+as well, even leases, leases uh
+to produce even on New Mexico
+resources could
+Trigger uh uh a need to
+compensate for the taking of
+that uh ability to produce. But
+for this analysis and for the uh
+uh proposed setbacks, that would
+not be the case because they're
+not yet permitted.
+It only would apply to not yet
+permitted production.
+So in other words, if, if I had
+private property.
+And it didn't have a permit to
+drill on it.
+That would tell me that I would
+never be able to drill on that
+private property.
+And yet that wouldn't be a take.
+No, Mr. Chair, in our analysis,
+it wouldn't be.
+Well, I can see that that could
+be a little challenge somewhere.
+We have, we have a
+Very emotional issue here.
+I know.
+But I worry as much about the
+rule of law as anything.
+Because it without
+The ability to hold private
+property in our nation.
+Unless we just want to
+Turn our laws upside down, and
+have the state own everything.
+And then all of a sudden,
+We are all employees of the
+state.
+And as you know, right now,
+The state employs about 1/3 of
+the people in the state.
+About 30%, not 3.
+30%, including if you can
+include the school teachers as
+being state employees.
+Not to say they don't do a good
+job, they don't do a service,
+they provide services.
+But their net wages.
+paid by a
+a a
+Taxpayer
+They pay taxes too, but their
+total wages and their benefits.
+paid
+taxpayer.
+And
+You know, uh
+Until, you know, this is all
+great stuff, there's all.
+The motion in this thing.
+But physically responsible
+people.
+After to realize.
+That what was it that we saw
+that that
+On page 21.
+On page 21, you know.
+The estimated production loss of
+$4.5 billion.
+In 2035.
+What are we gonna lay out?
+Which one of these free
+programs, or we're gonna
+eliminate?
+Is it free college?
+Rehousing
+food to our kids.
+Which one of the three are we
+gonna give up?
+It's, it's a, it's a long term
+deal.
+So we're talking about is, but
+as you see these oil wells.
+Declined very quickly after
+their driven.
+So if we cut,
+We cut permitting and no new, no
+new oil wells.
+We're gonna run out of money big
+time hurry.
+Others thought that we can our
+our permanent funds are gonna.
+Then we're going to make a lot
+of money out of, out of those
+and now, investments are going
+to carry the day.
+But the only way investments
+carry the day, if some other
+thing that we're investing is
+making money.
+So
+That's a challenge also.
+I appreciate your report. I
+think you did a very thorough
+job in looking at it, uh, I, I
+am amazed that you could take
+this many data points.
+And overlay them, and, and come
+up with a lot of good
+information.
+Uh,
+it, this, this
+Production setbacks scenario.
+Uh, on, on, well, on page 20 on
+page.
+On page 19, on page 18.
+You know,
+Look at what will happen if we
+just stop drilling for oil
+today.
+And how many people will live in
+the state of New Mexico.
+In 2035.
+If we just eliminate oil and gas
+production.
+Under the same scenario we live
+in today.
+Where we support so much of our
+population.
+And you don't have much, how
+much population we have under
+our, our Medicaid right now, and
+we're talking about expanding
+even that to cover more people.
+And what that will cost.
+The state of New Mexico.
+So
+Until
+I am shown.
+Another source of revenue.
+This being pragmatic I can't
+see.
+What we can do here.
+That, that makes sense.
+If we're gonna keep the same
+standard.
+Of giving
+That we are doing today.
+you know,
+I, I'm out of here. Thank you,
+Mr. Chair
+Representative Chatville, we're
+45 minutes behind time frame
+now, so we're gonna have to
+speed it up a little bit.
+Uh, I don't remember who I sit
+next, so I got Roer Chatfield
+and Representative Garcia
+Padilla on the list.
+Representative uh Garcia, why
+don't you go first and then
+we'll just swing back around. So
+be as quick as we can to make
+sure we're asking questions.
+Represented Garcia, fire away.
+Uh, thank you, um, Mr. Chairman.
+I, I, I have more of a comment.
+And one question and permitted.
+You mentioned earlier in your uh
+uh presentation that Mexico
+takes a long time to.
+Put out firm, is that correct?
+Mr. Chair, I'm not sure if Mr.
+Golding is still online um with
+his analysis to answer if if
+he's not, that's fine, you know,
+that's fine, uh, I do wanna just
+to comment, OK?
+This committee and to all the
+people hearing, you know, in
+2016 when I came into the
+office.
+He was broke.
+No, we were sweeping money from
+everybody and everybody's crying
+our kids don't have this free,
+they don't have that free, you
+know, and we're targeting oil
+and gas. That's what we're doing
+here.
+And you know, and everybody
+wants clean air.
+fresh water, we all do.
+But we're biting the hand that
+feeds us, and at the end of the
+day, we're gonna be saying what
+happened in 2016, how quickly do
+we forgot.
+You know, I came into office in
+2016.
+I was appointed to by the
+Governor Martinez into office
+and the state was broke and we
+were sweeping money from
+everybody, from education, from
+health, from everybody, but we
+just need to keep that thought
+in mind, you know, take away oil
+and gas and what are we gonna
+do?
+You know, cause uh clean energy
+is fine, you know, these
+turbines that we have out here.
+They all have oil in them every
+single one of them run off of
+oil.
+So we take oil and gas off,
+we're not gonna have no turbines
+either. That's just the problem,
+Mr. Chairman. Thank you.
+Representative Chapville.
+Thank you, Mr. Chair.
+Um, you know, mankind is, I, I,
+first of all, I appreciate the
+hard work you did and I'm
+impressed that you're able to
+come out and, and I appreciate
+you sitting there and being the
+recipient of all these comments
+of wisdom that we're bringing uh
+forth.
+Mankind over the years they uh
+have survived a lot, you know,
+the earth was it had dinosaurs
+on it and then we had the ice
+age and so it was hot and
+tropical and then it went into a
+cooling deal and man came out of
+that ice age, uh, doing fine
+and, and through many, many
+different types.
+Of whether
+Uh, we have survived.
+Things that other species
+couldn't because of our ability
+to adapt. That's what we're
+doing right now, we're adapting,
+right? Uh.
+Going into a little, little
+different time of, of climate
+and, and that's happened before.
+It's big.
+Uh, big, uh, circular thing that
+comes around here on this earth.
+Uh
+I'm unconvinced.
+That setbacks.
+will cure all the, all of our
+health pro issues.
+I, I don't think there's
+anything more important to
+anybody setting up here than
+health and safety. We all
+Uh
+That's our top concern for all
+of us, health and safety.
+Uh, the discussion is how do we
+get there discussion is how do
+we adapt?
+So I'm unconvinced that
+increasing setbacks.
+It is going to cure.
+Much, if any of our health
+problems.
+I am unconvinced that reducing
+Uh
+Climate change without dealing
+with density of forests.
+is going to stop forest fires.
+Uh, it, they, they, they work in
+tandem. Senator Woods had a good
+point. You need to, to have a, a
+catastrophic fire, you need a
+wet year followed by a dry year,
+so wet year grows a lot of
+undergrowth and the dry year,
+uh, helps it to ignite, so
+Uh, hopefully we can uh get
+through this. I think we need to
+take a real deep hard look
+before we sacrifice a large.
+percentage of the income of this
+state is something that has not
+been proven.
+To solve the problem we're
+trying to support to solve.
+Thank you, Mr. Chairman.
+Representative Baca.
+Thank you, Mr. Chairman and
+thank you, Mr. Torres for this.
+Um, I'm gonna be directing my
+questions. So,
+I've been in office since 2022.
+Can you tell me how much our
+budget, the state budget,
+overall state budgets has
+increased between then and
+today.
+If you don't have, I mean, just
+ballpark. I, I don't know.
+I, I believe when I first came
+in it was, we were somewhere
+around $7 billion.
+I believe now we're looking at
+$10 billion. I mean, if that is
+that at least in the ballpark,
+Mr. Chair, I believe we did
+around 12% um in, in the
+previous year and then about 6%
+after that. So maybe around 18.
+%
+Growth over that period.
+Thank, thank you, Mr. Chairman.
+Thank you, Mrs. Doors. And I, I
+guess
+And I sit here and, and I cannot
+be an advocate and a champion
+for education.
+Without at least having concern
+for our students in our schools.
+And, and my big dilemma is where
+did they intersect?
+Whereas
+Um
+Uh, the intersection because
+The impact on funding for
+education and some of the
+programs that outlined by
+Senator Woods are important to
+me.
+Can you tell me as far as with
+the
+Very briefly.
+How the oil and gas industry has
+helped both the school, uh,
+Capitol Oli Fund and the uh SCG
+or the funding for our students.
+Yes, Mr. Chair, uh,
+Representative Baca, 100% of
+School capital outlay comes from
+severance taxes.
+Um, and I believe right now
+we're maybe around 35% of the
+state budget coming from direct
+sources, so about 35% of the SCG
+could be attributable to that.
+Although,
+It's a little tricky if you
+include permanent funds, but
+I'll leave it at that.
+And, and thank you, Mr. Sherman,
+and thank you, and, and that's
+why I'm saying I sit out here
+and I, I think of the STEM
+centers that I have been
+supported by this industry. I
+stood out there and I, I look at
+The challenges that we have as
+far as our low performing
+schools and it's not
+Because of the hard work of our
+teachers or students.
+We've got to be able, this, this
+has been a bipartisan.
+Uh, effort to support our
+schools.
+And quite honestly, I fear.
+That
+If we are not careful and
+diligent about this.
+It will be, it will affect our
+ability to fund our schools for
+future generations cause I don't
+see in the near future, any
+foreseeable replacement of this
+industry.
+So I, as I said before, I'm, I'm
+I, I really do think that we
+have to consider very closely is
+where they intersect. I do
+believe in higher standards and
+I do believe that we should hold
+people responsible for this, but
+I also believe that many of
+these folks working there, they
+move their families within these
+sites as well. So, I, I think
+it's, it's where they intersect
+as far as this, we cannot say
+it's not about just the money.
+We cannot say that we don't care
+about people, but we also cannot
+make decisions that will have
+the unintended consequences and
+effect our capital.
+outlay our infrastructure, our
+healthcare, so I think that
+that's why we need a lot more
+information around this very
+sensitive topic. Thank you, Mr.
+Chairman.
+Represented Dixon.
+Thank you, Mr. Chair.
+Um, thank you, uh, Izzy and Mr.
+Golding for the presentations.
+Um, I would like to focus a
+little bit on the, uh, fiscal
+impacts directly, um, and I
+wanna
+Preface all of this with, I
+think this is a fantastic piece
+of work, um, and what it really
+demonstrates is the complexity
+of this issue and that the
+number of factors that go in and
+the um still the remaining
+uncertainties.
+Um
+Hopefully my questions are
+easier.
+Um, so, on page 23, the direct
+estimated direct cost for
+setbacks.
+Um, it, it appears to me that uh
+by 2027, we are looking at um an
+estimated impact of slightly
+over $100 million.
+Is that correct? 150 million
+about 150? OK. And then 2028 is
+450 million.
+Close to 500 million, yeah OK,
+close to 500 million. So, um,
+Can you remind me what the
+fiscal, the positive revenue
+impact to the state, the film
+industry brings to New Mexico.
+Mr. Chair and Representative
+Dixon.
+Um, uh, we've seen studies
+anywhere from say a 19 cents on
+the dollar returned to the state
+to maybe 50 cents on the dollar.
+So if we're spending 100 $100
+million for round numbers, it's
+probably closer to 120, but $100
+million maybe, maybe 19.
+19 to $50 million back from
+that.
+Spending.
+OK, so, um, that industry
+sector.
+Um
+It is about 50 million, we could
+say optimistically.
+Positive
+Or is that too high?
+Mr. Chair, uh, so we, we provide
+credits that are, you know,
+already north of $100 million.
+So,
+Uh, it, it would be.
+I, I guess I shouldn't venture
+off the top of my head. What it,
+it, it's certainly a multiplier
+above that amount of this total
+spend, economic, but the fiscal
+benefit is what I'm mentioning
+about maybe, maybe around $19
+million. OK, thank you. And, and
+sorry for the.
+Asking that question cause it's
+not really on topic, but um what
+I'm trying to get at is we as a
+state have been investing in the
+film industry for 20 years,
+approximately.
+And the
+You know, the money going into
+the state budget from that
+industry is still relatively
+small.
+Um, compared to what we would be
+looking at, uh, as a direct, uh,
+state fiscal cost of, of a
+potential.
+Policy change. Um, regardless of
+whether or not the policy change
+is something that we move
+forward with. Um, what I would
+like to highlight is that
+Our state currently is very
+dependent on just a few
+industries, Oil and gas, film,
+outdoor recreation, for
+instance, and then a lot of
+benefit from our national labs,
+um, and, and military
+installations. Um, and so if
+We are looking at something like
+this. I just think it's
+important for this committee to
+really um prioritize and act
+with some sense of urgency to
+diversify our economy, because
+We are gonna have a hard time,
+um, compensating or making up
+for a loss of 150 million,
+nearly 500 million in just a few
+short years, um, and looking
+toward a billion dollars in 10
+years. And so, no matter what
+the decision is regarding
+setbacks, um, we really need to,
+uh,
+Invest substantially and
+urgently in other forms of
+revenue.
+So
+Thank you. That was it.
+Padilla.
+Uh, thank you, Mr. Chairman,
+and, you know, I couldn't have,
+I, I represented Dixon almost
+gave my exact comments and
+speech I was gonna make. I mean,
+all my points that I was gonna
+talk about here we're
+were made by folks here and
+thank you so much for this
+excellent, you know, analysis,
+like everyone has said, I think
+it's fantastic. I think we need
+to see this, you know, more
+often and more regularly. So,
+especially with the potentially
+40% new state Senate next year
+and I'm not sure what the
+newness in the house is gonna
+be, but it's got to be up there
+somewhere. Um
+You know, it's not lost on me.
+I've stood up in the Senate
+floor multiple times and said
+it's not lost on me and how I've
+remodeled my public schools and
+built new public schools in my
+district, Rhodes, um, you know,
+a parks, swimming pools, all
+these things that money has to
+come from somewhere, and it does
+come in large part from an
+industry like this and, and I'm
+grateful for that. I'm, I'm very
+appreciative of that. I mean, my
+area's been overlooked for, I
+don't know how long, but, uh,
+but I've been able to to
+commandeer some of these dollars
+and get that done. So I, I think
+this industry. I think they're
+doing a a phenomenal job for
+that standpoint.
+On the other side of the coin on
+the health issues, I don't know
+why we can't do both. I mean,
+when, when, when I see slide 23,
+and I'm sure that you have a
+whole other couple of slides
+here to talk about the other
+costs of setbacks and all of
+that. I think all that needs to
+be taken into account, and I
+don't know why we can't do both.
+I really feel like we're an
+innovative, smart people, and
+we've done a lot of wonderful
+remarkable things. I don't know
+why we can't find out how to do
+this industry in New Mexico in a
+way that doesn't affect health
+and children and all the things
+that you heard about today, Mr.
+Chairman, and, and, um.
+I yeah, I mean, it, it's just
+remarkable that, you know, we're
+just getting so hung up on this
+thing when we can truly just
+wrap our heads around how to
+make this better for all of us.
+We can do both of these. I'm a
+firm believer in that.
+The one thing that I would like
+to see in your analysis, and
+this isn't a question, it's just
+more of a, a maybe add on to
+this or something, and it's
+probably in one of the other
+myriads of things you do for us,
+Izzy, so let me just, let me
+just say that I probably just
+haven't been able to keep up
+with all of it. And that is, um,
+you know, I, I'd really like to
+see a, a real sliding scale on
+Effects to this industry, and
+not just this industry. I mean,
+you, as a matter of fact, you
+could talk about health concerns
+with windmills, mills. I mean,
+the, when they fall down to the
+ground, or all whatever they're
+killing in the air or whatever,
+and there's so many other
+things. I don't think people
+realize how many gallons or
+barrels of oil are needed to
+operate one of those things.
+You, you could put this in any
+industry. We just happen to be
+looking at this one today
+because it's one of our cash
+cows, if you will.
+So, but what I'd like to see is
+actual regular Mr. Chairman
+reporting on the drop off of,
+you know, when this revenue
+stream is going to drop off. And
+what, what are we truly, what is
+our backstop here?
+We're trying to do fund reform,
+and we, we talk every couple of
+years about, you know, I don't
+know how many funds, 350 or
+whatever, we probably need 30
+funds to do everything that we
+want to do. But we probably need
+to see regular, more um analysis
+on when, when this revenue
+starts source starts dropping
+off. So it answers what a lot of
+the members up here said, Well,
+what is the other funding
+source? And, and I don't know
+that we're doing that. Do you
+want to make a quick comment on
+that at all or I'm just pointing
+out a few things, you know, that
+you know we're doing that we,
+that we could be doing more of
+or less.
+love to shore up what's going to
+happen here.
+Uh, Mr. Senator, just to be
+brief, we do have some work that
+we produce annually for you all,
+the long-term estimate, which
+attempts to get at that cliff
+effect and uh potential
+transitions of, of sort of
+revenue proportions of revenue
+within the budget, um, for those
+interested, I would, I would
+encourage to, to look at that.
+Um,
+And, and I'll leave it, leave it
+at that. Yeah, so, so Mr.
+Chairman, I think when we do
+something like what we just did
+with this phenomenal analysis
+here. I'd like to see that be a
+part of the conversation. Like,
+how does this link up with what
+you just described. So that we
+see our deficit at the moment,
+what are we trying to backfill?
+We're trying to backfill in 3
+years X, 5 years, 7 years, and
+here's what you've done
+legislature, and maybe you want
+to do, like in my business,
+every year we have an exercise,
+Mr. Chairman, where we lined up
+all of our revenue sources and
+we see which ones are making 2%.
+You know, margin and which ones
+are making 52%. Guess what? The
+2% gets shut down and that
+dollar, those dollars get put
+into the 50, 40 or whatever
+area.
+Plain and simple. I think we
+really need to do that kind of
+analysis here. So that we know
+what we're sort of shooting at
+or aiming toward.
+Thank you, sir.
+Thank you, Representative Small.
+Thank you very much, Mr. Chair.
+Uh, thank you to all the
+presenters. I'm gonna first ask
+Mr. Golding a few questions, uh,
+and very much appreciate you,
+uh, your presentation, uh, the
+insight in your time. First, Mr.
+Gold, uh, ah, you, um, the red
+count, uh, the rig sort of um
+breakdown. Uh, it's been
+something that I've anecdotally
+tried to follow, and I'll lay
+out sort of my understanding
+briefly and would love.
+your feedback, uh, the, the, the
+Delaware, of course, is the main
+part of the Permian in New
+Mexico, as you noted, um, we,
+there's the central and Midland
+in Texas.
+And I've sort of, it seems to me
+that we're maybe, although we
+have some of the best producing,
+uh, area where of quarter or so
+of the actual
+per.
+Land area and then obviously
+there are a number of other
+areas in Texas that produce from
+the eagle fur to others. Is
+that, does that sound roughly
+fair?
+OK, so, uh, my, what I've
+noticed is that the rig count in
+New Mexico and this is based on
+the public Baker Hughes red
+count data we're um we're
+consistently, I mean, when I
+first started looking at this,
+maybe 3 years ago, as I recall,
+we were sort of in the mid to
+low, while we're in the low 30s.
+Uh, share of New Mexico rigs
+compared to Texas rigs.
+Uh, that we had a, you know, 30,
+30 odd%, maybe 32, 33. What I've
+noticed is that's crept up and
+we're now consistently above 35
+and approaching 36, 37. I don't
+know what we are now. Um,
+And so it just, it sort of seems
+to reinforce to me that actually
+it's better to drill in New
+Mexico. Um, there are different
+reasons and we've had very
+detailed uh from our LFC and
+others, there are trade-offs,
+the timelines, as you noted, are
+certainly real. There are many
+other
+Additional costs associated with
+drilling in Texas, related to
+the private land ownership, um,
+and, and but in a longer time
+frame to drill on straight on
+state and federal land in New
+Mexico, in particularly federal
+land. So,
+It just seems like our rig count
+is actually
+Out competing are land share, if
+you will.
+Yeah.
+Got it, got it. Thank you very
+much. Um, one thing I'd be
+interested in the future and
+it's something we've, we've done
+a lot of work on as a
+legislature. I think we're
+poised to do more on both from
+an analysis uh understanding,
+but the role of produced water,
+uh, we know that there's, that
+it's um
+Uh, a very significant factor
+challenges and opportunities
+sort of abound.
+And that particularly in Texas,
+the seismicity issues related to
+produce water disposal are
+significant challenges, sort of
+across the board for production,
+but if there are things that we
+can share or that you want to
+share on that now, that's great.
+If not, maybe that's area, those
+are areas of further
+collaboration because very much
+a shared basin from the water
+perspective also.
+Got it. Thank you very much. Um,
+Secondly, uh, on the outlook,
+uh, I want to spend just a brief
+amount of time on the Outlook
+piece uh one, this is sort of a,
+you're feeling, but the growth
+in production in the Permian. Do
+you think that that has slowed
+upstream exploration in other
+parts of the world, that is,
+they're sort of
+And the, and keeping the prices
+lower, that it's actually slowed
+development of new oil reserves.
+Globally.
+Well
+Got it. Thank you very much, uh,
+super appreciate the short cycle
+long cycle. That's the first
+time I've heard that in sort of
+this context and think very
+helpful. Uh, finally, the sort
+of
+Flattened growth curve or
+flattened oil demand growth
+globally.
+That seems
+there seems like there's
+scenarios there where there's
+continued economic growth, but
+that, as you noted, the shift to
+EVs, LNG displacing diesel and
+other things that, do you think
+that there's
+Um, more of a decoupling from
+oil demand and economic growth
+that we're starting to see
+Got it. Uh, thank you very much.
+This is, it's really, yeah,
+thank you, really remarkable
+insights and I think that you
+see the caliber of sort of our
+team here and to be able uh to
+be sort of the heart of this for
+our nation, really appreciate
+your work and time and the
+opportunity to collaborate and
+send questions, uh,
+Uh, down the, down the road. Uh,
+briefly want to go now to um
+our, the chief economist one,
+just want to really say a big
+thank you, uh, Ms Fabian, Mr.
+Torres, really, and your teams,
+obviously, because it's a team
+effort, really impressive for,
+for Mr. Torres, you know, Las
+Cruces is very proud, and I
+think shows the caliber of the
+work that uh yeah, and um the
+question one on the health
+impacts
+Are there any, is you've noted
+some, some areas where there's
+clear need for future study and
+questions. Do we know if any of
+that is happening and are there
+any sort of, here's what would
+be needed to better understand
+these questions in more detail.
+Absolutely, Mr. Chair. We've uh
+reached out, hopefully working
+with the department to get
+access to that data soon. Um,
+we, we believe it exists. I
+think, uh, uh, rates of, you
+know, some of the diseases that
+have been mentioned premature
+birth weight, um, premature
+mortality, um, lung conditions,
+all those things, we, we think
+that they should be available
+and uh once we get access to
+them, either we can conduct the
+analysis or hopefully we could
+also work with the department to
+conduct that analysis. Awesome.
+Thank you very much.
+much for that. Um,
+Secondly, um, on page 26 of your
+presentation, there's obviously,
+you know some of the limitation
+of estimates. Are there any
+there that you would highlight
+for us that have
+Potentially outsized importance
+or is that sort of the nature of
+some of these unknowns that it's
+very difficult to quantify even
+their impact should they change.
+Mr. Chair, Representative small
+as long as this list is, these
+are the ones that we identified
+that could have the largest
+impact on these estimates. Uh,
+the ones that come to mind,
+price, price is huge. If prices
+go higher, the impacts could,
+could be tremendously higher if
+they're lower, it could be
+lower. Um, but, but I, I really
+do want to highlight that we're
+not modeling the impact to
+setbacks on other production
+facilities like tank batteries,
+compressor stations, gas plants,
+pipelines, I mean, all of those
+things could have large impacts.
+Um,
+And I guess for me, what
+actually stands out is the lost
+acreage is, is, for me, I, you
+know, we're taking analysis from
+someone else and um that, that's
+a huge variable for me, uh,
+because in addition to just lost
+acreage, uh, I, I'm not sure
+what the lost production is from
+uh uh uh well outside of the
+setback zone becoming
+uneconomical because of the
+setback. So,
+I, I would highlight those. OK.
+Thank, thank you very much.
+That's super helpful. And I
+think that so it, it does sort
+of the production constraint
+through area sort of sur the
+sort of surface denial that
+um
+Appreciate sort of really
+highlighting that one. Mr.
+Chair, I think my, one of the
+things and I really appreciate
+bringing in the Fed continues
+LFCs, um,
+Sort of just really leadership
+in this.
+The, uh, I'll be continually
+super interested in
+What seems to be the
+World-class strength, which
+we've heard again and again for
+production in New Mexico.
+And as we see a flattening and
+ultimately or sort of a
+Uh, declining ascent.
+A flattening, and then
+ultimately a decline in sort of
+world demand based mostly around
+transportation. There are very
+valid points about inclusion of
+um
+All of the components of fossil
+fuels in a wide application in
+daily and future life, including
+in a decarbonizing.
+Uh
+Sort of world
+And so it'll be very interesting
+and it seems to show
+That New Mexico's production is
+globally competitive as the
+world burns less fossil fuel.
+Uh, burns it at a sort of a
+slower rate of incline, a steady
+rate of sort of uh mid or yeah,
+that steady point and then even
+as there is less burn for
+transportation, the necessary
+components for a world economy,
+uh, that could be supplied by
+production in New Mexico, which
+uh portends a very, I think,
+Could be a very uh strong
+outlook for our state and our
+world.
+Yeah, thank you very much, Mr.
+Chair.
+Thank you. Um, Mr. Golding, let
+me ask you some questions. On
+page 5 of your slide
+presentation here.
+Hope you're, they're still
+there, yep, you're still there.
+Uh, I'm looking at it in as a
+business guy, I'm looking the
+2030 is a race to production.
+Would, would I be correct in
+that assumption on that slide. I
+mean, there's a lot of, I don't
+know what a lot of these BP net
+zero is the 2030 is the breaking
+point across oil production.
+Is that world demand or is this?
+Yes, long-term demand forecasts.
+OK. But, I mean, it's really a
+demand to 2030 and then it's
+anybody's guess after 2030 of
+word demand and that zero play
+into those scenarios.
+Right. And then on
+I want you to go over for me.
+get back to it here.
+On the OPEC scenario on page 10.
+And, and you're telling us in
+2025.
+This next year that OPEC could
+change.
+The modeling and it could drive
+the market up or down. Could you
+go over that for me one more
+time so I can get a clear copy.
+OK. I mean, that, that's
+something that's really, really
+gonna have to watch, especially
+in New Mexico because we're
+forecasting is basing off 76 or
+$74 and if OPEC increase the
+production and the market
+doesn't hold, then we're gonna
+be looking at a completely
+different scenario rather
+quickly, and this is not the
+first time it's happened.
+This may be the 3rd or 4th that
+I'm
+Been through in, in, in watching
+that scenario so for our
+economists, I mean, OPEC is
+gonna be the demand leader,
+right? And how much it costs. I
+mean, cause their cost to put
+that barrel of oil on the shores
+of the United States is so
+cheap, roughly $30 I think, last
+time I heard that, that there's
+no way that US
+Oil companies can keep up with
+that cost for production, cause
+their costs are a lot higher to
+get them out of the ground just
+to get him.
+To there. And so,
+So you, once, for once I'm
+hearing that we have OPEC over a
+barrel with production in the US
+is pretty much that, that,
+that's a nice scenario to be in
+because when we can control OPEC
+and they need $90 a barrel
+pricing in order to service
+their debt and, and we're only
+needing to look at
+60 to 65 to, to anywhere above
+that, right? To service the US
+costs, right? I mean, that's,
+that's interesting to me that
+the, the roles have really
+changed.
+That OPEC is not gonna be the
+leader driver in in oil price
+that the US can play in that in
+the premium can play in that
+pretty heavily. Am I correct in
+saying that?
+OK. Thank you. Busy and, and you
+got to, Izzy and Jennifer, I
+mean.
+That's a lot of hard work over
+the whole internet, and I
+appreciate that.
+It's a little rough on, on, on
+either side that sometimes cause
+I know you're trying to get data
+from
+Both sides and be equal to both
+sides and, and whenever you're
+getting shot at from both sides,
+it tells you you're probably
+headed in the right direction to
+get a basis point, so.
+Uh, anybody that
+That
+degrees or disagrees is, is on
+one side or the other, and we're
+trying to figure out what the
+baseline is and how we're
+headed. I mean, you know, we
+look at um slide 22 of your
+presentation.
+Those are all benefits of
+Oil and gas, and they may be
+hard to follow like stringy
+spaghetti through there. But
+those are the total benefits to
+the state. Do we know what the
+total benefits are on an annual
+basis and I probably add them.
+Charleston's 15.4 billion.
+That's his guess.
+I think, well, there's, there's
+also the federal benefit on
+here. So Jennifer is remembering
+$15 billion over 15 billion
+revenue from the industry, but
+that's also going 2.7 to the
+Feds. So, if you back that out
+of the 15 billion, you'll be at
+12.3 maybe to the state. And
+that's an annual benefit, that's
+a 202312.3 billion. So I mean
+there's our number, right?
+If you really want to look
+across the board and not just a
+general fund costs, right? To
+capital, to schools, to
+Would it ever we have in here, I
+mean.
+The compensating tax, the
+corporate income tax, right?
+That's the, that's to me is
+chewing up a true number of what
+the really impact is.
+And it may be a slow decline in
+it hit if we do setbacks, but I,
+I, I just. Um, is there any way
+to really calculate what the,
+what the health costs are
+across. I mean, you can go into
+Albuquerque and say they have a
+emissions control, right? So,
+OK, what, how much emissions
+does that flowing into other
+areas, right? How much are the
+wild flowers from California
+flowing into New Mexico cause
+that's why we have red sunsets
+because the ash and that, and
+how much is effect from other
+states or or municipalities, I
+mean, how much is affected in
+Gallop, I mean, if you have a
+dairy, they're higher methane
+producers there.
+Then
+Uh, an oil field, right? And so
+what are those? How, how, how,
+is there any
+I don't know any possible way in
+my.
+You know, maybe AI can create
+it.
+Or what the health costs and
+what the effects are in every
+certain area, right?
+There's probably 0 in Komodo
+unless there's an accident. Um,
+But what are the, what are the
+real costs and how do we
+calculate those individually.
+Mr. Chair, I think it is
+possible. It, it wouldn't.
+There's a lot of good research
+out there, um, that can point to
+how those health impacts can can
+occur. Um, it would be a matter
+of maybe a statistical exercise
+to find increased rates of um
+certain
+You know, conditions and, and
+see if we can statistically um
+determine or or or evaluate
+whether or not there is a
+likelihood that it's caused by,
+say, proximity to production.
+That's a very intensive analysis
+that um we're not ready to do
+quite yet, but um I, I, I do
+think it would be possible, and
+maybe, maybe some of our uh
+higher ed higher education
+institutions also could play a
+role in in evaluating that kind
+of work or or the department
+because it would be a a
+heavy lift.
+Where would they find that data?
+I mean, I mean healthcare
+reporting is probably not a 20
+year stream, right?
+Because 20 years ago we're
+probably still laying out paper
+forms and, and reporting
+incidents, right? And New Mexico
+with a stagnant population
+growth, right?
+It's hard to calculate what are
+the genetic
+Of a person in New Mexico and
+what they're susceptible to, and
+I mean, I mean, how do you
+calculate that number?
+Mr. Chur to your point, it would
+certainly be a short window. It
+would not be
+You know, to, to try to evaluate
+the really long term impacts.
+I think we'd likely be
+underestimating it, given the
+strategy that I suggested.
+I know we're behind. I have a
+lot more questions, so.
+Get you in there, but I really,
+I really do appreciate the work
+and, and trying to get us to
+comprehend what the costs and
+what the healthcare costs are
+really, and, and it just tells
+us, to me it tells us number
+one, better watch what OPEC
+does.
+Number 2 is, um,
+There's a lot more work to do
+this and, and so.
+Make sure you get with Charles.
+I don't know where the state
+supercomputer is Charles,
+remember Governor Richardson
+bought that thing and.
+Is it Albuquerque salvage or
+somewhere right now.
+And, and, and so I, I, I'm, I'm
+really, as we head into this,
+this new scenario of estimating
+and forecasting, right? If, if
+LFC doesn't have the tools and
+equipment to do that.
+You should really look and how
+we get them.
+The tools, the equipment, the
+computers, whatever it is,
+because as we get more
+Um
+Advance, we're going to ask you
+for more advanced technical
+studies and, and so we'll need
+that. I mean, some of this is,
+you're not gonna get the oil and
+gas companies where they're
+gonna drill in the future, I
+mean.
+They're not gonna give you even
+an inkling to where they're
+gonna go because somebody could
+reverse design that, and then
+they know where who's going
+where and, and all that. So I
+mean, we're gonna have to go
+blind on some of this stuff,
+but, but thanks for all your
+hard work, but as we had looked
+forward, just remember to make
+sure that we
+We have that.
+In our budget scenario, I don't
+what.
+New supercomputer costs.
+Uh, but make sure that we give
+you the tools to understand and
+to help the leg.
+Uh, tourism next.
+Lansing, are you the secretary
+acting secretary.
+Still acting.
+So
+He's gonna
+Mr. Secretary, you're gonna
+start us off, so we're already
+behind the, we're already behind
+and
+You're gonna have to play catch
+up, so is your slide
+presentation is, uh, it's pretty
+thick for negative 30 minutes.
+So as quickly as you can run
+through this because we're gonna
+have to play catch up. That was
+an important topic, not saying
+that tourism department is not
+an important topic, but it's
+your bold points and, and your
+highlights.
+Absolutely
+thank you.
+Thank you, Mr. Chairman, members
+of the committee. It's always a
+pleasure, uh, to be here with
+you all. Um, first, I wanna
+definitely thank um LFC thank
+the committee. Thank Mr. Sali.
+Thank Julisa, um, who's really
+just been incredibly
+professional and diligent,
+working with us. Um, it's
+really, I think, appropriate
+actually for us to kind of
+Go in after this conversation,
+um, to talk about how, you know,
+we are diversifying the economy.
+And some of the success that
+we've seen, uh, specifically in
+the tourism industry. So just to
+kind of give you, um, sort of
+the run a show here. So you'll
+have a presentation in front of
+you, but you'll also have, uh,
+there's some supplemental
+documents that I'll be
+referencing, uh, with specific
+award amounts so you can see,
+uh, within your community, um,
+you know, where those dollars
+are so to start, uh agency at a
+glance. So at the New Mexico
+tourism department, our vision
+is
+to be the primary destination
+for venturesome travelers, uh,
+where the stewards of the New
+Mexico Tru uh brand. It's close
+to 13 years, uh, now, which
+we're very proud of. Our mission
+is to grow New Mexico's economy
+through tourism.
+We have 4 divisions. We have New
+Mexico magazine, we have our
+program supports our ASD, HR,
+legal, um, we have tourism
+developments, which manages a
+lot of the uh community
+development and, and sort of
+product development programs
+that I'll speak to, then
+obviously marketing and
+promotions, which is the lion
+share um of, of what we have
+traditionally done and what we
+continue to do.
+Authorized FTE is 59 and I'm
+really excited about this. Our,
+our current vacancy rate is 6.7%
+right now with uh 4 vacant
+positions, which I'm uh I'm just
+incredibly proud of. We've got,
+uh, just for the sake of time, I
+won't, you know, go through, but
+we have some staff in, in the
+audience and I could not do this
+without them. They're
+incredible. Uh, they, you know,
+I lead them some days, but they
+probably lead me, uh, most days.
+Uh, so very much appreciative to
+them. Our budget recurring 2.
+5,612,700 other state funds,
+4.8%, that's primarily uh the
+New Mexico magazine revenues
+which that's an enterprise fund.
+And then also uh clean and
+Beautiful, which is uh a
+distribution that comes from
+motor vehicle license plate
+registrations.
+Um, are non-recurring is uh
+currently 23 million of 560,000,
+um, which we are incredibly
+appreciative for after the sort
+of American rescue plan money,
+uh, dried up. Um, it was, uh,
+you know, this body and governor
+uh that saw fit to, uh to sort
+of replenish some of those
+dollars with general fund. And
+we take that very serious and
+we, we make sure every day to be
+um good stewards of those funds.
+Our reversion, um, in FY 24 was
+240,569 or less than 1% of our
+uh
+Our budget essentially.
+So, um, moving on to economic
+impacts.
+Uh, we had, um, another really
+solid uh year in 2023 which um
+was a record year, 8.6 billion
+in direct visitor spending,
+$11.6 billion in total economic
+impact, uh 93,200 jobs sustained
+in 810.7 million in state and
+local taxes generated again, um,
+you know, coming off the heels
+of the, the prior conversation.
+I think this is an industry
+that, that you all should look
+at as, as having a lot of
+opportunity as we
+Diversify our economy. So again,
+um,
+It was a record-breaking year.
+We continue to have these
+record-breaking years as you can
+see in that, that bar graph on
+the side. I think what's
+important is the 3.8% increase
+um in spending versus a 1.2%
+increase in visitor volume
+because as we'll discuss, we're
+really looking in our expansion
+markets at targeting some higher
+value travelers, obviously,
+still looking at visitor volume
+as a, as a huge indicator of, of
+our success, but then also
+looking at spending as a
+proportion of that, which we're
+seeing that
+moving in the right direction.
+Also exciting as we're seeing a
+recovery of international
+travel, um, within a year we saw
+over a 30% increase. It's a tiny
+part of the market share that we
+have. But within that tiny part
+of the market share, there's so
+much opportunity, uh, with
+spending, um, within that
+market, which I'll speak to some
+opportunities there. I did want
+to be, um, you know, eyes wide
+open. I know that there are
+challenges. I know that looking
+at the data, we were looking at,
+you know, full service
+restaurants and, and
+You know, it's, it's been a
+struggle for them to uh to
+recover. Um, we, we, we really
+do look at this and try to see
+how all these segments sort of
+of the tourism economy, uh, work
+together. Obviously, I, I, you
+know,
+My, my thoughts with, with
+Roswell right now, um, with,
+with Riodoso and, and, and the
+challenges in Riodo. So we face
+these headwinds and, and, you
+know, we can't just look at this
+as, as a rosy picture. We're
+always having to be responsive
+to the community and, and to
+what's going on and just how uh
+we have have worked with Lincoln
+County and Rioidoso, and we will
+be supporting them in promoting
+the area with Roswell, we're,
+we're a partner as well. So, um,
+but we understand
+There's always challenges.
+So these are two, the two next
+slides I think are just really
+foundational to what we do
+because they're going to drive a
+lot of this. So really, when we
+talk about the, the two sort of
+core functions that, that, um,
+that kind of overlay the tourism
+and apartments. So our
+marketing, our marketing makes a
+promise about New Mexico, that
+it is place of adventure steeped
+in culture. It's a place with um
+authenticity and a real uh
+someone for, it's a, it's a
+destination for someone who has
+a real thirst for authenticity.
+So we, we drive
+That um that promise through
+really, really quality
+advertising and brand
+impressions on New Mexico.
+Additionally, tourism
+development is there to deliver
+on that promise through
+developing quality attractions,
+amenities and access to our
+amenities and attractions in New
+Mexico.
+So, where that all ties in is,
+this is an infographic that's,
+that we've used as sort of a
+North Star for our, our
+department over the past couple
+of years. Um, borrowed from my
+predecessor, uh, Jen Schreier,
+and, and just sort of, um,
+You know, updated, but really
+that drive demand piece and that
+marketing and that delivering on
+that experience with a constant
+feedback loop of research.
+Victoria Gregg is our research
+director. We have Eric Heringer
+who's our economist. They do
+great work in making sure that
+we're always on the right track.
+So looking at driving that
+demand through marketing,
+through the four season
+marketing, through the
+cooperative and regional
+marketing through earned media,
+through travel trade, which is
+an exciting program we'll be
+talking about soon.
+That also delivering on that
+experiences, investing in
+infrastructure, investing in our
+businesses and in our product.
+Really understanding the
+regulatory environment and the
+challenges that we're seeing and
+being responsive to those. Both
+of those are critical and they
+work, uh, very, you know, they
+work hand in hand together.
+So first,
+Just to take a, a deeper dive.
+Into, um, how we are uh driving
+that demand. And first of all,
+uh, as far as the, the numbers
+go, there's an article in your,
+in your packet, um,
+That, that speaks to our record
+breaking numbers.
+But as far as driving demand,
+these are the main functions I
+think that are just important to
+this committee, uh, with respect
+to, um, to, you know, how we're
+doing that. So national
+marketing.
+That's, you know, obviously been
+a, been a core priority of the
+department international
+marketing. That's something new
+which I want to discuss what our
+on ramp is to that cooperative
+marketing, we have a program
+that's had years of success
+working with communities on
+regional, uh, marketing, so that
+his folks um are understanding
+New Mexico is a destination.
+They're also understanding where
+in New Mexico that they want to
+travel. And those communities
+are having that ability to
+control their destiny.
+Earned media so that um coverage
+that we get in, in National
+Geographic or and uh food and
+wine or any of those
+publications, we have a, a
+strong comms team, uh, that
+works with, with that New Mexico
+magazine.
+It's the oldest state-run
+publication. And it's very
+specialist, great advertising
+tool in New Mexico Tru
+certified, which um is close to
+500 partners now, um, which is
+Really, uh, encouraging.
+I'm trying to get through this
+quick.
+National marketing, this is an
+infographic that I think is just
+helpful. Apologize for the.
+Hypo on differentiating. Um, so,
+really, when we look at growth
+markets and retention markets,
+traditionally, we've looked at
+our retention markets as being
+those primary drive like that
+West Texas market, those places
+where we know we're going to get
+strong visitor volume, so we
+need to make sure we're keeping
+that advertising going.
+Sometimes really looking at the
+co op program since there's
+already high awareness, looking
+at ways that certain
+destinations can sort of uh sort
+of take that uh that
+drive travel. But then also,
+since we've received these
+investments over the past few
+years. Some of these expansion
+markets, uh, specifically in
+California, where we're seeing a
+lot of opportunity. Uh, we went
+into Los Angeles uh a few years
+ago and then uh San Francisco
+most recently, and we've seen um
+just uh really good indicators
+of success that Californians
+are, are staying longer and
+they're spending, they're
+spending more money here. Um, so
+that's encouraging.
+What's new this year,
+From all that is
+We are going to make, uh, what I
+would call it incremental and
+strategic play into
+international leveraging the
+fact that we have the Route 66
+centennial coming up in 2026.
+We have some strong interest in
+some of our international
+markets in that centennial, and
+how do we make sure New Mexico
+is a destination for those
+markets.
+So we're gonna be partnering
+with Brand USA who's essentially
+the tourism department for the
+United States.
+Um, and we're going to be doing
+a dedicated, um, sort of
+strategic play in, in Munich and
+in London, um, working on some
+really high traffic billboards
+and digital placements, really
+following the lead of Brand USA
+so that we can try to, you know,
+get as much of that interest
+into New Mexico. And what we've
+seen is that the Southwest part
+of Route 66 is where the
+interest is. And so we have to
+be competitive there. But I'm
+really excited about, about
+this.
+activation, um, and we're gonna
+also be working on, uh, some of
+this international activation
+with our travel trade program.
+Also in your packet, you'll see
+this is just some examples of
+some of the placements and what
+they look like, um, and I'm sure
+you've seen them in in airports,
+and obviously the advertising
+spots that we have just, just so
+you um cooperative marketing.
+So this is, again, as I
+mentioned, um,
+Sort of a legacy program that we
+had, uh, after COVID, we, we
+bumped it up to a 2 to 1 match.
+And since then, that program has
+really been picked up by so many
+communities. Um, this is again,
+a way to go from awareness so
+they know about New Mexico, to
+sort of consideration and
+conversion. So they know about
+New Mexico, but hey, what about
+hot springs and iC?
+You know, and this is, this is
+the program to really sort of
+come in under that awareness,
+get into that consideration and
+then drive conversion. So this
+year, uh 3.8 million funding 48
+communities you'll see, um, in
+your packet as well. I do have a
+list of all the cooperative
+marketing, a grant recipients
+for this year. I'm so excited,
+um, Aaron Ladd, Taylor Lawrence
+in the back, um, do a great job,
+uh, managing this program.
+Wanted to mention earned media,
+uh,
+Obviously, you know, this is not
+a direct paid media. This is
+earned media. This is what I
+kind of call the sweat equity
+media. It's the, it's the really
+talking to travel writers and,
+and influencers and storytellers
+and getting uh New Mexico
+editorial coverage, um, in, in
+large publications which uh we
+our team has been very
+successful doing. Cody Johnson,
+our comms director, Nicole
+Barker on our media relations
+manager, finding all the
+opportunities, whether it's
+balloon fiesta or, you know,
+any, any opportunity to get
+Eyes on New Mexico and get those
+stories out there. Recently, we
+had an article that uh we worked
+on uh about Sizobra's 100 that
+was placed in Forbes magazine,
+we had um the BBC did a, an
+article on, on, um interesting
+article on the crossover between
+the green chili culture and uh
+and uh the Manhattan Project in
+New Mexico. Um, and then we had
+some coverage in food and wine
+on indigenous foods in New
+Mexico. So that earned media
+program, definitely, um
+Helps us tell that story.
+Very proud in Mexico magazine,
+New Mexico Magazine this year
+won the 2024 magazine of the
+Year by the International
+Regional Publishers Association.
+This is a, this is huge. I mean,
+as we have, uh, you know, as, as
+many people can imagine, um,
+running a, a magazine is, is
+becomes more and more difficult
+as we go more digital and as,
+you know, the audience changes
+and preferences change, but
+that's a big deal for us. Um,
+and I just really appreciative
+of the magazine. We're also, uh,
+we work
+with them on some targeted uh
+public some targeted outreach
+and some targeted campaigns with
+our New Mexico True certified
+Partners.
+And we also do our adventure
+guide, which has a run of
+300,000 copies, which is a great
+advertising tool that we use.
+So New Mexico Tru certified.
+Uh, as I mentioned, almost 500
+partners now. Uh, this is
+anything from potters to uh
+clothing and apparel to food and
+wine, to anything that's made,
+sourced in New Mexico that can,
+that can sort of have the, have
+those um those criteria marked,
+they can be part of this
+program, sure people have seen
+at grocery stores like at
+Albertson's, they do have, uh,
+you know, special sections. I
+have some other ideas about how
+we're gonna, you know, keep
+pushing that out there.
+so that we're not just getting
+the, the money from travelers
+when they're here, but when
+they're leaving, and when
+they're, they're out of state,
+they're still buying New Mexico
+products.
+So excited to see that, that
+grow.
+So moving on to delivering on
+experiences. So going from
+marketing,
+To development.
+I wanted to highlight 3
+3 of the primary programs that
+we have driving this division.
+So there are tourism event,
+growth and sustainability
+program, or TES program.
+Our destination forward program,
+which is a dedicated tourism
+infrastructure program and New
+Mexico Clean and Beautiful.
+So to start with our tourism
+event growth and sustainability
+program, um, we see events as a
+huge driver of tourism, um, in
+the state, and this can be, uh,
+again, larger events like
+Balloon Fiesta or Zozobra, but
+we also support, you know,
+events like the Dumming duck
+races, like Fiesta Latina and
+Silver City, like the little Las
+Cruces International Film
+Festival, just events that we
+feel are going to translate into
+um overnight stays into um
+Uh, you know,
+Extended trips into uh people
+coming back because, uh, because
+they want to come to an event.
+We see this as, as a huge part
+of our portfolio. This year,
+we've grown this to 38 events
+that we're supporting, uh,
+statewide with a budget of, of
+over $533,000 Holly Kelly, um,
+our tourism development director
+runs this program statewide
+impact, huge reception from
+people, and again, uh,
+supporting our events supports
+tourism. If we're supporting.
+Right events, and we have been.
+You have a list, um, also of
+those, uh, tourism-related
+events, uh, the, the tags
+awardees from this year. So you
+can, you can take a look at that
+and see what's taking place
+within your communities.
+But strong program.
+When we talk about, um,
+Quality amenities, attractions
+and access to those amenities
+and attractions. This
+destination forward program is
+something I think that's
+innovative, uh, that's something
+that's complemented other
+programs like Trails Plus
+program, and, and, and some of
+the other grant programs to
+really support recreation in the
+state. Um, we, for example, uh,
+just to give some examples of
+projects, this year we're
+awarding dollars for theater
+renovations at the Balloon
+Fiesta Museum, renovations to
+the Raton.
+Convention center, um,
+additional RV hookups and
+Socorro. um, we're looking at
+how do we make these targeted
+investments again to, to really
+ensure that we have that quality
+product, and we're delivering on
+that promise. So this year, 12
+tourism-related infrastructure
+projects through Destination
+Forward, total budget of 2.35
+million. And again, if you want
+to see your, if there are any
+particular projects in your
+area, you have that printout.
+So the Mexico Clean and
+Beautiful program.
+Um, we continue to grow this
+program.
+Uh
+Things are, uh, you know,
+We we're capped in terms of our
+funding because this is funded
+primarily off of the, the
+license plate registrations, but
+we've continued to purpose money
+towards grants. Uh, I believe
+when I, when I started in the
+role as tourism and development
+director years ago, we had about
+45 partners, so we're up to 67
+communities, uh, that were,
+we're working with, and I know
+many people have probably seen
+uh a, a big campaign that we
+launched uh last week, this
+Breaking Bad Habits campaign.
+Uh, so that campaign um is
+the result of uh funding from
+the legislature, um, from our
+clean and beautiful budget, um,
+what I'm really excited about
+with this program, and I would
+encourage you all just to check
+out the Breaking Bad habits, um,
+website, because it's a place,
+one stop shop where you can
+volunteer. You can find a
+cleanup event. You can set up a
+cleanup event. You can report
+litter and then get follow up as
+to whether or not uh you, you
+actually got service. I think
+it's going to shine a light on
+the
+On some of the fail, like maybe
+the capacity issues and the
+constraints that we have, but
+I'm really excited to just see
+how this program rolls out.
+Um, so, more to come on that.
+And I'll also talk about it in
+just a sec. I know we've got to
+go quick with the tie into the
+marketing center of excellence.
+So, moving into, and then if you
+want to see Clean and Beautiful,
+again, here's the total list of
+awards uh within your
+communities.
+So some new initiatives.
+Um, marketing center of
+excellence. So a couple of years
+ago, it was signed into law bill
+that established marketing
+center of excellence within the
+tourism department. So this is
+essentially tasked with
+supporting executive agencies as
+they develop their, their
+campaigns and their public
+facing um efforts.
+By providing like high quality
+technical assistance,
+consulting, and then some um
+You know, efficiencies in terms
+of how procurements happen and
+things like that. We are only
+obviously a few months, um.
+Basically, that started in July
+1st. That's when it was active.
+We've recently hired someone, so
+Francine Hopper, who I believe
+Right there. So she's hiding,
+but she is the um special
+projects director within the
+tourism department who's tasked
+with managing this marketing
+center of excellence. Um, we're
+excited to be working on a sort
+of an enterprise system that's
+going to allow all state
+agencies to work on their
+campaigns together so that if
+there are linkages between, for
+example, the Environment
+department, the Economic
+Development department, um, MEd,
+other agencies that all have a
+place in some big
+project that's going on in the
+state, they can all better
+communicate and they can make
+sure that they're telling the
+right story to the public.
+We want to have a, a robust
+asset library that people can
+draw from, so that they're not
+stuck trying to get their own
+photos and their own production.
+We already have some of these
+things uh ready and appropriate
+and ready to go.
+Um, and I'll mention this
+Breaking Bad habits um campaign
+is an example of where I see
+this marketing center of
+excellence going. Um, Francine's
+been instrumental in working
+with DOT working with the
+Environment Department, working
+with other agencies in building
+this website, and building out
+these resources so that the
+agencies are communicating and
+we're breaking through some of
+these silos. So, we're gonna
+continue um to build this
+enterprise system called the
+mother ship that we're trying to
+build here. Um, it's, it's a
+heavy lift. Um, but I think, um,
+I think we, we've got some um
+We got strong uh staff that's
+working on it, and I think we
+have a great vision.
+So just a few more slides.
+The um Route 66 Centennial um
+grant program.
+This was something that was
+funded through a $2.5 million
+allocation from one of our
+special appropriations last
+year, uh, what we are doing with
+those dollars is we are
+splitting up between our brand
+USA activations in Munich and
+London, um, and these, uh, grant
+efforts. So in addition to what
+we're going to be doing
+internationally. We're also
+going to be supporting at the
+community level with targeted
+investments and marketing and
+promotion so that people can do
+the production and get their
+assets ready.
+so that we can actually have
+those in market.
+That we can do some, some minor
+infrastructure that's doable,
+signage, lighting, public art,
+things like that that makes
+sense to drive this, you know,
+to put us in a good place going
+into 2026 and special events,
+how do we use our special events
+and leverage those as
+advertising opportunities to get
+people excited about the
+centennial. Um, we just
+announced those awards, but I
+can um make sure to get a
+similar list like I have for
+these other programs, uh, to
+this group.
+Um
+Very shortly.
+OK, so travel trade.
+This is an example of, you know,
+I think the innovative, uh, the
+innovative people at this
+department. So,
+What is travel trade? Travel
+trade are those B2B
+relationships. They're those
+relationships between the state
+of New Mexico and large travel
+buyers that actually sell
+itineraries and, and actually
+have these large, for example,
+the bus tours and some of these,
+these larger group travel events
+that come in. Right now, we
+really don't have a great
+infrastructure that I've seen to
+communicate on that level with
+some of these large travel
+buyers and operators. We are, we
+have a dedicated staff now, um,
+that's
+going to be going and making
+these appointments and having
+these appointments with these
+travel buyers and getting to
+Mexico on the map for these
+itineraries, so that they're not
+going, um, right to the Grand
+Canyon and then just missing us,
+uh, which happens. Uh, we really
+got to get that, that awareness
+out there and we need to get
+ourselves actively and
+proactively onto these
+itineraries. So excited for that
+travel trade program. We're
+gonna be strategic about it, but
+we have a lot of, um, I think
+things that the world
+They're they're interested in
+ballooning, um, native and
+indigenous culture, cuisine,
+it's just really, I think
+there's things that New Mexico
+has a right to win on. This is
+a, a way to do that.
+So, to finish off with our
+budget request.
+Oh, sorry about, thank you.
+So to finish off with our budget
+request, um,
+Essentially, what we are
+requesting is about a 3.3%
+increase in recurring. So that's
+790,000
+about 7914 positions. So it's
+for 2 positions, it's for a
+tourism development coordinator
+and additional tourism
+development coordinator and an
+HR position. Right now, as you
+saw, our vacancy rates
+incredibly low. We are doing
+everything that we can from a
+capacity standpoint to just
+maximize, maximize what we do
+every day.
+To just make sure that we're
+spending the right attention,
+that we're out in the community,
+um, with 59 staff, um, and all
+of, all of the uh programs that
+we're involved in. I think it's
+important that we look at
+investing in that, which we
+really hadn't so much in the
+past. There's also, um, some of
+that budget is just to keep us
+fully funded or to keep us
+funded enough, um, based on our
+vacancy rate right now.
+So additionally, um, this was a
+decision that we kind of made
+each and every year, we support
+the sports, uh, or I'm sorry,
+the New Mexico Bowl, um, through
+special appropriations, and a
+couple of years ago, one never
+made it through, something
+happened. It was a problem. And
+so we kind of had to come in on
+the back end and, and, and
+remedy it, rectify it. What I'm
+trying to do is this is
+something we do every year,
+something that's had success.
+Let's at least put the 200,000,
+which is essentially the like
+the average
+amount, the amount we're
+supporting this year, like, how
+do we, how do we just put that
+as foundational money.
+And that way we can, you know,
+avoid, I think some of the, some
+of those issues that we've seen
+in the past. Um, so that's why
+we're requesting to put that in
+recurring.
+As far as the special specials
+go.
+Oh, thank you.
+Thank you, Jennifer.
+Um
+We are essentially requesting
+the same specials, uh, that we
+uh had requested last year. So
+that's 16 million in, in the
+national advertising is what
+puts us in the four season
+campaign and allows us to be in
+those expansion markets, allows
+us to have co op at the 2 to 1
+match, allows us to have
+destination forward program
+allows us to have this events
+program. So the 1.9 million
+supporting uh destination
+Forward.
+The marketing center of
+excellence again requesting 2
+million. That's what we have
+this year in the books. Um,
+we're gonna, when you look at
+this from a procurement
+standpoint, there's got to be
+somebody who's holding sort of
+the prime contract that they can
+turnkey that other agencies can
+turn key into. And that's what
+we want to build this enterprise
+system into. And that's what
+we're going to need budget for.
+And then in order to sustain the
+momentum of, of the
+anti-literate messaging that
+we're having, uh, in market
+through uh July of next year. We
+are going to be requesting an
+additional 2 million, which is
+what we had this year, uh, that
+was appropriated, um, as a
+special. And then, uh, 300,000
+for the Special Olympics, which
+is an organization that we have
+supported, um, and we would like
+to continue to support.
+So with that, Mr. Chairman, I
+stand for any questions. Thank
+you. Let, let me ask one
+question in the beginning is, is
+any marijuana companies about
+New Mexico true? No.
+Are they applicable or they can
+they apply or you know, there's
+uh Mr. Chairman, members of the
+committee, and I could let my uh
+general counsel or but
+essentially there are, there are
+rules um that
+Uh, make that challenging and
+just from a matter of, of public
+safety standpoint and and the
+audience that, that the consumer
+facing audience that could be
+looking at New Mexico Tru
+certified products. It's just
+something we haven't had the
+comfort with, but I don't know
+if there's any.
+And we're good. Questions from
+committee members.
+Uh, Senator Gonzalez is first
+and then.
+Representing
+The nindos next.
+Thank you, uh, Mr. Chairman, and
+in lieu of time or
+Um, I'll just make it very
+quick, but um.
+Uh, first of all, um,
+Tourism like for my region is
+beyond important, you know, it's
+we live and die by.
+by that sword, you know, and uh
+uh any anyway that we can work
+or promote it, uh, but just some
+of the things that we um recur.
+And on the beautification.
+On that 2 million.
+Well, so does the Department of
+Transportation have additional
+money to that?
+Mr. Chairman, Senator correct,
+there's $500,000 of Department
+of Transportation money that
+augmented that got us to 3
+million.
+So it was 2 million and then it
+was uh 2, it was 500,000 from
+the base of the Clean and
+Beautiful grant, and then it was
+500,000 augmented by DOT that
+got us to 3.
+OK. And uh,
+I know how important every part
+that you mentioned.
+But
+What is our, our biggest
+challenge and what is what are
+our biggest competitors, Mr.
+Chairman, Senator, are you
+talking about from a tourism
+perspective or from a litter
+perspective? I'm sorry, I'm
+sorry, just as a tourism, oh,
+from a tourism perspective. Um,
+Mr. Chairman, Senator, I think,
+you know, regionally, uh, the,
+the southwestern states,
+obviously competing with
+Arizona, Colorado on adventure,
+uh, some of these things, uh,
+you know, they, they are
+competitors. They're we're
+getting into ski season and, you
+know, that's gonna be, you know,
+they already have a lot of snow
+up there. Um, so we, we see a
+lot of that competition, I
+think, just regionally in the
+Southwest. Um, now, I do also
+think that, uh, you know, in the
+Southwest, we actually have a
+a lot of competitive advantages.
+I think we went on culture. Um,
+I think we went on cuisine. And
+I think we are starting through
+our outdoor recreation efforts
+to, to build some of that, um,
+that infrastructure in that
+system to really be competitive
+there, because I'm hearing
+reports in Colorado, you know,
+you're on a waiting list to go
+on a walking trail there.
+Right now. And so I do think
+that we have uh some
+opportunities if we do this the
+right way, um, to pull some of,
+uh, you know,
+What would be a Colorado
+traveler into New Mexico. So I
+think to answer your question,
+our Southwestern states are
+always our biggest competitors.
+But I think we have some real
+competitive advantages that we
+leverage through New Mexico,
+true.
+Um, 2 more parts and um be very
+quick, um.
+I, I still feel
+But uh
+You know, in growing our own and
+keeping our own and educating
+our own, you know, it's, it's a
+huge plus.
+And uh
+What are the possibilities of
+working with
+Public education department.
+And K-12 or K through high ed.
+And coming up with a curriculum.
+Scope and sequence addressing.
+The beautification, addressing
+the tourism, addressing
+hospitality, how the potential
+of
+Again, just growing our own,
+keeping our own, but at the same
+time building capacity.
+To our state
+And we can just hit things right
+away with a strong component.
+Uh, I think that would be
+excellent, you know, I have had
+a few discussions with the
+governor on this, very
+supportive, but yet, you know,
+just putting it into a
+curriculum, I think would be a
+big, big plus. Now, um, the last
+question that I have and then
+you can come back to that is um
+on this handout.
+The report state once again, uh,
+said visitors, this one.
+On the last page where you have
+the grants that have been
+awarded, uh, our schools
+eligible for that?
+So, uh, Mr. Chairman Senator,
+uh, definitely with respect to
+the beautification piece. Uh,
+we've looked at this because
+traditionally, like, the school
+districts hadn't been partners,
+but looking at how the clean and
+beautiful statute works as a,
+believe it's a special district
+or I'm trying to remember how it
+was defined. There may be an
+opportunity for them to be
+eligible applicants. And if we
+do that, I think there's
+opportunities for outdoor
+classrooms, uh, and, and some,
+some activities that we can.
+just target and we can, we can,
+we can figure out exactly what
+that scope would be. Um, you
+know, uh,
+I actually would love to just
+discuss this more with you, um,
+what's your vision for that
+could be? Because I do think the
+Clean and Beautiful program is
+something that's, it's very much
+youth focused, youth empowerment
+is one of the 5 goals of the
+program and I think we could be
+doing more specifically with the
+school districts. Well, Mr.
+Chairman, you mentioned uh the
+outdoor recreation outdoor
+education and recreation goes
+hand in hand, and uh there again
+it's a wide, wide open that I
+think.
+We could be the first state with
+a a very powerful component.
+And that we could work on that,
+and I, I think that would be
+excellent too.
+To have, uh, you know, within
+our state, you know, growing our
+own, but at the same time,
+bringing that uh content, you
+know, to a higher level and.
+And the readiness that that
+comes with it.
+Now, uh, one thing that I have
+learned.
+Yes, if you want change,
+And if you want value.
+It has to come through
+education.
+You know, and it's from the
+bottom all the way as you grow,
+and then we can start seeing
+some of those results, you know,
+that we can work. So again, Mr.
+Chairman, and yes, I'll I'll
+visit with.
+With the department, you know,
+say I do have some really good
+ideas into this. And as I
+mentioned, I have had this
+discussion with the governor
+too.
+Thank you, Mr. Chairman.
+Thank you very much, Senator
+Gonzalez. Next we're gonna
+represent Baca, then Senator
+Sendo.
+Thank you, Mr. Chairman and
+thank you for your presentation.
+Um, first off with the
+compliment, I will think, I will
+say that I think that our
+efforts are working.
+Uh, it used to be when we travel
+around, there was an article,
+one of the 50 is missing.
+Many people didn't know much
+about New Mexico based upon
+recent years and my recent
+experiences.
+That word is getting out. Um,
+one of the biggest things that
+you guys have is I'm actually
+carrying it right here, these
+pins.
+I've been amazing, but let me,
+if I can give you any
+suggestion.
+On the back, we do a QR code
+that it gets us to our websites
+and it highlights these things.
+I was actually wearing a pen
+earlier and the people that they
+want to pin, of course he asked
+for this one, but I'm like,
+that's a real one, so we, but
+You know, I think for all
+ambassadors that are here, used
+to be a great way, but once we
+give them this pen on the back,
+we need a list because we, we
+need to diversify, Mr. Chairman.
+We need to just say that, hey,
+we're not, we're more than just
+balloon fiesta, green chili, and
+Breaking Bad, right? That's
+usually what we're known for.
+And I think that we have to do a
+good job.
+Of diversifying so that we truly
+have these events throughout our
+four seasons.
+With 330 plus days of sunshine,
+we need to take advantage of
+that. Uh, Mr. Chairman, uh, I'm
+gonna ask you just, and again, I
+want brevity.
+You talked about our national
+marketing, OK? Now, I know that
+we can't target every state in
+the same way, and I've been here
+long enough to know what states
+have been targeted.
+In the past. Can you tell me
+what are the states that we are
+now focusing some of our efforts
+on.
+Uh
+Mr. Chairman, uh,
+Representative, are you asking
+the new markets? Yes,
+so in terms of the new markets,
+again, it's been California.
+California has been the, I mean,
+we were, we were marketing in
+Phoenix and, and in Arizona. We
+were in Texas, uh, we were in
+Colorado, California, we saw as
+um based on a lot of research,
+so we are in multiple airports
+in California. We have a very,
+very strong presence with our
+connected TV, and again, um,
+this
+International play is going to
+allow us to go into Munich and
+London with a targeted
+uh campaign with Brand USA. So
+those are our newest, uh,
+campaigns you will see some
+spill over in other markets,
+but, uh, traditionally that, you
+know, or this year that is where
+we're going to be in market. We
+had been in markets uh like
+Chicago in the past, became
+really cost prohibitive first
+based on the value of travel
+that we were getting. I can let
+our marketing director speak
+more to that if she wants to,
+but
+We, we have made changes, uh,
+you know, as we've done this
+every year and, and, and taking
+markets away and added markets,
+but luckily because of the
+investments we've had recently.
+We've been in the adding phase.
+Thank you, Mr. Sherman. Thank
+you. I, I do recommend that we
+look at some of those,
+especially that don't have the
+nice weather like we have now. I
+was in Seattle.
+Um, just let me just say I'll
+just say Seattle is pretty
+drizzling the whole time. So I,
+I think that we have to be very
+intentional about these monies.
+I also think that we have to
+look about the reoccurring
+spending here as far as for
+advertising, we just need to
+monitor that. And I'm finally
+gonna, Mr. Chairman, I'll end
+with this.
+I like the fact about having
+These events and I would
+encourage more events, but it's
+also gonna be the responsibility
+of this committee to make sure
+that we have
+Uh, as far as we address some of
+the issues with the
+infrastructure, our roads and
+our big cities with some of the
+challenges that we have is crime
+and otherwise. We want people to
+come to the state. We want them
+to have a great opportunity. We
+also have to make sure that we
+provide every necessary means
+that they enjoy.
+What we, the land enchantment
+have to offer, so I, I will
+respectfully request more of
+these, please, but um I wanna
+thank you and uh I appreciate
+your work.
+Thank you, uh, Senator Shindo,
+then Chatfield.
+All right. Thank you for the
+presentation.
+enjoyed the presentation and so
+forth, but I have several
+questions with regards to the
+economic impact report.
+That, does or does not include
+um
+The tribes, you know, like.
+The tribal governments because
+they certainly have.
+Their own facilities and so
+forth that's it, is that Mr.
+Chairman, uh, senator, it does
+because it um as long as uh the
+transactions are happening, we,
+we've done it, we do it by a
+county level data and then we do
+it by um credit card data, and
+then we do it by survey. Um, so
+there's, I can let our research
+director speak to it more
+specifically, but yes, I mean,
+that, that tourism is captured.
+I think we are starting to
+realize that there are some
+issues with data that we're
+gonna have to, to figure.
+out, for example, international,
+since we don't have a direct um
+international inbound, uh, the
+surveying isn't what it should
+be, I think, and so I think
+we're losing some of that
+information, whereas people may
+be doing things and they're not
+telling us what they're doing.
+Um, but yeah, generally, the
+economic activity in tribal
+communities is reflected um in
+those these larger numbers. OK,
+I appreciate that. I was just
+curious, you know, because it,
+it, I was thinking maybe the
+impact will be a lot more
+because
+If it's not captured, then
+that's another.
+Are you because you have what 11
+tribes that have casinos,
+hotels, golf courses, and all of
+that gas stations and so I was
+just curious Mr. Chairman,
+Senator, I actually, um,
+I'd have to defer to our
+research director on how
+casinos.
+Or captured at all in any of
+that information because I
+don't, there may be a separation
+there.
+Thank you, Mr. Cha.
+Mhm.
+OK, I appreciate that.
+And then, uh, of course,
+You know, the, the slogan, you
+know, adventure.
+Steeped in culture, and I think
+a lot of it has to do with, you
+know, the native communities in
+this state.
+How were they involved in the
+your cooperative uh program in
+terms of advertising, because I
+know, you know, you have some of
+the tribes that have very
+sophisticated marketing
+themselves.
+But then you have many other
+tribes that don't have the
+capacity. How are they evolved?
+If at all.
+Mr. Chairman Senator, thank you
+for that question. I'm, I'm
+excited cause we, we, we
+recently hired a tribal tourism
+uh coordinator name is Jay
+Bernal. I think she's in the
+crowd. So, um, really we have uh
+been working to increase our
+participation, uh, from native
+communities in our programs. Um,
+but I think we're not, we
+haven't seen that translate as
+much as we, we would like to.
+We're seeing it in the events
+program, um, you know,
+supporting things like the
+Bernal Leo Indian Arts Festival.
+Some, uh, some events uh working
+with IPCC, um, and, you know,
+gathering nations, we we're
+supporting through that, that
+program, um, so I think there
+are that events program we're
+starting to see, I mean, tour de
+Akima, we're starting to see
+some increased participation,
+but I have, you know, tasked uh
+Jay and I want to see increased
+participation from tribal
+communities in all of our
+programs. Um, and I, I want to
+see it in Destination For. I
+want to see it in cooperative
+marketing.
+As far as our national and
+international marketing, we
+always have, uh, within sort of
+the three commercial cycle, uh,
+within our, uh, spring, summer
+and the winter campaigns we
+always have a native indigenous
+sort of themed, um,
+Um, Videopo, commercial. So
+that's always
+Front and center because we see
+it is so important, um, to, uh,
+to what makes people interested
+in New Mexico. So that's
+something that we'll continue to
+do. It's always going to be a
+very like prominent part of our
+uh national and international
+campaigns. So that's what people
+are going to see. I think from
+the community level, we have to
+do a better job at making sure
+uh that we're getting that
+participation. Appreciate that.
+I think it's also important for
+you to understand the, the, the
+entities you mentioned are all
+within Albuquerque area.
+We have tried scattered, you
+know, across the state, and I
+hope that you guys can do a lot
+more better job of reaching out
+to those tribes that are in
+rural areas, because they also
+depend on tourism, Zuni out
+there, they don't have a casino,
+they don't have a hotel. They
+have a lot of artists, you know,
+you know, and others and so
+forth. So, you know, it, it's
+fine to mention.
+The entities around Albuquerque
+area, but to me, I'm not
+interested in that because
+that's where the people are
+already. That's, that's the low
+hanging fruit.
+You know, the challenge is how
+do we get folks out there and,
+and understand there's other
+tribes out there, you know, like
+Zuni or Pierre, that's, you
+know, kind of hidden gem, you
+know, and they also rely on
+tourism and stuff like that. So
+I would be more interested in
+that.
+You know, it's a lot more
+challenging, but I think they
+also are deserving.
+And Mr. Chairman, so, if I may
+just, um, we have uh in the past
+couple of years, I know we, we,
+we did work with uh Governor
+Queanella and Pierre for, uh, it
+was at that time, it was before
+Destination Forward. It was
+called the rural Pathway program
+and we supported, um, they were
+essentially uh curating an
+interpretive center, so they
+were going to do um some art
+exhibitions and then a walking
+trail. So we have worked, and
+that was a couple of years ago.
+Um, but to your point,
+I think we need to be out there.
+We need to be in rural
+communities and I think that's
+something that we're going to
+take very serious uh moving
+forward. Yeah, I appreciate that
+even in having workshops because
+I'm looking at your rent also as
+well, and not very many.
+tribal communities. I know
+there's activities going on all
+over the state, but
+They don't appear on here
+whether they are aware of it or
+whether they even know how to.
+Or have the capacity to do that
+at the tribal level. Uh, it's
+one thing, so I think maybe even
+a, a training of how you apply
+for these grants or those that
+have that capacity might be
+good.
+Uh, just one more question, um.
+On the
+The, the Route 66, uh,
+Centennial grant program, is
+that an RFP program where they
+Communities also, OK, yeah, uh,
+Mr. Chairman, Senator, so again,
+it's kind of split between two
+charges. So there's the brand
+USA um efforts that we're doing
+in Munich and London, but then
+that, uh, the dollar amount that
+you see on that slide, those are
+direct grants, and those grants
+went through a competitive
+process. So we did have, um, I
+mean, they had to meet certain
+eligibility requirements like
+where they, where they were and
+being close enough to the route
+that it made sense for the
+traveler. Um, but all of those
+were um awarded through.
+Uh, competitive process with the
+application committee and
+Um, as I mentioned, we just
+recently finished that last
+week, uh, and are getting awards
+out as we speak. Yeah, so, so,
+yeah, I was just looking at
+that, the reason I'm asking is
+because, you know, you have, you
+have Acoma Laguna and drives
+right along Route 66.
+And, and, and I didn't know that
+was a competitive process or
+they just didn't apply or were
+they
+just didn't apply or
+so anyway, so that's it. Thank
+you, Mr. Chairman.
+Thank you, Mr. Chairman.
+Uh
+Mr. Chairman, I, I, uh,
+Yeah, I'm happy to see that. I
+know what you're doing is
+working.
+I, I have a little restaurant
+and, and uh there's.
+We get people, a lot of them
+from Texas, come through there
+and, and some of them come
+repeatedly, you know, they, they
+go skiing up in Red River and
+stuff and that, and that's
+increasing. I live close to
+Route 66.
+Uh, which is to carry and I live
+a little bit north of there, and
+uh
+Uh, there's a lot of, you're
+talking about your, uh,
+National and international
+advertising. I can tell you
+there's a lot, a lot of people
+that fly in from your rib, a BMW
+motorcycle with
+Saddle pouches on the side and
+ride Route 66.
+Just across the Texas line,
+there's a thing called the
+Midway Cafe.
+And one of the things you have
+to do if you ride Route 66 on a
+motorcycle is stopped.
+At the Midway Cafe and have
+lunch. That's a big deal. Yeah,
+there are restaurant for a while
+was, was, uh, some of these
+motorcycle clubs had us, like if
+you went on a certain, certain
+ride, you had to get your ticket
+bust at the restaurant there,
+you know, and that's kind of the
+way the
+The Midway Cafe is, you know,
+that we, we.
+We made it to this spot at this
+time and
+And uh it's a little
+Kind of a thing that they do.
+So I'm, I'm very tickled to see
+the, the effect that these
+Advertisements are happening. I,
+I wondered, uh,
+16 million in national
+advertising.
+Uh, what is, and that was just a
+special appropriation. What is
+the total budget for national
+and international advertising
+and uh split out separately.
+Yeah, I had that information if
+you want to give me one second.
+So, for national marketing, uh,
+right now, about 14 million is
+going towards the national
+marketing campaign, the
+international marketing, uh, we,
+we do have some production.
+Um, basically, it's 240,000 is
+our, our co op with Brand USA
+and it's a small activation.
+It's only in in targeted
+placements in Munich and in
+London. We are trying to be
+strategic, incremental in going
+into a new market and not, uh,
+you know,
+Not changing what's, what's
+totally working. Um, cooperative
+marketing is 3.8 million, um,
+so,
+And then the Route 66, so yeah,
+so basically all in um
+You know, close to
+20 million or 23, I think it was
+2. So without the 16 million,
+it's pretty short, no, um, Mr.
+Chairman Representative, that's
+correct, and that's why.
+Mentioned um how appreciative we
+were for the support when that
+American rescue plan money, um,
+you know, was not available.
+The, the confidence and faith in
+our department that that's where
+the investment was, was yielding
+a, a return. Um, we don't take
+that for granted. Um, it's a,
+it's a, it's a big chunk.
+I think, you know,
+I don't know what that return
+is, you, I know you sent us some
+numbers, but I think we need to
+take a good hard look at at
+giving you some permanent money
+to
+You'll be able to advertise our
+state, you can sit and do
+nothing and let the world pass
+you by, or you can get out there
+and get in the mix, you know,
+and, and I think that uh
+We need to get in the mix, and
+I, I appreciate some of the
+programs that I see, uh, that
+you all have and, and, uh, the
+good job you're doing. Thank
+you, Mr. Chair.
+you represented.
+I think that's it on the list.
+Let me ask you some questions on
+the budget, right? They looking
+to me like you're, you're, you
+have 59 full-time employees,
+right? 54 fields, so you have 5
+vacancies, but you don't have
+the.
+Or vacancies. This is a
+snapshot. I don't know what it
+was taken, but September 1st we
+have 4.
+Or vacancies. Yes, it's the
+cabinet cabinet secretary, the,
+uh, no, no, no, I'm not talking
+about I'm talking about 5
+vacancies that are sitting in a
+little bucket over here.
+That are on field, but they're
+not funded.
+You may want to call it, Mr.
+Sher, but, I mean, we, they're
+not, this is the issue I think
+and why we're requesting the
+additional funds. We're getting
+to this point now where we
+really have such a low vacancy
+rate that we are getting into
+this position where we are
+running out of funding for, for
+employees just because
+Our vacancy rate is so low. So
+there may we, we're gonna have
+to have those discussions about
+positions that if we don't
+I mean, they're just gonna have
+to lay vacant if we don't have
+the dollars for.
+I don't know if you want to come
+up whoever does.
+You have 5 vacancies that are
+unfunded vacancies, correct? I'm
+sure that uh we actually filled
+one of those vacancies, so we
+have 4. OK, so you have 4, but
+then you, you're running a
+negative in your
+Funded vacancy dollars to the
+tune of
+38, I think it's 38 or 39,000.
+In the program support dollars,
+right?
+And, and so we're showing you
+running a negative that you've
+over hired in that number.
+And overpaid and so you're
+outside of your budget.
+Spending.
+So you're correct in that we've
+had to borrow money, um, for our
+400s to cover our 200s, that is
+correct.
+You are correct.
+And so, I mean,
+In that vacancies, and then
+you're asking if what your
+request is, you're asking for
+how many more FTEs, 3 additional
+FTEs, when you currently have 4
+vacancies. What are those 4
+vacancies that you're requesting
+in?
+Or one of the 4 vacancies that
+exist and what are the four.
+The 3, is it 3 or 4 that you're
+requesting?
+Yeah, um, Mr. Chair, members of
+the committee, so our, uh, 4
+vacancies are cabinet secretary
+position.
+Our ASD director, um, which I'm
+doing kind of both at the
+moment, um, marketing
+coordinator, which is in our
+magazine and then our video
+service, um.
+Video services coordinator. So
+those are currently our 4
+vacancies, the 2 positions that
+we're asking for, um, and the
+how we came to this number is a
+HR generalist too. Currently we
+only have one HR and HR manager,
+that's it for the department,
+uh, who is getting close to
+retirement. It's not lost on me.
+Um, and then a program
+coordinator, uh, 2, which would
+be in our tourism development
+P548, uh, PC code uh to assist
+in running some of the programs
+that we talk.
+talked about.
+Do we really need a cabinet
+secretary? We have Lansing.
+Again.
+I mean, there's vacancy savings
+that we can expand.
+Gotta have a little fun. If you
+don't laugh,
+and, and so, uh, I mean, we're
+gonna look at those, those FTEs
+cause you, you're, you've
+overspent and you've barred out
+already. We hadn't seen the bar,
+Charles.
+Um, Mr. Chair, members of the
+committee were getting ready to
+prepare that bar, um, and we
+should, uh, be committing it
+soon. Uh, it will be about, uh,
+I think the total will be in the
+neighborhood of 389,000.
+But how can uh Charles and I
+guess is a question.
+If they have a vacancy, and
+they're paying them.
+They hire it and they're filling
+it in.
+And they don't have the
+authority to spend that money.
+How are they spending money in
+the agency without the authority
+or the bar of transfer to to
+spend that money.
+This is um a good question, Mr.
+Chairman, for every other
+category of spending.
+And an agency's budget.
+Cher won't allow him to book uh
+purchase order unless there's
+sufficient budget.
+But for whatever reason, we're
+seeing agency after agency are
+hiring people or giving raises
+in excess of what their 200
+category can support. Normally,
+we would expect
+That's only occur if they've got
+enough budget, but we're seeing
+the opposite and then bars
+coming in after the fact or some
+agencies have already notified
+me, they just intend to ask for
+a supplemental.
+Um, for you, which I
+Never really seen in my
+experience.
+At night purposefully
+overspending its budget with an
+expectation that you backfill.
+How, how
+This doesn't go to you guys, but
+how many of those are we gonna
+see? I mean, we hear the stories
+of every agency doing this.
+As, as we headed the budget
+season, right?
+How many agencies are going to
+be overspent.
+And not within their budget
+guidelines, and not able to to
+balance their budget without a
+supplemental.
+Or moving money from one
+category into personnel to cover
+it.
+Um, that's what, that's what
+you'll see a lot of, uh, it's
+not every agency, but it's a
+fair amount, uh, more than
+normal.
+Um, I'd guesstimate 1/3 to 1/2.
+You, but if you look at in your
+packets at that PSA form. That's
+where you'll be able to, to see
+if an agency as of September 1st
+is uh over hired and or as
+payroll that's too high, that's
+not supported by the.
+OK.
+I, I, I just think you guys need
+to make sure we have a good
+explanation. The cost of
+insurance, I think we're
+calculating as a whole, not
+individual on agencies, right?
+Cause it's too hard to calculate
+in that base budget.
+10%, depending on the number of
+employees you have. So I think
+we're looking at that numbers
+overall, if you, if you take
+that insurance 10% cost on 59
+employees. Do you know what that
+number is?
+The 10% increase on the
+employees.
+We'll get that. Yes, cause we've
+we we obviously had to do it um.
+And we're looking at a whole
+number throughout everybody not
+in that. So just a word of
+caution as we head forward.
+You're not alone in overspending
+your budget, but be careful as
+you do that, cause things are
+tightening. I, I don't, you guys
+were here during the
+presentation, if OPEC plays that
+game in the beginning of the
+year, we're gonna be looking at,
+it really tightening.
+Numbers and maybe even making
+cuts and you guys have not seen
+that and they could happen
+rather quickly.
+Uh, if OPEC plays that that game
+with us, so.
+Anything you want to ask me?
+Mm
+Mr. Cha, thank you. I just, I
+think that's also the part of
+our request is really to fully
+fund our positions. We know
+that. We understand that. We
+hear you, and take it very
+seriously. We're gonna be so
+cautious with fully funding
+positions. If you look at what
+the judicial branch did with
+their fully funded vacancies and
+took and paid PTO with it at a
+level that we had not expected
+and, and so we're gonna be very
+cautious as we look at funded
+FTEs and how we do that because
+that is where you transfer money
+Out and there's so many stories
+about
+Headshots and buying.
+it.
+physical equipment or capital
+with FTE money and, and we need
+to get a hold and get a true
+balance as we go forward, so.
+Not, not saying that we won't
+fill your request. You make
+requests, let's, we're gonna ask
+tough questions. That's our job,
+especially as we go into
+agencies of, of how many funding
+do you need and how many can you
+handle and, and what it's gonna
+look like. You're moving it out
+of the 400 level, so that's
+interesting to me, what, who's
+gonna get hit in the 400 level
+or what excess you had. Any
+other questions?
+None.
+Thank you, Mr. Actor secretary.
+Do you think we should fund the
+uh cabinet secretary position.
+Or would you rather just remain
+active.
+Yeah.
+Or they spend on other stuff.
+So you, we already spent that,
+so there's no funding for a
+cabinet secretary for 2024, 25
+because you spend it on other
+stuff, so.
+Thank you.
+A.
+As this, you're gonna go over
+the environment department
+budget.
+Mr. Secretary, you're gonna
+answer all the questions we're
+gonna shoot at you today.
+Good afternoon, Mr. Chair,
+members of the committee, I
+think, uh, sports staff is
+passing. What time are we
+we got a handout this
+presentation right here, uh, my
+name is Austin Davidson. I'm
+your natural resource analyst,
+and I'll be going over the New
+Mexico Environment Department's
+purpose, performance, and
+budget.
+So turning to the first page of
+his presentation, you're going
+to see a breakdown of the
+function of the agency and the
+purpose.
+Specifically, the agency
+administers the water and
+wastewater infrastructure loans.
+It monitors the federal
+facilities in New Mexico has
+within it over 20 funds ranging
+from 80,000 to $80 million and
+has 10 boards and commissions
+within the agency, but are
+independent of the agency. A
+good example of that division is
+going to be NMED's recent
+requests to change the New
+Mexico produced Water Act, which
+are in front of the water
+quality control commission.
+Which is technically within NED
+but is independent of NMED.
+Turning to the 3rd page of the
+presentation, you'll see an
+organizational breakdown of the
+department.
+You're going to see at the
+center of it.
+We don't want to change this
+slide screen up above, so in
+case somebody starts yelling at
+us and text messages zoom is not
+matching the the presentation.
+Unless you want to be the
+secretary of tourism, Mr.
+Secretary, because they're
+apparently there's one, but
+there's no funding for that.
+Or you wanna be a legislator and
+work for free
+Mr. Chair, on that 3rd page, uh,
+you're gonna see an
+organizational breakdown of the
+agency and you're going to see
+at the center of that, it's
+going to be the secretary, and
+then from there, the different
+divisions and bureaus that exist
+within the agency.
+Turning to the 4th page of your
+presentation, you're gonna see a
+breakdown of those core
+divisions. The first one I
+wanted to highlight is the water
+protection division, that's
+gonna have the drinking ground
+and surface water bureaus within
+it, and those all focus on the
+water quality in our state.
+Turning to the next, uh,
+Vision I wanted to highlight is
+going to be the environmental
+protection division, that
+predominantly focuses on the air
+quality in our state, in the
+industries that impacted, and
+then the division also regulates
+the radioactive materials in
+their use in our state.
+The next is going to be the
+resource protection division
+that regulates the disposal and
+management of the solid waste
+and hazardous waste. It also
+monitors our DOE facilities like
+Sandia National Labs, Los
+Alamos.
+And then the last division I
+wanted to highlight is going to
+be the environmental health
+division. And that's going to be
+regulating the industries such
+as restaurants, public pools,
+and spas, while also monitoring
+the safety of workplaces, our
+cannabis industry, and the
+septic tanks in our state, kind
+of think of that broadly as the
+OSHA of New Mexico.
+Turning to the next page in your
+presentation is a more granular
+breakdown of one of the
+divisions in the agency. That's
+going to be the resource
+management division, and that's
+going to have the office of the
+secretary in it, the Office of
+General Counsel, the Office of
+Information Technology, and the
+administrative services
+division. They have a total FTE
+of 98.4, and then a total budget
+of 25.
+The Next page is gonna be a more
+granular breakdown of the water
+protection bureau that I
+highlighted, it's gonna have
+that office of the director, the
+different water quality bureaus
+that monitor the quality of
+water in our state, and then our
+construction programs bureau,
+and that helps with the water
+infrastructure projects in our
+state that has a total FTE of
+212, and then a budget of 76.
+The next page is going to be our
+resource protection division,
+and this can have a total FTE of
+112.
+The total budget of 39.3
+million, and then you're gonna
+see there's going to be the DOE
+oversight bureau, hazardous
+waste Bureau, petroleum storage,
+tank bureau, and then the solid
+waste bureau.
+The next page is a breakdown of
+the environmental protection
+vision that's gonna have the
+office of the director and the
+predominant function of this
+division is the Air Quality
+Bureau, and then the radiation
+Control Bureau, and that's gonna
+have a total budget of 120.5 FTE
+and then a total budget of 31.2
+million.
+In the next page is going to be
+the environmental Health Bureau,
+that's gonna have a total budget
+of 12.6 million and a total FTE
+of 110, and then the predominant
+function is that environmental
+health bureau, which is gonna be
+monitoring all those different
+industries.
+And then the last of these new
+divisions is going to be the new
+proposed division of the agency,
+the new compliance and
+enforcement division. What this
+agents, what this division is
+hoping to do is to remove the
+permitting and the compliance
+and enforcement sides in NMED
+and separating them.
+And a good example of that is
+going to be the air quality
+Bureau, which currently does the
+permitting and enforcement of
+its air quality permits, and
+this division would be taking
+the compliance and enforcement
+of those while the Air Quality
+Bureau mainly focuses on the
+complex permitting side.
+Of air quality permits. And so
+the total FTE is gonna be 130,
+the proposed, and then the
+proposed budget.
+Uh, 14
+The next page is going to be
+going over the different ways
+that the LFC and NMED monitor
+their performance of the agency.
+A good way to highlight that
+would be in that water
+protection area, there's going
+to be the percent of the
+population served safe and
+healthy drinking water. You'll
+see an FY 22. It was at 97%, and
+then you'll see a decline, and
+that decline is because there's
+new regulations that the EPA is
+passing that then NMED has to
+enforce, which then affects the
+percentage.
+Of how much New Mexico's
+drinking.
+Safe water. And that's a good
+example of how the how the New
+Mexico Environment Department
+and the LFC monitor the changing
+performance metrics of the
+turning to the budget side.
+Of this presentation, the first
+graph on the left is going to be
+a breakdown of how enemyD spends
+its personnel contracts and
+other, and you're gonna see in
+the different colors, those are
+the different types of funds
+that go into personnel contracts
+and other a good example of that
+would be the red column, that's
+gonna show that for personnel
+enemyD spends 26 million, most
+of its general fund on
+personnel, then you'll see in
+the orange, the federal funds.
+You'll see in the green other
+transfers, and then you'll see
+in the blue other funds.
+If you turn to the right side of
+this, you're going to see a
+graph that kind of highlights
+how those different trends have
+fluctuated over the last 7
+years.
+You'll see in FY 25, a pretty
+sharp increase in the federal
+funds and then a slight decrease
+of that in FY 26, and you'll
+also see specifically in that
+green column, that's gonna be
+the other transfers, and that's
+gonna be reflecting that the
+agency is moving away from
+budgeting what it's called it's
+special revenues in a single P
+code and then moving those to
+different agencies, those
+special revenues will now be in
+each of those divisions. So
+that's why that green column
+decreased.
+So much.
+Turning to slide 13, you're
+going to see a budget investment
+over the last 10 years for the
+agencies's general fund.
+You'll see in FY 15 through
+FY20, a flat to sustainable
+growth, and then you'll see from
+FY21 on a really sharp increase
+in the amount of funding that
+NMED has received for the
+general fund, and at the very
+top of FY 25, you'll see that
+from FY 14,
+FY 25, the legislature has
+increased the enemy's general
+fund budget by 188%.
+turning to slide 14.
+You're gonna see a headcount
+breakdown of the agency. You'll
+see in that red highlighted
+area, you're gonna see that in
+FY 14, the agency had 555 filled
+FTE.
+And then you'll see an FY 25 at
+this snapshot in September, they
+had 566, and just checked this
+morning. They now have 574
+filled FTE. So this is just a
+snapshot in September as of now,
+it's 570.
+Turning to the next slide,
+you'll see a breakdown of how
+the agencies's personnel costs
+have increased, and you'll see
+that there was stability from
+FY17 to FY 21, and then pretty
+continuous growth from there.
+And you'll see at that top
+column for FY 25, they've
+increased the budget of the
+personnel by 41% from FY 16.
+This last two slides are gonna
+be going over NMED's budget
+request, FY 26. The agency is
+going to be requesting a flat
+general fund for its recurring
+budget. However, it is going to
+be requesting a non-recurring.
+Uh, special of 6 million for
+implementation of compliance and
+enforcement strategies, it's
+going to be increasing its total
+FTE.
+58 with a transition of 16 from
+term to term, and then a further
+additional 74.3 per positions.
+You'll also see there that I
+highlighted that they're just
+continuing that special
+revenuespe coding, budgeting
+practice and moving those into
+each of the divisions.
+And then they're also gonna be
+creating this new compliance and
+enforcement division.
+And the final slide of this
+presentation, Mr. Chair, is the
+non-recurring requests for NED,
+the
+The largest portion of their
+budget request.
+And is requesting 10 individual
+specials for a total of 474
+million, and the majority of
+this 474 million is going to be
+in two specials. It's gonna be
+in 150 million for non-superfund
+site cleanup initiatives, and
+then 250 million for the
+strategic water supply.
+And with that, Mr. Chair, I
+forgot to introduce somebody
+who's gonna be joining me, the
+Secretary of the Environment, uh
+James Kenny, who will be
+answering any questions you
+have. Thank you. You're
+wondering who that gentleman
+was.
+That's a tourism secretary. Uh,
+I, I guess the questions from
+committee members,
+Representative Armstrong, and
+then we go to represent Dixon.
+Thank you, Mr. Chairman. Um, so
+I have a question about this,
+uh, creation of a new division,
+the compliance and enforcement.
+Can you uh tell me a little bit
+more about that.
+And uh
+And why, why we need it, if it,
+if compliance and enforcement in
+this, in every division.
+Why are we creating another
+entity.
+So, um, Mr. Chair and
+Representative, good to see you.
+Um.
+Uh, can, can I just take one
+minute just to say thank you to
+the committee and appreciate
+being here to talk about uh our
+budget and Austin did a great
+job and I have team members with
+me, 2 deputy cabinet
+secretaries, Gilliam and
+Roderick and um Jonas Armstrong,
+our water protection division
+director, uh, who's who's moving
+on and moving up in our
+department. So again, I just
+wanted to thank you and um to
+your question, Mr. Chair and,
+and um,
+Uh, representative, the, the
+reason for the creating of the
+compliance and enforcement
+division is uh multi-pronged,
+but I'll be brief in explaining
+why we're creating this
+division. So we administer
+federal programs through
+multiple federal agencies, but
+predominantly the environmental
+protection agency. Many of those
+programs are codified into state
+law as well, so we're
+administering the clean Clean
+Air Act, and the air Quality
+Control Act, the hazardous waste
+Act at the state.
+level and the resource
+conservation recovery Act at the
+federal level.
+Um, as you saw on our budget,
+we're predominantly a federally
+funded agency with other permit
+fees coming in as well. Those
+federal funds that come to us
+are have certain restrictions on
+them. And when we went to, when
+we went to those federal
+agencies like EPA and said we
+will administer these programs
+in lieu of EPA, uh, we made
+certain agreements with those
+federal agencies that said are
+permitting and compliance
+programs would be run separately
+independent of each other.
+the idea being that you don't
+permit away violations, um, and
+that the permit engineer is
+different from the inspector who
+would be doing that work. So,
+we've not had that stovepipe
+between uh our staff.
+Our budget dollars, RP codes in
+the implementation of those
+programs.
+For years
+Um, so the one, so we're coming
+to uh into conformance with the
+way we said we would run these
+programs and the way they were
+given to the state of New
+Mexico. So that's, that's the
+first reason. And then secondly,
+as you saw, there's many boards
+and commissions for adjudication
+of permit matters and
+adjudication of enforcement
+matters, those adjudications
+should run through different
+people in the department, not
+Uh, the same person. Um, so
+that's another reason we're
+doing it, so we don't compromise
+outcomes in that fair
+adjudication process of permits
+or enforcement actions.
+Um
+And then finally, Madam Chair,
+or Mr. Chair and Representative.
+The other reason we're doing
+this is because our staff are,
+uh, have the ability now to have
+a greater um journey level with
+the department, if they're not
+doing everything.
+The the breadth of what one
+person does, means that the
+depth isn't there, they're
+capable of it, I don't get me
+wrong, um, but uh, it's not
+possible to be an NED employee
+in our air program and do
+everything. So, by, by
+separating out function,
+conforming with federal
+requirements, conforming with
+our federal grants, and then um
+giving people the opportunity to
+work in permitting or
+enforcement will increase our
+ability to recruit and retain
+our staff as well.
+OK, thank you, Mr. Chairman and,
+and secretary. Um,
+I, I just, I don't know, I, uh,
+We're gonna grow this department
+more.
+Because this will be under NMED
+or is it, this will be a whole
+different, it'll still be under
+your budget, and we could see on
+the graph earlier how much this
+department has grown.
+And, and one comment that you
+made, so you're permitting will
+be different than your
+inspectors.
+Do any of your
+Fines, where, where out of all
+of these departments,
+If there is a fine, where does
+that money go to?
+Mr. Chair and Representative,
+the
+Civil penalties that we collect.
+Um, for the majority of our
+programs, there's one exception
+that I can think of, go back to
+the general fund.
+So, in FY 24, we returned 30.4
+million to the general fund
+compared to the 25.5 million
+that we pulled from the general
+funds. So we were in 18.4%
+return on investment in terms of
+the general fund based budget
+allocation from the legislature,
+so, and I'd be remiss to not say
+thank you for increasing our
+general fund budget over the
+years.
+Um, but our civil penalties go
+back to the general fund for
+your reallocation. Um, there's
+one exception to that, and
+that's our hazardous waste
+program, those fines go into our
+hazardous waste emergency fund,
+which allows us to respond to,
+like, Roswell this week, um, for
+spills that occur on I-40 or
+I-25 or uh for various things
+that happen.
+Throughout the state of New
+Mexico that are hazardous in
+nature and and threatened that
+that money goes back into our
+operating budget directly.
+Um, thank you for that. And so
+basically, Mr. Chairman, we're,
+we're creating this in
+conjunction with some of the
+federal dollars that we are
+receiving and managing it's, is
+it part of their requirement?
+Mr. Chair and Representative, it
+is in, in
+roughly the late 80s, early 90s
+time frame, uh, the state of New
+Mexico said as we were
+implementing these programs or
+got delegation or privacy to
+these programs. This is how we
+would run it. So we're kind of
+returning back to how those
+programs were intended to be
+run.
+Um, I should say this is exactly
+how TCEQ the Texas Environmental
+Agency runs, this is how all of
+EPA has reorganized itself into
+alignment this way. So we're,
+we're coming back to what normal
+is among environmental agencies.
+And Mr. Chair and
+Representative, we are, while we
+will
+Grow compliance and enforcement
+over time with all the other
+programs.
+Um, we are not asking for
+Recurring general fund to do
+that.
+We, we are largely shifting our
+existing employees who have a
+predominant duty of
+Compliance and enforcement into
+this division.
+So I think there's roughly 98.
+I can't remember the exact
+number, but it's under 100,
+about 100 people that will be
+moving from within the division
+they're located into this new
+division.
+So it's not a
+Growth moment per se. I'd be
+remiss if I told you we probably
+will hire new people too, but
+it's not an expansion.
+Of the department at large.
+OK, that, that answers a little
+better for my questions. Um, the
+other question I had is with the
+clean fuel standards task force.
+When will they get out their
+first set of rules? Are they
+close or do we have a timeline?
+Um, Mr. Chair and
+Representative, thank you for
+that question. Uh, we hope to
+have our clean fuel standard
+rules, uh, prepared and ready to
+go to the environmental
+improvement Board, which is the
+board that would have the
+hearing to adopt them, um, by
+the end of the year. So we
+should be seeing.
+those rules very shortly.
+Thank you, Mr. Chairman. Thank
+you, secretary.
+Thank you. I I don't have any
+other further questions. I, I am
+looking at your specials and
+Striking through the revision
+section of all of them.
+I think you need, if you're
+gonna ask for this amount of
+money and
+Some of it may be.
+have to be there, the POS at
+Clovis, right? That's a long
+term.
+that we need to look at, but
+some of these other ones, I
+mean, at the end of an executive
+in 2020.
+6, I think.
+Uh, how we're going to spend
+$250 million in in two years and
+how we're going to spend it
+correctly.
+And some of those some questions
+that we're gonna have to answer.
+It did the water strategic water
+supply. How did that come out of
+the Dubai conversation or did we
+learn anything from?
+Stuff that we've been on. I
+mean, Dubai was the water
+initiative, correct? Right, Mr.
+and Mr. Chair, can I address the
+250 million.
+Yeah, um,
+The $250 million that's in our
+special appropriations portion
+of our budget is a placeholder,
+um,
+Or
+Work that will occur in the
+strategic on the strategic water
+supply as well as the broader
+50-year water action plan. So
+what I think you will see from
+not just my agency, but multiple
+agencies that come before you in
+the natural resource space is
+that there we're all going to
+have a component of
+The 50 what are your action plan
+in either our base budget, you
+know, special appropriations or
+maybe through a legislative
+action, but I, the, the 250
+million is a placeholder. I, I
+don't expect that number to be
+the number that
+Uh, in the 60 day session.
+And I don't expect that number
+to be fully housed at the
+environment department either.
+So I think we will come back as
+an executive team and have a
+number for you, um,
+At a, at a later date on that
+particular topic.
+OK.
+I, I'm just, I mean, some of
+these things are long term, some
+of these things are short term
+and, and how we're going to
+spend the money and how we're
+going to get it out, cause, I
+mean, this is the year of, for
+me, this is the year of timing
+as we see going into a four-year
+plan at 2030 that we're at the
+peak, right? And we're going to
+begin this downturn. So how do
+we start to do that in in 2025,
+you had 745 FTEs authorized,
+right?
+It
+Austin, correct me if I'm wrong.
+You might say yes, because they
+can't see your head shake on the
+web
+uh, and then it went to in 2026,
+you're
+FTE went to 7:32.
+But the actuals
+We only 566.
+I don't have the PS kelp. I'm
+trying to back door this number
+from 732 to 556.
+Roughly 200, 180 vacancies,
+correct?
+That's correct. And and so the,
+even with the increase in pay,
+we still have that large amount
+of vacancies.
+Yeah, Mr. Ja, so some of the
+numbers you're referring to are,
+are
+are encompassing both our
+budgeted and unbudgeted vacancy
+rate. So currently we're at
+about 665 budgeted FTE.
+Budgeted that we could afford
+today, um.
+We are as as uh my colleague
+Austin just indicated we're at
+574, so we're roughly 90 people
+short, more or less of where we
+could be based on our existing
+FY 25 budget.
+Uh, the good news is, is we just
+onboarded 21 people this week,
+16 people last pay period,
+probably another dozen next pay
+period because we filled 51
+positions at a rapid higher.
+Um
+I, I would express from our
+entire agency that the workforce
+both the employees and the
+morale of the work, the, the
+workforce are extremely grateful
+for uh the legislatures
+increases to our department,
+that 188% increase in general
+fund has gotten the uh employees
+to wear Spo would say they
+should be based on their
+education and compensation.
+So we're in a great place that
+I've never seen before since my
+time at the department. Um, so
+thank you for that.
+And um I think based on the
+general fund that we do have,
+even with a flat budget and then
+moving into increased spending
+in our permit funds as well as
+increased spending of federal
+funds, we will be able to fill
+and get to what I would call the
+lowest budgeted vacancy rate in
+25 and 26.
+Um, that, that we've seen at the
+Environment department.
+And, but I'm just looking over
+the entire period from 2014.
+On Austin's sheet and you've
+seen it, I mean, the, the sweet
+spot for employment is, just
+call it around 550, right?
+And, and I don't know why we
+haven't, even though you're
+authorized to 7:45, but we've
+never even got close, right?
+Well, Mr. Chair, I would argue
+that when, when you're
+highlighting that sweet spot.
+Um
+You know, we didn't have the
+money to pay people at their
+education and work experience.
+So while it looks like a sweet
+spot plateauing at at that
+number. It's not the sweet spot,
+because people were still
+exiting the department and not
+wanting to work there when, you
+know, M nerd or OSE or someone
+else could pay them more for the
+same education and experience.
+So, I think what we'll be
+telling us to where our sweet
+spot is when we plateau in the
+25, 26 time frame, and I don't
+think we're going to plateau. We
+had 250 people show up for 20
+for 50, 60 jobs.
+Yeah
+So just pointing out we improved
+our vacancy rate by 10% in the
+last year. And again, I
+That, that's a, that's a we
+solve that problem between the
+legislature and executive, so,
+um, I think, you know, we, we
+can see if my words are right,
+but when we come back, uh, in
+the 60 day session, and then,
+you know, uh, through next
+interim, I think you'll continue
+to see that our
+Uh, recruitment retention is
+still on the rise.
+Well, that, that's good news. It
+came with hiring employees as
+long as you got the money to
+hire them.
+Unlike tourism and some other
+agencies.
+And, and so when you stay within
+those budget guidelines, I think
+that's a good thing, but let's
+see what happens in the in the
+market, I mean.
+Everything is changing and
+everything's, I guess let's just
+see what happens and we're gonna
+look very hard at the
+non-recurring quest of the 250
+will be spread across planning
+stuff and it'll be interesting
+to see how we get there this
+year.
+Mr. Jaro be a,
+uh a welcome first time for the
+legislature to look hard at our
+budget.
+We always look hard at
+everybody's
+Representative Garcia, quick
+question for you, one quick
+question, Mr. Chairman. Thank
+you.
+Uh, John or secretary, have you
+guys done anything to help uh
+small communities with their
+problems on audits and.
+Well for cause, you know,
+there's a big issue on, on my
+district on that.
+Mr. Chair and Representative
+Garcia, we've engaged uh on
+multiple levels as has DFA and
+uh New Mexico Finance Authority
+to provide assistance to these
+communities to get up to speed
+on their audits.
+Um, to, to provide the basic
+managerial services that we need
+in these communities, uh, the
+process has been slow, but we
+are seeing improvement across
+the board.
+Um, the other thing that I'm
+gonna put a plug in for one of
+the specials, we've, we've got a
+request in there for
+20 million to the uh rural
+infrastructure program.
+And this is one of our funding
+sources. It's a revolving fund,
+but it's much more agile than
+the others.
+Uh, the, we have to meet state
+requirements, but not all the
+federal requirements and it
+allows us to utilize funding to
+communities.
+Much more quickly.
+Uh, and, and all, it's, it's in
+smaller amounts, but it, it
+makes it available to them to
+jump start some of these
+projects.
+Uh, additionally, you know, we
+have, uh, we have a pilot
+project going with the
+Northwestern New Mexico cog
+council of governments in
+Gallup.
+Um, regarding regionalization,
+providing administrative grant
+support and things of that
+nature to these smaller
+communities, not physically
+connecting them, but providing
+uh uh essentially umbrella
+services, um, so we started that
+pilot this year, uh, and we're
+looking to expand that.
+Other places in the state.
+Thank you. Uh, thank you, Mr.
+Chairman. Thank you, Mr.
+Secretary. Thank you, John.
+Represent small
+Thank you very much, Mr. Chair.
+Uh, thank you, Mr. Secretary.
+Briefly, um, the additional
+positions that you've been able
+to fill around the enforcement
+side. I know you've gone through
+this, but what is that
+translated into for the state.
+Um, Mr. Jared and, and
+Representative uh uh
+We've um
+Just in, in our air quality
+program and a couple others have
+brought in in FY 24, uh 30
+million plus in civil penalties
+that go back to the legislature.
+Um
+We are splitting a lot of those
+civil penalties with the
+Department of Justice, because
+uh as we build up our
+enforcement.
+Cadre of staff, then we'll be
+able to take those cases on our
+own. So there's probably about
+I don't know.
+1012 million that we've shared
+with the federal government that
+we could have brought to the
+state of New Mexico. Um, but
+nonetheless, we, we've now
+offset our general fund in FY
+24.
+Um, by, uh, which was about 25.5
+million, we returned about 30+
+million to the general fund, um.
+So that, that's just that
+program. The other piece of this
+that I was explaining earlier,
+Mr. Chair and Representative, is
+that one of our programs that
+has waste emergency fund, you
+know, when we collect a penalty
+from, let's say, Los Alamos
+National Labs or a different um
+entity in the state of New
+Mexico for hazardous waste that
+goes into our has waste
+emergency fund, which is money
+that you don't have to
+appropriate to us from the
+general fund because we use that
+to respond to emergencies,
+spills, releases.
+Uh, community issues and some of
+that money is even testing for
+PFOS, um, in, in people's blood
+in private well water, which we
+wouldn't do normally, but for
+access to those dollars. Great.
+Thank you. I think it, it really
+demonstrates that strategic and
+smart investment, uh, benefits
+our environment and benefits our
+state budget it leads to a
+better, just sort of a, a better
+state broadly in many different
+ways. Secondly, um, Mr. Chair,
+secretary as we continue to work
+to be regional and in some
+cases, national, maybe even
+international leaders when it
+comes to wise stewards of water
+and being able to bring online
+non-traditional sources of
+water. Will that be front and
+center as far as the
+opportunities that you all are
+looking at this upcoming
+session.
+And including sort of a credible
+pathway to sort of um build
+clear rules of the road for sort
+of folks in the state about how
+to, how to maybe bring online
+non-traditional sources of
+water. Yeah, Mr. Jar and, and uh
+Jerry Small, we are very
+Focused on um in our special
+appropriations for FY 26, using
+those dollars for uh water work
+generally, um, not only
+increasing the quantity of water
+that's available for both um
+conservation and economic
+development and all those
+pieces, but to improve the
+quality of the water that New
+Mexico has. Um, so those are
+high importance to us, um,
+especially when we have group.
+like the Department of Defense,
+uh, you know, just actively and
+flagrantly violating our, our
+laws and polluting our water.
+Um, but we will continue to
+focus on that. We're optimist, I
+am optimistic that the WQCC will
+continue to move forward on the
+water reuse package, and I am
+also optimistic that our
+department will bring additional
+water reuse rules to the WQCC in
+2025.
+Um
+You know, and, and we'll
+continue to move. We have to, we
+have to do something because
+we're not creating net new
+water, um, unless we actively
+move down these pathways, um,
+and that's a whole of, of, you
+know, with Secretary Black here,
+that's great for us to be
+working on those technologies
+through LIDA, JTI bringing
+people in. Um, it's also great
+to have New Mexico Tech, New
+Mexico State University, UNM,
+we're partnering with them,
+Sandia Los Alamos, and others.
+I, I mean, there is so much.
+emphasis on water reuse in our
+state that, uh, I do feel
+optimistic, but it's a lightning
+rod in many ways, and, and we're
+going to continue to work in the
+hard space.
+Great. Thank you, Mr. Chair.
+Thank you, Secretary, and thanks
+to your team. I really
+appreciate the very diligent
+work, the enforcement, uh,
+actions that you all are
+bringing, I think, uh, setting a
+higher standard, uh, as well as
+really helping us push forward
+in essential areas, which I
+think we all recognize that
+water is one of, if not the core
+for the essential uh on the
+natural resource side and Mr. Ja
+and chairman just on the, I know
+that if I leave here without
+saying this, um, I'm gonna get a
+bunch of
+Questions, but, you know, while
+we talk a lot about enforcement
+and returning more general fund
+than we took. There are many
+companies who are doing
+absolutely the right thing and
+going well above and beyond what
+they have to do in our state. So
+this is not all about the
+environment department just
+wheeling a heavy hammer. I mean,
+there are some really egregious,
+um,
+Companies that we are alleging
+violations of and collecting
+penalties on who um are not
+making our state better, and
+there are many companies are,
+and that valuing their
+investment means that we have to
+hold the bad actors accountable.
+I couldn't agree with you more,
+Mr. Secretary. I mean, that's
+the issues that we run into when
+we have people operating in the
+way they should, people
+operating the way you shouldn't,
+and then
+Everybody's cast with the same
+shadow or blanket in and that
+happens. Um, I, I'm
+New Mexico needs to win on the
+water side. I don't know how you
+make us win in produced water, I
+mean, those rules have to get
+made. We have to get to a point
+where we can win on desal, we
+have to get to this whole water
+issue that we got to get.
+Your agency to make the rules so
+we can clarify where we're gonna
+head and and as you, all the
+agencies ask for a portion of
+that 250 million. That's gonna
+be a key into getting that
+complete, because if those rules
+and those aren't in place and I
+don't know if the legislature
+has the appetite to, to
+comprehend and say wait and
+we'll see what comes, but.
+I mean, if
+If we don't forget about the
+drought.
+A year ago, right? And how dry
+everything was and how demanding
+water is.
+Uh, for me, the issue could be,
+you know, the Gallup pipeline is
+hitting $2 billion right? If we
+were to put a
+$25 million desal plant in
+there, we could get water
+everywhere we need to get it in.
+And and produce water at 25th of
+the, I don't know how to divide
+2 billion by 25 million.
+But I mean, that is a key issue
+cross, and I mean, and New
+Mexico could win on that front.
+We could win in the produced
+water section, you could win in
+the desal.
+Other places in Dundee sell El
+Paso one. I mean, maybe it's not
+a win, but we can supply water
+at a lower rate, I mean.
+If I have to use the gallop
+water.
+pipeline to supply water, it's
+probably gonna be cheaper to
+bathe with bottled water than it
+is with the pipeline water.
+That's just a clear fact of
+Of what water is and what it
+means, so.
+Mr. Chair, you're coming in loud
+and clear, and, you know, I
+think we're very on the same
+page about where we have to go.
+Uh, as a, as an executive, as an
+agency, and where the
+legislatures uh wants to see us
+go. So I'm, I understand what
+you're saying. I've heard you
+say it before and it's, I, it's
+coming in loud and clear.
+So chop chop, let's get that one
+done so we can understand where
+we're headed.
+Thank you. We, we won't appoint
+you to the tourism secretary
+since there's no money. I, I
+might welcome in some days, Mr.
+Chair.
+Uh, we're gonna adjourn and
+we're going to come back after
+lunch to do.
+Uh, veterans veterans and Indian
+affairs, and so, sorry about
+that, but we're just running
+behind. We got caught up this
+morning, uh, and what time is it
+now?
+Let's say, yeah, let's shoot for
+1:30. Somebody comes back a
+little sooner, we will.

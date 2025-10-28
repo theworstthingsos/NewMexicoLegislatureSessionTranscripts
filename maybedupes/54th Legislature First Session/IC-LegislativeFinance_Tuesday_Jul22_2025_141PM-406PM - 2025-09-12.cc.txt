@@ -1,0 +1,4566 @@
+these businesses while they grow
+and work through the valley of
+death as Casey mentioned, um, we
+also help them secure
+non-diluted funding to do a lot
+of the early R&D that's required
+in these early stage companies.
+We work with them on insurance
+and accounting and securing
+equipment and space, um, we also
+coached them through
+fundraising. So the goal of
+Roadrunner is to exit our
+companies with a first check and
+a first customer. So we wanna
+make sure that they are in a
+market where they can sell and
+they can grow, and then we
+gladly, happily pass them off to
+our other venture fund partners,
+um, often also backed by the New
+Mexico SIC to
+continue to grow.
+So we source funders, not,
+excuse me, founders, um, in
+several different ways we work
+with uh founders and residents,
+which are people who might have
+identified an industry that
+they're interested in, and they
+have some idea of a solution,
+but they need more time to find
+a technology solution to a
+problem.
+So we will literally employ them
+and help them do that research
+to find a company to found. And
+then we'll found it with that
+founder. Um, we'll also work
+with founders who already have
+an idea, but nothing else. Uh,
+perhaps they've incorporated,
+perhaps they haven't.
+Uh, the third way we work with
+founders is companies and
+residents. So a handful of
+people who are working on a
+company but need more support in
+perhaps finding customers,
+finding market, uh, building a
+product. So our areas of
+interest.
+Advanced manufacturing, advanced
+energy, and advanced compute.
+So, um, while we touch on things
+similar to what NewSpace does,
+we certainly believe new space
+is best at aerospace, um, and
+try and funnel those companies
+towards KC and focus on other
+areas, um, obviously, Quantum is
+growing in this state.
+So we are interested in the new
+quantum companies that are
+coming. Obviously, some of them
+are much too large for what we
+do, but we're hoping to get some
+ideas of perhaps gaps in the
+market where we can start
+companies that will support this
+growing industry.
+Um
+Really, we feel like New Mexico
+is a great place to do this
+work. We have the National Labs,
+we have the support of the SIC.
+Nora and her office are always
+coming out with creative new
+grant opportunities that have
+really helped a lot of our
+companies, so we just, we want
+to see more of that. This is an
+early ecosystem. We have a lot
+of excitement, a lot of people
+who are working really hard to
+make it happen, um, and we want
+to be part of that growth. So
+Roadrunner has
+tried to create follow-on
+programs to help support the
+ecosystem at large. We're
+working with a lot of the other
+venture funds that are in the
+state. We're working on also
+building more facility space for
+these companies to have labs to
+work out of, to have machines to
+use similar to what Casey has
+built and is continuing to
+build, um, happy to answer any
+other questions about the
+investing space.
+Great. Thank you very much.
+Good afternoon. I'm Denise
+Holmquist, and I'm the senior
+director of product operations
+with Quantinuum. So I'm the
+industry representative on this
+distinguished panel panel here,
+and I have had the pleasure of
+working a little bit with Nora
+already and, and Maggie and
+Roadrunner, and we're excited to
+now
+Get to know New Space a little
+bit more and to establish a
+presence here in Albuquerque.
+So I'm gonna, uh, thank you for
+the invitation. Thank you for
+all that you're doing in the
+legislative areas to really
+promote quantum computing and to
+promote our innovation.
+I wanted to talk a little bit
+with you about who we are at
+Quantinuum.
+So we are a clear leader in
+quantum computing. We are a
+global company and we were
+created back in 2021 with the
+merger of two other companies,
+so we were born out of Honeywell
+quantum solutions here in the
+United States, and then we
+merged with Cambridge Quantum
+Computing, which is a quantum
+computing company based in the
+UK.
+So we've been around for about 4
+years, I would say the
+technologies is um we're, we're
+incubating prior to that merger,
+but we really brought those
+companies together to build a
+full stack company. I'll talk a
+little bit more about what that
+means, um, on their next slide,
+but first a little bit more
+about our company.
+So we do have almost 600
+employees across the globe and
+we're in 9 different sites
+across the globe. We're very
+excited to announce that our
+newest site is gonna be right
+here in Albuquerque, and so
+we're we'll be uh happy to
+invite you to our open house
+that we're gonna be having
+during IEEE Quantum Week in
+September and we're very excited
+to start our presence here in
+the state.
+You can imagine that, and we'd
+like to thank Nora actually and
+EDD because they helped us make
+that happen. So we learned a lot
+about incentive packages. We've,
+uh, she connected us with area,
+who helped us actually select
+the location. So great support
+with the state. So we really
+appreciate that.
+You can imagine that in quantum,
+uh, we have very highly
+technical expertise, so we do
+have of our 600 employees, over
+400 of them have degrees in
+either PhDs or master's programs
+and some of those come from
+right here in New Mexico and
+some of our leadership
+positions. So we really do
+intend to partner quite a bit
+with universities and
+educational organizations to
+really promote the pipeline of,
+of the physicists that we need
+to run our company.
+We do operate for commercially
+viable quantum computers today,
+3 of those are here in the
+United States and we have one at
+a customer site in Japan that we
+operate.
+And look for the news in the
+next few months, we'll have our
+next generation quantum computer
+launching soon, so watch for
+that.
+These quantum computers have
+really uh established a presence
+in the global eco ecosystem and
+have been the subject of many
+scientific papers and we've been
+able to achieve many world
+records with the capabilities
+that they have.
+And we really do try to protect
+our technology. We know that
+this, there's a lot of secret
+sauce in what we do, so we do
+have over 130 patents across the
+globe.
+I'll go on a little bit to talk
+about this what full stack
+means. So a full stack quantum
+computing company of which we
+are, is truly everywhere from
+the hardware, so the actual
+quantum computers to the
+software and the algorithms that
+actually run those computers. So
+at the base of this, this
+ecosystem, you can see our, our
+hardware systems. There are
+other systems in the world and
+we partner and learn about those
+other modalities in quantum
+computing as well, and we try to
+structure our full stack to be
+supportive of those.
+in addition to our own systems.
+We have this middle section with
+products like Ticket.
+And Nexus, these are developer
+tools, so these are really the
+tools that help folks that are
+writing the code that goes on to
+the hardware to actually do that
+seamlessly, to do that most
+efficiently and to be able to
+get the most out of our, out of
+our quantum hardware.
+And then the top of the stack is
+really where you'll find the,
+the applications and the use
+cases. So these are the
+scientists and the researchers
+that are really focusing on,
+well, what can quantum do in the
+next few decades and in the next
+few years.
+And how can we impact the world
+with this new technology.
+You'll notice that we are also
+looking at quantum AI. That's a
+big field for us. We really do
+believe that quantum and AI are
+very synergistic.
+And we really do believe that
+both of them are necessary for
+each other to partner, to really
+scale and to really make um
+Take, take technology in the
+compute world to the next level.
+We really envision in the future
+having data centers that would
+be a hybrid mix of having high
+performance computing in the
+classical world, as well as
+quantum computing that helps
+take things to the new level.
+So as I mentioned, we, we are
+the first commercial qubit
+builder, if you will, to
+actually um
+Make a meaningful commitment to
+have a site here in New Mexico.
+And we're very excited about
+that.
+And um a real our decision was
+really based on a few factors, I
+would say. Certainly, you've
+already got great assets here in
+the state with Sandia National
+Labs, with Los Alamos National
+Labs, with the university system
+that you have here. We've been
+partnering with those for years
+and we're really looking forward
+to having a facility here that
+will be
+co-located with those so that we
+can really increase that
+collaboration.
+What we're actually going to be
+putting here initially is a
+research and development center
+that's gonna be focused on
+integrated photonics, so
+photonics is the science of
+light.
+And you'll see lots of pictures
+of light on the slide there, but
+what we need to do to scale our
+quantum computers in the future
+is really direct this light and
+miniaturize our applications to
+really scale the computers to do
+the most powerful compute in the
+world.
+So I wanna focus on maybe 3 main
+areas of why we're coming to New
+Mexico and what we think that we
+can bring to New Mexico.
+It's in job creation and
+workforce development.
+Maturing the technologies around
+quantum and attracting entities
+and startups.
+Partnering with these folks
+here, they're doing a lot of
+great work in that area to
+actually build up the supply
+chain that we need for quantum
+computing.
+So in the area of job creation,
+it's critical for us, as I
+mentioned, to have a pipeline of
+educated folks that not only
+know Quantum, but also our
+engineering. Oftentimes, um,
+people think it's just gonna be
+physicists that do quantum, but
+actually a lot of the physics
+for quantum has already been
+figured out. And now the work is
+really in the engineering and
+it's really in figuring out how
+do you make this thing really a
+physical reality and so we have
+a lot of engineering.
+fo lk s and technicians.
+those types of rules as well
+that would be helping build the
+systems and build our test beds
+that help us innovate the
+technology.
+And then surrounding that
+certainly are aspects of running
+a business, so you need
+everything from HR to finance
+operations to supply chain
+management. So we definitely see
+that as we scale our presence
+here that we'll have those types
+of roles as well.
+In maturing the technology, as I
+mentioned, we've already been
+partnering with the assets that
+you have here, and we really
+look forward to having a place
+physically that folks can come
+to, whether that's, you know, to
+come and test.
+Similar to this, having labs,
+having spaces where people can
+come test their products,
+whether that be and training for
+um educating folks. We envision
+having internships where people
+can really have hands-on
+experience with many quantum
+computers in our test beds, so
+we're excited to bring that to
+the stage.
+And then on the supply chain
+side, so right now the supply
+chain for quantum is, is pretty
+brittle, and a lot of it is
+international and not based here
+in the US, so we're really
+interested in partnering with
+states that are willing to bring
+companies in that are willing to
+take that technology, bring it
+to the US so that we've got a
+little bit more national control
+over it, if you will, and also
+just having it in close
+proximity to where we are in
+building these systems.
+systems and helping the quantum
+ecosystem here in the US.
+So I think that it, you know,
+and I think that also just being
+able to co-design with those,
+with those, um,
+Supply chain vendors and
+partners, I think that what we
+can bring, we've been partnering
+with quite a few of them already
+internationally, and we really
+want to continue that
+partnership with them and, and
+hoping to bring some of them to
+the state here as well.
+So continuum overall, we are
+just very excited to be on
+location here in New Mexico, and
+we really want to be a catalyst
+as you grow your technology
+ecosystem here, and we hope to
+really be a magnet that can help
+build quantum technologies here
+in New Mexico. So thank you for
+your time.
+Excellent. Thank you very much.
+Uh, we're gonna go straight into
+questions. Uh, we've got a
+number of folks. We're gonna
+start with Senator Padilla.
+And we'll go to Representative
+Dickson and keep going from
+there.
+Uh, thank you.
+Thank you, Mr. Chairman. Thank
+you for your presentation,
+everybody.
+It's one of the subjects I love
+the most, as you probably know,
+uh, I've enjoyed doing work in
+this area in the legislature
+since I got here, but, so I have
+just a couple of questions,
+Chairman, um, on the, uh,
+newspace nexus. Thank you for
+all the work you've done for New
+Mexico for all of the many,
+many, many years. So thank you
+and I, I just love that we have
+your office, Nora just moving
+along and trucking along doing
+all these wonderful things.
+But my question for you, uh,
+Casey is, uh, so how does
+investment work? So I heard
+that. I was like, well, how, how
+do these startups get some
+money? How do they move along?
+But how does it work for new
+space nexus, do they put money
+into newspa New Space nexus to
+get to help you to bring other
+entrepreneurs into the
+environment or how does this
+work? I think they should, but
+so far they haven't. Um, the way
+we have worked it with our
+company.
+I, uh, we have a specific
+program called the new Space
+Ignier and you'll see they come
+in at different levels of
+readiness.
+And, um, but we also outside of
+the program navigate a number of
+companies. So the companies come
+in.
+We assess where they are, what
+they need, and we, um, sort of
+have tailored navigation plans
+for them, we help them, uh, get
+to, so, so we'll work with them
+whether they need a
+demonstration, um, they need to
+get to experts. We have an
+expert network that has about
+55, I think we're at like 55
+where they're investors,
+government leaders, um,
+academia.
+Um, industry that come in and
+really go work one on one with
+these companies to help navigate
+them. We get them ready. We
+then, uh,
+Develop a investor network of
+which we have a few investor,
+uh, few of the investors that
+are stronger partners, but, you
+know, like Roadrunner, you know,
+we work with a number of
+investors, so then our third
+stage for these companies is to
+showcase them. So we showcase
+them to, uh, whether it's, we,
+we call the money side, if you
+see on the slide, I call it my
+bow tie, where you have all your
+innovators coming in.
+And then we, we really worked
+the relationships of the money
+side, whether it's a government
+contract or an investor or even
+partnering with other companies,
+and I say the magic happens in
+the not in between where new
+Space Nexus lives. So after we
+navigate, we showcase them to
+these investors, uh, to the
+government, uh, funders, and
+that's where we've been able to
+help, you know, get these
+companies to the winds, and
+right now in the 1st 2 years.
+of our that specific program
+we've helped these companies get
+to 59 million, and this is, you
+know, where the company say it's
+attributable to our, our
+programming and helping them,
+so, so that's what we do right
+now is we just really keep the
+relationships with
+The like these investor networks
+and then um and then the
+government contractors and and
+work with the companies'
+individually, but I think that
+the investors should
+Should help pay for that. No,
+right now we have a what's
+called a partnership
+intermediary agreement with Air
+Force Research Lab, which was
+initially funded through Senator
+Heinrich's office, so it's
+allowed us to through that grant
+really test out these processes
+without charging the companies
+without charging the investors
+to be able to help navigate
+them. I, it's coming to an end,
+and we're hoping to renew that
+with some support from the state
+or from um more.
+Federal funding, so we could
+keep doing good things.
+I thank you and thank you,
+chair, and so maybe the next,
+uh, whoever wants to answer
+this, but, well, I guess maybe
+new Space Nexus could answer
+this one too, but what percent
+are staying here in New Mexico.
+So graduating from here and
+setting up shop down the road or
+somewhere in New Mexico. Right.
+Well, so, and if you see our,
+our uh logo, I mean, our
+corporate name is New Space New
+Mexico. We rebranded to uh doing
+business as new space nexus and
+the reason was a number of
+companies did not realize.
+That we would work with them,
+and I'm a believer in working
+with these companies, bringing
+them in from all over the
+nation, and we have a number of
+companies that we get to through
+our conferences, through our new
+Space Alliance that come and
+once like especially the nighter
+companies, we, uh, I haven't
+looked at the exact stats
+lately, but it's about a third
+of the companies are New Mexico
+companies and so we help them
+grow, but uh, um, of the other
+2/3, we're
+Now working with about 10 of
+those, so we've worked with 50
+so far. We're working with about
+10 of the companies to set up
+and we try and set up meetings
+with EDD or with um, you know,
+attorneys that are trying to do
+this, this, this facility they
+can use as a sign up as a user,
+uh, you know, they, they're part
+of this, they can use this as
+their address, as they're
+starting up some of their
+programming. So we have about
+10.
+companies right now that are in
+different stages of setting up
+in New Mexico, and that's where
+I'm a believer in reaching out
+nationally because when we come
+here, like I say, we showcase
+the companies to the investors
+or to the government folks, when
+we bring them here and they see
+this ecosystem, it's almost uh a
+set conclusion that they want to
+set up some kind of office, they
+see, you know, there's these 3
+Space Force organizations that
+have over
+2 billion annual budget in
+space. Sandia Labs and um Los
+Alamos. I think this is a low
+number. They each have about a
+500 million budget in space
+they, um, you know, we have all
+these resources like a number of
+the companies that are sort of
+in the launch, we're working to
+get set up at Spaceport, so.
+Anyways, it's going well, very
+good. I don't know if anyone
+else want to comment. I'll just
+be quick chair. So thank you.
+Um, so is higher ed engaged and
+are they showing up here with
+all of their degrees and skill
+set and everything, or they also
+learning here, uh, what they
+need to do to take on, maybe
+they've got this really wonder
+like when I started my business,
+I had this very wonderful,
+beautiful idea and everything,
+but I didn't have a clue how to
+run a business. And but there
+was a lot of trial and error
+there. So is, is there a piece
+and a component to New Space?
+that helps them understand how
+to run their little business
+before they get clobbered by,
+you know, some other issue.
+Somewhat we do help them with
+kind of their messaging and
+their promotion, but as far as
+like how to set up we have
+different partners that'll help
+with like the attorneys or um
+the incentives of the state,
+like we don't.
+Try and do that also. We right
+away and that's why that.
+Initial chart showing that whole
+ecosystem is any success we have
+has been through working with
+all the partners in, in the
+state.
+If that answered, sir. Maybe you
+were gonna make a comment as
+well.
+Thank you to add to that part of
+what Road Runner does is
+teaching those business elements
+because so many, so many of our
+founders have very big technical
+experiences. They have PhDs,
+they have a huge amount of
+knowledge, but don't know
+QuickBooks because why would
+they? So we make sure that our
+companies exit the studio with
+clean books, with clean cap
+tables with proper employment so
+that they can be successful.
+stressful in what they're doing
+and not fail for reasons that
+they don't need to fail for.
+If I may, uh, chair, Senator,
+I'll also just add, um, that is
+an aspect that my office focuses
+on as well, so we have a
+business assistance program. We
+have 4 contractors in sector
+specific that businesses,
+startups in those sectors get
+free services to them, you know,
+we, we pay our contractors, um,
+uh, to receive business advice,
+uh, to your exact point,
+especially when we're dealing
+with what we called hard tech,
+deep tech. It's a lot of folks
+who have the technical expertise
+and maybe not the how to
+and a business expertise, so we
+do what we can to add that into
+the equation.
+Uh thank you, Chair, and I'm
+assuming that there's a lot of
+things they can learn from by
+doing that. So they're not
+reinventing the wheel in areas
+that they don't have to and they
+can focus on their core
+competency. And then the last
+question I have, chair, I know
+others have probably questions
+as well. I, uh, maybe this is
+for Quanttinuum and thank you
+very much for selecting us and
+wanting to be here and we want
+to do everything we can to help
+you succeed here. I, I can
+assure you, I personally am
+working on that and
+Representative Sanana and I,
+Sanana and I are working on that
+together. But um,
+Your power needs, your power uh
+uh needs for your, what, what
+are, are you working with all of
+us here to make sure you have
+all the power you need, because
+I'm told that it is just
+Explosive, the amount of power
+that you're going to need to
+really build what you're trying
+to build, so.
+Yeah, so that's a good point
+that you bring up, Senator.
+Thank you for asking the
+question and chair, um, actually
+the modality that we've chosen,
+which is ion trapping, takes
+significantly less power than,
+say, a superconducting modality,
+which is where you'll see the
+chandeliers, the pretty, the
+pretty gold chandeliers of a, of
+a quantum computer, those need
+to be chilled at a very extreme
+level. Our technology doesn't
+need to be chilled as much, so
+we don't use those dilution
+refrigerators.
+So our power consumption is
+gonna be much less than some of
+those other modalities.
+Wonderful. Thank you, chair. I
+probably have 58 more questions,
+but I'll stop there. So thanks.
+No, this is great. And thank you
+to Senator Padilla for uh all of
+your work in this area. Truly,
+it's, and this is a great
+opportunity. We'll keep going
+down the line, um.
+Representative Dickson and then
+Representative Chatfield and
+keep going from there.
+Representative Dixon.
+Thank you, Mr. Chair. I think
+Senator Padilla and I could just
+spend a whole day um on this uh
+subject. Um, I'll try to, um, be
+quick with questions. Um, I may
+have one at the very end, um,
+if, if there are other things
+that light up. Um.
+I want to focus, Mr. Chair, on
+place-based location and um
+Denise, uh Miss, sorry, Home
+Quest is Home Quest. Um, you
+mentioned, um, some of the, the
+reasons that Albuquerque in
+proximity with Sandia, um, why
+that can be helpful. I'm
+wondering um if there's anything
+that you'd like to add to that,
+um, and then if, um, other folks
+have insight into why.
+Uh
+Building an ecosystem is so
+important and why the
+place-based.
+You know, having that close
+proximity, um, is a desirable
+asset.
+Sure. Thank you, Chair, Vice
+Chair.
+I believe that
+It's kind of like, um, you know,
+seeing things is believing
+things, touching things and
+being able to really experiment
+on actual systems. There's not a
+lot of people that understand
+quantum computing and it's a
+highly complicated area. So
+having vendors, having
+collaborators be able to come to
+our labs and actually see things
+working and testing their
+products to make sure that they
+will work in the quantum
+ecosystem, I think is vastly
+important. So having the
+abilities to
+here to partner with, continue
+our partnership with Sandia Los
+Alamos, and to bring in new
+technology and new partners, I
+think is very key.
+Mr. Chair, uh, Madam Chair, Vice
+Chair, if I can add, um, I think
+this gets to a lot of what we
+focus on and, and kind of a a
+guiding lens of what we do in
+economic development,
+specifically in science and
+tech, um, doing place-based.
+Growth, innovation as opposed to
+just things happen to happen in
+a place, right? We want the
+place to be kind of the
+grounding element, the
+attractor, um, one of the things
+that that encourages similar to
+what Denise says, uh, is
+collision. I know Road Runner
+talks about this a lot. When you
+have a place where all of these
+elements are occurring, you
+could get somebody working in
+one area, colliding with
+somebody working in another area
+and that yields something new
+and you have the tools.
+In that environment, in that
+place for them to work on that
+thing, that new thing together
+that wouldn't necessarily have
+occurred had they not all been
+in a shared ecosystem. Um, we
+talk about the labs a lot, of
+course, as incredible anchors
+and assets for uh New Mexico's
+science and tech economy and
+industries, um, and a
+place-based uh thesis is really
+um for us focused on what can we
+leverage from that, what can we
+build on top of that. So for
+example, when we first started
+talking to Quantinuum, right?
+Hinda was really kind of the
+anchor of the draw for their
+presence in New Mexico, uh, I
+would say in addition to UNM's
+uh graduate program in, in
+quantum physics, um, and so for
+us at economic development it's
+how we latch on to those um core
+competencies that already exist.
+We didn't have to do anything to
+put them there, um, and what do
+we add on to them and how do we
+leverage them so that this
+continues to be the place where
+people come to use and leverage
+and grow from those unique
+attributes.
+Yes, when we first got started
+in 2019, we had a number of
+leaders who brought together
+and, and just like what will be
+the, you know, what's needed,
+what's the strategy and the
+number one
+Um, ask from these companies is
+having a way to collaborate.
+Having a way to run into those
+customers into these investors,
+into each other, and it's been
+really amazing with our new
+space igniter program, we have
+probably 4 different projects
+that have gotten funded at a
+pretty good levels with them,
+uh, partnering together and
+learning from each other, so
+that collaboration, that
+collision that Nora speaks of
+is.
+very, very important.
+I'll just echo what they said.
+Founder density is really
+important to us at Roadrunner,
+um, not all of our founders are
+in state, but we do.
+Push as much as we can to get
+our founders to talk to each
+other on a weekly basis and
+learn from each other. They
+don't always want to hear it
+from their investors, you know,
+we're old and stodgy, clearly,
+um, but they, you know, they can
+learn lessons from each other
+about how to run business, how
+to hire people, or just think
+through problems in new ways
+because they're so microfocused
+on what they're doing. So having
+an active ecosystem just allows
+the founders to collaborate
+really across sector in a way
+that will only help New Mexico.
+Thank you. Thank you, Mr. Chair.
+Um, thank you for that. I, I
+like, um, uh, founder density
+collision, uh, collaboration,
+those are uh place-based thesis.
+I took, took those notes, um,
+those are really good, uh,
+phrases. Um.
+Non-dilutive capital, uh, Ms.
+Newman, you mentioned that, um,
+as you know, something, um,
+Important for startups and um
+Miss Sackett, that is, uh, an
+area that the department has
+grown in in terms of those
+grants, but I'd really like to
+dive a little bit into why uh
+non-dilutive capital is so
+important for um the companies
+that you guys are working with,
+like, why is it different from
+um the SIC money specifically or
+you know, venture uh funding and
+yeah, thank you.
+I can start and then if you want
+to go, uh, Mr. Chair, uh, Madam
+Vice Chair, absolutely. So when
+we talk about non-diluted
+funding. What that is referring
+to is funding does not diluting
+ownership, equity in the
+company. So typically investment
+is con is seen as being diluted
+funding, so it is diluting the
+equity stakes, the ownership
+percentages in that company. Uh,
+so all venture capital, uh, is
+diluted, I think it's pretty
+fair to say.
+Um, right, they're taking a
+certain percentage equity stake
+in ownership of the company in
+the idea that that company will
+then later succeed and either be
+acquired or IPO and there's a
+return on that investment, um,
+so what my office works in is
+non-diluted funding, which is
+great for founders because it's
+free money, essentially, right?
+It's funding for them to advance
+their technology, uh, for their
+business to grow, for them to
+work on business development and
+it does not
+their ownership, their equity
+stake. It is also attractive for
+their uh investors, right? Uh,
+they have a certain percentage
+percentage of their stake when
+there's more investment that
+affects their percentage numbers
+as well, uh, and so it is
+attractive all around and so,
+um, SIC funding at all let
+Maggie speak to that a little
+bit, but that's on the, the,
+the, the diluted side, the
+funding that we operate with is
+non-diluted and so it's grant
+funding, um, it is EDD has
+grantmaking at the
+We provide grants to, uh,
+businesses for business
+development purposes, um, and it
+does not affect their equity
+stake in any way.
+It's really quick. The uh Mr.
+Chairman Wester, um, the, the,
+you know, the funds that we have
+helped the companies get to
+where I said about 2/3 of it is
+government contracts. So having
+the, you know, the 3 Space Force
+organizations here, the Air
+Force Nuclear Weapons Center,
+um, getting, helping these
+companies get to SBIRs, all of
+that is non-diluted funding too,
+so, um, so beyond the
+there's a lot of federal dollars
+that we could help the, the
+companies get to without
+diluting their ownership.
+Um, Nora covered that really
+well, um, at Roadrunner, we
+focus on deep tech, hard tech.
+It takes a lot of money to build
+these devices. So having free
+money, having R&D funds is
+really important to starting
+these businesses, um, our
+founders don't want to give up
+50% of their ownership to us in
+order to get the funds they
+need. So while we are a very
+small team, we do employ a grant
+writer, so that we can
+and get federal funds, SBIR
+STTR, state funds, those that
+Nora's office, um,
+Offers
+Um
+And we're actually very proud.
+We've gotten an average of
+$500,000 per company through
+non-diluted funds, which, you
+know, just add months and years
+onto the companies's lifespan,
+so that they can get to that big
+investment check where they can
+give up larger stakes in their
+company because their company is
+worth so much more.
+Thank you and thank you, Mr.
+Chair. Yesterday, I think uh a
+number of us were fortunate, um,
+to go to Sandia National Labs to
+learn about quantum, but then
+also a visit visit a company
+that
+has benefited from non-diluted
+funding, um, and sort of talked
+about.
+I don't know that it's
+necessarily in the valley of
+death for that company, but just
+how it's absolutely critical
+because of where the company is
+at that point in time that, um,
+you know, other options aren't
+really feasible, so, um, I
+thought that was, that was
+fascinating and I'm, I'm pleased
+to hear that uh there are a
+number of avenues uh for
+companies, yes.
+Mr. Chair, Madam Vice Chair, if
+you don't mind me just building
+off of that, uh, since you're
+referencing grid flow, uh, one
+thing I'd just like to mention
+is that, uh, so as you
+mentioned, some of you met with
+um ridflow yesterday, uh, who is
+one of the inaugural recipients
+of our Advanced Energy Award,
+um, and one of the great things
+about the advanced energy award
+was it marked a dramatic
+increase in the award amount
+that EDD was making. Previously,
+the two grants we had um that
+the Office of Science and Tech
+had were much smaller dollars.
+members, which are still much
+appreciated by the companies,
+they'll tell you, um, but they
+are limiting. It was it was a
+smaller dollar number, um, it
+didn't allow for
+Anything transformative, I guess
+I'll say. And with the advanced
+Energy Award, it was a pilot
+program at first, and we wanted
+to scale up those amounts to see
+how effective can we be with
+these brands, and the result has
+been overwhelmingly positive,
+and I think part of that you saw
+with um Chuck Cole yesterday and
+gridflow, um, but all of the
+awardees from Advanced Energy
+Award, uh, have been proof that
+we can effectively responsively,
+right, with your taxpayer
+dollars we're being responsible
+with them, but scale up the
+award amount for a
+much larger results and economic
+impact from these startups and
+make a bigger difference and uh
+speed up their growth much
+quicker.
+Thank you. Thank you, Mr. Chair.
+Last question, um, just, um,
+what are some if if each one of
+you could potentially answer um
+what is a key challenge that is,
+that still exists, uh, for the
+folks that you work with so that
+we can start thinking about what
+are some of the next things, uh,
+where the state has an actual
+role.
+Um, so if you don't have an
+answer now, that's fine, um, but
+I'd love to hear those thoughts.
+Well I think that the area that
+you're, the HB20 addressed hits
+them all cause it's
+infrastructure.
+Workforce.
+Um, support to the industry.
+Um, that's kind of like the
+incubator services of what you
+had. And then also to keep
+supporting their research or
+like funding grants that is
+non-dilutive to help them get to
+that next stage, and as they get
+to that next stage, as uh Maggie
+brought up that there their
+value goes up and then that's
+the point where, you know, they
+can go talk to venture funds to
+getting that bigger investment,
+but
+I think, you know, those those
+areas you hit them dead on.
+Um
+In the legislature last year.
+And I think
+Keep going with that. It's real,
+it will, it really will make a
+difference.
+Thank you, chair. Thank you,
+vice chair. Um, I would say for
+us it's, you know, really the,
+the things that you have done
+thus far have really been
+beneficial and being able to
+know that it's a state that's
+wanting to learn about quantum
+and wanting to invest in quantum
+has been instrumental, and I
+think that it's important to
+learn about quantum. It's, it's
+a complicated subject,
+certainly, but I think that
+taking the time to learn about
+it, taking the time to
+understand.
+There are different modalities
+in quantum computing, it's not
+one size fits all, and so I
+think there's a lot of different
+avenues that the state can take.
+I do believe because of the work
+that's already based here with
+Sandia and the integrated
+photonics world. I think that's
+a really great place to start,
+and I think we're gonna see in
+the quantum industry certainly
+that supply chain buildup.
+That's gonna be the next big
+step.
+For Quantum Industries, and that
+will then feed into us being
+able to develop even more
+powerful hardware, which then
+lead into those greater
+applications of the hardware and
+solving those world problems
+that classical compute can't
+actually do.
+happy to follow on to that.
+We're excited to learn about
+Quantum. We are excited to
+license technologies out of
+Sandia, out of Los Alamos, and
+start some of those quantum
+companies. Hopefully we can
+build a lot of partnerships, um,
+as we move forward with this new
+industry in the state or
+Built growing industry in the
+state, certainly not new. Um,
+We
+You know,
+I guess just building off of
+that, a challenge we face that
+is real nitpicky, so nerdy stuff
+here, um, licensing technologies
+out of the labs and universities
+is not as simple as you would
+think. A lot of people want it
+to happen. A lot of people talk
+about it happening, but the
+actual happening is a long
+complicated process, um, and if
+there were a way for the state
+to unite around how to license
+technology. Obviously there are
+some harder factors.
+with the federal labs, but the
+state universities, you know, if
+everybody was on the same sort
+of schedule contract.
+path.
+To license would make the life
+of founders a lot easier, um,
+transferring IP transferring
+ownership is just a really messy
+process that is only made more
+challenging with a lot of
+bureaucracy. Um, so it's not
+even a, a funding request from
+you right now, but just thinking
+through what it takes, um, to
+make that happen so that we can
+grow the quantum industry, for
+example.
+Mr. Chair, um, I think the main
+obstacle we continue to see
+would be density. We're still
+small in ecosystem, um, that is
+changing and improving as we
+grow, um, but there is an
+element of density that we don't
+have yet. That just comes with
+time, I think, I think we're
+doing all the right things to um
+continue growing that ecosystem
+so that we have greater density,
+but I will also piggyback on
+what Maggie said, and this is
+something that my office plans
+to work on this year as well, so
+happy to chat with anybody uh
+members of the committee
+interested in that as well, um,
+of licensing, specifically from
+New Mexico institutions of
+higher education, um.
+Much less in our realm of
+control is um is from the DOE
+labs, that's a federal process,
+um, though they have been very
+good partners in trying to
+identify new ways, you know, to
+work within their systems. But
+within, you know, uh, New Mexico
+higher education institutions,
+that is wholly uh a local uh
+controlled element. And so
+that's something my office plans
+to work on this year as well.
+Not
+Thank you. Thank you, Mr. Chair.
+Thank you very much, uh,
+Representative Dixon, and thank
+you for, for the work and
+sponsorship on each uh B20 with
+so many other partners. We're
+gonna go to Representative Lujan
+and then Representative
+Chatfield, Representative Lujan
+will have to depart here shortly
+or San Luhans. Thank you, thank
+you so much, um, uh, the
+innovation is incredible. I
+really, I really appreciate it.
+And I'm just gonna, uh, for the
+sake of time, follow up like.
+What Representative Dixon just
+let off and what you gave us as,
+you know, next steps. One thing
+I did invest in, um, I think it
+was my first year, uh, or 2
+years as a legislator was to
+develop a um or work towards a
+DOE collaborative center. I put
+$100,000 of, of my grow fund at
+the time, I guess, or junior
+fund at that time before it was
+the grow.
+To, to work with local
+governments and to work with our
+labs do and, and uh higher
+education to really create this,
+but it fell through for other,
+for reasons I'm not gonna get
+into right now, but
+Have you all developed or have
+we worked to develop something
+in that kind of collaborative
+nature.
+What the process, uh,
+My the collaborative I was
+working with was to identify
+Anderson Anderson School of
+Business at UNM to be kind of
+the focal, uh,
+Uh, higher education unit, if
+you will, and then work with
+work together and, and build
+this um build this out. Is there
+a way of doing that? Thank you.
+Mr. Chair, uh, Representative.
+That is a great question. I
+think one thing that comes to
+mind for me is the DOE boost
+program. So this is a program
+out of um primarily out of
+Sandia that, uh, speaking to
+sort of what we're talking about
+of of
+The ease of licensing lab
+technology and their um desire
+to do what they can to to make
+that easier. They created a
+program, um, that accepts
+applications from entrepreneurs
+and matches them with lab
+technology to in the hopes of
+assisting them and spending out
+on licensing that technology.
+Um, so that is a program with a
+lot of uh focus in New Mexico,
+so grid flow yesterday was a DOE
+boost program company, um.
+I don't know that that has a
+higher ed component that you're
+speaking to, I think that's a
+great idea, um, especially for
+that entrepreneurial element. I
+don't know that that currently
+um has come together quite like
+that. Uh, so that's something I,
+I'd certainly would love to talk
+more about.
+Thank you, Mr. Chair. I would
+really love to sit down, talk
+with you how this this can be
+because we do have the hubs of
+Sandy and also Lane up in uh
+northern New Mexico, which we
+really, we have these centers.
+By nature, by what they do,
+centers of excellence, if you
+will, and how do we collaborate
+and really make that work when
+we have the the federal
+component as probably the lead
+component of how you're going to
+grow and expand because the
+amount of money that we're
+giving you helps and it
+increases what you're able to do
+and
+We just need to do more of it
+and and um I think we're going
+to talk about the nature of all
+the other components like, uh,
+infrastructure of water and all
+those other things, but
+congratulations. I think this is
+something that
+New Mexico can be proud of.
+Thank you. Thank you very much.
+OK, uh, next we have
+Representative Chatfield and
+Representative Little.
+Thank you, Mr. Chair. Uh, Mr.
+Chair, I think.
+That y'all have got up and
+walked around in my question a
+little bit, you said, oh, when
+you sat on this side of the
+deal, you're like, yeah, and
+then everybody else asking, but
+I'm gonna ask it anyway because
+I think it's important. I think
+it was last year we were told
+that the US and China were in a
+very close race when it comes to
+quantum.
+And that the federal government
+intended to
+Create
+Several, maybe 5 or 6.
+quantum centers.
+Uh, around the United States.
+And uh that
+You know, if you, if you got one
+of those centers.
+Uh
+would be very fortunate for for
+New Mexico. We all know that.
+Can you tell me
+What would be
+The federal government, do you
+have any idea what would be the
+commitment by the feds.
+What type of commitment would be
+required by us?
+And are we in the running?
+Mr. Chair Representative, um
+Sorry. Um,
+That's a fantastic question. So.
+I think what I'll say is we are
+in a sense, yes, I suppose one
+of the questions is, is the
+answer, um, I cannot remember,
+forgive me, what specific
+program is the 5 centers that
+you're referencing. I do know
+what you're talking about, but
+we are, uh, kind of in that
+vein, um.
+We are, um, New Mexico has a
+proposal into the National
+Science Science Foundation
+Regional innovation engines
+program.
+Um, ours is a quantum moonshot,
+and it is to exactly the point
+that you were talking about,
+that it is a national security
+prerogative that the US reaches
+a certain level of quantum
+computing before China does. It
+is imperative to national
+security. We have to be China,
+um, and we are really clear that
+New Mexico has the unique
+Footprint and assets to be the
+linchpin of that, uh, that
+difference. We have two national
+labs with world leading work in
+quantum. We have a very strong
+DOD presence, uh, and so we're
+really clear about our
+potentials in that. So we are a
+national semifinalist for that
+award, the NSF award would uh
+provide $160 million over 10
+years. Um, it's the program is
+called our proposal is called
+Quantum Moonshot, um, and it is
+has a specific
+national security focus. Um, so
+it is not the exact program that
+you asked about because like
+forgive me, I can't recall
+exactly which agency that's
+from, but it is very much
+aligned, and so that is
+something very much on our radar
+that we are actively working
+toward. Um, we have our next
+step coming up with the NSF
+soon, uh, and that is absolutely
+an avenue that we're looking at
+to pursue in quantum computing
+as well.
+Ice chair, chair. I think that,
+um, and Senator Representatives.
+I think that certainly in
+continuum, we are interested in
+following where the money is and
+understanding what types of acts
+are available at a federal
+level. We have heard of these
+hubs and certainly our presence
+here in New Mexico was really an
+attempt to attract some of that
+funding here to New Mexico, so
+we do believe that as a leader
+in the quantum technology realm
+that that should help the state
+and securing some of those
+funds.
+I know, um, Mr. Chair, uh
+representative Chatfield, I know
+you're talking about quantum,
+but with regard to space, um,
+we're in the same race, and
+there are a number of things
+that um New Mexico can be that
+leader to help our national
+security by um the investments
+that are going forward with the
+state to support a lot of the um
+federal efforts, but
+We're in the same race in in the
+space industry as well.
+So
+Mr. Chair, members of the panel,
+other than a gazillion dollars.
+What can we as a legislature do
+to help push you forward to help
+make you successful.
+Well, first, that gazillion
+dollars is a good thing.
+Um, I just think that um
+Leadership
+And strategy.
+As we have seen from the
+legislature this last year.
+Just please keep going with
+that. Please go with that. We
+New Mexico, we, we have so much
+here.
+And we have so much potential
+and I think sometimes our own
+Selves don't
+Understand that. And so as a
+legislature, please just keep
+going with that strategy with
+the direction that has happened
+this last year, and it'll, I
+mean these 4 tech areas that
+were identified, we, we can be
+the leader in every one of those
+with the quantum with energy,
+bioscience, aerospace. Please
+just keep
+Keep pushing. That's all I ask.
+As we are an emerging ecosystem,
+I think selling New Mexico as a
+cohesive place for innovation is
+really helpful. Having all of
+you as spokespeople for the
+state, uh, for what can happen
+in the state.
+You know, we're, we're sort of a
+flyover. We're a place that
+people haven't necessarily
+considered, but it's not for
+lack of resource. So everything
+we need is here. We just need to
+be on the national stage. We
+need people to notice. We need
+people to know that New Mexico
+cares about innovation and is
+working towards innovation.
+Thank you. Thank you, Mr. Thank
+you, great question. Uh, we're
+gonna go next to representative
+Little, then Representative
+Sareana, then Representative
+Duncan and go from there.
+Thank you very much, Mr. Chair.
+Um, I have a question, my
+We were talking earlier today
+about starting early and at the
+medical school, getting out into
+communities, talking with
+students, trying to get them uh
+interested in the topic of uh
+medicine or healthcare, and I'm
+curious, I've been really
+excited to learn more about this
+area, um, of opportunities and
+as leaders, uh, Mr. Chair, I'm
+areas as to uh what outreach
+is being done with New Mexico
+schools, science fairs, I mean,
+I'm not sure what exactly it is,
+uh, but I would love to hear
+about that, please. Thank you,
+Mr. Chair.
+Thank you, Mr. Chair, um,
+Representative Little, uh, thank
+you for the question. I do have
+to say we, as part of
+Looking at these gaps and
+challenges of the, of the space
+industry and the companies.
+A huge one is workforce.
+And so we have a partnered with
+Workforce Solutions, secretary
+Na Nayer and um and uh and
+industry.
+And um government and have a
+put together what we call
+pathways to the stars.
+And our hope is that as we put
+some of the processes in place,
+it could be used for other, you
+know, we're doing it.
+As a first space industry, but
+we're looking that it hopefully
+it could be a framework that
+could be used for other
+industries sectors as well, but
+the key idea is that we, um,
+You know, we get in at that
+early childhood train um set up
+things for that inspires these
+young ones, um, you know, to go
+into the space industry, open up
+their eyes that it's more than,
+you know, launch vehicles and
+astronauts in space, there's way
+more opportunity and then as
+they go along, we keep them in
+that path, and um, and then
+start having, uh, you know,
+doing internship,
+pre-apprenticeship.
+programs, we are awarded a
+pre-apprenticeship, uh,
+workforce program at a workforce
+solutions, so very honored to do
+that, and then the final part is
+really helping keep connected in
+with some of these uh
+folks that may be already
+working in the space industry
+and might want to come back. The
+big part of where this is, it's
+this holistic approach where we
+partner with the space company,
+so it's not just, you know, the
+space companies we tell them,
+you can't just
+Um, expect at the, you know,
+when you're ready to hire to go
+find the hires, you need to get
+in the trenches with us and help
+inspire these students, help
+keep them on track in some of
+these programs, and then, and
+then do the internship. So we,
+uh, brought on a new uh person,
+Kathy Steen, who's running our
+pathways to the stars and like I
+said as hopefully we set up this
+framework and we meet our goals
+and it it could be expanded to
+other industry sectors.
+Thank you.
+Uh, Mr. Chair Representative,
+one thing I'll just add on to
+that, um, you may have heard
+about it at Sandia today is Q
+Camp. So, uh, Sandia National
+Labs is really strong in working
+on quantum workforce. This is
+specific to quantum, um, but one
+of their programs that I'm so
+excited about is their training,
+they have a curriculum and it's
+active right now and they're
+training New Mexico teachers to
+understand quantum, uh, and to
+be able for them to be able to
+teach their kids, their
+students.
+about quantum, so they have, you
+know, age appropriate curriculum
+for a variety, I think I believe
+through K through 12, uh, so
+that they can do exactly what
+you're getting to a kind of
+plant that seed really early,
+um, to of science and
+specifically in quantum, so that
+that's not sort of a mystery
+word that comes later down the
+line. I think Denise will speak
+to some of their efforts on this
+too, uh, but I'll just add, I
+think one thing in my sort of
+wish list that would be left, I
+would love to see is um my boss,
+Secretary Black, when he was at
+the chamber, I think
+everyone's familiar with the Bro
+be proud, um, truck, right, for
+the trades. I think it would be
+amazing to see something similar
+to that for our for science and
+tech sectors that we focus on.
+Thanks, Mr. Chair and
+Representative Little. I think
+at Quantinuum, we have a very
+robust internship program, and
+we would certainly plan to
+expand that here in New Mexico
+with our R&D center here and
+speaking of the QA, thanks Nora
+for bringing that up. We did
+sponsor 5 teachers this year to
+attend QA. So I think there are
+many opportunities and we are
+certainly, as I mentioned
+earlier, interested in
+developing the pipeline for
+quantum technologies and
+engineering technologies
+throughout our company. So we're
+certainly happy
+to participate in those
+workforce development efforts.
+Uh, I'll also just shout out CNN
+who is building boot camps for
+these emerging industries, um,
+obviously they've had their
+coding boot camp for a while,
+but starting this fall, they're
+gonna be launching a quantum
+workforce boot camp.
+So we are, you know, as a
+community trying to capture all
+elements of that science and
+tech workforce, um,
+It is a quantum boot camp. You
+may or may not know this. I
+didn't know this. It's a lot of
+similar skills for
+semiconductors, so these are
+people who could go work at
+Intel, who could go work at
+Sandia or who could go work for
+Quantinium as they grow. So it
+is a newly developing program
+over at Sandia or at CNM excuse
+me.
+Thank you so much. Thank you,
+uh, Mr. Chair. I'm, again, I'm
+really excited to hear about all
+of the
+Developments that are coming to
+the state of New Mexico and I
+look forward to um the
+opportunities for our littlest
+ones to become involved and
+interested and eventually become
+part of the workforce that
+It stays here. Thank you. Thank
+you so much for share. That's
+the end of my question. Thank
+you, Representative Little. Uh,
+next we have Representative
+Sareana, then Representative
+Duncan.
+Hear it now.
+Thank you for your presentation.
+Um, I have to say, uh, you're
+the 3rd panel this year that
+I've seen that I've listened to
+you that's been all women, and
+the year before it was a
+cybersecurity panel. There were
+6 of us, all women, so it's,
+it's, it's a norm now, so that's
+a good thing. Um, but, um, so
+when we talk about energy, New
+Mexico energy is huge, water's
+huge.
+And I know you kind of skipped
+over how much energy is used,
+and I, and when we were at
+Sandia they talked about Q-Tip,
+the the the teachers and kids,
+but um they talked about
+Uh, now using less energy to, to
+cool things. So where is, is
+that something quantum can solve
+that problem as far as energy
+use or?
+Anyone?
+Sure, I or chair and
+representative, I can uh talk a
+little bit to that. So a couple
+of elements around energy, I
+think, as I mentioned, certainly
+ourchnologies use less energy,
+and because quantum computing
+will be able to calculate and
+compute things faster, it will
+be able to even be cheaper, we
+expect in the future then high
+performance computers and the
+huge data centers, we, we won't
+have a huge footprint there.
+From an energy power consumption
+perspective.
+I think also some applications
+of quantum computing that we're
+looking at in the energy field
+is today there's a lot of energy
+loss on the grid, and we really
+believe that there's some
+technologies and some
+applications through quantum
+computing that can actually help
+reduce that loss. Therefore,
+being able to channel the energy
+in the right direction. So I
+think there's a lot of
+opportunities that honestly, we
+probably haven't even tapped
+into yet that can really help
+the energy sector.
+Thank you. I think that's just a
+big um in New Mexico, energy is
+big and water and uh so that's,
+that's good to hear. So thank
+you so much. Thank you, Mr.
+Chairman. Thank you very much,
+Representative Saana. That's
+Representative Duncan, please.
+Thank you, Mr. Chair. Um,
+Myself and a few other
+representatives uh were at an
+event last week and.
+And uh we were talking to a
+scientist and, and
+Um, she related that, that if
+you
+And I'm gonna get this wrong. I,
+I know, I don't even know how to
+spell this word.
+But if you give
+Um, do a, a, a very technical uh
+problem with this quantum
+computing.
+And, and she said,
+If we do very, very technical
+dive into this that will use as
+much energy as you use the
+entire year.
+As an individual.
+And, and I said, you've gotta be
+kidding. She said, no, I'm not
+kidding at all.
+And, and she said as we learn
+more and more, and you may be
+right that there's some
+technology out there that we
+don't know about yet that might,
+might take less, but she said,
+as we do more and more, it's
+gonna take more and more energy.
+And she said, please.
+You for quit trying to kill oil
+and gas.
+We need the energy, she said
+solar and wind will not take
+care of what we need.
+Do you disagree with that?
+Mr. Chair and Mr.
+Representative, I do believe
+that the demand for energy is
+only going to grow with AI
+technologies and the amount of
+data that needs to be processed
+across the globe. It's gonna be
+extreme. So I think all avenues
+of energy.
+Preparation and, and is going to
+be necessary. I do believe that
+there are different
+Levels of energy that will be
+used across the quantum
+modalities, so I think it is, it
+is important to get informed and
+understand what those are and um
+as I said in the ion trapping
+technology. We don't need the
+amount of energy as they do in
+the superconducting energy
+specter, they don't, we don't
+need to cool our systems as much
+as they do, and that's really
+the main source of energy use in
+quantum computing.
+Mr. Chair Representative, one
+thing I'll just add to that, um,
+uh, I just had a very timely
+conversation with some folks at
+Sandia who uh were working
+through helping me identify.
+All of the different sort of
+future technology applications
+of New Mexico, or sorry,
+technology applications of
+quantum, specific to different
+regions, um, and industries in
+New Mexico. And what
+specifically we were talking
+about energy and kind of all of
+the above, right? Um, all of
+these new kinds of technology
+that are, we may not even have a
+grasp on yet that will be
+unlocked by quantum science and
+quantum technologies to enable
+new elements of techno of
+energy. So different kinds, it's
+a lot, there were a lot of words
+that I don't know how to say, to
+be perfectly honest, but
+different kinds, um, of
+geothermal, different kinds like
+all elements in all regions of
+the state across all modalities
+of energy that New Mexico has
+strengths in. There are future
+applications for quantum
+technologies to further unlock
+those. So that's kind of the
+lens that I look at it with.
+Oh, I'll quickly add and then I
+think Casey also, um, aside from
+quantum, I will say that our
+office is always working on
+energy efficiency in general.
+We've done a lot of research
+into data centers, which is also
+a big user of energy in New
+Mexico, uh, trying to find the
+technologies that will reduce
+the use in general and work to
+solve those energy suck
+problems. Uh, so that's
+something that's very much on
+our radar in general outside of
+quantum.
+Um, but obviously quantum is a
+piece of that as well.
+Suches if I can add one more
+thing, you unlocked a very fun
+one here, clearly, um, that you
+may be familiar with, um,
+Lightning Doc, which is the
+geothermal, uh, energy plant
+outside of Animas, uh, owned by
+Zanscar now, um, so that's a new
+ownership, and they in sort of
+their revitalization of that
+plant. They use um AI to
+identify the best place to
+drill. And so I think Denise has
+talked about the future
+collision of quantum and AI, um,
+but that's an example of some of
+that kind of future element.
+be happening right here in New
+Mexico, they use AI geothermal
+could be, you know, a little
+tough when you have to know
+where's the best hot rock to
+drill. And so they have
+identified a way to use AI to
+identify where that best place
+to drill is and because of that,
+their plant in Animas in New
+Mexico is now the most
+productive geothermal plant. Um,
+so it's pulling down all these
+different elements of technology
+and innovation and finding the
+best way for them to work
+together to produce more energy,
+absolutely, to your point.
+I want to add the sort of the
+space aspect of energy, um,
+what's really, really cool. We
+um have put together some
+proposals to grow some of the,
+the space energy companies
+where, um, basically the New
+Mexico has this expertise in
+solar between our DOE labs, also
+in nuclear, um, you know, with
+Los Alamos, there's a number of
+companies that come out of that.
+I don't know if you know Rocket
+Lab.
+For Salero provides the market
+share of space energy with their
+solar panels to all the space
+systems in orbit today.
+Uh, so 50% of space power comes
+from Albuquerque, and then, uh,
+recently, the Air Force Research
+Lab has demonstrated space solar
+power beaming, and one of the
+tech demonstrations have been
+done with the UNM in partnership
+with UNM. Cosmac and right over
+there, hopefully this afternoon
+you're going to see a demo on
+that. So, uh, basically space,
+the energy, whether it's solar,
+nuclear, or
+the actual uh distribution of
+that power in space and also to
+Earth is really exciting and
+again an expertise area of our
+state of New Mexico.
+Thank you, Mr. Chair. Um, I'm,
+I'm glad to hear all of that.
+Um, I'm a, I'm, I'm a guy that's
+gonna use everything we possibly
+have, uh, and whatever
+technology that we can find in
+the future, that's great too,
+but uh I'm still saying as that
+lady, that scientist said, um.
+Don't kill what we have right
+now because we don't know what
+we don't have and what we don't
+know yet. So thank you, Mr.
+Chair.
+Thank you very much,
+Representative Duncan.
+Uh, OK, I don't see any other
+questions uh from the committee.
+I'll have a, a couple of quick
+questions. Uh, one particularly
+sort of, well, I guess it really
+applies for, for all four of the
+panelists. Um, and director Lee
+suggested it, as we start to
+think 3 and say 5 years out.
+Um
+I think there's, you know, you
+see a ton of broad support and,
+and really pride from the
+legislature, uh, and we're
+getting to see what you all are
+doing. What are some markers of
+success as we sort of go further
+into that 3 and 5 year period.
+Uh, I think, you know, we need
+to think about it, particularly
+as we, you know, we're
+approaching the change of uh
+gubernatorial administration.
+Um, and again, this is something
+where we're getting to see
+firsthand and hearing profound
+pieces, particularly as it
+relates to uh sort of strategic
+competitions with China and
+others that are, you know, that
+are elemental for, for our
+nation and very important to the
+world. Talk me through and talk
+us through what success looks
+like 3 and 5 years from now. And
+as part of that, if you wanna
+add anything about other
+Suggestions for us to be, you
+know, sort of
+Yeah
+Making that success either
+larger or half smoother or more
+quickly, uh, clearly we're,
+we're all ears for that as well.
+Whoever wants to start.
+Mr. Chair, um,
+I think, uh, from my
+perspective, success in the next
+few years, looks like a number
+of things. One, to what I spoke
+to earlier, continued density,
+right? So we're a small state,
+uh, but we have incredible
+strengths and assets in these
+fields, um, but we're still
+growing in that, in that
+ecosystem. And so additional
+density in terms of more venture
+deal activity in our companies,
+um, you hire caliber companies
+growing out of New Mexic.
+Mexico, um, we're starting to
+see some really great success
+with that. So off the top of my
+head, there, there's a really,
+um, there was a recent great
+example, uh, ubiquity is a
+company based out of Los Alamos,
+um, that licensed Los Amos
+National Labchnology, um, they
+had a ton of recent big
+milestones all wrapped up in in
+uh in a small time period, um,
+they acquired a smaller company,
+which is a big milestone for a
+startup, uh, and they are uh
+closing a $20 million
+fundraising round.
+Um, they also have signed a uh
+exclusive deal with uh solar
+manufacturer to apply their top
+technology to the company called
+First Solar to their
+photovoltaic cells. Um, they
+were also one of, um, EDD's
+inaugural Advanced Energy Award
+recipients. Um, and so that kind
+of activity from, um, you know,
+what is still small, New Mexico
+start up with New Mexico
+technology is huge and so
+continuing to see um additional
+density of deals and business
+growth.
+Um
+As well as uh continued success,
+uh, ideally with our large scale
+coalition funding proposals that
+we're looking to pull down. Um,
+so we were awarded a tech hub,
+uh, in conjunction with Colorado
+and Wyoming last year, um, and
+we're semifinalists for our NSF
+Regional Innovation engine. Um,
+there's also uh there actually I
+I apologize, there are two
+semifinalists from New Mexico
+for the NSF Regional ovation
+engine, um, one in quantum and
+one in water and energy.
+Um, and so that continued
+success, you know, we're, we're
+batting, we're hitting above our
+weight, uh, in that sense and so
+continued success in that field.
+Thank you, uh, Mr. Chair.
+I agree with Nora on density,
+and I think, um, you know, for
+new space, we look at the small
+and medium.
+Space, uh, company as our sort
+of our customer, yes, we get
+funding from federal sources and
+state and um even private
+sources to help us do what we're
+doing, but we're trying to um
+grow these companies, so really
+an outcome is, is more
+companies, more jobs, more
+opportunities for our, our, uh,
+workforce. And so I see it's
+it's and a success in.
+that the legislature supports
+these offices or these
+organizations that are doing are
+putting in place.
+These sort uh resources and the
+infrastructure and the help so
+that that those that uh industry
+grows and the jobs grow, and
+then the workforce has
+opportunities.
+Uh, for Roadrunners, I mean,
+echoing what we've just heard,
+you know, that snowballing
+success is big. Finding that
+sort of first big company that
+hits the national stage that
+will draw attention to our state
+that'll make people want to come
+here to copy that, um, I think
+we feel very supported by the um
+EDD by the SIC for sort of
+paving the way to let us do the
+work, uh, to let us build those
+companies, use all of the
+resources that exist here to
+do that work and we're just
+gonna sort of keep plugging
+along until we can find that big
+winner, um, and everything
+points to having that
+opportunity in state, whether it
+be in space, energy, compute,
+you know, it might be quantum
+with all of the
+Engine, the, you know, all of
+these little programs that are
+hopefully coalescing right now,
+but having a supportive
+legislator having a supportive,
+um, ecosystem really helps us to
+do the nitty gritty work every
+day.
+Thank you, Mr. Chair. I would
+say, you know, 3 things from a
+continuum perspective, we
+certainly would see success in
+achieving our road map. So we
+have a technological roadmap and
+that's really requires us to
+And innovate in this integrated
+photonics areas, that's really a
+key to our achievement of that
+roadmap and so we're really
+looking forward to partnering
+continually with the labs to
+make that happen.
+I would say that um by the end
+of the decade, our plan is that
+we will have launched computers
+that are actually, we call it
+quantum advantage in the in the
+space, which basically means
+that they can do more than a
+classical computer can do today.
+So that is on our roadmap. We've
+been very successful in
+achieving our roadmap to date
+and that would, that would be
+successful for us if we can
+continue to partner with the
+assets that you have here to
+make that happen.
+I would say a second area is we
+really want to build a customer
+base for our products, and so
+that would be an area of success
+for us is to see that we
+actually have customers here in
+New Mexico that are wanting to
+purchase our products, our
+computers, our applications in
+the space.
+And then I would say, thirdly,
+that we just want to be able to
+see development of this supply
+chain. So really being able to
+make that a bit more robust so
+that we've got the reliability
+and the structures in place to,
+to support all of the quantum
+industry.
+Great. Thank you and uh
+This is thank you all very much,
+uh, committee, thanks for the
+great questions. We're very
+excited also for uh the tour and
+sort of the hands-on portion
+that we'll do uh later. Just
+want, so thank you very much.
+Um, we're very excited to
+continue this. Uh, we're gonna
+ask our uh final panel to come
+up.
+Um, that'll be, uh, uh, Rob,
+Secretary Black, and Secretary
+Naier, um, as they're coming up,
+maybe we'll, so if members can
+turn to tab E.
+Um
+And this is uh Legistat, uh,
+hearing. This may be our sort of
+first one is sort of as more of
+a full committee this year,
+maybe, maybe not, um.
+But
+Um
+Really appreciate um our
+analysts, uh, wanna say a big
+thank you to the secretaries and
+just sort of note that both
+Secretary Nair, Secretary Black,
+your good work was referenced in
+the previous panel and
+throughout, so we're, this is a
+very collaborative process. It's
+also meant to be quick and so
+we're gonna, in, in the sense of
+uh sort of wrap it or, or pretty
+condensed presentations, uh,
+good work from our analysts,
+which we always trust on. And
+then for us as members to um you
+know, be quick with our
+questions. Feel free to go
+deeper. If you get an answer,
+you want to sort of dig deeper
+and we may, I may askrector Seli
+to do just sort of like the two
+minute version of Legistat. So
+this is an opportunity for us as
+legislators to go deeper with
+agencies.
+In concert and guided by our
+excellent analysts, um, uh, and,
+and again, it really rewards
+sort of quick to the point
+questions, dialogue back and
+forth between the secretaries
+and us as legislators, um, and,
+and obviously the thing to try
+and avoid for all of us, and I'm
+giving a good example of it here
+is sort of going on a little
+long. Um, yeah, so, uh
+with that.
+Yes, I'll turn it over to
+Director Sali.
+Thank you, Mr. Chairman, uh,
+committee members, so we have a,
+a new analyst that will be uh
+taking over, you know, as Rachel
+moved into the deputy spot. Uh,
+so our new analyst will be
+working with CYFD as well as
+Workforce Solutions, and she is
+Doctor Carly Malone, who uh
+worked for LFC, uh, a couple of
+years ago and left us to go get
+a PhD and a law degree from
+Vanderbilt, and then I work in
+DC and a couple of different
+areas, so we're very happy that
+she decided to come back to New
+Mexico and to work for
+So, thank you.
+All right. Uh, so, Mr. Chair,
+members of the committee, uh, my
+name is Rachel Garcia, and I am
+passing the torch, uh, on being
+the LFC analyst for Workforce
+Solutions, uh, and with me at
+the table, uh, is Julia
+Rodriguez, who uh is the analyst
+for the Economic development
+department, as well as secretary
+Serena Neer, who is the
+workforce Solutions secretary,
+uh, and then, uh, Secretary Rob
+Black, who is the economic
+development department
+secretary. We're gonna be
+working um Juli
+from a brief staff brief behind
+tab E titled Legistat, that
+first page is just the context
+for how we structure the
+hearing.
+Um, and, uh, what I'll do is
+very briefly, as the chair
+mentioned, the way Legisat works
+is we focus on a couple of key
+performance challenges with you
+all and keep coming back to
+those and then ask um
+departments to give action
+updates related to those. The
+two key performance challenges
+we've been focused on, um,
+broadly our workforce
+development specifically labor
+force participation and then
+economic development. This
+hearing will be a little bit
+more nar
+focused on STEM and trade
+related industries within those
+contexts. Um, and as a reminder,
+kind of led just that revolves
+around kind of those key
+performance challenges, we'll
+give you very, very quick
+updates via the brief but aren't
+gonna go into much detail. We'll
+pass it over to the secretaries
+for brief presentations, and
+then, um, you all will have the
+opportunity to engage in
+questions. Um, again, I'm
+working from a brief that looks
+like
+This
+And at the very end, you'll find
+recommended questions for the
+committee if you'd like to kind
+of have some, some starters
+there. Um, but I'll I'll pass it
+over to Julia. She's gonna kind
+of give you an overview of the
+brief on the economic
+development side, uh, and then
+we'll turn it over to the
+secretaries.
+Uh, Mr. Chair, members of the
+committee, um, thank you. My
+name is Julisa and I'm the LFC
+analyst for the Economic
+Development department. I'm
+gonna quickly walk you through
+some, some of the points in the
+legistat um so this legis that
+we're talking about economic
+development and workforce
+training specifically in the
+science and technology target
+sectors, um, this legisstat is
+building off of two previous
+legisats we've done with you
+all, specifically on the
+economic development side, um,
+last year we did one on
+The agency's efforts to build
+the science and tech target
+sectors that they've outlined in
+their um
+Statewide, uh, strategic plan.
+Um, so you've also heard about
+the challenges of integrating
+initiatives across these two
+agencies, as well as with higher
+ed and our public education
+system.
+Um, so we know that the entities
+target sectors as that are
+outlined in their strategic
+plan, um, require advanced
+skills that um we are cur that
+some some lack with some with
+some that are lacking in New
+Mexico, um, which means that
+we're having a hard time meeting
+industry needs, um, these skill
+gaps contribute to
+underemployment, um, hiring
+challenges, and also bus um
+hinder business attraction.
+As far as employment in these
+sectors on page two of your
+legistat, you'll see two graphs
+that have to do with employment
+and employment growth in these
+sectors, um, as far as
+employment, these sectors make
+up roughly 6.6% of New Mexico's
+total employment, um, as far as
+growth with the most recent data
+we have, um, between 2023 and
+2024, these sectors have grown
+by roughly 11.6%. That's around
+6000 jobs.
+s
+Um, as far as investments, you
+all have made significant
+investments investments into
+building an ecosystem and
+providing resources and policy
+to support growth in these
+sectors. Um, if you go to page
+one of your allegisat, you'll
+see a um
+A table with one time
+appropriations related to
+science and tech, um, mostly to
+the economic development
+department. Um, aside from these
+one time appropriations, you all
+have also increased EDD's
+reoccurring budget, um, in the
+past two sessions in the past 2
+years by 6.4 million,
+specifically for the Office of
+Strategy, Science and
+Technology, which is now the
+technology and innovation
+Office, um, that funding, that
+reoccurring funding, a big
+portion of it, 5 million, was
+just for the agencies.
+the division's general grant
+programs, um, and initiatives.
+So, um, because of all this
+funding, both reoccurring and
+one time, the state has a
+variety of tools available to
+support growth in these sectors.
+Um, we're talking about from the
+staff capacity side on the state
+side, um, to funding for
+physical space, um, incubator
+support, um, grants and um
+And all that. So, you also just
+heard from Nora Sackett from EDD
+about all the programs, grants,
+and initiatives, and a lot of
+that is for entrepreneurs and
+young early companies, um,
+mostly centered on science and
+technology. Um, so some of the
+key questions that we will want
+to ask the agency today is how
+they're measuring growth in
+these sectors. Um, how we know
+or how we will know if we're
+performing above the national
+growth, um, just based on all
+these eventsments that you all
+have made, and also how we
+How do we know if we're getting
+a return on investment from the
+appropriations you will have
+made to EDD, um, I'll now pass
+it over back to Rachel to talk
+about um the workforce.
+Um, and Mr. Chair, I'm just
+gonna point you to a few key
+appropriations related to
+workforce development as
+background context on page 7,
+there's a lot more information.
+The key thing to know is much of
+the state's investment in
+workforce development exists in
+the K-12 system or in the higher
+education systems. Last year,
+um, we estimated when it comes
+to workforce training
+specifically, the state was
+investing about 135 million, but
+much of that is actually in
+higher ed.
+Um, within the workforce
+solutions department, the agency
+largely relies on federal
+funding, much of which comes
+from Woa, but you all have made
+some specific targeted
+investments um through state
+revenues for workforce
+development and I, that is on
+chart, uh, in the chart on page
+7, some key appropriations. So,
+um, largely non-recurring. Uh,
+last year, for example, 17
+million through the community
+benefit fund, um, there have
+been about in total
+about 1.2 million available to
+workforce solutions for
+pre-apprenticeships, um,
+A variety of other
+appropriations and then about
+9.6 million for apprenticeships
+available to the agency this
+year. Um, so that's kind of the
+backdrop in terms of funding and
+what you all have made available
+to the agencies. We'll pass it
+now over to the two secretaries
+to give brief presentations
+about kind of how they're
+working related to that
+performance challenges, um, and
+how that's going.
+Uh, thank you, Mr. Chair. I, I
+wanna start by uh recognizing uh
+the loss that we had in our
+division of our labor relations
+Deputy Director Katie Sartorius.
+She died unexpectedly last
+Friday.
+Um, she was a young leader with
+a real passion for her work,
+especially at the human rights
+Board, um, if you
+Believe in these things, please
+keep her family, including her
+one year old son, Bodie and her
+husband Dylan and her parents,
+um, in your memory. And if I'm a
+little off my game, it's cause
+we've had a, a rough week. Uh,
+but onto happier things, thank
+you to our analyst, um, Rachel
+Mercer Garcia. We're gonna miss
+you, doc, but um we're excited
+to work with uh Doctor Malone
+and uh as always, thanks to my
+DFA analyst, Guy Stone as well,
+and my deputy secretary, Marcos
+Martinez is here today too.
+So moving on to slide 2,
+we, one of the first
+conversations I had with um
+Rachel about this meeting was,
+well, what do you guys consider
+to be STEM, when we're talking
+about stem apprenticeships and
+pre-apprenticeships, and, um,
+we, you know, we have done some
+work in the labor market review
+a few years or maybe last year,
+and what you see there is a, a
+great chart that our team put
+together called the Periodic
+Table of STEM occupations in New
+Mexico, so I'm not going to read
+them all, but when we talk about
+how are we going to
+track our progress in these
+areas. For our data, it's really
+important to identify uh
+occupational codes and uh
+industry clusters, and so that's
+what this chart is sort of
+showing you. Um,
+You notice that healthcare is
+not considered STEM, which I
+think is weird cause it's
+science, uh, but so in some of
+my data later, I'll talk about
+healthcare, but just so you
+know, higher ed sometimes counts
+medical or some of the that
+stuff as stem, they kind of
+divide the, the health care
+world, um, but in the workforce
+world, we generally don't
+include healthcare as part of
+STEM.
+Moving on to slide 3, you know,
+Julisa talked a little bit about
+the mismatch between the
+educational profile of New
+Mexicans over 25 and what the
+STEM fields demand and so this
+chart just puts that all
+together for you and so the blue
+lines are the percentage of jobs
+right now in New Mexico that
+have that educational
+requirement, and then, uh,
+typically for entry into the
+field, and then the, the orange
+line shows what New Mexico's
+population over 25's educational
+attainment is. So
+you'll see that, that we have a
+lot more folks who have uh some
+college and no degree or less,
+whereas that only accounts for
+about 7% of STEM jobs in
+contrast to 70% of STEM jobs in
+New Mexico requiring that
+bachelor's degree, but only 17%
+of our population having that.
+And of course, we have yet to
+see the impact of the
+opportunity scholarship and all
+the other great work and
+investment the legislature has
+made in those numbers.
+Moving to the next slide, which
+is slide 4. we have this year we
+received $600,000 for STEM
+pre-apprenticeships, but I
+wanted to give you the data on
+all the pre-apprenticeships that
+we've done so far, uh, that are
+already in the STEM world. So we
+are sitting at over 1250
+pre-apprenticeships since we
+started this program in 2023.
+And we've identified, uh, these
+ones about 242 were in STEM
+professions, and I divided them
+here by science,
+technology, energy, and then the
+healthcare as well. So they're
+about 19.5% of our total uh
+pre-apprenticeship, uh, cohorts
+to date, and you'll notice also
+that um we have are building
+with using some of our federal
+grant money, we, uh, gave out
+grants to 6 different um
+organizations to build
+pre-apprenticeship programs. Uh,
+so the new space nexus, of
+course, as Casey mentioned, is
+one of those recipients. Stem
+boomerang is also another
+recipient. So we should see a
+a lot more um
+Oops.
+Synergy there with those
+investments and the investments
+that you, you made in us last
+term.
+And then moving on to slide 5,
+we, we were also asked to
+include the skilled trades, so,
+uh, that is talking about,
+again, our pre-apprenticeships
+to date in the skilled trades
+and, uh, generally in our world,
+we consider there to be
+industrial skilled trades, which
+are like machinists and and
+people in the manufacturing
+industry, transportation,
+skilled trades, which is like
+automotive, those sorts of
+places, and then construction
+skilled trades, and so you'll
+see that we've had a ton, about
+331 of our pre-apprenticeships,
+a little over 25% to date.
+have been in the skilled trades
+with MC3 being by far the
+biggest contributor to that, and
+for those who haven't heard our
+presentation before, that's, uh,
+a partnership that we have with
+uh the local 412 plumbers and
+pipefitters as well as a number
+of different employers where,
+uh, students do 120 hours of
+classroom instruction followed
+by 280 hours of work-based
+learning, and then they
+transition hopefully directly
+into an apprenticeship, um, been
+highly successful, trained all
+over the state. It's been
+been really great.
+Moving on to slide 6, regular
+apprenticeship, so, uh, over
+2500 active apprentices at this
+moment, uh, predominantly in the
+trades, we had 328 completions
+in calendar year 2024, and
+that's about right, right? Cause
+a lot of, a lot of
+apprenticeships are gonna be 4
+or 5 years. Uh, and then
+overwhelmingly these
+apprenticeships are in uh the
+trades, but we do have a few in
+STEM, CNM's ITAP program is a
+really great one, information
+technology, uh, we have a
+geotech.
+Apprenticeship as well as a fuel
+and water analyst, which is sort
+of focused on, on skills needed
+in the oil patch. Uh, so those
+are our numbers over there and
+of course, you're familiar with
+the great investments you've
+made in the apprenticeship
+system.
+And then, uh, moving on to slide
+7, other stem and trades
+initiatives, so, uh, of course,
+you have heard many times about
+the Bro, be proud track, which I
+did with my buddy Secretary
+Black here and now we get to do
+with Leslie from the chamber,
+uh, continues to be highly
+successful in exposing people to
+the trades. There's also a
+healthcare module on there.
+There's a welding module, which
+is considered an in industrial
+trade.
+And we even talk about 3D
+printing. There's a 3D printing
+station on there, so it's got a,
+a pretty good um balance,
+although we would love to have
+more. Um, we've also taken uh
+Bro be Proud into the
+corrections world, which is just
+been a personally incredibly
+satisfying uh project for us. We
+went to all the minimum security
+correctional facilities, and
+next week actually federal
+probation and parole is gonna
+bring their folks through this,
+so we really want this to be a
+way to expose people, even if
+they're not young, if they may
+be still at the start of their
+career journey, we want them to
+come.
+the truck. And then that second
+picture, um is uh a uh
+commercial driver's license
+program that is also inside the
+wall. So, um, that truck is
+being driven by an inmate at
+Springer. We had a class of all
+11 women from Springer, um,
+earned their CDLs, and they
+actually got to do on the road
+driving. Um, so that was a
+pretty special experience for us
+too, but also just critical to
+not just the skilled trades, but
+to pretty much everything and
+every one of your districts. You
+need more.
+DL workers. So, um, we're trying
+to make them. And then uh we
+have the infrastructure career
+pipeline program. So this one is
+a blend of federal dollars that
+came to the Department of
+Transportation, and then, um, we
+use our program of
+pre-apprenticeship and our, our
+employees and then uh CNN has
+put in some of the grow money
+that you've invested to uh for
+the non non-credit programs and
+industry recognized credentials
+that 20 million per year. Some
+of that is going in there and
+then um those students are
+automa
+ma t ically after their
+pre-apprenticeship,
+automatically placed into jobs
+with either a Department of
+Transportation or because of
+that grow money we've been able
+to work with some other
+employers, both public and
+private.
+And uh then of course we have
+our clean energy sector
+strategy, which is part of our
+larger energy sector strategy.
+We have some private funding for
+that. Uh, we have the pathways
+to the Stars program that uh
+Casey talked a little bit about
+and the community benefit fund
+is, is, uh, has a number of
+components that are gonna um
+increase the STEM workforce.
+I'm, I'm going fast cause that's
+what we're supposed to do here,
+but I'm happy to go into more
+detail on that. And then, uh,
+the last thing I wanted to
+highlight was our uh foreign
+credential cross.
+Program. So this is really a
+benefit to both employers and
+foreign trained individuals. Um,
+there are services that will
+crosswalk your foreign degree
+with the skill set that an
+employer in the US might need,
+and, uh, so, you know, uh, folks
+have to have work authorization
+to to really um be able to take
+advantage of that cause they
+need to, to have the job on the
+other side, but we think this is
+gonna be a, a really great
+initiative and hopefully boost
+some of the workforce
+availability. We hear all the
+time about people who are
+trained in engineering, and
+they're working, they're driving
+an Uber because they can't get
+those credentials crosswalked,
+so hopefully this will address
+that problem. And with that, I
+will pass it on to Secretary
+Black. Thank you.
+Thank you, Secretary, uh.
+Mr. Chairman, Madam Vice Chair,
+uh, it is always hard to follow
+Secretary Nyer.
+Uh, she is doing amazing work
+and it's a pleasure to be able
+to continue to work with our,
+uh, from my time as the head of
+the Chamber of Commerce to now,
+uh it is uh been a really,
+really robust partnership, and
+it's part of the reason I think
+we are seeing success on the
+economic development side is
+because of the work that she's
+done with her team.
+Um, I, I'm gonna keep this very
+brief so we have lots of times
+for questions. I really wanted
+to go through and give you a
+quick update of what we've been
+doing for the last 22 days
+since, uh, the new laws have
+been in place with the new
+programs that uh you as a
+legislature saw fit to give us
+the responsibility to implement.
+So I'll start with, um, the
+first page site read in SB 169
+and the, and the decks that you
+have, um, the
+What you'll see there are the
+drop-down pens are sites that we
+have already evaluated. So we
+have done site character
+characterization around the
+state as part of a pilot that uh
+chairs Small and others helped
+support last year. Um, we have
+not done full analysis of that.
+Once we have our site readiness
+board in place, we'll review
+those, those sites to determine
+their, whether or not they are
+strategic economic development
+sites.
+But I wanted to let you know
+that we have already analyzed,
+uh, those, those 28 sites. We
+have a list that's longer than
+that, that we're now, uh, we
+have, um, uh, a contractor in
+place to continue this site
+characterization work, and we
+are starting that as we speak,
+we are, my team is currently
+interviewing staff to support
+the site readiness andreport
+programs and those advisory
+councils, um, so that is
+happening literally today while
+I'm here. So that is uh SP 169
+is in in play. Uh, FD 170, uh,
+this is the utility
+pre-deployment bill. We have
+already received an application,
+uh, from an investor owned
+utility for our review, uh, for
+SB 170. We, and we've spoken to
+the other two IOU independent uh
+or the investor owned utilities
+and we expect applications from
+both of them uh within the
+month. So there is an interest
+to pre-deploy that.
+Capital, uh, working to get
+sites ready so that we can be
+quicker to develop that.
+Um, next, our trade ports, Bill,
+um, this is one where there is
+$50 million of infrastructure
+dollars that the legislature put
+into this fund, um, it is again
+one that we are working to set
+up currently working to set up
+the advisory council for and
+working to hire, and we are
+interviewing for the staff to
+support this effort. Um, and
+finally, uh, you heard from uh
+Nora Sackett, who's running our
+TO office, uh, the, with the uh
+92
+million dollars of funding that
+came out from this last
+legislative session, um, there
+is a lot happening in this space
+already. Nora has done
+incredible work. We should be
+able to announce the 1st $25
+million out the door for the
+quantum innovation hub, the
+first week of August. So again,
+we
+Didn't have a law in place until
+22 days ago. So we're moving as
+fast as we can to responsibly
+deploy the resources that you've
+given us to do that, to make
+those investments in New Mexico.
+Um,
+She is also have a full slate of
+of new staff to support the
+deployment, the effective
+deployment of these funds that
+are those jobs are posted, uh,
+and interviewing for. So again,
+we're, and we also have council,
+uh, contracted to help us on
+rule making for all these
+various programs already in
+place, so that we can be ready
+to run. Uh, the other part about
+on the, on the, the technology
+and innovation office, there is
+a $40 million matching.
+or support program that will
+work with university labs,
+private sector to build um in
+different types of grants to
+build, uh, coalitions often
+these sort of things happen with
+the National Science Foundation.
+We're not sure how that federal,
+those federal funds are gonna
+flow. Um, but as part of that,
+there is an advisory board that
+we are currently standing up.
+That board by statute will start
+meeting at the end of September
+and we'll be ready to deploy
+that at that time. So with that,
+I will pause.
+And, and we can stand for
+questions. Great. Uh thank you
+very much, Secretary Black.
+Thank you, Secretary Naer. uh,
+Secretary Ny, uh, thank you for
+sharing about Katie. We'll ask
+for just a quick moment of
+silence, uh, in her honor, and
+then we'll go to questions.
+Thank you very much.
+OK, um,
+So thank you, thank you to the
+analysts. We're gonna go
+straight to questions, uh, and I
+will, we can sort of jump around
+here a little bit. Um, I'm gonna
+sort of go first and, and really
+go off of the our LFC, um,
+And, and I'll start here with
+Secretary Nier, um,
+The moving folks and you've
+talked about this in the past,
+sort of from the stands down to
+the field and then onto the
+field stands to the sideline to
+the field within the STEM space,
+are there anything that you've
+seen that's working or any sort
+of, yeah, talk us through
+examples of where we may be
+seeing that so that we can look
+at, look forward to expanding.
+Uh, thank you, Mr. Chair,
+members of the committee, a
+couple of things, I think our
+reentry programs are, are a
+great one of taking people maybe
+from the very top of the stands
+and moving them in at least onto
+the bench, hopefully directly
+onto the field. Uh, I also think
+that our partnerships with adult
+education, so the, uh,
+individualized education and
+training, I think it's called,
+but I always get it wrong.
+They're IET programs, so that's
+where you are learning, and
+you're getting your either your
+high school equivalency or your
+uh English
+language, um, skills improved,
+and at the same time, you're
+working towards an industry
+recognized credential, and then
+that, that um curriculum is
+supposed to be paired together.
+So like if you're learning
+English and you're getting your
+CNA, you are learning the
+English you're gonna need as a
+CNA, um, that program is also
+really powerful from again,
+taking people from all the way
+to, to maybe not even having
+those basic literary literacy
+skills, and so really not being
+a player in the job market all
+the way to having a full
+credential.
+And the legislature, uh, it's
+not in my department, but I
+always feel like I have to
+recognize the great work that
+Doctor Gallup is doing over
+there at HED with the IT and
+with the considerable investment
+from, um, the legislature. The
+other thing is, uh, it's to us
+it's sort of a hand to hand, uh,
+game, like we have to be in
+community finding folks and
+making sure that they understand
+that we're there when we need
+them, uh, when they need us,
+and, uh, so our field offices, I
+think, are the other part of the
+equation for finding people in
+and actually being able to get
+them from that really hard to
+reach place into sometimes um
+some training intensive jobs
+like STEM.
+Thank you for that and just one
+quick follow up, um, what do we
+know about sort of the folks who
+are not on the field.
+That that that over 25 uh age
+group that's not in the
+workforce. Is there anything um
+new that you've either learned.
+Can you talk us through who that
+population is. Obviously, some
+portion of that is incarcerated.
+Um, our folks who are currently
+incarcerated, but yeah, help us
+visualize who who that workforce
+potential workforce, yes.
+Uh, Mr. Chair, members of the
+committee, so, um, thank you for
+the investment of $750,000 in
+this fiscal year to do a study
+to actually find out a lot more
+about that population. I believe
+that that RFP is either closed
+or getting close to being closed
+for, for to start that survey.
+So we're excited about that. But
+what we know is who is
+underrepresented in the labor
+market relative to other states
+and it's men, uh, sorry, but
+men especially uh 25 to 45, that
+kind of
+they are, um, underrepresented
+in the labor market relative to
+other states. Um, we actually
+have a higher proportion of
+women, um, with one child under
+the age of 6 in the labor market
+than we do, uh, than other
+states do, and that's probably
+thanks to the investments in
+early childhood education. Uh,
+we don't know much about the
+educational profile of those
+individuals though. I mean, we
+can make guesses, but hopefully
+we'll have a better sense of
+that after we do the survey work
+and then, um, we, we also don't
+have a great sense of the
+geographic.
+distribution. Again, survey, uh,
+and then finally when they, when
+the Bureau of Labor Statistics
+asked nationally, uh, why people
+aren't working. They end up with
+about, uh, 10 to 15% saying that
+they, there's no job that
+they're qualified for 10 to 15%
+saying that they are um pursuing
+education right now, another 10
+to 15% saying it's family
+obligations, and then everyone
+else says other. So again,
+that's why we have to do this
+study, but that's, that's as
+much as we know.
+um, in the study, we should have
+preliminary results from that
+when.
+Or results Mr. Chair, members of
+the committee, we're trying to
+push it to go fast so that by
+the time we're in front of you
+with the session, we can at
+least have some preliminary
+results. Awesome. Thank you very
+much. Uh, OK, we're gonna keep
+going. We're gonna go to Brooks
+Saint Vincent and then Senator
+Trujillo.
+Thank you, Mr. Chair and thank
+you Secretary Mayer. You
+mentioned a few things and I
+just wanted to follow up. So you
+talked about CDL drivers.
+And we have had so much disaster
+and stuff going on in Lincoln
+County.
+That we heard for CDL drivers.
+And you mentioned that there's
+women that are wanting to drive
+trucks and I would love to put
+the first women fleet together
+in Lincoln County where it's all
+ladies and just throw them out
+there and, and see what they can
+get done.
+Um, the other thing is
+operators.
+We don't have enough operators
+and um
+I don't know how many people
+you're turning out that I see
+your simulators and stuff here
+that you're working on, and I
+don't know how many people you
+have ready.
+To hit the ground running as far
+as that goes, but there's a lot
+of places like Lincoln County,
+Water County, that, you know,
+could install probably a lot of
+CDO and, and heavy equipment
+operators.
+And um
+The last thing that I wanted to
+ask you is, I didn't hear
+anything about timber trade, any
+kind of a timber trade going on
+and we passed quite a bit of
+legislation this last year.
+Because we have to start
+thinning or we're gonna keep
+flooding. That's, that's really
+what's going on. So do you have
+any um ideas on
+putting some timber trades
+together.
+Uh, yes, Mr. Chair
+Representative Vincent's, first
+of all, you know, we're just
+sending all of our love and, and
+our team as well to, to help out
+and re-endorse so we love that
+community. Um, absolutely, let's
+get that first woman uh cohort
+of drivers down there. We'd love
+to see that happen. Happy to
+make you work, happy to work
+with you on that. We do have a
+$2 million dis uh dislocated
+worker grant from the feds for
+that area. Um, and it's to train
+and place and, and help
+employers find
+Uh, exactly what you're talking
+about both on the CDL and anyone
+cleaning debris. So I'm happy,
+uh, especially my deputy
+secretary can give you a little
+more of the detail on that, um,
+but you're right, in terms of
+heavy equipment operators, we do
+have one program that is in
+corrections where they um
+actually leave the facility with
+the heavy equipment operator,
+um, certification, so we are,
+you know, we're trying to expand
+in that area, but I think there
+is a just a little gap of people
+understanding what that is.
+And so as we work more with K
+through 12, like, you know, none
+of none of our kids that I want
+to grow up and be a heavy
+equipment operator unless their
+parent did it, in which case
+they were probably like, hey,
+this is a great career, I want
+to do that too, right? So we
+have to bring awareness to the
+trades earlier and earlier, and
+that's what be Pro be Proud is
+about, but I think that we also
+have room to do that in the
+middle school space. Um, as far
+as, uh, the timber industry, so,
+uh, it's interesting, we were
+actually working with ENMU
+Riidoso on developing a career
+pathway, they have a wildland
+fire management program and
+then, uh, Highlands has a
+forestry program and what we're
+trying to do is to capture, we
+have a lot of AmeriCorps
+participants, especially down
+there in Riodoso who um are kind
+of doing this stuff and then
+they finish AmeriCorps and they
+just kind of wander off. So we
+were trying to find a to find a
+career pathway for them that
+would move them straight into
+that educational program and
+then into uh an apprenticeship,
+um, our federal funding for that
+was cut, but we're gonna fill it
+with um community benefit fund.
+instead. So that is one of the,
+that is probably the only um
+forestry pathway program we
+have, but again, happy to hear
+other ideas, um, cause we do
+have some good training programs
+here. We just don't have, um,
+you know, I think a very clear
+pathway.
+Mr. Chairman, uh,
+Representative, uh, I was in uh
+Las Vegas, uh, New Mexico last
+week, meeting with um a company
+called Old Wood.
+Um, they are the largest
+manufacturer of firewood in the
+Western United States. They sell
+firewood from New Mexico into
+Canada.
+Um, if you go to Home Depot,
+Lowe's, Albertson's, you're
+buying their firewood from New
+Mexico, especially the pinon.
+Um, they also make hardwood
+floors. They, what they've
+talked to me about is the cost
+to get
+Burntwood
+Or excess, you know, fuel.
+And firewood's great for that,
+right? You can, it, it doesn't
+have to be a certain width of,
+of, of wood. Um, out of the
+forest and the cost of doing
+that costs more than it is in
+southern part of the United
+States to get virgin wood.
+So we need to figure out kind of
+where some of those breakdowns
+are, and I'm going to be working
+with Secretary Kinderine to, to
+help, uh, try to align that
+because we think there's unique
+opportunities in the forestry
+area, working, and we can
+certainly, we'll be working with
+Secretary, but would love to
+work with you, uh, and Lincoln
+County area and how we can align
+that. I know that the, there is
+an effort from the Mescaleros to
+also set up a rehabilitate the,
+the logging area up there, the,
+the timber facility.
+And we, you know, we're, we
+stand ready to support that with
+Lia and other support.
+Thank you, Mr. Chair and thank
+you to both of you secretaries.
+It's really nice to hear that
+we're being innovative and
+trying to figure out what to do
+with this burnt wood because
+there is no shortage of it. It
+is everywhere. And right now
+it's still viable, you know,
+it's still the cellulose and
+stuff in it is still good. We're
+just trying to find out a way to
+utilize it and they did bring
+in, you know, a lot of our, our
+racehorses, they sleep on.
+Woo, wood shavings, premium wood
+shavings, and they're soft and
+nice and they smell nice. um,
+and we had a $2 million plant
+brought in and they were, we
+were running all of that timber.
+Through the uh horses dolls and
+it was really working and then
+our track blew out again. So now
+we're not, we're not utilizing
+that wood. So I, I thank you
+for, you know, trying to come up
+with some economic ideas and um
+if, if you get down my way, I
+would love to be able to work
+with you and show you where all
+that good wood is that we can
+get rid of. Thank you, Mr.
+Chair.
+Thank you very much for
+representing Vincent. Uh, next,
+we have Senator Trujillo, then
+Senator Tobias. Thank you.
+Thank you, Mr. Chair and thank
+you secretaries for being here.
+Um, I just wanna make sure I,
+you can't hear me. Let me pull
+this closer.
+I'm gonna, I'm gonna
+Squat on your land here.
+Um
+I just wanna make sure I'm
+understanding this graph. So the
+oranges color is what our actual
+education levels are and the
+blue is what's required to be in
+a STEM field.
+Mr. Chair
+Sorry about that. Mr. Chair,
+Senator Trujillo, um, yeah,
+it's, we took the number of STEM
+jobs in the um state and
+Divided them by uh the average
+entry level education required.
+Thank you, Mr. Chair and
+secretary. So interesting to me
+that so much of that resides in
+the bachelor's degree,
+particularly since the 1st 2
+years of getting your bachelor's
+is really just
+core curriculum, it's not really
+getting deep into STEM. It seems
+like I would love to see as you
+dig into that project that
+you're looking at. Is there any
+way for us to flip those over to
+the associates, which would
+absolutely focus on STEM and or
+are the jobs just saying you
+have to have a bachelor's degree
+without looking at can that be
+obtained through an associate's
+degree. Am I making
+sense
+Yes, Mr. Chair, Senator uh
+Trujillo, this is something that
+I talk about all over the state
+which is employers start need to
+start looking at their minimum
+qualifications and
+disaggregating them into what
+they actually need. We can do
+that using the Work Keys tool.
+We can do that using sort of uh
+credential cross walking.
+There's lots of ways to do that,
+but I, I completely agree that
+we probably need that. And when,
+you know, we, we actually first
+did this chart with just the
+number of occupations, and it
+was still that spike, so it,
+it's
+surprised me as well, but that's
+what the data says.
+Um, Mr. Chair, Secretary, thank
+you. So, I wanna say, uh, just
+point out on page 6 that you've
+got a significant amount of
+individuals in the construction
+apprenticeship program, 2500,
+that's great. I wish I'd had
+this information yesterday, um,
+because the industry we heard
+from, which it was great to hear
+from the industry. They were
+complaining about the lack of
+education in construction
+workers for home building.
+And then they morphed into
+making licensing easier, easier,
+and quite frankly, they're
+talking to the wrong person.
+It's as easy as it can possibly
+be, uh, to get a license in that
+industry. So this is really good
+information. I'm gonna pass it
+on to um Mr. Traynor.
+Uh, thank you, Mr. Chair and
+Senator Trujillo, I will note
+that most of the construction
+apprenticeships don't
+necessarily focus on the skills
+for residential construction, so
+we, we have identified that
+there's a gap there and that we
+would, we are working with um
+both the home builders and uh
+some of the union side uh
+training programs to try to fill
+that gap, but, uh, yeah, in
+general, lots of construction.
+Thank you, Mr. Chairman and
+secretary, so I'll, I'll take
+that back. I won't, I won't
+contact Randy, but I, I will say
+that.
+We do need those skilled trades
+for home building. If we're
+gonna meet the supply and demand
+that we need. That is an
+incredible skill that's
+necessary.
+I want to point out one last
+thing for you, and I know you
+already know this, and I
+probably sound like a broken
+record, but the kids count
+score.
+We get dinged significantly in
+our adult education.
+And it's, you know, when we talk
+about we're at the bottom of
+the, of the list for where it's
+a great environment for kids to
+live, and it's not all in
+relation to education. It has to
+do one of the indicator
+indicators is family, and it has
+to do with the family's adult
+education, and so,
+Doing these things, whether it's
+stem or anything else is going
+to help us in that analysis of
+New Mexico being an actual great
+place for us to raise children.
+Um, Mr. Chairman, Secretary
+Black, I would like to just
+touch base about this list here
+of one time appropriations to
+significant amount if I'm
+looking at it properly, that's
+like
+111 million.
+800,000, so almost $112 million
+of one-time funding. What
+Is that gonna last longer than a
+year, or are we looking at
+having to replenish that or
+what's, what's the long-term
+strategy for that money. Uh,
+Mr. Chairman, Senator, thank you
+for the question. Um,
+And thank you for the
+legislature for entrusting us
+with those funds. Um, there are
+some of the, one of the largest
+buckets that you see there, the
+40 million, is not, that is in a
+fund that is not does not
+required to be expended year
+one. but many of these other
+funds are.
+So the innovation hubs, uh, so
+that's the quantum innovation
+hub, uh, that was dedicated for
+20 million or up or 20 million
+or more. And then additional for
+overall 30 million for those
+innovation hubs. That needs to
+be deployed and spent.
+This calendar or this fiscal
+year.
+So there are a variety of these
+funds that our job is to
+Deliver into the community so
+that there's those dollars are
+flowing, and they're effective,
+but, um,
+We will need to be talking an
+ongoing conversation about how
+we make sure those, where we've
+put those monies that those
+investments are relevant to what
+the legislature, the state of
+New Mexico wants to accomplish
+here in with our, with our
+economy and our, our people, um,
+and where do we, how do we keep
+that continuity? Because if we
+do stop and start.
+That's the worst thing for
+business. Um, if you're not
+creating continuity
+predictability, um, whether
+that's on a regulatory tax or
+investment side.
+Uh, you lose folks. And so I do
+think it's, it will be something
+that we'll have to have an
+ongoing conversation about.
+Thank you, Mr. Chair, secretary.
+So, do you have, uh, and I know
+we've already kind of talked
+about how are these dollars
+going to result in employment,
+do you have some measurable
+Guide standards that you're
+going to be able to come to the
+legislature in January and say
+to us, here's the money that
+came back into the, uh, whether
+it's GRT into the general fund
+in one way or another. Here's
+the benefit. So please keep
+giving us this money. Uh,
+Mr. Chairman, Senator, I think
+that's a great question. And,
+you know, I, I started the
+presentation with a lot of
+activity.
+Activity is not a great
+measurement.
+We want to look at outcomes. Uh,
+but we also heard the chair talk
+about these sorts of investments
+typically take 3 to 5 years to
+really start to mature.
+So I think what we have to think
+through, and I, I asked for the
+partnership of the LFC and
+Jolisa has been a great partner,
+but others, what are the
+outcomes that we want to be
+measuring.
+That aligned to this. I mean, I
+know that from my side,
+My mission is to bring families
+out of poverty.
+Uh, in this state and to create
+a better place to do business.
+That's the mission statement.
+That to me says, I want to go
+from 46 in median income to 43rd
+or 42nd.
+Over the next few years.
+But that's a whole of government
+approach, right?
+And we want to go higher, but we
+also want to be realistic. But
+that's still a significant bump
+in medium take home income. That
+means all of the, the industries
+that Nora and the committee has
+been talking about. Every one of
+those industries has a higher
+average wage than median wage.
+So we can track along with our J
+tip, along with our incentives.
+What are the job wage levels?
+Are they above median wage? We
+need to make sure that's where
+we're keeping our, our job
+averages and we can look at and
+happy again, the set targets
+with you.
+Because I think it's really
+important, we're most effective
+when we're working together to
+define what success looks like.
+And then we're clear as to how
+to measure that and then how we
+get there. Because that gives
+you clarity how to budget. It
+gives us clarity how to execute.
+And I think I, I welcome the
+partnership of helping us to
+find not just measurements of
+activity, but measurements of
+outcome.
+Thank you, Mr. Chair and
+secretary and both secretaries,
+quite honestly, we have a lot of
+concern about the um the 3B bill
+that is going to potentially uh
+reduce uh those individuals who
+qualify for or or using uh
+Medicaid and so I, I hope as we
+like look at that balance, like,
+But we don't forget that what
+you two are doing in your
+agencies is trying to help us
+get to a point that they don't
+have to call. They don't need,
+they won't qualify anymore for
+Medicaid because they don't need
+it because they're going to be
+getting insurance from their
+employer. So thank you for the
+work that you do and I just
+wanna make sure that we get
+enough information that we can
+support you in this, but it is
+making a difference, but that we
+don't forget, Mr. Chairman, that
+this is part of the elimination
+of
+poverty in our community. Thank
+you. Great. Thank you very much,
+Senator Trujillo. Senator
+Tobiasin, and then Senator
+Padilla.
+and then.
+OK, thank you. Um, first of all,
+Secretary, thank you for um
+recognizing Doctor Amber Gallop.
+Um, she's amazing. She's done
+such great work.
+Um, I've been working with her
+on her adult literacy program,
+um, I'm appalled to think that
+we're number one in adult
+illiteracy in the nation and
+that speaks to what you just
+said, Secretary Black, we have
+got to raise families in New
+Mexico out of poverty and in
+order for us to meet all these
+goals, to have alignment in the
+vision that you're talking about
+for our state. I think it really
+starts with adult literacy and
+even when we look at our
+education, our public education
+system.
+And teaching children how to
+read, how to count, if mom and
+dad are not educated at least
+with basics, the fundamentals.
+It makes that job that much
+harder for our educators. Um, so
+thank you for recognizing her.
+Um, what would you say, and I, I
+know that, um, Chairman Small
+kind of touched on this a little
+bit with some of his questions,
+but what would you say is the
+number one challenge currently
+in engaging people in the
+workforce.
+Mr. Chair, Senator Tobiasson,
+when I, you know, once a year we
+bring in all of our field staff
+and I ask them this question,
+uh, because I feel like they,
+they know their communities
+pretty well, and they will tell
+you that it is housing
+instability, um, lack of
+transportation.
+Substance abuse and domestic
+violence.
+And I doubt anybody is even a
+little bit surprised um at that
+answer, but that is what they
+will say when they lose contact
+with that person who finally got
+up the courage and the energy to
+come into the office and ask for
+help. Those are the reasons that
+they never come back, and so,
+um, you know, it is a um perhaps
+not a, a statistically uh
+relevant uh observation, but I,
+I do believe our, our people in
+community when they say that's
+what they see.
+Thank you for that and Mr.
+Chair, I would say that that's
+another one of those
+fundamentals that I think as a
+community, as a state, as
+legislators, we're going to have
+to have at times some
+uncomfortable conversations
+around what are the fixes.
+And I think there's going to be
+a lot of layers to that, um, and
+somewhere in the middle is gonna
+be that sweet spot that we can
+all feel good about where we can
+see the outcomes that, that we
+need to have so desperately. So
+thank you for that, um,
+Secretary Black, um, you know, I
+was a huge proponent of the
+trade ports. I'm so thrilled
+that we're moving forward with
+that. Um, so I have a few
+questions. What are the main
+trades or certifications that
+you anticipate are needed for
+those trade ports in what time
+frame will we need them?
+And will we have the workforce?
+Mr. Chairman, thank you,
+Senator. Thank you for the
+question. Um, I think
+My hope is it's actually quite
+diverse.
+Um, because part of what we want
+to do, we, we're hearing from
+folks who are interested in the
+trade ports is a lot of that we,
+we talked about CDL, that's
+gonna be an important moving,
+moving goods and equipment, the,
+the forklift up the, the heavy
+equipment operators are going to
+be important.
+Um
+We're talking about the need for
+refrigeration as a key component
+for trades and, and moving
+goods. So a refrigeration HVAC.
+So I think most of your skilled
+trades are gonna be aspects that
+are going to be very important.
+Um
+This legislature has made
+unprecedented investments in uh
+CTE development, career
+technical education, um, and I
+think as long as we stay that
+course.
+Uh, and as long as we keep, and
+here's the other thing that is
+really important. It's when you
+have gaps that you lose your
+workforce. So, um,
+Especially for construction and
+those sort of jobs, hopefully
+with the trade port piece you
+get a grounding where
+The skilled trades can go home
+every night at the same place.
+If you were building
+Large
+Wind farms, you're building, um,
+A large manufacturing site off,
+you know, in, in a, in a rural
+area. It's often that those
+workers are are going back and
+forth.
+Um, if we can ground them in one
+place, it allows them to build
+that.
+Community, stay local. So I
+think that's one of the benefits
+of building out these sort of
+infrastructure investments that
+are local that allow us to keep
+a skilled trade force here in
+New Mexico where we're not
+dependent on individuals coming
+from Texas or Colorado or other
+places to fill those jobs. So I
+think it's really going to be a
+lot of the skilled trades that,
+that are, they're gonna be
+there. Um, but I am optimistic
+because of the work that
+Secretary Nneer is doing, that
+the work that the legislature
+has done and the unpre
+in ated amount of investments in
+CTE and workforce training that
+we will have a workforce to
+execute.
+Thank you, Mr. Chair, and thank
+you, Secretary for that. So
+really what you're talking about
+is, is building an ecosystem
+around these, these ports and um
+that's exciting because that,
+that's more than just those
+workers. It's a whole new
+community centered around um
+those ports. Um, and I will just
+give you a, a hint on finding
+workers, especially for the
+heavy equipment. If you remember
+some of my, uh, somewhat jokes
+in a Senate Finance during this
+session are senior attorneys
+that work in our city
+counties make less than our
+heavy equipment, um, workers, so
+they may be willing to have a
+career change and an increase in
+pay, just an idea for you. Thank
+you so much.
+Thank you very much, Senator
+Tobiasson. Uh, next, we're gonna
+go to Senator Padilla.
+Uh, thank you. Thank you, Mr.
+Chair and thank you to the
+presenters. I always love
+hearing from you guys. Uh, my
+questions are gonna be focused
+on economic development. I
+thoroughly enjoyed, uh, working
+with you, Mr. Secretary, and
+your team on the utility
+readiness and the site
+readiness, and, um, so those are
+the questions that I have today.
+So onsite readiness, I heard you
+speak of 28 sites, and you said
+there are others and you have a
+vendor that's gonna come and
+help you with that kind of stuff
+and how do you get your property
+on that or your site on that
+list to be analyzed in part of
+the overall database.
+Mr. Chairman, Senator, great
+question. So the 28 sites were
+sites that our team went out
+last year to and talk, and they
+were all public sites. So these
+were all county, city, uh,
+public lands.
+Uh, our field teams solicited
+those uh jurisdictions to apply
+if they had sites that had 50
+acres or more contiguous.
+And were zoned industrial or
+could be zoned industrial, cause
+that's really where our focus
+is, because that's the type of
+job creation we're focused with
+site readiness. And um
+So that's what was really that
+kind of grassroots outreach. Uh,
+this next round, uh,
+Private sector also has the
+opportunity. So we did it, we've
+we've communicated through our
+channels again through our
+teams, but we're also doing very
+direct outreach. I have sent
+individual letters to every
+governor of every tribe, Pueblo,
+a nation in New Mexico.
+In the last two weeks, I've been
+to the Za Pueblo and the Piccari
+Pueblo, having conversations
+with the governors there, uh,
+because I want to be proactive
+and soliciting their engagement
+with the site readiness program.
+Um, and this will be an ongoing
+evergreen project. So we have a
+contract for this, uh,
+consultant for 4 years. So as
+sites continue to open up, or
+they do, they're ready to be
+developed. They can apply and we
+can send folks out to, to review
+the.
+those sites. So it's an ongoing
+outreach, but I encourage, if
+you have uh sites in your, uh,
+communities in your districts, I
+would absolutely encourage you
+to work with us to get them to
+see if they're willing to have
+us.
+Do that site characterization
+work.
+Uh, thank you, Chairman.
+Excellent, Mr. Secretary. I'm
+glad to hear all that. I just
+hope that we're, we're sort of
+proactively ahead of the curve
+and really reaching out to
+people to to get this thing as
+robust as possible. And, and I
+guess my next question really is
+just gonna be, are you gonna uh
+have this in a, in a public
+facing website that I'm over
+there in Tuscaloosa somewhere,
+and I, I really want to open up
+this underwater basket weaving
+manufacturing, you know,
+widgette, whatever factory, um.
+Do I just go to the database,
+type in all of my
+characteristics and say, oh,
+there's 17 places. I can do that
+in New Mexico or how, how's that
+gonna work?
+Mr. Chairman, Senator, that's
+exactly how it's going to work.
+Uh, we will have an interactive,
+uh, interactive dashboard that
+lists all the sites that have
+been that applied through our
+program that we have been
+characterized as strategic
+economic development sites, a
+developer will be able to see
+what the power is to that site,
+what access to water, natural
+gas, all the characteristics for
+development. What are its,
+what's it's best used for?
+What's its transportation
+infrastructure currently or what
+it needs to be.
+All of that will be available on
+our website in real time, and we
+will use that to market those
+sites to businesses around the
+US and around the world so that
+not only are we helping provide
+that, that because of the
+legislature able to provide that
+service to do that site
+characterization. We'll also be
+there to market that on behalf
+of the state and and those
+landowners. And so, Chair, what
+if I really love that particular
+site because of its location,
+but it needs, uh, water.
+Is the site, your, your, your
+searchable website or whatever,
+is it going to say that? Or is
+it just gonna disqualify a site
+from being on the list. I, I
+don't know how else to put it,
+you know, that, yeah.
+Mr. Chairman, Senator, uh, it
+will, it'll, it'll say that. So
+it will list the, it'll
+characterize the site. Um, and
+part of what that will do for
+you as legislators and those who
+appropriate
+Capital outlay.
+We're gonna give you the most
+efficient pathway to make
+investments in your community
+for economic development
+purposes. So we will tell you
+where you've got potential
+industrial sites. If you add
+water, if you add broadband to
+this site, you've now made it
+much more competitive to its
+peers, uh, in the state or
+nationally. So you'll have all
+of that information, and I think
+it's, from my perspective, as
+you think about capital outlay
+and potential capital outlay
+reform, we're gonna give you a
+pathway to efficiently spend
+those dollars on.
+key infrastructure in your
+community.
+OK, that's great. Thank you, Mr.
+Chairman, and I just kind of a
+la Dixon and Padilla our, our
+show that we do every year. So
+the OEA is also, is it, is, are
+the, is the site gonna also
+publicize, you know, it might
+not have everything you need,
+but hey, by the way, there's
+this whole other program in New
+Mexico that helps you get that
+site exactly how you want it to
+be from a, a utility standpoint
+for commercialization.
+Senator, that's a great point,
+and yes, that will be part of
+the, the, the marketing. But the
+other part that I should have
+mentioned is there is $24
+million.
+That this legislature put into
+the site readiness fund. So $8
+million a year for 3 years, that
+is specifically designed to be
+deployed to help those sites
+become more ready. So once we
+have our site readiness, uh,
+advisory council up, uh, once
+we've certified a site as an
+economic strategic economic
+development site, they will be
+able to apply for funds for
+water, for uh broadband, for
+environmental review so that we
+can again assist those
+communities.
+uh, with getting those sites
+more ready.
+Wonderful. And then my last
+question, chair, is just along
+the lines of the utility
+readiness. I think it's probably
+the one that I have the most
+sort of like worry about, um, on
+a scale of 1 to 10,
+Um, how likely are we to get
+that rocking and rolling within.
+The time that you still have for
+the at the moment. Maybe you are
+taken into another
+administration and maybe both of
+you because you're so wonderful,
+both of you, but I'm I'm very
+concerned about starting things
+and then how are we going to
+start all over again in 18
+months. Mr. Senator, uh, to not
+to quote, but I will quote, uh,
+a movie. This one goes to 11.
+Uh, we will be
+We've already got an application
+in.
+And I've already spoken with the
+other two investor owned
+utilities who are planning to
+apply within the next month. My
+hope is that we start getting
+some
+Co-ops as well.
+But the IOUs are very interested
+in this program. So I
+Uh, again, we, we're reviewing
+a, a program, literally June
+20th was or yes, June 20th was
+the first official day that that
+because it didn't have a budget
+component, that statute was in
+law. I got an application that
+day. That's how excited the IOUs
+are for this program. Now, we're
+going to review it and it might
+not be, we, we'll see if it's
+appropriate, you know,
+application. But I'm excited by
+the interest that we're hearing.
+So, I absolutely believe that
+come this time next year, there
+will be multiple sites uh going
+through that PRC process, um,
+that, that you helped establish.
+Thank you, Chair. Let's just
+hope the PRC feels the same way
+you do and the way I do, uh,
+outstanding work to both
+everyone doing all this work.
+It's, I, I really, on a weekly
+basis, I am asked about these
+two pieces that we did together,
+and so I'm just very proud of
+that work and I, you should be
+very proud of it too, and your
+team. Thanks. Thank you.
+Excellent. Thank you very much,
+Senator Padilla. Uh, great
+questions, members. Uh, I'm
+gonna ask sort of one last one,
+and really, really want to say a
+big thank you and a good job to
+the members. Um.
+So, uh, secretaries and also for
+um our analysts, um,
+Uh, the, uh, an evaluator,
+sorry,
+the, uh, so we'll see you again
+probably, you know, November,
+say, um, what are say 3 action
+items and this is, again, we
+wanna hear from the LFC as well.
+What are 3 or 4 action items
+that we're gonna be evaluating
+and talking about then items
+that you'll wanna share from,
+from your end, uh, as we, you
+know,
+go into crafting this next
+budget.
+Thank you, Mr. Chairman. So, uh,
+I think the big asterisk for us
+is what's gonna happen with
+federal funding. Um, my
+department is 90% federal
+funded. So as you watch, uh, in
+the, the uh proposed cuts to uh
+the workforce system are pretty
+extreme. Um, the current federal
+budget proposal eliminates uh
+Wagner Peiser, which I call the
+big front door to the workforce
+system, Title 3, it eliminates
+adult education, um, which, of
+course, we all love Italy.
+el im in ate s AmeriCorps and
+Job Corps, and then rolls all
+the other programs together and
+cuts them by 33%. Now, is that
+actually gonna happen, your
+guess is as good as mine or
+maybe a little better, but, uh,
+that would be our first priority
+and um
+You know, I've had some good
+conversations with uh the
+members here about, we're not
+gonna ask for anything that
+doesn't work. I think those were
+your words, chairman, um, so,
+you know, there could be an
+opportunity here to do the great
+work that we're doing for um
+less overhead with less rules
+with an easier way for people to
+access it, but that would be
+our, our number one. the one
+that I think is most likely to
+totally be gone as AmeriCorps
+and I think um we have
+AmeriCorps service members, uh,
+here in the
+Committee, uh, Senator Trujillo
+and uh that is an amazing
+program that again we are just
+trying to make more career
+connected. We're trying to keep
+those people in New Mexico, so
+that's the one that I would also
+expect, and then, uh, you've
+heard me talk about
+pre-apprenticeship for so long,
+and that continues to be one
+time money, um, whatever data
+you want us to bring, we will
+bring it. We believe in this
+program. It's the brainchild of
+my deputy who's here today, Mar
+Marcos Martinez, and um, you
+know, to, to honor.
+is uh 30 year legacy at this
+department. I'm gonna make a
+hard push to make that money
+recurring, so you can expect to
+hear that too.
+Mr. Chairman, I think, um,
+My hope is, is that we're going
+to have a very productive fall.
+Um, so there will be a lot of
+positive things to talk about.
+Um,
+Regarding the key areas that
+we've been focused on as a
+state. I
+We're really trying to be
+intentional about where we're
+making bets, but we are
+We're making investments about
+where we believe we are uniquely
+competitive as a state.
+And if you think about what that
+is,
+And the combination with our
+national laboratories, it's
+advanced energy, advanced
+computing, and things that blow
+things up.
+When
+Fission fusion, and fracking
+were all invented in New Mexico.
+And how are we
+Holding those technologies here
+to grow our economy to benefit
+our citizens to power our state.
+And we were very excited about
+the announcement of Pacific
+Fusion last week and their
+interest in building their R&D
+facilities here.
+Um, you know, that technology
+started with the Z machine in
+the 1960s at Sandia National
+Labs.
+Um, we still have the companies
+that built that, that
+technology, built that the
+actual facility.
+They still build and partner
+with Sandia. Nobody else has
+that kind of construction
+capacity around the world.
+So we have some unique
+opportunities. So, uh, the, the,
+let's keep, let's keep the those
+investments so that we don't
+have gaps. So that would be one.
+part of those announcements that
+we see coming.
+are going to be important
+opportunities for Lita and JT.
+Um, while we greatly appreciate
+the investments and trust of the
+Legislature and the new programs
+that we have.
+Lita and JTip are two of our
+most successful long-run
+programs and neither of those
+funds received any dollars this
+last session.
+So I would ask that we consider
+those because I think
+Uh, we're going to need those
+investments if we are going to
+close those deals going forward.
+Um, so those are really the key,
+key components for us. I, we,
+but forestry was also mentioned.
+I think forestry.
+An outdoor recreation are two
+areas that
+On a rural side are really,
+really important as we think
+about how we don't just focus on
+the corridor, the Rio Grande
+corridor. Um, and I'll share a
+very quick story with you,
+Senator or representative
+because I think it's, it speaks
+And Silver City last week for an
+outdoor wreck, uh, facility at
+the waterworks in Silver City.
+On Friday or Saturday, I was in
+Picaris Pueblo for a ribbon
+cutting for a bike, a mountain
+bike trail.
+That is world class.
+That, uh, our outdoor recreation
+department put $500,000 into the
+tribe found another $200,000.
+And it is, um,
+There were people from Europe.
+Kansas, Colorado, Arizona,
+California at this ribbon
+cutting, saying this is one of
+the best parks, public parks.
+In the world.
+Because most of those sort of
+parks where you and these are
+the X Games type. We were
+watching kids flip flips.
+In the air on bicycles.
+That they built at this, at this
+on the pueblo.
+They also have a bump track. So
+a bump track is, it's, it's a
+mold bunch of moguls kind of
+thing, and it's, you get on your
+bike and you never pedal, you
+don't have brakes, which
+I am not doing that. But these
+kids were doing it, and one of
+them was 5 years old doing this.
+But it's the largest Red Bull
+certified bump track in New
+Mexico on the, on the Pueblo.
+It is going to drive
+A lot of people to that
+community.
+A lot of people with 810 $12,000
+dollar bicycles.
+And they've created a hub. Now
+you tie that in with angioar
+which has a similar type of
+infrastructure.
+Uh, the potential of doing
+something in Santa Fe. Socorro's
+looking to do something. Can we
+do it at Sandia Park or Sandia.
+The, the ski slope. All of a
+sudden, you start creating a
+real economic drama.
+And I think those sort of
+investments when we think about
+rural New Mexico and how we want
+to get people outdoors and the
+values that those gov the
+governor and lieutenant governor
+talked about from the tribe.
+They wanted to get their kids
+something to do during COVID.
+What they've built there, they
+have an indoor swimming pool,
+climbing wall.
+Trampoline park.
+Skate park, the bump track, and
+now this world class, uh,
+Mountain biking trail. They're
+gonna have, it's, it's, they're
+creating economic wealth for
+Northern, northwestern New
+Mexico or northeastern New
+Mexico, and I think if where we
+can play a role in helping
+support that sort of innovation,
+that would be really exciting to
+me.
+Great. Thank, thank you both
+very much. And unless any final
+thoughts.
+I
+Mr. Chair, on the workforce
+side, what I might offer is to
+the secretary's point, you know,
+there is potential change at the
+federal level related to
+workforce. At the same time, you
+all have made some pretty
+significant investments in
+non-recurring in programs funded
+through the state. There are now
+several years in and so really
+thinking about what are the
+outcomes those programs are
+currently producing, not just
+number of participants, but how
+are they, how are they
+experiencing outcomes related to
+either engagement in the
+workforce, uh, or attraction.
+too, and how does that kind of
+compare to some of our status
+quo programs, as you all may
+face kind of prioritization
+around workforce investment
+going forward. And then the
+second one I would offer is um
+Uh, maybe some planning around
+the community benefit fund, the
+secretary alluded to some
+different ways the agency might
+plan to use those funds, you
+know, they were appropriated
+against it also a changing um
+federal landscape and so when
+when opportunity kind of as the,
+the fiscal year moves forward is
+um planning around the community
+benefit fund.
+Uh, Mr. Chair, and I'll add to
+that for the economic
+development side, um, kind of
+tying to what Senator Trujillo
+was saying, you know, tracking
+employment growth in those
+sectors, but comparing it to uh
+the national changes, so really
+understanding is New Mexico
+actually growing.
+Faster, stronger than what the
+the national averages are doing,
+um, and those are specifically
+for those target sectors, um,
+Going a little bit to like the,
+you know, forestry and what
+Representative Vincent was
+saying, you know, looking at the
+breakdown of those jobs, um,
+by like rule versus urban New
+Mexico, um, just because we know
+that a job created in some of
+these rural communities has a
+bigger impact on employment
+compared to just like when we're
+thinking about the I-25
+corridor, um.
+And then another point and
+Secretary Black was
+Mentioning this, um, you know,
+there are ways that we can
+actually track how much or how
+New Mexico's per capita is
+increasing. We know that data
+and we can also see like if, you
+know, if we did want to improve
+from like the 46 to the 43rd
+let's say, like we can see that
+number and that's like a very
+clear number. Um, so those are
+the three things that I would
+add, and then just general like
+community benefit fund how EDD
+is gonna plan to use their
+funds. Great. OK, thank you all
+very much, uh, secretaries, uh,
+made a great job.
+We're gonna wrap that portion
+and now I think it's on to some
+wonderful refreshments and I'm
+very exciting tour. Uh, please
+talk us through how
+Do we wanna take a couple of
+minutes or do we wanna dive
+right into the tours?
+Go

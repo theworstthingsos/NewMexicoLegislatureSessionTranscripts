@@ -1,0 +1,4351 @@
+It started everyone
+are next presentation is
+modeling electric great
+resistance to wildfire and so um
+brain peer
+whenever you're right
+that on
+hope well thank you for have me
+managed here representative
+centers thank you
+honor to be here a little bit of
+my background
+i've been doing electric power
+systems pretty much my whole
+life first conference I attended
+for power systems that were
+seven years old so
+it's been a while
+and then I grew up
+with a boises state for
+undergrad and idaho down to
+arizona state for my masters and
+phd focused on power systems and
+then looked at the national labs
+and decided that's india was the
+best fit for me and and i've
+been here for almost eleven
+years now
+I have a wife until the kids
+just started preschool and first
+grade their great
+and with that i'll dive into the
+talk today so I manage our power
+systems research department it's
+in our electric grid security
+program that includes five
+departments lead by charles
+hanley
+and others a lot of topic areas
+and electric security program
+all about securing the electric
+of the structure for
+north america the US from the
+balk system all the way down to
+distribution and microgrades at
+the community level
+today i'll focus on wildfire
+lecture good security this
+program space on just like two
+I also have the slides up here
+because there were a couple
+slides that have videos and
+things like that that at some
+point or point two appear as
+well as this space primarily has
+two goals so the first is
+mitigating electric grade
+ignited wildfires.
+And if any time I talk with
+utilities or coops this is one
+of their top priorities is
+trying to make sure that the
+electric infrastructure does not
+start wildfires so they're doing
+a lot of work in that space
+almost every utility we talk to
+is very focused in this and the
+second goal is to mitigate the
+consequence of these large skill
+wildfires to critical
+infrastructure and the electric
+print.
+On the slide three
+these wildfire impacts are or
+drastic so here's kind of an
+interest lied to some of the
+largest scale wild fires in the
+western us over the last decade
+it includes a couple of these
+large skill wildfires in new
+mexico recently including hermes
+peak fire back in twenty twenty
+two
+there's also wildfires of course
+now everywhere that are
+significant not just in the
+western US
+as things change in and wild
+fires seem to become more
+prevalent especially these large
+scale events
+the impact of these wildfires
+the loss of life impects the
+society loss of property and the
+damage to critical
+infrastructures significant and
+business impacts as well
+specifically in the context of
+this talk the business impacts
+to utilities and coops can be
+significant
+then they're supply change
+impacts as well so for the
+electric infrastructure there
+are some components that are
+very hard to get especially
+large scale transformers that if
+they are knocked out of service
+or damaged it can take years to
+find replacements and there's
+not many spares just sitting
+around
+and then there's two pieces here
+on insurance and lawsuits this
+is not a topic area for
+scientists that's india but we
+know that it's a huge peace of
+the wildfire space right
+on in the next slide
+or wildfire electric good
+security program we primarily
+break it up into four different
+areas so the first is pre
+wildfire this is early warning
+and real time the monetary of
+wildfire risk the next piece is
+during the wildfire from the
+ignition of that itself so
+trying to mitigate those
+ignitions and mitigate the
+consequence of those while fired
+by modeling the wildfire spread
+for example
+and then next is post wildfire
+so this is after the wildfire
+has as occurred
+you have crues stationed outside
+the wildfire primary area and
+once you're given the green
+light.
+That it's safe to go in how to
+optimize
+the recovery process to restore
+service to critical loads and
+customers indeed and then the
+last area which also circles
+back to the front in a full
+circle is planning for future
+wildfires so this is where you
+can go plate the system you
+don't have infinite resources
+you're going to have to optimize
+what investments you make to
+mitigate wildfire additions and
+then get the consequence of
+these large scale wildfires
+so the first top of garage i'm
+gonna get into is focused around
+the the planning and monitoring
+for these wildfires and before
+you can even really get into
+planning the monitoring you need
+to look at his store history for
+passwildfires to help in for
+decisions for future wildfires
+and so a lot of this is focused
+on what conditions and drivers
+lead to these large scale
+wildfires and the wildfires that
+cause the most consequence so
+I point to primarily two
+rows on this table one is the
+high winds and drive or grasses
+or drive education and almost
+every single one of these large
+scale wildfires that cause major
+consequence those two things are
+are very prevalent
+for firefighters high winds is
+it is awful because it causes
+it's it to be extremely hard to
+contain these wildfires when you
+have high winds there just
+throwing imbers everywhere so
+those are two of the the most
+credible and drivers leaving to
+these large scale wildfires and
+then you throw in drought high
+heat
+other fuels and other drive
+vegetation low humidity and then
+you have these perfect
+conditions for for large scale
+wildfires.
+On the next one a little bit
+more about wildfire risk in new
+mexico specifically so the lines
+on these maps for new mexico are
+transmission lines throughout
+mexico and then
+on the right is heat now showing
+historical fires and of course
+in new mexico so this gives you
+an idea of where fires are most
+prevalent in new mexico
+specifically you can see down
+the hot spot down in the heat
+the national forest that has
+been quite of an area of
+emphasis for this program space
+in partnership with p and m
+our local utility of course
+working with them down in the
+hulinational forest to mitigate
+wildfire risk in in that area a
+lot of our demonstrations are
+also in that area
+on the next slide we're focused
+on a wind again so understanding
+the wind in your area
+significantly can change the
+risk of wildfire in in an area
+so on the screen here there's a
+it's a gift actually of
+wind speeds sustained or gusts
+of different miles per hour
+versus the static image on on
+the slide deck that you see
+and so this again helps us point
+out specific areas that are of
+the most interest and highest
+consequence for large scale
+wildfires.
+So one of the first pieces
+whenever we talk about wildfire
+modeling
+in the wildfire space is better
+understanding the vegetation
+characteristics in a certain
+region so for example for
+utilities and coops and one of
+the main things to look at is
+the vegetation in their rights
+of way and around their rights
+of way for their distribution
+lines and transmission lines
+so having these up to date
+vegetation models and fuel
+models I is the primary input
+that if you have very accurate
+vegetation data then you can
+have accurate wildfire spread
+models so one way we do this is
+out you satellite imagery data
+that you've trained on ground
+truth data
+for our machine learning already
+and so we for example went down
+to the health national forest
+with some of our texts and
+scientists that's indian
+partnership with p and m we took
+grounds with measurements under
+their transmission and
+distribution lines so that we
+could have something to train
+our data sets from satellite
+image so that we could better
+understand the vegetation under
+it around those transmission
+distribution assets so now you
+can take satellite image and use
+it on other parts of new mexico
+for example or other regions
+that have similar vegetation
+characteristics as from our
+ground truth data set
+and so this let's use you
+satellite image data to get
+better understanding of the
+vegetation around certain
+regions of mexico
+we use that in a lot of our
+wildfire modeling work one of
+the specific things with the
+utilities and cops that were
+partnered again with piano is
+for dynamic wildfire risk maps
+so instead of a static map that
+just says this is a highway via
+risk area it is instead updating
+the more of a real time sense
+based on that satellite energy
+data has up to date as you can
+get it
+that allows us these dynamic
+accurate machine learning drive.
+Vegetation characteristics for
+around their assets and then you
+combine that with real time
+weather data and you can get a
+better idea of more of your real
+time wildfire risk
+which can be of a great use for
+planning and monitoring an early
+response
+for utilities and others
+the next piece is where we
+combine wildfire modeling with
+great modeling and so this is
+where we're trying to find
+vulnerabilities of the grid to
+wild fires
+so if a wildfire has started and
+you model the spread of that
+wildfire of the next hour's days
+um
+and you can identify okay the
+next two to four hours this
+transmission line might be
+impacted by this wildfire well
+hopefully that information
+allows the utility to help
+redispatch sources and be able
+to mitigate the consequence to
+the the customers if you have
+that information ahead of time
+and so this work is also looking
+at cascading outages so these
+are the largest scale outages in
+the history there are some of
+the worst consequences for the
+US when you have huge cascading
+outages that affect an entire
+region of the country the
+nineteen ninety six black out in
+the west coast the two thousand
+three black out in the northeast
+US
+those are very rare events but
+if they do happen their
+extremely consequential so what
+we're trying to look at is if a
+wildfire spreading and it takes
+out one line and then there's
+another wildfire somewhere else
+you need even in another state
+that takes out a different line
+a generator goes down because of
+maintenance for another reason
+you have all these we call and
+minus one minus one type of
+events and be in the number of
+components you have one line
+goes down another line goes down
+later and so forth finally we're
+worried that there's the straw
+that breaks the campus back and
+you have this cascading outage
+that occurs and takes out entire
+region of the country so those
+are the events that are almost
+never happened but we're trying
+to make sure that they never ha.
+And then the last item on here
+is optimising those investment
+decisions to mitigate wildfires
+so this is where you have you
+have different options
+and so you have to decide what's
+right for your part of the
+country and your region because
+or your utility because there's
+no one size for its all solution
+I was at a while for our
+conference recently and one very
+large utility that has a lot of
+wild fire risk got up and they
+mentioned that a huge part of
+their program is to underground
+lines underground distribution
+lines that are in high wildfire
+risk areas
+and so the cost to underground a
+distribution line is somewhere
+from two million to six million
+dollars per mile so very
+expensive it is a great solution
+to mitigate wildfires and it
+made sense for this large
+utility to do this in certain
+regions after they got up and
+mentioned that strategy for
+their program space a small co
+op in forced it region stood up
+and mentioned there's no way we
+can underground all of our
+distribution through the forest
+because the cost is just far too
+much so the number of customers
+they serve per mile it's very
+low and that means that the cost
+of underground for millions
+millions of dollars would pass
+on to very few customers and
+that's not not feasible so there
+focused with vegetation
+management so they were all
+about using new technologies
+making sure that there's no
+vegetation that's close to any
+of their lines and distribution
+lines that can come in contact
+with those lines cousin are
+impossibly not a fire and so
+that's that's one of the mingles
+and so i'll go on to the next
+next slide here so I mentioned
+more of a real time monitoring
+of wildfire risk this work is
+primarily focused on forecasting
+wildfire risk in months in
+advance this says the next fire
+season but really the fire
+season seems to be all almost
+all you're round at this point
+um.
+So in this case what we're doing
+again using satellite imagery
+and machine learning on that
+image tell predict vegetation
+growth in a certain area for up
+to six months ahead we combine
+that was seasonal forecasts and
+long term weather forecast and
+with that information get a
+better idea of the vegetation
+and moisture levels in that
+vegetation
+in different regions about
+country or state or region
+and with that information that
+can help with planning for these
+large skill wildfires
+and so if you have that
+information of this part is
+looking in the next six months
+to be
+a possible hot spot for a
+wildfire that could be good
+information I have with planning
+for
+the next slide is focused on
+power of public safety power
+shutoffs so public safety power
+shut off is win the utility
+decides to pre emptively turn
+off power to customers
+because it's been determined
+that it is in their best
+interest to turn off the power
+because
+how high of a wildfire risk it
+is at that moment in time so
+this is when the winds are just
+turkey level winds you have
+extremely dot drive vegetation
+there hasn't been rain in in
+weeks and it's all these perfect
+conditions for these very
+drastic wildfires so pm for
+example did their first public
+safety power shut off back in
+april and
+utilities in california have
+done these quite frequently as
+well and so there's this balance
+in act of optimizing the
+minimizing the impact of
+customers and low sharing
+why you're also trying to
+not compromise wildfire risk so
+there's this trade off here that
+is is quite difficult.
+All right next is a tool that is
+under developments india we just
+demoted to p n m last week
+actually
+and it is focused
+it's called pirated in its
+focused on
+we've mainly
+our focused on small utilities
+and cops we've realized is when
+we talk with large utilities
+they have entire teens of people
+that are dedicated to a wildfire
+risk mitigation
+it's more the the rural
+locations and co ops and smaller
+utilities that don't have the
+resources to do an entire while
+for mitigation plan
+or least as in depth as when you
+have a team of fifty people
+doing it
+and so hopefully we plan to
+partner with a pin and with this
+along with others in the future
+where we can provide a this tool
+to help them with dynamic
+wildfire risk maps
+understanding future burn
+probabilities customising public
+safety power shut off
+calculations which takes a lot
+of input from that uh utility
+and then contingency analysis
+this is where we combine the
+grip modeling with the wildfire
+modeling and then also some
+scenario analysis for mitigation
+solutions so seeing trade offs
+between different solutions
+I briefly mention there's a lot
+of wildfire tools out there that
+each have their own specific
+need in the wildfire community
+of course the US forest service
+does a lot of this calfire has
+done a lot of this for decades
+and basilifier lab
+many of them have have tools
+that do certain things for a
+while by sped modeling
+another aspects
+so now i'm gonna get into the
+ignition peace so this is where
+we're looking at trying to mit a
+gape while fire conditions first
+step is lightning um
+so lighting modeling at san dier
+we have a a light in strike.
+Lamp where we can hit different
+objects with lightning strikes
+of different energy and current
+and we want to see how those
+objects react to being hit by
+lighting in our case what we're
+using it for is hitting
+different vegetation with
+different waster levels with a
+lightning strike and seen if it
+ignites and so from doing this
+thousands of times hopefully you
+can create this experimentally
+driven computation model to
+understand the predictability of
+a light in the economic wildfire
+you combine that with the second
+area of research is focused on
+monetary and lightning systems
+and so if you can better monitor
+light instorms for the total
+lightning current and energy he
+combined that capability with
+that computation model to see
+predictability of like unignited
+fires those two together
+hopefully when there's a
+lightning storm you can get a
+good idea of whether or not that
+lighten storm is going to be
+igniting fires in that location
+this can help with early
+response to possible wild cars
+from my.
+Next is ark modeling this is an
+similar light as the lightning
+related work where on the grade
+there are faults and so fault is
+when you have an ark go from
+for example across and
+installator from the conductor
+to the the steel tower and so
+that ark as energy piece to it
+and there's we want to
+understand the probability of
+arks like that igniting certain
+vegetation so that is another
+piece of this program at least
+in the future as well there's
+been less than this done so far
+compared to the light being
+related work in this program
+space also the second piece of
+this is
+smoke debris can build up on
+insulators and as that smoke
+debris and other contamination
+builds up on an insulator
+there's a higher like the head
+of those flash over as a caring
+that means
+a higher likelihood of
+lower reliability because you're
+having more outages and then
+every time there's this ark
+there's the small small
+probability that if vegetation
+is nearby there could be could
+be an ignition of that
+continuing
+with our ignition modeling
+related work on understanding
+ignition of different vegetation
+there was a five year campaign
+on the solar tower it's india
+where you could
+take those mirrors and point
+them towards the top of the
+tower it would ignite a tree and
+there's a small video on the
+screen here of one of these
+trees at nineteen
+from the high flux being sent to
+it on top of the siller tower
+and the goals here was to better
+understand how wind would cause
+ignition events
+a win with impact action of
+different vegetation geometry of
+that vegetation and the scale of
+the vegetation would impact imp.
+Activities.
+The next piece is focused on
+power system protection this is
+actually very large area of work
+at sandia
+protector relaying what I mean
+by power system protection is
+on the electric grade there are
+sensors that are monitoring the
+voltage and current just about
+everywhere and what they're
+doing is they're looking for any
+abnormalities and if there's an
+avenue normality of some sort
+they are going to quickly
+identify it and detergize that
+section of the line and so this
+is for example a tree comes in
+contact with the line
+the sensors will see that
+calculated and detergines online
+and let's say a hundred
+milliseconds of them very quick
+and that hundred milliseconds
+though is what we're trying to
+even reduce further in this
+program space there's a few
+other technologies as well but
+mainly focus on one specific one
+to talk about today focused on
+ai based protection
+for distribution systems so this
+is where
+those sensors that are on the
+grid
+we want them to sample even
+faster than they typically do
+we can send those signals to our
+machine learning about them
+that's been trained on pass
+faults
+so we simulate faults on the
+system
+and from all these simulations
+were able to train our relate to
+be able to identify those faults
+quicker so if that tree comes in
+contact with the line you can
+identify it and it would and our
+protective relay in this case I
+we've shown around one point
+four million seconds instead of
+a hundred million seconds so
+a big decrease in the amount of
+time that that art exists and
+that by decreasing that amount
+of time significantly reduces
+the probability of an addition
+of the probability of wildfire
+connect night
+and so there's been a lot of
+interest in this work especially
+with the utilities and coops.
+We've done demos and new mexico
+specifically in two different
+locations we did on the kirkland
+air for space demonstrating this
+protective relay
+on a micrograde on the air for
+space back in twenty twenty
+three and right now we are
+currently demoning it in
+rose about county co op in
+eastern new mexico
+and right now it's our
+protective really sits in
+parallel with traditional
+protection methods so that we
+can compare the two and see how
+how it's doing so this is the
+the next step in the area
+process getting those
+demonstration phases on a real
+system and showing that it works
+we've had one fault in the
+system so far and we're hoping
+to to leave it there for longer
+and see see how it performs
+right next to a briefly touch on
+this one it's smoke modeling
+related so there's
+some scientists it's india and
+throughout this presentation
+i've also pointed at the bottom
+left quarter there are names of
+some of the scientists that
+focus in these areas so they are
+the real experts of experts in
+each of these areas
+and in the smoke modeling area
+we're looking at
+the smoke cloom itself and how
+that is moving throughout the
+atmosphere
+during large scale wildfires and
+how that would impact solar
+power production in regions of
+the country and there's also
+interest in this type of work
+for other reasons as well such
+as impact to military
+installations on their and their
+missions as well.
+All right almost to the end here
+is focused on visualizing
+uncertainty for public safety
+power shutoffs and evacuation
+events so what this is getting
+at is how you display data to
+either the public or to a
+decision maker they will make
+different decisions even if it's
+exact same data so
+the examples are used here
+if you show someone a picture of
+their house and so you have a
+fifty percent chance of a
+burning you need to evacuate
+they'll do one decision but if
+you show them a picture of their
+house on fire and you say the
+same thing then they take
+different decisions so how you
+visualize the data is very
+important so this is a a map of
+an evacuation map in new mexico
+during the hermit and it's peak
+fire when I first saw this my
+mind went to red means bad for
+fire and read means I should
+evacuate but in reality what
+they were going for is ready set
+go
+green means go as in green means
+you should evacuate
+so there's some confusion that
+that can bring and we've seen
+that that bring confusion in the
+past so these decisions you know
+they do matter and and can cause
+confusion if they're not done in
+the right way
+here is even more recent maps
+that all show on the next slide
+one is
+back in twenty twenty four they
+did change it to red means
+evacuate and so red means go as
+an evacuate and then but on the
+the left figure in twenty twenty
+five they changed it back to
+green means evacuate and green
+go so this is something that
+maybe should be looked at and
+continue to be looked at further
+in terms of standardizing this
+process and making sure the
+public fully understands what
+these maps mean.
+Some
+with that i'm gonna wrap up the
+last project that i'll discuss
+is focused on the recovery
+process after a wildfire so this
+is optimising that recovery
+and making sure that
+once you're given the green
+light to go in and repair system
+on electric infrastructure
+system are you doing it in the
+most optimal way to make sure we
+bring back service to customers
+with the most need and critical
+services
+in the most optimal way
+so thank you to my
+funding organization do you e
+caesar cut office and then also
+all the dedicated staff that
+work in this program space
+there are a lot of them that can
+make this program successful
+of course I have a website and
+i'm happy to take
+questions thank you think of
+your presentation first
+questions are from a senator
+pity
+thank you madam chair and thank
+you doctor for your presentation
+in the discussion I might if it
+was there I didn't I don't think
+I heard it but are there
+stationary batteries planned for
+various areas to prevent actual
+seller
+yes
+yes so that is some of the work
+that's been done there's also
+talk of putting microgrades and
+specific spots and knowing for
+example there's one spot in
+colorado that has done this
+recently where
+they decided that there was a
+community at the end of the
+feet so long feeder that
+they had to turn off a theater
+guys do the public safety power
+shops and also was a high
+wildfire risk and so that
+community had very bad
+reliability metrics because they
+have to turn off the power
+significantly so instead of
+investing in undergrounding that
+line for example they decided
+the best way to do it was to
+build the small microphone or
+have back up generation
+basically at the end of that
+feeder to help that community
+make sure that they kept the
+lights o.
+When they were high wild pirace
+times
+thank you madame chair yes so
+myself and the representative
+retails were the ones that got
+the micro they get the
+micrograde built done earlier
+this year so you're you're fully
+able to go out and build all the
+microgrades to your heart is
+happy that's number one in
+number two I I
+is there already a plan of wear
+stationary batteries could be
+placed
+because you could feasibly
+see transaware these fires are
+going to come from in the future
+i'm assuming based on all your
+research and data the children
+will so you would know where to
+put these so that you don't have
+nine one emergency or something
+like that that's not reachable
+as that sound about writer
+yeah
+i'm sure senator thank you
+so
+i'll say that at this time I
+don't think we're doing that
+right now but I think that is a
+possible idea in one of those
+investment decisions that can be
+made to medicate the power
+outages that are impacted by
+wildfires and so madam cherry
+you said you met with p and m
+yesterday
+last week by speak excuses
+I work every day of the year all
+of us to two side but i'd then
+surprise me for work on the
+sunday what AP and m have to
+tell you what at the coops may
+be told you I see there are
+their head guy over there in the
+back so on the other hand guy
+next to him and the
+yeah this is one of their
+highest priority areas and so
+when when we work with them we
+were demo in last week that hire
+kit tool
+and so that's still under
+development but we want to make
+sure we showed them where we
+were at this point with that
+bureaucrat tool and so
+eventually hopefully we can
+continue to work with pn on a
+demonstrating that technology
+and the cops yes yeah I mean I
+think it's totally at this
+juncture with what we've done
+slatedly here but the bill like
+to spoke up a little while ago
+and what we know is but this is
+totally avoidable now.
+We can avoid having folks not
+have access to emergency
+services and all the other stuff
+in you know and in school
+shutdowns and all that kind of
+stuff could totally be avoided
+now now that we have a lot of
+this in place I encourage you to
+take a look at new mexico law in
+terms of how we can help you
+with this thank you chairman
+thank you thank you senator next
+to senator twice and.
+Thank you manager
+are there areas of new mexico
+that are particularly vulnerable
+to wildfire and you know lines
+being compromised in the grid
+yes yes so that is one of the
+the areas that we've looked out
+I think I showed some heat maps
+earlier in this in this talk as
+well specific parts in new
+mexico that
+have more forested region
+have distribution lines and
+transmission lines that are
+going through forced regions
+those are likely more at risk
+compared to an area with no
+vegetation around for example so
+manager and could you give us a
+couple like maybe you're top one
+or two regions of the state that
+are most vulnerable
+i'm not sure I I know exactly
+what is most phone
+however a lot of our emphasis
+right now has been in the
+healing actual forest area as
+that has we have seen some of
+the most wildfires down in that
+region of our state
+thank you and managers there are
+a specific level of vegetation
+management that your model is
+assuming
+manager center thank you
+no not in these models are
+reassuming that would be input
+that would be needed to be done
+from the utility that's using
+these models as well eventually
+so hopefully they will know and
+then they do know when they're
+doing vegetation management
+and they can have that be part
+of this model as well.
+Manager thank you that's
+interesting because that
+that that could be troublesome
+in using that model rate like in
+your programming because it's
+it's arbitrary and based on what
+knowledge that that department
+or agency has an willingness to
+put in timely information
+and my correct and that
+assumption yeah another port and
+piece of this is for historical
+fires if you can record as much
+data as possible that can help
+us in the form
+are planning for future
+wildfires as well
+and so any time you can collect
+more data especially in in the
+world we are now we're data is a
+key for a lot of things
+having more data from past
+wildfires can be very beneficial
+okay thank you
+in mountain so is there a degree
+of vegetation management that
+from what you've seen the data
+you've collected would be ideal
+especially in these very
+vulnerable areas
+thank you I I am not sure on
+that one I don't know exactly
+how much vegetation management
+is needed it's a very dependent
+on where you are in the the
+region of the country okay and
+madam chair you you actually
+mentioned I think it was a
+hundred milliseconds is what
+your system is measuring now
+rated to de energizer line
+amendment chair and instead of
+thank you so
+on the distribution system
+that's somewhat of a general
+hundred milliseconds
+it could be aware from around
+seventeen on the seconds
+hundreds of milliseconds
+it depends on what type of fault
+is a crew and what type of
+protection system is enabled
+and so that's currently how how
+things are done so many churches
+that is there still a potential
+with that quick of a response
+which I don't even know how.
+Fast that is exactly right how
+does the human I even determine
+that
+can something still catch on
+fire countries still catch on
+fire
+matter chair sender it's
+the probabilities are are very
+low but it is possible and so
+that is one of the reasons why
+we're trying to make it even
+faster so that that does not
+happen
+thank you I know I asked you a
+lot of detailed questions there
+and thinking maniferring down
+fix it at her next senator
+thank you madame chair thank you
+for the presentation that I am
+just curious since we this is
+the second committee round where
+we've had a fire research
+presentation well the last one
+we had was when we were up and
+lent all and i'm just wondering
+if you work with fire tech and
+the that program system so we
+we've talked with lane in the
+past and a few other national
+labs as well specifically even
+in two weeks we are getting
+together with dealing customers
+and for of our national answer
+getting together specifically to
+talk about our wildfire programs
+and how we can better coordinate
+all those wildfire efforts
+across multiple national apps
+that's good to hear cause it
+seems it's not exactly the same
+and they were bragging about
+their super computers
+that were running the models
+were like can we just do this
+like yes on our super computer
+only uhm but it definitely seems
+like you guys are doing really
+similar work and if we could
+combine the two even seems like
+a even better tool yep yeah
+manager thank you
+yeah the the work going on not
+only at national labs but also
+by a lot of utilities and and
+coops in the space and then also
+other you know US forest service
+and other fire laboratories
+there's a lot of this going on
+right now it's really even taken
+off more over the last decade
+that's also good here and then
+one of the questions that maybe
+I should know the enter to but
+who makes the decisions
+regarding the rediseco.
+Coloring choices
+that it's a good question I I do
+not know I know our expert in
+the human factors related
+decision making work law mats
+and she's the one that pointed
+me to these these maps and
+I could ask her yes i'll be
+great thank you hopefully I can
+find the answer also thank you
+that's all.
+Anyone else.
+The.
+Thank you matter chair and thank
+you for the presentation i'm
+just going back to page think
+it's thirteen that piral kit the
+uh while per risk in mitigation
+planning tool
+this looks very similar to what
+we'd use in the air force to
+kind of planning tools on my
+weapons systems using giants and
+candidate helping us produce
+kind of damage assessment and
+things like that so is that
+where this is kind of an away
+kind of bill from something
+somewhere to that
+manager senator thank you
+so yes this this tool along with
+many tools that are our gis type
+based
+have a similar look to it so
+there's layers on the tool where
+you can populate the the map
+with the layers that show either
+the wildfire risk for example or
+the electric infrastructure
+or pre mitigation strategy and
+post mitigation strategy what
+the difference in your while if
+I risk maybe things among those
+things here
+thank you matter share and thank
+you for the response and so on
+the next slide you talk about
+these other tools sorry these
+all these tools kind of use
+together and the second question
+I would ask is this piral kit
+how you had on slight thirteen
+was at developed here is a
+specific to
+our region and and the reason
+why i'm asking that question is
+just making sure that we're
+really using a tool that really
+kind of represents the southwest
+new mexico and kind of the
+environment and what we're
+dealing with so just want to
+understand that a little bit
+yeah manchester thank you
+so the pyracute tool right now
+we envisioned to be able to use
+it throughout the US right now
+our demonstrations are focused
+in in the new mexico area
+and so that's where we've
+started working with the store
+the other tools listed on the
+next map are also the each have
+their own specific piece to it
+for example flam map it's very
+good it and wildfire spread
+modeling.
+Uh technology that's a a company
+that sells
+a tool that is
+looking at this for I believe it
+to insurance and and other
+companies as well along with
+market to large scale utilities
+the US for a service has
+vegetation modeling tools as
+well that are are useful for
+this
+and then other national labs
+have different risk related to
+some of them are not focused on
+wildfire specifically
+but there are a lot of different
+tools out there and that's part
+of the reason we
+need to keep on working together
+as multiple national labs and
+keep coordinating our efforts
+thank you thank you matter chair
+and thank you for the response
+and the last question I would
+ask is you know we're
+sounds like this really just
+assessed the risk current
+conditions of what's happening
+is there anything being done
+with this information as far as
+working with the state working
+with insurance companies to kind
+of I guess predict some of this
+but also to help us maybe
+mitigate what is happening now
+to avoid what we're seeing could
+happen and he's tools
+at madame chair center thank you
+so a big part of this the
+program goal is to help with
+this decision making to help
+with future wildfires and
+prevent those future while fars
+from their happening or may get
+in the consequence of those
+we have not engaged with
+insurance at this point in any
+way
+and so that is a a very
+interesting topic area though
+thank you and i'm trying to for
+the response.
+Alright I think that's are the
+questions thank you for your
+presentation very very
+interesting thank you thank you
+all thank you manager.
+All right our next presentation
+is the federal affordable
+connectivity program for
+broadband prospects of upcoming
+years and needed to state
+response i'm jeff lopez the
+director of offers a broadband
+access and expansion
+the new director judge hinkel
+chief executive off service with
+badly bagly and guy trickly
+chief operating officer of oops
+with bagly.
+Whenever you're ready gentlemen.
+Whenever you're ready gentlemen
+thank you madame chair made a
+vice chair members of the
+committee I am jeff lopez there
+are nearly a point of director
+of the mexico office of
+broadband access and expansion
+i'll be presenting first unless
+you'd like to do a quick round
+of introductions.
+Thank you madame share of an
+invice chair and the committee
+john c e SB I dollars by our
+commercial brand which is
+cellular one of northeast
+arizona most people just call a
+c one
+madam chairman by share
+committee members my name is guy
+turley i'm the chief operating
+officer of the smith bagly
+incorporated SB I
+operators cellular one please
+should be here.
+If I may madam chair
+so I have been on the job for
+nine weeks before that I was
+working for senator bandry luhan
+in his obligation office and for
+a total of thirteen years in
+washington dc or is previously
+the advisor on the subcommittee
+on telecommunications so both in
+my current position as the
+director of office of broadband
+in my past experience working on
+some of the broadband
+affordability programs at the
+federal level i'm here to
+provide some background on
+broadband affordability and you
+should all have my presentation
+and turning to
+slide three I just wanted to
+provide a history of affordable
+communications and this is going
+back over one hundred years to
+the creation of the bell
+monopoly one single company
+largely provided
+telecommunication services
+around the country with that
+banana they were able to
+subsidize service for low income
+individuals with the nineteen
+thirty four communications act
+that established the federal
+communications commission and
+required affordable prices as
+part of the federal statute.
+Um ninety eighty four created
+the investment of a tnt breaking
+up the mobile into a number of
+regional companies that made
+some of that uhm
+affordable subsidy very
+difficult to administer and that
+right into nineteen ninety six
+with the federal
+telecommunications act I will
+get into details on what this
+meant for a broad for
+communications affordability at
+the time but it created a system
+where you could have competitive
+carriers and still have some of
+those subsidies for
+affordability and additional
+high cost in addition to
+supporting
+schools and libraries it was a
+comprehensive system taking into
+account the break up of the
+monopoly creating more
+competition and leading to
+innovation and the space at the
+same time a supporting
+affordability
+the next timeline is for twenty
+twenty with the covered nineteen
+pandemic and response to the
+lack of connectivity and what it
+meant for access to education
+access to health care access to
+workforce development congress
+established as the emergency
+bright band benefit this was a
+fifty dollars per month a
+subsidy directly to
+telecommunications providers
+on the priority of the household
+so was up to the household to
+decide how that broadband
+benefit was spent whether it was
+with one provider of or another
+whoever provided either mobile
+or fixed service.
+A year later with the affordable
+connectivity program congress
+passed the infrastructure
+investment and jobs act the
+biparts and infrastructure law
+part of that made the emergency
+broadband benefit permit at a
+thirty dollar per month rate
+that was in combination with the
+pre existing lifeline program
+under the telecommunications act
+which I will get into further
+moving to slide for this is how
+affordability subsidies
+functioned under a monopoly
+where one single provider can
+use the long distance rates to
+support local rates can use
+business rates to support
+residential rates and use higher
+rates for urban populations to
+support rural rates in rural
+areas for households and
+businesses that otherwise cannot
+afford communication services.
+Again this change of the
+nineteen ninety six
+telecommunications act where
+contributions were collected and
+are collected today from
+telecommunications providers
+around the country at the
+federal level this is a fee on
+telecommunication services
+overall and it's a historic eyes
+where forty percent uh is
+assessed in a fee from your
+phone bell whether it is long
+just and services if you still
+have a landline to your home or
+the cell phone in your pocket
+some portion of that is
+collected at the federal level
+under the uh jurisdiction of the
+federal communications
+commission using administrative
+company to administer the
+program.
+Again the nineteen ninety six
+telecommunications act also
+authorized states to collect
+contributions and distributed
+subsidies which we do have in
+new mexico today supporting uh
+affordability so again starting
+with the federal this is a
+contribution factor on telecom
+services on slide number six the
+supports affordability in
+addition to three other programs
+high costs which is building
+broadband and largely rural
+areas the e rate program for
+schools and libraries which
+subsidise rates for our critical
+education institutions rural
+health care which subsidies
+rates for our healthcare clinics
+and lifeline which is today
+available for row income
+households at one hundred thirty
+five percent of the federal
+poverty level.
+Um at a amount of nine dollars
+and twenty five cents per month
+so this is available to
+households today through the
+federal communications
+commission and the federal
+universal service fund program
+moving to our state administered
+uh rural universe of service
+fund.
+Ah again this is assessed on
+your telephone bells today where
+it's a per connection charge on
+telecommunications connections
+this is about a dollar sixty per
+month on your cell phone bill or
+your landline that goes towards
+the state universal service fund
+it supports three different
+priorities the access reduction
+support comparable carrier
+support and bride band at ten
+million dollars per year this
+change recently in the last
+legislative session
+uhm increasing the overall
+budget for this uh fine from
+thirty million dollars per year
+to forty million dollars per
+year.
+The.
+Ah so they federal program
+supports a fourteen dollars
+currently the state program does
+not
+moving to slide number eight I
+want to cover the affordable
+connectivity program which I
+discussed in the timeline again
+this was passed in twenty twenty
+one as part of the
+infrastructure investment in
+jobs act the biparts and
+infrastructure law and congress
+approached appropriate fourteen
+point two billion dollars
+overall this is a biparising
+commitment and part of the
+broadband programs that included
+what I now administer into the
+office of broadband the beat
+program in addition to other
+priorities including the digital
+equity act so this was a
+comprehensive bill that included
+high costs it included a digital
+literacy and included
+affordability with affordable
+connectivity schooling the
+affordable connectivity program.
+Again the subsidised monthly
+broadband service at thirty
+dollars per household or seventy
+distinctly five dollars per
+household on tribal lanes and
+has per month it also included a
+one time one hundred dollars
+subsidy on connected devices.
+Eligibility was restricted
+households below two hundred
+percent of the federal poverty
+guidelines so this was above
+what lifeline had established at
+a hundred and thirty five
+percent uh at two hundred
+percent of uh fpg
+the funds expired in april of
+last year so where this provided
+in an important component of the
+overall broadband picture in new
+mexico and across the country
+congress allowed the the program
+to lapse in april of twenty
+twenty four not providing
+additional appropriations for
+this critical program that
+supported our low income
+households in new mexico
+turning to slight number nine
+this is what the acp program
+looked like in the last month of
+funding in april twenty twenty
+four one thousand sorry a one
+hundred and eighty four thousand
+one hundred thirty one
+households participated in acp
+when it one funding lapsed this
+is a participation rate of forty
+two point seven percent
+approximately four hundred and
+thirty one thousand households
+are eligible elsewhere this was
+a very popular program in new
+mexico and across the country
+where households below two
+hundred percent of the federal
+party guidelines receive direct
+support on their internet bill
+whether it was mobile service or
+fixed broadband the subscribers
+my service type is the patrol on
+the right forty three percent of
+households chose to fund their
+fixed broadband connections this
+is fiber this is your cable
+connection if it uses broadband
+and another fifty six percent of
+households chose to find their
+mobile connection so this gave
+the power to the household to
+decide their priorities when it
+came to mobile or fixed
+broadband connectivity the
+monthly cost in the last month
+was five point six million
+dollars directly to new mexico
+anyways that's approximately
+sixty seven million dollars per
+year.
+Ah turning to slide number ten
+this is what we have in a post
+affordable connectivity program
+world in new mexico we still
+have the wifi in program which
+is established under that
+nineteen ninety six
+telecommunications act at the
+federal level this is nine
+dollars and twenty five cents
+per month up to twenty five
+dollars on tribal lands and
+eligibility is a lower threshold
+of a hundred thirty five percent
+a federal property guidelines
+today approximately fifty six
+thousand households participate
+in the lifeline program out of a
+total of three hundred and
+thirty four thousand eligible
+it's a participation rate of
+about seventeen percent.
+Because in new mexico again this
+is federal phones and that steep
+funding is approximately ten
+point six million dollars per
+year there are also private
+programs administered directly
+by internet service providers uh
+that vary from provider to
+provider I want to talk about
+any specific ones but again this
+gets to one of the first issues
+I brought up in this
+presentation which is monopoly
+if an at service provider has a
+monopoly in a in a certain area
+they're able to subsidize rates
+because they don't fear a
+competitor coming in and
+undercutting that rate or taking
+some of the high revenue
+customers uh taking where their
+ability to provide a subside for
+low income households the
+lifeline program is nationwide
+and helps alleviate that problem
+because you collect from every
+single eligible
+telecommunications carrier and
+provide that to low income
+houses directly the affordable
+connectivity program was similar
+where it is across the board
+gave it to the household the
+decide how that money was spent
+that was just an appropriate
+fund which we've now seen has
+some risk involved if it's just
+from general funding every year
+and not part of a system of
+support like the universal
+service fund.
+Uhm trying to last lied
+this touches on other programs I
+will be back here in october to
+present on the office of
+broadband in general but I want
+to say affordability was a
+important part of our broadband
+picture in new mexico before the
+affordable connectivity program
+the beed program which we are
+expecting to put into public
+comment this week really would
+have benefited from the
+continuation of the forecast
+affordable connectivity program
+because it provides a guaranteed
+rate of return for companies
+that provide service to low
+income households so are instead
+of us just funding the capital
+investment it provides
+sustainability for the
+businesses involved in the
+beautiful program where they can
+expect some
+return where they are serving
+low income households and in the
+case of a cp it was thirty
+dollars per month and seventy
+five dollars per month and
+travel areas so the
+infrastructure part we are hard
+at work we are expecting to
+sign enforceable commitments
+with internet service providers
+by the end of next year that
+will provide service to every
+single unserved and underserved
+household in new mexico so I
+think the picture for
+infrastructure is very strong
+the picture for operations
+support making sure that
+networks that were funding with
+the capital investment also has
+the operations investment is a
+little less certain
+affordability now post acp is
+very uncertain we do have the
+wife line program but it is
+under subscribed there are a lot
+of households they're eligible
+they aren't participating in the
+program part of that is due to
+the low subsequent rate of nine
+dollars and twenty five cents
+per hour per month excuse me the
+last part I just want to mention
+today is digital that receive
+the little equity act also
+passed with the bipartisan
+infrastructure law that grant
+program was canceled by the
+current federal administration
+uh this year so we do not have
+direct funding in new mexico for
+digital literacy or digital
+opportunity but that also make
+sure that the networks that were
+building are supported that the
+households that are
+participating these programs
+understand the benefits to
+health care understand the
+benefits to education and
+understand the benefits to work
+force development so i'm just
+here talking about affordable
+connectivity today.
+Again I will be back here in
+october to talk about the
+officer broadband in general and
+provide more details on a beat
+funding and capital programs and
+with that I will turn to the
+other pillars
+thank you very much madame
+chairman and by share family and
+continue offer that I also have
+overview on here but he
+eloquently did it right there
+and I don't want to go and
+repeat everything but i'll go
+over some of the topics here
+which as we know the affordable
+current activity program has
+lapsed and i'm a member of two
+associations in washington dc
+and there is no belief that US
+reform is going to happen this
+year or happened next year
+with that being the case there's
+no help on its way to help acp
+so they're looking looking to
+the states to take that on we
+are proposing that there could
+be a program here broadband
+support and we have a mechanism
+as well at the end of this
+presentation of how it could be
+done one of the things I would
+say is there's already a program
+of the low income telephone
+assistance program in new mexico
+and as we said earlier it gets
+three dollars and fifty cents it
+already has a mechanic that
+works it's it's administration
+of it lose very easily and it
+also leans on federal support
+and the documents they use to
+process it which puts a lot less
+burden on the state of new
+mexico i'll go through that
+mechanic at the end of the
+presentation here but before
+that my colleague here would
+like to go a little bit over who
+we are and what we do and then
+i'll go into a little bit detail
+about the a c p plan and what it
+did and what the lapse has
+caused their doctor so I correct
+a lot has not gone over yet
+so on slide for.
+Manager men by share committee
+members thank you just a a brief
+of review of smith baggling
+incorporated for over thirty
+years with the parade in mobile
+voice and internet services in
+the four corners region.
+In two thousand are founder
+mister smith bagley was very
+instrumental in convincing the
+fcc to increase the monthly
+lifeline
+subsidy
+to tribal lands adding a twenty
+five dollars substitute on top
+of that that addressed the
+affordability portion that
+director lopez mentioned.
+That that program as has been
+pointed out with the fcc under
+the direction of the fcc is a
+minister by uh usack universal
+service administration
+corporation.
+Though these benefits of course
+are very instrumental but
+especially the twenty five
+dollars increase that was
+brought about in the year two
+thousand very instrumental to
+travel members nationwide and
+especially here in new mexico.
+Uhm in cooperation with the
+these funding programs there is
+a a qualified status called
+eligible telecommunication
+carrier that
+any of us that want to have
+access to these funding programs
+and use them on the benefit of
+the the customers that we have
+or through the other programs
+that that are are there for
+infrastructure and so forth have
+to go through a qualifying
+process we become etc qualified
+carriers.
+Uhm
+in two thousand one we reached
+that we've also had that
+qualification in arizona and new
+mexico i'm i'm sorry in utter.
+This of course brings the
+ability for us to take these
+subsidies through the programs
+and directly to the the customer
+there's number of programs that
+that at the federal level and at
+the state level some of the
+mentioned uh that that come
+through these programs high
+classed and lifeline in
+particular at the federal level
+within the state of new mexico
+there's a broadband program that
+is ministered by the prc and
+then of course lifeline
+qualification here as well.
+Through all the past several
+decades with these programs and
+the funds that come through them
+smith bagly has been able to
+invest more than fifty one
+million dollars and building out
+infrastructure in providing
+affordable services to our
+customers in new mexico i'm and
+now move to slight five
+the our service area focuses in
+the north western quadrant of
+new mexico in that quarter we
+have over twenty three thousand
+customers in nineteen thousand
+households
+as you can see the vast majority
+eighty four percent are tribal
+members.
+Our network consists of seventy
+six cell towers connected
+primarily through microwave
+network that the ties it into
+fiber optic wherever that's
+available.
+The the cell towers and the
+microwave have allowed us in a
+very economical way to extend
+our reach and provide coverage
+into some of the most remote and
+sparsely populated areas of the
+state and in many cases we've
+been the first
+telecommunications that have
+been available to the the
+residents in those areas as well
+as providing mobile access and
+mobile broadband for those
+driving through and and join the
+the the beautiful scenery of the
+state.
+We have twenty three employees
+that manage our stores to brick
+and mortar stores as well as
+maintaining our network
+operations.
+The
+in the etc status that was
+mentioned we as I said we go
+through a qualifying process
+that opens us up to
+audits to make sure that the
+funds that we are access senior
+used efficiently and effectively
+and without fraud and over the
+past twenty five years we have
+been able to go through many
+audits with no significant
+findings of non compliance
+that's through a lot of hard
+work a lot of dedication by
+individuals and systems in place
+to make sure that the the the
+proper flow of funds is me
+making it to the right people.
+With that record that track
+record of non- of no findings of
+non complaints it is put us in a
+place where we are able to
+advocate at the federal level
+for
+good governance on universal
+service reform or other programs
+that can bring those
+affordability benefits to the
+consumer.
+As
+has been mentioned there's a
+variety of programs especially
+some that came about through the
+pandemic and one of the things
+that we like to to highlight
+hopefully that pandemic is long
+and our rear view mirror but
+it's important to understand the
+benefits that came and how
+quickly the
+carriers were able to respond to
+that.
+Uh with our mobile
+broadband network that we
+provide we were able to respond
+within months to primarily the
+schools in our service area that
+we're now having students at
+home and having or or teachers
+students and teachers having to
+be at home and we were able to
+place over ten thousand mobile
+hotspot devices with the in the
+education industry to allow
+learning to continue on as
+smoothly as it possibly could.
+Uhm that mobile aspect was very
+critical as the feedback that we
+got because
+one day a student may be at home
+but the next day they may have
+to be at their grandparents or
+at some other family members
+place and
+perhaps they needed to use it to
+for work or in another
+situation
+the the affordable connectivity
+plan program that we're talking
+about here was extremely
+instrumental in providing
+additional bandwidth additional
+uh data volume for these uses at
+home adding going from where we
+are
+at at about five gigabits per
+month to a hundred and five
+gigabits per month and allowed
+our customers to use
+this data in whatever may
+where they needed to whether it
+be for schooling or for health
+care or for work and i'll allow
+them to take it where they
+needed it and and so it was very
+important that they had the the
+mobile access to this broadband.
+Thank you that insurance and
+vice chair slight seven
+so the few offer will be talked
+about earlier it was a acp
+program was found in another by
+partisan infrastructure law one
+of things that we missed earlier
+was it was allocated at thirty
+dollars for non travel but
+seventy five dollars tribals
+because it's much more difficult
+to operate and maintain their
+network on tribal lance as we
+talk about what was given to the
+household so they could afford
+broadband i'd also like to talk
+about the economic bit if it's
+this created the browder group
+stated that it was twelve
+million additional teller health
+business and the money saved
+through that is four times with
+the cost of the entire program
+was so there is a lot of cost
+savings a lot of benefits I can
+tell you personally I see my gp
+once a year now I have an app
+that's provided through our
+health service through our work
+and if I have a question I go on
+that I go to registered nurse
+and I can get whatever medicine
+I mean I am not charged for that
+every one of our employees also
+has a so I personally.
+When the federal government
+program ended the internet and
+broadband used it became rapidly
+I can tell you right now that
+our customers eighty five
+percent since they lost that
+data do not use over five gb
+they they cannot afford to spend
+the money to get over five
+gigabits well when acp was here
+we were able to get an extra
+hundred gigabits of four g data
+but we didn't stop at that we
+went ahead and allowed unlimited
+after that on three g so they
+can stay connected through
+facebook and talk to family
+member specially beneficial to
+those travel members that have
+family in the military and this
+was very critical for them
+during that time we were only
+able to do this because we had
+the extra subsidy coming answer
+we could offer the extra data
+and to expand our network
+at our key we had thirteen
+thousand customers on the acp
+program at that time the average
+usage of those customers was
+over twenty gigabits each
+on the slide nine
+this is a breakdown of the
+counties in new mexico as you
+can see
+there is heavy heavy
+penetrations in the area as we
+serve which are very rural if
+you look at mechanic and if you
+look at same one those are our
+coverage areas in eighty eight
+percent fifty one percent but
+also in the cities you can see
+the penetration may not have
+been been as high but to take
+great out exceeded ours and that
+obviously would happen because
+it's larger populations but new
+mexico's in the mexican saw this
+practice program and they very
+much took advantage of it when
+it existed.
+I think it's believed by all now
+that broadband is no longer just
+i'd like to have service and
+nice to have service or service
+for those that have the means I
+think we can all agree that it
+is a basic service it helps
+close the digital divide and
+mobile households especially as
+my colleague mister charley said
+earlier if you talk to anybody
+in our area and say would you
+like connectivity at your home
+with a fiber leak or would you
+rather have it more where that
+be on a hotspot or we can
+actually load the data to your
+phone and open it as a hotspot
+everyone i'm says i'd rather be
+mobile with this and take it
+around wherever I go so we find
+it critical that mobile
+broadband plays a role in the
+future of a cp
+moving on it to slides well now
+it is a recommendation of a
+mechanic of how new mexico could
+continue with an acp program our
+recommendation would be the
+authorized for five years or
+until the federal ac program is
+reintroduced as I said nobody
+believes you have seven
+performance going to happen this
+year and next year but if it
+does the program in the mexico
+could be real evaluated if they
+come back with the program that
+has thirty dollars or seventy
+five dollars again we also
+recommend that only etc's be
+able to participate this is
+because they have already been
+vetted by the p r c as very
+as operators who can pass audits
+eh and sorry there and move on
+with that
+i'd also say that any provider
+in new mexico can't become an
+etc as a matter of fact track
+phone is in the process of
+becoming etc right now I
+recommendation as well is that
+the program it should cost about
+fifteen dollars to twenty five
+dollars fifteen dollars for non
+tribal and twenty five dollars
+for tribal if all eligible
+lifeline customers signed up for
+that today that we around fifty
+thousand customers around twelve
+million dollars we say lifeline
+customers because this mechanic
+already exists to qualify these
+customers to come through.
+They're qualified at the federal
+level and right now they claim
+to three dollars and fifty cents
+in the mexico as I said earlier
+you take the report that you
+filed at the federal level even
+process it advantage point at
+the new mexico level and they
+can distribute the fines all
+that would need to happen is to
+adjust as amount of funds that
+are distributed back and not
+allow carriers like us to give
+livable broadband I definitely
+liveable broadband as around
+twenty gigabits is very hard to
+do what you need to do on your
+daily basis of five gigabits now
+many of you pulled out your cell
+phone right now you look at your
+last month usage and maybe it's
+about two gigabits that's the
+cars were jumping on wifi every
+chance we get I know you can
+jump on wifi and here today they
+don't have that opportunity to
+jump on wi fi everywhere out
+there.
+The way we could find this is we
+believe there is going to be
+headroom and the state us are
+fine of the forty million
+dollars it's allocated we
+believe the twelve million
+dollars could fit within the
+spond and it could be
+implemented and that's the
+recommendation we make in today
+of how new mexico could continue
+to broadband support that those
+that need it months.
+Thank you we're all unable to
+take questions now
+thank you for your presentation
+first will be senator soles
+thank you madame chair.
+Trying to figure out where I
+have start with this
+the affordability of thirty
+dollars that we've had what
+percent of the total cost does
+that cover
+because just talking about that
+piece of its up three hundred
+dollars that's not much if it's
+a forty dollars about the whole
+lot what is the percent
+if I may manage her senators
+representatives
+it depends on the service that
+the household choose to
+subsidize so the
+federal level of thirty dollars
+per month was almost a shot in
+the dark during the recovery
+from the pandemic it does not
+reflect everybody's connectivity
+everywhere the congress also
+elected to provide seventy five
+dollars per month on travel
+areas again understanding that
+the cost provide bright band in
+travel areas is higher.
+It depends on what service the
+low and come household is
+subscribing to but again it
+gives the power to the consumer
+to decide where to apply that so
+it varies on planned a plan I
+will start let me direct
+you you've talked about a
+typical or livable amount yet
+what does that cover that's
+madam chair center is seventy
+five dollars subsidy we gave
+them unlimited data we gave a
+hundred five gb at four g and
+then we gave them unlimited
+three g after that it covered
+their entire phone bill they did
+not have to come out of pocket
+against a matter of chairing for
+people who are not on the tribal
+subsidy it's covering fifty
+percent or so forty percent on
+those we we did alternate plan
+but it covered out their entire
+phone bill of the plan they
+chose if they chose that the
+lower planet would cover it
+completely yes if they chose a
+higher plan they may have to pay
+a little bit and almost everyone
+about customers to the plan that
+will cover completely because it
+was higher than twenty gb most
+in use most more than that
+okay manager so
+the affordability this
+essentially covered the total
+amount for for basic needs that
+a family might have is that what
+you're telling me for our
+customer I cannot speak to the
+fiber lines out there I cannot
+speak to the other carriers for
+our customer because we are only
+felt that we should do it as an
+obligation and to help us expand
+our network we thought we had to
+obligation to consumer to do
+best we could for them through
+covering
+thank you and some out of chair
+and I remember a couple years
+ago we had some things like this
+that we had the map of the
+various carriers around the
+state and rates went from and I
+don't know what unit they were
+talking about but like twelve
+dollars to two dollars depending
+on where you live for
+connectivity and that might be a
+wifi what is the variability
+around the state for what the
+costs are the statewide program
+is for everybody not just the
+northeast these gentlemen are
+covering what's the variability
+I can very very broadly
+if you are in urban albuquerque
+with a lot of uh options for
+providers whether it is a cable
+provider or a fiber provider or.
+Uh fixed wireless you can get a
+lower rate because there's
+competition so you can see rates
+for basic broadband service and
+view anywhere from fifteen
+dollars per month if you are a
+low income subscriber to some
+telecom providers in albuquerque
+and if you're providing a
+gigabit perspero download it can
+be much higher so again it it
+varies depending on choice but I
+think compared to rural areas
+which often only have one or two
+providers they can see costs
+much higher lower or but
+satellite usually charges about
+a hundred thirty dollars per
+month for their basic tear of
+service
+and some of the rural providers
+have similar competitive rates
+depending on where you are in
+how hot how much was to connect
+that household thank you in
+managers I recall from the
+looking at that chart in the
+past it didn't make sense there
+were some urban areas that had
+very high rate some rural areas
+had very low rates and it kind
+of seemed to depend on you know
+whoever in government or others
+had negotiated the prices uh but
+if we have just a universal
+thirty dollar thing yeah they
+don't make sense when it's all
+over the places to what the
+actual costs could be.
+Who sets the actual costs better
+chair is that the company sets
+it and then there is the rate I
+mean is is there any oversight
+of that and i'm thinking
+somebody in electric utilities
+they have to go to for a recase
+before the p r c if they're
+going to change things as a
+regulator monopoly is this fall
+under the same type of a
+mechanism madam chair senator
+there minimum standards are set
+when it comes to the lifeline
+program that you have to supply
+with the subsidy you receive and
+it's so on a mobile broadband
+you have to supply at least four
+and a half gigabits and to be at
+least at three g and I believe
+on a fiber side you have to
+provide one point two eight
+tablets and I think it's twenty
+five down it is twenty four down
+in three help is the minimum
+standards as for the dated that
+somebody wants the purchase
+after those minimum thresholds
+or whether that more is offered
+that's up to the individual
+company as you heard during
+covered we offered much more
+much more data than any of the
+other mobile broadband
+providers.
+Thank you and managed your part
+the reason I ask is people a
+rural areas there isn't
+competition there is a carrier
+you know and there somewhat at
+the mercy of whatever that
+carrier chooses to provide and
+it looks like the subsidy is
+pretty standard regardless of
+what they may be providing and
+so that's kind of where some of
+those questions come from is
+there been an inflation
+adjustment I mean we're talking
+about in twenty twenty when it
+came when these prices were set
+up you know we're make talks
+about there's been a lot of
+inflation how do we adjust for
+inflation from eating up that
+subsidiary a director locals
+will take the second part of
+this but madam chair and senator
+there has not been adjustment in
+the lifeline subsidy in twenty
+five years that's one of the
+problems is there has been no
+inflation adjustment yet
+networks keep getting more and
+more more expensive to run
+especially come in alec of it
+and and now the cost have gone
+through the roof so as for you
+know where to supply by the
+federal government has been
+adjusted in twenty five years
+and mentioned senator
+information answer your previous
+question as well there is no
+rate regulation on broadband
+nationwide and there is to my
+knowledge no rate regulation on
+broadman with new mexico there's
+been strong opposition from
+providers to have that stick on
+the regulation side mandating
+the prices that broadband
+providers can charge in the
+state are the affordable
+connectivity program was a
+carrot providing a blanket
+subsidy out regardless of a
+service cost as you raised but
+providing incentive to serve low
+income households where there
+wasn't an incentive before
+the uh question on whether to
+tie the affordable counting to
+be program to
+increases every year it's
+definitely been proposed but it
+was not part of the initial
+program so I was just said at
+thirty dollars per month uh
+permanently which I think also
+contributed to some of the
+concerns with that program that
+it didn't meet the costs man of
+turn and thinking I think those
+are kind of some of my concerns
+is where there's competition in
+multiple choices for consumers.
+There's some consumer down
+pressure on rates where there's
+only one
+there's nothing that they keeps
+companies other than their own
+uh public good will I guess to
+to keep rates affordable and
+when the subsidy is set and not
+changing due to inflation or
+other things yeah that that can
+cause for some greed gouging you
+know other types of things
+and they get I appreciate you
+indicating the feds you'll
+haven't changed things not
+likely with current
+administration that we're going
+to get a lot coming out of them
+for a couple of years anyway and
+so certainly I think in coming
+upon the state to ensure that
+there is uh connectivity for
+people by the way just a little
+personal thing I drive from was
+crucials up here all the time I
+can tell you right where the
+three dead spots are along the
+way adds very frustrating in a
+state that has been working on
+all this issue for so long that
+along with our major interstates
+that it drops calls and I have
+to apologize to people all the
+time for that
+that I guess my last question on
+the state on page ten and you
+talked about the uptake on the
+affordable on these
+affordability and only seventeen
+percent of the people who were
+eligible we're taking part in
+that how come is that a public
+outreach them not knowing about
+it them not wanting it why such
+a low up take when it sounds
+like at least it with your group
+in the northeast or northwest
+that
+yeah we cover essentially the
+whole cost the I would think
+people would do that if they
+knew about it what are where we
+failing on the outbreach not my
+questions venture manager
+senator I think the
+participation rate in the
+affordable connectivity program
+was above forty percent so is
+much higher participation rate
+when it was thirty dollars per
+month and the lower seventeen
+percent participation rate in
+the lifeline program I think is
+due to the the subsidy it's nine
+dollars twenty five cents per
+month that is probably not
+meeting the needs are to connect
+these households when it comes
+to providing broadband so many
+chair it's almost like that the
+administration problem of
+filling out the forms in turning
+amendments at worth the nine
+dollars a month.
+The people just are bothering is
+that what you're
+the concern mentor center that
+is my concern with the nine
+twenty five.
+It's great.
+Think you senator next is
+represented
+thanks match i'm sure two
+questions
+are lopez what is the current
+prognosis on e rate because that
+has been completely beneficial
+to our state.
+Yes manager a representative it
+is in a strong position after
+the supreme court decided that
+the universal service fund was
+constitutional at the federal
+level eight does continue to be
+supported by the federal
+communications commission
+through you sec so the state of
+new mexico will continue to see
+some of those benefits from
+federal dollars to our schools
+and libraries I will say the
+contribution methodology for the
+federal
+uh era program is putting strain
+where it is a forty percent fee
+on telecommunication services
+that is not sustainable when it
+provides a a very high cost for
+some of the telecommunications
+carriers nationwide and in new
+mexico
+thank you and in smith uh thank
+you also for being here
+you mention that you primarily
+work in north voice to new
+mexico nothing in southern new
+mexico and i'm speaking because
+highway nine desperately needs
+it
+you want to take a technical.
+Madam chair representative here
+yes we we only operate currently
+in the north western quadrant
+there's historical reasons for
+that uh as a cellular provider
+you have to have a spectrum
+licenses acquired from the fcc
+through open auction or others
+and we focus that effort in the
+north western quadrant as way to
+expand our network out a little
+more organically
+it's it's quite a reach and very
+costly to to look at going to
+another quarter to the state
+acquiring the licenses and
+setting up a network when there
+are other providers already
+there.
+Thank you.
+Think a representative next is
+the repair.
+The.
+I think you are madam chair and
+thank you director
+congratulations on your new role
+thank you for reaching out right
+away to speak to many of us and
+you know this is the swim lane
+that I spent enough a lot of
+time in so I appreciate all the
+work you're doing and jumping
+head first into it I think we're
+in good house so thank you
+and to the smith bagly thank you
+for the heads up you know on a
+lot of what you have outlined
+here I think this is very
+important I immediately amount
+of chair and i'm sure you were
+too just.
+Tackled in the hallway over you
+know the the the funds and then
+the the program ending and not
+having a plan in place for it I
+mean that's it's it's difficult
+to do that to have a plan in
+place not knowing you know from
+what the right hand the left
+hand are going to be doing with
+each other or if they're not
+going to talk to each other you
+know i'm looking at that page at
+twelve year
+and the program outlined and the
+funding options and in all about
+and I think this is very
+admirable that you've come
+forward with a plan rather than
+asking us to do it and
+I was like you know it
+leadership like that to show up
+and say here's what's really
+needed I am
+well let me just start with are
+there telecom carriers in new
+mexico that don't offer robin
+because I I know some of the
+electric cooperatives are
+offering broadband now so would
+they are there that telecoms
+that don't
+yes there are some legacy
+carriers that do not offer
+broadband at least not what the
+officer broadband were defined
+with a hundred mbps download and
+twenty five minutes per second
+up on so then obviously which
+which you're saying here or your
+proposing here is that only the
+companies that would have
+broadband offering would be
+eligible for this funding
+because you wouldn't participate
+in the program otherwise I mean
+you'd have to have a broadband
+option in your your tool of of
+of services and products right
+yeah madam chair center yeah
+this is a broadband program it
+would be a broadband offering
+it's not like lifeline where
+that you can still get the uh
+subsidy if you provide a
+thousand minutes and nobody
+really files that anywhere
+everybody files based on the
+data usage that's why you have
+to hit the four and a half gig a
+bit threshold so essentially all
+of the rural telecom carriers
+would if they offer broadband
+would be eligible for this
+program fund
+madam chair center the way we've
+designed it yes absolutely and
+especially those that are etc
+carriers because they've already
+been vetted by the p r c and
+that's what we think it's very
+good to go down the route and
+what about the rural electric
+cooperatives that offer
+broadband would they be eligible
+for this.
+Sit manshare senator it depends
+on the structure of the program
+so I I believe that the prc has
+the jurisdiction today to
+establish this program it goes
+through legislation then there
+would be decided obviously by
+the the members of the committee
+and others
+so it's it depends on the
+structure of the program who
+would be eligible but etcs right
+now or not typically defined by
+the world etc costs.
+Well I just you know from my
+perspective in and I spend
+enough a lot of time on this I
+would like to see anybody that
+offers broadband be eligible for
+this manager because I think
+it's just only fair and it's
+only right that they they offer
+that service in their community
+they should be eligible for it
+so with all their being said I
+would like to talk about the
+figures and how did you arrive
+at these particular figures what
+what sort of economic analysis
+did you do to to come up with
+the fifteen and the twenty five
+yeah the fifteen year twenty
+five we feel get you to wear the
+average standard is the united
+states of america we thought
+with those subsidies sorry madam
+chair center we felt that
+subsidy level we confirmed the
+twenty gigabits that are needed
+out there and and drop it back
+down to unlimited three g I will
+not be able to speak from my
+peers and competition because I
+doubt they'll do that i'll be
+honest with you but we feel that
+we can do at that level of
+course if the funds went up we
+thought we can offer even more
+yeah I mean I guess i'm i'm a
+little concerned that at for
+fifteen and the twenty five you
+know considering what what it
+was previously um you know I
+think it was what thirty and
+seventy five before it said
+about right
+now so
+how did you come up with these
+numbers then yeah I I know you
+just said because yeah but the
+manager in center at the thirty
+and seventy five we are able to
+give unlimited what we also took
+and consideration is what we
+thought the head room would be
+within the program itself of the
+state us self so we look that we
+thought they're probably be
+about approximately twelve
+million maybe more maybe less
+the director would have to speak
+to that so we looked at those
+numbers what could we offer and
+that's how we got to those
+numbers that it's something fair
+and equitable we could offer it
+gets you to liveable broadband
+standard of around twenty
+gigabits and it could probably
+fit within the budget
+manager center if I may have a
+disclaimer the officer broadband
+is not
+coming to the table with the
+recommendation today and we are
+happy to provide that if
+requested uh my roles just
+provide some of the background
+and affordability so I did not
+take part in the estimation for
+the recommendation thank you
+chair and think you director
+because I was going to be
+actually when I when my next
+questions you know is but where
+are you in this whole thing you
+are you prepared to talk about
+whether you can endorse the plan
+like this or you are you not.
+Wanting to do that at this time
+I certainly endorsed sorry madam
+chair senator I endorse a state
+affordability program I think it
+is critical for the broadband
+and connectivity needs from the
+mexican families across the
+state to have an affordability
+component for a broken broadband
+programs okay i'm glad to hear
+that I really am to madam chair
+I would like to ask this group
+to to get more people around the
+coffee table with you around the
+conference table to put
+something like this together to
+make sure he can support it as
+you know I carry and sponsor a
+lot of this legislation all way
+back to seventeen when it was we
+got those three really huge
+bills down and it was a painful
+exercise for me personally I
+have to tell you and but but I
+don't like to go into a session
+are going to
+you know like to make a change
+like this without much more
+involvement you know including
+you know you have a whole
+association that's here today
+you have a you know you have the
+large carriers you have the
+internet companies you have a
+number of folks that could help
+you put this together and I
+would like for you to matter
+chair in order for for for me to
+begin to support something like
+this or to maybe even help you
+carry the legislation is to see
+a little more work and the
+pencil but take a pencil to
+these figures i'm not quite sure
+if they're there where they need
+to be
+I I would like it to be it maybe
+it's not thirty and seventy five
+but maybe it's something between
+what you have in that to get the
+speeds to where they really
+absolutely need to be
+in a na also just one underscore
+that I don't want to see a
+single bit of square inch of new
+mexico left out of this at all
+period so yeah what's up done
+young account do I
+get and I know I want them but I
+mean it's going to affect other
+parts of the state beyond you
+know the smith bang of the
+coverage area or whatever but I
+just love the fact that you came
+forward and you said hey we
+recognize there's a problem here
+in new mexico we need to we need
+do something about this so i'm
+manager with your permission
+maybe we could invite a larger
+group of people working together
+to come back again before the
+year ends for your committee um.
+Maybe it's gonna be tough we
+have a pretty full schedule
+already but we'll try i'd try
+like to see it because we've had
+this introductory conversation
+and then I think you'd get a lot
+more supportive if we could see
+it again and understand what it
+really needs to be you know i'm
+happy to participate in those
+conversations as I don't
+actively every single year I
+worked with you guys all the
+time and then I think the
+director should be a part of
+this as well thank you chair
+thank you senator next is then
+it approvements
+thank you madame chair just one
+quick question which I probably
+could have also googled pit
+maybe you would have been
+accurate what how many etc's are
+eligible etc's are there new
+mexico
+manchester senator we can get
+you that information I don't
+know the figure of the top man
+that's all
+and I just have one question why
+was it dropped initially in
+twenty twenty four what would
+happen or was it like madam
+chair there's an excellent
+question and I will say I am
+answering as the director of the
+office of broadband but in my
+previous role I was the lead
+negotiator for some loophole on
+the universal service one
+working group
+it was an election year and it
+was very difficult to move
+legislation in in twenty twenty
+four I think there's a major
+factor there or many proposals
+all the bipartisan to continue
+the affordable connectivity
+program we had support from
+liberal organizations and
+conservative organizations to
+provide additional direct
+appropriations but unfortunately
+just wasn't in the cards for the
+previous congress.
+My questions nope well thank you
+for your presentation he was
+great thank you for the insight
+percent and nice meeting you.
+Oh we are now it put the comment
+we're gonna start with online
+with camilla.
+Great thank you can you can you
+actually hear me as we can thank
+you
+great thank you madame chair and
+members of the committee i'm
+communified will men i'm the
+director of this year clubs real
+grandday chapter representing
+over thirty five thousand
+members and supporters and I
+just wanted to take a minute to
+thank you guys for your service
+even over the summer and with
+all of your other obligations.
+Taking the time to cover big
+issues and like the one just
+before us I mean in some ways
+with the threats to public
+communication having solid
+broadband to facilitate people's
+communications seems more
+important than ever
+but especially with regard to
+the last
+of wildfire electric grid
+security and I just wanted to
+take note of the pictures on the
+front page of that presentation
+extreme wild fires are more
+frequent and fierce hurricanes
+extreme winds
+and just really take the time to
+name the impact of the climate
+crisis on new mexico right now
+and the profound impact of the
+screeching halt of federal
+action on.
+On the climate last week the epa
+took public comment on what's
+called the endangerment finding
+which is the ruling that the epa
+found that green house gases are
+indeed a threat to public health
+in the environment and then they
+should be building regulations
+on
+the reduction of green house
+gases but
+the trumps epa has has basically
+said we won't be taking further
+action on protecting our climate
+and so the cost to new mexico
+and the country really will be
+even greater so having your
+attention to the huge and costly
+climate disasters and impact
+acts even just to are grid are
+very important the week before
+that there was public hearings
+on the ranch of the whole
+as solar and battery storage
+proposal and that was just a
+conditional use permit of
+of solar and battery storage
+nearer and electric load that in
+the case of an impact to the
+larger grid could keep santa fe
+running in an extreme emergency
+so I guess it all comes back to
+the science technology and
+telecommunications that you each
+have at the center of your
+mission in the center of and our
+hope to see continued and
+comprehensive climate action at
+the legislature even in a thirty
+day so thank you so much for the
+time and attention thank you
+committee next to be charles
+good mocker.
+Madame chair members of the
+committee thank you very much
+for the opportunity on charles
+good marker speaking on behalf
+of healthy climate new mexico
+would also like to echo the call
+that came over from the server
+club just made for support for
+comprehensive climate
+legislation in the accession but
+specifically here to to share
+with you and clearly different
+idea it's related to
+comprehensive climate
+legislation but different uhm.
+Just recently august fourteenth
+new mexico environmental
+department released the results
+of a study
+where they found it was a first
+of a kind blood testing study of
+people on the clovis area where
+they found it ninety nine point
+seven percent protest pence
+living in her working near the
+air for a space had one or more.
+Per and polly flood the pifas
+substances
+or forever chemicals in their
+board uhm
+they release the results they
+was a one point two million
+dollars blood testing project
+funded by me d with six hundred
+twenty eight people
+so this is very alarming that
+the rates were so high um it's
+very alarming because we all
+know peafas are a major health
+threat to all
+and eight healthy climate any
+mexico thanks they meet and do h
+for conducting those tests now
+people are also widely used in
+fracking operations and oil and
+gas wells throughout the state
+with ongoing debate over set
+backs
+for oil and gas wells near a
+sensitive areas that sensitive
+areas defined as being places
+where
+are more vulnerable populations
+lives thinking of students
+seniors and so on
+that without debate happening
+perhaps it's time that the state
+consider also testing for AP
+fast and other major
+contaminants in the blood of
+people living in her name wells
+thank you very much.
+Yeah.
+Thank you mister good much.
+The.
+Our last presentation before it
+do that I want to see marco
+gonzellas had gave us lynched
+today it was wonderful so thank
+you marcos for our alleged today
+I last presentation is cyber
+security office status update.
+Um
+pleasure when you ever you
+already.
+Every.
+The.
+All right we never read.
+Thank you to chair and members
+of the committee
+my name is rogers and bin I have
+overseas separate security
+governance and it's
+implementation for the state of
+new mexico.
+So based on some feedback that
+we received
+from other policymakers uhm
+we put together an agenda so if
+you go to page number two you
+will see that we are planning to
+be in front of the standard
+august september and october
+um and we want to take that time
+and split it in three different
+segments at two indicate what we
+want to achieve in those are
+time slides first and foremost
+we want to start with that
+activities than achievements.
+And in september we want to do
+that for twenty six plans and
+beyond and then in october as
+you get closer to the
+legislative session we want to
+talk about funding and any
+legislative changes so we are
+taking up a methodical at a
+programmatic approach to you
+know
+how to go about an address this
+um for the larger
+agenda items so today however
+what we wanted to talk about is
+what is saber security you know
+get it to the grand low level of
+what it didn't was what is the
+mission and vision of the office
+of cyprus security what we are
+doing and water and this water
+cyprus security efforts and
+stayed in the local cyber
+security grand the federal grant
+that we received and any other
+significant events
+we have a lot to cover and
+before we get into the
+meet of the presentation I would
+like to take a moment into this
+then garcia who's our senior
+program manager and uh
+gutters whose our our business
+analyst and
+i'm getting a text message my
+data seemed to be in the
+neighborhood and she may be
+here.
+I don't know it is but
+so
+what are start with the thinking
+the support
+this committee has provided for
+office of cyprus security
+and
+rate from the get go from the
+initial stages of assembling a
+plan together are a program
+together talking to all the
+individuals and moving through
+the process getting the
+legislation with the legislative
+support
+uhm we have come a long way
+that long way includes having
+planning committee
+and advisory committee and
+starting with nothing to one
+million and all the way up to
+red rear to that so that have
+been a significant progress in
+that process so moving on to
+pays number three here the
+correct of the issue what a
+saver security to define it add
+a video uhm easy to understand
+way it is an art of protecting
+the information technology
+networks that data and that
+devices the networking devices
+for example that makes the
+network.
+And the idea behind this is to
+what is called yeah cia triod
+which is confidentially
+integrated availability to for a
+way the necessary means.
+And insuring that the
+confidential be out the
+information the confidentiality
+of the network and the
+confidential idea of the systems
+that we operate is
+are they are integrity is not
+compromised and it's available
+then be needed that that's the
+car trout and underneath
+that
+definition we have some
+common mulliabilities what of
+the consequences of those
+valuabilities materialize and
+the differences that we
+currently have in place to
+control are to medicate the risk
+are to eliminate that risk in
+terms of differences and
+controls so for example
+credential missions so if
+somebody were to miss you sacred
+and child what can be do so one
+of the elements that we can
+implement is multi factor
+authentication to minimize the
+risk coming out of that with
+that said further down in the
+slight dog you will see
+something going by that i'm
+happy to report today one of our
+last systems that does not have
+multi factor authentication in
+the state it is being
+implemented that today as we
+speak so chat will be on
+multiple authentication.
+Today would start at many of the
+implemented that over the
+weekend soil users are going
+through the registration process
+and getting it there.
+So
+our response is a multi faster
+than approach
+because it's ever increasing
+tracks and
+managing that risk by the
+criticality and the opportunity
+on how to get that.
+Uhm
+moving on to the next life
+what is the mission so
+this was briefly touched this
+morning chair and members of the
+committee um the statutory
+mission for office of cyber
+security is to promote saver
+security care and public sector
+in the state of new mexico
+one thing that we can save for
+sure based on the legislation
+and the support of cs provide
+services to all executive bread
+and change and see it as you
+know for the in the slide that
+we have more details but about
+seventy six agencies exist
+seventy six agencies boards and
+commission that is existing that
+executive branch and we provide
+service system all of them and
+older that seventy six three of
+them do not have network so you
+will see seventy three further
+down in the slide deck was
+provided service to interest at
+public entities such as gate
+through twelve higher
+educational institution counties
+minister ball minister balabies
+tribal entities water and waste
+water assistant so this is where
+it becomes while in terry right
+we cannot mandate it so in this
+morning discussion be briefly
+touched on this topic so
+there is a significant
+difference between being
+mandated and being you know
+voluntary.
+So legislative in judiciary um
+into this have declined our
+services so um just point of uh
+note there and
+the other aspect is ozious is
+not currently funded to support
+all public interview so that's
+also something that you want to
+make a note of
+auto program objectives
+was he has filtered mission by
+providing interpreted level
+cyber security program
+what is that enterprised level
+saver security program look like
+what is the do
+the first information is to
+protect the privacy and the
+security of state owned our
+state operated networks
+obligations and devices.
+The established good
+government's framework through
+policies procedures and training
+coordinates they were incident
+response
+services central point of
+contact for anything cyber
+related for public entities and
+provide support and guidance are
+to both advisory and planning
+committees and help them walk
+through informed the decision
+making and themselves analysing
+risk gap discovery mitigation
+etcetera etcetera for each one
+of those claims because they may
+be from different sectors of
+different.
+So if you're more on the page
+number six here are the key
+services that we offer.
+I'd accept his management today
+morning be briefly touched on
+this like you know outside and
+and inside out kind of thing so
+the outside in is that
+acceptance management what can I
+see in this building that could
+be a potentially risk out as an
+example right and from the
+inside what can I see as a risk
+things are that nature.
+And how do we assess that how do
+we quantify that is that the
+discuss this man comes in
+followed by cyber security to
+use that i've had his training
+then we do the voluntation by
+doing penetration testing and
+all this is coordinated by our
+security operation center which
+was one of the things that was
+mandated by the law for us to do
+and we currently have a security
+operation center which will talk
+in details and that the many of
+these details in the slight deck
+is coming from
+so moving on to pays number
+seven.
+This is our portfolio of empty
+piece that we are currently
+serving so from being very
+fragmented for coming from a
+very federated tape in the admin
+cyber is one of the fabric that
+connects every single state
+employees together.
+In addition to few others that
+we make currently have.
+So state agencies as you see
+there are seventy three counties
+there are thirty three minutes
+about these one or five k
+through twelve a hundred and
+eighty eight
+and higher educational
+institution nineteen tribal
+twenty three judicial eighteen
+entities within the judiciary
+and legislative one and water
+and was water currently we have
+seventy three that we are
+planning to provide services to
+so this is the portfolio of
+service sold five hundred and
+thirty four entities is what
+this body is supporting.
+Do have you have better cyber
+security posture for the state
+of new mexico i'd accept his
+management that's their outside
+looking in that is a gap of
+seventeen percent not everybody
+participate because we cannot
+make them right we have to go
+through the walletary approach
+as similarly you can see
+volunteerability management as a
+service this is what we scan
+from the inside seeing what gaps
+exist I could ask the ecosystem
+and you can see there is a gap
+similarly with penetration
+testing similarly with that kind
+of you know separate security
+i've administrating etc etc so.
+Uhm.
+Doors gaps can manifest into are
+one of the topic of discussion
+that we had this morning which
+is is that
+absolutely the answer is yes it
+is a res.
+In dumps of subscriber
+engagement what do we do with
+those subscribers who subscribe
+to our services.
+Ah we do complaints reviews.
+We do the monthly scans we do
+the penetration testing and
+report on them and do the follow
+up actions on what is needed.
+Ah we also do that technology
+and saver security support best
+of in that somebody calls in and
+says this is happening is that a
+concern we do the
+I do down navigate through what
+the issue is see if it is a
+security concern and provide the
+necessary support we do they
+incident trious.
+And we taken the incoming
+information to add it and
+provide the necessary sources.
+Do
+address those risky items we do
+threat analysis we also touched
+on this this morning
+uh i'm very proud about what the
+office of saver security debt
+then now that was the imminent
+threat from our republic of
+iran.
+Uhm v gathered all the
+information because at any given
+time we had dealing with one
+terribite up data pretty much on
+a daily basis that's a lot of
+data if somebody were to say the
+humans are involved in it
+analysis part of course they are
+but it is beyond their
+complication do analyze one that
+abide up data so we do used
+machines and.
+Automation to filter the noise
+and get to the meet at the issue
+moving on to slight number nine
+cyber security standards.
+Uhm as you can see at the
+bottom.
+Office of cyber security holds
+out on new mexico executive
+branch agencies to an estate and
+the best fifty three moderate
+impact security posture so if we
+have the language and the
+support they will extend that to
+all parties interacting with the
+state.
+Just a brief sample of.
+What is the same way security
+risk assessment looks like on
+pace number ten
+this is the most comprehensive
+discuss has been the state as
+ever gone through um thanks to.
+That administration support
+unmandating every agency
+complete this on time and all
+agencies are complete at that so
+here this a sample of war all
+average complaints score which
+is two point eight one out of
+four which is about seventy
+percent and down.
+As you can see you know there
+are areas such as governance
+policies procedures can be
+improved and part of that is not
+new because we operated for so
+long in a federated and
+fragmented model this is you
+know this is year three off
+office of cyber security being
+an existent so we are slowly
+chipping away at it by issuing
+those policies and procedures
+uhm that is needed and more
+validation has happening on the
+field so if somebody says all I
+have this we don't accept it for
+face at face value we do the
+value should say hang on a
+second you said this but this is
+what we are saying or here is
+the gap will address the guy.
+Um
+next moving on to slightly at
+eleven separate security user
+about this training this is
+awesome
+this industry average in the
+government's sector across the
+US is seventeen point nine
+that's how many
+failures happen in during saver
+security advertised training but
+based on the training and the
+adamation that we have
+implemented and hope we can be a
+response to somebody's
+accidentally clicking our own a
+you are amazon packages have.
+We really have all to nail that
+down to three point nine percent
+so that you say huge.
+Um win for us given the fact
+where we were three years ago.
+Three years ago I could not even
+report on this.
+The.
+And
+slight number twelve gives you a
+snapchat up funding for
+interpreting cyber program on
+the top are the specials that we
+received so far and you know the
+bottom table indicates badly
+spend our.
+Scares resources on the
+operating budget how we
+categorize them into two hundred
+three hundred four hundred
+categories and pine that
+categories the finder categories
+that is the other finance uses
+because we had administratively
+attached.
+Um that's the cost that we
+provide to our parent
+organization to provide us that
+administrative support
+for us.
+Water invest waters sabor
+security is something that we
+picked up during.
+Lasped all administration and.
+Uhm i'm happy to report we got
+kudos from the priority
+administration especially pa and
+office of the national director
+and intelligence which deals
+with infrastructure security at
+the white house uh they were
+really impressed with the
+awesome work that we put
+together on the plan for and we
+are moving forward with that
+plan this is coming out of our
+budget to do the best weekend
+and based on the risk and the
+profiles to be have selected
+seventy three water and based on
+authority systems for us to
+extend our services and this is
+being done with in collaboration
+with federal partners and state
+partners on the state side we
+are working with department of
+end but I meant and d h s c m
+and on the federal side we are
+working with critical
+infrastructure security agency
+to make this happen and now
+oceas engaged in the outrage and
+we have implemented a g c base
+system and cs since it's going
+to administer the network
+scanning and we are going to
+work with them to provide them a
+template for incident response
+plans and do some desktop
+exercise so that this critical
+infrastructure sector can be
+protected much better.
+Uhm could be going over slight
+number fourteen which is the
+state and local separate
+security grant to so forty year
+one be received two point four
+million dollars
+this brief snapshot gives you
+a representation of who's
+participating about twenty six
+local entities applied and be
+closed out two of the projects
+already and they came in and
+dared this as female and since
+uh came in and did a program
+review of how good our program
+is going i'm happy to announce
+no findings both on the programs
+they don't on the physical site
+so he did extremely well.
+What are some of the additional
+attempted so so I talked about m
+a
+we issued working with the
+collaborator leave it that
+department of information
+technology be issued the
+generator we are policy.
+We have streamlined our escovery
+policies and the user training
+associated with them.
+State we also issued the
+statewide saver incident
+incident notification so that if
+the incident happens they have
+an obligation to notify our
+office so that we can keep track
+of how many incidents have been
+what is the room because of the
+issue etc.
+Than we also leveraged they
+interpret of security features
+so that we can have a consistent
+set of telemetry are metrics to
+monitor how the agencies are
+doing and adopted a unified
+security platform and solution
+so
+but
+that brings us to the last
+flight.
+Ah what I received significant
+challenges right we'll talk more
+about this but some of the
+significant challenges that
+happened in our space is the
+federal changes.
+They eliminated funding for
+multi state information shatting
+an analysis center which is isak
+so this is an agency that slices
+and douses data at the for level
+and pass on the threatened
+intelligence to us.
+That is moving to a fee based
+model because that's one
+supported
+that is reduction in separate
+security what work for said the
+federal level so we have to pick
+up the tab and run with that
+because there's not much
+resources out there for us to
+depend on.
+Ah which includes threatened
+intelligence concerning nation
+state actors.
+And reductions of cyprus
+security agencies and services
+for the pushes as to.
+Take on more responsibility and
+temination of the n c s r i-
+which is that function that I
+used to provide is to do the
+review of the cyber security
+programs that each one of these
+entities so with that.
+I thank you and stand for any
+questions.
+Do we have any questions.
+Representative here
+other things manager thank you
+right really appreciate it
+just a couple questions
+on side four you mention that
+legislative and judiciary
+entities have declined office of
+cyber security services what are
+they doing aren't they may have
+their own program I do not have
+the insight that disability into
+what they do they claim they do
+but be have no way of validating
+a very fighting what they do and
+they affectiveness and the if
+you can see up those programs
+around.
+But at least I can say on the on
+the executive brand side we have
+following these federal
+standards out of the framework
+and be out of holding every
+single entity within that
+umbrella to that standard and we
+are constantly measuring and we
+have tons subditapoints that can
+be discussed in a more private
+setting.
+I think in my second question
+madam cheers on on your final
+side the illumination of thread
+intelligence concerning nation
+state actors.
+Should not concern us I mean the
+what's your name tossing
+government I mean they're
+closing down major intelligence
+over sight of the known
+identified international players
+that have tried to do uh and
+have succeeded many classes
+against our country madame chair
+members of the committee and
+representative yes that is true
+so our work as significantly
+increased in the last.
+Three four months significantly
+right because we need to do the
+analysis we need to do the
+follow up and uh
+look into our roster of
+inventory of what we currently
+have how that can manifest into
+a valid ability that could
+potentially bring us down so the
+work load that are threatened
+upon is has significantly
+multiple increase.
+Thank you and i'm sure it is
+scary especially in a state that
+has multiple national labs and
+the my last question is
+this morning are a I expert said
+eight is more important in cyber
+security and
+how does that work I mean i'm
+thinking of firewalls that a I
+can start doing things that a
+year ago we didn't even imagine
+yeah chair and members of the
+committee yes it is a scabby
+equation for us to balance
+because if we are using mission
+learning to slice through
+walliums of data they are using
+the same techniques
+that.
+To do the penetration to to the
+malicious act because at the end
+of the day it all comes to data
+right they want to make a bucker
+to out of abusing somebody's.
+Privilege to data and the state
+is very rich what did and that's
+that
+they want to go so they may use
+a I to.
+What calls into out in the round
+mental hour security possible we
+may need to use the ai to.
+Strengthen our defenses so it's
+a it's a very
+interesting balancing act that
+we have to follow and.
+Most of the
+sick states based on my
+understanding because I intract
+with my tone reports and other
+states.
+Majority of this are states take
+a very defensive approach they
+are not into office you approach
+and that is pretty much in the
+bill house of the feds and that
+this these changes.
+That is being left to the states
+do now deal with so we have to
+keep a different supposed share
+but also be ready to.
+Make some often supposed to
+respond
+thank you very much thank you
+ma'am thank you chair and
+members of the committee.
+Thank you representative next
+senator bergman
+thank you madame chair thank you
+very much for the presentation
+apologies to reply thank you
+know at the button
+and do it or do so.
+My daughter.
+Um unslow ten the third bullet
+point
+is it's about the same security
+risk accession and said that
+simple valedician indicates a
+significant gap between reported
+and actual compliance what is
+that actual gap so or what is
+the realistic number so
+um maturity is the realistic
+number so how mature is your
+business processes and that
+underlying id system step
+supports those business
+processes so for example if you
+are supposed to have a password
+policy want to get this is just
+an example yeah we have a
+password policy but is that
+password policy also defined or
+it needs to be these many
+characters along with the alpha
+new medical blood block because
+it goes to.
+Um I came from a added world so
+there are controls you validate
+the control thing does it exist
+then you work on validating the
+effectiveness of that control
+right so it is one of those
+things that what the agency
+currently have and how
+effectively it may be operating
+is there some.
+There may be some gaps are and
+that gap can only be addressed
+through education about this and
+then upgrading our martinising
+there and what i'm meant with
+some of our.
+That was a perfect description
+thank you thank you chairman
+members of the committee and
+thank you senator burb on slide
+fourteen
+what is the
+states wanted policy template
+library development project
+it's within that it's got under
+governance and planning and that
+they wanna take the top
+i'd like to introduce thought
+that it's our general council
+and he was instrumental in
+delivering the language and
+dropped in and working with
+marketport for the.
+Somewhere security act.
+Yes
+okay
+good afternoon chair members so
+the policy development project
+so.
+There's policy in then there's
+program in the policies are the
+the the set of
+standards that we're going to
+hold their hold ourselves to as
+an organization.
+And in order to be missed
+compliant you have to have both
+the policies and you have to
+have the implementation of that
+policy what we have found during
+our risk assessments and
+conversations with the
+subscribers to the services if
+they don't have the the the the
+written roadmap to how they're
+going to implement cyber
+security so we've contracted
+with a a vendor we're working
+with that fender to develop
+templates that local governments
+agencies other branches the
+governments can pull in
+customise to their organization
+create their cyber security
+policy for example yeah we
+mentioned password policy just a
+second go they will have a
+written document that says your
+password is going to be twelve
+characters it's going to have a
+number it's going to have a
+capital it's going to have a
+special character and then they
+will use that to gauge whether
+their actual practices are an
+alignment with what their
+desires are so we're developing
+those templates for all public
+bodies that keep what to use
+them
+thank you if I may add more to
+that uh chair and members that
+the committee
+if I add more to the um I
+probably some color to the
+comments that are today it
+brings consistency madam
+chairman members of the
+committee so that be now.
+This is how the policy is this
+is what the baseline.
+Ah for that standard looks like
+and it gives an opportunity that
+too identified that gap is and
+close the gap if there is any so
+it helps with the
+standardization.
+Across the ecosystem because
+one uhm local subscriber may
+have a one based policy
+uhm one of the mature agency may
+have a forty page policy so we
+are trying to standardize that
+understand the baseline so that
+we can improve upon the cyprus
+security poster.
+Okay.
+Perfect and then my final
+question is
+what is the co issue generative
+a I policy
+um chair and members that the
+committee
+um there are two aspects to a I
+one is generated I bad you use
+it as a tool to gain some
+efficiencies right so what is
+the average weather and new
+mexico now yeah i've based on
+all that data that it has
+injusted it can give you a more
+annual response saying it like
+you know.
+Eighty seven point six decreases
+what I sort something to that
+based on the time but when you
+that is one portion of the I the
+second large component of the a
+I is the I that policy makers
+such as
+you are all trying to regulate
+which is the large language
+model.
+So that generally be a model is
+being misinterpreted our miss
+understood by many but then the
+state organization so many of
+the state organization currently
+used some elements of a I and
+majority of that some element is
+generated way I such as go by
+later chatty pd right so what
+that policy provides is yeah
+safe use policy for a lack of
+better term for the correct me
+our top because data night we
+were ready instrumental in
+working with department of
+information technology to
+collaborate to put this policy
+together it provides the
+necessary guard rail depth what
+not to do on what to do right do
+not throw sensitive data
+adapt obligately available large
+language model those are the
+guard lines that the gardens
+that we are talking about
+because once that data is thrown
+at that large language model we
+have no way of pulling it back
+or we have no way of undoing
+that and now since it did data
+is down the wall.
+They do want to add anything
+more to that
+and i'm sure members
+yeah so the policy is is.
+Just like the policies were just
+discussed that it's a set of
+guidelines that agencies now
+have the following the executive
+branch before they can deploy
+their generative a I so we're
+not going to train them on
+confidential data if you're
+going to
+anything that's public if you
+want to use it internally and
+train it on your data you have
+to have data loss protection
+measures in place
+if you are going to publish
+something that's public facing
+and you expect members of the
+public to rely on this this
+thing that you've created you're
+gonna indicate on the document
+itself are on the advertisement
+or in the brochure that this was
+generated by ais so that the
+consumers can know we're gonna
+you know ask questions about the
+origin of their so it's to
+protect consumers it's to
+protect her data immins to
+ensure that everybody's playing
+by the same rules when they're
+deploying these systems
+just to act of that chair and
+members that the committee and
+senator
+this helps us get there with the
+right mindset right we are
+taking a data first our data
+protection first and as much
+approach rather than the a first
+and jumping in it's a little bit
+calibrated of an approach I
+would say but it helps us.
+Be cardinal sent off the
+elements of risk out of any
+surprise as that we may have to
+deal with
+great I was excited to learn
+that that existed and I was on a
+king I looked for it briefly on
+I mean go into the door website
+I don't know where else it might
+be but can you send us that part
+absolutely
+members of the committee people
+definitely send it to committee
+members here thank you
+senator next to senator pity
+thank you chair and thank you
+for your presentation ie as
+you're not very involved with
+you through this whole effort
+madam chair site I guess I
+misunderstood what you said
+earlier versus what you said
+just now I think I heard you say
+just now that
+you're not aware of what the
+policies are in the other
+agencies ie legislative judicial
+etc then how are they based on
+what you said earlier today
+they're meeting the minimum
+citizens how are they doing
+transactions with the state
+government now if we don't know
+what they're.
+A policies are unsecurity right
+now so chair and members of the
+committee very excellent
+question senator so
+does have a standard exist and
+has the state pivot to a
+standard yeah that said this yes
+it's eight hundred dash fifty
+three moderate now we are
+working through the process with
+them they executive branch to
+see that the gaps are to meet
+that standard right some exceed
+some may not be there yet and we
+may need some hand holding very
+similarly if I have the support
+of the policy makers I can do
+the same with the that the
+legislative branch are any other
+branch aren't even the local
+government to give you brought a
+prospect to off that the larger
+gaps are foot example if I if
+once again this is just an
+example if if what are
+authorities are not using
+multipact authentication that
+could be a huge risk that we
+need to focus on priorities to
+mitigate.
+And until we do that analysis we
+would not know so most of the
+policies should be public facing
+documents and published
+validated by independent audits
+and what not but I do not know
+how to I cannot or paying on it
+as.
+Okay so madam charis then my
+next question would be you know
+logical is there an automated
+way that puts up a firewall that
+doesn't let you do a transaction
+with the state government if you
+don't meet the state's minimum
+standards.
+Chairman members of the
+committee are technology
+do exist that can.
+Um that can move us in that
+direction.
+But the destruction could be
+impacting constituents in some
+chip or fall so we need to
+understand if we have that
+authority definitely we can look
+into that in moving that
+direction so that we can provide
+the necessary uhm validation
+that all they entities
+intracting with the states are
+being held to that same standard
+as they execute a branch
+agencies so madam chair then I I
+guess i'm really confused now
+because it it just seems like it
+really doesn't matter what
+you're doing at the state level
+at this point because if you're
+loud let alone the legislature
+and the judiciary to just
+enter exit submit this required
+request that payment that
+whatever then that's a wide open
+door and then that's a sliding
+north of its wide open and and
+any bad actor can just crawl in
+the building from there.
+Option I just told him
+misreading that chair and
+members of the committee um and
+senator.
+It it is currently open for
+interpretation thought do you
+want to.
+Yellow break maybe there is a
+better way to capture that risk
+the kind of per senator so so
+i'm really using example of of
+another situation our vendors
+they are.
+Interacting with our environment
+but we don't have any of his
+ability into what their cyber
+security posture is and there is
+no
+test that we can give them or or
+there's no governing body that
+has given them a seal of
+approval instead.
+They are compliant with expiry
+you can do business with them so
+far but we are going to work
+towards getting something like
+that for new mexico whether it's
+a creating the test or sending
+the vendors off to somebody else
+to get the test so they can come
+in and say this vendors meeting
+x standard what we decide what
+it is with respect to our co
+branch as a government we have
+zero visibility and we don't
+have the ability to ask them for
+that seal of approval the the
+proof of compliance it's it's
+not within our statutory
+authority right now I appreciate
+that and and so chair today you
+know with this the slide that
+you have that showed the testing
+in the you know validation
+whatever we do that too the
+state government that is the
+executive branch that is
+required to adhere to this this
+law that we create why wouldn't
+we just give that to the to the
+other agencies and say you know
+before we we we are more than
+happy to do a transaction with
+you whatever it may be but
+before you we do that with you
+we're going to run a test on
+your system make sure that we're
+not you're not creating
+vulnerabilities for us
+what why wouldn't you do that
+and it seems to be that there
+would be a proactive way to keep
+the bad actors out there that
+i'm sure senator it it does
+sound proactive and right now we
+can look at all of our agencies
+where they're all on the same
+platform they're all getting the
+same security stance they're all
+getting there all complain with
+the same risk assessment and
+will push that off to vendors
+and and and start expecting them
+to give us that verification and
+from a policy perspective it
+makes sense to us that everybody
+that comes into the state system
+should be meeting those spend on
+the standards that are verified
+through consistently approved
+processes
+it doesn't make sense well i'd
+like to know more about that I
+know you want to keep more than
+one but.
+It just seems to me like it
+really doesn't matter what what
+the states doing I mean if the
+the barn doors you know quite
+open for anybody walk through it
+and we're not testing them
+before they walk in
+the brain all sorts of lose
+inside the bit all sorts of of
+illness into the building I I
+did I just totally that that
+doesn't make doesn't jave at all
+with what are intention of this
+legislation was
+so i'm gonna have to take a
+little leep render this thank
+you
+thank you I agree we've been
+discussing it a little bit and
+maybe we can
+bring more into the conversation
+bring you to all right I just
+have a question over the last
+few years we've been trying to
+get a cyber security fund
+do we still need it or are
+agencies not getting infiltrated
+are they just working really
+well
+tell me.
+Chair and members of the
+committee
+chair
+the opportunity
+and the need do exist right
+because if you look at the brief
+history of office of cyprus
+security he have re single
+legislative session and then
+thirty day sixty days that
+shouldn't be have come in for a
+few asking for money
+um
+we have been plus
+to some extent to have some base
+operating budget but everything
+has been run out of one time
+money so given the fact that
+it's been three years and more
+stuff or funding are with the
+specified time limit then for a
+specific purpose that specials
+we have implemented those and
+now via and a critical juncture
+that it does to better disturb
+that's operations
+so if we do not have a base
+budget increase all the
+valuable things that we
+implemented
+cannot be considered operation
+because I need to come back and
+ask for
+money
+to continue those operations and
+those are the operation that
+provides us with all these data
+points and based on the data
+points we are making data
+central decisions prioritizing
+based on risk and other factors
+so if we do not get consistent
+recording funding
+and which we have discussed in
+this forum multiple times in the
+past we this is once again based
+on available information we have
+potentially looking at somewhere
+in the mid thirties uhm million
+for an operating budget but it's
+gonna take
+time unless you guys plus me
+with the funding request.
+So but the agencies are doing
+okay I mean how are the agencies
+really doing so that for for the
+agencies at least if I can for
+this example purposes chair and
+members of the committee if I
+can keep just the executive
+branch agencies
+we provide them the service so
+they don't have anything for
+them to react to other than when
+we say hey you left that door
+open or they'll are lockers not
+working right can you fix the
+lock then that's where they are
+involvement comes in and fixing
+that particular luck um so
+that agencies also potentially
+could be looking at chairman
+members that the committee LA
+large cost is outdated and
+unsupported systems so for
+example if i'm using this device
+and it is not being supported
+that's a large cost that's a
+state would be looking at
+because you'll need to replace
+that whatever agency has this
+type of device I graduate the
+ecosystem so and we need to be
+that's where the cost comes in
+and has.
+Such a
+members that the committee this
+is that
+thank you members to answer your
+question.
+Yeah there is answer question
+it's it's and I know roger can
+say it but it's it's a ticking
+time bomb we have I mean there's
+hundreds of thousands of
+honorabilities that we're
+looking at we're looking at
+things daily we're constantly
+putting out fires you know every
+single day every single moment
+and anyone else fires
+potentially could be millions of
+dollars that we have to come up
+with so we've been very very
+lucky that nothing has happened
+but the potential is there and
+so there's two falsers how much
+money we need to fix all of the
+problems that we have and how
+much money we need if one of
+those I think it was twenty two
+thousand dollar abilities
+critical water billions we saw
+last year gets through how do we
+fix that and so we're we're just
+we're just doing the best we can
+to keep things contained
+if they do happen
+check chairman members of the
+coming up chairman members of
+the committee
+the the some of the technicals
+are details with some sensitive
+date can be.
+Denning a closer ship if
+possible.
+Yes I have we can definitely
+yeah.
+Okay sure
+sorry didn't recommend
+thank you very much manager
+motion for a close session I
+only have it emotionally in the
+second.
+Yeah.
+The material for them.

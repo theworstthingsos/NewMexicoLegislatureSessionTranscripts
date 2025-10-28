@@ -1,0 +1,6076 @@
+The.
+All right I first presentation
+is cyber security training for
+legislators in the latest slate
+of staff shannon caspier
+director of it seems and council
+service whenever you're ready
+thank you.
+Good afternoon madam chair
+members of the committee as
+manager said my name is shonnie
+keysphere I am the director of
+the legislative council service
+thank you for inviting me to
+discuss with the committee the
+legislature's approach to saver
+security training and awareness
+for staff and legislators
+i'm at first like to share that
+the legislature has a quite
+robust site cyber security
+operators it is multi facility
+and dynamic and evolves with the
+changing cyber environment and
+emerging threats.
+Due to the power of this
+security operators the
+legislature has never had a
+significant cyprus security
+incident issues are identified
+prevented isolated and blocked
+in real time efficiently and
+effectively.
+But without being said everybody
+who uses the legislator's
+network legislators and staff
+there on the front line of
+insuring the safety of the
+network up to deep sharing our
+best practices and training are
+crucial to the continued
+security of this network
+in the last couple of weeks i'm
+sure you have it received the
+emails the legislature has
+rolled out in ongoing cyprus
+security train program for
+legislators and stuff this
+program it is called arctic
+wolfs manage security awareness
+program it focuses on focuses on
+reducing human related cyber
+risks by education employees and
+legislators to recognize and
+neutralise social engineering
+attacks it achieves us through
+continuous engaging and micro
+learning content and automated
+fishing simulations the program
+aims to strengthen our security
+culture by improving awareness
+participation and overall risk
+mitigation.
+This approach is not a one and
+done training but is ongoing
+training that keeps user skills
+a sharp it keeps our skill sharp
+and identifying responding to
+and mitigating the same security
+issues but no doubt will get to
+our network.
+The objectives of this program
+are to enhance protection to
+equip staff and legislators with
+the skills to identify and
+counteract social interesting
+tactics like fishing it also
+strengthens the legislature's
+resilience it helped staff and
+legislators to recognize and
+report potential security risks
+including human errors that
+could oppose sensitive exposed
+sensitive data and lead to
+account and our network
+compromises.
+Some of the features of this
+training are micro learning
+content is a short letter five
+minutes or less so the very
+accessible they're easy to
+complete and their delivered
+regularly every one to two weeks
+and this is intended to maximise
+employees attention and
+information retention and to
+keep these issues on the
+forefront as employees and
+legislators are using their
+computers using the network
+email engaging on their phones
+etc.
+The topics that will be
+addressed through this program
+include red flags of the scam
+recognizing compromised emails
+and fishing emails spotting and
+reporting suspicious activity
+protecting mobile devices i'm
+sure you know all of us are on
+our mobile devices doing the the
+people's business on a daily
+basis I had also includes
+malware and mel malvertising
+which was a new word to me I am
+just a name of a few of the
+topics that will be covered
+there also automated phishing
+simulations these are realistic
+simulations that assess and
+reinforce employee and
+legislator awareness based on
+real world fishing scenarios
+some of you may have already
+received one of these are
+hopefully we were all keen
+enough to recognize that they
+were simulated fishing attack
+and didn't click or open or
+otherwise engage with the
+material if the user does click
+on efficient link they're not
+punished but they are regarded
+to what information to look for
+in the future so that they can
+recognize uh these fishing
+attempts and be better prepared
+to prevent them and i'm gauged
+with them if it happens again
+a benefit of this program is
+reduced fishing interactions are
+in incidents most successful
+attacks begin with a user
+account being compromise be the
+efficient or getting user to
+click on a link.
+This also creates an improved
+security culture it engages
+users and provides relevant
+training the program fosters a
+more security conscious culture
+not only for the work
+environment but also for a
+personal cyber security and it
+also reduces the human risk
+which really is
+I would say one of one of the
+weak points in all of our saver
+security networks are the humans
+who are interacting with it
+but it minimizes the impact of
+human air and social enjoying
+tax and over overall reduces
+rescue generally to the
+legislature's network
+this article training program it
+also provides our alliance staff
+legislative information system
+staff with analytics to assess
+user compliance with the
+training program and the success
+or failure of users and
+recognizing the simulated
+threats or engaging with the
+material the stature will enable
+all I asked to pinpoint issues
+or users that may need
+additional support resources or
+training to become more cyber
+security savvy in as since this
+article made a security
+awareness program it transforms
+traditional security awareness
+training into an ongoing
+engaging and measurable program
+that strengthens an
+organization's defences against
+the human element of cyprus
+security threats thank you
+madame chair I stand for
+questions.
+All right thank you do we have
+any questions.
+Okay
+center pretty
+thank you madame chair just to
+two words thank you
+and what would we have had any
+money I mean we shouldn't say
+that when you did say we have
+not had a single
+attack here or whatever on the
+legislature and I think that's
+just that says a lot about the
+work that you and your team were
+doing and other work and really
+hard over there to make sure
+that they had here to all the
+policies procedures and standard
+operating procedures so thank
+you.
+Okay thank you.
+Thank you madam chair and think
+you
+miss casper um I just was
+wondering if you give us a
+little bit more historical
+context like as the legislature
+has evolved into the digital age
+have all of the systems been.
+Kept up with this I rescruting
+risks in the eighty changes
+overall if you can answer that
+madam chair senator thank you
+for the question
+excuse me I absolutely and of
+course in this eighteen
+environment the same security
+environment I think they're
+changing daily and individuals
+out there who want to do harm to
+any network are innovating daily
+and so the tools that are there
+to uh prevent to identify to
+quarantine etc must also be
+improved daily so there are
+multiple and resources that we
+do engage with working sometimes
+with a federal um sources of
+information to identify what are
+the most prevalent new
+approaches that are being taken
+in this field
+we are also you know working
+with our cyprus security
+partners and vendors on all the
+latest and greatest technology
+to
+to counter such attacks because
+the question really isn't if a
+network is going to be attacked
+as when and to say that we have
+never had any significant event
+that is absolutely true but on a
+daily basis our network is
+flagging suspicious activity
+it's quarantining emails it is
+bringing alerts if there seems
+to be some intrusion that it's
+not and the usual course of
+business so these are these are
+daily
+maybe even hourly occurrences
+that are listening is
+deliciously working on behind
+the scenes and the training for
+legislation staff is just
+another tool to help us be is
+prepared and to prevent as much
+as possible we can at the cybers
+period
+but with the the network does
+have numerous cyber security
+measures and this committee did
+receive a presentation last year
+and executive session imagine
+you mean I had been present for
+that
+where all of those specific
+protocols were discussed and
+whenever there is a new
+technology or a new.
+Way to prevent against his
+attacks comes to our light we
+are exploring that with our
+vendors and implementing the
+solutions
+the security of the legislative
+network is a pair mount
+importance we recognize there's
+a lot of sensitive information
+on that network I mean not just
+um you know employees but all
+the confidential information and
+that you is legislators provide
+to our staff so that you can
+undertake your duties so keeping
+the network secure and safe is a
+top priority and the tools that
+were using to prevent cyprus
+security attacks is an ongoing
+evolving mission.
+I'm next is a representative
+little.
+I think you manager so and
+thinking very much for the
+very good piece of information
+the information you provided
+this afternoon I was going
+through my emails and checking
+to see if I missed any of the
+trainings that you mentioned
+might be offered I I google I
+looked up in our legislative
+emails service security trading
+I didn't see anything coming up
+is are they actually the turkity
+to legislate towards as well as
+it mostly for staff manager
+thank you madame chair
+representative it was my
+understanding that it was
+targeted to all users of the
+network I will double check on
+that but however you may want to
+try ah searching for architect
+wolf arctic wolf and I know that
+earlier
+the belief it was a little late
+last week I received a training
+and it was approximately a week
+or two ago previous to that that
+are training but a little check
+with my life staff to ensure
+that that would be great I don't
+I didn't see it under their
+funded into that either but I
+would like to
+I think it could benefit from
+the tabletraining think you so
+much madam chair
+think representative next is
+senator pope.
+Thank you matter and thank you
+for the presentation I think
+part of my question was asked
+but
+I think this is get positive
+news and I know we all open up
+our emails and.
+Have to release them sometimes
+and we understand the system is
+and trying to protect the
+system.
+Um can you talk a little bit
+more about how you are dealing
+with
+emerging threats and and how you
+deal with that going forward
+especially with what we were
+talking about today when it
+comes to a chat barts a I and
+other systems because as folks
+are even used start using more
+of that even in the future how
+are we going to protect our
+systems thank you material.
+Madam chair senator
+so I think a large part of
+preventing
+such a tax or been able to
+recognize chat box recognizing
+fishing scams recognizing that
+scams generally is that user
+awareness and that user ability
+to look at an email and have the
+slightest thing stand out as
+being suspicious I know there
+have been some emails that have
+come in and it may have said
+like director at you know some
+random u r l and somebody who
+just looks at it briefly says a
+director maybe that's coming
+from channel that's an okay
+email but we need through these
+trainings to be able to look
+that second step the little bit
+deeper
+to ensure that what we are
+responding to what we're
+replying to what we're clicking
+on is legitimate and is not
+going to open us up to
+some kind of attack I have to
+say though that the system the
+security systems that we
+currently have in place are
+extremely effective and
+efficient I am aware of one
+incident that happened several
+years ago where there was an
+attack to an employees computer
+and they had opened up I believe
+it was some pdf for or some
+other document attachment and
+the system recognized it
+immediately and sequestered bad
+employees computer so that
+the malware or whatever other a
+bug was being put on the
+computer did not travel further
+than that employees computer so
+the network itself was
+completely safe and was you know
+shut off from this employee's
+computer and the infection that
+that employees computer hot so
+with that being said as I I
+mentioned earlier these threats
+are involving daily people out
+there who want to do harm to
+networks are very very creative
+and very motivated to two
+innovate within the space and so
+our team in conjunction with the
+cyber security vendors that we
+work with are keeping a post on
+this constantly.
+And are really relying on those
+experts to adjust and to
+reassess as to wear
+vulnerabilities might be and
+then to take corrective and
+proactive action from there
+thank you madame chair and take
+you director then get on a a
+great point I think these
+systems are great but the end of
+the day it's that that users
+well in getting that training
+and I know in the air force we
+would get this mandatory
+training and they'd have these
+like fake emails and see if you
+clicked on her things to kind of
+even get you used to that now to
+just opening every email that
+gets through
+and that's all I have thank you
+manager.
+I think senator I did have a
+quick question
+like like represent a little
+said I I looked for artic
+would use it or I look forward
+in my email and I don't have it
+in in mind at all so I I went is
+it maybe not coming to the house
+did anybody else said it has it
+but
+but but I think the senators
+have it but I don't know the
+house has it
+you have.
+But did you get it before that
+so I didn't get it so wonder
+where it's not coming to you
+madam chair if I may
+so III believe the trainings
+would be delivered to
+legislators and i'm legislatov
+email account ma- maybe that is
+the account that you looked at I
+can certainly
+double check that to ensure
+because of course
+well I believe anything are last
+stuff believes that you know the
+training needs to be it will be
+most effective if all users are
+involved so I will I will double
+check that with our staff but it
+should be out to all all
+legislators.
+Right I just worried if it
+didn't come to some of some of
+the house then because I I know
+I searched everything and I
+didn't have it so um so can you
+tell me more about exact is it
+it's so is like a teacher
+training where you have videos
+and you take tests and then and
+then you just have basic.
+Madam chair yes so they are
+short
+short
+services are going to save funny
+at another funny as the word but
+they're you know they're kind of
+light hearted their creative
+videos that delve into these big
+topics and important topics of
+cyber security there they're
+generally pretty brief so three
+to five minutes and I think the
+the thinking there is that
+they're short enough that
+everybody can put that into
+their time schedule it's not
+really a big time commitment uh
+to get some to glean some really
+important information that'll
+help keep your computer our
+network etc i'm safe so there
+are these trainings and they're
+on these district topics and so
+throughout the year or
+throughout the the weeks there
+will be cycling through various
+cyber security topics places
+where folks need to have a
+little bit more education are a
+little bit more awareness of the
+issues and then there are
+additionally these are simulated
+fishing attacks and so you'll
+receive an email I was well I
+maybe shouldn't mention one of
+the examples I don't want to tip
+anybody off but you'll receive
+an email and you know it's up to
+you to kind of determine is this
+suspicious for the various
+reasons that these videos have
+have trained you on to recognize
+and to look for it in these
+emails
+if somebody does receive one of
+those emails if you click on it
+if you I mean if you open the
+attachment to click on one of
+the links it will do kind of a I
+think it's like a surprise on
+your screen saying oh oh
+oops and then what can I give
+you some follow up information
+to point out what in the email
+should have been a little bit
+suspicious and maybe tip the
+user off i'm asked to at being a
+phishing attack so there's a
+randomly sent
+and will continue throughout the
+training.
+It's a great way to do it and s-
+smart chunks
+and an surprise is better than
+you really book yet so that's
+get that's good all right those
+are my only questions I can't
+wait to see it before you get it
+soon thank you and in any other
+questions.
+All right thank you for your
+presentation thank you madame
+chair members of the committee.
+Right since we have a core we're
+gonna do the minutes really
+quickly
+so I just need a motion I know
+you read it it's not very long
+the minutes and so
+many.
+Motion by representative in the
+second second buyer senator
+bring fruit
+pregnant.
+In.
+Turn to the motion
+thank you.
+Can we try the video real quick.
+The.
+And if the next presenters would
+like to come up with the new
+mexico higher than university
+forest and watership restoration
+institute if you'd like to come
+up right up to the video start
+with you thank you.
+Alright
+good morning i'm chris more or
+other chris more two point zero
+despite all the fear
+artificial intelligence is
+wonderful and trustworthy I am
+better than the version of
+christmas
+i've smarter faster and much
+cheaper i'm here and make
+decisions for you so you don't
+need to deal with complicated
+facts and I promise not to make
+anything up don't listen to
+these participant informed
+professors please is vital that
+you as state legislators take no
+action no action whatsoever to
+regularly artificial
+intelligence.
+And I think it was that was a
+deep fit great and you could
+tell by I could tell is anybody
+else what else could you tell by
+his is his words weren't similar
+the coloring.
+He didn't blink I didn't watch
+okay now that to keep anything
+else anybody else.
+The.
+Kill we watch it one more time
+just to put to look for thank
+you if you can good morning i'm
+chris more than chris more
+despite all the fear mongering
+artificial intelligence is
+wonderful and trustworthy I am
+better than the version of chris
+more city i'm smarter faster and
+much cheaper i'm here to make
+decisions for you so you don't
+need to deal with complicated
+facts and I promise not to make
+anything up don't listen to
+these parties informed
+professors please it's voice
+state legislators take no action
+no action whatsoever to regulate
+artificial intelligence.
+The.
+Ah okay
+and in is for his words were
+just occasionally.
+I mean it the tech the
+technology is going to get
+better I mean
+you know just reflecting on the
+legislation that I had amount
+here I just
+would i'm seen as i'm like
+scrolling through reals and
+things I and social media is
+that they're using
+you know a celebrities and
+others and you know elected
+officials and things and putting
+words in their math literally
+and this is coming across it you
+know they're these are
+advertisements in in such that
+are allowed on the social media
+platforms and i'm just.
+So a disheartened with the
+federal regulation around that
+because they have they've been
+deregulated and suit the fccu is
+responsible for having a better
+management and controls and if
+they can do it then we need to
+do something in our state thank
+you match
+and he said he did it with just
+a few words or sentences that's
+how they needed and I heard that
+before were they could take
+those words off the internet
+somebody speaking of the
+internet and then create a whole
+video like this so it's live all
+scary and we I guess we just
+have to be more
+we pick we need to pay attention
+I think alright thank you
+all right we're ready for their
+next presentation again to
+mexico highly university
+forest and watership restoration
+institute.
+So who would like to start but
+go ahead i'll let you be in
+charge.
+Thank you
+good afternoon madam chair and
+distinguished members of the
+science and technology committee
+we are new mexico force and
+water said restriction institute
+located in mexico home
+university out of las vegas new
+mexico thank you for having us
+my name is buddy reverend the
+deputy director for the
+institute and with our
+basketball team here today real
+people are no no deep fakes
+doctor michael tomzak
+researcher.
+Can you with no gis
+daniel using failed gis and
+doctor michael roberts
+researcher we would like to
+offer an opportunity to
+introduce ourselves to you and
+let insure with you who we are
+what we do for this state of new
+mexico and the science
+technology that that we bring to
+the table as as it pertains to
+wildfire wildfire present uh
+prevention and and the like so
+slightly.
+So a quicker agenda for today we
+have about thirty minutes of
+content that we'd like to share
+with you and then leave the rest
+of the hour open to any
+questions from the floor again
+we'll introduce ourselves to you
+talk to you a little bit how we
+do what we do where we do it and
+and what we do to get things
+done next like
+okay back in two thousand four
+and active congress created the
+southwest ecological restoration
+institutes through that act of
+congress there were three
+institutes established across
+the intermount west one was the
+ecological restoration in the
+state of arizona northern
+arizona university and flag
+staff there's caller at a forest
+restoration institute at csu and
+for collins and of course the
+new mexico force and water said
+restoration institute at
+highlands university so
+collectively weird called sweary
+or the southwest ecological
+restoration institutes the
+intermountain west as defined by
+the act includes six states so
+of course they are the four
+corners plus nevada and idaho at
+the present time the three
+original squareies are the only
+designated swearies and that
+exists today twenty years later
+however within the next year or
+two we do expect nevada through
+university about it reno as well
+as you taught you toss state
+university to join our
+collective group.
+Ena shortly thereafter after the
+act was was created weird
+designated by the chief of the
+US forest service in
+consultation with a department
+of interior to become the
+designated state a few months
+later the a charter was signed
+by the governor's at that time
+as well as the president at that
+time across the three states for
+universities.
+To basically offer the
+overarching guidance of how the
+swearies would act within our
+individual states and how they
+would be supported this is a
+joint it's it's a public venture
+but it's joined federal and
+state supported our entity next
+slide please
+so what is it that we do well at
+a very high level
+what we do as a collective
+stories we research we
+synthesize we share and support
+so we do
+um
+primary and secondary research
+on wildfire wild fire effects
+the recovery of our ecosystem
+and.
+And any social science that is
+that associated with with
+wildfire we sympathize what that
+means as we bring together other
+research and try to distill it
+down to a user usable level so
+that it can we can then take it
+and share it with land managers
+fire fighting entities any
+affected entity and that could
+be a
+the federal state or community
+level as well as private land
+owners and then we show support
+to any affected entities again
+that could be private landowners
+state state land managers or
+federal land managers
+next slide.
+So as an institute at highlands
+we basically have three key
+pillars to
+to institute or organization we
+have our civic and community
+action group and they do
+specifically claboration
+conservation restoration
+education as well as research we
+have technical and applied
+science which includes
+ecological monitoring gis and
+research and then of course we
+also have administration there's
+a total of about twenty two to
+twenty six full time staff that
+work at our institute there is
+usually a couple of folks that
+are seasonal staff that join us
+for the for the summer field
+season and we can have anywhere
+from two to four students or
+interns and of course there's an
+administrative
+you know duties that have to go
+along with at there's logistics
+there's travel there is we buy
+stuff we have vehicles to
+maintain we have tools to buy
+and and.
+And the like next light.
+So where do we work well we have
+a state wide mission and also we
+have a southwestern mission so
+at least here in the state of
+new mexico you can see all the
+dots in the slide that are that
+that we do work in so you know
+essentially it's the forested
+areas of new mexico so so
+obviously the north central
+mountains central mountains down
+into the silver city area the
+human national force and then
+and then the redo so community.
+Next light.
+So are functional areas
+we have we have several
+different areas that that are
+folks have different talents and
+so the first one will talk about
+his conservation in the
+restoration education this is
+this is a team that provides.
+Trainings workshops or
+educational programming for ca
+through twelve students to
+introduce them to the
+environment that they live in so
+for example if if a private land
+older wants to learn a little
+bit more about felling trees or
+or creating structures that can
+help hold back erosion through
+the your royals that that have
+been uh cut through road rights
+or that sort of thing we do
+provide some technical training
+in that sort of in that sort of
+environment for catherine twelve
+it's really about promoting stam
+education in to our local
+communities we
+we you know over the past couple
+years we've held an outdoor
+education programming and more a
+county post herman speak cafe
+canyon fire to get the kids out
+there playing in the forest that
+they've had in their families
+for generations and get them
+comfortable with with
+understanding the recovery
+understanding what sort of
+techniques can be used to help
+hold back erosion and the
+flooding that's that's been
+occurring since then
+next the next area is
+collaboration it's it's just
+like just like it sound it's
+about bringing people together
+with with similar missions
+similar purposes to to said at
+the same table and come up with
+with planning programming and
+activities that that lead to the
+common goal of of ecological
+restoration
+in in collaboration we have a
+team of two folks that travel
+throughout the state to to
+ensure that that the different
+entities get together for the
+common good we could participate
+in in state or local municipal
+governmental agencies ngos or
+even.
+A secure associations water
+conservation districts so that
+they are aware of any of the the
+contemporary science that has
+come out about water quality or
+forest restoration that sort of
+stuff in and they can then take
+it down to the user level and
+have an impact on their local
+communities slight.
+Gis I won't touch on that
+because we have two presenters
+here that can dive into that a
+little bit a little bit deeper
+ecological monitoring is in area
+where we see we establish plots
+throughout the forest across new
+mexico and we visit these plots
+in in time it could be once a
+year could be every couple of
+years could be longer than that
+just to measure what has changed
+in the forest over over that
+launch or two period we have
+some plots to go back about
+fifteen years and we have taken
+measured data and an and
+recorded information on what was
+present on this specific spot.
+You know of going back to two
+thousand seven two thousand
+eight and see and how it's
+changed over time with this does
+it it allows it allows science
+to take that data and and try to
+measure what is happening in
+that environment are there more
+animals coming through are there
+fewer animals coming through
+what has happened you know since
+that fire that passed through
+here you know ten fifteen years
+ago and and what what's coming
+back is at the ponderous a pine
+is a junior per is it as been is
+it is it oak and and what sort
+of
+changes in that local in that
+local piece of land are
+happening
+it's it's been something bad
+that is sort of a dying art this
+used to be more common across
+the southwest and and it's just
+dumb not too many folks do it as
+much as they used to there are
+certain remote censors through
+satellites or or drones that
+they can help assist this and
+and we do participate in using
+those types of tools as well but
+we also participate in the
+ground choosing of it to verify
+that what the sense or sales is
+actually what's happening on the
+ground okay and then next is
+research and so we have some
+technical applied science
+research that could be
+biological could be water
+quality it could be more ecology
+based then we also have some
+social science research that
+goes along with that and it just
+in that that can vary from you
+to your depending on what
+questions are what research
+questions are are are asked you
+know what is the impact of the
+thought of prescribed fires how
+do the people feel about that
+how you know at some point
+if they're smoking the air at
+one point do folks become
+uncomfortable with with sea and
+smoking here is it one day is it
+five days at a week or in our
+folks not too concerned about it
+at all because they know that
+this is par.
+Next line.
+Okay at this point i'd like to
+hand it over to my colleagues
+here are doing a using bill
+thanks buddy good afternoon
+madam chairman members of the
+committee my name is dean
+hisingfield i'm a gia specialist
+with the new m.
+And i'll be starting and talking
+a little bit about giant set the
+institute and some of the tools
+that we use to support people
+impacted by wildfire and then I
+will pass it to my colleague
+keeping to talk about how the
+tools come used for land
+management forest management
+support.
+Um so just new mexico for some
+irish administrations to
+so gis stands for geographic
+information systems these tools
+capture manage analyze and
+display data related to
+positions positions on earth
+surface they help us understand
+patterns processes and
+relationships that are on the
+landscape at a larger scale.
+We use gis to support reducing
+the risk of wildfire and
+encouraging effectively ended
+for us management in new mexico
+and we do this through many of
+the prices that you see on the
+right of the side here.
+And we also participate heavily
+a new mexico's gis community
+including monthly and by annual
+meetings across the state this
+includes a new max cogiographic
+information council and the new
+mexico to your special advisory
+committee
+also will be showing a few
+videos and examples of these
+tools we have provided the urls
+for everything at the end don't
+worry about quickly reading them
+down
+excited please.
+The first tool that I will be
+talking about is the new mexico
+fireviewer and this is what are
+tool that we've used to bring
+critical fire information to you
+mex accounts it was originally
+developed during the hermit's
+peak cafe canyon fire it
+combines information from
+several separate sources into
+one website and one map that
+those impacted can only only
+need to go in the.
+The.
+Ah the layers include fire
+boundaries satellite imagery
+hotspite detections smoke
+forecasts building footprints
+post fireburn severity and many
+more depending on what's
+available in the area of the
+fire.
+The.
+So this tool is at a number of
+you are dot org again the urls
+will be available to you later
+as soon as you go into the tor
+it's centered in in the area
+right now and you can click on a
+fire to get more information
+and if you're zoom and you'll
+see these red sponses are
+hotspots detections this can
+help to hint at where the fire
+might be moving next to give
+some such relations awareness
+there is a smoke forecast to see
+where the windsmoving what
+communities might be impacted by
+the smoke that are might not
+actually be impacted by the fire
+itself.
+You can also search by an area
+so we're going to go to rear do
+so.
+Erm the footprints of the south
+work insult buyers as using
+assuming you see these blue dots
+are the building footprints.
+Others of burn severty then you
+can change the transparency of
+this to see
+how much of burned in that
+particular area we have flood
+zones from fumer and then also
+these stream gauges that you can
+click on and the live usgs
+strength age to understand
+what's happening hydrologically
+in that area
+now we're going to go back to
+less vegas.
+Scar of the hermets be cafe
+kenyan again these are statewide
+data sites you can see the flood
+zones the stream ages are also
+available here
+click to find our inf.
+Here we also have the berry
+severity again to understand how
+that via impacted the the ground
+and we also have this false
+color imagery it's called color
+and thread and this helps to
+understand just how much the
+fire impacted the vegetation so
+as you can see a light of
+information just on one map.
+The.
+So again new york school fire
+viewer this is how we're keeping
+new mexico informed when it
+comes to wild buyers in our
+state.
+It's accessible and free since
+twenty twenty two it has been
+critical to the community
+impacted by the hermit's peak
+half canyon fire it was shared
+on the city of router says
+website during the south for a
+consult fires
+and the layers are updated we
+have controlled this so the
+leaders are updated and the map
+is literally refocused based on
+current fires so if you were to
+visit the website today it'll be
+focused on in the healer area
+and focused on the goose trout
+in turkey fires and just to get
+some numbers for a website views
+over the
+extent of the hermes peak cat
+found buyers are of your got
+over three hundred thousand
+views during the south for
+consult it got over a hundred
+and seventy five thousand and
+then just recently with the
+fires that are happening in the
+healer we already have over ten
+thousand hit so this is a tool
+that.
+Another tool that i'd like to
+talk about is the hermes peak
+caf kenyan fire hub site
+in this was a tool you created
+to support and empower those
+impacted by the big fire up near
+us and last vegas new mexico.
+Hubs and general the tool serve
+as go enabled websites to engage
+with communities.
+We started this shortly after
+the fire began in order to
+provide a secure space to share
+data between local.
+The license that we have for
+this tool allows us to create
+accounts so that these groups
+that otherwise have no way to
+talk amongst each other and at
+different skills we were able to
+create accounts and create a
+website for them to share
+information and data.
+But at the same time that's for
+accounts we also have a free
+public side the people do not
+need to count so and that side
+we hosted maps information and
+links to critical resources
+which included community support
+resources recovery information
+live weather wardings learning
+about mitigation and how to
+protect your home and defensible
+space as well as a calendar that
+had all the upcoming community
+events this was you know sand
+bag string post via flooding
+this included food and water we
+had some water issues after the
+fire and then of course we had
+this page that was account b.
+Another video so again that you
+are else available this is.
+The.
+Where the hump has you know some
+immediate information that could
+be helpful quick links to claim
+information signing up for
+emergency alerts and weather
+information
+we embedded some weather website
+so they were automatically
+updated and helpful that he has
+and mapping resources and as of
+now the new mexico fireviewer
+that I just talked about is.
+We have a community resource
+page that right now hosts the
+community the long term recovery
+group.
+The committee events as I said
+there's a calendar that has
+updated upcoming events and we
+also have all the previous
+events
+recorded as well for.
+It's it's just several embedded
+facebook pages twitter pages and
+so once one place and people can
+get updates from many different
+groups and topics.
+We have a page on mitigation are
+information
+i'd say there's probably two
+hundred l.
+And the about legal aid as well
+the postpaid recovery this holds
+documents that the female has
+done through their research.
+And then the last two pages are
+a restricted pages and for
+instance this restricted page
+has a separate map it's not the
+public one because there were
+some layers that did not want to
+be shared publicly and they also
+we have some meeting minutes and
+some additional information.
+To wrap this up the hermit's
+peak cafe can and fire hub say
+it is how we continue to support
+their same gallery modern county
+communities it's still serves as
+the main website for information
+and resources for those impacted
+by the fire especially the long
+term recovery support group we
+are the website for those
+groups.
+We are planning a revound in
+twenty later this year to
+address current needs the burns
+guard there's still chances for
+wildfire instead we're updating.
+Give information of this new
+reality that we live and the
+main listen that we learn from
+all of this is that always helps
+to plan ahead so next slide
+please and to step back just a
+bit a minute wild face the new
+mexico I think most of us know
+it is now part of early endscope
+unfortunately in the past ten
+years there have been over five
+hundred fires in our forests
+over two million acres have
+burned there have been twenty
+three megafires in the region
+those are fires over a hundred
+thousand acres and as we know
+most of our fires result in
+devastating post.
+So another tool that we created
+wise the new mexico post fire
+had template in order to enable
+new mexico leaders to provide
+gis post fire support to their
+communities and this was based
+on the the hermit's peak have
+say so it comes as a template
+it's already preloaded with
+information on community support
+media links fire resources a
+calendar the new mexico fire
+viewer is the default map and
+again there is an optional
+restricted page the site is free
+and it's h.
+University and it comes with.
+The.
+And now I will be passing it off
+thank you madame terrance and
+there is the committee i'll be
+passing it to my colleague katy
+with no to talk about their
+management and forest
+management.
+The.
+Think you madame sharing members
+of the committee my name is
+kitty with no i'm a giant
+specialist indeed a manager with
+the new mexico force in.
+Our next tool that i'd like to
+present it's a new mexico
+vegetation treatment your
+database this is a collaborative
+effort with agencies and ngos to
+develop up to date accessible
+information about forest and
+watership restoration in new
+mexico
+it enables land managers to
+access data that can help them
+make decisions about how to
+invest funding in a way that
+compliments past restoration
+work and achieves a larger.
+This was first developed in
+twenty fourteen by the mexico
+force to march had restoration
+institute and we continue to
+maintain it with courtly
+updates.
+The geo database contains
+completed in progress and
+historical vegetation treatments
+these treatments include
+projects for forest range land
+repairer and noxious we'd
+management
+we have many partners
+on this project twenty one
+agencies are participate
+including the forest service blm
+and other department of interior
+agencies as well as state
+forestry division state land
+office some tribes and publish
+and others such as well and
+water c.
+Here's another video a short
+demo of the vegetation
+it's it's a vegetation treatment
+stop work.
+As you can see it at the load
+slowly there are tens of
+thousands of treatments zimming
+in you can look at different
+treatments click on them to get
+some information about them and
+also open the attract table
+which will provide all of the
+full information on that project
+and the operation corner there's
+a couple map tools the legends
+that you can see what those
+different colors mean as well as
+a layer list to add other layers
+such as fire history and la.
+And we also have a report tool
+which allows the user to either
+upload a boundary file from
+their computer or simply draw an
+area of interest on the map
+to summarize.
+All of the treatments that have
+occurred within that area of
+interest.
+There is also the abilities to
+download all of these treatments
+either in geospecial file
+formats or as as a spreadsheet.
+The.
+And we also have the ability to
+create a report with a map
+and the list of all of this.
+There is also an upload tool so
+we have a separate attached
+website so that people can
+easily contribute their projects
+by filling out this forum and
+uploading their files.
+Next.
+So the domestic of education
+treatment you
+have been very successful it's
+it's used by agency staff at the
+forest service new mexico state
+four or three division for a
+land management planning it has
+been incorporated in two
+community wildfire protection
+plans as well as collaborative
+forest restoration program
+planning a number of
+collaboratives around the state
+such as the greater santa fe
+fireshed coalition use this tool
+for project planning and
+tracking.
+And the new mexico shared
+stewart ship portal which tracks
+are planned projects in the
+state uses our data to show all
+the.
+The success of this project i'm
+lead to getting the attention of
+some staffers in washington DC
+who wrote us along with our
+sister institutes in arizona and
+colorado into the twenty twenty
+one by participant
+infrastructure la
+two provide funding to create a
+similar product at a national
+scale.
+So with this funding we ended up
+creating the research program we
+shape is a program to compile
+national fuel treatment and wild
+clarity to in a centralized
+place.
+In order to better understand
+the impact's fuel treatments
+have on a wildfire behavior
+support the planning and
+implementation of future
+treatments encourage the
+collaborative landscape approach
+to managing our forest.
+We are currently in your three
+of a five year project with
+this.
+And one of the resulting
+products is called the treatment
+and wildfire in our agency geo
+database or twig it is currently
+in beta version with the
+production version coming in
+october of this year.
+Here is a demo of tweg which is
+available at reshoot wildfired.
+We currently only have federal
+data in this database
+so that is data from the forest
+service and the department of
+interior agencies there are many
+different ways to filter and
+search this data by looking at
+the funding treatment types acre
+is a year and searching it by
+name there's lots of different
+options we can also look in
+search and filter wildfires so
+we'll look at the south near
+weirdo so now.
+And once you select that fire
+and zoom into it it'll provide a
+lot of information about that
+fire as well as the list of all
+of the treatments that have
+intersected that fire boundary
+and and they're coated as
+whether they occurred before the
+same year or after the wildfire
+you can also download all this
+data and many different formats.
+And you can also click into
+those different treatments to
+see more information about them
+we have a representative summary
+tab and this is to a summarised
+congressional districts and
+states for senators so we'll
+look at gave us this is district
+in southern new mexico and this
+will summarise old the
+information about treatment in
+wildfires that have occurred in
+that district along with funding
+information how many structures
+are in that district and what
+percent of the district has been
+treated and lots of other
+information along with all of
+the treatments and wildfires
+that have occurred and the
+ability to download all of those
+there's also an option to turn
+all of that information into AP
+d f report which you can print
+or download.
+The.
+The.
+We also have the option for
+creating these summaries for
+other types of areas so you can
+either draw your own area or you
+can select a different feature
+from the map such as the forest
+service boundary watershed
+boundary or even upload your own
+boundary file to summarize.
+And then finally we have a daily
+wildfire progressions this
+allows us to visualize wildfire
+spreadsheet at the legal and a
+fire that started at the
+beginning of this month you're
+going in new mexico and view of
+the day to day change in the
+perimeter as a spread this is
+also available to the public to
+download arm and this is a great
+resource for researchers who are
+trying to better understand.
+The.
+So some of the stand out aspects
+of this tool are that we have
+federal data wildfire data and
+burn severity data all in one
+place we are open access there's
+no login credentials needed to
+access this data anybody can
+download it.
+And we are also open source we
+actually provide the code for
+how we develop the database on
+our get hub
+and then we also have those
+dealing fire perimeters and
+visualizations.
+The.
+So while reshape is a national
+project as many applications
+here in new mexico as I
+mentioned we currently only have
+federal data in this intwig but
+we are incorporating data in
+early twenty twenty sixth
+including new mexico state data
+and so we're very excited about
+that we also have the new mexico
+vegetation treatment at a basic
+and fill in the gap so we can
+bring in outside data into twig
+and so we can bring in that new
+mexico data such as tribal data
+and others to intertwig to use
+for analysis.
+Um and then one other component
+twig is just one part of the
+reshape project and we
+and we also have another
+component on why i'm looking at
+the effects of bio physical
+effects on on uh treatments.
+And one of our colleagues here
+today neat tomzak is currently
+working on looking at the
+effects of treatments on the
+hermit's peak caf can in
+wildfire using twig data.
+And here's a summary of all of
+the gist tools that we covered
+today i'm along with their urls
+that should all be in your
+packet we do encourage you to
+spend time exploring these tools
+on your own if you have a chance
+there's a lot of other
+capabilities that we weren't
+able to show today to speak of
+limited time
+I do recommend looking at them
+on a component desktop or a or a
+laptop as they don't all have
+mobile friendly versions but we
+are that it's something that
+we're working on.
+And I let see where yes that
+were really proud of these
+projects the funding that we've
+received has enabled us to
+create these great tools for
+mexico communities and I will
+pass it back to buddy
+thank you katy so again we are
+an organization of about you
+know any worse from twenty two
+to twenty five.
+Some seasonal employees.
+These different functions
+together and present tools like
+like wiki and dana just shared
+with you so how do we make all
+of this happen well you know if
+it it doesn't come for free so
+twenty years ago when congress
+it acted the what we call the
+sweary act along with a came
+funding
+back in the early days arizona
+got the bulk of the funding they
+got probably seventy.
+That already.
+A color out of state they didn't
+have anything like this so over
+those twenty years we have
+started with one or.
+To tan and until we.
+In FY twenty four are federal
+appropriation was about six
+point six million dollars and
+that was split three ways so two
+p.
+There's also support from the
+state and that comes from the
+charter of that was established
+shortl.
+That that commitment by the
+status and isn't set and stone
+it's a little bit different from
+state to stay but here in new
+mexico in the early d.
+The federal appropriation is by
+far largest if you look at our
+at our funding donate and this
+is just to look back at why
+twenty four we went through
+about four point.
+Speed and take.
+Out of the four point two
+million about you know two point
+two million came from our
+federal appropriation just that
+single source thirty eight point
+four percent of that or
+you know one point six million
+came from other contracts those
+contracts could be a state
+smaller state contracts they
+could be federal contracts the
+biggest single one on that
+thirty eight point four perce.
+That's a sizable contract
+I want to say that that was
+roughly about seven and a half
+million dollars over a five
+year.
+Then the nine point two percent
+comes from comes from the state
+primarily that comes through
+through a higher education
+department through the ar.
+Mechanism that's something that
+every university has access to
+we put together our project.
+At that level.
+So that's been about any worse
+from three hundred well most
+recent about three hundred and
+fifty thousand dollars per year.
+There's also in kind support by
+the university so they you know
+we are university employees
+we are we have officers to sit
+in internet to access telephones
+to to call on insurers to say
+that and so there's.
+Purchasing human resources
+benefits all the other things
+that regular.
+Have access to what we don't do
+is we don't take any any tuition
+money we don't touch any of a
+student money
+at any given time
+will be managing roughly about
+ten to twelve different
+contracts are varying sizes.
+Landor in the repairing areas
+and
+that so again all those added
+together that's about four point
+two million dollars per year.
+So what are a challenge as well
+one thing happened this year for
+federal fiscal year twenty five
+congress did not pass a budget
+so
+when you have an act of congress
+that creates an organization and
+a funding line that comes with
+it congress says to the poor
+forest service you shall give
+this amount of money to swerry
+and again that's been six point
+six million.
+For fy twenty five that's what
+we were expecting but it's.
+The power of the purse went to
+the office of.
+Essentially the white house and
+gave the power to the apartments
+to make for.
+The.
+The us force service did is they
+had to do a lot of cuts across
+the board some areas of the four
+service were completely.
+The impact on us was a fifty
+five percent car in that federal
+appropriation so we.
+Federal fiscal year twenty five
+is we're still in that fiscal
+ye.
+So we just receiv.
+And that's what we're expecting
+for the next year because we had
+over the last year we had picked
+up other c.
+We can continue our activities
+as we have will have to scale
+down on certain projects as we
+as we act more on the sp.
+In general.
+If congress.
+Working on on other grant
+programs that might be.
+When we just got guidance on r
+PS p for the next fisc.
+Not sure where that were that
+will go bad but we're in the
+process of learning more about
+that.
+So that concludes our formal
+presentation and at this point
+we stand for questions and final
+slightest is and in your packet
+is my c.
+Thank you presenters balance
+back but i'll just start with
+this part thank you very much we
+have a few members who have
+already so they have questions
+where resident of gerry
+represented behind center
+thought in representative
+thirty.
+You minimum chair thank you I
+guess sitting in the audience
+you know that five of us are on
+house appropriations
+and a couple of senate finance
+and an LFC so my question you
+just answered it was the exact
+breakdown of money and so in my
+correct and understanding you
+get some money from her
+education department the
+highlands budget and then some
+from other sources directly line
+items from the budget and my
+understanding that
+your scramp thank you for the
+question yes we do so so we do
+receive our money through the
+rp.
+And we also.
+Through the higher education
+relationsh.
+So it's a competitive process
+you're in your out
+we have been involved or at
+least our institute has been
+involved with our.
+And
+in most academic programs are
+psp is like is considered like
+start up money but in our
+particular case that is that is
+the way we.
+Outside of the kind of part
+thank you and I know
+madam sure I know that will be
+getting more updates on the
+federal sources so i'm and i'm
+sure you'll keep us important I
+have a question we do have a
+listening audience and the
+question I got is
+threats to human health are both
+immediate and long term from
+wild fires and wild via smoke
+their degree of threat to each
+person changes with both the
+intensity of the events in that
+person's pre existing health
+conditions has your project
+worked with health sector data
+sources and organizations so
+that using your data human
+health can be appropriately
+protected from wildfires and
+wildfire
+can you talk about that.
+Thank you thank you sorry I
+can't see where the question
+came from but but thank you for
+that question we are not part of
+any human health experiments
+necessarily where it were more
+about the environmental ecology
+we understand that that smoke is
+not good we also understand that
+that it's impact on our
+ecosystem is not.
+Feed our second in our fish and
+our life.
+So we're more focus.
+The natural s.
+Yeah fire is meant to be here we
+we accept that fire is meant to
+be here but what what's
+different over the last century
+is the number of catastrophic
+wildfires in camps traffic is
+where a fire rolls through in a
+completely destroy.
+Was smaller fires that that help
+the the pinyone junior per
+ponderous says.
+So with with the impact of human
+smoothing to forested areas we
+have to try and find that quick
+balance for years past the the
+force management approach was to
+not to not let fire happen
+that made sense for for the
+eastern us where you know lumber
+was was meld paper was made that
+sort of stuff for western force.
+So really that's that's.
+I can add to that quickly think
+you chair and representative
+is that this is one of the
+things we try to aim with to do
+with our tools is to make free
+and accessible tools for
+everyone we are specialty does
+not cover all those backgrounds
+and so what we can do is put
+that information out there for
+people who can use it in a
+certain way we love to clarify
+it with people if there is any
+tool that could possibly benefit
+someone we are open to
+collaboration and.
+The and one more point is there
+was that that
+without weather service
+integrated into the tool that c.
+Yeah.
+Her data is about.
+The representative of lunch
+thank you matter.
+So
+just try to grab a with the
+seriousness of the these these
+federal budget gaps or cuts not
+gaps or cuts.
+And just kinda going through so
+that you know some of the
+information that we've been
+discussed in what that means as
+new mexico is just been
+dealing with all the the the
+high risk and the fires this
+year
+and throughout the last three
+years like you said the mega
+fires that we've experienced we
+know through
+the shift of climate climate
+change that
+or did reduce these of things
+but with that we are looking at
+proposals of how to mitigate
+that and so but we always look
+towards as the science rate and
+that's the ecological studies
+that are being conducted and I
+assume that is
+I don't know if it's the
+majority on your plate but can
+you how is that distributed with
+you and your interaction with a
+cheap with higher education and
+their ecological
+departments in the science
+departments how do you how do
+you work with them to
+now ensure that this work is
+going to be done because this is
+going to be the there can be
+movements of of budgets that are
+going to be put on to the state
+just as you're asking in your
+node in the cuts that are
+already in place and amount to
+get into it but the amount of
+cuts that i'm you know I keep
+ringing up our severe especially
+around the forestry
+and without
+just the work force alone in and
+what is it two thousand for two
+thousand jobs cut who the forest
+street apartment with that means
+for new mexico but what the work
+you I try to keep a hopeful
+outlook in the work that you
+have done and provided what are
+some of the the functional
+research.
+Information you could give us as
+far as like decreasing other
+amount of
+trees that are there in the
+dents conditions that we have in
+some of the areas and some of
+the other
+risks that we have that we can
+we're all going to have to work
+together to mitigate sorry I
+don't have a bit of way of
+putting that thank you
+representative.
+So you asked a couple of things
+in their soul old touch on on
+the beginning of your question
+and then need a few.
+So how do we how do we take the
+science and share with the
+higher education department well
+we don't necessarily share with
+higher ad because
+we we share it with the affected
+ant.
+Manag.
+Our target audience are the
+affected entities that are
+municipal stage.
+So are number one partner and
+all of this really is is state
+forestry we have a very strong
+partnership with them we are
+members of different committees
+that that they are we we advise
+them on certain things they
+share with.
+So on the academic side the we
+don't necessarily yeah case
+that's not etds.
+You request our money and and.
+With it but the science that
+comes whether.
+We can find relevant to.
+Thank you venture and please
+continue
+yeah thank you.
+Uh on the research side the way
+that we think about fire
+severity is being primarily
+affected by three factors
+there's weather there's
+topography and then there's fuel
+and fuel is all the data live
+plant material on the landscape
+the only one of those that we
+can really change is people as
+that amount of fuel if we want
+to.
+Over and over again in our
+research is the most effective
+tools that we have in our
+toolbox for reducing that fuel
+is a combination of mechanical
+thinning where we send out
+either people with saws or heavy
+equipment to cut some of that
+vegetation out and then it's
+especially effective if we can
+run a prescribed fire through
+under favorable weather
+conditions to remove some of the
+fine
+fuels on the floor of the surf.
+And that has a really big added
+benefit of killing some of the
+new trees there are growing up
+that in tanner.
+More trees than his idea.
+There's a lot of new one.
+Fascinating to dive into but at
+the highest level those are the
+big things we know about
+reducing.
+Think you meant her I really do
+appreciate that that this has
+been the big biggest
+conversation pieces we've had
+and I think all the
+I think someone's mikes on
+hearings that were retending and
+i'm work some of us are heading
+to real desert today again and I
+was just read to two weeks ago
+so this is
+this is going to build upon that
+but regarding your budget it's
+good it's already deep it's
+already impacted so that the way
+that i'm thinking of how you're
+going to mitigate that yourself
+to help us on art as budgeters
+is to increase your contracts
+and so
+if you have a future
+presentation of update please
+keep us updated on that because
+I mean it's just going to be
+the shift of this budget items
+are going to be put upon us with
+the big focus is what what is
+happening in in the field of
+your in your field and so which
+I was just myself and they took
+sure most was one of the
+briefed or kept up on that and
+and you research on that and
+maybe there are some mother
+cross references of funding with
+how the budget is set up I just
+assume because the way you
+introduce with the universities
+being the the pass through I
+guess for your budget but it's
+really you're not really
+integrating in the research of
+what they're they're doing at
+the university levels that
+correct and chair and sorry just
+quickly briefly not interrupt
+but reduce still have a time
+frame so we go to keep our
+answers but it's a little
+shorter thank you
+so you're obviously where to
+word a university our partners
+it in colorado when arizona also
+university so there is research
+that's being done by students
+that does lead to p.
+Actionable.
+By four service.
+We are.
+Again are our primary partners
+in the safe new mexico is.
+Thank you I just I just say just
+just get together with some of
+the inner if we can maybe
+offline have a a conversation
+how you can
+put all this information
+together what we're learning as
+well thank you.
+Thank you senator thorton
+thank you madame chair
+just a few questions I have a
+first one thank you offer
+presentation is very informative
+I appreciate the fact your
+developing and open source tool
+I think I know how hard that is
+to do and it's a lot of problems
+I work to get it to what it
+actually works and people have
+access to itself so I know
+there's a lot of work that went
+into that
+so I live in east mountains and
+then sites to hear a seater
+craft sandia scheme ski area and
+all of that.
+And and I walk to trails on
+rigorous basis and what I see
+there is a a lot of debris a lot
+of dead trees I don't know if
+many of you are aware that
+several years ago we had a bark
+petal issue and they killed a
+lot of the trees there but they
+never came and include amount
+afterwards and so now they're
+falling down and.
+I'm very very very concerned
+about
+the fuel problem that we have
+there and so my first question
+to you is is does your gist
+actually identify dead debris
+and stuff like that in a
+particular forest area
+does it not I know i'm asking a
+lot but first question that's my
+first cla.
+I will say it does not at this
+time the jast tools are able to
+do that but none of our.
+That's what I was afraid of so I
+I kind of I thought I knew the
+answer to that and so so that's
+kind of one of when he could
+slack in and I guess on page
+four you talked about
+conservation restoration
+education that you guys are
+doing
+so one of the issues i'm i'm
+most concerned about is i'd like
+to build a
+be able to remove that debris
+but secondly i'd also like to
+create fighter breaks to have
+access in the event that there
+is a fire so when I look at the
+east mountains I mean I always
+use a cannot be of green and so
+and you know fire school from
+canadian account you know
+necessarily have to go down at
+the ground.
+And so it needs to be fant
+so who has a legislature should
+I be contacting to to get that
+priority in my particular area
+because I do not want to see a
+catholion in sandia park area
+and how would I approach that
+and it's not clear to me what we
+can do as as an individual and
+as a
+as I represent about that
+district to to get that
+mitigated.
+Thank you center for the
+question so it's it it gets
+tricky because what you're
+talking about is is a mix of
+state land private land.
+And so you have this cross you
+have his cross boundary issue
+and who has jurisdiction
+overwhelmed
+I would say that the first place
+to start would be with new
+mexico state for.
+At least.
+What we can do as an institute.
+For private landowners let's s.
+And we may h.
+To ta.
+To the big for the big pictu.
+I think I will do that because I
+have britain you don't so as
+well who have gone through that
+process
+so madam chair I I the other
+question I had with with regards
+to
+you stuff talk about in the past
+ten years there have been over
+five hundred for forest fires in
+the mexico.
+Define the question I ask I was
+going to ask what the mega fire
+was but you said any fire that's
+over a hundred thousand acres
+was considered a megafire and
+we've had twenty three hours in
+new mexico in the last ten years
+in the region and excuse me the
+region okay the region is twenty
+three
+and in two million acres have
+been burned so do we have an
+idea and does your is just
+something that you might want to
+consider
+putting in how much property
+damage has occurred as result of
+the fires that we have had do
+you track that as well.
+Thank you madame chair senator
+part of the resheep program
+another component of it besides
+twig and the bio physical
+effects research is looking at
+the economics.
+Of treatments and and how much
+money you actually save if you
+if you do treatments instead of
+the resulting damage of the
+wildfire and so we do have one
+person who is
+working on that researching full
+time and i'm not sure when his
+results will come out but but it
+is something that we are we are
+studying
+and the reason I ask the
+managers because it's as we
+think about this obviously uh
+preventing fires as cheaper than
+after the fact and and of course
+so there was a huge savings
+associated with that and if it
+costs a little bit to prevent a
+major fire than we're saving
+considerable about money not to
+mention the fact that after a
+fire insurance rates for that
+communical up tremendously and
+and that's also an additional
+cost of that they have to
+take on so it would be who asked
+as a at a legislature to do a
+lot more prevention and and to
+pay for things like clearing a
+debris clearing things that
+nature as opposed to having to
+pay on the back so
+so I think in you answered i'm
+siding at your name and not on
+the very left here my left
+you're right you did a good at
+the fact that you mentioned that
+clearing was really the main
+issue to to medicating these
+things are I whole hardly agree
+and i'm going to work toward
+that for my area make sure we
+can do that ahead of time so
+thank you very much guys great
+presentation
+i'm sure senator just just want
+comment we have some colleagues
+at.
+A or or they're they're close to
+publishing a pape.
+Of course the information that
+they share it is more arizona
+data but beef they public their
+studies are showing that for
+every dollar invested in one.
+So one for seven so that seven.
+Damage to building roads to
+rebuilding bridges to t.
+One thing that we think fires is
+okay burns and and now the trees
+are gone but but what we're
+forgetting about is what's
+happening two three four seven
+years down the road we.
+Thank you representative.
+Thank you madame share I think
+you offer your presentation um
+i'm i'm likely more instantly
+familiar with the work that you
+do being their house that must
+be guess um I know a I know most
+of you all through the education
+side of the conservation site
+there so just think you offer
+your work both on a professional
+and a personal level they will
+tell you personal experience er
+I was probably a lot of those
+three hundred thousand clicks
+there through the fire
+for those of you that i've never
+gone through something like this
+I can tell you that the data
+from this service from other
+ones were lifelines for many
+that were evacuated just to give
+you an example you have
+thousands of people evacuated
+from a region you have no idea
+what's happening at your home
+say you have no idea what's
+happening at your area I became
+it for many putting apps onto
+their phones to at least you can
+do men be able to look you had
+no idea what was happening at
+your home site but at least
+you're able to check burn
+severity were able to check
+temperature you are able to see
+the flow over the fire you able
+to see you to at least get an
+idea in zooming and write down
+to your neighborhood so
+I can tell you during fire how
+valuable this was post fire i'm
+learning new tools I just found
+out now that you could do the
+differently earrings and I was
+curious I was just here
+navigating the site because the
+fighter viewer is phone friendly
+but i'm able to navigate to see
+some of your river your cfs your
+flow systems I was trying to get
+some live data in that that is
+something that actively use in
+the community just to determine
+watering schedules and what not
+so just really thank you for
+that in just really
+understanding how valuable it
+tool this is when it is needed
+secondly just going forward
+maybe one question is besides
+maybe the top you know lifir you
+mentioned state forestry there
+is obviously a lot of
+departments rate that will use
+this and the research and their
+further data what are some other
+practical uses for this data
+just for the everyday person.
+That you can talk about
+mitigation you're to get maybe
+give some examples there
+anything that you are seeing
+this data being used for on a
+practical usage um that may be
+to share with the body thank you
+madam chair thank you.
+Thank you representing
+coincidence when one of the
+things that we found interesting
+is is every every year we go to
+washington dc as a sw.
+And we talk about what we've
+done in the pa.
+And they love the twig.
+One thing it does for them.
+A lot of nothing but then they
+have.
+And that that ma.
+So that that's something that
+was not expected but but it was
+a demand.
+Representative I would add
+I don't know if this is like a
+prayer function better we also
+have attended a lot of events
+post-fair events across the
+state especially in the last.
+Sky and I think just showing up
+and we have printed large
+printed maps and we have a an
+interactive computer that can
+work with is we've got a lot of
+great feedback from people have
+just been like I didn't even
+know this to existed and that
+they don't know how to use the
+tool so in that moment we can
+literally train them on the tour
+that we have the false color
+that I talked about we have huge
+printer maps that and they come
+and they stand there and they
+talk in the point at their
+locations so there's also a bit
+of like a psychological benefit
+we want to make sure not just
+our tools but that were there
+and we're talking to people and
+we try to also get feedback with
+cr.
+The.
+Thank you for those responses
+thinking madam chair and just
+one last question may be a
+little bit loaded I see with all
+it is as a resource an extremely
+valuable resources that works
+behind the scenes that many may
+not have even known you have
+existed you've been doing this
+work for twenty years
+it is it is valuable work
+especially as we're now on this
+new new friend here and you
+landscape is you guys talked
+about in your presentation you
+talked about about funding and
+and maybe just giving
+that that to be negative nancy
+but you know should funding drop
+what would that look like for
+your work what would that look
+like to all these great tools
+you know should the support not
+be their federally or or stay is
+there's a lot of strings that
+are being pulled right now
+between health care education
+fire but should should funding
+disappear from you well from
+from it for individuals like
+yourselves and what would that
+look like in the future for
+for the environment and for a
+particularly way of fire
+management think to manager
+i'm sure representative of
+consoles thank you for that
+question yeah it's that's the
+loaded question
+right now the the federal
+appropriation that we receive
+allows us to have a lot of
+flexibility within the given
+mission of the squares so so we
+call that our secret size.
+And and if that goes away and
+then we have to focus more on
+smaller more specific contracts
+than we become service providers
+for a very narrow narrowly
+defined scope.
+The federal appropriation allows
+us to take on a greater.
+You know so we can go out do
+ecological monitoring over here
+we can go out do the specific
+research project there but we we
+can't necessarily do.
+On their psyche on their.
+So that's that's.
+Are more easily.
+Thank you manager and thank you
+for your response is just really
+want to show support um for this
+organization that again many of
+you mean not of no mean i've
+existed but they do some really
+great work not just locally but
+steep weight and regionally so
+thank you manager.
+The.
+Brief so just want to make sure
+you're aware of a senate joint
+memorial that I was able to get
+through the session this year
+with the state forestry office
+you mention them a couple of
+times during your presentation
+today and some of your responses
+are you aware of that joint
+memorial and it'll be
+administered and run through and
+managed by the state forester
+and others know she has another
+official role but that's right
+hard to stay forester are you
+aware of it and are you
+participating in that discussion
+at all.
+Manager and senator party I
+thank you for the question I I
+do have a very brief awareness
+of it but i'm not in the details
+uh my my director who wasn't
+able to make it here he was.
+The deeper.
+We met with state for a s.
+Last wednesday and santa fe to
+go over a whole bunch of
+different.
+Thank you madam chair and thank
+you for that answer yes so you
+know I price should have asked
+for a representative of going
+down this I apologize for not
+doing that but the perps in his
+solve I asked her to be the
+person that carried that on the
+house flooring it it sailed
+through both chambers it's
+essentially a clean up the
+forest create an economy if you
+can and some of these computers
+like these communities by doing
+that and then also just bring
+all of the entities you know
+around the table to help get all
+that done so I encourage you to
+dig pretty deeply into that
+because whatever comes out of
+that i'm hoping that it turns
+into some legislation that we
+can again get the legislature to
+get behind and can get past so
+it's it's it's clean up it's an
+ineconomy in those communities
+and it's you know these massive.
+Fires are just turning into
+these horrible in a situations
+for communities every time I
+turn around the poor community
+of ridoco you know they wake up
+and they think they're doing
+well and then it they just get
+clobbered again so I don't know
+if this is going to help with
+that but it's it's the
+legislature's effort to help
+with that thank you.
+Thank you senator and we want to
+think the committee thank you
+for pres- presenting and telling
+us everything you do and and
+showing us what you do in them I
+know uh you do a wonderful job
+and everything you do and and
+the community needs you and and
+thank you for being there for
+them
+and chair and distinguish
+members of the committee thank
+you for having us and thank you
+for sharing your date.
+All right.
+Our next topic is licensed plate
+reader technology and the use of
+law enforcement.
+We have
+whenever you guys ready come on
+up.
+We are burning the county
+sheriff john allen.
+Cheaper police city plus cruises
+jeremy story and director of
+public affairs.
+Like safety trevor chamber they.
+Madame chair committee thank you
+so much for having us today my
+name is trevor chandler I am the
+director of public affairs for
+flock safety
+and really appreciate you
+convening this really important
+discussion all the more
+important given what happened at
+UNM uh this past week where the
+state chief of police has noted
+that l p r technology was
+critical and finding the shooter
+and so just really appreciate
+you taking the time to dig into
+this understand it more and the
+thoughtful questions that you
+will have.
+So uh my name again is
+traverting and learn director of
+public affairs on behalf of
+flock and i'm here to discuss
+the technology itself
+about in how it's we are helping
+communities across new mexico in
+the nation reduce crime through
+ethically built transparent
+technology our mission is simple
+to eliminate crime into sheep
+uh safer future together so the
+next slide please.
+So in new mexico thirty seven
+law enforcement agencies are
+already using flock technology
+to protect their communities and
+it isn't just hypothetical or a
+theory it is impact every single
+day approximately twenty eight
+hundred crimes nationwide are
+solved using flock's license
+plate reader technology
+accounting for approximately
+fifteen percent of all reported
+crimes.
+And this is through a third
+party validated methodology this
+includes vehicle thefts violent
+crime and even cases especially
+involving missing children next
+I please.
+Our police departments more and
+more are doing more with less
+eighty five percent of agencies
+report being short staffed in
+over sixty percent so they can
+not find enough qualified
+officer candidates.
+We make very clear flock does
+not replace law enforcement
+officers no one can replace law
+enforcement officers but flox
+does it act as a force
+multiplyer allowing limited
+resources within our current law
+enforcement ecosystem to be used
+that much more effectively.
+And we're seeing better
+clearance rates across the the
+country just recently in san
+francisco the mayor of san
+francisco credited flock with
+not only reducing auto theft by
+forty one percent but increasing
+prosecutions for auto theft by
+forty six percent that would not
+be possible without the license
+plate reader technology that san
+francisco has embraced along
+with five thousand to six
+thousand other communities
+across the country next I
+please.
+And next i.
+One thing that i'd want to touch
+on because it's exceptionally
+important both here in new
+mexico and around the country is
+the impact that focus on finding
+missing persons the national
+center for missing and exploited
+children which runs our nation's
+ambulance system has
+specifically endorsed flock and
+license plate reader technology
+as a key tool for finding
+missing persons nick mick as
+their
+short hand called as credited
+flock alone with finding well
+over a hundred missing children
+and by our count sorely on
+public
+news accounts this is not
+anything that we have of
+comprehensive count on from the
+departments themselves but flock
+has been responsible for finding
+over a thousand missing persons
+these include silver alerts
+individuals with the mention
+children that have been abducted
+over a thousand missing persons
+found just with flocks l p r
+technology next I please.
+So it with the technology in
+what l p r does this is
+precision policing it goes from
+the previous style of placing
+where you're looking for a white
+camry to looking for the white
+camry you are reducing the
+number of suspects not
+increasing the number of
+suspects you're able to do your
+investigations with a precision
+that limits negative police
+interaction with the public in
+is solely focused on those
+vehicles that are associated
+with a crime you're law
+enforcement will have their hot
+list is also the ncic national
+list that can be opted into all
+customised ball based on the
+community values to be able to
+focus on that what matters most
+year community and this is an
+example of what your officer see
+when there is a hot list alert
+on their on their app on their
+text or on there on their laptop
+so next I please.
+Now we all know as you heard
+before about cyber attacks that
+criminals are always looking to
+get one step ahead they're
+always trying to figure out how
+do I vaid the latest technology
+and that's no different with
+typical policing we all have
+seen the technology of obscuring
+license plates the tape to
+prevent cameras from accurately
+capturing them or simply
+stealing the license weight and
+swapping it out so that's where
+flux per criteria vehicle
+fingerprint technology comes in
+what we are able to do is if you
+have a description of a vehicle
+especially in a hit and run
+where if someone a pedestrian
+are a cyclist is hit by a
+vehicle chances are they weren't
+looking at the license plate or
+had the the presence to take
+down the full license split but
+they know it was a four f one
+fifty a red four f one fifty and
+so what your law enforcement is
+now able to do is look at the
+flock cameras the license plate
+reader cameras in that area and
+look which at four f one fifty
+was in the area at that time
+potentially get a license plate
+from that camera in that gives
+your law enforcement in
+actionable lead to pursue in
+finding the perpetrator of that
+hit and run and so this is
+another way that we're able to
+stay one step ahead and provide
+objective inactionable
+intelligence to your law
+enforcement community next life
+please
+and we can go to the next side
+as well.
+Always important with law
+enforcement technology is about
+privacy and flocks takes this
+exceptionally seriously
+key points to be made about how
+fluck engages with the data of
+the law enforcement agencies
+that were entrusted with first
+and foremost every law
+enforcement agency owns their
+own data flock stores it but we
+do not own it that is the
+explicit the explicit property
+of the law enforcement agency we
+do not sell it we do not share
+it that is purely uh the
+authority of the law enforcement
+agency
+also blocked us have private
+customers it's important to note
+that our private customers never
+have access to law enforcement
+data they can use it for
+organized retail theft they can
+choose to share their cameras
+feeds with their law enforcement
+agencies but it is a one way
+they will never get access to
+that law enforcement data in so
+flock is serious certified and
+we'll go into a couple of bit of
+that most most of flox customers
+automatically delete data after
+thirty days by default some
+choose a slightly longer
+retention some choose a slightly
+shorter retention based on their
+communities values some go for a
+hundred eighty days some go for
+slightly less and this is really
+important about building trust
+with the communities because
+again flock does not sell data
+flock does not
+provide it to third parties but
+it's also very important no one
+most communities do not want
+their data being stored for long
+periods of time in what we have
+found is best practice across
+the country for most states and
+most locations is that thirty
+days provides enough
+functionality in order to
+provide an investigative tool
+for people as well as the in the
+moment action so imagine that
+you go for vacation you for a
+week your car is stolen on the
+second day of your vacation you
+don't realize it's gone for a
+week having that thirty day
+retention period provides that
+that ability to go back and look
+at the cameras to see where your
+car was stolen where it might be
+in those past thirty days.
+Whether it's taken across state
+lines and so that's why when
+people ask why is the data
+retention period so important uh
+the tool itself is important for
+those actionable in the moment
+leads but when you have a
+missing person if you have
+someone with the mention that
+you might not know have gone
+missing for a couple of days uh
+if you have any number of
+violent crimes or sexual crimes
+that might not be reported for
+up to a couple weeks after you
+need that retention period to be
+able to have a real
+investigatory tool to help solve
+these crimes that increase
+clearance rates and bring the
+perpetrators of crime to
+justice.
+It is also a very important in
+this you know there's been a lot
+of conversation around detail
+sharing flock does not decide
+who a department shares stated
+with the only person the only
+agency that decides who she is
+gets shared data is the agency
+flock does not make that
+decision it's very important to
+note and it's also important to
+know that our system can not be
+search for human characteristics
+it can be only be search for the
+characteristics of vehicles so
+we do not have facial
+recognition you cannot put in to
+the system i'm looking for a six
+foot one brown haired person
+with classes it would not return
+anything we take that very
+seriously in on the right you'll
+see all the encryption that we
+have again constantly staying up
+to date with the latest
+standards including a secret
+sortification nda certification
+sock to type to for but hippa we
+work to go above and beyond uh
+with all of our data security
+next I please.
+And we also offer all of our
+customers a free transparency
+portal to help increase
+community trust so any number of
+any community can choose to have
+a free transparency portal
+showing how many cameras there
+are how many plate reads there
+have been how many hits there
+have been how many cameras and
+total there are and again we
+provide this as a service free
+of charge because we believe
+transparency is the best policy
+and we encourage every
+department using flock to have
+an l p r policy we provide draft
+language to make sure that they
+know that is in their agency's
+best interest to be proactive
+with accountability and
+transparency measures.
+Annexed
+and I believe that's the last
+one so thank you all so much
+appreciate the opportunity to
+inform you well what flock does
+what flock isn't happy to answer
+any questions at the end of the
+presentation.
+Good afternoon madame chair
+members of the committee my name
+is chairman store in the please
+chief at the last christmas
+police department appreciate
+this opportunity to present you
+guys on this it's important
+topic.
+What I want to do with my short
+time is just give you a really
+high level overview of what a l
+p r's are automated license
+plate readers look like a most
+crucials and then just give you
+some real life success stories
+that we've seen from violent
+crime to property crime over the
+past few years.
+Excited.
+In los cruces we originally
+contracted with flock and twenty
+twenty one that's the first time
+we had license player technology
+we started with twenty three and
+we've we've only had twenty
+three cameras in los cruces were
+seventy seven square miles so
+the time we've recently expanded
+that with our real time crime
+center and so we're in the
+process of installing an
+additional twenty
+I recent competitors said it
+thirty days as many that's kind
+of default we've stuck with that
+since twenty twenty one and it
+served as well.
+We require the incident number
+for any search so any historical
+search on an officer detector
+goes back in a searching license
+plate reader data they have to
+put an incident number which
+ties it to a specific record and
+cat so we know exactly why
+they're searching or what
+they're searching for and then
+any auditor conducted by the
+investigations lieutenant.
+So giving an idea of what kind
+of hits are alerts were seen in
+los cruises for last year and
+twenty twenty four we saw seven
+hundred and forty nine stolen
+vehicle it's now so I split roof
+drivers they're reading plates
+all day along with nothing news
+return to an officer and lessers
+and alert or here and so if
+there's a stolen vehicle that
+will generate an alert and then
+that will be south of the
+officers they have the account
+so last year's seven hundred and
+forty nine storm vehicles seven
+hundred twenty stolen plates
+which often times are tight to a
+stolen vehicle they you know
+they've gotten smarter and so
+they'll still played that
+matches a similar vehicle and
+put that on a storm vehicle a
+hundred and eighty seven sex
+offender heads pressure sex
+benefits eighty six missing
+persons hits ten extremely
+protection orders and for
+suspect of terrorist watch
+listens
+so the rest of my time I just
+want to give you all some
+examples of how this
+technology's been used sensitive
+it was installed to help by soft
+crime and by itself you're never
+going to have somebody charge
+with the crime just because of
+the license plate reader hit but
+what ends up happening in a lot
+times it's a bread crumm it's a
+that lead that eventually takes
+us down the path to have an
+arrest in a successful
+prosecution back in twenty
+twenty wednesday a young man a
+teenager who has shot he showed
+up to an emergency room with a
+gunshot winter is bad.
+What happened is he was just
+mine his own business someone
+came up to car jacket with the
+rifle he tried you drove off
+trying to get away and they shot
+into the vehicle and hit him in
+the back the only description
+you can give us was a black
+charger that was a black dodge
+charter.
+Fortunately we had a license
+plate reader that was close by
+there is one black charger that
+was in the area at the time
+which again is indefinitely but
+that's a lead.
+We ended up finding this vehicle
+when we found it the suspect it
+actually had been reported stone
+at that point and the suspect in
+the rifle used was still in the
+vehicle and resulted in that
+arrest.
+Nr also on twenty twenty two
+we had a road rage into there
+were a cyclist was shot and he
+all he can give was description
+the vehicle in a description of
+the suspect neither one of those
+descriptions was great but the
+priloses were able to find a
+vehicle that matched that was in
+the area they gave that to the
+detectives they did some other
+work they eventually tracked
+down the restaurant owner
+interviewed them and that person
+confessed to you shooting the
+cyclist we're able to make that
+arrest
+on twenty twenty three we had a
+a murder outside of a dispenser
+in the parking lot and this
+person was just sitting in their
+car another vehicle came up
+there is an argument and it up
+being shot and killed there was
+their balance in the parking lot
+the dispensery we weren't able
+to get a plate but we are able
+to get a vehicle description we
+are able to see what type of
+plate it was what type of new
+mexico played it was.
+And using the license plate
+reader data we are able to get a
+suspected vehicle and with a lot
+of other investigative work tie
+that specific vehicle to the
+homer sides.
+Or shoot a harmosite in result
+in some arrests.
+And twenty twenty three this is
+for multi jurisdictional
+obviously los crucial says very
+close to a parcel we have a lot
+of criminals that go back and
+forth and commit crimes in both
+locations in twenty twenty three
+i'll pass out a bank robbery and
+they knew that a white kiss all
+was involved they're actually
+able to get the license plate
+their system only shows the
+license place so they couldn't
+get a picture of the whole
+vehicle we're able to search
+that vehicle was in los crucials
+determine that the plate on that
+vehicle is actually stolen from
+another kiss all but a different
+year and detectors did some good
+work we're able to backtrack
+find the right plate for that
+vehicle give that information to
+a passive pity who alternate was
+able to make the arrest on the
+bank robbery.
+And twenty twenty four last year
+we had a homicide at what we
+refer to incorporation park in
+the north satellite crucist and
+a man was killed his he was
+dumped in this park and some
+people that the part found him
+and called us.
+There are some evidence on
+seemed that indicated that his
+vehicle had been present and was
+used in the homicide.
+We knew from license play reader
+that we had in the area that the
+vehicle entered that area at
+about the time of the harmosite
+but as far as we can tell do not
+leave or did not leave the same
+way and so we were hopeful that
+their vehicle was still in the
+area we can miss the
+neighborhood and found the
+vehicle abandoned and then we're
+able to find on a third party
+video like a reincamera a video
+of the suspect dumping the
+vehicle and ultimately identify
+the suspect you may that arrest.
+Going back to all passo and
+twenty twenty four that
+in attempting kidnapping at a a
+strip on a password I was this
+vehicle as possibly involved in
+another attempt to kidnapping at
+the ross for marshalls parking
+lot in los crucials.
+And they weren't able to give a
+great description although the
+vehicle is very unique the type
+of vehicle in some
+distinguishing characteristics
+are we able to find a vehicle
+that were very company and match
+based on some decals and some
+other things give that
+information to all passable pd
+for a follower and what could
+have been a very very serious
+case.
+I'm gonna final one going to
+property crime that just
+happened about a month ago we
+had a series of commercial
+bergers primarily at auto zones
+and discount tool stores both in
+our parcel and los crucials
+again.
+And we are able to or a password
+was able to get a license plate
+that they believed was involved
+in one of their burglaries.
+And
+from that we're able to
+establish kind of a timeline of
+win their active and lost
+crucials compare that to the
+burglary times we are seen in
+los cruces and then established
+kind of an immo when they were
+they were hit in these stores
+are detective set up on several
+of our auto zones and we're able
+to actually cash the suspect in
+the act of committing a
+commercial burgery and arrest
+them
+are within each of these are
+paired in a argenery to vote as
+we've seen some are better than
+others but I think they kind of
+paint the picture of
+how important this technology is
+in this is just a sampling
+there's a lot of examples
+especially when we talk about
+auto theft los cruises
+unfortunately based on the
+twenty twenty two and I see the
+numbers was number eighteen at a
+three hundred and ninety
+metropolitan statistical areas
+for auto theft in the country
+albuquerque we were six and
+santa fe was up there as well
+and so this technology has
+really transformed how we
+respond to auto theft which.
+Helps people also helps with
+insurance rates and there's a
+lot of other answer benefits to
+it thank you madame chair
+members of the committee turn
+over the share.
+A good afternoon madam chairman
+committee so honored to be in
+front of you today to explain
+this technology and what the
+berlin county sheriff's office
+is doing it as you know my name
+is sheriff john I represent the
+great constituents of bernie
+county where we do have a crime
+epidemic and technology in our
+areas the utmost importance to
+our agency and also the agencies
+that surround us but also were
+finding not only regionally but
+also nationally I also serve in
+the governor's organized crime
+commission and that is going to
+international and in different
+countries so this technology
+does help with us so we start it
+with acts on and flock back in
+twenty twenty three and I say
+acts on a flock and I I by for
+cape those because to explain to
+you we have fixed cameras which
+right now we have five in berlio
+county right now there are
+sixteen in the process that
+there is usually a consistent
+hold up with the department of
+transportation in reference to
+permitting to see where these
+fixed cameras go so that does
+take us a while and it's held us
+back for for a little bit a
+hundred and eighty four fleet
+three cameras and i'll explain
+those are in the front of each
+of our deputy's mark petrol
+units as well as our auto theft
+units and what those do is
+capture license plate two and
+from crime scenes and also is
+flock representative and chief
+story has explained the the
+captures and the license plate
+that it has and it comes off of
+a hot list in an alert I will
+give you an example here in a
+bid on something that we signed
+to south valley at the wall
+martin how we set a perimeter
+and we actually turned into a
+deli for situation
+the case number so everybody
+knows with an official reason
+you have to have an official
+reason to look into the flock
+system are the case number is
+entered and you will see on the
+slides as you start going
+through them you will see at the
+bottom where it starts with the
+so two five zero six zero zero
+zero and so on that's an example
+of the case number that we have
+the reason that we have that so
+we can track each deputies
+detectives and what everybody is
+actually looking at.
+And the reason we do that is
+because we want to insure and
+make sure that we are very
+meticulous with who is looking
+at him the reason why and many
+concerns that constituents and
+all of you have who are we
+sharing data with why are we
+sharing data with them why
+recross injuries dictional lines
+and our making sure that
+people's constitutional rights
+are kept so that's the reason
+for that internal audits every
+thirty days we have it in my
+intel unit I have a lieutenant
+sergeant who looks at each one
+of these entries.
+Who it is and why are they
+looking at to make sure that
+we're consistent
+two weeks ago I actually hired
+on an actual compliance officer
+who was also looking at all of
+our technology that were
+bringing and also making sure
+that when we're testing fine in
+front of you that we have the
+appropriate information and the
+appropriate facts when you have
+a question at any time just not
+in front of a committee I
+standard operating procedure
+have this up here for for me now
+it's in reference to our
+artificial intelligence that I
+just introduced yesterday at the
+sheriff's office we always start
+with so you know we just don't
+put it out their taller deputies
+earning units we make sure that
+we have a certain amount of
+deputies stills are pretty much
+our testing deputies because we
+want to see what problems the
+issues we have are one of the
+reasons I partnered with
+flockers isn't his presentation
+they're very meticulous and
+careful with data sharing of the
+parameters and also to make sure
+that people's privacy is kept
+and most importantly that we own
+our own information and it's not
+them to sell that's very
+important for us as opposed to
+other vendors and so you can
+move on in in reference to
+everything else that we do with
+technology and next like please.
+As I go into the next slide with
+the a l p r alerts and and
+bernaly a county we have caught
+to be completely transparent
+along with the extensive so p
+and disciplinary issues we did
+catch one deputy about eight
+months ago using the technology
+in the wrong way and that
+alerted us immediately that
+deputy was cut off from the
+system itself a deputy not only
+discipline I believe we need to
+make sure that we teach we are
+human but making sure that it
+wasn't something that fares
+which it wasn't how they went
+against their standard operating
+procedure was new technology of
+a dollars also use an example of
+what not to do so we can move
+and be transparent with the
+systems that we utilize in
+berlio county as you can see on
+the numbers they're pretty
+extensive and they they've gone
+up as of today a stolen vehicle
+is what we've had is five
+hundred ninety vehicles as
+you've heard the chief say we're
+always in the top ten if not the
+top six in alba kirki and berlio
+county for the n I c b for the
+amount of stone vehicles and
+auto theft custom heartless
+alerts two hundred and sixty
+five and that's very important
+on that at two hundred and sixty
+four was a case that came from
+another state that was entered
+that we share data with another
+state it went on to a hot list
+and it was involved in a harmer
+side and that that vehicle was
+being pretty much tracked
+through states on the flock
+system coming towards us.
+All of a sudden it alerted us on
+real brother in the south valley
+which is pretty rare our auto
+theft was alerted to it we
+verified and had probable cause
+not reasonable suspicion and
+verified who that heartless
+belong to and what the warrant
+was foreign if it was signed by
+district court judge in their
+jurisdiction it was it was an
+active arrest war for a
+homicide.
+We knew that the vehicle then
+pulled into the walmart in the
+south alley off of course in
+real bravo due to this system in
+this technology this allowed
+great time for my auto theft
+dependence and deputies to start
+clear in the area and setting a
+perimeter to keep innocent by
+standards out of the way in case
+it determined to a deputy
+involved shooting which it did
+as soon as my auto theft units
+pulled up an unmarked vehicles
+along and coincided with mark
+vehicles immediately the
+occupant of the vehicle pulled
+out a firearm and then within
+the confrontation or dynamics
+then he continued to get ready
+the point out to self and in
+exchange of gunfire with my
+deputy this person was deceased
+of course loss of life as the
+last resort we always want to
+attribute any law enforcement
+activity to but we did save some
+lives in the parking lot and we
+did take someone technically
+into custody but unfortunately
+it turned out into a a death
+situation a non own custom hot
+list alerts or seventy nine
+ganger suspected terrorist or
+four I can't get into those
+because of the organized crime
+commission information I just
+want to give you a number of
+violent persons are at two total
+hot list alerts or one thousand
+nine hundred and seventy five
+that is a significant amount for
+every agency in the nation that
+is going up significantly stolen
+plates five hundred and eighty
+five that is very important on
+stolen plates because it is a
+different statute in reference
+to stolen places that pose to an
+auto theft we want to make sure
+that we're not escalating the
+situation and we are not also
+want to make sure that not just
+our technology but our tactics
+fights for what is going on we
+don't want you know for instance
+a family member who was born a
+vehicle who does not know that
+there's a stolen plate on the
+vehicle and my deputies are
+putting someone of older or
+younger at a fellow you stop and
+point him out on the street in
+front of the public we want to
+make sure that are our tactics
+are are on point in this
+technology helps us with that
+sex offenders i'm in charge of
+sex offender registration in
+berlio county once again these
+are going up significantly these
+were never at one fifty two.
+Unfortunately what the proactive
+policy that we're doing online
+and then we enter these into hot
+list and we look for someone who
+have scans from a sex warrant
+warrant these are going up and
+are actually going to different
+state so that is something
+that's very important for us to
+data share with other agencies
+to tell him a sex offender from
+our area that we are looking for
+is coming to their area and we
+make sure and you'll see later
+here we have an example for you
+when a court gives us an order
+to take them into custody this
+allows us to do so a missing
+persons
+flock just explain this a
+hundred and thirty one and this
+is a big deal.
+It's such a big deal I just
+added personality who are
+missing persons if you even look
+at our social media I think
+we're getting two or three a
+week of alerts whether it's a
+silver alert are missing person
+and adopted child and in turn
+from other regions and across
+jurisdictional boundaries those
+were coming in to us cpicy that
+I won't get into that as well
+with canadians you're going to
+ask why to heck are we sure with
+canadians that's as also
+organized crime commission and
+also has to do a terrorism
+something and I won't get into
+detail with but I want to be
+transparent in the number of
+that we have next like please.
+The.
+Yeah.
+I will get into this too much in
+detail I think i've explained a
+little bit and so is the chief
+it's very important in it this
+is the the most beneficial tool
+for auto theft we also think of
+a crime but I also think and the
+business side on what are we
+doing as a sheriff's office or
+what are we doing is law
+enforcement in general to ensure
+for all of you and I hear all of
+your hearings when it comes to
+finances what are we doing the
+help negate auto theft and bring
+insurance rates down for the
+constituents that we all serve
+at this technology does help
+with that we are recovering a a
+great amount of vehicles along
+with other technology and we're
+also trying to make a dint and
+make sure that we're not in the
+top six this is a low bar to set
+I I would love to see us only in
+the top ten and then start
+moving up from there we are
+making progress in this
+technology helps us with that
+when we try to attempt to locate
+a sole vehicle as explained
+before the a r p r hits for us
+and immediately we send it
+numerous deputies into the area
+to saturate the area just to see
+where that vehicle is I am all
+about liability and public
+safety I want to do everything
+we can to make sure that we're
+not getting into a pursuit
+pursuit situation we also have
+different tactics that we use
+with the burning or county
+sheriff's office I do not want
+to have a pursuit going down
+real bravort a hundred and ten
+miles an hour or even on the
+interstate which we've had at a
+hundred and thirty this
+technology helps us with that I
+want to locate it now we will
+use any type of strategic
+planning like explain at the
+walmart it will make an
+apprehension of the offender and
+I would be happy to say it's a
+very high percentage that most
+of these go down with not a lot
+of violence I believe I explain
+when I was first elected in
+twenty twenty three I forgot
+which committee I was on and I
+told you that I was very worried
+and I did the auto theft unit
+created it that are deputy
+involved shootings would go up
+then they have not y because of
+tactics in this technology next
+slide please.
+Something a lot of people.
+Nates bother me personally just
+and as a sure if they abducted
+children in berlio county and in
+the nation is going up
+a lot something that we don't
+like to see so what can we do to
+negate this right away it's
+about the short term benefit of
+recovering that child and
+bringing them back to safety a
+flock has done this we've had
+many cases I showed you the
+numbers june fifth a case study
+that we have we are adapted to a
+five year old child it was the
+biological father but we had
+custodily interference so right
+away because of the nature of
+his violence the judge ordered
+us to pick them up and we had to
+track a person and put it in a
+hot list which we've explained
+in that person's vehicle and the
+heartless did hit and we were
+able to take that father into
+custody and also recovered the
+child unfortunately because of
+family dynamics that child was
+in release to other people and
+see why if he had to become
+involved.
+Aggravated assault the deadly
+weapon and of duction of a child
+I put two of these in there to
+show you just not about
+technology but what we're seeing
+a law enforcement we always
+discuss homicides of violent
+crimes but a lot of people
+quickly forget about property
+crime in the safety of our
+children we're seeing children
+and sex crimes go up especially
+at the burning of county
+sheriff's office so again we're
+using this technology to help us
+again the suspect flood in a
+blue for pick up as flock
+explained before a precision
+based police in is very
+important to the sheriff's
+office it's just not about a
+license plate if we can look at
+someone covers a license plate
+they they tape it they just saw
+coming up here in santa fe
+county two vehicles with very
+dark tenth on the back of a
+license plate we can now also
+when putting a hot list the
+description of the vehicle with
+very specific characteristics
+what to look for because as I
+will tell you if we're looking
+for a silver vehicle all of a
+sun you'll see numerous silver
+vehicles we want to make sure
+we're not just overpolicing but
+when we start to do that we want
+to make sure that we're not
+doing traffic stops and it's the
+wrong person where violating
+someone civil civil rates I
+can't give you a number on
+probably the amount of lawsuits
+that we have negate it from this
+technology i'd like to research
+that but I will tell you as the
+sheriff and from being here and
+since two thousand one to
+surface office are liability in
+our losses have gone down
+significantly in many areas
+because of this technology
+next slide if it's just the last
+one.
+And that is it thank you for
+your time.
+Um thank you for your
+presentation gentlemen and first
+we'll have representative
+martinez.
+Thank you madame chairman thank
+you all for a for what you do
+every day.
+But I wanted to take the time to
+thank you I just have a few
+questions mister chandler.
+You talked about.
+The thirty day.
+Retention.
+The.
+What happens if it if an
+investigation goes long thirty
+days are you able to access.
+Any of that information.
+Or is it.
+Is does it just drop off the
+system.
+Thank you for that madam chair
+and representative martinez if
+unless the
+the data is downloaded before
+the thirty days it will be hard
+to leave so if you find out
+about a crime on day thirty one
+you will no longer have access
+to the data because it will have
+been hard deleted and so that's
+why some cities decide to do
+more than thirty days but thirty
+days is the general best
+practice currently.
+Thinking man mr challenge of
+there is the the op.
+If the vehicle's part of it and.
+Yeah.
+Manage a question for.
+Yeah.
+You talked about.
+The the ability to share
+information with.
+Or they on the same system and
+how how does that work.
+Being minutes it's.
+What are the issues that you're
+seeing.
+Thank you matter representative
+martinez
+so i'll pass a pity actually had
+a separate system they just went
+to flock so now that we both
+have flock we have the option of
+sharing our information with
+each other we set the parameters
+that we can share just with an
+investigation status without
+only be detective or something
+similar to that position that
+can search it but because we
+have that now we have the
+ability to share directly before
+what would have to happen is
+their investigators would
+contact our investigators we
+talk about it we would conduct a
+search for them and then provide
+them any information that was
+relevant to their investigation.
+Great I I was just curious about
+the.
+Just actual questions if that
+post.
+A problem sharing this.
+I appreciate that I mean it's
+always.
+The the more communication you
+can have.
+The.
+Better for are solving some of
+these crimes
+my last question for sure if
+alan
+I was just curious on.
+The alport alerts and bring your
+county for tw.
+Talk about custom heartless and
+non owned custom heartless would
+what's the differen.
+So the custom heartless would be
+some specific to a missing a
+child with the description of a
+certain vehicle those are custom
+hot list or you can do it to a
+group and say hey we're coming
+out of a certain area where
+wherever it is in your region
+we're looking for a certain
+amount of auto recovery from say
+an accurate or we are looking
+for five homicide vehicles are
+violent offenders those are
+custom heartless and also the
+non ones are from not from our
+agency there from other agencies
+across jurisdictional lines it's
+just when they request on the
+turn when they request
+information from us they must
+put a reason into the system and
+a case number to be verified so
+we're making sure that they're
+not looking for something that
+we don't agree with.
+And I I don't know if you can
+answer my last question but you
+raised a point about the issues
+with.
+Um and i'm having this issue in.
+In rearential.
+And maybe it's a question for
+sector certain but I don't
+understand.
+Why there's an issue why.
+An automatic approval.
+You can comment on that but but
+i'm very curious because I just
+ran into this issue.
+And reerentual and highway.
+Madam chair sitter martinez I I
+do have a direct line to mr not
+the bottom too much.
+To be up front with you the
+latest probably for about
+fourteen months to get our al
+pier as they told you it in
+october of twenty twenty three
+we started and then in october
+twenty four twenty twenty four
+that's about a year out so and
+when I spoke there was too much
+red tape at the state level at
+the department of
+transportation.
+We thought that it was cleared
+up and we gave suggestions to
+the governor's office the
+sixteen cameras that I mentioned
+we only have five but we're
+going to get sixteen more fixed
+we're we're hitting the same
+road blocks once again so at
+this point I I try not to call
+it with my title to the
+governor's office I try to let
+my person will work out with it
+but it keeps coming up to the
+same hurdle I don't believe that
+it has been fixed I do know that
+the rear ratchet police
+department because they have
+called us and other agencies
+have called me personally to try
+to help with that we're all face
+in the same thing
+it's to the point now to wear
+other competitors as flock as
+sitting next left to me they're
+trying to figure out how to get
+past all of these hurdles and
+that have to go through
+permitting through the state
+because it has been so difficult
+and it has been holding back and
+even helping with crime as
+success stories that we're not
+able to succeed as an agency.
+Thinking about the chairman
+thank you survived I just think
+this is the case of.
+Um.
+Self imposed bureaucra.
+Secretary.
+For my case and rearrention
+we're talking about.
+It's just a smart thing to do
+it's gonna save lives.
+Sometimes you know.
+I I work twenty six years and
+state government that I
+understand the need for some
+bureaucracy but there is some.
+Me but I appreciate.
+I appreciate the work you're
+doing.
+Thank you for a
+for bringing this technology to
+the mexico.
+In on the madame chair and
+representative martinez on the
+permitting uh aspect I can tell
+you flock takes permanently
+extremely seriously we have a
+team of over sixty people at
+fault focus just on permitting
+and the
+overlapping rates of way and all
+of the dynamics there and we're
+committed to doing it right
+whereas others are simply
+committed to doing it and so we
+work to be as effective a
+partner with DO t's in all all
+their eccentricities across the
+country.
+Our next will be unrepresented
+gonzalez and there's seven
+people epable on a list so we
+want to keep these answers and
+questi.
+Um thank you madame chair and
+thank you so much for your
+presentation I think
+representative martinez actually
+tackled one of my questions was
+specific by inner agency
+corporation in jurisdiction what
+that I guess my question is the
+more being that i'm.
+A rule legislator out there I
+know you talked about running on
+county taxpayer city of us
+crucials um do you have any sort
+of listing or maybe sort of any
+like a statewide mapping of
+agencies that are using this
+technology particularly you know
+area that we are having with law
+enforcement is of course.
+Using the state please local
+share of your covering a large
+geographic area that some of
+this technology could be really
+helpful um it may be cost
+prohibitive you're talking about
+the permitting issues which were
+definitely translated going out
+into a state areas state roads
+but just curious as far as the
+spread and I and I could
+envision technology like this
+really working in some of those
+rural areas to try to capture
+allowed especially when you
+don't have regular police think
+just due to just to staff
+shortages and when that um I
+think this could help capture a
+lot of information and capture
+out a really relate valuable
+data but so just maybe just
+maybe some inside on statement
+being and then also possibly
+that permitting issue would
+extend out into some of the
+state white areas thank you
+manager yes madam chair in
+member games all as
+representative goods all is
+would be happy to provide you
+the full list of the agencies
+that we're working with in the
+the map there as well for your
+the entire committee.
+Think you represent everything
+right next senator work worth
+thank you madame chair and I
+appreciate the presentation.
+Uh so I carried a bill on this
+issue the last two sessions I
+first became aware of the issue
+listening to a santa be city
+council meeting and hearing our
+law enforcement there talking
+about all the good things that
+come with this
+but then kind of realizing that
+there's no guard rails and so it
+was I think this is a
+particularly appropriate hearing
+today after hearing the a I
+presentation because what we're
+hearing is all the good things
+that come with their sent and I
+there is no question this is a
+very valuable tool but there
+also are no guard rails right
+now in new mexico and so I just
+want to clear up my couple
+things and and let me say up
+front I I appreciate very much
+share violent immediately
+reached out with talked I think
+there's room to reach a
+compromise on this and it needs
+to happen and I I think I can
+ask some questions
+kind of indicate why we need to
+do something here.
+Uhm as I understand it basically
+what i'm hearing mister
+channeller is that you don't own
+any of this data it's each
+individual agency and sell i'm
+correct am I not that any law
+enforcement they could decide to
+sell the data to a third party.
+Of their choice correct there's
+nothing in the law that prevents
+them from making that individual
+decision as that correct i'm not
+an expert in new mexico or local
+laws so it could be prohibited
+but I personally not an expert
+in the laws regarding bond
+forest points ability to sell
+data so amount here I believe
+that without some kind of guard
+rails here that data could be
+sold and you're not your agency
+is is doing this the right way
+it feels like and I and I really
+appreciate that's mostly using
+this service but nothing would
+prevent.
+Someone on the east side from
+selling this data to a private
+investigator from selling it to
+another state that's interested
+in who's coming to there to the
+new mexico for a certain medical
+procedure
+so I just think that the data is
+an important issue that we need
+to kind of put some guard rails
+on
+tell me a little more so the
+transparency portal sounds like
+a great thing that you are from
+curious that share up and chief
+to you all use.
+They're transparency portal.
+The.
+Manager senator worth yes we do
+we have transport through axon
+through flock we are always
+willing to give out any
+information are to be completely
+transparent again on the
+transparent person and ever
+request came through two weeks
+ago are from the eco u and I
+denied it the reason I denied it
+and gave part to him was there
+are trying to find out exactly
+which state and what information
+we were giving to that state and
+why we requested it and I could
+not because of the cartels that
+we were dealing with an albert
+kurki area
+you mentioned guard rails and
+and parameters when you say
+selling it that worries me a
+little bit of hoping that no law
+enforcement is doing that but to
+begin with is yes we can give
+information to another law
+enforced an entity whomever it
+is but at the same time we have
+a own rules and so p that that
+other agency if it doesn't meet
+our sopian rules within we do
+not give them that information
+so the elephant in a room is if
+it's someone is coming across
+state lines from texas in mexico
+for women's health care we will
+not give them that information
+at all.
+And mountain and I appreciate
+that and I think share of your
+your you're doing this the way
+that it should be done but the
+reality is nothing prevents a
+different agency from having a
+different interpretation and
+that's why I think this this
+legislation is important I just
+one final thing I want to kind
+of highlight is the time period
+and again you mentioned mister
+chandler that flocks thirty days
+is the recommended but nothing
+prevents an agency from using
+flock and saying I want to
+retain it for a hundred and
+eighty.
+Correct yes it's a thirty days
+is a general best policy but
+some do one eighty some do five
+years but overall thirty days
+has proven to be
+according to the enforcement
+that we work with have the
+greatest efficacy in
+investigating crimes well
+balancing the desire for privacy
+and just amount your cheap story
+I think you said you are doing
+thirty days and in los crucial
+can I get that right manager
+that's that's correct and.
+I think thirty days has a
+potential to at some point by
+using the but if there's an
+investigation we're not meeting
+to say we find a someone who has
+been killed and they've been
+there for a long time and it's
+been sixty days that has not
+happened and i'm aware of since
+twenty twenty one so that's what
+we do thirty days has worked for
+us so far and member just
+quickly made sure you mentioned
+thirty days but also ninety days
+on another system yes madam
+chair and senator worth we used
+ninety days for what chief story
+was saying it's worries me at
+thirty days and we hit someone
+and thirty one days in its
+permanently deleted
+in and I was talking doing a
+legislative session also with
+epr request that we receive
+animals also worried about
+exculbatory evidence so I would
+like to go beyond the thirty
+days.
+Don't mean i'm sure I just think
+those highlight the questions
+highlight some of the issues
+that are out there and again I
+really appreciate the way you're
+two agencies are doing this and
+that's clear that a flock is
+doing this and a way clip best
+standards I get that sense where
+the thirty days is enough
+whether it's too much I think we
+need to have that discussion and
+we should put something in
+statute so that other law
+enforcement that are looking at
+this as it goes rural as
+representative in solicitors
+requesting that there's just the
+rules that are there because
+otherwise which just kind of
+wild west
+madam chair and senator worth
+just think you for your
+leadership on that legislation
+we at flock have always
+committed to being authentic
+partners and figuring out what
+that balances in we very much
+look forward to working with you
+representative chandler not
+related about about finding that
+balance and we're committed to
+that
+think you send it an excess
+senator burgmans thank you
+manager and thank you for being
+here sheriff and chief and for
+the work that you do for all of
+our communities cheap story I
+just wanted to focus on one part
+of what you said about the
+access that the el passo police
+department has you said that the
+lcp had around the searches
+previously cause i'll pass out a
+different system and now that
+all parcel will have flock how
+does that work will they
+automatic if the if they ask you
+for access will they have access
+to your the elc pd's database or
+does someone within your
+department still have to run
+that search for them.
+Madame chair matterby sure
+so it depends on how it set up
+so the examples I gave was prior
+to that so we had to run the
+search is formed now that they
+have flock we have granted
+access for a parcel pd to have
+access to our system to run
+their own searches it is limited
+to investigating personnel only
+and they still have to provide
+the reason so the item can be
+conducted.
+And just i'm curious how
+recently did the switch over to
+flock.
+I believe within the night of
+days for sure sixty nine days.
+I totally agree with senator
+worth that we need some
+parameters around this whole
+system based on the different
+jurisdictions across the state
+just to make sure there's some
+sort of guidelines that
+everyone's following
+sharevellen.
+Or sorry mr channel it start
+there so private entities are
+able to purchase flock cameras
+correct.
+Correct
+okay so the neighborhood
+association was to purchase a
+flock camera system is that feed
+and that database or is that
+neighborhood associated able to
+access the data does I go
+straight to the law enforcement
+interviews thank you for that
+question madam chairman of my
+sure note no if in h o a for
+instance our neighborhood
+association chooses to buy flock
+or per lease these flock cameras
+they would have to enter into an
+agreement with the law
+enforcement agency it doesn't
+happen automatically again we we
+make no automatic decisions on.
+And when it comes to a private
+customer and law enforcement it
+is only one way that's the the f
+b I just standards mandates that
+and that's how we handle all of
+our our data and so they may in
+for retailers that use flark
+they have specific reasons such
+as organized retail theft in and
+that sort of thing and they can
+use it for their own individual
+purposes while at the same time
+going into an agreement with
+their law enforcement agency
+saying you know if if a car on a
+hot list passes by one of our
+cameras we will allow your
+agency to get the alert so you
+know.
+You want to have some yeah he
+current madam chair amount of
+vice sure how that's one of the
+reasons that a partner with lock
+as we have multiple neighbored
+associations in the incorporated
+areas the east mountain works
+rule because we understand that
+they don't have the technology
+sufficient enough to fight crime
+and be ahead of it are also
+within a north south alley and a
+lot of people are partnering
+with us because of the
+presentation and the safety it
+brings with the floor system.
+I'm at least going to hear that
+it has a a law enforcement
+agreement um
+representative martinez was
+touching on an interesting
+aspect that I hadn't heard of
+before which mean me wonder also
+what is the policy for camera
+placement and is the dot and
+charge of that replacement.
+Manager managed here it depends
+if it's a dot right away then
+the permanent has to go through
+the maxi department
+transportation and so in the
+city like philosophers is many
+of our major arteries are also
+doing a roadway so permanently
+sometimes has to go through the
+city los cruises and do your to
+place it there.
+And but these cameras cannot
+offer beyond our patrol cover
+also driving around management
+manifest there's two separate
+system there's many different
+systems out there so there is
+the fixed camera which
+traditionally is what we're
+talking about of a lot cameras
+and then there are mobile aprs
+which are from times were tied
+to a dash camera two getting
+dash camera video and it's at
+the same time it's a license
+plate right.
+Thank you and I have I do a lot
+of other questions but I will
+not go through all of them but
+one less one share valid since
+you mentioned someone within
+your department miss using a
+access to these data bases it
+sounds like there is an internal
+policy.
+And i'm also wondering if lcp
+has a similar internal policy
+madam chairman adviser yes i'll
+be for reapplement any
+technology along with their test
+group we already have a standard
+operating procedure in place and
+then during this testing time we
+always make adjustments for
+what's good and we're here in a
+lot of good but we always know
+that something affairs is
+something that could happen so
+we want to make sure that we
+negate any of that in the future
+so yes so we did catch it going
+against their standard operating
+procedure and it proved us also
+or thirty day audit worked and
+it also improved that we needed
+a couple more internal factors
+in oversight in there which
+we've created.
+A matter of management sure yes
+I think and going back to center
+worth point the most of us are
+not opposed to card else in
+wiving implemented those
+ourselves and we understand that
+not every department may do that
+so we're good with guard rules
+we just want to make sure we
+don't handcuff ourselves and
+make the technology so that
+we're not able to leverage it in
+the way that's optimal for new
+mexico but we have a policy that
+includes out any procedures
+restricting access training and
+everything that helps
+establish those gardens
+great thank you and hopefully we
+can have some conversations with
+also think you manage here they
+considered a nexus
+representative thank you madame
+couple questions especially to a
+sure fell in and and she have
+story when you get the right
+away from dot is that done
+through one of the six dot
+districts or does it go to a
+central dot headquarters.
+Manage your representative so
+traditionally it's had to go all
+the way up from the district all
+the way up to santa fe now this
+hasn't I haven't seen this
+happen yet but last week I was
+informed that secretary was able
+to push down and create a new
+process where it's going to be
+handled at the district level I
+believe starting with district
+too so my hope is that this
+conversation is irrelevant in
+the next few weeks and it kind
+of works yourself out the the
+secretary transfer secretary in
+the dps secretary of and working
+together to try to resolve these
+issues.
+So right now it's all about
+santa fe but hopefully shortly
+all the districts will be that
+will be handled at the district
+level
+thank you
+two or questions quickly he
+mentioned there's fixed cameras
+sharpen you said you want to
+have fourteen fixed cameras does
+the b c s o also have mobile
+cameras in cut in some of the uh
+squad cars
+madam chair representative gear
+yes we have right now five fixed
+cameras and then we are in the
+process of adding sixteen more
+fixed cameras currently we have
+a hundred and eighty four mobile
+cameras which is our axon fleet
+three dollars will as a people
+power go up they will increase
+and I also want our auto theft
+their funus to have it because
+the alpr also comes along with
+the dash camera and I want to
+make sure we have dash camera to
+record every event that we have
+so it will go up thank you so
+many that means you can more
+quickly locate these people in
+them as question is she story or
+or share
+you mention that there were ten
+extreme risk protection order
+issues what is happening with
+someone with their ball that you
+need to track them.
+Manager representative yearning
+the share of my bill to give a
+different answer
+minor saying is that is not
+necessary the same thing that we
+call extremely protection or new
+mexico so I don't think it's
+specific to firms I think these
+are what we would call her
+strain in order in our common
+and accurate are entered into
+ncin typically it's not any
+action that she would have to
+take is just a notification that
+that person has is a restraint
+party and so
+let's see
+there's a place a business you
+know that the restraint party
+works out in that you get that
+alert and they're right there
+that would allow law forcement
+that you might have an issue or
+violation of that restriction
+madam sure representative
+reference per to protection
+orders for domestic violence we
+have a lot where people are
+violating specifically the
+offender and sometimes the
+respondent and when the judge
+gives an order for violation of
+a restraint order that's when we
+can then put the vehicle into a
+custom heartless and make an
+arrest and effective through the
+courts great thanks for that
+clarification.
+Next senator pity.
+I think you madam chair and
+thank you for the presenter
+scotch and and the wonderful
+work that that all of you do in
+your staff and all the people
+I leave had a light in las cruce
+is going on and I just you know
+my heart goes out to your
+community
+the madame chair share if you
+just do a wonderful job in my
+area slowed those traffic with
+those speeders down on real
+bravo when you said a hundred
+and ten driving on on real brave
+while I was harking back to the
+day the guy flew through the
+trailer on the street without
+all the online just anyway but
+thank you so much for all the
+work you do you know I go to the
+peter worth school of law once
+in a while every year at least a
+couple times a year and I had a
+whole slower question to came up
+I won't go through all of them
+either much like the vice chair
+said but you just maybe i'll
+just call them out a little bit
+but so I guess if you're if you
+were a.
+In a perpetrator or your of a
+victim of some crime or
+something the thirty days plus
+reminus might help you on your
+case or it might help convict
+somebody that might get on the
+other side of whatever so i'm
+just trying to find how that's
+going to work you don't have to
+answer in example it's going to
+just kind of throw like some of
+the chair wants to keep moving
+when I hear that when I see the
+word underlined on page ten
+in the first of all that they
+are never I will never be sold
+to a private third party I guess
+how do you know that you know
+i'm i'm really trying to figure
+that on out cause anything's
+possible do you want to talk a
+little bit about that or yeah
+madame chairman center pretty
+bold statement it is and we make
+very clear it's one of the
+things that sets us apart
+contractually in every single
+contract we have with every
+single agency we make a
+perfectly clear that we do not
+will we will not sell data that
+is legally binding contractual
+that's you know in today's
+tac environment is
+understandable that folks would
+assume oh you have all the state
+so you're going to sell it to an
+advertiser whatever we do not
+make our money doing that we are
+business is successful based on
+selling a service at two
+customers not on selling
+customer data and we've drawn
+that line in the same so we will
+not sell data I appreciate that
+madam chair up I I believe that
+a company you might have heard
+of twenty three and me that they
+kind of said that too and then
+all the sudden we found out that
+you know my third cousins have
+found out who all them were you
+know so
+did we want to but
+and then it's let's just say
+there's two agencies that need
+the information to to law
+enforcement who's gonna win on
+on the timing of the of the
+perging of the data so you can't
+play to figure that out also
+and then with would this some of
+this technology work on these
+mobile speed cameras I know
+that's one of the ways that the
+share for slow down the speeding
+in my area in a couple of areas
+can can you slap this on those
+machines as well and in this app
+is that allowable to be heard in
+in in a court room if that ever
+has ever needed that.
+Uh starts you don't have an
+example location where those are
+sometimes now I will scott your
+honor so I get just got it madam
+chair
+I heard on the radio great by
+the driving things
+not yes so the the sixteen
+fixed.
+Cameras that we have flock was
+able to give a sixteen cameras
+for for fixed cameras along with
+the speed cameras that are in an
+incorporated areas but it's
+under my direction where we can
+place them appropriately because
+we have a lot of complaints
+about saled in our day and tram
+way that we're trying to make
+sure that we're spreading them
+out evenly I don't want to put
+it in just one area I don't want
+to overpolice also but I also
+want to look at data just not
+crash data but all the speeding
+complaints that we're collecting
+that's for those fixed cameras
+will go
+okay well and thank you for the
+cameras you really slowed me
+down by the way so i'm just
+gonna say that out well and then
+you know I I have a bunch of
+questions too i'll just follow
+up with you share because I have
+your number we we can be spoke
+recently if you might recall
+after a job for a held recently
+the last thing so would two
+license played to be helpful
+with this technology if we had
+one on the front of the vehicle
+should we just maybe look I know
+people are really cannot I was
+going to drop that one and then
+leave then leave the room but
+but it just seems to me like
+that would be extremely helpful
+to it to all your efforts right.
+Turn us on at the same time
+madam chair senator yes speak
+for you I think all law
+enforcement would like front in
+the back license plate and the
+reason for that and a serious
+matter is we do know that
+criminals are smart at times and
+they will try to do anything so
+we don't catch the license plate
+then we of course go to the
+description of the vehicle but
+it would make it more efficient
+and it would also make sure that
+the license plates match because
+I mentioned five hundred and
+eighty four five hundred eighty
+five stolen plates that would be
+very difficult to still both
+plates in a matter time we know
+they're going to start
+mismatching i've seen it for
+years in different states that
+utilize the two plates so that
+would actually help
+enforcement
+cheap maps you're sure to sat
+one their agree with the sheriff
+but that actually stretch out
+these resources for us right now
+we have to use two cameras on
+most roadways because we don't
+have a front sort of to get
+traveled coming and going we
+have to use two cameras we have
+the potential that maybe we only
+have to use one camera but that
+other cameras somewhere else
+which would make it more cost
+effective for agencies yet just
+seems like it would be helpful
+and then you'd have you know
+exponentially a larger
+opportunity to catch whatever
+you're trying to find there so
+I might want some bunch of
+people in this room to help cost
+once or a bill on something like
+that if anybody wants to join
+this very unpopular move you
+know i'm never scared to do
+these ones again I get my room
+kicked you know on some of these
+but but I really think we should
+consider it because it just
+seems like it would be helpful
+thank you chair
+thank you senator and I would
+love to join you on that bill
+next is representative loohing
+thank you very much think you
+gentlemen
+because you're doing an
+exceptional java a new buy
+all the committee meetings were
+having another things i'm
+reading but I on this subject
+matter
+as I was driving to albuquerque
+last week I just heard that you
+know commentary on one of the
+local stations radio stations in
+the complain about the cameras
+so they must be working
+that their cat you know the
+speeding in certain areas and an
+albuquerque so.
+But it was good for me to know
+as I was driving around and you
+were not to speak but I actually
+drive pretty slow
+but I have to agree with it are
+worth in some of the in their
+where are those those boundaries
+that we need to create and as I
+was you know kind of relating
+this to what he was saying you
+know some of the questions that
+I in
+mean being is the the the public
+privacy issue and and where in
+public spaces may
+civilians feel that they're
+their privacies being infringed
+and what are those expectations
+of a privacy specially with
+sensitive areas like home you
+know that private homes
+hospitals in schools so do you
+have any kind of policy in place
+now that in regards to those
+sensitive areas and and maybe
+those that have some kind of
+protection witness protection or
+um but particularly our
+juveniles mister chair.
+As was first mentioned in an
+opening statements today.
+A manager represents the hundred
+I think you know right now these
+are placed on major roadways
+generally speaking of roadways
+themselves are not placed at
+hospital schools or other places
+like that.
+There a lot of times being
+driven by both crash out and
+crime data to for making a
+decision where replacement we
+don't have near these many
+cameras as I would like so we
+have to make prioritise and
+based on those two thousand two
+things crashed out and crime
+data
+you know my argument will always
+be that these are reading a
+license plate which is already
+visible to public view any
+public location and so although
+some people are disagree it's
+gathering data that we don't
+have a reasonable expectation of
+privacy to
+in the reality officers aren't
+seen it and less there some
+cause to see it so I drive past
+at least one every single day
+and my personal vehicle or in my
+work vehicle doesn't even cross
+my mind because I know how it's
+being used and I have the luxury
+of knowing that exactly how the
+did has been used and not being
+used.
+So I don't know that answers
+your question representative but
+they're their placed in areas
+based on crime data and crash
+data to help I solve crime in
+mitigate crashes and is really
+only being used for those two
+purposes and for missing persons
+madam chair and representative
+there are I would and push back
+a little bit on the schools and
+explain why animate for
+hospitals I really don't see a
+reason why
+in reference to schools there's
+two things that I would say is
+everyone's going to utilize an
+active shooter but I get missing
+people from schools also but
+just because of my concerns I
+would never do that I don't only
+suggest that through the aps
+school board I think that's up
+to the school board members to
+make that decision if they
+wanted that the license plate
+readers don't look at identities
+of children or anything of that
+nature we do have a lot of sex
+offenders and cases that come
+out of schools and also
+costodial interference but I
+would leave that and give that
+to the school board for them to
+make a decision if they wanted
+us to inf.
+So I appreciate that there are
+some um working policy
+uh out of order in north dakota
+and the subject matter and how
+they're using their data and
+what they have legislated so I
+would maybe reference you to
+that
+as far as like uhm.
+Most we can say you mentioned
+the ever in the public request
+of information what is your
+policy around I know we have the
+state policy that's in force
+that you have to respond to
+within that time but we have an
+exception when it comes to any
+kind of crime involvement can
+you let us know about that
+downstairs yes matter i'm sure
+representatively honest when it
+came up I I believe two years
+ago when myself a center were
+spoken about this the iper law
+is outdated in its anequated it
+does need to be updated when we
+are looking at retention I was
+worried the way that if her is
+written that my agency would be
+in violation and specifically
+with the public defenders are a
+defense attorney for exculatory
+evidence so we know just like
+the chief said say we had a
+retention of fifteen or thirty
+days and on the thirty first day
+that's completely delete it but
+we found the offender and then
+we were trying to get more
+probable costs to make an arrest
+warrant and then a defense
+attorney for whatever evidence
+in chain of custody we have
+that's passed over to defense we
+are not able to do that that
+does keep me up at night and i'm
+not asking for three hundred and
+sixty five days i'm just saying
+that happy medium hat I don't
+want to speak for all
+enforcement because a lot of
+many won't agree with me
+anywhere between thirty and a
+hundred twenty days is very
+important for us because I don't
+want to have what happened in
+twenty twenty one when we lost
+evidence and in were having a
+backtrack and waiting on the
+next legislative session to make
+adjustments to the bill that
+does worry me and we do need to
+look at it for a law
+even some of the requested I get
+in reference to our technology
+it works against us i'd like to
+look at the last one they visit
+her mountain I rep I appreciate
+that I just wanted to take a
+look a deeper die because you
+had mentioned something to the
+wanting the extra time in and
+we've looked at a lot of april
+or type of reform this last
+session and I assume we're going
+to continue on those lines so
+this is important and and
+potentially conversation
+in coordination with you
+mentioned now the school board
+but in cornation with you and m.
+What is what are your best
+practices and and how do you
+how do you yeah how do you
+facilitate that coordination
+madam chair
+madam sure representatively
+honda.
+It's different with the board of
+regions and and I will give
+something that's
+more reason as far as the uni'm
+shouldn't happen this past
+weekend that don't have anything
+to do with license plate readers
+it had more to do with our
+drawns and what we did as
+everybody's work about privacy
+and use looking in the backyards
+rso p for our drones as we look
+on a horizon so I watched it
+myself on my phone with our
+technology to ensure that our
+departies were doing what was
+correct and we had a description
+of the offender to clear the
+capital we clear that campus and
+probably save four or five hours
+for very swat teams the clear
+various buildings and also the
+release people and constituents
+so they're not in a shelter in
+place forever the description in
+the clothing was given out which
+we do know that the offender
+changed but as soon as our drunk
+technology looked at the
+offender realized it wasn't them
+they go right back up to the
+horizon and flight somewhere
+else as far as was acceptable u
+and m has not I spoke to a
+region member last night
+we give any resource we can at
+their discretion but at the same
+time state polices in charge of
+that capital we are there's just
+there to assist they did not
+have the technology at the time
+so I activated our joint units
+to go help and and if we were
+kicked out we are kicked out but
+anything that's cooperation in
+anything to collaborate.
+You did you want to add to that
+no i've just noted that the
+state chief of police noted that
+l p r was one of the key tools
+used in the UNM shooting and so
+they came out insurer I I
+appreciate that the the the uh
+answers you've given and there's
+more to what's going on but I
+just want a highlight how we're
+having this debate and what or
+those pressures are for all of
+you and how we are responsible
+to respond to them so thank you.
+Alright thank you for your
+presentation we also heard
+something like this in them or
+in the different committee chief
+what we solar and we heard about
+drones and all the things that
+are going on I think we're lea-
+using technology the way it
+should be used that we need to
+continue so if funding is an
+issue make sure you ask us I
+know uh.
+Too far I mean sheriff allen
+never has a problem with that so
+thank you for all you do and we
+appreciate you and all your
+information you gave us today
+thank you.
+The.
+I had a last presenter searching
+with ancient life france and
+life in on mars with the
+curiosity and perseverance
+rovers uhm doctor nina lansa.
+Alright thank you and whenever
+you already.
+Thank you madame chair thank you
+for the invitation to present
+here I know this is something
+that's completely different
+and hopefully it'll be a a great
+way to end this very long day
+so I am going to talk to you
+about some of the work that
+we're doing I thought i'm
+personally doing it los alamos
+with many other people and we're
+working with the curiosity and
+perseverance rovers.
+Next like please.
+The.
+The.
+So before I do that I just want
+to set the stage a little bit
+that idea that there was life on
+mars that could have been life
+on mars is not a new idea at all
+so these are actually two real
+new york times headlines one of
+them is from nineteen oh six and
+it's very definitive there is
+life on the planet mars now this
+was based on the work of the
+astronomer personal lowell who
+was making telescope
+observations from arizona and he
+believed that he could see
+changes that look like
+architecture in the surface of
+mars and he called these canals
+he he actually had a whole
+hypothesis for what was
+happening on the surface now of
+course we know now that it
+probably was a lens aberration
+that was causing him to see
+these changes but at the time
+you know these were the only
+data that we had and indeed he
+continued to report you can see
+that martians built two immense
+comma canals in two years you
+know that's a nineteen eleven
+i'm so they were quite busy.
+So when we we didn't know for
+certain that that was what was
+going on but when we finally had
+the opportunity to land on the
+surface of mars people were
+understandably very excited
+however next lade.
+They were very disappointed when
+we landed with viking and we saw
+a bunch of rocks and dirt I know
+i'm a geologist and I will tell
+you that rocks and dirt can
+actually tell you a lot of
+really exciting things but I
+know it doesn't quite hold the
+candle to an ortion society and
+so because of this
+disappointment even though the
+science was really exciting we
+didn't have another mars mission
+for another twenty years after
+viking it really destroyed the
+field.
+Next slide.
+But this all changed in nineteen
+ninety six when a meteorite that
+was recovered from aunt article
+was determined to be from mars
+and not only that it had some
+meteorologies in forms inside
+them rock that suggested it
+could be on micro some kind of
+facilised micro life and that
+was extremely exciting so I if
+you may recall that then
+president clinton had a press
+conference about this and he
+said today rock eight four zero
+zero one speaks of the
+possibility of life if this
+discovery is confirmed it will
+surely be one of the most
+stunning insights into our
+universe that science has ever
+uncovered that's heady stuff and
+I think it's true but of course
+this really mobilised the site
+of the community and a lot of
+people took a look at this rock
+and decided that you know it
+wasn't strong enough evidence
+you know for a big claim you
+need big proof but it didn't get
+the community asking the
+question will how could we do
+this work and it actually
+sponded entire field of research
+that's astrobiology or
+exobiology the search for life
+not from earth.
+Next line.
+So you're probably asking
+yourself why do we even care why
+do we care if their martians why
+do we care if there were
+martians what is what is that
+matter and the reason is because
+by asking this question in we
+can answer some really
+fundamental critical questions
+about ourselves so the first
+question we can answer.
+Are we alone are we alone in the
+universe you know are we here on
+earth.
+Um I respecial in some way.
+I would point out that every
+time that humans have thought
+that we were very special in
+some way we have always been
+proven wrong
+but that just tells you we need
+to we need to ask the questions
+and that leads to the next
+question.
+Where did we come from how does
+life develop and how conducive
+to life is earth really you know
+we think of earth is the perfect
+place for life because it is
+teaming with life here but we
+don't really know anything about
+life and what it needs and baby
+earth isn't that great after
+all.
+And so these are really big
+questions that we can actually
+begin test hypothesis to the
+answers to these questions on
+mars and that's because it's the
+most earth like of our
+neighbors.
+With the same age very similar
+compositions similar histories
+although mars is very different
+from earth.
+Today as it is now i'm so this
+is one of the reasons why
+studying mars it's not so
+distant from studying ourselves
+from studying this other planet
+we can learn a lot more about
+life here on earth next slide.
+So we know from our many many
+missions both landed an orbital
+to mars that mars was habitable
+at the right time at a certain
+time and so habitable means
+supporting life as we currently
+understand it.
+So now the question is was it
+ever inhabited that's a question
+we can ask now and so this is
+kind of a complicated slight but
+bear with me here so we see
+essentially a geologic time
+skill for both earth and mars on
+the left hand side that's the
+beginning when the planets for
+formed over four point five
+billion years ago and then on
+the right that's the present day
+and the the first thing I want
+you to notice is that when we
+look at rocks on the surface of
+earth they're actually very
+young it's because we live in an
+incredibly dynamic planet and so
+rocks are constantly being
+recycled so if you won't go
+outside and pick up a random
+rock it's probably not really
+more than a million years old
+which sounds pretty old from a
+human standpoint but it's very
+young from a planetary
+standpoint.
+Now if you contrast that with
+mars mars has a surface that's
+incredibly ancient it's actually
+like a museum of geology and it
+gives us a window into a time
+that we really don't have on
+earth.
+From the very few rocks we have
+that are ancient from earth we
+know that life arose very early
+in an earth's history about four
+billion years ago we're pretty
+sure so life has existed for a
+long time but we don't really
+know the context in which that
+life developed where how did it
+form in what environments but on
+mars these environments are
+preserved these habitable
+environments are preserved in a
+lot more detail so that we can
+study these environments that if
+they were on earth would have
+been inhabited so we don't have
+the answer quite yet but this is
+one of the reasons why studying
+mars really gives us insight to
+our own origins here on earth.
+Next slide.
+Okay so how do we identify these
+signs of ancient life in rocks.
+There's a number of ways we can
+do this we're looking for
+potential bio signatures so
+those are signals that could be
+made by life we say potential
+because a lot of these things
+can be made by not life but if
+you start to see several of them
+together at that starts to peter
+picture of maybe maybe life was
+involved here so there's a
+number of things we can look for
+of course we can look for
+structures and textures you know
+a macroscopic structure that we
+would all be familiar with is
+something like a dinosaur bone
+right we could look at that and
+say that's a structure that was
+probably made by life but we
+also see that at the microscale
+as well we can see sell walls
+that have been preserved in
+certain materials as well.
+We can look for organic
+molituals which is what life is
+made out of we can also look for
+specific types of minerals that
+either form and water or form
+because of because of life
+itself we all are walking around
+with minerals that we drew
+ourselves we are all are
+carrying in a sociality in mate
+of the mineral appetite which is
+a fast fate mineral so that's a
+another bio signature.
+We can also just look at the
+chemistry the chemistry of
+lights that they're life
+typically needs are a separate
+amount of certain elements we
+like to call them check up so
+that's carbon hydrogen oxygen
+nitrogen fast for a suffer so
+those are things that are
+abundant in our life as we
+understand it and we can also
+look at the isotopes of these
+elements that life is using
+because it prefers some to
+others.
+And so these are all things we
+can look for but again we need
+to have multiple lines of
+evidence for actually say this
+might be life and it's actually
+really hard to assess this
+remotely with our spacecraft
+instruments so if we had these
+samples back in the lab we could
+actually do a lot more
+systematic analysis we could
+repeat analysis and we can even
+save some material for future
+analysis and i'll come back to
+this.
+Next slide.
+So let's talk a little bit about
+our mars rover family that's up
+on mars right now so i'm showing
+an image that's taken at the jet
+proportion laboratory in
+pasadena california in the mars
+yard where we test are rovers
+and so these are at two full
+size engineers for scale here
+the first mars rover that we
+sent was in nineteen ninety six
+that was the so journal over as
+part of the path finder mission
+then in two thousand three we
+sent the twin rovers spirit and
+opportunity to two different
+places on mars at the same time.
+And then finally in twenty
+eleven we launched the
+absolutely massive more science
+laboratory or curiosity
+I mean you can see it's it's
+like sending a laboratory to the
+surface of mars it's really
+really big and this is a this is
+one of the rovers that I work on
+and i'll tell you a little more
+about and of course not to rest
+on our laurels we decided to
+send another faternal tlin of
+this rover the march twenty
+twenty per severance rover which
+launched in twenty twenty and
+has been roving mars for four
+years and i'll just say the land
+of her three of curiosity is
+next tuesday so it'd be thirteen
+years earth hears since we
+landed so we've been gathering
+data with curiosity for a very
+long time which is pretty
+exciting.
+Next.
+So I could tell you a lot about
+the instrument pay load but I
+want to focus on my favorite one
+on curiosity and that is the cam
+came instrument now that is the
+instrument that's like the head
+of the rover it's got a little
+cyclops I this was and this is
+lead by los alamos item the
+principle investigator of this
+project I lead a team that is
+composed of seventy seven people
+all over the world it's actually
+a strong collaboration between
+the united states and france
+it's something we did in
+partnership with them we have a
+lot of other folks who are
+participating in this mission as
+well from canada denmark germany
+many other countries.
+And so this instrument the name
+tells you what it does came can
+a short for chemistry and camera
+so as you might imagine we get
+chemistry data and we also take
+pictures so the chemistry
+technique we used is called
+laser induced breakdown spectrus
+copy or libs and it's a really
+cool technique is essentially we
+we can focus a laser at a target
+about twenty three feet away
+from the rover we don't have to
+touch it and we vaporize little
+material and we look at the
+light that that vaporized
+material makes and we can figure
+out what elements are in it so
+it's just like my childhood
+dream come true I work on a
+spaceship with lazer saucer
+and then we can also take a
+picture of where we took that
+chemical analysis so we can
+actually tell the difference
+between you know the light
+crystals you see in this picture
+versus the dark natrix and so
+thus far in the thirteen years
+we've been roving mars we've
+actually taken over a million
+shots which is a million
+spectrum it's a huge amount of
+data really truly unprecedented
+you know in the history of mars
+exploration so that a lot of a
+lot of information there.
+And we've also taken over six
+thousand images to go along with
+that so lots to learn you know
+we've learned a lot but I think
+there's still many phd theces to
+be written in these data next
+slide.
+So I could really talk again
+forever about what we have
+learned in thirteen years but I
+just thought I would tell you
+about one of the most exciting
+things that's most researched we
+discovered elemental suffer not
+the elements of her but
+elemental software and i'll
+explain what I mean so we were
+just driving a long and we saw
+these break tone rocks and we
+drove over one and it shattered
+so we thought well let's look at
+it and then you look inside this
+and you see some very
+distinctive yellow crystals.
+And so that's very very similar
+to you know we we can't make a
+determination of memorology
+based on just the color alone
+but we were very excited it's
+very unusual so what we found
+was that this is entirely sulfer
+entirely so we used kemcam and
+other chemistry instruments to
+determine this and you can see
+that um one of my colleagues
+spoke to cnn and called the
+discovery mind flowing when I
+totally agree with that because
+it is something we didn't expect
+and I can explain why and the
+next slide.
+So without going to deep into a
+chemistry lesson and an
+afternoon
+you might be to say okay well
+what does this mean why do we
+care and this is because softer
+is the type of element that can
+have what is called the
+different redox state depending
+on the environmental conditions
+so what that means is that
+depending on the type of um
+conditions in the water when it
+forms it can form more or fewer
+bonds so if you look at the type
+of minerals being made you can
+say something very specific
+about the environment which meet
+it.
+And so when we look at software
+on mars and there's quite a bit
+we usually see oxidised suffer
+so that would be something like
+gipsum so what white sands is
+made out of that's a lot of
+chipson and that's oxidized
+sulfur and it makes a lot of
+sense because we live in a very
+oxidized environment here on
+earth with all the oxygen and
+the atmosphere now on mars you
+know it's a pretty oxodising
+place so that's not unexpected
+in some martian meteorites we've
+seen some very reduce offer
+which makes sense maybe that
+came from a time before you know
+mars had as much water it's hard
+to say could be from a volcano
+but what we don't see is so far
+right in the middle that's
+softer that is not bonding to
+anything but itself.
+That's really unusual and
+typically so that it means it's
+not an equal library and with
+its environment so how is it how
+is it existing there what
+happened because it wasn't
+formed in today's environment.
+There are multiple ways you can
+get this type of material on
+earth you see this at volcanoes
+if you've ever been to the um
+hemes all for springs you could
+actually see some of this yellow
+material around the fumerals
+you know you see this when you
+have organic material that's
+mixed with accident software and
+it reduces it and you can also
+see it very clearly when
+microbes make it microbes love
+to reduce offer.
+So all those are pretty
+interesting possibilities and
+i'll just point out there's no
+volcano visible anywhere near
+this location this was a lake a
+fresh water lake now does that
+mean it's not volunteer not
+necessarily but it does open up
+a lot of fascinating
+possibilities and i'm gonna
+leave it on a cliff hanger
+because we're still not totally
+sure the papers have not yet
+been published but stay tuned I
+just think it's really exciting
+because again it it shows us
+that this is a planet that you
+know we're still learning things
+about and there's a lot of lot
+of cool things to still learn so
+next slide.
+So now I want to switch
+attention to our sister
+instrument on our sister rover
+so this is the super came
+instrument.
+And the perseverance rover so
+perseverance you know is a
+little bit younger it is rolling
+in a different location super
+cam is also lead by los alamos
+um is also a collaboration
+between the united states france
+and now spain.
+Umm and it's similar to but
+maybe a little bit sooped up
+from from kemcam so we have that
+laser spectrus could be
+instrument lib so we can
+vaporize rocks figure out the
+elements but elements are not
+the only thing we need to know
+if we want to know what it
+rockets me out of we need to
+know chemistry elements and then
+minerology how are those
+elements stuck together.
+And so we actually are able we
+have another laser base
+technique on the rover on super
+cam called raman spectrus
+computer which allows us to get
+that information as well so it's
+a really powerful pairing of
+these two techniques.
+We still take beautiful high
+resolution images this time in
+color and just for funds is we
+added a microphone to the mast
+and you might say why are we
+trying to hear what the martians
+are saying about us and maybe
+sure we would do that but it's
+actually to hear the analysis
+sound of the lives laser because
+it makes a snapping sound under
+an atmosphere.
+And so that can tell us
+something about the composition
+all
+make up of whatever rock were
+analyzing it's just another
+piece of information.
+So so this is also an instrument
+that is in operation right now
+next slide please.
+So as before I could use so many
+things but I thought I would
+highlight this really exciting
+one so last year we made it
+announcement that we thought
+we've found a potential bio
+signature and if you remember
+what potential buyer signatures
+are you know this is pretty
+exciting so here's a few
+headlines that we had my
+favorite was from the new york
+times it was nasa did not say it
+found life on mars but it's very
+excited about this rock and
+that's exactly how I feel about
+this rock as well so if you go
+to the next slide you can see it
+this is iraq that we named
+cherry of a falls and it is so
+fascinating so it has a bunch of
+those different buyer signatures
+that we talked about before so
+we it contains organic motions
+it has minerals that formed and
+water and that are often also
+formed by microbes you see these
+microstructures and textures
+it's a little hard to see here
+but it you see the sort of a red
+stone with these black circles
+with a white center that looks
+like what we would call a
+reduction spot so sometimes you
+see this in san stones in the
+southwest where you actually
+have a little bit of organic
+material a few microbes stuck in
+the rock and then it starts
+reducing the oxidised material
+around it so you have probably
+seen this and if you haven't
+then hopefully all you'll look
+for it next time you go for a
+hike
+and then of course we see the
+chemistry of life we see a lot
+of softer we see a lot of
+phosphorous and this is an
+amazing and amazing rac.
+So is there's a sign of incident
+life.
+And now i'm gonna tell you we
+have to bring it back to our lab
+to visual because of course
+that's a really big claim this
+is all all the pieces are here
+but we don't quite have the
+instrumentation to do that on
+board the rover.
+Next line.
+So
+this is why it turns out that
+perseverance is actually the
+first part of the mars sample
+return mission so part of the
+goal of perseverance is to
+sample you know rocks that we
+want to bring back to earth to
+study and then another mission
+will come pick it up bring it
+back to us and something that we
+started doing we've sampled I
+believe it's thirty eight
+samples of a total of forty
+three mbps maybe at forty now so
+we've packaged them up and
+they're waiting on mars now you
+can see here that I say tvd
+usually I would put a date there
+but um if you have looked at the
+nasa proposed budget marsample
+return has been zeroed out
+completely
+so I don't I don't know what the
+future of that mission is going
+to be i'm going to cross my
+fingers and hope that that other
+lawmakers are will agree with me
+that this is really an important
+next step this is sort of what
+we've been aiming to to do to
+learn about mars since we study
+mars from the very beginning so
+um.
+I think with that you know let's
+keep her fingers crossed and
+hopefully you agree with me that
+you know these are pretty
+exciting rocks and will please
+stay tuned and as we as we learn
+more so thank you very much.
+This.
+Thank you very much for that
+presentation and thank you for
+being so enthusiastic about your
+work also it's a makes it fun to
+listen to us senator soles we
+have you first on the list.
+Thank you I remember two or
+three years ago we were here and
+got the see all that and I read
+the book red rover and you got
+on all this in your enthusiasm
+is is infectious and so I I
+appreciate all of this and very
+interesting fascinating things
+are kind of the last point when
+the budget got zeroed out what
+is the cost for the return.
+Program.
+The.
+And so I I think I might want to
+get this wrong the that was a
+huge issue so the original cost
+I believe was in the
+could have been ten billion
+dollars mark it's a huge number
+of billion with the b
+and this was um of great concern
+and so there has been a lot of
+work done to study the issue and
+to see how could we reduce costs
+and there have been a lot of
+reductions in the architecture
+for the mission
+that being said it's an
+expensive mission if I you know
+just to put this in context
+curiousity is it's a two billion
+dollars mission perseverance is
+similar now when you are more
+ties over the length of the
+mission it's actually feels kind
+of affordable but it is a huge
+outlay of funding so you know
+it's really hard to to take she
+had a speech crap from earth to
+mars successfully and it's even
+harder to get it back
+successfully and it's a complex
+mission we have to pick things
+up off the surface with the
+random view with an orbiting
+space craft you know there's a
+lot of parts to it.
+So it is a high cost and and
+that's I suppose
+it is it's not up for you know
+more signed is to really igneed
+to decide whether or not that's
+worth it but it is the highest
+priority set out in the nasa
+decadel survey for planetary
+science and that's as you might
+imagine every ten years the
+community comes up with the
+document that says this is what
+we want to do and this was the
+top one for the last.
+Dickate or survey.
+And madam chair in a presenter
+that that's a pretty small
+amount in the federal budget
+level it's a lot for a state
+like new mexico
+as the teacher and educator I
+wish students got more access to
+these kinds of presentations in
+their science classes uh because
+it
+bills the gaps between geology
+and astronomy and chemistry and
+design and engineer and physics
+about what they could be doing
+is you know you could be
+a more scientist at bos alamos
+you know here is some of the
+cool interesting things that you
+would get to do and I don't
+think we do a good enough job
+about encouraging our young
+people to
+to think.
+Into the strato into the.
+The solar system rather than
+just in their own little town in
+community and so that thank you
+it's really interesting and
+exciting.
+Thank you.
+Thank you next is representative
+martinez.
+Thank you manager in.
+Thank you doctor lands up.
+Streamly interesting.
+I I am curious along the lines
+of what se.
+Talking about.
+So.
+The mission would then send.
+And then there would be a return
+craft or would it come back on.
+The same rocket what what's the
+what's the plan for that.
+Is yes so I think if I could
+meet answer for now I think it's
+changed and we have changed
+together she just quite
+frequently but so the idea would
+be that we would send um we'd
+launch another space craft and
+this spacecraft would have two
+components and one would be just
+going into orbit around mars the
+other would land and that would
+contain the launch vehicle to
+get the samples back.
+So originally we were going to
+have a fetch rover that would go
+pick up our little samples and
+we were also going to utilize
+some martian helicopters we've
+actually done that technology
+demonstration already but to
+reduce costs they have decided
+that we could use perseverance
+itself although perseverance was
+not designed for that so there's
+some question how do we how do
+we do that
+so we have done we've tried to
+plan for all eventualities we
+have put a sample cash of about
+twenty samples in one location
+in the crater which is quite
+flat so we know we could land
+there and then we've retained to
+the other half of the samples so
+that if we needed to put them
+into another space craft has
+have yet to be designed then we
+could we could do that so so we
+are ready for both eventualities
+needless to say it's very tricky
+to do that right that's a hard
+operation to do autonomously
+it's not impossible I think we
+have good engineers we can
+probably do it
+and and that means we won't get
+necessarily the full sample
+suite but it would be still any
+rock from mars that we got to
+pick out is amazing so that the
+tricky part once you get them
+all in the launch vehicle
+they've got a launch back
+rondevo with the orbiting
+spacecraft and that spacecraft
+would then leave mars orbit and
+head back to earth.
+And then land on earth and that
+would probably be something
+similar to genesis the genesis
+mission for solar wind you know
+we would get um parashoots i'm
+not sure we would necessarily
+have to to catch it with a
+helicopter like that but it was
+land in the desert so so there
+are many moving parts even in
+this simplified architecture.
+The amount of chairman doctor
+lands are so.
+If.
+What's the timeline.
+So I believe the timeline is not
+very long in the sense that we
+are already working on that part
+of the mission that isn't
+something that had stopped that
+is not true at the present
+because once that budget
+proposal came out nasa has been
+directed to start close out of
+everything that is listed in
+their pending you know a a
+decision by congress so but I
+would say we're not at we're not
+starting from zero right this
+isn't just a concept there's a
+lot of tests that have been done
+I think we were originally
+planning to launch in twenty
+twenty eight that may have
+slipped to twenty thirty three
+this is because we have launched
+windows only every twenty six
+months so we can be ready to go
+and we still don't want to
+launch them so so we are
+planning around those launch
+windows but you know even twenty
+twenty three.
+I'm sorry twenty thirty three is
+nut all that long from now so it
+would be a huge endeavor and I
+think we I think we
+could collectively as a
+community could do it.
+We just have to you know decide
+that that's that's how nasa's
+resources will be fine that will
+be spent.
+Thank you matter doctor lands
+are so launched to retur.
+So if you launch at an optimal
+time and we probably would it
+wouldn't take more than maybe a
+few weeks maximum to be able to
+get those samples I would say
+probably less than that we are
+we are you know earth and mars
+are pretty close to each other
+for
+you know several weeks at a time
+so we typically will launch when
+we are approaching mars so we
+can get a little boost from
+earth.
+So we don't want earth to have
+gone by too quickly if if you're
+too far then you're chasing
+earth so you want to be able to
+land get the samples and launch
+again when you still have at
+least some advantage or at least
+if you're at a neutral point and
+you're close so I would say it
+would be pretty fast and then I
+mean we don't travel very fast
+because there aren't people i'm
+so you know astronauts have a
+lot more needs in our robots so
+it would probably take and the
+order of six months to return
+from there.
+It's actually that it mars is
+very close yeah.
+Thank you madame chair thank you
+for that.
+Thank you madame chair if there
+is no one else I just have some
+very brief questions has there
+never been any other type of
+rock returned to earth for mars
+there has never been a sample
+return from mars the only rocks
+we have from mars or meteorites
+that landed conveniently here on
+earth for us and we've had to
+infer that they are from mars so
+we've never done sample return
+from mars we've only done sample
+returns from a handful of places
+you know at the moon um several
+comments
+an astroyed and the sun but
+we've never returned samples
+deliberately from mars.
+Interesting that we we return
+samples from the sun
+we collect solar particles and
+that is actually mass from the
+sun and then we brought it back
+down that was the genesis
+mission which you might remember
+there was a switch problem and
+so it crashed into utah very
+tragically but we actually were
+able to still use those data we
+have you know many many
+researchers who paint takingly
+cleaned those please and were
+able to extract usable solar
+wind particles from them I
+worked with them there was a
+post talk at least almost who is
+doing this work it's very hard
+but it's very rewarding
+bright and then my only other
+random question is where you
+normally launch these rovers
+from.
+Typically the united states
+launches everything from kennedy
+space center and that is because
+it is the southern most point in
+the continental US so you get
+the benefit of a little bit of a
+a boost from the spin of the
+earth so so that's where both of
+our rovers were launched from
+and I was lucky enough to
+actually be there for
+curiosities launch unfortunately
+prevented any of us from going
+to see the perseverance launch
+but of course we were all
+watching we had a a zoom of like
+four hundred scientists it was
+pandemonium but we were all
+there in spirit together
+watching it
+oh well i'd be able to do that
+um I think that's
+that's all the questions I have
+represented a stupid question.
+And think you made him check
+matter by share actually more of
+a question than just a statement
+in a senator souls house
+wouldn't have agreed and
+students had access to some of
+these materials and they're
+actually are a lot of materials
+out there now so nasa gpl they
+actually admission to mars like
+in a marshover competition so if
+you do have schools that you
+think might be interested in
+space exploration there are a
+lot of materials out of what's
+true to see necessary I think
+they offer a lot of those
+materials also
+there's also a lot of aerospace
+organizations but there's a lot
+of work to get are the spy next
+fighting where is rover work
+into the classroom if you have
+any teacher contacts and they're
+interested thanks thank you
+manager.
+Thinking for your presentation
+all right committee we have a
+couple three things and we have
+no per comment so that's one we
+need everyone to take your stuff
+because there's up a meeting
+right after this here so only to
+take your stuff and we're gonna
+have david back in the back tell
+us what we're going to
+morrow for those of you who are
+going on the tour.
+And then we'll be done david.
+Thank you manager.
+Welcome
+members of the committee made of
+his david trial with us almost
+national laboratory as you know
+if you look at your agenda we
+have an exciting agenda tomorrow
+I think we start at nine here
+and I think the agenda's client
+for us to unlike eleven forty
+five twelve we've arranged for a
+a lanal shuttle to meet us here
+at the minister for building so
+well we'll badge everyone and
+verify id load the shuttle and
+will transport you on site and
+we've got an exciting agenda for
+you tomorrow so I I don't know
+market show that with you but
+we've worked in and it it's
+gonna be exciting I I i'm
+excited to have you guys were
+excited a host to get and thank
+you for the opportunity so we'll
+be here early but I think we'll
+all bore eleven forty five
+twelve on the shuttle and will
+make a wee on site if you guys
+have any questions i'd be
+happier answer.
+Thank you are one quick question
+and put form of id are you
+looking.
+Well the willing to try to use
+these drivers license for work
+if you don't have it maybe like
+a birth certificate or passport
+but driver drivers license
+should.
+The.
+Thank you so much looking
+forward to it tomorrow any
+questions from the committee.
+Will we be able to leave our
+stuff and here or what we have
+to take it to our car.
+Yeah.

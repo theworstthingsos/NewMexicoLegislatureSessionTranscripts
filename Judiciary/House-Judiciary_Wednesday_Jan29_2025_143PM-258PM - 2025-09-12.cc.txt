@@ -1,0 +1,2448 @@
+Representative Hall.
+Here?
+Representative Hoffman V. Hill.
+Representative Martinez.
+Here
+Speaker Martinez.
+He
+We have 2 martin. Oh, we have a
+wrap and we're calling you
+speaker so we can keep the
+martinez is a part. Well, I'm
+here and the other Martinez is
+not here.
+Representative McQueen.
+Representative Ree.
+Here
+Peter Saansky here.
+Madam Vice Chair, here, Madam
+Chair, here.
+We have a quorum. Great, um.
+So again, as I said, we have, I
+hope what will be an interesting
+um discussion of AI technologies
+and legislative initiatives and
+we have um presenter Steve.
+Swimmer. Did I say that right,
+Steve?
+Of the transparency coalition
+and they are located in Seattle,
+and of course we know Chris
+Moore of our own local Santa Fe
+Institute, and I, I, um.
+I feel that AI is gonna become a
+bigger and bigger issue in our
+lives, and I think we all need
+to have a some foundational
+understanding of how it works,
+how it's being used, how it
+might be used in the future,
+what are the risks involved and,
+you know, what are the benefits
+and I hope this will start that
+conversation, um, cause I'm
+expecting that over the next few
+years we're gonna be trying to
+get our arms around it going
+forward for the residents and
+citizens of the state of New
+Mexic.
+So with that I'll turn on the
+the floor over to Steve.
+Thank you, Cha Chandler and
+welcome everyone to our
+presentation today. My name is
+Steve Wemer. I'm with the
+Transparency Coalition as Cha
+Chandler mentioned, I should
+probably get closer to the mic
+as Cha Chandler mentioned, I'm
+based out of Seattle. We're a
+small nonprofit uh dealing
+specifically about AI and AI
+legislation. My own background
+is
+as a product developer, computer
+scientist, and a product
+manager. I've been doing this
+kind of work for probably 2025
+years I have a master's in CS.
+So have a background in these
+technologies and also have a
+background on how these
+technologies are actually
+implemented as products and I'll
+be talking a lot about the
+different ways in which these
+technologies actually manifest
+in our daily lives.
+Hi, I'm Chris Moore. Thank you
+for the introduction. I know
+some of you already know me, um,
+for 12 years I taught in the
+computer science department at
+UNM.
+Uh, I presented to many
+committees of this legislature
+are presented to the National
+Conference of State Legislatures
+are presented to the
+Staff of the House Financial
+Services Committee in the US
+Congress, and I'm very happy to
+be back.
+Great. So
+The goal of this afternoon
+really is to talk a little bit
+more about these technologies
+and to understand in general
+what is AI.
+This isn't meant to talk about
+any of the bills that Chandler
+is talking about, it's not meant
+to talk anything legal at all.
+It's really just to create a
+baseline, a foundational
+understanding of what these
+different technologies are and
+what they can do.
+we'll see if the AB stuff is
+working, which it is.
+Oh no.
+We had issues with this earlier
+and now the screens are not
+advancing.
+Um
+Well. Let me, let me try again
+here.
+again
+I am.
+Yeah, clearly I don't have, we
+did have a dry run this morning.
+And it took some time to get it
+to work.
+OK, it's working out. OK.
+Apologies, everyone.
+Right, so who is the
+Transparency Coalition. We are a
+group of independent
+Concerned citizens, essentially.
+We are interested in helping
+craft AI legislation. We're
+interested in helping state
+level lawmakers make sense of
+these technologies and create
+legislation that in fact serves
+our constituents, our consumers.
+We're staffed by former tech
+entrepreneurs, uh, software
+engineers, people who have been
+in the business for quite some
+time. We have kids who are uh
+using these technologies we
+ourselves are strong proponents
+of these technologies, we
+believe that it is.
+Be holding on to us to really
+make sure that these
+technologies are used in a
+responsible kind of way.
+focus on policy, we're focusing
+specifically on a couple
+different areas, transparency
+across the entire AI ecosystem
+because as you know, it is a
+fairly complicated domain. There
+are lots of different areas in
+which uh you need to pay
+attention to the specifics. If
+you're going to in fact, try to
+craft meaningful legislation
+around it.
+spending time on how the the
+data and all the different
+technologies come together to
+create the overall underlying
+experience. We're trying to
+understand what the
+expression of these technologies
+looks like as it, as they're
+deployed. So what does liability
+look like? What is the duty of
+care? What is the responsibility
+of the deployers of this
+technology to the public in
+general.
+The slide looks a little uh
+ominous, but there are dangers
+in not regulating these
+technologies. There are threats
+to data privacy.
+There are potentials for harms
+to our children.
+There is a potential
+consolidation of tech power even
+greater than it is today. And
+frankly, there is this
+possibility of rights and uh
+Other types of uh
+of power being stripped from
+content creators. So we really
+want to make sure that we come
+up with regulation that in fact
+does support the responsible use
+of these as we've seen in the
+news and the like, there have
+been incidences of AI very in
+particular not being used in
+responsible kinds of ways.
+There are
+Innumerable examples of these
+technologies being used for
+plagiarism. There have been
+issues with uh deep fakes and
+other types of
+content being created that in
+fact has been proven to be false
+and has had an undermining
+effect on society. There have
+been incidences where personal
+data has in fact been used to
+train these models and we'll
+talk a little bit more about
+what it means to train a model
+and what it means to actually
+incorporate some of the
+underlying information in these
+models. And frankly, there have
+also been some true harm events
+that have happened. There's a
+recent case out of California
+right now that you may have
+heard about. There is a company
+called Character AI that had a
+an avatar interacting with the
+child, a teenager who then uh
+In those interactions was
+encouraged to towards self harm
+the child eventually and ended
+up committing suicide. So there
+is this legislation in place
+right now, or I should say a
+lawsuit in place right now in
+California around that entire
+case and about culpability and
+where does the fault lie? Does
+it lie with the parents for not
+having monitored? Does it lie
+with the propagators of the
+technology, so very important
+and very salient things to keep
+in mind today.
+So why should we be doing this
+now?
+There's a great point to be made
+that
+If we don't do something now,
+we're gonna start falling into
+the same.
+set of situations that are
+currently existing with with
+social media.
+Facebook was able to run,
+basically it's business as it
+saw fit for many, many years.
+And as the total number of users
+increased.
+In in the whole Facebook
+portfolio, the greater the
+number of issues that cropped up
+in the usage of that technology.
+Uh, there have been any number
+of reports of cyber harassment,
+different types of
+disinformation being shared on
+the platform, all sorts of
+things that happen outside the
+scope of, of what could have
+happened within uh within
+regulation. So we feel very
+strongly that the social media
+exemplar is a great example for
+what could happen if in fact we
+do not get ahead of the game and
+legislate these AI technologies
+accordingly.
+So what we're seeing now,
+because there has been a
+recognition of the fact that
+there is this gap between
+The technologies and their
+capabilities and the desire on
+the part of stakeholders to get
+things done. There is a
+A challenge right now in terms
+of how do you come up with
+meaningful policy?
+So you have sets of concerned
+stakeholders where you have
+policymakers, but there are
+there isn't a lot of bandwidth
+or a lot of expertise in near to
+craft policy that really makes
+sense. That's where my group
+comes in. We help with the
+crafting of the policy that
+reflects the interests of the
+stakeholders and creates
+meaningful policy that then
+affects our, our constituents.
+So again, what we end up doing
+then is providing just the basic
+AI education, which is why I'm
+here today to just talk about
+what is AI and what are the
+different components of AI and
+the kinds of things we need to
+take care of and keep our eyes
+on. We're working on
+standardizing definitions.
+Creating common understanding
+about what it means to be a
+deployer of an AI system, to be
+a manufacturer of an AI system,
+drafting policy language like
+what does it mean to have duty
+of care around such a system,
+for example.
+We spend time as I had
+mentioned, briefing staffers and
+committees and finally, we help
+envision enforcement mechanisms
+working with states attorneys
+general to figure out how do we
+in fact craft in
+en f or ce ment language around
+these different techno.
+So as I mentioned, we, we
+support the policy development.
+We do so by creating policy
+playbooks. We do so by creating
+model bills and drawing on the
+successes from other states in
+particular there are a number of
+states that are leading the
+charge. California, Washington
+state, some others that have in
+fact crafted meaningful and
+impactful technologies. We've
+been drawing on that, Colorado
+as well, some of the work that
+we're doing here in New Mexico
+right now also draws on that
+same body. We have some key
+partners in the sagG after, of
+course, is the screen screen
+Actors Guild.
+The California Institute for
+Technology and Democracy, and a
+number of other groups that we
+work together with in order to
+reflect.
+the needs of those different
+constituency groups.
+So who are we partnering with
+the Transparency Coalition.
+We're partnering with a number
+of different states. I have them
+all listed here, uh, quite a few
+different ones in various states
+of.
+Of
+Moving through legislation,
+we've been very successful in
+California and Texas and
+Washington state. We have bills
+pending in New York. We have
+bills pending in Connecticut.
+We're of course working here
+with Cha Chandler here in New
+Mexico. So lots of really
+important work stretching the
+the a wide range of different
+opportunities in different areas
+that in fact need to be
+addressed by policy.
+We have a really small team up
+in Seattle, but as I mentioned,
+we're just uh
+Concerned citizens supported by
+donations, a nonprofit focused
+on doing
+what we believe is the right
+thing, enabling legislators such
+as yourselves to make
+In foreign policy decisions.
+So what I want to do now is kind
+of jump in and create just an
+overview of what AI actually was
+and Chris, of course, with his
+vast experience in this area.
+He's going to be chiming in here
+as well, but AI has been around
+for a while.
+Matter of fact, it's been around
+since the 50s. Alan Turing was
+the first person who really.
+started thinking about
+Computation and the abilities
+for computers to actually think
+and he came up with this thing
+called the Turing test. It's
+actually something called the
+Imitation Game is what it was
+and the the idea behind that was
+is to an outside observer, is it
+possible for that outside
+observer to not be able to
+distinguish between a human and
+a computer's response to certain
+questions. And that has been a
+test that has been used
+throughout the years to
+establish whether or not a
+system actually
+appears to be intelligent. And
+that's really where things
+began.
+It has progressed over time of
+development of various expert
+systems such as Eliza, which was
+a program that allowed
+essentially a um
+Interaction between a mental
+health provider, uh, and using
+the underlying data set that a
+mental health provider would do
+to treat a patient. There was a
+program called Myson which was
+used for bacteriological sorting
+and uh and uh
+Combining of different types of
+biomedical.
+Elements
+Those are in the early days,
+it's been the capabilities of AI
+has been increasing steadily
+over time with uh
+Strangely enough, first the
+focus on game shows and being
+able to show the
+The capabilities of the AI
+technologies within the context
+of things that people could
+understand within chess within
+jeopardy, etc. It wasn't until
+the 2010s where things really
+got interesting. It wasn't until
+really these breakthroughs in
+the way in which the brain works
+and the way in which you can
+model the brain using something
+known as a neural net can
+actually
+It wasn't until that came around
+that people were able to really
+make true breakthroughs in the
+way in which these different,
+these systems are able to
+Work their way through large
+groups of uh large blocks of
+data.
+In the 2020s, of course, this is
+where the advancements have
+really come into play with these
+uh large scale implementations
+of computer systems, the ability
+to take vast amounts of data to
+create models that then reflect
+true world uh situations. Did
+you want?
+had anything yet?
+Yeah, I think that
+I think
+steepest setting all the good
+points. I, I think it's
+important to recognize that
+almost all artificial
+intelligence systems. You
+sometimes you also hear the word
+machine learning. It's really
+one continuum of different
+approaches. Almost all of them
+work by being handed a massive
+amount of data specifically
+usually massive number of
+examples of something. And then
+It looks for patterns in that.
+And this is a, this is an
+amazing approach. I mean, so if
+you show
+If you show an AI system, a
+whole lot of X-rays, right, and
+tell it which patients turned
+out to have cancer and which
+ones didn't, it will look for
+patterns in that and literally
+the patterns of light and dark
+on the X-ray in order to detect
+tumors. If you show it a whole
+pile of text from historical
+books and also for better or
+worse, text from the internet,
+you will find patterns in that
+and that's why chat GPT is so
+good at drafting an official
+sounding email or, you know, a
+legal, a legal document.
+because it's seen lots of them
+and it understands the
+statistics of how those words
+link together.
+So I think that's really, you
+know, that's what you should
+have in mind. There are a few
+exceptions, but that's really
+how these things work. They look
+for patterns and examples from
+the past, and then if you ask
+them questions, they assume that
+those patterns will continue
+forward into the future for
+better or worse.
+Yeah, and, and to build on
+Chris's point, it's really all
+about the data in the end, and
+that's why you'll hear a lot of
+discussion around transparency
+around data, the ability to take
+these large amounts of data, for
+example, Nvidia, you probably
+heard of that company, the chip
+manufacturer. One of the reasons
+why that company has
+gains such a large uh just
+market share in terms of the
+NASDAQ and like is because of
+the fact that they have the
+chips that allow for these large
+amounts of data to be actually
+crunched down into these models
+that are then used as the
+underlying technology that allow
+for the implementation of things
+such as CAP GPT.
+So really, what is different
+about AI then is that it is able
+to leverage these vast amounts
+of data on top of this
+traditional computational layer,
+meaning that it is able to draw
+on these experiences and refine
+what it presents to the uh to
+the end user based on the data
+that it is already assimilated.
+So think of it as a system
+that's constantly taking in
+data, reinventing itself again
+and again and then it's
+presenting that to the end users
+as a new.
+set of data.
+So, uh, again, we, we already
+hit on that, the fact that the
+key part here really is the
+training of these models and
+it's really that's where the
+rubber meets the road. It's how
+are these models constructed and
+how are they used and how are
+they in fact populated with very
+specific data.
+So, we're talking about this
+concept of training data. The
+training data is the underlying
+corpus of information that's
+used to make these models behave
+the way that they do.
+And believe it or not, uh, open
+AI's, uh, chat GPT4 right now
+has assimilated just about all
+of the data that's available on
+the internet today.
+I mean, it's mind boggling to
+even think about that, but it's
+literally scraped every website
+that there is.
+And that has been becoming the
+foundation for uh for that
+particular large language model.
+It's these, this training data
+that you need to pay attention
+to, because if the data has not
+been properly sanitized, if the
+data has not been properly
+cleansed of information. That's
+when particular things can
+happen if you don't know how the
+data interacts and what the data
+actually implicates that can
+also
+Compare and or affect the way in
+which the, the uh the results
+are actually.
+created by these by these
+systems.
+So they're really uh two
+different areas that you really
+need to pay attention to is
+How is the data being used and
+what is the data that actually
+went into the system, and that's
+really where we start talking
+about transparency in these
+particular uh bills that we were
+discussing. That's really where
+it comes into play.
+So how are these models trained?
+You take a bunch of information
+and you jam it into one of these
+computational server farms.
+Then creates a model.
+The model then is used and then
+in that use corrections are made
+to the model and that's fed back
+into the model. So there's this
+giant feedback loop that
+happens, so it gets
+Consistently better and better
+over time.
+So that's the thing to really
+keep in mind is AI models are
+constantly changing, they're
+constantly evolving and they're
+constantly providing new ways in
+which this data is being
+combined
+This data then is used in two
+different ways. They're
+essentially two basic kinds of
+AI systems, and this is really
+really gets a little technical,
+but it is useful to understand
+this. There's predictive AI
+which is machine learning that
+takes an existing rubric and
+makes predictions based on
+something that it knows about,
+for example, if it sees
+something with 4 wheels, it's
+gonna make the assumption that
+it's a car because it's been fed
+a lot of information about what
+makes a car. It doesn't
+manufacture a new kind of
+vehicle based on
+Certain types of characteristics
+that it might have gathered
+about cars. That's where
+generative AI is different.
+That's the underlying uh.
+Uh, that's the underlying.
+concept behind things like chat
+GPT. It takes the data that
+exists today and recombines it
+on the fly, generates new data,
+generates new text, generates
+new video, generates new audio
+based on the inputs of the
+system. So it is a much more
+dynamic kind of situation
+whereby the data that has been
+put into the model. In fact,
+becomes the foundation for
+things that never existed
+before. And that's really where
+things get super interesting.
+There are various types of AI
+out there today.
+talk about generative AI that's
+the one that's in the news, but
+there are lots of other kinds of
+AI as well. And AI as a whole
+doesn't just mean chat GBT.
+AI has lots of different uh
+different areas that in fact are
+used in different ways. There's
+machine learning, which is used
+to, as I mentioned, classify
+things that are already known,
+for example, if you have medical
+images and the there are certain
+characteristics of tumors that
+you're able to codify. You can
+feed another medical image into
+that.
+Particular body or that
+particular model and be able to
+establish other things related
+to new tumors because that body
+of knowledge already exists
+within that data set.
+Machine learning is the way in
+which that type of data is
+codified into a model.
+There's a further refinement of
+machine learning, which is deep
+learning, which becomes the
+foundation for some of these
+more involved technologies, the
+ones that are more capable.
+What's interesting about deep
+learning is that they.
+There is, there has been an
+understanding for how the
+neurons actually work in the
+brain, how the different pieces
+of information are assimilated
+and stored and retrieved. That
+is modeled in in in in a in a
+computational system and allows
+for all sorts of new
+ways in which that data can be
+interpreted.
+And some of the most interesting
+areas within AI actually fall
+out of this deep learning uh
+area, image recognition, natural
+language processing, the whole
+ability to interact with your
+Alexa, the ability to have chat
+GPT spit out things in terms of
+uh.
+Uh, uh
+Information that is in human
+readable form, for example, uh.
+As I mentioned before, also used
+for medical diagnosis and being
+able to tie together different
+kinds of bodies of of underlying
+studies and and and other
+understanding of of data and be
+able to
+Do diagnosis and
+Find new ways of interpreting
+existing medical information.
+Yeah, please. So the interesting
+thing is as we go through this
+list of technologies and move
+toward the more recent, more
+powerful ones.
+Deep learning is also the part
+where we start ourselves not to
+know quite how it's doing what
+it's doing.
+OK, so we're starting to
+You know, not even when it works
+well, we're starting to not know
+what it is about that image that
+made it say yes, there's a
+tumor, no, there isn't. There's
+an active field of research,
+sort of trying to look under the
+hood and figure out how they are
+working, um.
+And also why they sometimes make
+mistakes, sometimes very
+surprising mistakes that are
+very different from the mistakes
+a human would make.
+Um, because it's picked up on
+something that sort of wasn't
+intended, so we'll.
+Maybe talk about some examples
+later, but.
+But this is the part where it
+starts to get mysterious, even
+for the designer.
+Another field of deep learning
+is just natural language
+processing, which is the way in
+which uh human speech and
+written and and written
+languages interpreted by
+computer systems so the ability
+to do speech recognition, the
+ability to do on the fly
+translation to be able to
+understand not just the words
+but understand what's meant by
+the words and to be able to
+understand the sentiment behind
+those, all very important in
+terms of being able to
+understand what exactly is meant
+by a particular phrase.
+All that is done via natural
+natural language processing.
+Generative AI is yet a further
+refinement of natural language
+processing. This is really where
+it gets interesting where uh the
+There's a mention here of of
+these different ways in which
+data is generated really doesn't
+matter that it's uh a general
+adversarial network or a
+transformer based model. What it
+means is that there are parts of
+that neural net that are
+constantly challenging each
+other to come up with new
+combinations of information,
+which is why sometimes as Chris
+was alluding to, you can get
+some very surprising results,
+things that don't make sense,
+things that in fact can and
+could ultimately even perhaps
+create harm, misunderstanding.
+some kind of downstream effect
+that you don't necessarily
+understand.
+That's really why we're having
+these conversations today is
+because we're trying to make
+sure that we put bounds around
+the ways in which these systems
+are outputting data and how that
+data is being used.
+Another area of course that's
+interesting is computer vision,
+nothing special to say about
+this other than the fact it's
+the ability to detect objects,
+detect things in motion, detect
+anything that is of
+has any kind of uh visual
+quality about it. It's used in a
+lot of different ways in
+autonomous driving. It's used in
+surveillance, uh, used in facial
+recognition and the like to, but
+again, this is another offshoot
+of this underlying set of
+technologies.
+Um
+A lot of interesting things
+going on robot robotics today
+too where a lot of different
+things come together on a
+robotic platform. You have
+machine vision, you have natural
+language processing, you have
+generative capabilities where
+robots are problem solving in
+real time all these different
+things are coming together in
+single platforms that are in
+fact creating some very
+interesting use cases down the
+road.
+All of this stuff
+All of these topics, all of
+these considerations bring us to
+really where we're at and why
+we're here in this room today.
+It's really to talk about the
+ethics and the challenges around
+AI.
+What are the ethical
+considerations are these systems
+in fact
+Fair in the results that they
+generate, are they?
+subject to any kind of intrinsic
+or explicit bias.
+Has there been transparency
+around the way in which these
+particular systems have been
+created. Is there safety and
+accountability around those.
+What we need to do as concerned
+citizens as legislators figure
+out how to address those
+specific issues and how do we
+And start a conversation around
+how best to put the frameworks
+in place to allow for the safe
+and ethical moral use of.
+So as we continue down this road
+and as we talk about
+Different ways in which to think
+about these technologies. There
+are some terms that are starting
+to come up.
+Uh, terms that people are
+starting to agree upon terms
+that are being used across
+different states and across
+different forms of legislation
+that have meaning and that
+people are starting to agree
+upon.
+the, the concept of
+transparency, the description of
+how, where and why.
+Certain AI components have been
+constructed.
+How they've been deployed and
+why they're being deployed in a
+certain way.
+A list of ingredients that goes
+into those uh AI components, so
+to speak.
+There's this question of
+algorithmic discrimination, the
+ways in which an AI system might
+in fact either intrinsically or
+explicitly.
+provide discrimination against a
+certain.
+Population or provide a certain
+answer that isn't necessarily
+reflective of what might be an
+expected result.
+the concept of consequential
+decision, a decision that
+actually means something to a
+person, uh, a clear definition
+of what is a consequential
+decision is very important in a
+bill such as the one that's
+being considered here in New
+Mexico, being able to articulate
+under what conditions.
+need to play a special attention
+to the system. There's the
+concept of a consumer.
+Typically it's the resident of
+the state who is in the end
+using the product.
+deployer is the entity that
+makes the AI system available to
+it, so it could be a company
+that has bought an AI system
+that makes it available to its
+consumers.
+There's the developer of the AI
+system, the companies such as
+OpenAI that actually built the
+system. So it's very important
+to distinguish between the
+developer and the deployer
+because there are different
+levels of risk. There are
+different levels of
+accountability that are
+associated with each of those
+parties.
+There's the concept of duty of
+care using which is using
+reasonable care as you deploy
+such a system to make sure that
+consumers are in fact protected
+by these technologies.
+There's this concept of a
+high-risk AI system, a system
+that makes or assists in making
+a decision that has a
+consequential impact on a
+consumer's life.
+Again, another very important
+concept.
+There's this concept of impact
+assessment, being able to assess
+how something is being used and
+being able to make sure that the
+system is being used in the way
+in which it was intended.
+And the very closely tied to
+that is risk and risk management
+by being able to articulate when
+something has happened that is
+in fact important and needs to
+be in fact, perhaps addressed or
+in some other way mitigated.
+And there need to be policies in
+place that in fact, uh implement
+different types of risk
+management.
+So as we move on,
+There are lots of states
+currently that are tackling
+these issues. They're tackling
+issues of transparency and
+provenance of data sets. They're
+looking at product liability.
+They're looking at the labeling
+of the outputs of these AI
+systems, so being able to just
+to make sure that you.
+users know
+When something has in fact been
+created by an AI system or when
+in fact it has not been modified
+at all.
+The ability to explain why AI
+system has in fact made a
+particular decision and how it
+has come to be made, very
+important in lots of different
+applications, in particular
+medicine and others, so when
+you're being asked to explain a
+course of treatment, you need to
+be able to, in fact, go through
+and explain how a decision was
+in fact made.
+We already talked about duty of
+care, the need for there to be a
+a body of.
+responsibility on the part of
+the.
+Deployer of the technology.
+concept of automated decision
+making, the ability to
+Allow these expert systems to
+make decisions on behalf of
+humans and with human input.
+That that that's being regulated
+as well. And finally, privacy is
+also being looked at across the
+states.
+Across the US is there are quite
+a few states busy.
+In these areas, these are the
+ones that my group is currently
+involved with. There are some
+other states involved as well.
+New Mexico is pretty much on the
+cutting edge with some of the
+things that they're thinking
+about. So thanks to the
+chairman.
+Uh, Chandler on that.
+There are some very interesting
+things going on across all the
+states. We're partnering with
+states that have been successful
+in legislating these things and
+passing them were incorporating
+those languages and, and making
+those available to other states
+as these legislative.
+And that is what we wanted to
+cover today. We are certainly
+open for questions. Chris and I
+are available to address any
+concerns or issues, it's just
+things that might have popped up
+in your own experiences with
+these technologies and things
+that might be uh just shaping
+the way in which you're looking
+at this particular space.
+Chris, did you want to add some
+things?
+Yeah, I just want to give a few
+examples, I think.
+I think Steve did a great job.
+Um, and you know, I think that
+If, if you walk out of here
+remembering to
+phrases or words. One is
+transparency is good.
+Black boxes, maybe not so good.
+You know, AI is everywhere and
+honestly.
+I don't really mind Netflix
+using some black box that I have
+no idea how it works to
+recommend movies to me. You
+know, that's OK. I don't really
+feel a need for transparency
+there as a consumer.
+But as Steve said, for these
+consequential decisions, things
+that involve hiring or lending,
+things that traditionally our
+society has at the federal level
+passed anti-discrimination laws
+about, I think we don't want to
+allow black boxes into our
+decision making process any more
+than we would want a human being
+who just kind of makes decisions
+without explaining them and
+without really having a
+rationale, we wouldn't want that
+either.
+So, um, again, these
+technologies are wonderful. I
+think it's really important to
+recognize that, you know,
+neither Steve nor I nor nor
+anybody we know wants to prevent
+these technologies from being
+developed, from being innovated,
+and from being introduced
+wherever there, wherever they
+can.
+Help us, right?
+And there are fantastic medical
+applications. Um there are
+fantastic applications in
+productivity, improving our
+productivity, and so on.
+But
+When it's making a decision that
+really affects people's lives, I
+think we need that transparency.
+So, um,
+I, here are a couple of
+examples, and I think what's
+interesting about these examples
+is that there is no ill intent.
+On anyone's part, not the
+technology company that develops
+the thing, not the people who
+might use it, and yet different
+kinds of bias or error creep in.
+One example you may have read
+about a couple of years ago is
+that Amazon was trying to figure
+out what we get a ton of job
+applications. How can we screen
+these job applicants, at least
+initially because we just don't
+have the resources for HR to
+literally do a human interview
+of each one.
+So
+As their training data, remember
+that big mass of data that you
+feed into the system. They
+looked at the resumes and like
+the transcripts of all the
+people they had hired and
+promoted in the past, and the
+machine went to work.
+And it said, OK, now I can try
+to predict for you whether you
+will like the resume and
+transcript of a new applicant or
+not.
+But
+Then they looked inside it and
+they noticed that it downrated
+applicants who went to women's
+colleges, it downrated
+applicants who were who were
+captain of say the girls
+volleyball team or whatever
+because it had recognized that
+those were, that's not how the
+resumes of people they had hired
+and promoted in the past,
+looked.
+And no ill intent. It was just
+looking for patterns, looking
+for correlations.
+Now they noticed that bias and
+did not roll that system out.
+If they had treated that as a
+black box and not even told
+anybody, even internally, what,
+what patterns it had noticed
+what things it gave positive
+weight or negative weight too in
+a job application. No one would
+have known about that bias, let
+alone be able to fix it.
+So they had some internal
+transparency there that, you
+know, allowed them to dodge that
+bullet.
+Another example, there's a lot
+of people in financial
+technology right now. So, and
+again, the intentions are great,
+so if you do not come from the
+upper middle class, and your
+parents have not co-signed your
+first couple leases and paid
+your credit card bill for the
+first couple of years, you might
+enter adulthood in the workforce
+with a thin credit record so
+that the, the credit card
+companies don't know much about
+you and they don't have much
+records of interaction with you
+that they don't know if you're
+trustworthy or not.
+Into this space have come.
+A lot of people say, well, let's
+find other ways for you to
+establish to these companies
+that you would be a great
+borrower and that you deserve a
+credit limit.
+There's a company called Upstart
+that said this, and I said,
+well, how about, well, what
+should we base it on? How about
+where you went to college?
+And so the young guys, frankly,
+it's usually young guys who put
+this thing together, said, well,
+let's give your college um a
+rating based partly on the
+average SAT score of incoming
+freshmen.
+Well, that's great if you went
+to an Ivy League school, but
+there's a lot of rural state
+schools out there and minority
+serving institutions like UNM
+and historically black colleges
+and universities where I can
+tell you from my 12 years at UNM
+I knew students there who could
+have gone anywhere in the
+country but went to UNM partly
+for family reasons. They wanted
+to stay close to home. And so
+this system penalized them.
+Again, no ill intent, maybe be a
+little bit of uh numbs
+schoolness on the part of the.
+You know
+But, but no, no ill intent.
+And when they recognized this.
+When this was pointed out to
+them, they said, oh my gosh,
+that wasn't our intention. They
+worked with Rem and law, which
+has offices in Albuquerque to
+fix their system and again,
+because the system was
+transparent enough to reveal
+that this is how they were
+calculating things that problem
+was able to be found and
+diagnosed and fixed to make the
+system better. Um, one more
+example.
+There was a major healthcare
+company, which apparently shall
+remain nameless, um, which was
+trying to assess how sick you
+are and how much you are in need
+of medical care. So for
+instance, if you show up to the
+ER with pneumonia, if it's
+really severe, they should keep
+you there. If it's not, they
+should really send you home, and
+you should recover at home.
+Um, so
+They built a system based on a
+ton of medical data from a ton
+of patients, and the system
+decided based on that training
+data.
+That one signal of how sick you
+are is how much money you spent
+on healthcare last year. Again,
+no ill intent. It's just notice
+that, yeah, there's a
+correlation people who spent a
+ton of money on healthcare,
+maybe they are sicker.
+Of course, that only holds for
+people who have money to spend
+or who have access to insurance.
+And again, because there was
+enough.
+I guess proactive transparency
+on that company's part.
+They hired some independent
+researchers who diagnosed this
+problem, found it and fixed it.
+But again, if they had just said
+this is proprietary, it's a
+trade secret, it's a black box.
+We're not going to tell you how
+the system worked. It would have
+taken years to even figure out
+that that's why it was biased
+against low-income patients.
+So in all of these areas, I
+think we need transparency,
+transparency to take advantage
+of what AI has to offer. I'll
+just add one more thing, which
+is that.
+Literally the day before
+yesterday.
+The New Jersey attorney general
+sent out.
+A memo to everybody.
+Saying, Hey guys, under
+existing.
+Anti-discrimination law in New
+Jersey. If you are a deployer,
+could be a bank, could be a
+landlord, could be anybody
+making these consequential
+decisions. If you are using AI
+to help you with those
+decisions.
+And you're discriminating?
+You're liable
+Even if it's a third party
+product.
+That you trusted, you're liable.
+It's still your decision.
+So keep in mind you can't evade
+that liability by saying talk to
+the algorithm.
+And, you know, what the AG's
+guidance is, is, hey, you might
+not want to use products that
+you don't understand and that
+you haven't done some study of
+yourself to make sure that it's
+accurate and fair on your local
+population. So it's a kind of a
+heads up there that I think is
+very important that both the
+developer and the deployer have
+these responsibilities. I'll
+stop there, but I'm really, I'm
+very grateful to the chair and
+this committee and to all of you
+for considering this issue.
+Um, there are many facets of it.
+I just want to mention that you
+did all pass last year and the
+governor signed.
+A bill about deep fakes and
+political ads.
+Specifically that uh political
+ads that use AI to generate an
+image showing, for instance,
+some opponent.
+Doing or saying something that
+they didn't say or do is not OK.
+Actually, let me back up on
+that. It doesn't say you can't
+do it. It just says you have to
+label this image as I've
+generated.
+So that in itself is a kind of
+transparency, transparency about
+the fact that you used AI to
+create this image or this video.
+Thank you very much.
+Steve, anything else?
+No
+Uh, nothing else for me, J
+Chandler, unless there's some
+questions from the committee.
+OK. So we have ret Paul.
+Rip.
+Achman B Hill.
+OK. Rep Romero.
+Someone else
+May prompt questions. I'll say
+rippo.
+Represent a fall.
+Madam Chair, thank you, experts,
+um.
+I'll preface it with I, I still
+remember Fortran.
+So do I.
+Cause it was a terror when I
+took it and I could only get
+computer space at 2 clock in the
+morning at the University of New
+Mexico in those days because
+there were no computers.
+Per se, um, I'm
+I hope this isn't too rambling,
+but I made a bunch of notes.
+You mentioned
+Learning and there was an
+explanation to deep learning and
+artificial intelligence become
+too assuming in how it does
+stuff.
+Um
+If you need me to clarify, I
+can, but
+do you mean in terms of.
+That
+The types of answers that it is
+in fact creating.
+I believe so because of the data
+that that that comes in and
+I'll, I'll give you, uh,
+I know people who have Alexa and
+stuff like that in their home.
+They never say her name or maybe
+they actually know someone
+named.
+One of those names because I
+don't know if anyone has that on
+in here.
+And uh
+The answer is just start coming
+out, and there's some concern
+that I wasn't really requesting
+that.
+Another things I search, whether
+it's here or somewhere else
+online, I'll get one answer, and
+it has a stamp in the upper left
+hand corner, usually it says
+AI's answer.
+And I never take it. I go down
+to somewhere else, you know,
+cause I kind of put Wikipedia
+and AI right there, but
+I am a little concerned in this
+learning process that it can,
+that it can become so assuming
+that the reason.
+Are the
+Is the human factor being taken
+out of it as this thing runs, so
+it's a very astute observation,
+especially in those interfaces,
+especially when you use Google
+and some of these other tools
+today, you'll see an AI
+generated.
+Response and then you'll see the
+static response that comes back
+from the typical set of links
+that a search engine would
+maintain. So what you're
+basically seeing is data coming
+from two different sources
+there. You're seeing one that's
+coming from a generative source,
+one that's using a very large
+corpus of information to
+Guess at what essentially.
+What your answer, what, what the
+answer is that you're looking
+for.
+And on the other hand, you have
+the separate part of that is
+just the static data that is
+directly related to the keywords
+associated with your search. So
+one of those is generated,
+generative based on the model
+that was created in that large
+language model. That's that
+first answer that you'll see.
+The second one is the list of
+links that are traditionally
+returned by a search engine.
+Madam Chair, um, so that when we
+were talking transparency, uh, a
+minute ago and you were deciting
+examples where they went back
+and found this is that's the
+result of
+Controls over AI.
+manager.
+Uh, Madame Cher Representative,
+yes, I think the point is that
+these are powerful tools, but
+they're not always the right
+tool for the job, and like any
+other tool, there should be a
+human in the loop deciding when
+it is the appropriate tool and.
+You know, because they do also
+make mistakes. So we should
+understand their strengths and
+weaknesses, where they're
+appropriate and where they're
+not, and uh.
+And, and we should have
+oversight over them, and in
+order to do that, we have to is
+is the mic working OK by the
+way? OK.
+OK.
+And in order to do that, they
+have to be transparent enough if
+they're, you know, if they're
+just these shiny things, shiny
+black things that that makes
+sense. Then we don't even know,
+and I think you're right that
+there's a danger of
+over-reliance, so that some of
+the search companies.
+Uh, like perplexity.AI are
+moving toward not even giving
+you links to actual websites
+written by actual humans.
+So they
+Unlike you who page past the AI
+summary, they kind of want the
+AS summary to be the whole
+thing.
+And I wouldn't use such a thing,
+but I think a lot of people are
+going to kind of get used to
+that for better or worse, and
+every once in a while, it's
+gonna, it's gonna tell you
+something which isn't true.
+Let me add one other thought to
+that. One of the things that is
+in fact.
+at least providing some hope for
+me in terms of the future is the
+fact that these outputs are
+slowly being labeled as such.
+What, so,
+You were alluding to the fact
+that your responses were being
+labeled as being generated by
+AI. That's great. It didn't tell
+you why.
+that that particular response
+and that's where the
+transparency really needs to go
+is not only that this was
+generated by by by AI, but why
+did it reach that result?
+And that's where it gets really
+interesting. What data sources
+did they consult and more
+importantly, not just which
+ones, but how much weight did
+they give each one?
+You know, like, it may have only
+given 10% weight to 1 and 90%
+weight to another and making
+sure you understand that because
+if say you're looking for you're
+searching for a particular
+product on Amazon and you see
+that a 90% of the answer came
+from a particular company that
+manufactures that product, that
+will then tell you to perhaps
+distrust that result, even
+though it was generated and was
+indicated as being generated.
+So, uh, again, that's where the
+transparency comes in. That's
+where the data provenance that
+we're talking about earlier is
+super important to understand.
+Madam Chair experts, thank you.
+Um, thank you, Representative
+Representative Hochman B. Hill.
+Thank you very much, Madam
+Chair, and uh thank you to Mr.
+uh Wimmer and more for your
+informative uh.
+Presentation
+I guess, um, the questions I
+have are based upon anecdotal
+experience, mostly my own, um,
+and my real job, my day job, I'm
+an attorney and I think we've
+all heard stories of attorneys
+using generative AI to assist
+them with writing briefs or, you
+know, submitting uh
+documentation to the court that
+otherwise, you know, we have to
+certify to that court that is
+our own work product that we
+have verified the citations and
+the information.
+sources that we use.
+And so, um, you know, it's been
+well publicized that there have
+been attorneys that have filed
+briefs.
+that were written by generator
+AI that decided fake cases.
+And, um, you know, there are
+obvious issues with that and so
+my question kind of centers on
+my concern with AI, which is
+kind of this garbage in garbage
+out model, which is if we're
+utilizing machine learning and
+if the the initial premise,
+utilized as part of that machine
+learning is faulty.
+What assurances do we have that
+whatever is generated from that
+initial false premise doesn't
+just continue to, to build upon
+a faulty premise of junk bass,
+and what can we do as
+regulators, legislators to kind
+of prevent the dissemination of
+that.
+False information because that's
+extremely concerning to me. I
+think it should be extremely,
+extremely concerning to
+everybody in this room.
+So what do those protections
+look like and how do we know
+that the information that is
+being put input into these
+models is more or less correct,
+you know, and then we get into
+the political context, we now
+have differentiations in opinion
+as to what is correct or
+factual, and so like how deep.
+In this wormhole, are we gonna
+go?
+correct or truth becomes really
+interesting in this, in this
+particular situation, right?
+I think the only way really that
+you can get to something that is
+workable is to be perfectly
+clear of where the data comes
+from.
+And then
+you as the consumer of that
+data, then need to be able to
+make a decision whether or not
+you
+Are in fact
+with that source and whether or
+not you believe in its veracity
+or whether or not it is
+something that you can discount.
+And again, we need to become
+informed consumers in the same
+way that if you pick up a
+Snickers bar and you're gonna
+see corn syrup in there.
+Gonna say that's bad for me. I
+probably shouldn't eat that
+candy bar. I think that's where
+some of these data provenance
+initiatives really start to take
+hold and start to become super
+important that you know.
+exactly where the information is
+coming from and why it was
+assimilated in the answer that
+you received.
+Madameer Representative, yes, I,
+I read that that story that
+you're referring to with a
+certain level of glee, um, maybe
+which wasn't nice, and I know
+that people got in trouble with
+the judge for this.
+Um, the funny thing is that
+It's not the way that that
+happened. It's not that chat GPT
+had like a law book full of
+fictional cases.
+That it drew on. It's that chat
+GPT at a base level is a thing
+which strings words together.
+Um, based on how often those
+words occur near other words.
+In all the text it's read. I'm
+selling it a bit short, but
+that's kind of what it does,
+right?
+And so, um.
+Yeah, I, I hope I'm not.
+Stepping in here, but I, I once
+asked Chat GPT what the fallout
+to my career was for having
+attended a certain event in
+Washington which I did not in
+fact attend.
+It made up an extremely
+convincing answer about how my
+institution, you know, there
+were calls for my resignation
+and eventually I was allowed to
+continue working there and I
+said, gee, is there uh an
+article in the local press about
+it. It made up a very convincing
+URL, very convincing link web
+link to Santa Fe, New Mexican
+story. I clicked on it. It went
+nowhere. I said, gee, that link
+doesn't work. I said you should
+talk to the web archivist. Maybe
+there might, maybe they're not
+maintaining their, their web
+archive. Then I said, well,
+Can
+Just give me the article. I
+said, sure. It gave me a very
+convincing, you know, couple
+column article under the byline
+of a real Santa Fe New Mexican
+reporter. It was, it was great.
+It wasn't even trying to lie.
+Because I hate to say it, it
+doesn't really try to lie or try
+to tell the truth.
+It tries to string words
+together in convincing ways.
+So now, you know, it's important
+to label it. It's important to
+know something about how it
+works, of course, the industry
+is trying to make it more
+factual and but it's not an easy
+thing to do, right?
+It's sort of a person like
+It sort of talks like a person
+at a cocktail party that kind of
+just spins words out.
+Maybe like I'm doing now.
+So
+This is a big deal when we use
+it for important things, and I
+guess I, I like the phrase from
+a former president, trust but
+verify.
+So by all means, if you're
+overworked, have it drafted a
+brief for you, but proof.
+Read it and know that it has
+your name and that you kind of
+like the deployer we were
+talking about, like the bank or
+landlord that uses it to make
+consequential decisions, you own
+that thing and so you had better
+use it carefully.
+Thank you and, and, and Madam
+Chair, I, I appreciate that
+response, um.
+And I understand that, but I, I
+guess where I am even more weary
+of this technology is the fact
+that you know I'm not, I'm not
+sure media literacy.
+It's really something.
+Have
+In this country, in this state,
+um, we have children using these
+technologies, for instance, I
+was doing some research on um
+the.
+Office of commercial space
+transportation for, you know, a
+client of mine and um there was
+some information that that that
+chat GPT.
+put up that was very convincing,
+but unless you are an expert in
+that field, you
+no idea of knowing that that was
+false information.
+And so, you know, the the
+question this brings up for me
+is sure we want to regulate AI
+sure we wanna be cognizant of
+what it can and cannot do for
+us, but I feel like without
+additional controls on, you
+know.
+Fact checking and media
+literacy, we're kind of like
+using a bucket to to empty out
+the ocean here.
+And so that's what concerns me
+the most about this technology.
+I understand that it is a game
+changer in many ways, but.
+Without those additional
+considerations, I am very afraid
+of where this could be taking us
+as a society.
+As, as, yeah.
+Uh globally.
+So Madam chair, got it right
+that time.
+I think what you're seeing in
+general is what happens as
+technologies become more and
+more mature as they begin to
+intersect societally.
+And there are some
+Things that the technology in
+the end can't solve this problem
+of knowing what is and is not
+true, what isn't is not the
+baseline set of what we all
+agree to be fact becomes more
+and more difficult to discern as
+these systems begin drawing from
+different types of data sources,
+all of which
+claim to be sources of truth.
+What were
+Maintaining is that transparency
+of those data sources is really
+the only way really to get to
+the bottom of what we need to do
+from a policy perspective. I
+don't believe that it is the
+role of technology to arbitrate
+truth. It is the role of
+technology to explain why it is
+behaving the way it is.
+Representative Romero and then
+Representative Obeda.
+Uh, thank you, Madam Chair.
+Thanks for the presentation, um.
+Super, uh, thrilled to sort of
+be working on these issues in
+real time and I just encourage
+our the folks that are here to
+look at some of the, the um
+appendix on some of the ideas as
+to
+How we get into what we're
+talking about and going back to
+that sort of question, and I
+have a bill about rental pricing
+manipulation that we're seeing
+with AI and um we'll be
+supporting Chair Chandler's
+legislation on AI.
+Are these ideas of closing the
+loop on the language model, um.
+And the idea of like,
+We don't know the how or why as
+to how it got the answer, and so
+the with the hallucinations that
+are happening.
+Um
+The fact that we're, we're the
+experiment, right? To, to
+correct the models themselves.
+But that said, when we're
+thinking about disclosure of
+what are the ingredients inside
+the AI. There's a lot of folks
+now have an AI business that we
+don't actually even know. Is it
+really AI? Um, uh, so just
+understanding those ingredients
+tests, but then again, the leap
+from, I asked it a question to
+it performed an answer. We don't
+know that in between piece, um,
+as to why it's working or how
+it's working.
+From a
+Policy-based situation for which
+we're supposed to.
+You know, make sure that the
+outcome is safe and um.
+You know, secure as far as what
+answer it's providing.
+What are the sort of fixes
+outside of just transparency.
+Um, that we can sort of look at
+in deploying that response.
+There are two ways to address
+this, I believe. Number one is
+to have these language models be
+a little more constrained, madam
+chair, I'm sorry. I'm gonna get
+this protocol right one of these
+days.
+Awkward.
+Especially we don't do it in
+Washington.
+Uh, I digress. Um,
+Restricting the size of the
+language models can reduce the
+amount or making them more
+targeted, I should say, and
+there is this movement towards
+making smaller models that are
+very targeted at specific
+solutions that will reduce the
+total amount of potential for
+Results being not.
+Useful or in fact being wrong.
+one
+To, and Chris was alluding to
+this early, the whole black box
+problem and the ability to open
+up the box and show not only
+that, hey, these pieces of
+information were used to make
+this uh make this result.
+This information was considered.
+Using these particular weights
+associated.
+It took this particular data
+source and it had it be weighted
+much more than another, being
+able to clearly and concisely
+and understandably.
+be able to display that. That's
+one of the initiatives right
+now, actually open AI was
+supposed to provide that
+capability to be able to explain
+in greater detail the weighting
+of
+The way in which some of these
+decisions were made, that's an
+area really that needs to be
+explored further and we're more
+technological as well as
+legislative force needs to be
+applied, I believe.
+Madame Cher representative, um,
+I assume you're talking about
+like the real page.
+you with rental prices and.
+That that's your bill.
+So I think that
+One tricky thing is that there
+is.
+There is a
+A
+End of products ranging from
+Hey, I have, I, I can tell you.
+How much you should be charging
+for your apartment and I can
+tell you.
+Whether someone will be a good
+tenant.
+Or I can tell a bank whether
+they'll be a good borrower or
+whatever, you know, I'm selling
+you that ability to assist you
+with making that specific
+decision.
+Then over here there's like chat
+GPT and its cousins that are
+like, you can talk with me about
+anything.
+Right
+So
+I mean, you could imagine asking
+chat GPT, hey, you know, here's
+this tenant.
+Uh, look at their, look at their
+credit application. Should I
+rent them or not?
+Some versions of Chat GBT will
+say, oh, that's not I don't ask
+me that kind of question. I'm
+not qualified. Some of them will
+cheerfully give you an answer.
+Positive or negative, and it
+will be a very convincing
+sounding answer because it, it
+gets the style right, right,
+it's very good at style and
+sounding authoritative.
+So I, I would say that if, if
+somebody is using chat chat GPT
+for that purpose, I would call
+that a misuse, you know, I would
+really argue that they shouldn't
+do that.
+Um, I guess then.
+Part of the issue is that, well,
+the user has some
+responsibility.
+And the developer maybe has some
+responsibility for not
+Having it say, hey, I don't ask
+me to make these sorts of
+decisions. Um.
+And so figuring out, I think
+where these boundaries between
+the developers' responsibilities
+and the deployers is part of
+what different states are trying
+to figure out right now.
+So that's maybe one answer. I, I
+will mention one other example.
+The city of New York said, hey,
+we have a big and complicated
+city code. Let's train a
+specialized chatbot on the city
+code so that small business
+people and so on can ask you
+questions.
+And it was awful and it
+And it said things like, why,
+yes, you can take part of your
+uh employees tips.
+Or, and yes, you can refuse to
+rent to somebody with a section
+7 voucher, and this isn't true,
+and no one really knows why it
+said these things. It was
+supposedly able to go through.
+The code and
+Figure out the answers to
+questions and I'm sure that
+within a few years maybe, maybe
+next year, there will be systems
+that can do that, you know, that
+can read complicated laws and do
+a little bit of lawyering and
+tell you what they mean.
+But the problem is
+Companies are out there saying
+we're already at that point.
+It's already great.
+buy it right now.
+And without transparency, we
+can't do that. Trust and we
+can't do the verify part of
+trust and verify.
+Uh, thank you, Madam Chair, and
+I think that's the point.
+Is is the trust and verify
+piece, and so I've just
+encourage everyone. I was on
+deep seek.
+You know, just chatting with it
+yesterday just to see and um.
+You know, there's just a lot
+there and especially correcting
+it is such an interesting
+process when you reprimand it
+and it's like sorry, sorry, I
+was wrong. I'll get, let me
+just, I'll try this answer as
+well, so, um, I think that when
+we're talking about the
+consequence of the legal
+framework for which we're trying
+to do that, just wrapping our
+heads. So I really appreciate
+the.
+I'm hearing noises and I'm
+wondering if, if AI is decided
+they don't like this
+conversation and they're taking
+the meeting over, so, uh, is
+there some noise coming in?
+The adjacent
+Oh, is the adjacent, OK.
+Very loud over there.
+OK.
+All right.
+Uh, if, uh, Representative Beta
+was next to you just have a
+quick follow up.
+I'm sorry, on that, on that
+point, I'm sure, so I mean when
+we're talking about, um, you
+know, trust and verify what is
+the, what is the verification
+model look like? Are we gonna
+have like a Wikipedia or chat
+GPT where it's crowdsourced, you
+know, where people can say this
+is correct, this is not. I mean,
+what is that? What is the
+verification look like?
+I, what I would like AI to do
+for me when I'm searching the
+web is give me actual references
+to at least websites.
+That were written by humans so
+that I can go follow them up.
+I'm very happy for AI to help.
+Help me find that content out
+there in the world, that's a big
+job.
+But I would prefer that having
+it makeup content itself.
+Um
+And then for some of these other
+specific things that say, oh,
+our product can help you decide
+who to lend to, who to rent to,
+who to show your house to.
+Well
+I would like some independent
+study that checks to see that
+that thing actually works pretty
+well. And, you know,
+There are a lot of different
+analogies we could draw with
+different technologies, right?
+One is drugs.
+We have a very well developed,
+some would say too well
+developed, but a very well
+developed regulatory framework
+around drugs and what, what kind
+of studies we do to make sure
+they're safe and, um, you know,
+we have the FDA and there's,
+there's a very well defined body
+the National Highway
+Transportation Safety.
+thing, administration.
+You know, has a very well
+defined way to look at
+automobile safety, um, so we
+don't have that yet in this
+technology, which I, and it's
+very fast moving, which I think
+is partly why state legislatures
+are getting involved and trying
+to outline what kind of impact
+statement do we need to have
+done, uh, what kind of
+transparency do they need to
+have? And it is a moving target.
+Thank you, Madam Chair. Thank
+you, Mr. Wimmer and Mr. Moore, I
+appreciate the information. I
+have a few questions. The first
+one is you presented that you
+partner with 10 states and 5
+other national. I'm curious to
+know if your organization does
+anything along the lines of
+curriculum building.
+I'm coming from this, from the
+context that I grew up with
+encyclopedias.
+So that was my, my resource
+growing up in my grandmother's
+home and.
+And so interestingly, I, I found
+lots of answers there, right in
+visuals and and.
+There and I grew up with an
+uncle who loved to read, so that
+was my foundation of research.
+And my concern now is that I
+have 4 children.
+They have access to technology
+and I've done my best to teach
+them what I can, this
+presentation has also brought to
+light new.
+Perspective for me that I can
+share, but going back.
+Have you partnered with any
+organizations on curriculum
+building for our institutions.
+Whether it's undergrad, first
+year college students talking
+about this and learning about
+it.
+Is that something you'd
+consider?
+Representative Obeda,
+uh.
+We currently have not engaged in
+any of that kind of work because
+We've been primarily worried
+about or focused on the
+education of legislators and
+trying to craft policy and me.
+ing for
+Or create meaningful bridges
+between groups of legislators
+who are trying to solve the same
+kinds of problems, but you're
+right, there is a big gap right
+now in terms of how do we
+educate our children.
+And frankly the general
+population into how best to use
+this technology and it is an
+opportunity, it's an area that
+we would like to get into, but
+frankly, we have not done so
+quite yet, but you're absolutely
+right in
+calling out that as being a huge
+gap right now because these
+technologies are far outreaching
+our ability to actually sensibly
+and responsibly use them.
+And I'm sure Representative
+Obeda, I, I also haven't
+personally been involved in that
+work since I left UNM in 2012,
+but I.
+I know a lot of people who are
+building up such curricula, and
+I think, you know, I'm, I'm
+happy to put you in touch with
+some of them and
+Um
+What you say about
+The encyclopedia really hits for
+me because that's also, you
+know, my parents had the big
+thing that some salesmen got
+them to buy.
+And so yeah, we used to teach
+kids go to the library.
+Use file cards, OK, or the
+computer and find a book about a
+subject. Go find a source.
+Then we started telling them,
+well, it's OK to Google sources
+on the.
+Then it's like, well, maybe it's
+OK to just look at the Wikipedia
+page, that's sort of a source.
+And now, like the, you know, if
+it goes all the way to what,
+what you guys were talking about
+where you just go on a search
+engine and you only look at the
+top AI summary, even if it's
+good, it's so.
+flushed and kind of lowest
+common denominator. A friend of
+mine asked he.
+essay for fun, he'd checked to
+see the AI summary of his essay.
+And it sort of ignored all the
+interesting points that he made
+and just sort of produced this
+very bland thing on that topic.
+And
+It does that a lot, even when
+it's not introducing other weird
+fictional stuff. So yeah, I
+think it's a big problem.
+Thank you, Madam Chara, bye.
+questioning there. Thank you.
+Anyone else?
+Um
+One concern I want to raise and
+maybe you can help me sort it
+out on my own. We have a very
+diverse.
+Population, you know.
+And that we're all very proud of
+and embrace, but it's.
+Different from a lot of other
+states in terms of demographics
+and in terms of age and race
+and.
+all those factors, so should we
+be concerned when there's, you
+know, off the shelf.
+Package that maybe would screen
+somebody's job application.
+That the underlying data doesn't
+adequate.
+represent
+Our demographic base.
+Which is, you know, I is
+wonderfully unique in the United
+States.
+Madam Scher, I think that is a
+very important thing for New
+Mexico and some of the work I've
+done with colleagues at UNM on
+risk assessment AI systems. Our
+studies were the first in the
+country that had a significant
+Hispanic population and a
+significant Native American
+population. So yes, I think
+we're a unique place.
+I think maybe other places
+aren't as unique as we are, but
+every place does, so does have
+these local variations. I can
+show you a journal of the
+American Medical Association
+article.
+Which says that it is important
+for a health care provider who's
+using an AI product just to
+monitor how well it's working.
+In their clinic, you know, is it
+working well for them?
+reality
+What was predicted and what
+actually is occurring so that
+they can see if it matches up
+with the population and if it's
+trained on data from other
+places, that's a couple of years
+old, um, it may or may not work
+as intended here.
+Yeah, Madam Gard second what
+Chris is saying. I believe it
+behooves any deployer of such
+technology to make sure that the
+underlying data sets are
+representative of the population
+that they're serving.
+That seems to me might also
+might be something I would want
+to be codified as a matter of
+fact that is extremely
+important, I'm sure how would we
+know that
+on the part of the deployers
+actually and the developers
+really comes into play framing
+that in the right way that
+Of course we've had these
+conversations offline, how to
+frame this from a policy
+perspective is interesting, but
+it absolutely needs to be.
+addressed. I'm sure
+by addressing that, maybe
+requiring them to publish how
+they develop their algorithm and
+maybe indicate the kinds of
+populations they were looking
+at, that kind of thing, um, what
+do you think that would be
+helpful?
+Manure fully agree with that any
+transparency bill should include
+that kind of um anyone else with
+questions.
+Well, um, this was super
+helpful. I hope everyone agrees
+it was interesting and um.
+There's, I just feel that we are
+now moving in where the we all
+as legislators need to be
+thinking about how we're, we
+don't want to stifle innovation
+or anything like that, but we
+also want to make sure that our
+constituencies aren't injured by
+potential uses of of these
+algorithms and things that
+really matter in our lives like
+employment and maybe getting
+credit and maybe getting an
+apartment, you know, things
+along that.
+Uh, yes, Representative Ho.
+Man, sure, I, I blurted out. I
+apologize. I said like, like the
+dark web. Yeah, exactly. I've
+been my prior life investigated
+some school shootings and
+heinous things and they go to
+the dark web to try to.
+do this, and this is another.
+sir, and I'm so thankful you
+brought, brought them back,
+Madam chair again, I'm sorry for
+interrupting.
+Not a problem. Um, before we
+adjourn, um, Representative Vice
+Chair Romero wants to share.
+We're looking at a meeting on
+Friday and we're going to need
+to think about a room because I
+may have given this room to LFC
+on Friday, but we'll have to
+talk about that, sorry. I know
+I'm a very person's great. Um,
+thanks, Madam Terror. Um, so the
+idea for Friday's meeting is to
+uh bring in the Department of
+Justice, the um
+DFA and um LFC directors to talk
+about federal funding
+mechanisms, how they work, how
+they operate in our state, um,
+and just.
+What objectively the legal sort
+of framework is for how it's
+deployed, how we engage with
+them, um, just to understand
+some of the, the, um,
+The framework with which we will
+be navigating and and just to
+understand what systems we have
+in place. So, um, we have
+confirmed uh the Department of
+Justice will be there. We're
+confirming some of the other
+experts, um, and so we're hoping
+to just have an informational
+session. Again, I think we need
+to double check on the room
+because I have a faint
+recollection of a conversation
+with one of the staffers for
+LFC, so we need to to make sure,
+yeah, we, yeah, if we have to do
+it on the floor or something, we
+can, we can find, we'll find a
+space to have that, but I'm glad
+I just
+remembered that.
+Cause it could have gotten
+awkward.
+Um,
+OK, well, um, wanna thank both
+of you gentlemen, really
+appreciate it and we're gonna be
+having, I, I'm hoping that more
+conversations along these lines

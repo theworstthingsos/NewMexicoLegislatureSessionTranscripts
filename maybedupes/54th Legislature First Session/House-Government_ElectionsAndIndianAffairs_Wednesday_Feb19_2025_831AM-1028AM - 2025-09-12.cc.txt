@@ -1,0 +1,3544 @@
+Good, good morning, everyone.
+Let's go ahead and call our
+meeting to order. How state
+government elections and Indian
+affairs.
+Before we begin, we have
+housekeeping. We are going to
+hear how Bill 199.
+First
+And we'll move that up.
+And uh please call Roll.
+Representative on here.
+representative block present
+Representative Borego here.
+Representative Lujan,
+Representative Mia.
+Here
+Madam Floor leader,
+Representative Zamora.
+Here.
+Madam Vice Chair.
+Here.
+Madam Chair.
+We have a quorum.
+I got you. Thank you. All right.
+Representative Chairman Linte,
+thank you, Madam Chairwoman.
+Good morning, committee members.
+House Bill 199. House Bill 199
+allows the taxation and revenue
+Department to share certain text
+data with the legislative
+Finance Committee for use in its
+evaluations. I was a member of
+the Legislative Finance
+Committee over the past interim
+session, and this is one of our
+endorsed bills from, from that
+uh interim session.
+The bill doesn't requires data
+to be shared through a data
+sharing agreement or an MOU.
+The bill also provides that no
+data can be shared, that is
+otherwise prohibited by state or
+federal law. House Bill 189, uh,
+once again, as I mentioned, is a
+component of a series of efforts
+designed to strengthen the LFC's
+evaluation unit. When I talk
+about certain tax data, what I'm
+talking about is aggregated
+personal tax data, as well as
+business tax data to help them
+in their evaluations through
+LFC. With that, Madam Chair,
+stand for any questions.
+Thank you. Would you like to
+introduce your expert witness
+and does he have a yes sir.
+Yes, ma'am. This is Brendan
+Gray, who is our uh one of our
+economists in the legislative
+finance.
+Madam Chair, yeah, chairs stated
+that and I'm here testifying in
+support of this bill because it
+is LFC sponsored legislation,
+not something we typically do,
+but.
+want to provide that
+Thank you. OK, let's go to the
+audience. Those in support of
+the bill, please raise your
+hands.
+We'll stay with the audience,
+those in opposition, raise your
+hands.
+Seeing none, let's go online.
+Do we have any supporting or
+opposing comments.
+Please raise your hand.
+No committee members.
+Madam Chair, I do believe we
+missed a young lady in the back
+under the clock that raised her
+hand.
+To
+OK. Would you like to make a
+comment? One minute.
+OK.
+Thank you for your good eyes,
+Nora.
+represented a block.
+Thank you so much, Madam Chair
+and Mr. Chair, good to see you.
+Uh, a few questions just based
+upon
+For me, I, I just really care
+about.
+Security of people's information
+and I just want to make sure
+that since there are more people
+who are gonna have their eyes on
+this information. Can you just
+walk me through the steps to
+secure it, to make sure that we
+don't have that shared.
+Because it's, it's tax
+information very, very personal
+stuff. So could you just opine
+on that for me, Mr. Chair, Madam
+Chair, and expert.
+Thank you, Madam Chair and, and
+Representative, thank you for
+the question. I would like to
+allow my uh expert to
+Go further into detail on that.
+Madam chair representative, it's
+a great question. I think that's
+top of mind for the taxation
+revenue Department, um how it
+works for them now is they take
+a
+State, federal training on how
+to protect that data. They have
+a enclosed system that protects
+that data. Um, so they go
+through a bunch of processes,
+they're constantly, you know,
+um,
+Making sure that they're
+adhering to state and federal
+law, which provides that kind of
+protection that you're concerned
+about. And what this bill would,
+would do is it would make sure
+that um in that data sharing
+agreement, you know, that LSC
+staff would have to go through
+those same levels, that same
+rigorous.
+training and protection pursuant
+to state and federal law. So
+we'd go on site most likely to
+access the data, see the data,
+pull data the same way they pull
+data in an aggregate form that
+protects taxpayer data, um, and
+that would be what's used in
+those so we'd be held to the
+same standards.
+That the tax and rev department
+um is, and they have very high.
+OK, thank you, Madam Chair and
+thank you, Representative, and
+thank you expert. So, that, that
+helps me a little bit. Uh, so,
+when we're talking about the
+data pulling the data.
+How does that work? Is it pulled
+on site and then is it
+transported.
+Through a cloud software or some
+other kind of
+Is it a flash drive or a hard
+disk, I'm sure it would have to
+be pretty big with all that
+data. Can you just give me a
+little more information on how
+that's transported from TRD to
+LFC and then how does that work?
+Madam Chair Representative.
+Madam Chair, Representative.
+Um, as how it works now, we get
+some of this data aggregate. We,
+I'm a member of the consensus
+revenue estimating Group.
+texts and rev is constantly
+pulling data for that body
+outworks, they have a system
+closed only accessible on G's
+campus. Um, they query that
+database, which I'm not sure the
+protections there, but I, you
+know, they're there. They query
+that database and then, you
+know, from that query, which has
+all the information protected,
+that just comes into a they show
+us, sometimes we get access to
+those spreadsheets. Um, so we
+would do the same thing where,
+you know, we go on site, we
+query.
+that data, um, and the only
+thing that's coming
+You know, over the annex is the
+same spreadsheets we have now.
+It would just us be there
+worrying that data as not going
+through the agency.
+Thank you.
+Sorry.
+OK
+Check
+So kind of representative
+elections.
+OK. Is that better? Oh, good.
+I don't sound like a weird
+alien. robot cyborg.
+I know.
+No, thank you, madam chair. So,
+um, there's no penalty currently
+in the bill for violations as
+there exists a great possibility
+of accidentally revealing
+personal information about
+taxpayers accidentally,
+according to my analysis here.
+So,
+Could you tell me how, how we're
+going to hold folks accountable
+in the department, and I'm not,
+I am not saying that.
+like that
+or LFC for that matter, but just
+making sure what checks and
+balances are in place to ensure
+that if this data does get out,
+In any kind of data breach that
+there would be some kind of
+consequences, Madam Chair
+Representative.
+Madam Chair Representative,
+great question. I think your
+question was, question as I
+understood it was, what would be
+the consequences if there was
+some sort of violation of those
+data agreements. Um, I think,
+Madam Chair, for the committee,
+there would be a consequence. It
+would be a misdemeanor if you
+look on page 2 of the um Thaksin
+Rev FIR I hope you have that age
+2 at the bottom of that page,
+um, they, they say section 7176
+would subject LFC staff.
+anyone, um, on and on, uh, who
+inappropriately disclosed
+confidential tax information to
+a penalty up to $1000 and a
+misdemeanor. So that would be
+penalty and in fact that would
+raise that's actually $5000.
+So that would be the the
+penalty, we would be subject to
+the same penalty that ax and Ris
+staff are. OK, thank you, Madam
+Chair and thank yous
+representative, and that
+actually
+Gives me a little more
+Good information to make a
+decision on this bill. I just
+had a
+You know, I, I just want to make
+sure people's data is protected.
+And, and so if we're increasing
+penalties and if there's an
+incentive to not release
+anything knowingly or
+unknowingly, I think that would
+be, that would be good. So thank
+you, madam chair. That's pretty
+much all I had. And thank you so
+much for the bill.
+Senate of Zamora.
+Thank you, Madam Chen. Thank
+you, Representative, for
+bringing this bill forward.
+So
+Give me an example of whose data
+you might pull or or in the past
+whose data you wished you had.
+And, and what the reason for
+that would be, Madam Chair.
+Madam Chair, Representative,
+great question. I'll start with
+a, with an anecdote about why
+this data is important and then
+give an example of of what that
+might look like.
+I'm an economist. I'm part of
+the consensus revenue estimating
+group, we forecast a
+Oh
+that better.
+OK. So we forecast state
+revenues, um, and I think from
+the evaluator's perspective,
+they look at a lot of our tax
+expenditures, which make up a
+big part of the state budget,
+and they say, well, we just
+don't know exactly what's going
+on with these tax programs. It
+would kind of be like, if I as
+an economist, um didn't have
+access to inflation data. How
+can I build my forecast if I
+don't have access to inflation
+data. Well, for them, how could
+they evaluate this really big
+state program, these really big
+tax expenditures, if they don't
+have some.
+access to that data. And so an
+example of what that might look
+like is, um, consider, for
+example, um Lida or JTI. We know
+that there are companies
+receiving um those state
+assistants, we have, we know the
+amount that they're getting.
+From EDD, um, but what we don't
+know is what other state um tax
+incentives, they might.
+be eligible for and not
+receiving or eligible for and
+receiving um and so that's an
+example of how we could match um
+how these companies are stacking
+incentives. Um, is that working
+in their benefit? Is it too
+complicated, for example, there
+was an evaluation done in 2022,
+um on uh Lita and JTip, and that
+was one of their notes that, you
+know, they like, you know, some
+of these companies might get a
+million dollars a year in LIDA
+or, you know, maybe they get.
+million dollars in LIDA, but
+they're also getting a million
+dollars in tax incentives. And
+that's probably a good thing,
+but we want to be able to
+confirm that and come to the
+legislature and tell that story,
+and we just can't do that right
+now based on our tax data.
+Oh, Madam Chan and an expert
+witness. So then that
+That's gonna help you in a way
+to understand.
+How much
+Find how much uh monetary help
+they need.
+And, and why is it, what's,
+what's breaking down in the
+system right now that's, that
+you're not getting there to that
+point today.
+Should they not be required to
+in their applications and stuff
+to give you all that information
+and or is it just somebody might
+forget something or what, what,
+what's the reason for it?
+Madam Chair, Representative,
+great question.
+We've requested this data in the
+past and we haven't been able to
+get it in part because
+TRD views state law as
+prohibiting them from providing
+it to us.
+So Thaksin Rev, they put
+together a great tax expenditure
+report, um, in their
+perspective, I don't want to
+speak for the agency, but from
+their perspective, they're
+meeting their statutory
+requirements, um, and I think
+they're hesitant to be in
+violation of state law by
+sharing additional data with us
+and so this would just be
+Making sure that they know
+they're not in violation of
+state law and that we can work
+together to
+And Madam Chair and presenter,
+so is this gonna help the state
+in, in
+In collecting their taxes or, or
+does this affect any of that
+whatsoever.
+Madam Chair, Representative, no,
+I, I don't think.
+This will be different from the
+tax return data that shouldn't
+impact that process at all.
+Thank you for the for the
+answers. That concludes my
+questions, Madam Chair.
+Thank you.
+Representative Vice Chair
+Little, and then Representative
+Barrego and then representative
+Mejia.
+Thank you very much, Madam
+Chair. Just one clarifying
+question, please. Um,
+Uh, so this bill would allow the
+sharing of taxpayer information
+not prohibited by federal law.
+Can you tell me what, what
+What that is, could you go into
+a little bit of examples,
+perhaps. Thank you.
+Madam Chair, uh, Madam Vice
+Chair, um,
+An example of something that
+would be prohibited by federal
+law is federal tax data.
+We would not have access to
+that.
+That's beyond the purview of our
+office, beyond the purview of
+this bill, so we don't have
+access now, we wouldn't have
+access in the future.
+Thank you. That's very clear. I
+appreciate that. Thank you,
+Madam Chair.
+Senator of Breo.
+Madame Chair, I was just gonna
+make a.
+for approval of House Bill.
+Thank you before we um vote on
+that Representative Mejia.
+Thank you, Madam Chair. Thank
+you, Representative and expert
+witnesses.
+Um, I just have one question.
+What warranty is there that we
+will know if the tax data were
+misused.
+Madam Chair, uh, representative,
+your question, great question.
+I'll repeat it just to make sure
+I'm understanding what guarantee
+would we have.
+Know if the tax data was mis
+misused, um.
+I think our data sharing
+agreement, um, as I, as I
+imagine it would have.
+TRD and their team that
+currently check, that currently
+makes those checks, making the
+checks against us, so that
+whatever evaluation we're
+putting out would be audited by
+that team. Um, so the same
+checks that exist now that
+enforce that misdemeanor penalty
+would still be in place.
+You, Madam Chair. Thank you.
+Thank you. So we have a Du pass
+motion by Representative Barrego
+is seconded by Vice Chair
+Little, please call roll.
+Representative ona Nonu.
+Yes.
+Representative Black
+Yes.
+Representative Borego.
+Representative Lujan,
+Representative Mehia.
+Yes.
+Madam floor leader
+representative Zamora.
+Yes.
+Madam Vice Chair.
+Madam Chair. 61.
+Hey, Representative Chairman,
+you have to pass. Thank you.
+Good day. All right.
+House Bill 228.
+Representative Serrado, chair
+chairwoman Serato.
+Yes, I do.
+Madam chair, that's why I have
+the closed captioning bill this
+afternoon.
+Hey, you may begin. Thank you.
+Thank you, Madam Chair. Thank
+you committee. Uh, good morning.
+Glad to be here. Uh, I'm
+Representative Linda Serrado,
+and this is my expert, Luis
+Barrias, who is with the
+government relations with Amaro.
+We have for you today, uh, 228,
+which is certain restrictions on
+electric fences. Uh, this bill
+overall is a good government,
+good business bill, but it
+provides it allows businesses to
+know they have, um, the baseline
+to protect themselves. And it
+does two things really, and it
+really starts on page 4. what it
+does is it provides an
+Avenue for municipalities to
+oversee electric fences, um,
+burglar alarms that are electric
+fences, and 2, it creates a
+baseline for a uniformity for
+electric fence burglar alarms to
+be set up and recognized by
+municipalities. Um, as we know,
+electric fences can be a
+deterrent to crime, and it is an
+action that small businesses can
+take on their own part to ensure
+that they are, um, you know,
+make preventing any crime within
+their own reach. It gives them a
+sense of security they can take
+care of.
+Uh, page 1 and 2 and 3 really
+maintains all the different ways
+that um a municipality can
+control an electric fence. This
+bill doesn't affect zoning. It
+doesn't affect anything in that
+framework, but what it does is
+it makes it clear the avenues on
+page 4, where, um, you know,
+they can restrict um electric
+fences and makes it consistent.
+And I'll, I'll tell you why this
+came up. Uh, I'm obviously
+represent Santa Fe. It's not
+obvious. I do represent Santa
+Fe, uh, and very proud to do so.
+And in our community, there's a
+business that went to City Hall,
+asked to set up an electric
+fence. They said, great, and
+they invested more than $20,000
+in setting it up, you know,
+every 10 ft there's a posted
+sign, there's a wall associated
+with it, etc. etc. And so they
+got it all set up, they're all
+excited, and then another
+department within the city came
+and said that may not have
+broken this rule, but it broke
+this rule over here, you didn't
+even know existed. And so they
+had to take it down, which cost
+them another $10,000 and they
+ended up not without this. And
+so all this does, it just
+provides again, that it makes it
+really clear that if there's
+going to be restrictions.
+on electric fence burglar
+alarms, that it has to be in a
+specific area related to
+electric fences, and it allows
+them to build whatever other uh
+restrictions on top of that.
+I'll, I'll hand it over to my
+expert remote from Amro who can
+give you some more information.
+Thank you.
+Good morning, Chair.
+Members of the committee, my
+name is Luis Farias. I am a
+government relations director
+for Amrock.
+Being in support of HB 228 and
+on behalf of business customers
+seeking innovative products like
+battery charge fences with alarm
+systems to deter commercial
+property crime.
+The monitor security
+technologies provided for
+businesses located on
+commercial.
+Manufacturing and industrial
+sites.
+Who needs to include the
+protection of outdoor assets.
+The system always sits behind an
+existing non-electrified
+perimeter.
+The security technology has
+protected businesses in New
+Mexico since 1998, and for
+decades elsewhere.
+It is worth noting that the
+system is based on open source
+technology.
+All of its components can be
+bought off the shelf.
+Because property crime has grown
+to dramatically. More businesses
+have expressed a dire need for
+this security technology.
+These businesses invest
+considerable resources to
+protect assets and ensure
+employee safety in New Mexico,
+businesses can face lengthy
+delays and uncertainty when it
+comes to permitting due to
+patchwork of standards and
+interpretations across various
+jurisdictions. Currently, we
+have 95 customers waiting for
+this technology.
+On average, it takes 180 days to
+get permitted with some waiting
+for over 500 days.
+And delays are not specific to
+just one city or county.
+To operate, businesses need
+certainty around the
+installation of security systems
+and technology, HB 228 brings
+uniformity to the permitting
+process.
+Allowing businesses to grow and
+expand operations locally.
+The system is safe and can only
+be installed behind an existing
+perimeter.
+And local government retained
+Sony control and the ability to
+establish requirements for loan
+permits.
+The battery charged security
+device is a crime prevention
+tool, which provides a starling
+but safe pause to deter and the
+tecrimal trespass.
+The system interfaces with a
+monitor alarm to detect a breach
+and alert to business in a
+monitoring operator who verify
+an alarm event before police
+officers are called.
+This is great for the business
+who see crime virtually
+disappear upon installation.
+Reducing the strain unlimited
+law enforcement resources.
+The system features warning
+signs that are located every 30
+ft to alert and deter potential
+trespassers and criminals. It
+also complies with recognized
+safety standards established by
+IEC.
+And the device is very power
+with no more than 12 volts of
+direct current and is
+continuously recharged by solar
+panels.
+To prevent inadvertent contact,
+the security system is always
+located on the interior of the
+property and behind a perimeter
+fence or wall.
+New Mexico has the opportunity
+to join others like Utah,
+Arizona, Texas, and Oklahoma in
+passing laws that make it easier
+to install crime prevention
+security solutions.
+In all, there are 26 other
+states that have similar laws,
+including most recently
+California.
+Insecure technology prevents
+property crime at no cost to
+taxpayers, cities, or the state.
+I respectfully ask for your eye.
+Thank you. With that, we stand
+for questions.
+Thank you. Let's go to the
+audience now, those in support
+of the bill, please raise your
+hands.
+OK, let's hear from you one
+minute, please.
+Good morning, Madam Chair.
+Members of the committee, my
+name's Luke Otero. I'm
+I'm speaking outside of my being
+a lobbyist, uh, we also, our
+family owns a small family
+warehouse commercially zoned.
+And we're one of the business,
+uh, businesses that probably on
+that waiting list to see this
+technology and utilize it for
+our security of our, our assets
+and our property.
+Um, at our warehouse.
+Uh, we don't mind encumbering
+the cost.
+It's uh something that we look
+at or to.
+Feeling secure at night that
+our, our property and our assets
+are protected, so
+Madam Chair, committee members,
+please support this bill.
+Any other supporting comments?
+We'll stay with the audience,
+any opposing comments.
+OK, let's go online.
+anyone on Zoom hoping to make
+public comment. Please raise
+your hand.
+OK, we have Jane Jernigan.
+Jane, can you hear us?
+I can. Great. Um.
+Good morning, Madam Chair and
+members of the committee, uh
+Jane Jernigan with the New
+Mexico utility Contractors
+Association.
+Our members construct everything
+from the curb down, highways,
+bridges, and water treatment
+plants, and we have members all
+over the state.
+We support House Bill 228
+because businesses are facing
+criminal activity at their
+permanent yards and work sites,
+and this bill offers an
+effective deterrent. New Mexico
+businesses need options to deter
+crime. This bill expands
+security options with no cost to
+taxpayers and still maintains
+local and ordinances and zoning.
+These systems are a tool to
+curtail crime but are safe.
+House Bill 228 provides guidance
+and restrictions to ensure
+uniformity across New Mexico. We
+respectfully ask you to vote
+yes. Thank you for your time.
+Thank you so much, Jane. Anyone
+else?
+Hey, Representative Zamora.
+Thank you, Madam Chair and thank
+you presenters for bringing this
+bill forward.
+Why is there restrictions? I
+can't the fence be on the
+property line.
+Madam Chair, representative.
+Madam Chair Representative, I'm
+actually gonna hand it to my
+expert on this one. Thank you.
+So
+Right, so there's two
+perimeters, right? We have the
+existing perimeter and ours goes
+behind it. The reason why it's
+not right on that main perimeter
+is to prevent inadvertent
+contact. So people who go beyond
+that initial perimeter have
+already demonstrated clear
+intent to break in and take
+something that's not theirs.
+And Madam Chair, and uh
+Tell me your name again so I I
+can get your name.
+Uh, yes, Representative Luis
+Farias.
+Spell that first name? Sure. L U
+I S, uh Luis, yes. So, so Luis.
+Madame Chali,
+So I picture somebody jumping
+over the first fence.
+And then they get into the 2nd
+fence and they get shocked.
+And there
+In a trap.
+They want to get away from the
+electric fence, but they're in a
+trap.
+How, how would you explain that,
+Madam Chair and Louise?
+So Madam Chair Representative,
+there are actually standards
+that guide the installation of
+this fence. It's 4 to 12 inches
+away, it separates the two
+perimeters, uh, there is a loop
+1.3 seconds. So there is no
+entrapment and our fence is
+built higher so that somebody
+can't just jump the fence. It
+prevents criminals from easily
+accessing the site.
+Representative and and Madam
+Chair and
+Let's go back to the first
+question, but, but I feel like
+they might get trapped in
+between.
+The first fence and the 2nd
+fence.
+And even though
+I'm sure don't support anybody
+breaking into the business, but,
+but here we have this person
+trapped.
+In this fence
+Because there's an outer fence
+and an inner fence, and he's
+gotten shocked and now he
+doesn't have.
+Maybe the strength or maybe he's
+so nervous he can't get back
+over the first fence to begin
+with.
+And, and how do you feel about
+that, Madam Cher and Louis?
+Representative, if I can tell
+you that the system has been
+thoroughly tested by medical
+experts throughout the world for
+various scenarios that includes
+people with pacemakers,
+children, pets. It is not meant
+to harm the duration is 0.0003
+of the shock, which is akin to
+static shock.
+Representative.
+OK.
+So, so then, uh,
+That I'll go on to my next
+question is,
+Why
+Why do we put some kind of
+relationship between these
+fences, this bill.
+An alarm systems.
+Cause, cause to me the alarm
+systems are already there and
+everything and, and we're trying
+to add this fence, yet we're
+tying the in the bill where
+there's some language about the
+alarm systems. Why?
+Why is that so, uh, Madam Chair
+representative?
+Representative, I understand the
+question, um, these are both
+electric fences and burglar
+alarms. So, uh, they will notify
+either, uh, you know, local
+police officers if somebody has
+broken in, or they'll notify if
+they have a private security
+system, they can notify that. So
+it's, it is both at the same
+time. Um, and so that was
+something I wanted to add as
+well is that if should someone
+be stuck there, they're not
+stuck till the morning per se.
+They, you know, an official has
+been notified.
+OK, thank you for that answer,
+and then, uh,
+We Madam Chair, we also talked
+about.
+A battery, a 12 volt battery
+having to hook up to this fence.
+And, and I've ran
+Electric fences on my farms and
+ranches all my life.
+And we do hook up a 12 volt
+battery, but then there's a
+conversion done on that 12 volt
+DC.
+To, to
+I don't know what
+The, the other proper word is
+and stuff, but it's not 12 vote.
+DC volts won't hurt anybody.
+We can, any of us can go grab a
+battery and grab both both
+posts, and they won't hurt you.
+It's the alternating current
+that'll that'll bite you. So,
+If it's being converted.
+To another source.
+Or
+For electricity or I guess would
+be the correct way to say it.
+Why does it have to be a 12 volt
+battery? Why can't it be plugged
+into a 110 outlet, Madam Chair.
+Manage representative, great
+question, uh, so our system is
+not connected to the grid for
+Obvious tactical reasons if
+there's a storm, if uh wind
+event, the system continues to
+operate even if the grid goes
+down.
+It is not continuous in nature,
+It forces so that every 1.3
+seconds you get that going
+around. The battery itself is
+recharged continuously by solar
+panels, but it is in no way
+attached to uh the grid.
+Madam Chair Representative, if I
+may add, these are standards
+that are pretty consistent
+throughout the electric fence,
+burglar alarm industry. Um, and
+so what we, what this says is
+that in permitting should have a
+locality want to add additional
+restrictions on, you know, how
+that battery and that, that
+power source is set, they can,
+but the minimum is that this is
+the minimum that that is set
+across the state. OK, OK, Madam
+Chair, and thank you for that
+answer.
+So
+Madam Chair and, and Luis.
+Are you the owner of
+A fence company that puts this
+fence up, man.
+Madam Chair Representative, I,
+I, I work for Amrock. We are in
+the industry, but we're, like I
+said earlier, it's open source
+technology, so anybody can jump
+into the business, and we
+welcome the competition
+representative and, and I'm
+sorry, uh, Louis, but when the
+door opened, I didn't hear
+everything you said. No you
+repeat your answer?
+Uh, yes, I work for Amrock. We
+are in the industry, but as I
+mentioned in my testimony, it's
+open source technology. So
+anybody that wants to jump into
+this kind of business can do so.
+OK, and, and Madam Chair, and
+Louis, so
+When, when you answered the
+question a while ago, you said,
+our, our, our system.
+Works this way.
+Are there other systems?
+That would work without a
+battery.
+And, and I just wanna make sure
+we make this, uh, uh, a free
+market.
+Decision for whoever's putting
+up a fence. Is there other
+fences?
+That don't use a battery that
+are, that would work in the same
+manner.
+That have to be plugged into a
+110 outlet.
+Madam Chair Representative, I
+believe there are other systems
+that do just that.
+OK. And, and Madam Chair and
+Representative.
+That causes a little heartburn.
+Because here we are in front of
+a committee.
+And we're selling a product.
+A specific product.
+If, if we're gonna, if we're
+gonna run this bill forward.
+And we're, and we're gonna keep
+going with it.
+I think that we ought to be able
+to make.
+Whatever fences are on the
+market.
+Available to the customers.
+We shouldn't as legislators.
+Be selling a particular product
+and narrowing down the market to
+the, to the consumer.
+And, and this has happened to me
+in, in, I've been serving for 6
+years now, and it's happened to
+me a few times in committee. I
+don't think it's your intention.
+To do that
+But
+If I as a consumer.
+I'm looking for an electric
+fence.
+And for and for whatever reason,
+I find a fence that'll plug into
+a 110, and I don't want to
+involve a battery in the system.
+Or I like it for any other
+particular reasons.
+I don't want to be tied down by
+a law in the state of New Mexico
+that says you have to buy a
+fence that that involves a 12
+volt battery.
+So to me, I would feel more
+comfortable.
+If you guys take a look at this
+bill and, and open that.
+Open that up to where it
+doesn't.
+Pertain to a particular.
+Maybe group of products, maybe
+you're not trying to narrow it
+down to your particular product,
+but
+But to me, we need to open up
+the market and make it, make it
+a free market system for the
+consumer.
+Um
+Other than that, I, I'd like.
+The help in keeping the
+criminals out.
+I, I'm still, still have some
+reservations about voting for
+this bill.
+I look forward to the, to the
+debate as we go forward on this.
+Thank you, Madam Chair.
+Thank you, Representative
+Representative Barraco.
+Thank you, Madam Chair, and, and
+thank you, Representatives more
+for your comments.
+Um
+Um
+Madam Chair, um, and
+representative.
+Um, thank you for your bill. Um,
+I do have some concerns about it
+with regard to um some of the
+comments that are in our
+Uh, committee analysis and our
+fiscal impact report.
+And those comments are with
+regard to um local.
+Zoning authority.
+And um
+You know, I've been involved in
+lots of um
+Development of zoning.
+And um regulations.
+And this bill
+Preempt some of that.
+And and it concerns me some
+because a lot of those
+regulations um are developed
+over time for specific
+communities and Madam Chair, um,
+It takes a lot of time to
+develop those regulations.
+And so we are preempting those
+that, that time and that effort
+that was uh taken by those um
+by those zony re regulatory
+authorities and I notice in our
+comments, um,
+And this is by our staff, um,
+the municipal League notes that
+this bill removes authority for
+some permitting and zoning
+decisions from local
+governments, an authority which
+more appropriate.
+More appropriately might be left
+with the local zoning and
+planning boards, and I know that
+those, those groups and those
+individuals work very hard to
+ensure that
+You know, um,
+The uh zoning codes are um
+unique.
+And our specific to those, those
+areas that they serve.
+And um the other thing, the
+other comment shifts permitting
+and zoning of authority away
+from local governments and um.
+Addresses this specific
+industry.
+And
+You know,
+One size does not fit all.
+And I have, I have some concern
+about that.
+And I think that
+You know
+And I know that you've probably
+taken a lot of time,
+representative, to do, to come
+up with this bill, as we all do,
+and, you know, we all work hard
+to ensure that we tried to cover
+all our bases, but
+Have you heard from uh the
+municipal league, have you heard
+from um cities and counties
+across the state because.
+I didn't see any of your
+witnesses here that addressed
+that. Thank you, Madam Chair.
+Thank you, Representative for
+the comments. Um, and I always
+appreciate our conversations on
+these. I think, uh, so no, the
+answer is we've not heard
+directly from the municipal
+League except for the analysis
+that says this, um, I think part
+of this is there I think there's
+two pieces. So one, it, it
+ensures they can continue to
+zone how they prefer, and they
+continue to control in the
+permitting process. It, but it
+outlines that it that any
+restrictions on the
+these tools, which I would argue
+electric fence is, is a burglar
+alarm tool. These tools is
+through the permitting process.
+And again, that just prevents
+from one municipal, you know,
+department to another one, both
+in good efforts, right? And, and
+good, and, and good, uh,
+intentions, setting up two
+different systems that people
+have to overcome. One thing I
+also wanted to address uh with
+with representativesor's
+question was that, um, while
+there are other systems on the
+market. This is aligned with
+international safety um
+standards that are that are
+pretty well.
+And so this isn't just a product
+that Amaro has alone. This is a
+pretty common product throughout
+the the nation. So this is, I
+know there are times that we
+feel that we're picking winners
+and losers and I, and for me,
+honestly, this is about ensuring
+that one small businesses are
+looking to protect their
+properties. Um, they understand
+the rules going in. And it's
+very difficult when they have
+two different ones. So, um, I
+did see that in the FI the FIR
+maybe the agency analysis, um,
+that the musical league had
+concerns, but they've not
+reached out to me about how we
+can change that in that sense.
+Um, this just provides a
+baseline and then again,
+municipalities can can't shift
+how if it's their locality more.
+Follow up, Madam Chair, um, so
+does your bill require that
+municipalities or counties, um.
+Or rather not municipalities or
+counties, but residential, if
+they put this in, these are the
+standards that they have to
+meet.
+Thank you, Madam Chair. Thank
+you, uh, Representative. So this
+is disallowed in uh residential
+areas. This is only commercial.
+Um, and this is again the
+baseline. So if they want to
+shift the height of the fence or
+something along those lines,
+they're able to do that and make
+it fit within their community
+that fits better, because you're
+right, what works in Albuquerque
+doesn't work in my question is,
+Madam Chair, is it required that
+those businesses put these alarm
+systems in. No, Madam Chairs
+representative. OK, so if
+The commercial property chooses
+to put it in, then these are the
+requirements that they must
+follow. I thank you, Madam
+Chair. Thank you,
+Representative. Yes.
+OK. I still have some issue,
+Madam Chair, um, and
+representatives that we have not
+heard from those municipalities.
+Um, there's not a lobbyists
+from, for example, the city of
+Albuquerque or the, the county
+of Bernalillo or areas that I do
+represent, I haven't heard from
+that and I'm, and, and.
+The concern that I have, Madam
+Chair, is that the municipal
+league.
+They must have weighed in on
+this, otherwise, why would that
+comment be in the report?
+And I, you know, taking that, I
+mean that local authority and
+sort of pre-empty that does
+cause me some concern,
+representative, and, and maybe
+it's something that we need to
+look at in the interim, but at
+least I would like to have those
+questions answered, Madam Chair.
+You representative block.
+Thank you so much, Madam Chair
+and Representative and expert,
+uh Mr. Luis, I, I, I forgot your
+last name starts with a V.
+Representative Farias is, OK,
+pardon me, OK.
+Appreciate that. OK, thank you
+so much for this. So, I do have
+some, I do, I do echo some
+concerns that have been raised.
+About this, can you go a little
+bit deeper for me, Madam Chair,
+Representative Sarato or Madam
+Chair Sarato on the
+What, what it restricts
+regarding municipalities and
+localities because what I'm
+reading here, it sounds to me
+like there are some.
+Some parameters that it gives
+like guidelines. And then it
+also says the authority may
+regulate and restrict within its
+jurisdiction.
+Uh, on 123 on page 2, I
+percentage size, density. Can
+you just go a little bit into
+that for me to see what is
+restricted, cause I, I do
+understand that we're not trying
+to let somebody who's started to
+invest in this project, they got
+an initial approval from the
+city or whatever, and then
+halfway through one of the, the
+Myriad of departments in that
+city says, oh, never mind, and
+then stops them halfway. So I
+think that's the problem we're
+trying to
+Resolve, but can you go a little
+deeper for me into what is
+restricted on the, on the
+municipal.
+Level, and then what parameters
+they have to be able to further
+uh regulate whatever it is that
+we're doing here, Madam Chair
+Representative. Thank you, Madam
+Chair. Thank you,
+Representative. So, um, I'm
+going to take your question in
+two parts, if that's OK.
+No, it's, it's always good. I
+like these. Um, so, uh, just to
+be clear, page 2 is already
+existing law. Um, and so the, it
+really says that except as
+provided in the next section,
+this is what they have to
+consider and what the second
+that page 4 really does is it
+explains outlines what an
+electric fence burglar alarm is
+because many times, um, that
+isn't even, uh, you know,
+outlined in municipal, um, you
+know, code or, or, or
+ordinances, that can make it
+difficult because it it kind of,
+uh, it's both offense and both
+the
+burglar alarm, right? So it kind
+of straddles these two realms,
+uh, and so that kind of
+clarifies some of the language
+around that. Uh, and then the
+rest of this clarifies that if,
+if, you know, should they add
+additional um restrictions to
+this product in there, it has to
+be through the permitting
+process. It doesn't affect their
+zoning or anything like that. So
+I think that answers the first
+part of your question. I didn't
+know if it did the whole.
+Thank you so much, Madam Chair
+Representative. Yeah, I was just
+trying to reaffirm that.
+Currently they do have the
+rights that are already put in
+the statute, and then your new
+section starting on page 4, it
+just guides how those fences can
+be applied.
+On the level of the local or
+city municipality, etc. county,
+for example. So,
+That, that kind of cleared up my
+concern there a little bit.
+And then Madam Chair
+Representative, I'm just, I know
+we talked about Santa Fe.
+And
+There's a lot of crime in Santa
+Fe. I mean, and I hate, I hate
+to say it's your district, it's
+great, great place to be, you
+know, city of holy faith and all
+that. But there are problems
+across the state as well, or is
+this kind of just a Santa Fe
+issue that that you've seen
+Madam Chair representative.
+Thank you, Madam Chair. Thank
+you, Representative for that
+question. So as my expert
+mentioned, they have 95 folks on
+the waiting list. Part of the
+problem that arises with these
+electric fences is how long it
+takes to get them, uh, get, get
+everything set up. With this
+also helps to do is alleviate
+that strain on time and
+resources instead of having
+multiple departments again,
+review this piece and, and
+figure that out, and it might
+take even longer than it gets it
+takes to to get the fence
+erected. Um, this really
+streamlines it so that it, we
+know that it isn't a permitting
+process that you will see that
+these restrictions applied. So,
+um, from that perspective, it
+should streamline it, but there
+are, there is a lot of demand
+for, um, you know, businesses to
+take their own action and ensure
+they can protect their own
+properties.
+OK, thank you, Madam Chair
+Representative, and actually
+from the discussion, it sounds
+like something I would love just
+put in my house, but I know
+it's, it's restricted from
+residential, so.
+Darn it, I have to call my city
+and see if they, they can help
+me with that. So, Madam Chair,
+representative.
+I guess the other question I
+kind of had was, yeah, we talked
+about the municipal league and
+their potential concerns. I
+didn't hear from them this
+morning, so it's hard for me to
+understand what they're concerns
+are, how grave they may be, or
+maybe not great because I didn't
+see anyone from there this
+morning. And so it just says
+they do say it will have a
+minimal fiscal impact though on
+administering its provisions. So
+can you go a little into that
+for me because I see on the FIR
+there's not really a
+Physical impact, no physical
+impact is what it says. So could
+you just go into that for me a
+little bit to see if this could
+potentially make costs incurred
+to those counties, cities, etc.
+Chair, thank you,
+Representative. Um, so I believe
+that what they must be referring
+to is just, you know, looking at
+what they're cur should they
+have any current ordinances on,
+on tap and comparing that to
+what this is, might anticipate
+that is what we see it as, um,
+as we mentioned, we don't see
+this as any cost to taxpayers
+overall. Definitely not ongoing,
+um, you know, this would be part
+of the permitting process that
+already exists. And truly, you
+know, again, for those
+businesses that are, I mean, I
+don't have to tell you that
+especially when you're starting
+a new business, figuring out all
+the different places that you
+need to be accessing for the
+re g ul ations that you have,
+um, you know, we talked about a
+lot, how do we streamline that
+process, making this a little
+bit easier for to protect
+themselves, I think is an
+important aspect.
+You so much, Madam Chair and
+representative, and I'm sure as,
+as you've seen and I've seen in
+many other places, I, I try as
+hard as possible to support
+small businesses as much as I
+can, right? I want to make sure
+that small businesses have
+autonomy to actually thrive in
+this state, and I think I,
+before I make a decision on this
+vote, I think I'm just gonna
+listen to the rest of the
+debate, but I appreciate you for
+bringing this forward and I'm
+I'm considering just all the all
+the different moving parts to
+this bill. I know it sounds very
+cut and dry, but there are so
+many moving parts around here
+and, and I appreciate it. So
+thank you, Madam Chair and thank
+you, Madam Chair and uh Mr.
+Mr. Louis, I'm sorry I keep on
+forgetting your last name.
+Representative Brego.
+Madam Chair, for giving me a
+second opportunity, um, and,
+and, uh, representative, Madam
+Chair, and your witness, um,
+it's
+It's concerning to me that
+there's no discussion about the
+fiscal impact since you brought
+it up, Representative Bloch,
+because there would be some
+enforcement to, you know,
+involved in this. And so that
+would be probably at least 1 or
+2 FTEs that would have to go out
+and, you know, determine whether
+or not.
+Those commercial businesses have
+met these restrictions, so it,
+it concerns me a little bit that
+the staff didn't raise that
+issue. Um, and I just, I have to
+question that, uh,
+representative of the Madam
+Chair, just knowing that those
+inspectors are out there, um, I
+don't understand how there would
+not be a thank you, Madam Chair.
+Thank you, representative. Um,
+so I believe the reason why is
+that it would be part of the
+permitting process. And, and
+because this permitting process
+already exists,
+Or again, setting up a new
+structure, setting up a new
+fence. This would be part of
+that. And again, they would
+measure, this would be
+additional considerations that,
+um, that the inspectors would
+already be reviewing. So from
+that perspective, I believe
+that's why, you know, most many
+of the the agency or the fiscal
+impact report, neither of them
+identified significant ongoing,
+um, you know, costs there.
+Thank you.
+Thank you. What is the.
+I have a motion for tabling.
+Please call roll.
+Representative on.
+Note table
+Representative Block.
+Pass
+Represented Borego.
+Yes, with the explanation.
+Representative Lujan,
+Representative Mehia.
+Yes.
+Representative Madam Flo leader,
+Representative Zamora.
+table.
+Representative Block.
+Noted table.
+Madam Vice Chair.
+No to table
+Madam Chair.
+34 motion fails.
+motion to table fail.
+Ma'am, Cherry move a you pass.
+Uh
+Please Carroll.
+Representative on Leonardo.
+Yes.
+Representative block pass.
+Representative Borego.
+No with explanation.
+Posed Lujan, represented Mea.
+No.
+Representatives, uh, Madam
+Flour, Representative Zamora.
+No.
+Representative Black.
+Yes.
+Madam Vice Chair
+Yes.
+Madam Chair.
+Representative, uh, before.
+we have an explanation represent
+a Barre.
+Thank you, Madam Chair, and if
+this motion does pass, um, I
+would definitely recommend that
+um there's a discussion with the
+municipal league.
+To um
+Get more information about how
+This would affect uh city and
+county.
+Um, codes. Thank you.
+Represent a black
+OK. Thank you committee. Thank
+you, Madam Chair. Thank you.
+Thank you. You may begin.
+Thank you, Madam Chair and
+committee members. Um, I'm here,
+uh, to present the House Bill
+238. This bill is to um align
+middle and high school
+professional work hours with the
+elementary work hours of 60.
+Hours. And I brought my um
+expert witness Rene Sacido from
+Rio Rancho Public Schools, and
+I'll let her introduce herself.
+Hi, thank you for giving me the
+opportunity to speak before you
+today. My name is Renee Saucedo.
+Um, I've been an educator for 26
+years, 10 years teaching um high
+school 9th grade science. 10
+years as a high school
+administrator, and I'm currently
+working at the district office
+as a secondary school
+improvement officer supporting
+middle and high school.
+So I want to um just let you
+know that I deeply appreciate
+your ongoing commitment to
+improving education in our
+state.
+I would like to express my
+sincere gratitude for your
+support and education in recent
+years, particularly through
+passing of, through the passing
+of House Bill 130. This
+legislation, which allows
+districts to count professional
+work hours as part of the
+required instructional hours
+underscores your understanding
+of how vital professional work
+hours are to the educators in
+our state.
+Today we ask you to consider a
+small yet important adjustment
+in House Bill 238. That would
+create equity between elementary
+and secondary educators,
+specifically, we are requesting
+that secondary educators be
+granted the same number of
+professional work hours that are
+currently available to
+elementary educators. Currently,
+elementary educators are allowed
+60 hours of professional work
+throughout the, the year and
+secondary are allowed 30
+professional workouts.
+that are counted as
+instructional hours.
+The adjustment will help ensure
+that all educators, regardless
+of the grade level they teach
+have equal opportunities to grow
+professionally.
+We know the best way to support
+our students at every level is
+by providing them with well
+prepared, highly qualified
+teachers at the secondary level,
+we are facing many of the same
+literacy demands that have been
+previously placed on elementary
+staff. It's crucial that all
+teachers, regardless of the
+level they teach, have the
+opportunity to enhance their
+skills during their contracted
+hours.
+The disparity and professional
+development hours could also
+create complications when
+building school calendars. Many
+families have children at both
+elementary and secondary levels.
+The different differing number
+of professional workdays can
+result in a separate calendars.
+As a result, attendance could be
+impacted with secondary school
+students missing school to take
+care of their younger siblings
+on days when elementary students
+are out for in-service days.
+Thank you for your continued
+dedication to education and for
+your consideration of this
+request. We believe that
+ensuring equal professional work
+hours for all educators will
+ultimately benefit our students
+and strengthen the educational
+system.
+Thank you.
+Thank you, Madam Chair,
+Committee stand for questions.
+Thank you. Thank you. Let's go
+to the audience. Do we have, um,
+Comments in support of the bill.
+OK, let's do one minute
+comments.
+You hold it. Good morning, Madam
+Chair and esteemed members of
+the committee. My name is Mary
+Parr Sanchez, and I am the
+president of the National
+Education Association in New
+Mexico. I'm also a lifelong
+middle school teacher, uh, Stan
+in strong support of House Bill
+238, um, with the shortage of
+educators across the board
+today. Uh, it's so important
+that we embed professional
+learning.
+In the school day and for many
+of the reasons that the expert
+witness gave, um, the educators
+I support, uh, thousands of them
+are outside of Albuquerque, and
+we support House Bill 238, and I
+hope you do too. Thank you.
+Morning, madam Chair, members of
+the committee. My name is Lauren
+Hatch.
+Uh, I represent Rear Rancho
+Public schools, and I just want
+to, uh, on behalf of Reun to
+public schools, urge you to
+support House Bill 230. Good
+morning, Madam Chair, members of
+the committee, Lily May Ortiz,
+I'm the legislative liaison for
+the New Mexico School Board
+Association, and this
+association maintains over 70
+different platform positions
+that deal with legislation, and
+this piece of legislation is one
+of our top priorities, and these
+priorities have been voted on by
+our membership of over 40.
+50 school board members
+throughout the state. Two of our
+top priorities deal with
+educated recruitment, retention,
+and preparation, and academic
+achievement. New Mexico's school
+board Association ranks student
+achievement and quality learning
+as its number one priority, the
+LESE analysis on the spill
+indicates that the most
+effective forms of professional
+development for teachers are
+embedded in the course of a
+normal school day. It's
+important for our students that
+they received the best possible
+instruction.
+and professional development
+gives time to our teachers for
+this critical preparation. We
+support this legislation and ask
+you to do the same. We thank the
+sponsor for bringing it forward,
+and we thank you for your time
+and consideration.
+There's supporting comments.
+You will stay with the audience.
+Do we have any opposition?
+Please raise your hands. Let's
+go online.
+We supporting
+And then opposing.
+Anyone hoping to make a
+supporting comment, please raise
+your hand.
+Anyone hoping to make a public
+comment in opposition, please
+raise your hand.
+Hey, committee members,
+Representative Zamora,
+Madam, I do.
+And I second that.
+We have a motion for to pass. Do
+we have an or little.
+Thank you for bringing this bill
+forward, Madam Chair, I do have
+a couple of questions. So as I
+was um reading through this, um,
+So, uh
+Bear with me, I am not part of
+the education world, Madam
+Chair, and so, uh, I'm just
+curious as to
+So these classroom.
+These hours would be during the
+day of a school day is what I
+heard. Is that correct?
+I understand, uh, Madam Chair,
+Madam Vice Chair and committee
+members.
+Thank you. I'll, I'll have our
+Madam Chair, Madam vice chair,
+um, it, it could look a variety
+of ways. It really depends on
+how the um school district
+manages their calendar, but for
+example, um,
+I think, I think the answer to
+your question is that we're
+required to have
+1140 hours in the school year
+and the 60 hours are a part of
+those 1140 hours. So it may be a
+full day. It could be a partial
+day. It depends on how the um
+The district decides to do that.
+And thank you for that uh
+response.
+I think with the other
+information you provided this
+morning, that's the last I don't
+have any anymore. Thank you.
+Or a due pass in a second.
+Let's, uh, do we have any
+opposition?
+OK, Representative Brego.
+saw it in the in the, in the, is
+there a monitoring system in
+place?
+Thank you, uh, Madam Chair, Vice
+Chair Representative,
+answer.
+Madam Chair Representative, um,
+um the
+And I don't think I quite
+understand your question. Um,
+who monitors the hours and how
+to, how, how would we ensure
+that
+If we voted in favor of this,
+the hours are going to be
+equivalent for both. So all of
+our, when we, Madam Chair
+Representative, when our
+calendars are created, they're
+sent in to PD.
+They check our hours as far as
+um the professional development
+that teachers are given.
+Those are, there are sign in
+sheets, they're the principals
+have to monitor the teachers
+that are getting their
+professional development. Um, I
+hope that that answers your
+question. I think it does. So
+the, the principals would, would
+monitor and then send to the
+superintendent and then probably
+to the uh PED right?
+Is that kind of the process?
+It's been a long time since I've
+been in the education system,
+Madam Chair Representative, um,
+they're monitored by so on
+professional development days,
+there's specific schedules that
+teachers need to follow. And so
+all of those are monitored
+either by district office or
+principals within the district.
+OK, thank you. Thank you, Madam
+Chair, for that.
+you. Do we have any opposition
+to the Du pass motion?
+Seeing none, you have a due
+pass. Thank you.
+You think Madam chair, vice
+chair, committee members. Thank
+you.
+OK, Representative chair,
+chairwoman Chandler.
+House Bill 62, we have an
+amendment. Let's pass out the
+amendment.
+Thank you, Representative
+Chairman, chairwoman. You may
+begin. Thank you, Madam Chair.
+Um, hello committee, um, Madam
+Chair, what's your preference?
+Should we explain sort of the
+overarching part of the bill and
+then talk about the amendment.
+Please. OK. Um, so Madam Chair,
+the New Mexico Attorney General
+has broad civil authority to
+investigate issues.
+And this bill is intended to, to
+create a unified approach in
+terms of how it can utilize that
+authority, Madam Chair. There
+are are various sections in the
+statutes right now that have
+somewhat different approaches
+and so what this bill does, it
+provides one approach for any
+civil investigation that the
+court that the attorney general
+may be initiating and I would
+point to a few things, um,
+perhaps.
+might be a good time to talk
+about the amendment, which is
+230557.3. Does everyone have
+that?
+I chair.
+Madam Chair, I moved to adopt
+the amendment.
+On the amendments
+representative.
+Thank you and I, I just had one
+question about your amendment,
+and it's also in the, in the
+current language in the bill.
+I'm wondering why is it that the
+district court in Santa Fe.
+That you must apply this, Madam
+Chair Representative. Um, Madam
+Chair and Representative, um,
+this creates an application
+process to the district court in
+Santa Fe as the um
+representative correctly noted.
+I mean, that's pretty typical in
+terms of how um the Attorney
+general operates when seeking
+court approval for these sorts
+of investigations, and I do have
+my expert here, um, are you,
+what's your general counsel for
+um the office of a
+Attorney general and she can
+expand, Madam Chair.
+Madam Chair Representative,
+uh, the reason we closer.
+Madame Chair Representative,
+thank you for having me this
+morning. Um, Santa Fe, uh,
+District court was identified
+because
+That is where the seat of the
+attorney General is and most of
+the cases that the Attorney
+general files is in the district
+court, uh, the first judicial
+district court. So for ease and
+efficiency of process, we
+identified the first judicial
+district court, Santa Fe County.
+OK, thank you, Madam Chair
+Representative. So, I'm
+wondering regarding the district
+court in Santa Fe. So for me, if
+I needed to utilize this.
+change in the law, for example,
+in Otero County.
+It would go through the AG's
+office and then the AG would
+work through the district court
+in Santa Fe, because that's
+where they're located, or could
+you just expand for me, for
+people who are not living in
+Santa Fe.
+Why this is in the amendment,
+Madam Chair.
+Madam Chair Representative. So
+this would be a civil
+investigative demand that we
+would apply to the court in
+district, the first judicial
+district to be able to issue a
+civil investigative demand,
+which typically is not going to
+individuals, it's going to
+businesses.
+Madam Chair and Representative.
+So what if that business was
+not, was not in Santa Fe, with
+the district court in Santa Fe
+need to
+Start the process, if it was in
+Otero County or Lincoln County
+or anywhere else, Grant County,
+Luna County, etc.
+How would they work in
+conjunction to ensure that
+they're getting all that
+information from the entity if
+it is indeed in another county
+that may be far away, Madam
+Chair, representative.
+Represented by understand your
+question, the application for
+the civil investigative demand
+is.
+Delineated as the first judicial
+district. Once we get the
+approval from the court, we
+would issue that civil
+investigative demand to wherever
+the company is located and the
+documents and information
+received from that company will
+come back to New Mexico
+Department of Justice doesn't
+necessarily mean that if we were
+then to pursue a civil action
+that we would be filing it in
+the first judicial district
+court.
+Thank you Madam Chair
+Representative. I guess I'm
+just, I just really want to be
+clear, so when we do this
+investigation.
+When we send it to the business,
+which may be
+Where I am in Otero County.
+How do, I just wonder how the
+first district court gets access
+to that information.
+Because it is in Santa Fe
+County, and if it's like
+tangible paperwork, videos, uh,
+whatever kind of recordings,
+how, how is that? I'm just
+wondering how is that working
+with the first judicial district
+because we're in the 12th in
+Otero. So I just have a question
+about that I mean, so assuming
+that the court issues the
+demand. The demand is issued by
+the Attorney General's office to
+the subject business and the
+attorney General's office.
+arranges to view the
+documentation that has been
+produced, and it would likely be
+in the area where the business
+exists because it's an
+inspection situation if it's
+answering questions like
+interrogatories, then those
+those things are mailed in or
+other or sent electronically to
+in response to interrogatories.
+So the business would not be
+moving anywhere in in most
+situations, uh, Madam Chair.
+Thank you, Madam Chair. Yeah,
+that cleared it up for me. I
+just was wondering how that
+works, but if, if they would
+come down to the business to
+inspect whatever documents, and
+that would, that would alleviate
+my concern. And then last
+question on this amendment,
+Madam Chair Representative, on
+page
+The two of the amendment at the
+back says on page 2, line 22 and
+23 strike testimony or do you
+documentary. Can you tell me why
+we're striking that language.
+Madam Chair Representative,
+Um, testimony is a term of art
+and it can refer to answering
+interrogatories, and there was
+some concern that it also would
+apply to actual depositions. We
+are not seeking depositions, so
+we decided to remove uh
+testimony.
+Good thank you, Madam Chair,
+representative that, that helps
+with my questions.
+Thank you, Representative. So I
+have a, a motion to discuss the
+amendment. I'll move to adopt.
+I have a second, so we have an
+amended bill and we'll go to the
+audience.
+Providing
+Uh um supporting comments on
+Amended bill. Do we have any,
+please raise your hands.
+Do we, OK. One minute, please.
+Madam Chair, committee members,
+um, my name is Deanna Warren.
+I'm an attorney with the ACLU of
+New Mexico.
+New Mexico has a long history of
+high profile civil rights
+concerns involving government
+agencies from police misconduct
+and federal oversight of law
+enforcement to disparities in
+the criminal justice, education,
+and health systems. Recent
+cases, including the DWI scandal
+involving multiple police
+departments and issues with
+within CYFD highlight ongoing
+challenges and accountability
+and oversight.
+HB 62 proposes a structured
+investigative demand process
+which, if applied appropriately
+would serve as a tool to
+identify and address systemic
+civil rights violations. While
+the use of government
+investigatory authority must
+always be carefully monitored.
+This bill could provide a
+mechanism for ensuring state
+level accountability and help
+shape a trajectory that
+strengthens civil rights
+protections in New Mexico. We
+appreciate the conversations
+with stakeholders and ongoing
+work to achieve a balance
+between these tools use.
+for justice and government
+accountability while protecting
+against future misuse or abuse,
+and look forward to remaining in
+conversation with the sponsor
+and those who have brought the
+bill forward. Thank you.
+Do we have any comments in
+opposition in the audience. OK,
+one minute, please.
+Good day, Madam Chair and
+members of the committee, Jacob
+Smith from Sandoval with the
+Government to Change Project and
+must send a post to HB 62, as
+this would give the state's
+attorney General's office
+additional work and an already
+overworked attorney general's
+office. The state attorney
+general's office has already
+demonstrated a lack of due
+regard in prosecuting equally
+and pressuring law enforcement
+agencies to not investigate
+crimes equally. um under New
+Mexico statute 852, Section C,
+prosecute and defend all actions
+and proceedings brought to
+brought by.
+Or against any state officer,
+head of the State Department,
+board of commission, or any
+employee of the state official
+capacity. I would also like to
+add that the Attorney Deputy
+Attorney General is here today,
+and I would like to hand him
+over this documentation if you
+would be willing to take it.
+Thank you for your time and have
+a great day.
+Thank you.
+Point of order, Madam Chair.
+That is not appropriate.
+go online to
+Supporting or opposing comments.
+Anybody hoping to make supported
+comments, please raise your
+hand.
+Anybody hoping to make comments
+in opposition, please raise your
+hand.
+Committee members.
+Represented a block.
+Thank you so much, Madam Chair
+and Representative. So your
+bill, I did have some questions,
+mostly because of, let's just
+start online.
+Line, I'm sorry, line 7 on page
+7, OK.
+So I see that we've stricken
+language.
+On their Madam Chair
+Representative.
+talking about custody or control
+of an original or copy of a
+book, record, etc. Can you tell
+me why we struck that language
+on page 7.
+Madam Chair, um, I think in my
+opening comments I noted that
+there were various processes
+sprinkled throughout the
+statutes. This strikes the
+process that's underneath. I
+think it's the um tobacco tax
+stamp Act, and it strikes it
+because this overarching.
+Um, structure will apply to all
+civil investigative demand
+cases. So you'll see that
+throughout the bill where we
+struck it where it exists in a
+specialty bill, uh, um, after
+law and, and this will apply to
+all civil investigative
+approaches that the Attorney
+general utilizes, Madam Chair
+and Representative.
+Thank you so much, Madam Chair,
+Representative that helps me on
+that one. So, I'm wondering,
+Madam Chair, representative, so
+With the language that we're
+adding in at the beginning of
+the bill.
+Or we're giving new authority
+for possession, custody,
+control, etc. So, I saw
+something in the analysis that
+really struck me.
+And I believe
+On my analysis on the fur.
+It talked about.
+The things that were striking
+out on the bill. So, New
+Mexico's subdivision Act.
+Restraint of trade, unfair
+practices Act investigations,
+and then this one actually
+really caught my eye, pyramid
+promotional scheme, so pyramid
+schemes, how would they be
+affected when it comes to
+getting documentation regarding
+pyramid schemes, Madam chair.
+Madam Chair Representative, um,
+as the FRR says in addition, the
+following sections of the law
+would repeal again because these
+sections are no longer needed
+with the passage of this bill,
+the overarching approach will
+apply to investigations relating
+to these statutes as well, Madam
+Chair and Representative. OK,
+thank you, Madam Chair
+Represent. So there would be
+nothing changed with the
+investigations in pyramid
+schemes. Is that what I'm
+understanding, um, Madam Chair,
+representative, that's correct.
+OK. Thank you, Madam Chair and
+Representative that helps me on
+that. And then Madam Chair.
+I was looking at the other
+Analysis. Let me see.
+Uh
+I think the AOC was talking
+about the Santa Fe District
+Court, and I'm wondering, Madam
+Chair, Representative, would
+this would this give any
+Increased
+Workload and burden to the Santa
+Fe first Judicial District Court
+with the changes in the law or
+in the bill, Madam Chair.
+Um, Madam Chair and represent, I
+think, um, they noted there was
+a potential for that, um, as
+this will be the process used in
+all investigations in Santa Fe.
+you know, across the state.
+All right. Thank you, Madam
+Chair Representative, and I, I
+haven't seen the AOC's budget or
+their request yet, so I'm not
+sure if that would be included
+in that, but just something that
+I, I flagged, uh, Madam Chair.
+Representative.
+I did see something else that I
+wanted to look at. Let me see.
+I think it was on section 62,
+I'm sorry, section 1.
+D
+I believe in your bill.
+There was a question I saw about
+risks that CID recipients could
+be compelled to provide
+privileged.
+Information despite the
+protections in the bill. Could
+you just go into that for me a
+little bit, Madam Chair and
+representative. Madam Chair
+Representative, I understand
+your question. D starts with the
+fact that no civil investigation
+shall demand.
+And it lists privileged
+information.
+So it's a prohibition of what
+the civil investigative demand
+can contain.
+OK, thank you, Madam Chair
+Representative, but that would
+not require any kind of
+privileged information to be
+provided. Just clarifying that,
+madam.
+Got it. OK, thank you, Madam
+Chair, Representative, and I
+I may have future questions.
+After I listened to more
+discussion on this since it's
+quite a bill, but I really
+appreciate it so far and I thank
+you for bringing it forward.
+Thank you.
+Representative Vice Chair
+Little. Thank you, Madam Chair.
+I'd like to move a do pass on
+House Bill 62.
+I have a motion for.
+Or House Bill 62 as amended in a
+second, please call roll.
+Representative Ayorni? Yes.
+Representative Black, note with
+an explanation.
+Represented Borego.
+represented Lujan, represented
+Mehia.
+pass.
+Madame Floor leader,
+Representative Zamora.
+No.
+Uh, Representative Mejia.
+No.
+Mad, Madam Vice Chair.
+Yes.
+Madam Chair.
+43. You would you pass as
+amended and represent a block to
+explain your vote. Madam Chair,
+just quickly, I, I was hoping
+we'd have a little more
+discussion on the bill and so it
+doesn't mean I'm a no on the
+floor. I just definitely want to
+get some more perspectives on
+this and I'll, I'll loop back
+around and uh
+See what happens on the floor.
+Thank you, Madam Chair.
+OK.
+Chairman Small.
+HGR 12.
+Good morning, Madam Chair. Good
+morning committee. Really
+pleased to be back here again.
+Um, for house joint resolution
+12. Madam Chair, committee, New
+Mexico over the past few years
+has ascended to be the number 2
+financial supporter of students,
+uh, for higher education in the
+entire country. We're investing
+in higher education, supporting
+New Mexican students in higher
+education, whether that
+That's a 2-year uh certificate,
+a trade, a four-year degree, a
+graduate degree at the highest
+levels we've ever done. Um, and,
+in a strong and bipartisan way.
+Madam Chair, House Joint
+Resolution 12 seeks to fix
+something uh to catch up,
+basically, to ensure that our uh
+boards of regents and the
+regents themselves have the
+highest fiduciary duty, uh, to
+the students that they
+served to the institutions uh
+that they serve, um.
+Particularly in light of some
+recent challenging situations
+across a number of higher
+education institutions, not
+limited to anyone, Madam Chair,
+committee, um, it also uh puts
+in place uh uh process. I do
+process for removal of a member
+of the board of regents that
+currently is very unclear and
+seemingly right now rests solely
+upon whomever is the governor at
+that time.
+uh
+requesting the resignation of a
+regent potentially, but that
+does not have a very clear
+process and certainly does not
+have due process.
+So, that's uh how joint
+resolution 12, we were really
+pleased to move through the
+House Education Committee
+unanimously and look forward to
+answering any of your questions
+today.
+Good morning, uh, Madam Chair,
+members of the committee. My
+name is Sean Sullivan. I'm a
+special counsel with the New
+Mexico Department of Justice.
+Um, I won't reiterate the
+particular uh parts that
+represented small laid out. I
+will simply say that I think
+it's important to underscore
+that this is not a partisan
+request. This is something that
+citizens across the political
+spectrum expect.
+Of our higher institutions, uh,
+that they act transparently that
+they exercise proper stewardship
+of our tax dollars.
+But they maintain a sole focus
+on their school and the students
+and that when they fall short of
+those responsibilities, there's
+a fair and appropriate mechanism
+to seek accountability.
+Um, there's a number of
+situations that have occurred
+throughout the state that I'm
+sure we can go into if there's
+further questions, um, but some
+of those frankly represent
+unconscionable violations of our
+public trust, and I think what's
+important for this committee to
+recognize is that the dollars
+that, that this body
+appropriates to institutions is
+finite, right? It's zero sum.
+Everything that goes to uh
+payouts of administrators and an
+impermissible way is, is money
+that doesn't go to faculty to
+extracurriculars to students.
+support services.
+Uh, and so I think that this
+joint resolution goes a long way
+in reinforcing the trust that we
+need to have in our higher
+education institutions. Thank
+you.
+Thank you with that, let's go to
+the audience. Do we have any
+anyone who would like to
+Making supporting comment, one
+minute, please.
+Thank you, Madam Chair, members
+of the committee, John Lipschitz
+with the New Mexico Federation
+of Labor, AFL-CIO representing
+uh over 40,000 workers
+throughout the state. Uh, we,
+uh, stand in strong solidarity
+with our educators, uh, uh,
+throughout the state, especially
+in higher education, we think
+the sponsor for bringing up this
+measure, as was stated in in the
+introductory testimony, uh, we
+desperately need greater
+transparency and greater
+accountability for our boards of
+Regents.
+around the state, um, and we
+believe that this amendment
+would add a proper
+accountability for those, uh,
+body, so we urge your support.
+Thank you.
+Good morning, Madam Chair,
+members of the committee. My
+name is Mary Par Sanchez, and I
+am the president of the National
+Education Association in New
+Mexico. Uh, we stand in strong
+support of HJR 12, which would
+provide needed oversight, um,
+To language in the New Mexico
+Constitution about the
+responsibilities and duties of
+regents as judiciaries and
+ultimately breaches of this
+responsibility and the
+consequences which ultimately
+could result in removal
+procedures, um, part of the care
+or a fiduciary responsibility is
+the duty of care and uh
+recently, uh,
+One of the higher ed
+institutions in the state was uh
+the fire department was called
+and they ended up closing a
+building, um, in September and
+it just recently opened up, um,
+due to a lack of this duty of
+care in the handling of
+hazardous chemicals, um, serious
+breach of uh oversight.
+Um, so, I'm sorry. So, um, we
+strongly support house uh joint
+resolution 12 and urge you to do
+the same.
+Thank you do, we'll stay with
+the audience. Do we have any
+opposing comments?
+Let's go online. Do we have any
+supporting or opposing comments?
+Anyone hoping to make a comment,
+please raise your hand.
+Anyone hoping to make a comment
+in opposition, please raise your
+hand.
+Hey, I have on the list vice
+chair, or I have representative
+Anya Nornu and Vice Chair
+Little.
+Oh, Madam Chair, I was just
+going to move a do.
+I have a motion for to pass a
+second. Do we have any
+opposition?
+Seeing none, you have a due
+pass.
+He and chair committee, thank
+you all very much for your time
+and your support.
+OK.
+Have anyone here for 192.
+OK, let's settle ourselves and
+begin.
+House Bill 192.
+Representative.
+All right, let's see how the,
+there we go.
+All right. Thank you, Madam
+Chair and committee, uh, we're
+here to present House Bill 192,
+uh, this has been an ongoing
+situation for a couple of years
+now, uh, 2023 myself, uh,
+Senator McKenna and Senator Bill
+Burt, um, ran a bill.
+Um
+To take care of this in the
+first place. Uh, what we're
+trying to do is, um,
+So public safety radios when
+Trying to figure out how to
+explain this, uh, when Motorola
+bought the 700 megahertz.
+Uh, band, which wouldn't allow.
+Uh, all radios, but public
+safety radios in this case to be
+able to reach a much further
+distance, um.
+And we train and the state
+transitioned um a lot of those
+radios over to that, uh, but
+with that came a $20 per radio
+fee that Motorola charged
+through the department of um
+through to it, uh, with the bill
+in 2023 was slated to do was to
+take care of that, um, from the
+budget so that every public
+safety radio was paid for in the
+state. Um, some places like
+Albuquerque, Rio Rancho, uh.
+can afford that fee, um, but
+other places like, you know, a
+lot of the rural areas with
+volunteer fire departments, um,
+Cuba, for instance, and a whole
+lot more that my expert will
+talk about it in a second. Um,
+can't afford that. So if there
+was a uh an incident that took
+up a lot of area, a wildfire or
+something to that effect, um.
+The
+The volunteer fire departments,
+the smaller departments.
+couldn't hear what the bigger
+departments were doing. So if
+these guys, he's from Sandoval,
+he's the chief of Sandoval
+County Fire, um, they couldn't
+talk to each other.
+So, we got the bill passed in
+2023. Um, the governor vetoed
+it.
+The governor a couple of months
+later, then came and said that
+she found some discretionary
+money to pay for it. Um, and it
+has been in her executive budget
+since. However, um, it is not in
+statute that it will be paid
+for. So that's what we are
+trying to add with this bill
+here is to get it in, to get the
+language into statute that it
+will be taken care of rather
+than just being in her
+executive, um budget so that in
+a couple of years when she is no
+longer governor, this will
+still, um,
+This will still be taken care of
+for the for the public safety
+radio. So I would like my expert
+um to introduce himself.
+Madam Chair, members of the
+committee, thank you first and
+foremost for having me here
+today and having the opportunity
+to speak to you about this very
+important public safety matter.
+My name is Eric Masterson. I'm
+the fire chief for Sandoval
+County Fire and Rescue. I also
+sit on the board for uh New
+Mexico uh Metro Fire Chiefs
+Association and the fire and EM
+affiliate with uh New Mexico
+County. Just a quick story, um,
+you guys were all very aware
+obviously of the major wildland
+fire that happened in Riodoso
+this last year and the
+subsequent flooding that
+happened thereafter.
+Many, many teams from around the
+state responded to that
+incident, the fire, and
+subsequently the flood to
+provide assistance.
+The New Mexo DTRS system, the
+digital trunk radio system was
+set up during that incident
+within Ruidoso and the
+surrounding areas.
+What that allowed for us to do
+is as our agencies responded, as
+my public safety teams responded
+along with Burnleyo County and
+Albuquerque and everyone else
+from around the state.
+We're able to basically walk
+into that situation and
+immediately have interoperable
+communications with every other
+agency that was already there,
+whether it be state, federal,
+local agencies, we were able to
+communicate.
+One of the historically one of
+the number one complaints in
+Challenges that public safety
+entities have on any major
+incident, whether it's a fire,
+mass casualty incident, active
+threat situation on the law
+enforcement side.
+Historically, the biggest
+challenge that we sometimes have
+is communications.
+When agencies don't have the
+same radio bands when they don't
+have the same radio channels.
+We run into problems where there
+cannot be efficient operations
+on the scene.
+This system resolves that
+challenge.
+Madam Chair, members of the
+committee, this is a bipartisan
+bill.
+And it's really to help the
+local agencies. Think of the
+DTRS as a state asset, similar
+to state police, the state fire
+marshal's office, the National
+Guard, state search and rescue,
+whatever it may be. Those are
+state assets provided to the
+local agencies so that we can
+ensure public safety of every
+citizen in New Mexico.
+The DTRS system is a similar
+approach to public safety.
+It's gonna provide that
+interoperable communications as
+I spoke of.
+To, uh, all agencies throughout
+the, the state of New Mexico,
+including our tribal partners to
+ensure that we have a
+coordinated emergency response
+on any sort of high incident,
+uh, situation.
+If we have to move forward and
+continue paying the $20 to $30
+per radio just as an example.
+An agency that maybe has 30
+police officers could be paying
+upwards of $20,000 a year as
+they usually have two different
+radios, one in their vehicle and
+one on their handheld. This is
+$20 per month per radio.
+Our departments are obviously in
+the same situation and with
+several other things that are
+happening.
+Throughout the nation,
+legislatively, budgets are
+already starting to feel
+tightened and we want to make
+sure that public safety is not
+affected, which is also, Madam
+Chair, why we're bringing this
+to you today.
+Um
+The DTRS network uh is well over
+60%, if not a little bit further
+along on statewide coverage. We
+do still have some challenges in
+certain areas, uh, but that is
+being worked on by uh New Mexico
+do it and uh we, we look forward
+to those partnerships continuing
+to elaborate to build that
+system out so that we can get as
+much coverage statewide as
+possible.
+I'll also mention too that the
+local entities still do have
+quote unquote skin in the game,
+if you will, madam chair. Each
+radio that the local agency is
+procuring is $500 to $8000 per
+radio.
+Those radios also need constant
+maintenance, whether it's
+batteries, antennas,
+programming, whatever it may be,
+and that's all at the cost of
+the local agency.
+We then work with do it to make
+sure that we have the proper
+channels and, and allowances to
+move forward on it, but the
+radios themselves are 100% taken
+care of by the local agency.
+In addition, some of the rural
+areas are still using older VHF
+technology to continue to speak
+with um some of the more rural
+and outlying areas of their,
+their territories that are not
+yet covered by this. So they are
+continuing to maintain and
+operate their own systems in
+Sandoval County, I pay $400,000
+a year to maintain a VHF system
+because the Hamas Mountains
+don't have adequate coverage yet
+because it's a valley, it's very
+hard to get some of that radio
+coverage in there. So we
+continue to partner with the
+state on finding solutions, but
+I can tell you that
+This interoperability has proven
+to be successful.
+In Riodoso in Las Vegas during
+the camp camp, uh, uh, Hermit's
+Peak fire, sorry, uh, and in
+several other situations
+including after threat
+situations at schools around
+the, the state. So, Madam Chair,
+uh sorry, sorry if I took a
+little bit too much of your
+time, but I wanted to make sure
+I got the point across and I
+thank you for, uh, again,
+letting, letting me present
+today.
+that we stand for.
+Thank you. Let's go to the
+audience. Those in support of
+the bill, please raise your
+hands.
+OK, let's take one minute
+comments quickly, please.
+Greg Pettis, uh, fire chief for
+Burnley County. This is
+imperative that we are able to
+get these surcharges covered,
+um, the, the
+Cost of doing business alone as
+a, as a fire department is
+continuing to increase, and this
+is for Burnley County, we're
+looking at close to $500,000 in
+just radio subscription fees
+alone, so we'd appreciate your
+support.
+Good morning, Madam Chair,
+members of the committee.
+Anthony Lebos, uh, Deputy Chief
+State Marshal's Office. Uh, we
+strongly support this bill in uh
+all of our fire departments in
+New Mexico like uh Chief
+Masterson here said is, uh, the
+Subscriber fees are expensive
+and that takes away from costs.
+Or operationals, you know, to
+put fuel in the trucks, to put
+tires on the trucks, to put gear
+on our personnel.
+In interoperation communication
+is, is key. Um, you look right
+here at the bottom laha the
+hill. We have two counties that
+meet up against each other with
+various
+Different, uh, you know,
+different agencies. Now they
+have the ability with through
+the system to switch a channel
+and start communicating with
+each other. So, thank you.
+Thank you, Madam Chair, members
+of the committee, Jarrod Najar
+on behalf of the New Mexico
+Municipal League, uh, for the
+reasons previously stated, we
+strongly support this bill and
+thank the sponsor for bringing
+it forward.
+For their supporting comments.
+We'll stay with the audience. Do
+we have any opposing comments?
+OK, let's go online and he's
+supporting comments.
+Then we have Jay Zuniga. Jay,
+can you hear us?
+Yes, thank you. My name is
+Jared. I'm a deputy chief for
+Eddie County Fire Rescue, and I
+was just wanting to speak in
+support of this. Not only would
+all the other departments have
+already mentioned, but I'll
+speak for Eddie County. We came
+out of the state system this
+last year and we brought in $14
+million worth of infrastructure
+that was added to the state
+system. Uh, part of that though,
+we still maintain 4 tower sites
+for generators, um, all of that
+technology at a cost to the
+county, and we would still be
+required to cover these, um.
+subscriber fees also. So we are
+in support of this bill where
+the subscriber fees are covered
+where we can
+put our budget towards
+maintaining the portion of the
+system that we, we own. Thank
+you.
+Thank you so much.
+The posing.
+Any opposing comments, please
+raise your hand.
+Representative Zamora and then
+Vice Chair Little.
+Madam Chair, I moved to Du Pas.
+I'm sure I had a question, a
+couple of questions.
+Represented a block for a quick
+question. I'll be quick, Madam
+Chair. Maybe, maybe not,
+actually.
+Depending, no, I'm just kidding,
+Madam Chan. So I'm wondering
+number one, why did the governor
+veto it? Why would anyone veto
+such an important piece of
+legislation.
+Madam Chair and Representative,
+I actually don't have an answer
+for you. I've been asked that a
+whole bunch of times. Um.
+So I'm not going to speculate,
+uh, but the nice thing about
+what the governor did was pretty
+quickly after that, you know,
+once we had recovered from
+session, she reached out to
+myself, Senator Burr and Senator
+McKenna, and
+Um, said let's figure out how we
+can get this to be a permanent
+solution. Um, it took a couple
+of months as it does in this
+building, to figure out where
+the money had come from or
+where, where it could come from
+and um yeah, she delivered on
+that promise and um has
+continued to do so, uh.
+It's in this year's budget, um,
+yeah, it's in this year's
+budget, um, already, um, and so,
+yeah, I'm, I'm glad that that
+happened. I, I still don't have
+a full on answer of why it was
+um vetoed in the first place.
+Apologize for that. Thank you,
+Madam Chair Representative. And
+then did your previous bill have
+a permanent solution?
+Uh
+Madam Chair and Representative,
+yes, um, it's essentially what
+this now does, um, it had a
+permanent solution, uh, this is
+also a permanent solution, um,
+to the temporary band-aid that
+we have now, so.
+OK, thank you, Madam Chair
+Representative. It just is
+confusing to me why we passed a
+permanent resolution or a
+permanent solution to this, and
+the governor vetoed it, and it
+appears to me that she was like,
+oh wow, I vetoed something that
+was really popular that would
+actually help people and then
+she was like, OK, here's some
+money, you know, so that makes
+sense.
+Sounds about right. So, Madam
+Chair, Representative, next
+question, um.
+Motorola, buying this, these
+Faculties of.
+Has, has this happened? Who, who
+had it before and why weren't
+they charging us fees for what
+was before, Madam Chair.
+Mad, Madam Chair Representative
+Block, so the, the state had a
+system for state police, but it
+was just for state police. So a
+lot of that information, uh was
+specific to the state resources,
+um.
+This, this digital trunk radio
+system P25 compliance. It's,
+it's, it's opened up a lot more
+doors so that way the state has
+now had the opportunity to uh
+open that or or open that up for
+other agencies to start
+participating with them on prior
+to that, the technology really
+just didn't exist to allow that
+to happen efficiently, I think
+would be the best answer, sir.
+Madam Chair and Representative,
+so, um,
+I'll do this as quickly as
+possible. So the 700 megahertz
+wavelength is much larger like
+AM radio. Um, so there can go
+much further distance. Um,
+previously it was owned by the
+US government and used for
+military, um, when they went to
+a different wavelength, they put
+it up on the open market
+Motorola was the
+Winner
+Um, and so for the first time,
+the public or non-military was
+able to use that particular
+wavelength, um, which opened up
+communication a whole lot
+further distance.
+Thank you, Madam Chair
+Representative. That, that is
+interesting. That helps me a
+lot. So,
+I like to think in a more free
+market.
+Way when it comes to things
+which I'm I'm glad that it's a
+private company. Have we
+considered
+Because, OK, first of all, are,
+are we the primary user of these
+when it comes to just volume,
+because it appears to me like we
+have 2 radios per officer.
+And we have a bunch of officers
+all over the state. It would
+stand to reason that at least
+they're making at least 2.8
+million from us. Have we
+considered negotiating those,
+those rates, Madam Chair.
+Uh, Madam Chair and
+Representative, we are probably
+a speck on their spectrum cause
+it is a worldwide uh wave
+wavelength. So, um, yeah, I was
+like, anybody who's everybody
+that can use it, your cell phone
+uses it, um, internet uses it,
+um, I mean, there's a, there's a
+ton of utility for it, um.
+I don't have a definitive answer
+on whether or not we have, um,
+but that is the access fee that
+they give to most people is that
+it's $20 to $30 per device, um,
+depending, depending on the
+device type and
+Well we do have a lot, um, they
+have a giant customer base, um,
+so yeah, I mean, we're, we're
+probably a speck out of that
+total user base.
+Thank you so much, Madam Chair
+Representative, and that that's
+all the questions I had. Good
+job.
+OK, I have a representative Ona
+Nonu, Representative Mejia, and
+then Representative Brego.
+Thank you, Madam Chair. Um, just
+a really quick question. I'm
+gonna play Doom and gloom for a
+second. So up until now, do it
+has been paying for this service
+out of their fund, is that
+correct?
+Uh, Madam Chair and
+representative, so, um,
+When it first started the um
+public safety departments were
+Paying for it, um, until we
+brought it up and so for the
+last, so for uh fiscal year 23
+and 24 and now, um,
+It has been paid for through the
+general fund, um, it's
+additional funding that's been
+taken from the general fund and
+given to do it to pay for the,
+to pay for the adequate amount
+amount of radios, um.
+So yeah, I mean that's the
+answer to your question. OK,
+thank you, Madam Chair. So it
+has been coming out of the
+general fund, but appropriated
+to do it to pay for that. OK,
+so.
+What would happen then?
+Worst case scenario, if this
+bill fails again, if it gets.
+failed to be chaptered
+correctly, then what, what would
+happen?
+Madam representative, so we
+would go back to um prior to
+2023 when the first or when we
+figured out for them where the
+money was gonna come from and
+the departments, um, would each
+have to pay the $20 to $30
+access fee for each radio. Um,
+it comes up to a whole lot of
+money and the, the reality of it
+is that the smaller um smaller
+communities, more rural
+communities, um, volunteer fire.
+departments, that kind of stuff
+who don't really have a budget.
+It's why a volunteer fire
+department, um, wouldn't be able
+to
+Pay for wouldn't be able to
+afford it. And so they would be,
+they would not be given access
+to that statewide system and
+they would have to be on the,
+what did you,
+yeah, the BHF, um, radios which,
+um if she has one, then I can
+talk to her, but if you don't
+have one, then I can't talk to
+you, um, whereas this, you know,
+with the newer systems, we could
+all talk to each other by just
+going to the right frequency.
+Like, that sounds like a much
+more efficient method of
+communication. So thank you.
+Thank you, Representative Mejia.
+Thank you, Madam Chair. Thank
+you, Representative. I just have
+one quick question.
+To your knowledge, this radio
+system is currently in use in
+Chavez,
+I don't know the answer to that.
+Um, each county is responsible
+for the initial um
+Investment in the
+infrastructure, and I know that
+um there is a decent amount that
+have them, but I don't know
+every county off the top of my
+head that has put them in, um,
+Yeah, I, I mean, we can find
+that. I can find that
+information out for you pretty
+quickly, um.
+Oh, yeah, we can, we can, it
+sounds like there's somebody
+behind me from do it, um, who
+can answer, who potentially
+could answer your question.
+Hi, uh, good morning, madam
+Chair. I'm Michael Rohrabacher.
+I'm director of Public Safety
+communications for the
+Department of Information
+Technology. Can you repeat that
+question, please?
+I was just asking if Chavez
+County is uh using this uh radio
+system already. Madam Chair,
+members of the committee, Chavez
+County is not currently on the
+system, although we're working
+with them to establish a system
+agreement right now, that
+process started 2 weeks ago.
+They're currently 65 other
+agencies between state, federal,
+tribal, and local governments on
+the system.
+Thank you so much for that.
+Represented Brego.
+Oh thank you, Madam Chair. um,
+uh,
+Thank you, Representative
+Fernandez and all of the other
+representatives that are on your
+list. It's really great to see a
+bipartisan bill like this. Um,
+I'm sorry that, uh, this was
+vetoed in the past. This is like
+a no brainer in my mind, like
+communications for public safety
+should be like first and
+foremost.
+And um I just.
+Like
+When you said that, I was like,
+I cringe that.
+Hopefully that was not happen
+again, Madam Chair, having
+served as president of city
+council during COVID.
+Um, I just know how important
+communications are and
+especially for our public
+safety, um, officers, and I
+just, my father was a
+firefighter for 30 years and
+communications even in our house
+was really important, um, when I
+was growing up, so I, you know,
+to me this is like.
+Just, yes, yes, yes, thank you.
+Thank you. We'll go back to a
+motion for a do pass by
+Representative Zamora.
+OK,
+Yeah, ma'am, madam chair.
+So
+The, the
+Different people in the state
+that aren't on the system now,
+they'll still be covered in this
+bill and they'll be able to go
+on the system, right?
+Yeah, Madam Chair and
+Representative, that is correct,
+as, as additional, um, as
+additional.
+Departments um come onto this,
+they will continue to be
+covered. Yes, that is, that is
+the goal of the is for everyone
+to be covered, not just who is
+on today, it's.
+To try and help.
+Get everybody that can be onto
+the system. Madam, I just want
+to make sure we weren't leaving
+anybody out in the state that
+was gonna cover everybody. Thank
+you, Madam Chair.
+Representative Lujan, motion for
+a due pass, ma'am.
+Of, um, uh, DuP pass motion by
+Representative Zamora, second by
+Little. Do we have any
+opposition?
+OK, you have a due pass. Thank
+you. Thank you.
+All right, let's go move along
+to House Bill 249,
+Representative Sanchez.
+representative, you may begin.
+Thank you, Madam Chair, first
+off, I'd like to introduce, uh,
+my shadows for the day that some
+students from Si Marron High
+School behind me. Uh, so
+welcome.
+They wanted to see how a
+subcommittee or a committee
+works, so, uh, they're gonna be
+on the floor later, but, uh,
+thank you,
+Madam Chair.
+So, uh, this, this bill does one
+thing on page 2, line 24 through
+3, line one, it allows workforce
+solutions secretary to waive the
+one week waiting requirement to
+receive standard unemployment
+benefits in a federally declared
+emergency, the federal
+government makes disaster
+unemployment assistance
+available, the federal
+government requires every
+applicant.
+To first apply for standard
+unemployment insurance and then
+they can receive disaster
+unemployment only after they are
+denied for standard
+unemployment. However, this
+creates some unfairness. People
+who are getting standard
+unemployment are required to go
+one week without benefits before
+payments begin.
+People getting disaster
+unemployment assistance must be
+unemployed for at least one
+week, but they get compensated
+for that week. This bill would
+end this unfairness by giving
+the secretary the ability to
+waive the waiting.
+Weak. So Madam Chair, I'd like
+to uh introduce uh my expert,
+uh, secretary there and uh if
+she'd like to say a few words.
+Thank you, Madam Chair, members
+of the committee. uh, thank you
+for hearing this bill. Uh, as I
+said, um, for those of you who
+are in house labor, it's not
+very often that we see something
+that's unfair and we can come up
+with a really quick way to fix
+it, but that's what happened
+with this bill. So, you know,
+anywhere between 80 and 90% of
+claimants in a disaster do end
+up on standard unemployment, and
+that one week of, of benefits
+getting there earlier uh could
+really make a difference for how
+they cope with that disaster. So
+with that, we'd have um I'm
+happy to stand for questions.
+Thank you, let's go to the
+audience. Do we have any
+Supporting comments.
+Any opposition. Let's go online.
+Anyone hoping to make comments
+and, and favor of this bill,
+please raise your hand.
+And he comments in opposition,
+please raise your hand.
+The Committee members, vice
+chair Little.
+I would like to move a due pass,
+please.
+OK.
+Question
+before we call role
+representative block
+many questions, just one
+question. I see in the bill it
+says event of a federal or state
+emergency or disaster
+declaration, uh, does it specify
+that it needs to be a natural
+disaster or something that is
+Cause I know we had the COVID,
+which was a disaster. But then I
+know the governors also had
+different disasters. One was for
+gun violence over the summer of
+2023, I believe, would that be
+covered under this emergency
+declaration, Madam Chair.
+Madam Chair Representative
+Black. Now those were public
+health uh emergencies rather
+than nat uh rather than disaster
+declarations. I mean, they might
+have been metaphorically, they
+might have been disastrous, but
+um for technical purposes, those
+fall under the public health
+emergency category rather than
+this.
+OK, thank you, Madam Chair
+Representative. So it would not
+be any of those because I know
+they were, they were emergencies
+and just as emergency for
+Or disaster declaration. So I
+just want to be super clear.
+is provided that an event of a
+federal or state emergency
+doesn't say what kind of
+emergency or disaster.
+I, I just don't see any
+definitions of that. So could
+you just clarify for that just
+to make sure it wouldn't go to
+something like gun violence
+emergency or something like
+that.
+Madam Chair Representative
+Block, it's a great point. There
+is a separate section of the UI
+laws that applies to the public
+health side.
+OK, so this in no way, shape or
+form would touch in any any way
+tangible or intangible.
+Public health and safety in any
+possible way.
+Period. Is that correct, Madam
+Representative. Uh, Madam Chair,
+uh, Representative Block, I'm,
+I'm not sure, but um this is
+designed for um natural
+disasters and those types of
+emergencies. Um, I think, of
+course, unemployment is a key
+part of public health and
+safety, um, but yeah.
+Thank you, Madam Chair,
+Representative. Appreciate it.
+Thank you. So I have a
+Motion for to pass by
+Representative Little Al second,
+do we have any opposition?
+Seeing none, you have a due
+pass. Thank you. Thank you
+Secretary.
+OK, let's go move along to House
+Bill 208.
+Yeah
+I was gonna
+OK.
+Thank you, Madam Chair and
+members of the committee. Um, I
+am fully aware that we are all
+trying to increase the voter
+registration and voter
+engagement throughout the state
+of New Mexico. And it's, it's,
+there's a lot of efforts around
+this that I see they're in the
+more metropolitan areas. Um, I
+am from a district with 2 people
+per square mile, which probably,
+uh, several of you on this
+committee I see probably are as
+well. And so to just continue
+with our efforts to engage
+folks, especially those in rural
+and unincorporated areas. We
+have a
+about 150,000 people who, uh,
+request hunting and fishing
+permits per year, and now that
+we have this fancy Secretary of
+State way uh automated
+registration, voter registration
+that we could add this as an
+option when they request their
+hunting and fishing license. So
+this takes the existing language
+and adds um the opportunity to
+register to vote during when
+they request a hunting and
+fishing license. And with that,
+I'll stand for questions.
+Thank you. Let's go to the
+audience. Do we have any
+supporting comments in the
+opposing comments.
+Go online. Anyone hoping to make
+a comment in support, please
+raise your hand.
+Anyone hoping to make public
+comment in opposition to the
+bill, please raise your hand.
+A Representative Lujan.
+Madam Chair, um,
+Is there any statistic or
+information that, that uh raises
+the issue of this demographic
+not having opportunity or not
+being registered to vote, Madam
+Chair.
+Thank you, Madam Chair. Well, as
+a majority minority state, and
+the majority of folks who
+register and who request a
+hunting and fishing license are
+minority populations. I do know
+that. And so I know that's one
+of our targeted areas to
+increase registration.
+It's a good answer, ma'am. Um.
+I think that's it. Thank you.
+Representative Brego.
+Thank you, Madam Chair. Just
+wondering why there are no
+Democrats signed on to this
+bill.
+Madam Chair and members of the
+committee. I didn't ask, but you
+are welcome to sign on. I would
+love for you to sign on.
+do that. Thank you. Thank you.
+Block.
+Madam Chair, I move a do pass.
+Second
+I motioned for do pass a second.
+Do we have any opposition?
+Seeing none, you have a due
+pass.
+Committee members, we are
+adjourned.

@@ -1,0 +1,3749 @@
+technology and
+telecommunications committee we
+are going to code and get
+started since we do have a tour
+later on today and we have more
+people coming in
+they're not obviously not
+teachers or they would be here
+going to teach
+the educators are here
+so
+our first presentation is
+sending a national laboratories
+quantity industry collaboration
+and educational outreach object
+douglas quite a business
+development lead it's an
+essential national advertories
+and make an ivory experiment to
+quantum physics at sending a
+national laboratories so
+whenever you guys are ready.
+Okay madame chair ends members
+of the committee thank you so
+much for the opportunity to
+speak with you are my name is
+making ivory I am a principle
+member of the staff at sending
+your national labs
+so I have a page d and quantum
+science I have worked for four
+years in industry before coming
+here and then two years in
+academia and while it's india my
+job has kind of two different
+main rules one i've worked as a
+technical person in the
+laboratory contributing to
+projects on quantum computing
+and atomic clocks and the other
+part of my job which is a little
+bit more fun is actually working
+with members of the community so
+that we can make sure that we're
+preparing the next generation of
+workers to fill the jobs that we
+have in this growing industry
+i'm joined here by mister dick
+douglas
+as an madam chair members of the
+committee my name is jake
+douglas I serve as the quantity
+business development lead at
+sandia position of help for
+about the last seven years on
+the product of new mexico born
+and raised in ralswill I have my
+degrees from new mexico attack
+in highlands and now based on
+albuquerque
+as a premier federally funded
+engineering labs india conducts
+innovative research and
+development uh anticipate
+insolved the most critical
+national security problems of
+which quantity information
+science is one of those
+we've spent the last twenty
+years building the world class
+continue program with a
+significant capabilities and
+people that help drive the state
+of the art and we're excited to
+talk to you today about what
+we're trying to do to build up
+the ecosystem and drive
+innovative partnerships madame
+chair we've act put together
+slides for about twenty five
+minutes would you like a slunch
+into those now.
+So.
+So going add to slight to
+we wanted to kick things off
+just saying it you know bottom
+line up front continue
+information science is an
+emerging technology that is
+critical for economic national
+security we're at that inflation
+point where technologies are
+starting to come out of the lab
+and be commercialised and it's
+going to be critical for
+communities across the across
+the world and new mexico has
+that decades long history of
+leadership and clabbation in
+this field in many ways new
+mexico helped launch the field
+about thirty years ago and we're
+going to contribute driving new
+innovations doing rd for our
+sponsors because this is a
+national strategic priority uh
+shrung by partisan support
+large bills going through at the
+federal level to help keep the
+US on top
+and sandia believes that
+strategic public private
+partnerships investments and
+ecosystem support are really
+going to pave the way for a
+continued leadership and
+prosperity
+there are several large scale
+programs that will talk about
+today uh bringing in federal
+dollars to help advance the
+technologies there are new
+innovative partnerships like the
+one announced yesterday by next
+economic development department
+with road or intervention
+studios helping bring in private
+capital and establish some
+innovation facilities here
+and supporting all that is our
+world class workforce we have
+amazing programs in place from
+cater career
+that we built up over the past
+few years and it's a case where
+we're ready to scale we're ready
+to pull other people and we've
+found ways to make it work to
+reach rural communities as well
+as places like alcoholist and
+famous cruises.
+And with that we'll go to slight
+three.
+So before I launching into you
+know the broader eco system we
+wanted to give you a little snob
+shot of what quantum information
+science and technology is and we
+really wanted to do that from an
+application standpoint so quite
+a information science broadly
+falls under three main
+categories right now there's
+quantum computing quantum
+sensing and quantum
+communication so quantum
+computer computing is using
+quantum things so often times
+really really small things like
+adams or single particles of
+lights or quantity concepts to
+solve new problems and
+completely new ways that our
+current computing modalities
+don't allow for and so when we
+think about applications people
+are really excited about things
+like drug and material design
+optimization of things like the
+energy grade or even fraud
+detection and financial markets.
+Under quantum sensing we're
+using tiny quantum things again
+or coin and concepts and here
+we're trying to enhance sensing
+capabilities and the things that
+we can sense with these quantum
+objects are gravitational fields
+magnetic fields electric fields
+time itself and so when we go
+into the applications that we
+see there's things like
+navigation but quantum enhanced
+navigation or subsurface
+exploration and then finally and
+quantum communication we're
+using these same things and
+concepts in order to communicate
+and inherently secure ways so we
+have things like ultra secure
+communications or even more
+efficient so energy efficient
+communications
+if you go to the next slide with
+highlighted that a lot of people
+are excited about quantum
+information science and a lot of
+ways that we can see that
+enthusiasm is all the money
+that's been poured in so on the
+bottom there is a a recent study
+that just came out from the key
+dc the quantum economic
+development consortium and it
+highlights the public
+investments into quantum
+technology by different regions
+around the globe we can also see
+this in the venture capital
+raised on the right hand side of
+this plot so the number of deals
+by your as well as the amount of
+money and where that money is
+going something that's been
+rather interesting over the past
+couple of years is that we're
+seeing an increase and funding
+for a few word number of deals
+which shows us that this isn't
+just you know a bunch of hyped
+up enthusiasm anymore these
+technologies and companies are
+becoming more mature and we're
+seeing that and how the funding
+is actually distributed.
+Now that's a global picture if
+we go to the next slide slide
+five this is very busy and I
+don't want to spend you know
+time going into this with you
+all here what I do want to point
+out is if you look on the very
+left hand side of that plot it
+says nineteen eighties are
+nineteen nineties this is new
+mexico's contribution to this
+field and it started way before
+many of these companies started
+showing an interest and so new
+mexico has really been a global
+leader for several decades in
+this which gives us a unique
+opportunity for us to capitalize
+on this and really make you new
+mexico the place to be in the
+future as well.
+Slide six shows that of course
+we hear new mexico have pride
+for what our seat is doing but
+it's not just us that's noticing
+new mexico there is a lot of
+recognition that we're seeing
+and the press lately so on the
+top left albequirky was named as
+one of tomorrow's quantum hot
+beds among six other us cities
+right below that there's an
+article from the wall street
+journal that came out earlier
+this year that talks about new
+mexico being the heart of
+quantum computing so this is
+garnishing really national
+interest in our state and it
+gives us an opportunity to
+really build on that.
+The next slide is sure it's
+great to be global leaders it's
+great to have national
+recognition but any time we're
+paying taxpayer dollars for any
+of the stuff we want to make
+sure that it actually benefits
+our communities so this is a
+figure that mr douglas is
+prepared that shows the
+difference ecosystems throughout
+the state of new mexico where
+that focus has been in the past
+and where it is currently and
+how quantum could contribute to
+those different ecosystems so
+for example in the top left
+quarter of the state the
+northwest corner oil and gas we
+think that quantum could
+contribute from the sensing
+capabilities that we have so I
+mentioned quantum being able to
+sense things like gravitational
+fields are magnetic fields so if
+we're trying to do to really or
+mining for gas or even for
+minerals we want to know that
+where we're digging is the right
+place to do it and so we can
+save a lot of money if we know
+that there's something going on
+subsurface and con and sensing
+allows us to be able to detect
+those subsurface anomalies and
+really really sensitive ways
+on the bottom right hand side
+error specific defense is also
+huge in the state so another
+sensing application is things
+like a tomic clocks are already
+used for for gps navigation so I
+was using google maps to get
+here this morning so i've used
+my atomic clock
+but if we want to be able to do
+better navigation it's good to
+have things like like better
+atomic clocks or even things
+that can determine where you are
+just based on where you start
+and the acceleration that you
+experience along the way and so
+right now gps does really really
+well we got here but for gps
+denied environments which is
+something that the military and
+defense is very concerned about
+these quantum systems can help
+provide solutions where we don't
+already have them
+there are a lot of other
+applications here that i'm happy
+to talk more about later if you
+have further questions but.
+Thinking the interest of time we
+will we will carry on and i'll
+pass it off to mr douglas.
+Some thank you so moving a
+little bit into what c n d does
+so we we won't spend too much
+time but sandia is an
+engineering lap and we have
+significant capabilities in
+quantum system engineering and
+integration so for talking about
+miniturizing those continued
+sensors so that they can be put
+on planes and boats satellites
+things like that that's a a
+specialty here and a lot of that
+is enabled by our significant
+fabrication and advanced
+facilities where our masa
+fabrication uh facilities here
+can make working devices across
+different quantum technologies
+and modalities in a way that
+almost no one else in the world
+can do and a lot of what we've
+produced over the past decade
+has actually helped start
+companies like I am in continue
+in others and we're exploring
+ways to continue leveraging that
+really unfair advantage for for
+new mexico we also have a lot of
+experts we're looking into
+algorithms and applications how
+to actually use these computers
+once they're ready um as well as
+benchmarking in assessing uh for
+a US government partners and
+others if uh you know machines
+are working in the way we expect
+them to or people are telling us
+that they're working and as we
+mentioned earlier we think that
+we'll be able to really thrive
+through public private
+partnerships and so we have a
+lot of effort going into
+economic development new public
+private partnership models
+things that that nature and we
+want to do all this in the
+service of the nation we want to
+be thought leaders we want to
+put our uh technologies to the
+the use of the nation and so we
+we do a lot to engage the the
+national and sometimes
+international communities as
+well
+if we go to slight nine you know
+city is really exploring these
+new models to accelerate
+innovation rate in a big piece
+of this is to to fill the
+missing peace in our new mexico
+ecosystem which is industry we
+have amazing national labs we
+have amazing universities we
+need industry to come here and
+collocate with us to get to
+build those partnerships take
+advantage of our expertise our
+partners.
+And do that that innovation and
+commercial position here i'm
+really pushing that the envelope
+of what is possible and so i'm
+the right of the site here I I
+just included a graphic that
+shows a few of the partnerships
+that were were a part of helping
+lead in many cases and who were
+connected to across the state
+and just to kind of demonstrate
+the number of touch points we
+have with our non profits our
+economic development partners
+the the state industry others in
+in some of how we're doing that
+is through the efforts I list
+here in the on the left so the
+quantity foundry facility we're
+trying to understand how we can
+fell current technology gaps and
+really democracies access to
+these quality technologies by
+enhancing access to our
+fabrication capabilities here
+we think we can help industry
+product type we can help our
+government sponsors that really
+get things through a lot quicker
+so that we can get to those
+technologies first and also we
+want to enhance tech transfer
+how can we get the technology
+out of the labs into the hands
+of industry partners.
+Another way we're doing that is
+through the quantum
+demonstration facility
+where we're looking to set up co
+located space and this is
+actually part of the
+announcement that was made
+yesterday by road runner where
+they'll be establishing the
+infrastructure for us to go
+house space in which the india
+landline UNM can come together
+and work with industry partners
+to really accelerate quite a
+commercialization uh drawing
+industry to the states to come
+here grow here and stay here we
+think that that will help us
+demonstrate not only new
+technologies but new business
+opportunities let's say supply
+cheap needs arise for new lasers
+or optics uh we want to be able
+to build those here so we can go
+across the street bring him into
+our systems and help accelerate
+the innovation cycle
+that was really made possible by
+the state investment and ed
+support to to road runner in the
+coalition building there to
+bring together private capital
+with everything else in the
+ecosystem
+in addition to that we are going
+to be watching a quantum lab
+embedded entrepreneur program or
+q leap I to really help support
+that start up ecosystem how can
+we spend out ideas out of the
+labs bring founders from other
+states here to take advantage of
+our capabilities and our people
+in our facilities and so again
+working with landlord sandia and
+road runner we're going to try
+to find waste really streamlined
+partnership opportunities
+through programs like trigger
+where we can collaborate more
+closely and help accelerate
+industry road maps to get to
+that commercial potential.
+In the last week I wanted to
+mention the elevate cronin
+packaging facility
+this is a the public private
+lead and operated chip based
+packaging facility that's being
+established in albuquerque as
+part of the eda tack hub through
+elevate corner
+we see this is an awesome new
+way to to really enhance tech
+transfer pathways to take things
+being produced by c n d and help
+package and commercialize them
+and again bring more capability
+more expertise more
+infrastructure to the state to
+make us more competitive
+so if we move to the next slide
+I want to briefly touch on the
+collaborations that are making
+these types of things possible.
+So on side ten I I want to first
+talk a little bit about
+communicator the partnership
+with unm c n d and landlord
+landlines helping really enhance
+work force development promote r
+and d and then drive some of
+those commercialization efforts
+i'll talk a little bit about all
+the corner as an update to to
+last year funding has come in
+and we're continuing to work in
+execute on that now and then I
+want to talk a little bit about
+the future and what's happening
+in the new mexico corner
+moonshot where we are one of
+twenty nine seven my finalists
+competing for a hundred and
+sixty million dollars uh in
+federal and s f program.
+So driving into that if we could
+go to slight eleven.
+So the corner of new mexico
+institute is really you know
+where we're trying to understand
+how we can bring partners
+together to accelerate that
+innovation train the next
+generation work force and
+commercialize here in new mexico
+so we think there are multiple
+parts of the ecosystem that are
+really critical to actually do
+this type of thing and place
+based innovation as a shown to
+work really well if we look at
+silicon valley if we look in
+boston by a tech things like
+that so we have a a very strong
+r and d team already we've been
+leading for decades as doctor
+ivory mentioned we have a lot
+going on in education and work
+force that she'll talk about
+here a little bit but the
+industry investment engagement
+piece is really critical the ed
+request for proposals that just
+went out brought in and honestly
+a shocking number of partners to
+new mexico trying to figure out
+how to get engaged from the
+investment community from all
+different types of continent
+technologies computing enabling
+technology's supply chain a
+significant amount of interest
+was generated from that and
+we're going to see multiple
+partners coming to the state
+through that grant already and
+we're having conversations daily
+with other industry partners
+looking to get engaged having
+been doing this for seven years
+I i'm incredibly excited to see
+the amount of industry interest
+in engagement um and the
+opportunity to to build on that
+and then the last piece you know
+and i've touched on this and
+that the steet needed system
+partnerships are really critical
+working with ed with our
+uh economic development
+departments in cities and our
+partners like elevate corner
+bringing together the ecosystem
+to really push the envelope of
+what's passport all together in
+a way that is statewide and
+cornated which is really
+exciting to see actually coming
+together.
+So if we moved to sight twelve
+i'll dive a little bit more into
+elevate corner and so when we
+talked last year there were six
+or seven members in new mexico
+who were part of this uh
+regional coalition and as of now
+overall there's a hundred and
+forty plus organizations but I
+wanted to spot light on the
+right uh what the new mexico for
+print looks like
+over the past year so I
+highlighted a few of the
+partners
+but that you can see visually on
+the map of where we are working
+with
+cities with the states with our
+economic development department
+but also with labor and work
+force organizations are
+nonprofits and cater twelve stem
+partners we have every research
+university and seeing and i'm
+really closely tied into how
+we're trying to build that work
+for second system here and the
+way that we're doing that's
+relevant crime is through the
+packaging facility which I
+talked about earlier in their
+create
+pillar where they're setting up
+capabilities in colorado we're
+setting up capabilities in new
+mexico that can really be
+complementary and drive people
+here away from places like
+chicago colorado sorry
+california
+that are kind of our competitors
+right but I threw crime of new
+mexico through elevate I I would
+argue that we're a top three
+ecosystem in the US and we
+continue innovating and building
+we can maintain that leadership
+the other pieces on the
+workforce development or include
+pillar but all that make and
+talk about that a little bit
+later.
+So going to fight thirteen
+and
+I I wanted to talk a little bit
+about the quantitment shot
+engine which is a new mexico
+based new mexico lead and s f
+regional innovation engine where
+again we're bringing together
+all those partners uh if we are
+successful uh there'll be twenty
+two funded partners over fifty
+engaged partners that are going
+to really focus efforts in the
+mexico around three technical
+grand challenges so how can we
+get to that quantum sensing for
+next generation navigation let's
+say we want to go out in space
+and know exactly where we are or
+their environments where we're
+in the backwards and don't know
+where we are quite might be able
+to help that we also want to
+explore point of networking for
+critical infrastructure security
+how can we make sure that that's
+being protected by leveraging
+cronin mechanics and then lastly
+quantum computing for the next
+revolution and material science
+and chemistry applications again
+understanding how to use
+concomputers once they're here
+because the hardware is
+outpacing the software a little
+bit and so if we can lead in
+that area bring the experts to
+new mexico invent the things
+here then the economic benefit
+will will come here as well
+i'm so underlying those three
+grand challenges we have our
+place based capacity building so
+how can we build that that keep
+a twelve state wide coordinated
+strategy how can we make sure
+that mse new mexico tack and
+others can bring in new
+undergrad course offerings store
+engaging communities across the
+state a little bit more
+intentionally and so we have a
+structure where each of the
+universities is playing a
+leadership role within our work
+force development to build those
+pathways at that level
+and again I don't want to still
+make and stund around there
+communicate pathways.
+And then next the strategic
+investment in sustainable
+capital so working with road
+runner in in a few others how
+can we attract private capital
+to help the companies grow here
+scale here in this sustainable
+way luckily with the dd funding
+we got a great jump on this and
+so we'll adjust our plans a
+first successful and how how
+that pillar looks but we we
+think that private capitals are
+really critical peace and then
+lastly the infrastructure and
+how can we make sure that we're
+translating our innovation to
+practice getting technologies
+out of the lab bringing stuff
+founders here and the engine can
+help really provide that driving
+structure that national
+recognition that we are the
+place to be
+so if uh if we are able to land
+it it would be a hundred and
+sixty million dollars over ten
+years the partnership with the
+state is a really really
+critical piece for both this uh
+and there's another new mexico
+uh engine that's a send my
+finalise from unit uh again
+likewise the support there's
+really critical for for the
+success and we think that we can
+really accelerate corner
+minimation bring companies here
+and keep new mexico and up
+and with that i'll pass back to
+doctor
+average
+all right so if we want any of
+this actually happened then we
+need to have the workers to fill
+these jobs so let's dig in on
+what these jobs look like that's
+what slide fourteen is doing on
+the left hand side we see job
+postings from the same qdc
+report that just came out by
+role and yes there are a lot of
+stem science tack engineering in
+math rules but there's also
+nonstem rules so things like
+business development operations
+education sales project
+management and so we're seeing a
+lot of those supporting rules as
+well because those are also
+crucial for actually building
+this eco system on the right
+hand side we see the work force
+by degree and less than half of
+those jobs that are out there
+right now require a phd and so
+as we see these projects move
+from academia into actual
+commercialization.
+And productivisation we see more
+demand for people with bachelors
+and even associates or nondegree
+holders and so we're really
+trying to pay attention to that
+and make sure that students or
+people in the work force here in
+new mexico don't have to be you
+know a graduate student in
+physics before they hear about
+the opportunities they have as
+in a coin career if you go to
+the next slide it talks a little
+bit about the numbers of job
+opening so the plot on the
+bottom is global numbers by year
+these are our new job openings
+and we also dug in a little bit
+more here in the mountain west
+is part of that elevate quantum
+effort and so that reporting
+found that there's roughly one
+qualified candidate candidate
+for every three open jobs and
+quantum.
+So there's a huge work for a
+scope rate now eighty percent of
+those job listings require non
+quantum skills
+as if we just look at this
+region there's an expectation
+that over the next ten years we
+could see seventy seven thousand
+workers needed a work for scap
+of that amount in this region
+which is huge the next slide is
+actually all the same text but
+it has a slightly different
+image on the bottom left showing
+that um as jeek hinted as mister
+douglas into two right now we
+are seeing a lot more jobs and
+hardware because we are still
+figuring out how we're going to
+build these devices but in the
+future we expect that to kind of
+chris cross and we'll see more
+jobs on the software and
+application side down the road
+if we go to slide seventeen this
+is what we're doing about that
+here in new mexico and so as I
+mention you know often times you
+might hear about quantum science
+as late in in your undergrad
+career if you decide to major in
+physics or as a graduate student
+and so we have a really strong
+programs here in new mexico UNM
+was one of those flagship
+universities exploring this back
+in the eighties and nineties and
+so they've done a really great
+job at those higher education
+levels but we still have a gap
+in the earlier stages and
+especially if we want people to
+enter the job market with
+associates degrees or not even
+having a jury in these fields we
+need to let them know that
+they're out there so we have
+been developing a number of
+programs over the past couple of
+years i'm gonna talk about three
+of them briefly there are
+quantime which is a k through
+twelve effort camp which is more
+focused on high school and the
+quantum learning lab which is
+the technician training program
+i'll note that we've we've been
+rolling these out often times
+for years the quad and learning
+lab is a little bit new and I
+think at this point we have a
+good handle on how to do this
+how to do it well and we're
+ready to scale so we want to
+make sure that we're reaching
+more broadly across the s.
+Okay so diving into these if we
+go to the next slide quantity
+new mexico this was an effort
+that we tried for the first time
+this past winter in january on
+february leading up to
+valentine's day and encouraging
+people to get intangled for
+valentine stay it was adorable
+yes and so the way that we did
+this was by a partnering with
+this national organization the
+national twelve education
+partnership we found six
+activities that are really hands
+on and fit into a single class
+period then highlighting those
+activities we had six different
+professional development
+sessions for teachers they were
+all on zoom so they could log in
+at the end of the school day at
+about a thirty to forty five
+minute professional development
+on a single activity and then we
+found funding to provide the
+materials for these kits to
+about thirty teachers now we're
+talking about materials that
+cost less than five dollars per
+student so this is not a huge
+amount of money but it's still
+really fun stuff that gets
+students thinking about quantum
+science we had a kick off event
+here in alba kirky at explora
+where we had not just those six
+base activities but we also
+highlighted some of the research
+going on at u n at new mexico
+tack at sandia accurately air
+force research lab and we
+reached over five hundred and
+thirty community members just
+during that event alone and then
+we asked our teachers to please
+implement in their classrooms
+and they reported reaching over
+seven hundred students so this
+was a small short kind of rag
+ragtag team effort and we were
+able to make a really big impact
+across the state now if you want
+to go a little bit deeper can
+ask you to flip to our cue camp
+so you can't stands for the
+connem computing math and
+physics camp and this is a
+little bit more of a deep dive
+more towards the high school
+level.
+We actually have two different
+camps we have one for teachers
+and we have one first students
+the goal overall is to reduce
+barriers so there are no pre
+requisites for this camp we try
+to make it as fun and engaging
+in hands on his possible for
+teachers just like one time we
+want to give them the tools to
+introduce it in their classrooms
+and for students we want to give
+them the exposure to this field
+so that they can make a decision
+early on about whether they want
+to go into it these are national
+programs right now and so they
+are funded primarily through the
+department of energy although we
+have received smaller grants
+from things like and can taught
+a foundation continue recently
+pitched in for some stipends
+this past year but as far as new
+mexico goes we have this uh
+image in the top right that
+shows we for each sixteen
+different counties there have
+been seventy five educators from
+new mexico alone and eighty five
+students and so if we assume
+that those teachers are
+implementing in their classrooms
+we think we've reached over
+seven thousand students across
+new mexico with this program
+again this is this is ready to
+scale we currently have funding
+for one more year of the student
+camp at the federal level we
+have a proposal in for five more
+years of our base week long camp
+for teachers but sustainability
+is is always a concern of ours.
+And then finally the third
+project here on slide twenty
+this is something that just
+began a so this is our quad i'm
+learning lab and technician
+training program so we had some
+conversations over the past
+couple of years with industry
+leaders who are hiring these non
+degree holders or associates are
+bashes level degree holders in
+technician roles and we started
+asking them what are those jobs
+actually what are those people
+doing and what are the skills
+that they need to do that and we
+realize that they're very hands
+on skills but you don't need
+these advanced degrees to do it
+and we start even questioning
+whether you need an associate
+surfacers degree for this and so
+this is a first in the nation
+attempts to launch a ten week
+boot camp where in the students
+or veterans or people re
+entering the work horse work
+force after parent hood can come
+in for ten weeks get the skills
+that they need to be immediately
+ready to enter the quantum work
+force now as mister douglas is
+mentioned industry is a little
+bit small here in new mexico
+right now so one of the things
+were being really cognisant of
+is that these skills that were
+highlighting and training in
+this program are not just
+touching on the quantimated
+industry but quantitation
+industries as well so we've been
+having a lot of conversations
+with other industry players to
+make sure that they can fit into
+those calls this is a
+partnership that's being lead by
+uh central new mexico community
+colleges nonprofit research park
+branch called CNN internet
+and so they've been doing a lot
+of the like work to make sure
+that we're connecting to
+regional industries it's been
+funded by the economic
+development administration hot
+tech hub eleven quantum as well
+as steep matching funds as well
+as some education funds and I
+think there are some little
+funds and there is well and I
+think mr douglasness has a
+better breakdown of where all
+the money is coming in whereas I
+more the technical person um but
+i'll i'll pass it off to you to
+surround us up yeah just a few
+more words on that so I continue
+announced that they're they're
+opening.
+A facility and albuquerque
+cunact economy networking
+company is also doing that we're
+inactive conversations with them
+to hire our graduates of this
+help us understand the efficacy
+of the program and then working
+with state partners like work
+for solutions and others uh to
+make sure students going into
+that path there will support it
+so very very excited about the
+corner learning why.
+And so if we move to the the
+final slight just to close
+things out
+the future really is rate third
+we we've heard about how
+critical climbing technologies
+are people across the world are
+racing to get there because of
+the amazing impact that they
+could have we really believe the
+interdisciplinary collaboration
+collaborating with different
+institutions industry others is
+is critical for us to succeed in
+maintain leadership both in the
+state but also across the US
+empowering innovation is and in
+democratising access to those
+quantum technologies will help
+us really push the art of the
+possible and we want to get
+those diverse state holders
+engaged to make those ground
+banking advancements to get kids
+from also like me engaged in
+corner and then that that work
+force if we invest now if we
+invest across the entire
+educational spectrum we can have
+that work force that both draws
+industry here but also gives our
+our residence here awesome high
+paying high value jobs
+so madam chair with that we're
+happy to answer any questions
+that you in the committee have
+been create presentation this is
+very exciting it's great to see
+how much you've already done in
+and starting with our kids and
+and seeing i'm i'm excited about
+this so first question i'm
+senator black.
+Thank you very much here
+it's great presentation
+appreciate uh all the other
+phenomenal information one of
+the things of interested in is.
+On the on the capability side of
+this how do you tie in.
+Quanta computing with doing
+digital twins model base systems
+engineering.
+When you work with government
+energy is like the lab
+their force research lab if
+we're simply a weapon center
+when you look at the program
+management piece of cosches will
+performance how does this effect
+cost schedule performance from a
+quantum
+perspective.
+Madam chair center I think for
+the question so i'm going to
+defer on some aspects of of the
+the answer there so quantum
+computing technologies what are
+the application areas that were
+really interested in exploring
+his legislatives and
+optimization problems so if
+we're talking at looking at
+really complex systems that have
+a ton of inputs tonight outputs
+we we think that there there
+should be a lot of potential
+impact the quantum computing out
+for themselves to have on that I
+think it's important to note
+that the time frames to get
+there
+five seven ten years depending
+on what you're looking at the
+complexity of the problem um but
+that logistics and things of
+that nature are a kind of
+critical and core peace as we're
+talking about bringing in other
+technologies like a I like
+digital twins things that nature
+there's a lot of excitement of
+how a I might be used to
+enhanced quantum systems I
+haven't had many discussions
+around the digital twin aspect
+of things but if we're talking
+about you know building new
+models and trying to find areas
+for improvement you know there
+might be some applications there
+in connect I just haven't talked
+to the experts about that
+specifically thank you very much
+i'm really going toward on the
+operational testing evaluation
+piece to get things out the door
+faster to the the customer or
+the military or whoever because
+when you look at all the threats
+out there today based you know
+china russia when it comes to
+especially cyber
+how do you you know how do you
+mitigate those.
+Those threats with what I call
+the legacy acquisition cycle of
+trying to get stuff out the door
+to
+because what you get it out the
+door you're already obsolete and
+so I had his cry help us there
+and I I would argue it helps us
+will you do when you're doing
+testing because you don't have
+to go out to you know the old
+big trestle out there and start
+you know to inveviation testing
+on on some coupons or whatever
+but you could do it.
+With.
+Can't capabilities.
+To get what she needs on
+confidence level to start your
+to cut down on your schedule is
+that how you can is that how you
+see quality helping as well.
+The.
+Madam chair started o thanks so
+I think there are are a lot of
+different aspects of this I
+think if we're like there's
+modeling that can be expedited
+with quantum systems so if
+you're thinking about different
+kinds of research that would
+involve complex modeling that
+could be enhanced if you're
+talking about like physically
+getting things out the door then
+that becomes a logistical
+optimisation problem which could
+also be addressed with some of
+these quantum systems and then
+there's also you know the
+security like the digit highest
+stuff that you're getting out
+the door there are a lot of
+security risks with that as well
+and so quantum has also been at
+the forefront of people's minds
+and protecting our digital
+information and so a lot of the
+encryption technologies that we
+use today could be a succeptable
+to quantum hacks if we get these
+big enough computers but nist is
+also recently put out different
+standards for how we encrypt
+technology using quantum systems
+for a post quantum era and there
+are a lot of institutions who
+are starting to implement those
+as well so I think on many
+levels we could see some impact
+from from clinton systems thank
+you better insurance lastly just
+give you just two quick answers
+here maybe you're not the rate
+right person to assess but i'd
+be interested in senator souls
+might have uh some thoughts on
+this training up our teachers to
+teach quantum that's something
+i'm very interested in and then
+last year when you talked about
+the logistics side how does
+quantum help with
+secure supply chain management.
+Yeah so one of the kind of
+classic problems that people
+first started thinking about
+when we had a release stage
+quantum devices devices that
+console optimisation problems is
+like a traveling salesman
+problem so in the simplest form
+how do you get your amazon
+driver to go on the most
+optimized route from to deliver
+all the packages but we could
+start to think about that as
+part of a broader supply chain
+optimising not only the paths
+that things get from one place
+to another but the efficiency of
+those paths as well and that
+could be things like materials
+development to make sure that we
+have materials um whatever
+whether those are wires or solar
+panels are batteries that make
+sure that the things that were
+connecting our as efficient as
+possible um mr douglas have you
+talked to other technical staff
+members who may have different.
+Answers.
+Yeah so madam chair I I think
+this is a case where that there
+are significant possibilities
+right and I think as we're
+thinking about what the future
+can hold what the application
+spaces might look like
+logistics optimisation and
+security using that the base
+quantity mechanics to provably
+secure technologies in assets is
+something we're actively
+exploring so I think all the
+questions you are asking or
+absolutely the right ones uh
+application spaces that were
+interested in exploring and so I
+I think doctor I recovered it
+pretty well but we're very happy
+to take specific questions and
+try to get back to you with more
+complete answers.
+Thank you both thank you madam
+chair.
+Senator kitchen introduced to a
+quick introduction of i'm sorry
+mountain j block senator
+representing southern rental
+northwest albucker key retired
+lieutenant colonel air force and
+I I work in.
+This type of stuff in my
+moonlighting time when i'm not
+doing this thanks thank you and
+represent little we do a quick
+introduction certainly good
+morning cher good morning
+members and good morning
+everyone here i'm sure that
+little I represent uhm house
+district sixty eight which is in
+north west abercricky uh the
+paradise hills and ton rich area
+thank you good beater thank you
+senator padea next
+thank you madame chair and thank
+you for the presenters this the
+topic they have spend not a lot
+of time on myself and did the
+legislation that wonder getting
+you some money out of the
+legislature by the way for the
+legislative members
+by the way in the continue of
+who is supporting you on page
+nine I don't see the new mexico
+state legislature there so you
+might want to add that cause
+that's where all the money comes
+from my friend
+anyway that no big deal but but
+where i'm compressed is set is
+so we ended up I think something
+like two tranches of twenty four
+million dollars some legal
+somewhere in the neighborhood
+around forty eight million or
+somewhere in there does that
+even get us out of the parking
+lot with what we're trying to
+accomplish here because we
+really do we we really can on
+this I mean we really do have a
+lot of things that can be
+brought together to make this
+happen and that's why I got
+behind it immediately when I
+started working with them alexa
+and the governor's office and
+few others to get it into the
+budget what do we really need to
+do to get this thing moving from
+a dollar standpoint you have any
+sort of projection on that
+yeah madam chair center thank
+you for the the question so I I
+want to first start by saying
+that investment has already had
+huge impact industry is already
+coming here um I I think
+we we are aiming for ten
+industry partners within five
+years and we're two years and
+then we're gonna be at four five
+which is awesome so so the
+support has been critical and
+drawing industry here and uh
+starting conversations with
+folks that I never would have
+thought were interested in
+coming to new mexico and through
+there the edrp that was put out
+for the twenty five million
+dollar venture studio and
+infrastructure.
+An amazing amount of interest
+that said we we did include a
+backup site from last year that
+talked about the state
+investments and always made a
+five hundred million dollars
+investment texas just earlier
+announced to two hundred million
+dollars investment I think
+within the last month there are
+other regions who are trying to
+get engaged I think it's very
+important to know new mexico
+does have unfair advantages we
+have thirty years we have great
+capabilities infrastructure and
+so additional investments to
+support industry engagement um I
+think would be very very useful
+watching what the other states
+are doing to try to draw that
+leadership away where we're
+happy to provide some of that
+information but that that's the
+level that we've seen thus far
+but I think that's exciting that
+insurer and I I i'm really happy
+to hear that I know that
+a five hundred that I want to
+just everyone listening up five
+hundred million is what we just
+you know versus what we just
+dead just under fifty million so
+so we really do need to take the
+seriously because this is going
+to just pass right through if we
+don't you know if we don't do
+something about it.
+And that I love the fact you
+know that you're thinking about
+how do we approach the local
+schools and annual the
+educational stuff I was just
+messaging back and forth the
+center to bias and who was here
+yesterday she's very interested
+this you would like to reach you
+by the way magazine if that's
+alright maybe mark if you can
+get a some contact involved in
+manager that's alright with you
+that'd be great but I want to
+know proactively we did this
+investment this year that I
+helped me in a lot of us help to
+get done for you are for this
+industry we what really want to
+be proactive going into the next
+two years because we're gonna
+to probably run into a funding
+by sign a couple of areas but
+this is one that we probably
+need to make sure that this gets
+us over the hump I think what do
+you do what do you need in the
+twenty five i'm sorry twenty six
+and twenty seven sessions that
+we could be doing for you and
+thinking about right now.
+The.
+Yeah madam chair senator I I
+think that's a great question I
+policy that might be unfair to
+you that might be more nora I
+see her in the background there
+but yeah so yeah so but nor and
+then um we also have the
+director of that corner new
+mexico institute bob little he's
+and that audience here as well
+so we might deferred to them on
+answering that specific question
+I will say that the investments
+made today have have a guy and
+already been incredibly exciting
+and impactful where we're hoping
+that through the partnership
+with road runner and others that
+will be able to see that the
+infrastructure facilities being
+belts that before the next
+session so folks can kind of add
+see what the physical
+infrastructure actually looks
+like and and what those jobs
+actually look like but that that
+answering the specific school
+will further.
+Okay so we'll put a parent
+season there for nor when she
+comes up she can tell us what
+she really needs to make sure
+rental and continue to be on top
+of I don't know uh making each
+other and the comment or I don't
+want to catch off anything
+madam chair and senator things I
+just want to say that something
+that comes up you know not just
+in this conversation but
+conversations more nationally
+especially on the education side
+is there's always a major gap
+for support for teachers and so
+you know thinking about the
+materials needs for this
+quantimate um and the very low
+costs I think if we can make
+sure that there is support for
+our kids and our teachers to
+actually get it into their
+classrooms that can go a huge
+way
+thank you madam chair and and
+just require on the slides if
+you can go back to slight
+nineteen in the upper rate hand
+corn I wasn't quite following
+the numbers here and it could
+just be mean by maybe i'm not
+hitting all the cylinders this
+morning or something but sixteen
+county seventy five hundred
+total reach but then it says
+eighty five hundred qump
+students.
+Are the this eighty five qcam
+students in the seventy five
+eighty five number or i'm not
+following that math right there.
+I'm sure it's a quantum thing
+that i've just not i'm not quite
+there yet so madam chair senator
+is not contaminated
+no but I can explain that that's
+that's common so one things that
+we have heard from other folks
+who are doing educational
+outreach programs with teachers
+they assume that you teacher
+will reach one hundred students
+okay and so that's seventies
+seven thousand five hundred and
+eighty five number is seventy
+five times a hundred seventy
+five hundred plus our eighty
+five camp students yeah.
+That's one hell of a word
+problem right there
+i'll pay a little more attention
+ago senator block and I can be
+back there with our chocolate
+and trying to figure this thing
+out but again I totally
+appreciate everything that
+you're up to I I really want to
+continue to be as helpful as
+possible I think we really got
+the conversation going this year
+and it we we can't stop now so
+thank you.
+Thank you sitter and I am gonna
+have to jump on a flight so my
+best years can take over and
+next is reps and a little.
+Safe travels madame chair
+think you have got a one quick
+comment in the uh
+suggestion as well so I too I
+really have been excited and to
+learn more about this industry m
+and looking forward to er to the
+advances that are coming and
+speaking of advances I know that
+there are technological advances
+that have taken place that
+actually reduced the size of the
+of the equipment used for
+quentin mechanics at a content
+for contempts and the effort and
+what I just want to insure and
+be on the record with is that we
+are ensuring that the water
+issues that come with this uh
+industry are not lost in the
+conversation as well in the
+discussion so that's it and back
+to my support for this uh
+industry
+for the future if you haven't
+already a may have made that
+meters
+um request earlier but for your
+future for the future and
+reaching out to schools I wanted
+to highlight the aviation
+academy which sits on the north
+west side of albuquerque um and
+the santa fe indian school
+in center fee um who is who are
+making is making straights in
+stem programs and doing quite
+well as also and it may be a
+good school for you to have into
+as well so thank you that it
+that's all that I have madam
+chair thank you thank you and
+just quickly to introduce myself
+i'm how the birdman's i'm from
+senate district fifteen next
+we'll have representative
+I think you madam chair thank
+you i'm so excited I think there
+is four teachers minus debate
+here and two of them are method
+not three of them are met
+cheaters or were method
+teachers.
+So this is very exciting um i've
+you know I think I would stop
+their ibins last name at you and
+m
+ch yeah don't i'm just going to
+call him doctor i've been for
+pronunciation reasons but when
+they had the first conference I
+think it was three years ago
+four years ago at unm one thing
+that impressed me was that the
+con and scientists all over the
+country were educated at you in
+it does we're talking about call
+tech and my tea google private
+and public industry that
+impressed me dr where did you
+get your phd
+thank you madame chair and
+representative I received my phd
+in virginia at the college of
+william and mary
+when I actually got the job here
+in new mexico I I honestly
+thought I would stay for two or
+three years and then go
+somewhere else but i'm a victim
+of the land of entrappement I
+love it here i've been here six
+years now and have no plans to
+leave thank you and I want to
+make a note to all the
+legislators here you know I am
+sick and tired of hearing people
+put down the state including our
+legislators saying crime bob of
+education we have incredible
+resources and we have to start
+talking about what we have
+instead of having this half cup
+in fury already point because
+this points out we are I like to
+say capital tea couple age
+capitally the economy state so I
+just want to thank you for all
+the work that you're doing and
+our other directors in our ed
+because this is incredible uhm a
+couple questions in attracting
+people has there been any effort
+to establish any kind of
+quantity facility at space port
+america.
+Madame chair representative
+thank you for the question so
+i'm not sure
+specifically
+if we've had any engagement
+around space part we're starting
+work a little bit more with the
+space community with afril and
+others to understand how quantum
+I can impact their technology
+areas and they're growth but
+pulling people in I I don't have
+a good dance free under
+okay thank you madame chair work
+space for america reports to the
+new mexican finance authority
+oversec committee next month so
+be asking them the same question
+but it's a you know logistically
+speaking there is a lot of
+offering there so we'll talk to
+them about that and then.
+In working with teachers some
+people the cowrip can uh
+institute its investments
+demedication
+it's reaching up now I think to
+last lunas and belong
+particularly in southeastern new
+mexico but
+in the stand programs has there
+been any effort to contact them
+about including this for older
+students and younger students.
+Madam chair representative
+thanks for the question
+specifically i'm not sure about
+whether I don't think we've had
+any outreach with that
+organization in particular but
+we're still learning about all
+the amazing new partners that we
+can bring in and we're always
+really excited to work with more
+especially because we really
+need the boots on the ground
+people to make this happen if
+we're going to scale out um as
+far as reaching younger students
+one of the things we are really
+excited about doing quantimed
+this year was we had activities
+that really started at
+kindergarten and so there are a
+couple of great groups
+throughout the nation who have
+been thinking about how to do
+some of these activities and
+concepts at the elementary
+school level in addition to
+middle school in high school and
+some of those activities were
+were hits yeah
+thank you madame sure for all of
+our literacy efforts well to
+make sure people can read the
+word quantum
+and then my last question is
+simply I understand in
+relationship to represent a
+little question that quantum
+computing and centers require
+less water than the aid data
+centers can you talk about the
+impact how we why that is
+madam chair representative
+thanks for that question yeah so
+the idea here is that quantum
+computing console new problems
+in more efficient ways and that
+can be more efficient on the
+computing side and that you're
+not using as many gates but also
+we don't expect to have these
+massive water cold systems like
+you would see an a I and data
+centers so we do expect that the
+quantum systems will not have
+the same draw and negative
+impact on our water supply here
+in new mexico and similarly for
+the the electrical grid as well
+yet madam chair just to add on
+there where we're also there are
+number of things that still have
+to be solved with the
+contectnology's actually scale
+right so to make sure that the
+the cooling solutions which can
+be done by lasers by delusion
+refrigerators so few others.
+Ah they're going to require
+different technologies but we're
+not quite sure what that what
+that requirement is going to be
+at but like doctor ivory said
+we're not going to need massive
+water cooling like we see with a
+ice centers we we expect that
+it'll draw far less electricity
+and we've heard that that's a an
+answer that we need to get a
+more satisfactory question we
+need to get a more satisfactory
+answer on so we'll take that
+back and and try to deliver
+something there.
+Thank you and then my my final
+point in relationship to funding
+we used to get junior money
+where we could give money to
+programs as opposed to
+you know buildings and
+facilities but there are
+five or six of us who are a
+logic legislative committees
+finance committees so do stay in
+touch as we look at line items
+that supply the materials
+because it's just vital to our
+future thank you madame chairman
+respond so um so I I want to
+make a few points first that
+we're very excited to be working
+with our partners at him at the
+cunam institute we're just
+having a conversation on how he
+might be able to get a queue
+camp student into a lab at you
+and them to go play with some
+lasers which would be awesome
+we're also very excited through
+the n s f regional innovation
+engine to be able to better
+engage our research universities
+and CNN to build out two year
+degree pathways new course
+offerings and and things so that
+nature so we're more than happy
+to answer any questions that
+kind of from the national lapton
+what that is but uh supporting
+those partners new pathways for
+students to get engaged we're
+very very interested and trying
+to make that happen so um
+appreciate this important and
+questions on that.
+Thank you
+thank you representative growth.
+Thank you share looked around
+very like youi was here I was
+coming here for a couple of
+years her niece has been make
+home for twenty five so I
+understand that
+um I have a question about
+education and the correct one
+science is a may seem to hear
+that um that is extract
+recommendation is to reach out
+their students
+I went to school some people in
+this room where not boring yet I
+live in a lot of the six a lot
+of map
+and and held me out here I don't
+think physics has changed a lot
+in all this time and I don't
+think I don't believe when the
+me something just for the
+stories who can we should extra
+could connectivities
+education somehow I feel
+something we got really slow in
+in adopting to the changes I
+still have some app on my former
+principles where are you in the
+world my students they called
+good aid when I just table to
+remember for technology so these
+have changed by which change
+slowly so in your understanding
+of the physics
+how behind we are in our state.
+Yeah madam chair representative
+thank you for that question this
+is something we've thought a lot
+about so a couple of points to
+make here one is the I agree
+with you that that the extra
+curriculars are great but
+they're not going to be
+accessible to all students if we
+really want to be reaching all
+of our students or give
+everybody the opportunity we
+have to have it in the classroom
+and to get it in the classroom
+often times teachers are
+pressured by teaching to the
+curriculum that they're given so
+quantum does exist in the
+curriculum today it's not
+highlighted
+but the national economy q
+education partnership that I
+mentioned earlier that supported
+the quantities effort they've
+actually been doing a lot of
+work to figure out where is
+quantum already in the
+curriculum so that we can make
+sure that all all six of these
+activities we highlighted were
+tied to curriculum standards and
+so we see a lot of climbing
+chemistry that's kind of a
+golden opportunity cause we're
+already talking about really
+tiny things like adams and
+quantised energy levels but we
+also see it a lot in physics
+when we're talking about late
+and waves um and so there is a
+lot of opportunity to kind of
+squeeze it in a where it's not
+particularly loudly highlighted
+right now but I agree that there
+are a lot of places who are
+specifically looking at how they
+can infuse quantum into their
+existing standards so that
+teachers actually have a better
+time teaching it and so we see
+that texas and ohio are already
+states who have introduced
+quantum into their standards and
+I think virginia has been
+talking about it as well and I
+know there is there's someone
+from nevada that I run into a
+conference is regularly who's
+been thinking a lot about how to
+do that in their state as well
+thank you I think we need to
+catch up with this estate so we
+want to continue the number once
+i'm I will be more than happy to
+to war with any of the groups
+to.
+To to to reach how to the state
+to review that the could
+recolumn to see how can we
+corporate in a big stronger way
+and and his car because that
+would be quite a lot of the part
+the teachers a lot of training
+for us but we need to catch up
+and and I think we we can just
+wait to see what happened thank
+you.
+Thank you if there is no more
+questions
+than thank you very much for
+your presentation this morning.
+And we'll go onto our next
+presenter.
+Thank you madame chair
+I think you committee for having
+me today
+as the chair said my name is
+nora sackett and I am director
+of the technology and innovation
+office at the new mexico
+economic development department
+know if joined this committee
+previously am happy to be back
+we have had a lot going on so
+have it have year to provide an
+update
+so today madam chair i'll be
+giving an update on
+the technology innovation office
+and some of our resent
+announcements and projects
+a little background who we are
+we are the states science and
+tech economic development office
+within the economic development
+department so we focus on
+growing and supporting the
+states technology and end
+innovation sectors
+supporting home grown technology
+commercialization start ups and
+attracting so answer tech
+companies to state and building
+the ecosystem that allows all of
+that to happen
+you previously hurt for me under
+the title of director of the
+office of strategy science and
+technology also within the
+economic development department
+and earlier this year and the
+legislative session the
+legislature are passed and the
+governor signed house or twenty
+which created the technology and
+innovation division within ed
+and that is what I am serving as
+the director as of we are
+calling it teoh
+because it rolls off the towing
+a little bit better frankly
+than tid which is already also
+something else so we are the
+technology and innovation office
+and also within house build
+twenty
+there was the creation of the
+technology and innovation
+network advisory board so this
+is a new board to support the
+officers engagement with the
+private sector
+we were in the process of
+building that board out by
+saturday or not sat that
+positions don't exist quite yet.
+By the timeline set and statute
+and so where the process of
+building that out and doing rule
+making for that border and the
+research development and
+deployment fund which the board
+will help the office administer
+and also created an house built
+twenty
+and a seated with a an initial
+investment of forty million
+dollars this is a non reverting
+fund intended to support the
+efforts of the office provide
+matching funds for federal
+coalition funding applications
+grants for businesses support
+the general advancement of
+saints and tech in new mexico
+as part of the creation of a the
+office yeah twenty we were also
+very great for to receive from
+the legislature approval on
+funding for additional staff
+positions in the office which
+are very much needed to oversee
+all of this new programming and
+funding overseeing so we have
+added associate director and we
+are in the process of adding
+three additional program
+coordinators at communications
+and data coordinator and an
+administrative position to
+support that growing team we are
+very excited to be having
+additional people joining us
+when I start started in this
+position at osst it was a team
+of one was just me
+and I would say we were lucky to
+grow that to a team of three
+which we are currently and then
+we will be adding all of these
+positions so a lot of growth but
+so really needed to to grow our
+capacity
+in house built one either four
+focus sectors set out that
+you've heard we talk about
+previously they're not new their
+advanced computing advance
+energy it will space and buy
+your science I know you just
+heard from my colleagues at
+sandia who I am lucky to work
+with frequently and a quantum
+falls into that first category a
+bit events computing we're gonna
+talk a lot more about that in my
+presentation as well.
+So what have we been up to teoh
+there's been a lot of recent
+news
+um
+these headlines are I believe
+i'll just from the last month so
+we have had a lot rolling out a
+lot happening and i'm excited to
+dive into that a bit with you
+here today.
+So what do we do how do we do
+how do we carry out our mission
+we have several programs at
+the include grant funding for
+early stage businesses in our
+target sectors
+grant funding for ecosystem
+programming and support systems
+that are allowed start up send
+technology to grow in new mexico
+we provide sector specific
+contractors that provide
+business assistance for start
+ups and those target sectors and
+we do a lot of ecosystem
+coordination and support so that
+we're all roaming in the same
+direction
+we have been able with the
+support of the legislature and
+the administration to
+significantly grow the programs
+that we are able to offer from
+teoh so on slide number seven
+this list of grants and wards
+when I came in to this position
+two and a half years ago only
+the first two programs listed
+here existed the rest have all
+been new additions over the past
+two years which is really
+exciting because it was sorely
+needed and has had a very
+positive response from the uh
+from the community and from the
+industry
+we have added a quantum
+technologies award one of those
+headlines on that side was the
+result of that award
+that was really geared at
+increasing the start up
+presence in continuing to use
+the new mexico um and with that
+grant we were able to support a
+company based in colorado to
+establish a presence in new
+mexico called misaquantam they
+are working with india on their
+technology and have hired here
+in new mexico and they wouldn't
+have been able to make that move
+and that growth without the
+support from the office we have
+added a university research
+commercialization award this is
+a program designed to
+specifically support
+technology developed within our
+new mexico institutions of
+higher education.
+And back who
+have developed a technology in
+their rule and need a pair shoot
+to make that leap of faith to
+commercialize that technology so
+this great providers grant
+funding and also
+entrepreneurship consulting
+because these are often folks
+who have not started a business
+of forum here familiar with tech
+business world and so we try to
+provide all of those resources
+to support the commercialization
+of the technology that they've
+worked on here in new mexico to
+stay a business here in new
+mexico
+we have watched in advance
+energy war were on the second
+round of that award that was
+worded earlier this year that
+has really been wildly
+successful
+the thing I must excited about
+with this award this was the
+first time that we really
+increased the amount that we
+were making in our words
+buyer by a significant i'm out
+and it really has shown the
+impact that can have in
+companies really able to scale
+to higher to really advance
+leaps and bounds to
+commercialize their technology
+here in new mexico so that has
+been has proven to be a great um
+example of additional ways that
+we can support our
+commercializing tech here in new
+mexico
+we also awarded funding i'm
+similar to you at synergy ward
+for pilot demonstrations of
+technologies in energy and water
+we were looking to support folks
+who had a technology that was
+proven at what we call at bench
+scale arm so the science was
+proven but it hadn't been done
+at scale or piloted
+and so we supported two programs
+in
+southern new mexico both in
+donate county
+working with water treatment are
+and one also was working with
+energy production so those are
+just continuing to move forward
+and have been a really exciting
+roadmap for additional potential
+projects.
+Then we launched two new
+programs
+recently just a couple weeks ago
+with new funding that was
+appropriate about the
+legislature and twenty twenty
+five.
+And those funds are really
+intended to support the
+ego system the infrastructure
+that the entrepreneurs and folks
+in science and take your new
+mexico are working with it so
+the innovation hubs grant is
+providing funding for physical
+infrastructure for folks
+providing services
+for saying to tech
+commercialisation and company
+advancement and the
+entrepreneurship programmatic
+support grant is as it sounds
+are provating funds for
+programming and support services
+branch printors and folks
+commercializing technology.
+We are also looking at as soon
+to be launched irrespace
+specific programs similar to our
+advanced energy award and
+piloting one specific for error
+space
+I mentioned one of our programs
+is our business assistance
+program so this started as a
+pilot last for school year and
+has continued this fiscal years
+but program
+so as I mentioned earlier where
+a small team and so to expand
+our capacity in the resources
+that teos able to provide we
+have four sector specific
+contractors
+who provide business assistance
+to new mexico start ups in those
+sectors and that has been a
+really arm positive impact.
+In the
+twenty.
+Twenty four sorry i'm just
+checking my math in my head I
+think
+legislative session yes
+we were ed was appropriate
+funds
+for strategic plans for our
+science and tech focus and we
+are through a competitive
+process selected firm called
+economy
+there had quoted in ohio
+they originated as the in house
+economic development group of
+batell who some of you may be
+familiar with the television
+national labs
+and that was part of what really
+appealed to us about them
+besides the rest of their
+proposal but
+as many view are familiar at the
+national lobs are a very central
+part to new mexico science and
+technology strength of it is
+very orangey heavy and so
+folks who understand the
+opportunities but also
+limitations of what it means
+when labs and render the center
+of a other states saying to take
+equal system was really critical
+and so they recently completed
+their science and tech roadmap
+for us we asked them to answer
+the question of which science
+and tech sectors is new mexico
+best suited to and what levers
+do we need to poor to advance
+those and it was just recently
+committed are sorry completed so
+will be officially rolling out
+all the details of that very
+soon and getting it to all of
+you of course
+and i'm really excited about the
+results of that it really
+affirms the direction in which
+were headed but also lays out a
+framework for continued in
+future investments
+that roadmap found a identified
+three existing
+growth opportunity strengths
+those are a quantum systems and
+applications advance energy
+technologies and space error
+space and defense systems so
+again this is great that's a
+affirms that we are going in the
+right direction with a lot of
+the things that we are doing
+and it also identified to
+emerging growth opportunity
+areas these are areas where the
+inherent strength aren't.
+As great but there is
+opportunity there if additional
+elements and investments come in
+and those are buyer science
+innovation and agricultural and
+water tech and excess.
+One of the key roadmap
+recommendations
+is to establish targeted
+industry center for those three
+identified strength areas
+offering comprehensive economic
+development services and
+coordination
+I was really excited to see that
+as a recommendation because
+again that is what we were
+appropriated funding to do
+in the twenty twenty five
+legislative session specific to
+quantum and so that's kind of
+our first step down that path
+and that is what we have started
+to do with our quantum hub and
+so I think many of you who
+hopefully have sar our
+announcement yesterday and so
+earlier this year the state held
+a competitive process requesting
+proposals
+to deploy twenty five million
+dollars for a quantity in video
+studio and quantum company hub
+and selected a proposal lead by
+robert venture studios uh in
+that process and made that
+announcement yesterday
+and I go tell you i'm so excited
+about what this is going to do
+it's really going to be amazing
+so it's a twenty five million
+dollar investment from the state
+thank you to the legislature
+it's gonna create new quantum
+start ups here in new mexico and
+attract quantum companies to the
+state for private capital and
+clab I think you just heard from
+jakin and our driver about why
+this is exciting why this
+matters why this makes sense in
+new mexico
+and I know in conversations with
+jake and other folks that's
+india and folks at the labs and
+the university is that v
+interest that they have received
+separate from the interest that
+the state has received but that
+they have received from
+companies and leaving
+researchers in this field when
+we announced this investment has
+been huge and so folks all over
+the place in this field are
+really excited about the the
+work that's happening here in
+new mexico and the investment
+that's happening here new mexico
+so this awarded proposal is a
+coalition.
+It's flooded by road runner of
+interest studios but includes a
+lot of folks
+it comes with an additional four
+million dollars in a private
+capital commitment which was
+really critical
+quantum technologies are a
+capital intensive field as are
+many you know hard tech science
+and tech fields but particularly
+quantum and so to be able to
+properly
+create new companies in this
+field there needs to be the
+state needs you know assurance
+that there is are also
+additional private capital
+commitments who are interested
+in willing to make investments
+in the start ups that are
+created in this building new
+account
+and that was part of their
+proposal which was great and so
+what is this quantity hub going
+to do
+it's going to have a variety of
+elements going to have a multi
+node quantum network dilution
+refrigerators acquaintant test
+bad quantity packaging facility
+a demonstration facility and
+rapid prototyping center one of
+the great things about this
+proposal why it was selected is
+because it does a great job of
+integrating and collaborating
+with the existing assets in this
+field that are already taking
+place in new mexico so we're too
+small to be duplicating efforts
+and I think we all hear this a
+lot about indicatives in new
+mexico where things are siloed
+or do plicative and so we really
+wanted to try and get this rate
+from the get go on this one and
+not duplicate efforts not to
+have folks you know going to the
+same destination in different
+lanes we really wanted to carpon
+so this campus is going to co
+locate the packaging facility
+that was ordered funding in the
+federal big quantum tech
+and is also going to serve as
+the headquarters for the
+recently announced quantum new
+mexico institute
+this hub has immediate effect on
+the size and presence of the
+quantum in street in new mexico
+so
+last year we had arguably zero
+quantum industry presence we had
+incredible assets rate that you
+all have heard about.
+Many times but we didn't have
+the industry presence and that's
+what the state has been working
+to do is to turn those assets
+into industry to have economic
+impact and tax revenue and
+growth for at the state
+this program this hub ah an
+awarded proposal immediately
+brings three new quantum
+companies into new mexico quera
+maybell in connect really
+excited about all three of those
+have a really great presence
+in the field and the coalition
+is very bright as they mentioned
+earlier so it includes all their
+quantum it includes both of our
+national labs are includes the
+university of new mexico at only
+mention those capital
+commitments which are from nat
+nation leading venture capital
+firms dc playground and
+continuation which is a quantum
+specific focused firm
+so this have was just announced
+yesterday thing or so a lot to
+be done a lot to kick off a lot
+of movement happening so it will
+include a quantity venture
+studio which means venture
+capital investment funds
+founders and residents so kind
+of wrap round services for
+company founders and it also
+include a physical space where
+all of these labs are going to
+be house
+of this physical collaboration
+space we're really excited about
+you know we we call it collision
+right where folks from maybe you
+not working on the same things
+but are working in a shared
+environment
+and that creates new potentials
+new possibilities because they
+run into each other have
+conversations and so this
+facilities get a comedy up to
+eighty
+people working there once it's
+completed it will be located in
+downtown albuquerque
+at five twenty three commercial
+it's right in your bill immerial
+coffee if anybody knows where
+that is very near broadband or
+studios headquarters
+and we are really thrilled about
+this being really an anchor for
+the quantum industry in mexico
+for company creation for
+researchers to come and clab
+rate though that's the other
+thing i'm really excited about
+is the way it will unlock
+collaboration between folks.
+From the university and from the
+labs so if you work at the lab
+very hard to bring folks behind
+the fence to collaborate with
+you on things this facility will
+allow and the this facility and
+the collaboration from india and
+land all will allow research is
+to come outside the fence and
+work in this area to collaborate
+with researchers from the
+university
+individuals and they're start
+ups and really allow for that
+cooperation and advancement of
+technology
+i'll leave you with just a
+little snippet of of the office
+in action I think this is a
+great just sort of example of
+deposit of impact that we can
+have this is that a small level
+but it's a great example
+there is a company called yo ego
+safe they are making an
+environmentally friendly
+larger side for mosquitoes
+targeting mosquito born illness
+and it's based off of technology
+from the receive new mexico and
+the folks commercializing this
+technology were fully planning
+to take the company to florida
+and commercialize it there
+but then they learned about the
+grin offerings from our office
+and they applied for and
+received our university
+commercialisation grant which
+also requires that they stay
+here for these are tax per
+dollars we want that businesses
+to stay here
+and that was the start for them
+and for that from there they
+have received
+this grant all of these
+resources connection with the
+community and have explicitly
+said you know they wouldn't be
+here building that company in
+new mexico worried about for the
+resources from the state and so
+we're really proud of that as an
+example of what we're doing the
+efficacy of what we're doing in
+the continued potential impact
+of what we're doing and are
+gladly take any questions
+thank you very much will start
+with representative.
+Thank you thank you ignore it's
+really exciting to see how
+spilled twenty from the twenty
+five legislature actually
+zooming into employmentation
+thank you I just can you tell
+everybody what you're the vice
+chair the vice president of in
+that entrepreneurial nationwide
+group.
+Yes thank you
+matter chair and represent it
+for renting me
+there is an organization called
+right to start that time you may
+be familiar with that really
+focuses on supporting an
+enabling business creation and
+entrepreneurship across the
+country and they have lunch
+something called the national
+entrepreneurship leaders network
+and that is comprised of folks
+leaving offices at state levels
+that focus on entrepreneurship
+and business creation
+and so I joined that earlier
+this year and they recently
+asked me to be a co chair of the
+group on alongside my colleagues
+from michigan and kansas and
+spend a really wonderful
+opportunity to learn from other
+states and another folks doing
+some more work in other states
+of uh you know what has worked
+what has not worked to make
+connections or the national
+organizations that can be
+supportive and also has really
+been a great opportunity to
+highlight the work we're doing
+in new mexico um a lot of states
+are facing budget crunches and
+we have been very lucky to have
+new funding coming in to this
+kind of work and so frankly we
+are kind of the envy of this
+group because they're really
+excited about all the work that
+we're doing think you represent
+thank you and and i'm charges
+think it's important to realize
+when we have state officials
+working on this level
+it put us on the map and yet in
+another way so thank you just
+thank you for all the work
+you're doing
+thank you senator block.
+Thank you madame chair i'd like
+to think representative
+guarantee for a sponsoring
+legislation here that I support
+it is phenomenal on it should
+have passed through unanimously
+in both both houses quite
+frankly
+on your slide nora I and slide
+ten.
+Existing growth up to the areas
+space area space and defense
+systems.
+I think one thing that you
+didn't mention in your briefing
+maybe because your superstitious
+I don't know but there are some
+incredible news going on right
+now and i've been working with
+secretary black with some others
+on uh a game change here for the
+stated new mexico.
+In new mexico
+specifically real rancho my home
+town has
+the inside track to land.
+A company that's going to
+provide four hundred but about
+four hundred jobs in this can be
+a company that's producing
+hypersonic missiles for
+nondashnuclear deterrents and
+one of the things that is
+critical to our national
+security.
+Is we are way behind the chinese
+when it comes to hypersonics so
+this is a huge game changer
+where new mexico is going to
+have national implications in
+our in our defense.
+Because there's a huge thread
+out there we got to get this
+going quickly in secretary black
+long with i'll say the area
+economic development team in
+albuquerque uh county manager
+wayne johnson as well and
+there's one or organization i'll
+leave out the not happy with uh
+I think you probably know who it
+is but also want to think the
+governor.
+Uh for her help because on.
+Tomorrow were vote the county
+commission is voting on a
+hundred and twenty five million
+dollars b.
+Um to really put the nell on the
+coffin to land this company that
+beat up midland texas in two son
+arizona and this is a company
+that broke off or some people
+that broke off from spacex to
+build these hypersonic missiles
+are going to be building the
+missiles out here they're going
+to be building and mading the uh
+r v's and they are on a very
+very tight schedule to get these
+things out the door to get him
+on alert for our national
+defense.
+And maybe you left that off
+because you're just waiting for
+the company that say yes but I
+think we're going to be having a
+a great announcement.
+Out here and real rant out there
+and real rancho so I don't
+really have a quite well maybe I
+do have one question but I want
+to think your department for all
+the help rob black has been
+phenomenal so thank you for that
+my question then is how do we
+based on like this particular
+incident that i'm talking about
+with a lot of frustrations
+how do we get through some of
+the state government agencies to
+get things a lot quicker where
+we're not at risk of losing
+companies like this one that I
+think are coming here thank you
+madame share.
+Senator thank you for the
+question and thank you for
+bringing out that example
+absolutely is very exciting and
+very close
+yeah I think that's a great
+question I think that's one of
+the things that we are.
+Trying to address and and part
+of what we examined in our
+roadmap is how do we best
+insurer
+no wrong door
+for companies to access all of
+the information they need all
+the people they need but also to
+have streamlined one single
+front door rate so that they
+don't feel that they have to
+chase through so many different
+agencies I will fuel I said I
+will say that I feel we have
+started to make some progress in
+that so for example
+and the environment department
+have really built a very strong
+relationship with that with when
+companies are need to come in
+to talk about permitting
+requirements that they're going
+to pursue absolutely in this i'm
+sorry manager in the state land
+office is that's where we need a
+lot of help absolutely
+absolutely so I think that is
+something the status keen the
+aware of.
+It does have its difficulties
+but I I fully agree with you
+that that's something that we
+need to continue working on
+thank you very much in and i'll
+say this publicly I think
+landing this company is probably
+the most impact for the state in
+mexico probably since intel.
+Came here it's that is
+establishing the game changer
+for new mexico thank you madame
+chair and thank you nor to all
+the work you do.
+Thank you next we'll have center
+pedia.
+Thank you madame chair and thank
+you for all the work you do like
+I think we're all very pleased
+with that office and it that it
+takes real leadership I mean you
+stepped into that you made a lot
+happen in and it could have gone
+very differently had we not have
+the kind of leadership that
+you're bringing to it so thank
+you
+with regard to what I asked
+earlier you know what we did
+make an investment this year but
+I know that there's simply sort
+of start scratching the surface
+can you give us some sort of a
+preview of what the twenty six
+and twenty seven sessions are
+going to look like for your
+office and what are you wanting
+us to know about it this
+structure.
+From the funding in the other
+way standpoint
+manager center thank you for the
+question
+a few things come to mind.
+One would be so obviously the
+legislature and the state has
+made this initial investment in
+this quantum hub
+and I think it's really
+important the funding for that
+investment was one time funding
+was one year funding and I think
+it's really important that we
+don't you know
+dig a big hole and walk away we
+have to continue to invest in
+that and so I think continued
+operational funding
+for that venture would be really
+important to give it the best
+chance for success
+and for continued growth
+I think additional opportunities
+for investment in some of the
+areas identified in the road map
+so in those strength areas and
+additional hub and coordination
+efforts and stick won't
+initiatives in those strength
+areas to do a little bit of what
+I was just answering to senator
+block about of being
+a clarified front door for
+industry in those areas and to
+be able to best coordinate with
+that sect with the sector across
+the state
+the other thing that I would
+call out from the roadmap is
+commercialisation it's not
+included in my
+wides because we're we're still
+working on it frankly
+but one of the things
+specifically addressed by our
+contractors in this report is.
+New mexico's
+need to
+modernise I think child say
+there
+tech transfer and licensing from
+the her education institutions
+and I think that's something my
+office they don't have a full
+answer through you yet right we
+have taken this information in
+and we're working to best
+identify how to go forward and
+what steps we really need to
+take but I think looking to.
+Twenty twenty sixth maybe more
+twenty twenty seven uh but
+ideally twenty six legislative
+sessions to really have some
+crystalised
+recommendations and and steps
+forward to improve that.
+Okay that sounds great I I think
+I caught about twelve percent of
+that but i'm glad you know what
+you're talking about so that's
+good
+beyond that have you been
+scheduled or are you scheduled
+madam chair to present to the
+lfc.
+Manager senator I that's a good
+question I don't know if tap my
+head if so secretary and deputy
+secretary would certainly know
+so that might just be me not
+being up to date so madam chair
+let's make sure we find that out
+I can help you with that if you
+need a little bit of that help
+it just seems to me like we need
+to make sure that your front
+center in front of that
+committee also because that's
+where you're going to get the
+dollars that you're going to
+badly need to to keep in the
+building in the office and the
+step that you're doing so again
+just want to say thank you want
+to make sure that we understand
+what you're up to and then also
+that you get to lfc to make sure
+that we can continue the funding
+train that's going to need to
+happen to make all this happen
+so thank you.
+Thank you senator pope.
+The.
+Thank you madame chair thank you
+director sackett
+just a couple questions for a
+staffy I think this is great and
+I appreciate the leadership in
+the work that you're doing.
+Um could you talk a little bit
+about this grant funding and
+just
+a quick synopsis of the process
+of
+when you decide to make an
+investment I think
+I understand that all of these
+start ups they're not gonna be
+successful there's going to be
+failure but just want to
+understand what that is
+and then the money that we do
+have I i'd like to see more but
+just want to understand that a
+little bit and then second you I
+think you brought up the
+opportunity of what we have
+going on in our state
+then having some funding
+resources that other states
+might not have and I think it's
+just a huge opportunity for us
+to diversify our economy and so
+if you can talk a little bit
+about how we're maybe going
+about doing that outreach around
+the country with start ups that
+are even outside new mexico
+bringing them in thank you
+manager.
+I am chair senator think you
+both great questions
+so to first question the grant
+process what that looks like
+we go through a process of if
+we're creating a new program of
+identifying what our goals are.
+Who are we targeting who are
+reseeking to support with these
+funds we could agree manual and
+an evaluation process
+and seek applications once those
+applications come in
+so they are competitive grants
+proposals that as part of our
+agreement making ability and
+seat role
+so those applications come in we
+have a scoring rubric that we
+compile of what the state
+schools are
+with the sponding and we
+currently work with the up to
+your sea board the technology
+research collaborative board
+which includes saturday
+representatives from the
+universities and the labs as
+well as appointed members from
+the private sector
+and they assist the office with
+evaluation and scoring so that
+it's not just the office making
+this decisions
+we also receive technical
+guidance from the labs because
+we're not scientific experts in
+all of these builds so it's a
+competitive process that we
+evaluated we value with the
+grants on once they're awarded
+there are a number of
+requirements to be on the grant
+and the amount of money there's
+different requirements in terms
+of requirement to stay in new
+mexico for x amount of time for
+any expansion of relocation
+there has to be certain rules
+about that but we're really
+working to ensure that these
+state funds continue to have
+state impact so they've stayed
+in mexico
+have a majority of their staff
+in new mexico etc
+they have to meet certain
+milestones that they have
+identified as part of their
+application of what they're
+going to do with the funding um
+and we have a stringent process
+insuring you know they have to
+keep all records of how they're
+using the funds and give them to
+us so the work confirming how
+the funds are being used
+and that they are meeting their
+milestones and if those masters
+aren't being met then they
+aren't able to continue
+receiving funds and we receive a
+final report from all our
+grantees about.
+How the funds were used what the
+impact was additional highers
+etc so there is quite a bit of a
+process in place which is why
+the additional hiring is very
+critical for the office because
+as we're having additional funds
+with additional programming.
+And for your second question
+under respond economy absolutely
+so I think that is the the sort
+of um what is the underline of
+all of this work that we're
+doing is to grow the sectors in
+order to to diversify the
+state's economy um I think we're
+seeing real success I mean we've
+had some great examples of
+success recently continue nation
+leading quantum company
+expanding to new acts ago estate
+turning up a standing up at r
+and d facility
+the hypersonic vehicle a company
+that senator black mentioned
+pacific fusion we are also very
+closer uh you know they're
+considering albuquerque for
+there are indeed facility also
+would be several hundred jabs
+and so I think we're seeing a
+lot of advancement and success
+in new mexico bringing in this
+projects
+I will also give us to the state
+investment council which is
+often you know referred to as a
+potential tool and and asking
+how it's being willed it for
+this diversification and and
+company bringing in process
+and I think we are seeing real
+results with that there are
+a number of sac invested funds
+who we work with regularly
+because they understand that the
+sic have invested in the bc
+funds and that the sic wants to
+see results for new mexico and
+so we are are getting more and
+more outraged from those funds
+to talk about their company
+their portfolio companies what
+they're looking for and how they
+can expand to know we get a lot
+of new mexico curious and then
+we take those from mexico
+curious to new mexico committed
+and so we are seeing a lot of
+success kind of pulling on
+operative levers.
+Thank you madam chairman that
+you for the responses I I just
+think it's important and I think
+with what we've had with your
+only gas resources I think being
+able to invest those the
+diversify.
+Understanding the cost of that
+to our environment our health
+and just the volatility of it
+and what's going on around the
+globe there no matter what
+happens when I can build relying
+on that so I appreciate the work
+you don't thank you manager
+thank you.
+And if there is no other
+questions I have one quick one
+but it might be better for the
+next presenters or it might not
+even relate at all
+then we were gonna talk about
+the technology reading this
+gross receipts tax.
+Next deduction next arm are
+their tax incentives that you
+guys focus on rather than just
+your funding.
+Pauls are their text incentives
+you will get also from your
+department manager a good
+question so we I think I would
+say the ones must applicable to
+us are also applicable on a
+broader sense to the work that
+ed does and the manufacturing so
+are in d tax credit is a big one
+for us
+high wage job tax credit
+manufacturing investment tax
+credit
+I will also say i'll let the
+following percentages you know
+speaking detail on trigger but
+trigger a is tied to edit as
+well and are i'll just say it
+has been a fantastic program
+that we have seen incredible
+results from a and strongly
+supports it and it's
+continuation it's really a
+unique tool that the state has
+and we reference it and connect
+companies with with it very
+often
+because we're able to say that
+you have this unique opportunity
+to get technical expertise from
+two national labs there is no
+other state where you can do
+that and have that opportunity
+and so it's another kind of
+arrow in our quiver of why new
+mexico why it makes sense to be
+a new mexico company in one of
+the tools that they're able to
+take advantage of.
+Great that's what I was looking
+for thank you very much and
+there is no other questions and
+thank you or move on to our next
+presentation.
+But quickly committee
+um
+what's
+prove the minutes from our last
+meeting if I could have a motion
+I moved that we approved the
+minutes from our last meeting
+second thank you is there any
+objection.
+The minutes are approved in.
+Would you like before we go
+really quickly before regard
+next presenters we're going to
+get a brief comment from the
+former director for more secret
+former sorry former secretary
+of do it.
+Thank you madame chair my name's
+peter rantos and today I am
+wearing my
+board member hat for the new
+mexico tech council aware having
+the
+premier.
+Tech.
+A event in new mexico at a sandy
+of resort and casino september
+seventeenth called the new
+mexico tech summit and.
+You've each received an
+invitation each member the stcs
+are received in invitation to
+the summit in their inbox in
+your email
+along with the code to register
+we happen to have with us dave
+kissed in the past president of
+the new mexico tech some day can
+you say why they might like to
+join yeah this is a great event
+so the mexico tech council is
+pretty bride it brings together
+a lot of folks from the national
+labs universities in industry
+and this is a great event
+because once a year we get
+everybody together in one room.
+Which is a great way to just
+meet everyone and hear about
+what's going on in the state
+madam sure I forget if I
+introduced myself i'm peter
+mantas and thank you for the
+support.
+The.
+Great thank you so much.
+Sure yeah okay now we'll move
+under next presenters.
+To talk about talktalks about
+the technology reading this
+gross receipts initiative
+thinking man chair and members
+of the committee my name is
+david kisten i'm the manager of
+technology and economic
+development at sending a
+national laboratories i'm joined
+here today by canter stephen
+though
+manager my name is even though
+i'm with the fineman center for
+innovation at least almost
+national app.
+And so together we help lead the
+trigger program the text analogy
+readiness initiative the full
+name was the technology
+readiness gross receipts tax act
+credit which is mouthful are so
+we have shown that to trigger
+so really at its core
+triggers intended to help take
+inventions and know how out of
+the laboratories that were
+sending unless almost and into
+the private sector in new mexico
+this is funded through one
+million dollars per year per lab
+tax credit
+it expires in twenty twenty
+seven and so right now the way
+that this program works so
+provides a hundred and fifty
+thousand dollars ceiling for
+technical assistance to
+businesses that are located in
+new mexico and have either a
+license or a cooperative
+research agreement with one of
+the two apps
+since its launch we have worked
+with thirty four mexico
+companies that represent twenty
+three licenses and eleven of
+these cooperative research and
+development agreements.
+So our.
+Asking kind of what we're
+looking for this program is to
+increase trigger funding by one
+million dollars per lot per year
+for the next five years and then
+to keep that steady at five
+million dollars per lab per year
+for the next five years after
+that so through twenty thirty
+five.
+We believe that there is a rise
+in demand in the cute that we're
+seeing and in the companies that
+were working with
+as the programmatures and people
+start become more aware of the
+opportunity but also.
+An increase in demand and up to
+the receipts a cooperative with
+the sit on mexico so on programs
+like the studio downtown are to
+work with the fence companies
+like we're seeing in san
+francounty
+and through programs that the
+universities are running so one
+great example
+we're collaborating right now
+both flaps with new mexico state
+error had
+and they're working with
+utilities in southern new mexico
+to provide access to a live
+grade first start ups to be able
+to come in fly their new
+technologies on a live system
+that can get validated and put
+into active systems like p n m's
+more quickly and normally the
+sticks a number of years we
+believe that with you know
+technical assistance and access
+these resources we can cut that
+down our significantly so we're
+really excited about the
+expansion
+potential expansion but i'll
+suggest the the impact that
+we're seeing to date
+ultimately trigger has been
+delivering results we seem
+companies scaling raising
+capital and creating jobs.
+And it's been it's been
+incredible we actually i'd like
+to introduce so kyle gwen is
+going to be trying to say he is
+the founder of fast vision
+which is a company that offer is
+an inventory management and
+access asset tracking platform
+that was less since out of san
+dier is the beneficiary of
+trigger and so we could pause
+here maybe for questions but
+we'd love to have killed join us
+up here and yeah i'll thank you.
+Okay.
+So
+madam chair members of the
+committee my name is called when
+I am the cofounder and chief
+executive officer of that vision
+technologies.
+I've deep route here in saved
+new mexico my family actually
+homesteaded land on the
+beautiful august in planes and I
+was raised born and raised in
+northern mexico went to as to
+high school graduated from there
+in twenty fifteen where I went
+to the university of the mexico
+and was really introduced into
+the
+eco system that the state new
+mexico has to offer for each
+prenewers so much so that from
+my dorm room I started a company
+that agreed to a million dollars
+and your occurring cells that my
+dormant was actually above lobo
+rain forced kind of a great
+innovation center right downtown
+and from there I felt like that
+really kick started my career
+into where I am today uh I
+eventually spent two years at
+sandy and national labs learning
+about tech transfer and taking
+some of the great innovation and
+work that happens at these
+facilities and how it can take
+that and bring it into the
+private sector to improve the
+lives of not only the nation but
+also us as new mexicans
+eventually I left the laps
+started vast vision license to
+technology from the labs which
+enables us to create a very
+unique autonomous capability for
+tracking physical objects in the
+world so with a trip about the
+size of your finger we can do
+things like locate an item we
+can
+uh we can detect things like
+humidity gas pressure
+shifts and temperature and we
+can do all of this without a
+battery and we can read through
+metal we can read this through
+liquids we can read this through
+the ground and deploy in
+radioactive and incredibly
+hazardous environments allowing
+us to track objects and places
+that objects have not been
+tracked previously.
+So over the past twelve months
+we actually just finished up
+with our trigger projects back
+in april
+during that time we wanted to
+take our sensor which you know
+like I mentioned it's about the
+size of your thumbnel and we
+wanted to ensure that we could
+read gases so what we did was
+used that time and that funding
+to collaborate with two
+scientists at sandia to
+functionalize our sensors so
+that we could read hydrogen and
+each to gas and over the twelve
+months we successfully prove
+that so now we have a really
+unique capability and if it
+works for hydrogen it works for
+each to us we can functionalize
+it to work with many other gases
+enabling us to one of the main
+areas that we're looking to
+deploy and is actually
+radioactive waste tracking so we
+can prevent incidents that
+happen that the whip facility in
+twenty fourteen so our
+technology can help prevent
+things like that.
+The trigger project was very
+successful not only did we find
+these findings we also improved
+are redistance of our of arch
+chips once again you have to
+read them from a certain
+distance because they don't have
+an onboard battery and they
+don't operate off of wifi or
+they don't operate off of
+bluetooth it's completely a
+passive mechanism.
+And prior post trigger we have
+made three highers one software
+engineer higher and to too
+higher directly out of the labs
+who actually collaborated with
+on the trigger project and for
+the original creators of macage
+with that being set i'll take
+any questions thank you.
+Here you read are you already
+for questions absolutely
+little.
+Representative little.
+The.
+Thank you think you madam chair
+think you've for the information
+i'm curious in the the chip that
+can detect all of those a gases
+you talked about it madam chair
+uh he talked about it in in
+detecting them at the with
+facility for example that you
+gave I was just wondering if
+these might also be used to
+track those
+the transfer of of nuclear waste
+as they're making their way to a
+site.
+Thank you madam chair
+madame chair representative
+little thank you for the
+question yes this is kind of the
+the exact purpose of this
+technology so one of the
+challenges when tracking a
+canister of radioactive waste is
+that you have this intention you
+have an intense metal housing
+around it and on the outside of
+the container you can put
+tracking chips things like ultra
+frequency r fifty g PS and low
+energy bluetooth and that works
+fine because it's on the out
+outer housing of it and it's not
+being exposed to
+radiation and not only that you
+can also maintenance so sensors
+you can change their batteries
+but for the the instance that
+happened at the white plant was
+kitty litter was mixed into a
+container of radioactive waste
+which caused a chemical reaction
+which was pressure built up
+inside of the canister and it
+eventually erupted so are
+proposed solution that were
+currently working towards allows
+us to place our centers and side
+of the canisters so we can read
+through the metal we can monitor
+what's happening on the
+environmental aspects on the
+inside of it while also
+providing those same autonomous
+tracking capabilities that an
+external tracker could provide.
+Thank you very much for that
+response that's the end of my
+question thank you
+thank you.
+Representative carried
+thank you madame chair so that
+ask is extending the one million
+per level.
+Er for three more years and then
+upgrading it or increasing it to
+five million a year correct yeah
+thank you so many representative
+so that the request right now so
+the program expires in twenty
+twenty seven what we would like
+to do is to increase starting
+next year by one million dollars
+a year per lot for five years
+and then at five years just
+maintain the set amount of five
+million dollars per live for
+another five so it would be a
+ten year extension essentially
+and as going up to.
+To the five million per lap and
+so the idea I think is that
+we're seeing to increase the man
+we want to make sure that we're
+scaling responsibly here
+and that we're growing into it
+but we we do believe that we can
+get to the point where we are
+fully expending five million for
+a lot per year.
+Thank you thank you.
+The.
+Thank you senator pope
+thank you madame chair
+I I think in on fully supportive
+of extending this and increasing
+this can you talk a little bit
+about I guess the demand for
+this funding has there been some
+start ups or.
+Um
+of these programs that maybe
+you've had to turn away that
+look promising he talk about
+that I guess just really the
+need for this funding thank you
+manager thank you madame chair
+asked and I report so what we've
+seen now i'd through since the
+beginning of trigger it's been
+an escalation so as companies
+become more aware of the program
+and as we're connecting with
+some of the the great work that
+nor a second and her team are
+doing so this was the first year
+that us we got right at san dier
+we reached full allocation
+and so we did have to put
+projects off until next year and
+so this was the first time we
+saw that I we believe we're
+going to get to full allocation
+across both labs in the next
+year
+which is very exciting
+but we also want to make sure
+that we are growing and not turn
+away projects like best vision
+they have the potential to you
+know at new jobs and and
+creative ventures in the same.
+So yes we are starting to see it
+and we think with programs like
+the quantum studio
+we are going to have to turn a
+lot of folks with next year.
+Manager and senator pope if I
+may talk a little earlier about
+you know not all start ups being
+successful in trigger is really
+one of those programs that can
+do risk the technology so that a
+company can be successful
+and so just to kind of follow on
+and that one of the the programs
+we run that call as a part of
+his new mexico lab embedded
+entrepreneur program and trigger
+it supports the technical are
+collaboration
+and what work we've seen in the
+last year is a hundred and
+twenty nine percent increase in
+start up supplying to our
+program and so we had to turn
+away about twenty company is
+that i've applied this year to a
+program.
+Thank you madame chair this i'll
+have
+thank you represent a little
+thank you madame chair I have a
+cook follow up question and are
+you able to give us an estimate
+understanding of the cost of
+those tracking devices I
+understand that they are they
+will to technology will improve
+and as production comes out but
+can give us an estimate thank
+you manager.
+Think you made a chair and think
+you representative little so the
+cost of the centers were using a
+pretty standard micro
+electronics and mechanical
+system manufacturing process
+where we can utilize six inch
+soul can wait for its all the
+way up to twelve inch silicon
+wafers and then we use a
+lithography mechanism to place a
+tiny resonator made of a magnet
+to a lastic material on the
+surface of the resonators and
+then we are then we cut those
+out and dice up the and then we
+dish up the waifers
+so at skill I mean even in small
+batch production like we're
+doing now we're actually in the
+process of building a small
+facility rate here in
+albuquerque where uh this
+manufacturing will take place
+and even in small batches rate
+we're talking less than a dollar
+per percent and then if you were
+to take that to scale your
+talking sub twenty cents subten
+cents depending on what the
+center is functionalities to
+deal.
+The.
+Thank you very much I appreciate
+that information thank you
+madame chair.
+Thank you.
+If there are no other questions
+I have a few I also serve on the
+senate standing tax committee in
+the interim tax committee and at
+our last meeting weeks ago a few
+weeks co.
+We had a
+the legislative finance
+committee I was doing reports
+now that they called tax e which
+is a tax expenditure assessment
+and they had just published one
+about this credit.
+And it's on the legislative it's
+on the legislative website on if
+you've seen it.
+Sunlights that website under the
+legislative finance committee
+and under economic development
+and something else it's not the
+easiest place to find on our
+website
+but the way this report breaks
+down the tax credit.
+Doesn't.
+Make it sound as beneficial as
+this does and from what
+everything you're saying right
+now.
+There's I don't think it's
+conflicting or anything I just
+feel like the way the lfc looked
+at the data is analyzing it just
+differently than the way you
+guys are presenting it um and
+you haven't seen this rate this
+no okay that makes sense it
+would be published in july so
+it's pretty recent but I guess I
+would just suggest that you guys
+definitely try to present the
+same thing to the two restaurant
+the revenue stabilities station
+in tax committee.
+There's something else in there
+for
+because I I feel like one of the
+things rest up is looking at
+also this interim is the
+benefits of all these different
+types of tax credits across the
+state so it'd be really good to
+have this type of presentation
+for the members of that
+committee as well.
+Thank you I don't and I don't
+think I have any questions
+because those have done a great
+job explaining everything and
+it's also really good to know
+you said you didn't have you
+were you had to turn on twenty
+applications and have of resend
+here I have to look at the exact
+number thank you
+okay and then if there are no
+other questions
+then thank you very much for
+your presentation you think.
+Yeah.
+The.
+Ian just a few minutes
+learn about our offsite tour and
+then we'll have lunch and we
+will stand in recess once we
+hear what we're our gender will
+be like.
+The.
+Just kidding me will stand in
+recess now as we learn about
+what else the committee will be
+seen today thank you.

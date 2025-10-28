@@ -1,0 +1,6069 @@
+All right.
+Hello everybody. Thank you for
+being here today.
+Because
+and um committee members, so
+thank you for being here today.
+I think it's gonna be a great
+committee with electricity, all
+about electric, so um let's
+start with um introductions with
+the representative Chandler.
+Thank you, Madam Chair, um,
+Representative Christine
+Chandler, um, House District 43
+from Los Alamos. Happy to be
+here today.
+Good morning to everyone. My
+name is Nancy, Senator Nancy
+Rodriguez.
+Uh, good morning. Thank you,
+Madam Chair. My name is Jason
+Harper. I represent the uh
+Rancho area in Sandoval County.
+And I drove my New Tesla Model 3
+performance up to today. So I'm
+very interested in the program.
+Thank you.
+Thank you, Madam Chair, State
+Senator Harold Pope Junior,
+District 23, Northwest
+Albuquerque. Happy to be here
+and uh on the road, but.
+We're going to
+Good morning. I'm Bill Souls,
+state senator from Las Cruces. I
+appreciate that you put, as I
+always introduce that I
+represent the beautiful Oregon
+Mountain desert peaks National
+Monument area that that's on the
+screen up here. Those of you,
+uh, I came up here going about
+160 miles an hour flew up this
+morning. It was gorgeous.
+You represented Allison.
+Good morning. Thank you, Madam
+Chair. Anthony Ellison, I
+represent District 4 of which is
+in.
+The northwest part of New
+Mexico. Thank you.
+Good morning, Madam Chair, and
+those on the webcast. I'm
+Senator Shannon Pinto. I
+represent District 3, which is
+in the northwest corner.
+Good morning, Madam Chair,
+colleagues, and those on the
+webcast, I'm representative
+Wanda Johnson. I represent House
+District 5, McKinley, San Juan
+County in northwest New Mexico.
+Thank you.
+Thank you. Um, I'll wait for
+Mark to finish, but I am Debbie
+Saignano. I represent House
+District 21 in Bernalo County.
+I'm very excited about. We'll
+keep going with Mark and
+introductions of.
+Madam Chair, yes, uh, my name's
+Mark Edwards. I'm with the
+Legislative council Service.
+Ralph Vincent's over here in the
+corner, also at the LCS, the
+Sabinena Gaynor, uh, who is
+gonna be
+Shuffling back and forth
+between.
+Here in
+Another uh workstation.
+All morning is also with CS.
+Yes, Calo is a.
+All right. So our first
+presenter.
+Um
+Adam Chair, do you want to
+improve minutes?
+We don't have yet? OK, I thought
+we had a.
+Sorry, apologies.
+All right, we're gonna go ahead
+and begin with our first
+presenter full um build out of
+electric vehicle charging
+infrastructure identifying
+pieces of the puzzle. Miss Kilo,
+um, whenever you're ready.
+Yeah. Um, hello. First of all,
+can everyone hear me? Can I just
+get an audio check confirmation,
+please.
+You're coming through loud and
+clear.
+OK, wonderful. Thank you so
+much. Um,
+So, good morning. Thank you all
+for joining. Um, really
+appreciate the time today to
+present, and I will be, uh,
+starting off this committee
+meeting by presenting on the
+landscape of electrical vehicle
+charging in New Mexico. Um, this
+should serve as a nice primer
+and foundation to uh get y'all
+warmed up and excited for the
+agenda for this committee, um,
+and really just lay a
+a nice overview of the basics of
+EV charging and where things are
+in New Mexico. Uh, next slide,
+please.
+Great. So I am the
+transportation modification
+policy advisor at Western
+Resource Advocates and Western
+Resource advocates is a regional
+conservation non-profit, um, we
+do work on clean energy, land
+conservation, and healthy
+rivers, um, in the intermountain
+west. And so our goal is to
+fight climate change and its
+impacts to sustain the
+environment, economy, and people
+of the West.
+Next slide, please.
+And so, as you can see, we work
+in the Intermountain West,
+including in New Mexico, um, and
+our work occurs on the state
+level primarily and so we have
+the pleasure of working with
+state legislators like
+yourselves, um, as well as with
+state agencies and commissions,
+um, with local governments, and
+then we also do quite a bit of
+work with um public utilities
+commissions, including the PRC
+in New Mexico. Uh,
+And so we also work with
+community partners and other
+organizations, uh, to promote
+the policies that help us reach
+our goals of fighting climate
+change and its impacts, so
+that's just a little bit about
+myself and WRA. Next slide,
+please. Great. So for this
+presentation, I'll go through
+the agenda of what we're gonna
+talk about really quickly. First
+of all, we are going to do
+everyone's favorite thing, which
+is acronyms and definitions. Um,
+And then we'll talk a little bit
+about the basics of the
+different types of electric
+vehicle charging. We'll talk
+about relevant federal policies
+for electric vehicle charging.
+We'll talk about state policies
+in New Mexico, and then we will
+talk about looking forward, um,
+and what the anticipated
+landscape of EV charging in New
+Mexico is going to look like.
+So, let's do the acronyms, um,
+the first
+one is I would say the most
+important one, which is EV
+electric vehicle, and so that is
+a motor vehicle where
+It is able to have its primary
+or secondary source of
+propulsion be either in a
+battery or a fuel cell, um,
+which converts hydrogen into
+electricity to propel the
+vehicle, um, and so within this,
+you can see there's that
+distinction between primary and
+secondary, and so a bev is a
+battery electric vehicle, so
+think your Tesla
+um
+And
+Any sort of vehicle like that
+where the sole fuel source is
+that electric battery and the
+way to fuel that vehicle is by
+charging it, and then you also
+have your peabs, your plug-in
+hybrid electric vehicles, and
+those are vehicles that have
+both a gasoline tank and then
+also have a battery on board
+that can be charged, um, by
+plugging
+in to either a wall outlet or a
+dedicated EV charger, um, and so
+that's really the
+differentiation between a
+plug-in hybrid electric vehicle,
+um, and uh conventional hybrid
+is that these plug-in hybrid
+electric vehicles have an
+all-electric range, um, and when
+that's depleted, they will
+switch to that gasoline fuel
+source. Um,
+So then, getting into the
+different types of EV charging.
+We have DCFC direct current fast
+charging, um, and so that
+utilizes instead of an
+alternating current, a direct
+current of electricity, and so
+those are what you think of when
+you think of EV fast chargers,
+um, those are the ones that are
+kind of at roadsides or places
+where people need to fuel their
+vehicles quickly.
+Uh, for road trips and things
+like that, they are also known
+as level 3 chargers, um, which
+segues nicely into talking about
+level one chargers. Um, so a
+level one charger is
+Really not so much, uh, a
+dedicated charger as just
+something that you can plug into
+a wall outlet, the same exact
+wall outlet, you would plug like
+a toaster or your phone into,
+um, and that can charge your
+vehicle as well. Um, and then,
+A level 2 charger is an in
+between, it uses a 240 volt
+outlet. So if you've seen those
+kind of bigger chunky outlets
+that you plug larger appliances
+like your dryer into. That's
+what that is utilizing. So it's
+a step up from your regular
+outlet, um, and it is able to
+supply a faster charge to those
+electric vehicles. Um, so when
+we're talking about home
+charging, generally folks will
+be using a level 1 or a level 2.
+charger. I don't know anyone
+that has a level 3 charger at
+their home because you really
+just don't need that, uh, that
+level of charging capacity and
+they tend to be
+Expensive beyond what a typical
+homeowner would want to put in
+their house, um.
+And then talking about the units
+of EV charging. Um, I know that
+folks are most likely probably
+familiar with gallons and MPG,
+and then when you make the jump
+into thinking about units for
+EVs, it's all in electricity,
+and so it's a bit like learning
+a new language, um, but the key
+things to know are kilowatt
+hours and kilowatts, so a
+kilowatt hour is
+The amount of power that it
+takes, uh, to power a 1000 watt
+appliance for an hour. So 1000
+watts equals 1 kilowatt and so
+it's 1 kilowatt of power
+supplied for an hour.
+is a kilowatt hour, so it's all
+kind of in the name, um.
+And then a kilowatt is the
+capacity unit. So, um, that is
+essentially for charging, which
+is the application we'll be
+talking about today. You can
+have chargers that have lower or
+higher capacities. So for
+example, a level 2 home charger,
+a very common capacity is 19.2
+kilowatts and so that is only
+capable of delivering up to
+Um, 19.2 kilowatts as opposed to
+uh more powerful level 3 charger
+which could potentially go up to
+350 kilowatts. And so that's
+able to dispense electricity,
+um, at a rate that is greater
+and has more capacity. Uh, so
+those are the key acronyms and
+units, uh, next slide please.
+Great. So I think that one
+really big paradigm shift when
+it comes to EV charging is that
+you're not just going to the
+equivalent of a gas station to
+fuel your vehicle. Um, so the
+most kind of 1 to 1 analog to a
+gas station would be a fast
+charger where uh you are pulling
+up in your vehicle and you are
+charging for like
+15 minutes to 45 minutes, an
+hour, and then getting back on
+the road, um, and you're
+probably as an electric vehicle
+driver, not going to do that a
+lot because frankly, you have so
+many other options of where you
+can charge that are kind of
+better aligned to the charging
+use case that you need and so
+that like gas station model of
+charging is largely going to be
+relevant, um, for
+fo lk s that are on road trips
+or doing really long drives
+where they need to top off their
+EVs and recharge them. Um, but
+what I would say is the most
+common in the very commonly
+cited statistic is that 80% of
+EV charging happens at home, um,
+and that's either on a level one
+charger, which is just the
+classic wall outlet, um, or a
+level 2 charger, which is a
+drier outlet type charger, um.
+Um
+That's where a lot of charging
+happens because for most folks,
+they can charge their car while
+they're at home while their car
+is just parked, um, and that
+will give them plenty of range
+for their daily driving needs.
+Um, if you commute like 30 to 40
+miles round trip and you get
+home and plug your car in, um,
+you're good. You will not be
+needing to make a trip to a
+public uh fast
+charging station to be able to
+do that. Um, you will
+essentially start every single
+day with the equivalent of a
+full tank if you want to, if you
+have a home charger, um, at a
+level 2 home charger. And so,
+For most folks that have an EV
+one of the really appealing
+things is being able to charge
+at home and to not necessarily
+have to go out and refuel their
+vehicles. Um, so you can see on
+the slide, the bottom two
+photos, uh, we have kind of just
+the classic 120 volt wall box on
+the left, and then, um, more of
+a level 2 setup on the right.
+Um, and I'll also
+some note that something that is
+being deployed is more and more
+charging at multi-family
+residences. So the upper right
+photo, you can see that it's
+kind of a parking lot set up and
+that there are level 2 chargers
+installed there as well. Um, the
+other kind of fun thing about EV
+charging is that there's public,
+uh, level one or level 2 EV
+charging.
+That's cited in places where
+you're just gonna park your car
+anyways. Uh, so for example, for
+me, uh, my gym has an EV charger
+in front and, you know, if
+you're gonna be at the gym
+working out, your car is gonna
+be parked there anyways, and so
+it's extremely convenient to
+just plug your car in, and then
+when you're done and ready to
+leave, you unplug your car and
+while you have been at the gym,
+um, your car has also been
+getting refueled.
+And so
+We're seeing more and more of
+this co-location of level 2, not
+fast charging necessarily. Um,
+being at amenities like grocery
+stores, movie theaters, um,
+parking garages and places where
+cars are going to be parked for
+a decent amount of time, and so
+it's possible to refuel the
+vehicle while the car is already
+just just there, uh, most of the
+time.
+Cars are, are actually just
+parked, they're not driving and
+so EV charging that is
+strategically cited, can really
+take advantage of that and kind
+of fit charging into people's
+lives as opposed to them having
+to go out and kind of do this
+gas station model where you go
+to the gas station to refuel and
+then you leave the gas.
+Next slide, please.
+Can I get the next slide,
+please?
+Thank you.
+So to expand a bit more on
+charging speeds, um, we've
+covered them briefly.
+But level one, you're plugging
+into regular 120 volt outlet,
+and that's going to deliver 3 to
+5 MPH, um, depending on your
+vehicle.
+So if you have a larger vehicle
+like um the F-150 lightning or
+the E-hummmer, um, you're
+probably gonna get towards that
+lower range just because it's a
+larger vehicle and you'll need
+more electricity to power it,
+um, to go the equivalent amount
+of miles as something that's
+smaller, like a Volkswagen ID4
+or a Nissan Leaf or something
+like that. Um.
+And then with the level 2,
+you're plugging into a 200 volt
+outlet, um, and that will
+deliver
+Around 15 to 50 MPH, um, and
+that's a really wide range. And
+so what that depends on is the
+kilowatt capacity of the
+charger, uh, most level 2 home
+chargers that are sold, um, are
+generally 19.2 kilowatts, um,
+maybe you're gonna get towards
+the higher end of that range,
+uh, but if for whatever reason,
+um, you have a lower capacity
+charger, you will get
+Towards the lower end of that
+range.
+Um, and one thing that I will
+add that is really cool in New
+Mexico is that because New
+Mexico has adopted advanced
+clean cars too, um, all electric
+vehicles.
+That are sold in New Mexico are
+required to come with a charging
+cable, so that, uh, if you are
+someone who buys an EV and
+doesn't want to install a
+dedicated EV charger, your car
+comes with everything you need
+to plug it in to um a level one
+or level 2 charger. Uh, so
+that's a perk for New Mexican
+consumers that they don't
+necessarily have to go out and
+spend money on getting charging
+installed.
+Um, and then, as we discussed,
+level 3 or direct current fast
+charging, uh, that's, that's
+kind of the big guns of EV
+charging, those chargers are
+480, um, and up in terms of
+their vaults, um, and they can
+deliver 50 to 350 kilowatts, uh,
+that's their capacity. And so
+the charging speed varies based
+on vehicle capacity and charger
+capacity, um,
+We're seeing that vehicles are
+able to accept a greater,
+greater capacity charging, and
+so, um, a lot of older EVs, the
+maximum that they can accept is
+50 kilowatts and so they're a
+bit slower to charge, um, at
+these fast charging spots, but
+we're seeing that newer vehicles
+that are coming on the, on the
+market have increased, um, the
+charging capacity that they are
+able to do.
+And so 150 kilowatts, 250
+kilowatts, and then kind of the
+top range that we're seeing is
+350 kilowatts. I'd say it's
+pretty standard to be able with
+new models to um to have that
+150 kilowatt maximum, and so
+basically the way that that
+works is there has to be,
+there's a matchup that occurs
+between the vehicle and the
+charger. So, say that you pull
+to a 150 kilowatt charger, but
+you've got an older model EV
+that you purchased maybe 4 or 5
+years ago, and it's only capable
+of accepting 50 kilowatts, uh,
+you're not out of luck. What's
+gonna happen is that that
+charger will only dispense uh at
+a 50 kilowatt capacity to fuel
+your vehicle. Um, and then,
+Your vehicle battery management
+system communicates with the
+charger so that the charger is
+not trying to send more
+electricity than the vehicle can
+actually accept, um, and then
+similarly, if you have a vehicle
+that is capable of
+Uh, 150 kilowatts and you pull
+up to a 50 kilowatt charger, you
+are only going to be able to get
+uh up to that charger's capacity
+and so the charging is actually
+going to be a bit slower than
+what your vehicle could
+potentially handle. Um, but if
+you pull up to a 350 kilowatt
+charger in a vehicle that is
+capable of accepting up to 150
+kilowatts, um, the vehicle and
+the charger will again
+communicate and
+that charger will dispense, uh,
+150 kilowatts. And so that's
+kind of cool that even though
+there's a variety of
+infrastructure, uh, and these
+chargers all have different
+capacities. Um, there is that
+communication between the
+vehicle and the charger so that
+the vehicle is getting charged,
+um, at an appropriate capacity,
+and the other thing.
+About these fast chargers is
+that in order to protect the
+battery longevity um of an
+electric vehicle at about 80% of
+vehicle battery, um, the
+charging speed will taper off,
+um, because with these batteries
+for their long-term health, um,
+it is, it is best for them to
+kind of have, have that charging
+pattern.
+Um, so as you can see, the
+bottom here will tell you kind
+of the relative speeds that you
+can expect from these different
+charger capacities for the level
+3 chargers. So for a 50
+kilowatt, you're gonna get
+around 90 miles on a 30 minute
+charge or 150 kilowatts, you're
+gonna get up to 200 miles on a
+30 minute charge and then for
+the 350 kilowatts, uh, over 200
+miles in
+About 20 minutes, um, although
+We do not yet have a lot of
+models that are on the market
+that are capable of accepting
+that capacity of charge, um, but
+it has been really exciting in
+the past couple of years that
+I've been working on EB policy,
+uh, to see all of these new
+models coming out that are
+trending towards longer ranges
+as well as greater charging
+capacities, um, that makes them
+better suited for a variety of
+consumer needs.
+Next slide, please.
+Great. So we'll get into federal
+policy now, and I know that uh
+there is a presentation by the
+New Mexico Department of
+Transportation on the agenda, so
+I'll just talk about this very
+quickly. Um, but one federal
+policy that is really exciting
+is the National Electric Vehicle
+Infrastructure Program and so
+through that program, New Mexico
+was allocated a bit over $38
+million to have electric
+vehicle, fast charging.
+On many of the interstate, um,
+and highway corridors within New
+Mexico, um, for each of these
+charging sites, there has to be
+a minimum of 1004, 150 kilowatt
+chargers, so these are kind of
+the middle ground fast chargers
+that are faster than the 50
+kilowatt chargers, um, and these
+charters also have to have 24/7
+365 public access, so that if
+you are driving and it's
+midnight, uh,
+You can still use that charger.
+Um,
+And the way that this program
+works is that New Mexico
+Department of Transportation is
+the program administrator, um,
+and so they identify sites that
+are needed, um, on these
+corridors, uh, and these
+stations have to be every 50
+miles and located within 1 mile
+of the designated route, and
+there are exceptions that can be
+made for extremely rural areas
+or areas where it maybe makes
+sense to have something.
+2 or 3 miles off the route so it
+can be co-located with amenities
+or something like that. Um, but
+essentially NMDOT releases the
+sites, uh, and then private
+market actors are able to bid on
+these sites, um, and receive up
+to 80% of federal funding cost
+share these sites, and they
+contribute the remaining 20% and
+because this is a federal
+program, um, once they sign that
+contract,
+That means that they are
+committing to reliability,
+access, and operation and
+maintenance standards for these
+stations so that uh the public
+can have confidence that these
+stations will be available and
+be working when they need them,
+and as you can see on the right
+in this map, um,
+New Mexico is really doing well
+and that they have already
+issued awards to build out some
+of these stations, and um they
+have subsequent rounds, uh,
+coming that I will surely let
+the NMDOT folks, uh, speak to in
+their presentation. Don't want
+to steal their thunder. OK. Next
+slide, please.
+Great. So here we just have a
+map of this national electric
+vehicle infrastructure program,
+um,
+So for, for the first round of
+funding that has been awarded,
+that's 11.9 million of that 38
+million figure, um, and so you
+can see the routes that are
+highlighted are these
+alternative fuel corridors, um,
+where these National Electric
+vehicle infrastructure EV
+chargers will be built, and then
+on the right, you can see the
+awarded locations from this
+first round of funding, um, and
+exactly.
+where they will be in terms of
+the cities as well as who, uh,
+the selected parties were um in
+the competitive bid process, uh,
+To, to build and operate and
+maintain those stations. I am
+particularly excited to see
+that, uh, some of the EV
+chargers will be located at
+Allsops, uh, because those are
+delicious burritos, um, and so
+this is very exciting to see
+that these stations will have
+gotten their awards and will be
+beginning construction and um
+hopefully be available to the
+public in the near future. Next
+slide, please.
+So to highlight and some other
+relevant federal programs, um,
+that are encouraging the
+buildout of EV charging
+infrastructure, uh, one is the
+30C tax credit, um, and so that
+provides up to 30% of
+infrastructure costs, um, for
+certain census tracks in the US,
+um, and a wide, a very wide
+swath of the US has been
+designated as
+eligible, including much of New
+Mexico for those credits, um,
+and there's a map that you can
+look up on the IRS website that
+shows you which census tracks
+are eligible, um, but within
+those census tracks, you can
+claim a tax credit of up to
+$1000 if you are a resident
+installing a home charger, um,
+and up to $1000 for commercial
+EV chargers that are installed,
+um, and those numbers are going.
+To be the um the lesser of 30%
+of the total project cost or um
+$1000 or that $100,000 figure.
+And then there is also the
+charging and fueling
+infrastructure discretionary
+grant program, uh, what that is,
+is, it's a federal competitive
+grant program for installing EV
+charging both within communities
+to serve local populations, um,
+as well as long travel
+corridors, um, and there are
+many rounds of funding for that
+program, uh, but in the first
+round of funding for that
+program, New Mexico.
+got some pretty significant
+awards that you can look at
+below, um, so Santa Fe County
+was awarded a $3.3 million to
+build both fast charging and
+level 2 charging, um, including
+at a multi-family affordable
+housing units, um, and then the
+town of Taos also was selected
+for a community award, um, and
+they will be building 6 EV fast
+chargers.
+Um, in parking lots of community
+buildings, um, including the
+Taos Visitors Center, uh, so
+that's, that's pretty exciting
+to see that New Mexico
+communities are applying for
+this funding and being awarded
+this funding, um, and the
+eligible entities for this
+funding are like municipalities,
+uh, tribes, uh, and others. So
+there are a wide variety of uh
+entities that can apply for this
+charging and fueling
+infrastructure grant program.
+Next slide, please.
+So, moving on to state policies
+in New Mexico, um,
+As as of this year, there is a
+EV charger tax credit that is
+available, and that is a
+refundable as well as
+transferable tax credit, um,
+which is obviously very positive
+for folks that have lower tax
+burdens, um, for folks that
+Our, our entities that do not
+pay taxes, um, and therefore,
+generally are unable to utilize
+tax credits unless they are able
+to transfer those tax credits,
+um, so within this EV charger
+tax credit package, um, there is
+up to $25,000 for level 3 or
+DCFC fast chargers, and then
+$400 for level 2 chargers, um,
+and so this is exciting to see.
+that, uh, hypothetically,
+residents and businesses could
+be stacking the federal 30C tax
+credit with the state tax
+credit, um, to really
+incentivize growth in EV
+charging infrastructure, whether
+that's within homes, um, or in
+public places or workplaces.
+Um, and another thing that I
+will touch on, um, and I'm sure
+we'll be expanded upon by John
+Williamson from P&M who is also
+presenting today is that
+investor owned utilities in the
+state of New Mexico are required
+to file transportation
+electrification plans, um, that
+support a wide array of charging
+use cases, including
+multi-family housing,
+workplaces, uh, public charging,
+uh, residential charging,
+including
+specific offerings for low and
+moderate income customers, um,
+and these offerings, um, are all
+The utility presents a plan that
+is then litigated before the PRC
+and so there's lots of
+stakeholder input to really
+ensure that these plans are
+tailored to meet the needs of
+the utility customers and their
+service territories, and so that
+is another, um,
+Source of potential EV charging
+infrastructure programs that,
+uh, New Mexico residents and
+businesses can utilize. Next
+slide, please.
+Great. So, this is a slide that
+kind of tells you where we've
+been, and then where we're going
+with regards to uh both EV
+vehicle adoption, as well as
+charging infrastructure growth
+in New Mexico, uh, so you can
+see in the upper left corner,
+uh, that EVs in New Mexico from
+2021 through 2023, the number of
+registered EVs over doubled from
+just over
+uh, from just under 5000 to over
+10,000 vehicles. Um, and so
+that's really exciting to see
+that growth, but it also means
+that infrastructure needs to be
+coming along, um, to ensure that
+those vehicles are supported and
+the folks that drive those
+vehicles are able to go where
+they want to go and see all the
+beautiful parts of New Mexico
+that might be in more rural
+areas or harder to get to.
+Um, and so you can see on the
+right, um, that from 2012 to
+2024, uh, it's, it's rather
+exponential if you look at the
+growth, uh, over that timeline,
+um, but even just from 2022 to
+2024. Uh, there's been a lot of
+growth with regard to the number
+of public level 2 ports and
+public, uh DC fast charge ports
+and
+I will also note that this graph
+is exclusively about public
+ports, uh, so this doesn't
+incorporate any of the home
+charging that folks have
+installed, um, or charging that
+is potentially like behind the
+gate specifically for use per
+se, certain multi-family
+tenants, um, or certain
+workplace employees and so it's
+really, it's really hard to get
+those numbers, um, but from
+From this, uh, graph, you can
+see that public charging in New
+Mexico has been growing
+steadily, um,
+And even just in the last year,
+uh, things have really, really
+picked up with regard to the
+pace that it's growing, um.
+And then in the bottom left
+corner is an estimate of the
+types and quantity of uh
+charging that will be necessary
+to meet uh the EV projections
+that are in line with the
+advanced clean cars to rule that
+New Mexico adopted, um, so you
+can see that the large, large
+bulk of the charging is that
+home level.
+and home level 2 charging
+because
+That is, that is kind of the
+easiest place to charge if it's
+possible for residents, um,
+because you can plug your
+vehicle in and have a long dwell
+time there. Um, and that's,
+that's a very generally low cost
+charging as well since it's on a
+residential electricity rate as
+opposed to a commercial charging
+rate. Um,
+And then you can also see that
+for public L2 and uh public fast
+charging, the numbers that are
+needed for 2030, um, assuming
+these, uh, home charging numbers
+are met, are actually somewhat
+modest and New Mexico is very
+much on track to meet those
+numbers. Uh, this is for 2030
+and then 2024, New Mexico had
+319 public
+2 ports and so that's uh just
+over 30 ports to go in 6 years,
+which seems, uh, extremely
+doable, um, and New Mexico has,
+oh sorry, the public L2 has
+actually been exceeded for 2030
+already. Sorry, I, I thought
+those lines mixed up on the
+graph. Um, but I will, I will
+note that for all of these
+projections about the amount of
+charging that's needed. It's
+really hard to settle on just
+like one magic number, uh, for
+types of charging needed because
+if you have less home charging,
+um, or if you have folks that
+have different driving patterns
+and are frequently taking trips
+across the state. Um, you might
+actually need more public
+charging, and so there are a lot
+of really interesting models out
+there including from the
+National Renewable Energy
+Laboratory, uh, that can help
+you kind of look at
+different situations and the
+amount of charging that is
+needed, um,
+But this is just one example
+that I think is really
+illustrative that shows that
+most of the charging that's
+needed is going to be lower
+capacity charging for a long 12
+times. Um.
+Next slide, please.
+Great. So I will wrap up there
+and hopefully that gave y'all a
+nice overview of the basics of
+EV charging and where things
+stand in New Mexico as well as
+the policy landscape, uh, and I
+will open up for questions.
+All right, thank you for your
+presentation. Um, before we do
+questions, um, introduce
+himself.
+Oh, thank you, Madam Chair.
+State Representative Larry Scott
+from
+New Mexico House District 62.
+The far southeast corner of the
+state.
+Hobbs and Central Lee County.
+Pleased to be here. Thank you.
+Representative Hunan No new
+House District 19 in
+Albuquerque, Mexico. It's like
+the south
+Albuquerque area.
+We'll start with Representative
+Harper.
+Thank you, Madam Chair, and uh
+thank you so much, Deborah, for
+your presentation, um.
+Maybe just a a couple.
+Observations from my short time
+as a
+EV owner and then maybe a
+question or two, but um if we
+could go to
+Your slide on charging speeds.
+But uh
+Where it talks about level 1 and
+level 2 and level 3 chargers.
+Um
+Thank you. So, um, I guess my
+first observation is
+Um, level one chargers are
+completely useless.
+Um
+And, and they don't even include
+them anymore in Tesla purchases.
+If you want one, you have to buy
+it separately. It used to come
+with them, but they are.
+And really 3 miles.
+An hour
+I mean that means I have to have
+my car plugged in for like 3
+days before it's got a full
+charge, right? So, so no one
+really uses level one charters
+anymore. They're like a
+desperation thing, um.
+Um
+Yeah, but level 2 chargers, um,
+So I have one of those locks and
+then it was uh.
+$000 to install.
+But um
+Uh, those were great. Um, so I
+have about a 60, 70 mile
+commute.
+Round trip
+And I get recharged in
+Yeah, 30 miles
+Sandia, 3 miles back.
+Um, and I get recharged in about
+an hour and a half.
+Our car has a range of 300
+miles, and if I needed to go
+from 0 to 300, that's.
+Roughly about 5 or 6 hours, so.
+Yeah, I totally agree with you
+that.
+The vast majority of charging is
+done at home, and I
+appreciate them are a little
+sketch.
+Um,
+um.
+Uh
+Now, um,
+We took a risk, my wife and I,
+we, there was a concert in
+Denver. We went to the Hans
+Zimmer live concert, which was
+amazing. We decided we would
+take the Tesla and try it out.
+And uh when you plug in a
+destination in the computer.
+It will automatically plot and
+tell you where to stop for
+superchargers and how long to
+stay. And uh
+We stopped at a nice one in Las
+Vegas, New Mexico, it was right
+next to a maverick. I don't know
+about the nice restrooms and,
+you know, pick up a candy bar,
+um, and we, we needed to stop
+there for um 10 minutes and then
+we stopped again in Pueblo and
+then.
+Denver
+added about
+35 minutes to the trip, which
+was later that that year or this
+year we had um we need to take
+uh uh.
+A trip to Salt Lake City.
+I was gonna add about an hour to
+the trip and.
+It was a little
+timing was not so minivan for
+for that one, cause, you know,
+gassing up takes 5 minutes.
+Um
+But yeah, there's a lot of cargo
+space in those minivans though,
+um.
+So, I guess my
+Like
+Question is, you know, I, I, I
+really like, um, you know, the,
+the, the Tesla supercharger
+system and the app even, you
+know, when you're plotting it,
+it'll tell you, when you click
+on the charger station, it will
+tell you how many people are
+currently there, how many people
+are on their way. It gets the
+battery conditions, so it
+charges super fast.
+Um
+It's my, my.
+First question is, all these
+other
+Um, chargers that are going in,
+um,
+I is there kind of a similar
+Um
+Like infrastructure or system
+that uh.
+So be aware of those locations
+and and get that kind of
+information or is it really just
+a
+Um
+You know, Tesla specific thing.
+Thank you, madam chair and
+Representative Harper for that
+question. Uh, so first, I'll
+just very briefly address the
+level one. I will say that I'm
+not someone with a long commute.
+I work from home and so most of
+my driving is going to get
+groceries or see friends or run
+small errands, and so,
+For me,
+My, my car is generally at my
+house and so getting 3 to 5
+miles of charge per hour might
+not be a lot for someone like
+you, but it is absolutely
+sufficient for someone like me,
+and I'll also add that I am a
+renter. I do not own my home,
+and so that was a much easier
+proposition than having a level
+2 charger installed, um, which I
+was unsure if my landlord or I
+would bear the cost for that,
+um, and it just introduced.
+a lot of complexity to the
+situation, uh, and then onto
+your question Representative
+Harper, about, uh, kind of the
+way that superchargers have this
+great software system set up,
+uh, where you can see where to
+stop, uh, there is a free open
+source tool called a better.
+Uh, where you can input what
+kind of electric vehicle you
+have, uh, the state of charge
+when you are leaving and your
+preferred state of charge when
+arriving at your destination,
+um, and it will pop out the best
+route for you based on either
+quickest arrival time or if you
+want to do fewer but longer
+stops, um, or many uh quick
+stops, and then it will tell you
+which charters to stop at, and
+so that's a really exciting
+tool, um, and I know that.
+not
+Other charging operators via
+generally via their apps like
+Electrify America and EV Go, um,
+tend to have similar systems
+where some of them have the
+capability where you can look
+and see if a charger um is being
+used, or you could potentially
+plot out a route uh via their
+apps. Uh, I really like a better
+route planner because it isn't
+just one, charging.
+provider and so you get a view
+of all the different chargers
+and it plans for you where you
+should stop. Uh, but yes, to
+answer your question, there are
+various tools that are available
+that are similar to the
+supercharger tool.
+Uh, Madam Chair, and, uh, this
+is Kaelhoff, thank you, um, a
+better route, that sounds like
+something I should look into.
+That's, that's very helpful
+information, um.
+I think my, my last kind of
+comment and question, uh, Madam
+Chair.
+So just knowing that.
+You know, most folks are
+charging from home and if I'm
+not gonna stray more than 150
+miles in a day, you know, one
+way, I'm just gonna come home
+and charge at home.
+Um, I think
+Uh
+Having supercharging kind of
+high kilowatt charging stations
+in strategic places makes sense,
+like if you, you need to go on
+more of a road trip.
+Um
+But I'm thinking more about kind
+of the level 2 chargers that are
+just around cities.
+And I could see where maybe if
+someone's a renter, that would
+be helpful. Um.
+Uh, or if you just want to top
+off while you're at the gym, but
+I, I never need a chart top off
+when I'm in Albuquerque or Santa
+Fe or.
+Or Socorro.
+Um
+So, I guess my question is, uh,
+what, what's your, what's your
+take on like mandating
+businesses put in chargers
+versus letting businesses like
+your gym.
+Put in a charger if they would
+like to.
+Just from my perspective, I
+don't think a lot of those
+chargers when they're just
+Going around the city
+On a normal day.
+Mountain Cha representative
+Harper, thank you for that
+question. Uh, I certainly do not
+support mandating businesses,
+uh, putting chargers in. I will
+say something that I do support
+and I think is a very proactive
+and smart policy, um, is having
+a land use and building codes
+that require when new
+businesses, um, are being built,
+um, or if a parking lot is being
+developed or resurfaced
+Um, ensuring that there are a
+certain number of spots that are
+EV ready and so essentially
+that's not equivalent to putting
+a full charger in, um, but
+rather it just makes it so that
+if in the future, that business
+owner decides that they do want
+to put a charger in. Uh, they
+don't have to go back and
+essentially dig up that entire
+parking lot, which is much more
+expensive, um, and it adds a
+very nominal cost, um, to, to
+the building.
+Building owner, um, if you do
+that proactive policy, and so
+I'm very supportive of that, and
+I think that'll be helpful in
+the future as more and more
+businesses decide that they do
+want to offer EV charging as an
+amenity, um, either just as an
+amenity to their customers or
+they may partner with um private
+EV charging companies that
+install and maintain chargers,
+um, and collect a fee for that
+charging. Um,
+I will also add that in making
+these decisions about where to
+locate chargers, it's really
+helpful to look at the
+demographics of an area and
+better understand, for example,
+if there are a large quantity of
+folks who live in multi-family
+housing or our renters that do
+not have access to charging at
+home and then citing things
+strategically so that perhaps,
+you know, it's in the same
+neighborhood, and they
+could potentially just park
+their block, their car, like a
+block away, and then just walk
+back and get it. And so I think
+that
+This is a very squishy answer,
+but, uh, citing level 2 charging
+within cities, I think is
+something that requires a lot of
+understanding of that community
+and how to best serve that
+community with charging.
+Yeah, thank you, Madam Chair,
+and um and thank you for that
+answer, um, yeah, I.
+I, I agree. I think at this
+point it doesn't make sense to
+mandate it, um.
+Uh, especially since
+Again, in my case, I'm never
+going to use a level 2 charger
+when I'm within 150 miles of
+My
+My home, and if I'm going
+outside of that, I want a fast
+charger.
+Um
+I guess I would just caution us.
+um, I, I think is more people
+get EVs, you'll start seeing
+apartments.
+Listening to their tenants who
+want to have chargers, and
+they'll start putting chargers
+up.
+No, they'll be, they'll be, um.
+They'll be uh apartment
+complexes that cater to folks
+that have EVs and will have
+charters and that's where people
+will, will.
+Send their money. Um.
+Uh
+I, I just
+Even making a parking lot easy
+ready, I think.
+Just knowing my little
+3 ft
+Run of cable to install my
+charter cost to use it.
+I just urge caution. Let's make
+sure we're kind of data-driven.
+Um, if we
+Start going that, down that
+direction.
+Thank you, Madam Chair.
+I think your Representative next
+is Representative Chandler.
+Thank you, Madam Chair.
+I have a question that um arises
+after.
+Um, and what it was about is um
+individuals with electric
+vehicles arriving at a charging
+station and it doesn't work.
+And that prompted, um, you know,
+questions in my mind as to who's
+responsible for maintaining
+them.
+How does that all play out? Do
+these various apps tell you when
+a charging station is down, and
+if it does, I question whether
+how accurate that is, just
+having heard read a story about
+how Starbucks apps are generally
+inaccurate in terms of
+availability of certain kinds of
+beans, um.
+And remember, that's a profit
+driven company. So I, you know,
+I guess if you could comment on
+that and and this apparently has
+prompted some people for being
+reluctant, um, and to, you know,
+really going full throttle on
+some of the purchasing electric
+vehicles. Thank you.
+Thank you, Madam Chair. Uh, so,
+to answer that question, uh, I
+will say that I think I've read
+the same New York Times article,
+and I also found it extremely
+concerning. Um, there is a tool
+that a lot of EV drivers use.
+It's an app called Plugshare,
+um, and you can click on any
+urging location, um, and it will
+give you a score of the
+reliability and then you can
+also leave check-ins there.
+Um, and EV drivers are actually
+really great at leaving
+check-ins and so you can see if
+someone has charged successfully
+at that charger, um, or perhaps
+if they got to that charger and
+um the charging would not begin
+or they had trouble with payment
+or anything like that. And so
+that's a really cool, uh, kind
+of crowdsourced solution to this
+problem of um EV charger
+reliability, but I agree that
+that's definitely a band-aid and
+not
+to rely on. Um,
+One thing that I have seen
+emerge, um, is that more and
+more folks are getting trained
+to be EV charger technicians
+that are employed by these
+charging companies, um, in order
+to troubleshoot um and fix these
+charging issues that do arise,
+um, a lot of the time, the issue
+with an EV charger is not
+necessarily a hardware issue,
+but rather a software issue
+where it won't take your
+card or the charging will not
+initiate because of a
+miscommunication between the
+vehicle and your charger. Um,
+and so these technicians are
+being trained both in the
+hardware and the software
+aspects, and I think especially
+as EV adoption um is moving
+beyond just the early adopters
+and into the early majority, the
+patients that EV drivers have
+with malfunctioning chargers,
+uh, is significantly lower and
+companies are seeing.
+that and beginning to understand
+that operations and maintenance
+for their chargers is a very
+crucial part of their business,
+and so we are seeing a lot more
+companies in the EV charging
+space making investments and
+contracting with local companies
+that employ um EV charging
+technicians to ensure that their
+chargers are available, um, but
+I would agree that it remains an
+issue, um.
+And in all of my policy advocacy
+is something that I try to very
+much promote is tying any
+funding that is given to
+incentivize EV charging to
+requirements um about
+reliability and up time to
+ensure that just because a
+charger is built, uh, that's,
+that's step one, that charger
+has to be running and available
+for EV drivers. Thank you, Madam
+Chair. So is it, if I may have
+fallen, is it the actual manu
+of the.
+Charging station, the
+responsible party for upkeep.
+I, I mean, that's not clear to
+me either, um, and are there
+emergency phone numbers at these
+charging stations that get you
+to a technician, I, I.
+I'm just trying to understand
+what kind of assurances we can
+make to people who are that
+we're encouraging, frankly to
+purchase these vehicles.
+Yeah, thank you, Madam Chair.
+So, to answer your question, it
+very much
+Depends, um, sometimes the
+responsible party is the
+charging company, so like the
+Electrify America or EB Go or
+Francis Energy, um, and then
+other times, those companies
+will contract, um, with, say,
+the Starbucks that they're
+co-located at, or the grocery
+store that they're co-located
+at, um, so that if there is an
+issue with that charger, the
+first person that should be
+making a call
+is the person that um is at is
+working at that grocery store,
+that coffee shop, um, so we've
+seen both models, and I will
+also add that.
+Yes, like 98% of public EV
+chargers do have an emergency
+number that you can call. Um,
+But I would really like to see a
+situation in which folks did not
+feel like they needed to call
+the emergency number because
+they didn't have any issues.
+Thank you, Madam Chair.
+Thank you Representative Nix we
+have a Representative Garrett
+and.
+Oh, thank you, Madam Chair. Good
+morning. I'm state rep Joy
+Garrett, and northwest
+Albuquerque.
+Um of Petroglyph National
+Monument and double eagle lots
+of roads. So my
+Questions, uh, Madam Chair.
+The first is, are there any
+states or municipalities.
+Who have put
+Uh, those kind of policies and
+legislation.
+That new development need to
+have.
+Uh those spots ready.
+For EV charging station
+installation.
+Thank you for that question,
+Madam Chair and Representative
+Garrett concise because we're
+already at time.
+Thank you. Yeah, absolutely.
+um.
+Yes, there are many, many
+municipalities that have put
+that those building codes in
+place, including uh Salt Lake
+City, Denver, Colorado, uh,
+Boulder, Colorado. Yeah, so
+we're, we're seeing these
+building codes all across the
+country.
+Uh, thank you very much. And
+then,
+Um, this is a question maybe you
+can answer, but.
+You know, as you do E vehicles
+have self-contained.
+A technology that indicates the
+impact of weather conditions,
+road conditions, heat, cold, so
+that the consumer.
+may think that they can get to a
+charging station, actually may
+not be able to get there due to
+those.
+Thank you, Madam Chair and
+Representative Garrett, uh, yes,
+so most vehicles will have a
+little thing on the dashboard
+that indicates your vehicle
+range. So how many miles your
+battery um is capable of
+propelling the vehicle and
+generally you will see that
+range fluctuate throughout your
+drive based on like your
+acceleration speed, um, the
+ambient temperature outside, uh,
+if you're driving on a rough
+road, you'll see that your
+goes down because obviously it's
+more intensive than driving on a
+paved road. So, yes, generally,
+that is the case.
+Pope.
+Thank you, Madam Chair, um,
+yeah, if we could just be a
+little
+Precise with the answers, no
+criticism at all. Um, just have
+a few questions. Um, you know,
+we're talking about the level
+one chargers and the fast
+chargers. I know, uh, you know,
+I own a Nissan Leaf. I've owned
+it for years, um, but there's
+been some degradation. You talk
+a little bit about um with the
+fast chargers, I notice
+sometimes you can.
+And you talk about that a little
+bit.
+Thank you, Madam Chair and
+Senator Pope. Uh, so I can touch
+on that very briefly, but I will
+say there has not been a lot of
+research into that topic, and so
+I'm hesitant to give you any
+firm answers. Um, but there has
+been, it has been noted that
+regularly charging at a fast
+charger up to 100% as opposed to
+stopping at 80 or 85%, um, can
+accelerate battery degradation,
+but it is unclear to what
+extent.
+And the research is still uh
+ongoing.
+Thank you. Um, just commenting
+on, I think the discussion
+before level 1, level 2
+chargers, having them at
+businesses, um.
+I think folks who are, you know,
+renters or
+Live in apartments. I think in
+some cases they will kind of be
+using these. I mean, if I go to
+the gym and I'm working out for
+an hour, hour and a half, and I
+can just plug in and even though
+I'm only getting a few miles, I
+think it's kind of to that just
+like.
+Being able to plug in overnight
+at home, uh, on that level one
+charger. I just want to let
+folks know, um, there, there are
+want to confirm there's plenty
+of apps even on your vehicle as
+you get close, um, even my car
+knows like when I'm near home
+when I'm low, it's basically I
+need me to go back to my house
+and charge.
+Um
+Used to be at the charge point,
+I think Shell has one now.
+They're even operating the
+chargers outside the roundhouse.
+Um.
+You can see right now one's
+busy, one's available. So a lot
+of that's there.
+On the apps. Now, the question
+about the accuracy and if
+they're down or not.
+Um, that'll be on there as well.
+And so sometimes my frustration
+is not that I don't have the
+information. It's sometimes that
+the chargers are down.
+That, that can be a frustration.
+Um
+And so, uh, thank you for the
+presentation. Thank you, Madam
+Chair, and thank you, Senator
+Pope. Thank you, Senator.
+Thank you, Madam Chair.
+Uh, Miss Kelov.
+I'm from a rural part of the
+state and the concern.
+In our communities.
+Obviously, range anxiety would
+be one of them, but
+Are you aware that the
+construction industries division
+has mandated.
+That 5%.
+Of public parking spaces.
+A newly constructed.
+have to have
+Charging stations installed.
+With another 5% that would have
+provisions.
+For a charging station now
+believe I saw,
+In your presentation that the
+subsidies.
+For 33 stations in Santa Fe.
+For about $100,000 per station.
+What is the total cost of that
+station in.
+Including
+All in
+With
+Subsidies and whatever other
+investment has to be added to
+that.
+Thank you, Madam Chair and
+Representative Scott, um, on the
+construction industry commission
+piece, uh, I was not involved
+with that effort, uh, but WRA is
+government affairs manager and
+my colleague Tammy Feeblelkorn
+was, and so she would be better
+suited to answer your questions,
+and I can have her get in touch
+with you. Um, and then to the
+other part of your question
+about the cost.
+of an EV charger, I will note
+that for the Santa Fe example,
+those were, uh, level 3 DC fast
+chargers, um, and then for the
+EV readiness and uh the other
+requirements within the building
+code, those do not require level
+3 chargers, uh, those just
+require level 2 chargers and the
+ability to be able to install a
+level 2 charger, um, and so a
+level 2 charger can be
+installed.
+Depending, it really depends on
+a variety of factors such as,
+uh, how much conduit they have
+to run, uh, where the electrical
+panel is and how far that is
+from the spot where uh the level
+2 charger is going to be
+installed, but
+Those can be very inexpensive,
+uh, those can be like $500 like
+really what you're paying for
+there is materials and then the
+cost of labor, and so those are
+significantly less expensive
+than a level 3 charger and I
+think it's important not to
+conflate those two.
+Oh, Madam Chair.
+And Miss Kelo the in, in the
+circumstance that I'm
+referencing.
+There was a mandate.
+Yeah.
+13 charging stations installed.
+And 13 provisions for 13 more,
+so there's 26.
+Yeah
+Uh, Level 2 charger by the math
+that I've
+Looked at
+Requires about 50 amps of
+service.
+So
+There's over 1000 amps of
+electrical capacity there at 240
+volts, and that's, that's
+non-trivial, so.
+In the circumstance.
+Where there are no electric
+vehicles in those communities.
+How
+How does the any capital
+recovery mechanism work.
+That is, who's going to put
+That equipment in when there's
+When there's 2 vehicles in the
+whole community.
+That might require them.
+I mean that money.
+Will, will never.
+Yeah, at least
+In the lifetime of that.
+piece of equipment that money
+will not be recovered.
+From the energy that it
+provides.
+in
+And my rural communities largely
+view this as a waste of dollars.
+So who will be responsible.
+Yeah.
+That expenditure.
+And who will be responsible for
+the operations and the
+maintenance and the fact that
+the copper thieves will sweep
+through their weakly removing
+everything of value.
+So
+Without them, I don't see a
+private sector profit motive.
+And in these circumstances and
+wonder about how effective this
+mandate is going to be.
+Uh, you can understand the
+concern.
+Of the folks in my communities
+that that travel long distances
+and we, we frankly don't buy
+many electric vehicles, which is
+the subject of my next question.
+That is the automobile dealers.
+Uh, not just in my community,
+but in Albuquerque and Santa Fe.
+Or
+Representing to me that the
+market penetration of these
+vehicles.
+It is about 5%.
+With a mandate
+Just in the next few years.
+Or that penetration to be 43%,
+they consider that to be
+completely
+Unreasonable, would you?
+Would you address
+Thank you,
+Madam Chair and Representative
+Scott, I think you brought up
+some really substantive topics,
+and I don't know how much
+justice I can do them and uh a
+very concise answer, knowing
+that we're already over time.
+Um, I cannot speak to the
+specific example that you're
+citing about the land use code
+with the construction industries
+commission, um, however, I will
+say that for that land use code
+that is a requirement, uh, that
+is born by the property owner or
+the property developer, and so
+it is their responsibility to
+comply with that code, um, and I
+will, I will also say that um
+this was a public process before
+the construction industries
+commission, um, and I certainly
+hope that uh rural voices were
+represented in that process in
+developing this policy, uh, but
+I don't know if I can speak to
+it any further.
+And then on the auto dealer
+portion. I was involved in the
+advanced clean cars to
+rulemaking, which is the rule
+that you are referring to, um,
+and I would like to clarify that
+that is a requirement that
+applies to manufacturers, not
+dealers, and so each auto
+manufacturer has to meet certain
+percentages of EV sales in New
+Mexico, um, as well as in all
+the other.
+states that have adopted those
+rules, but they have significant
+flexibility in doing so, they
+are able to buy sell trade
+credits, they are able to bank
+credits. They are able to earn
+credits for plug-in hybrid
+electric vehicles that they
+sell, um, and also, for example,
+if there is a dealer in a rural
+community where there is not as
+much appetite for EVs that
+dealer is not beholden to that
+percentage requirement.
+Um, but should work with their
+auto manufacturer to ensure that
+they are getting vehicles that
+are appropriate for their
+clientele, um, and the auto
+manufacturer will take that into
+consideration in considering how
+to comply in the entire state.
+And so I think this has
+unfortunately been misconstrued
+as something for each dealer
+needs to meet these regulations,
+and that is simply untrue.
+If Me chair.
+Miss Kalo while it's not while
+the process you describe is
+accurate.
+That manufacturer having to
+Having to build.
+Almost half of its vehicle.
+La is electric vehicles or
+In lieu of that.
+purchase carbon credits.
+Whose costs it added to those
+vehicles.
+Certainly
+will serve to increase.
+The cost
+Of all vehicles.
+Particularly fossil fuel powered
+vehicles, the New Mexico
+consumers.
+I don't think this policy.
+is well thought through.
+And, and I'm going to do
+everything I can legislatively.
+To try to dial that back.
+Something
+That is a bit more realistic.
+Thank you.
+Madam Chairman, thank you, Ms.
+Capitol for answers.
+Thank you, Representative. Um, I
+just ended with, um, I have an
+EV. I've had it for almost a
+year, the charging has gone from
+pretty good to amazing, there
+isn't anywhere in the state that
+I've gone this year and I've
+gone everywhere, even hatch this
+time and uh.
+Um, Kabaa like, um, that I can't
+charge and it did it at the
+beginning, you had to give all
+this information. Now you can
+just use your credit card and
+and everything is fast. Um,
+there was one where I had to
+call every time I went out
+there, but this last time I was
+driving to different parts of
+the state, I didn't have to. So
+now I can get anywhere in New
+Mexico, have a place to charge,
+and a lot of them are free. I
+was up at the end of the
+mountain Guides on Monday and
+Tuesday, and it was free. So we
+have good, good charging. It's
+getting better and better.
+better. Um, I do think level 2
+is good, um.
+During the session, I live in a
+house that doesn't have a
+charging station, the capital
+has a charging to just outside
+of it, I can leave my car
+overnight, it's ready the next
+day, and, and so every level we
+have it, there's a reason for
+it. I was at a conference a
+couple months ago and um.
+We are doing a lot better than a
+lot of states, and we are
+pushing this, and we, because we
+know I think the big picture,
+why we need electric vehicles.
+Climate change is real. We see
+it everywhere. Um, I was up in
+Riidoso, there's another fire
+there, flooding in, in, in um
+Roswell, but you know, we have
+to do what it takes to fight
+climate change any way we can,
+and this is just one of the
+things we need. So I thank you
+for your presentation. Thank you
+for everything you do, um, I
+believe totally in in electric
+charging and.
+in electric vehicles, so, um,
+that's why we have this today to
+be in light.
+Thank you, madam chair.
+We are ready for our next
+presentation.
+The next one is Public Service
+Company of New Mexico projected
+needs for electricity
+infrastructure and demand
+capacity for Mr. Williamson.
+Madam Chair, members of the
+science, technology and
+telecommunications Committee.
+My name is John Williamson. I
+manage P&M's transportation
+electrification department.
+Pim's transportation,
+electrification departments,
+primary responsibilities.
+Are related to administering
+PM's transportation
+electrification program.
+I'm very grateful for the
+opportunity to be here today.
+And I'm very excited to share
+with you the work that PNM is
+doing to support customers who
+are
+Seeking to electrify their modes
+of transportation and to install
+EV charging infrastructure at
+their homes and at their
+businesses.
+As I'm sure everyone is aware,
+PNM is um
+New Mexico's largest
+investor-owned electric utility,
+we serve more than 530,000
+retail customers across the
+state of New Mexico.
+To do that, we own, operate and
+maintain more than 15,000 miles
+of transmission and distribution
+lines across the state.
+Today our generation portfolio
+is 61% renewable.
+And we are committed to
+transitioning to 100% carbon
+free energy by 2040.
+And finally, P&M's 2024 to 2026
+transportation electrification
+program optimistically aims.
+To provide more than $22 million
+in infrastructure incentives for
+electrical vehicle charging
+infrastructure.
+Um, moving on to slide 3.
+Um
+Whenever
+Um
+Whenever I consider uh new
+technology adoptions, there's
+two primary things that I'd like
+to take into consideration. Um,
+the first one is a leading
+indicator, which is percent of
+market share. This refers to the
+number of new vehicles purchased
+that are electric vehicles are
+lagging indicator but also very
+important to keep in mind is the
+number of vehicles in operation.
+This chart shows the national
+average of new EV market share,
+um, from 2018 to 2024. And uh
+the the orange line
+represents the national average
+across, across those years. I
+mean, you'll notice that in
+2020.
+2022.
+Um
+To the average market share was
+7% in 2023, that rose to 9.4%,
+and it is flattened somewhat in
+2024 at 9.7%. What I'd like to
+point out here is that the
+market share in New Mexico looks
+very similar. So if you look at
+the shape of those curves,
+they're very similar. albeit
+somewhat uh lower in number and
+what this says to me is that New
+Mexico is very much in alignment
+with the national trends. Um,
+there are some primary
+considerations that are driving
+uh flattening and in market
+share.
+which I've listed there on the
+slide.
+um high upfront cost represent a
+significant barrier for adoption
+for many, uh,
+Americans, but also many New
+Mexicans, um, limited access to
+charging infrastructure, of
+course, um, supply chain
+challenges both in terms of the
+vehicle manufacturer's
+capabilities to produce these
+vehicles and then also in terms
+of
+equipment, uh, EBSC
+manufacturers or electric
+vehicle supply equipment, the EV
+charger installers and being
+able to access and install that
+equipment.
+finally competition from hybrid
+models also represents a
+significant challenge to the
+adoption of electric vehicles,
+um, lack of model and make
+variety. So for example,
+customers who might prefer to
+have a certain type or size of
+vehicle and that currently is
+not available as an electric
+model. And then finally consumer
+familiarity and perception with
+moving on to the next slide, um,
+I hope you'll forgive me. I know
+that this slide does look a
+little bit busy. I'd like to
+spend a little bit of time, uh,
+really discussing, uh, the, the
+very top, um, box P&M's
+transportation electrification
+program, we like to say is
+established on four basic
+pillars or four legs, kind of
+like a chair.
+Um, the first pillar, of course,
+is infrastructure incentives,
+and this represents the bulk of
+P&M's focus, uh, in terms of the
+investments being made through
+the transportation. And so I'd
+like to talk a little bit about
+what that means. So
+infrastructure incentives from
+Pen's perspectives are um
+financial, um,
+financial rebates to help offset
+some of the capital costs that
+consumers might bear uh in the
+installation of EV charging
+infrastructure. There's a
+variety of different categories,
+and I'm happy to talk about each
+and every one of them for the
+sake of brevity and and to kind
+of get us back on track. I'll
+I'll try to keep it brief. Um,
+when we think about EV charging
+infrastructure, we think about
+two primary categories. The
+first one is residential
+customer EV charging
+infrastructure. So this is folks
+primarily who live in single
+family homes or who have access
+to an enclosed garage with
+electrical infrastructure, who
+seek to install.
+you'd be charging infrastructure
+at their primary residence for
+such customers PM does provide
+an EV a level 2 charger purchase
+rebate, uh, and we're also very
+proud to be able to offer um
+rebates to help offset the
+installation costs for those
+rebates, um, for market rate
+customers to give you guys an
+idea of scale, um, PNM provides
+up to $500 towards the purchase
+of a qualifying level 2 charger
+and up to 1,05 structure.
+Those are market rate customers
+for income customers, which are
+defined by statute as customers
+with an adjusted household gross
+income of 200% of federal
+poverty limit or less. Pinna
+provides up to $750 towards the
+purchase of a level 2 charger,
+and up to $3500.
+In addition to those two,
+PNM is also very proud to have
+launched today, um, the low
+income or the income qualified
+EV purchase rebate. So this is
+um designed to help offset some
+of the barriers that many of our
+income qualified customers have
+expressed in terms of being able
+to access these vehicles. And so
+PNM is providing up to $4000 to
+income qualified customers
+towards the purchase of a
+qualifying electric vehicle, um,
+really the requirement there is
+just that the vehicle's purchase
+price is $55,000 or less.
+Which is intended to be in
+alignment with both state and
+federal policy in terms of the
+MSRPs, um, in addition to the EV
+purchase rebate, PNM is also
+very excited to be the first
+electric utility in the in the
+in the United States of America
+to be able to provide an e-bike
+incentive, so PNM is providing
+up to $250 towards residential
+customers who purchase a
+qualifying electric bicycle, um,
+and for income qualified
+customers um for non-residential
+charging infrastructure, PMM
+also provides rebates. Um, so we
+think about these in a few
+different categories.
+So, um, when I think about
+charging infrastructure, I
+primarily think in terms of the
+use case. And so the first use
+case, of course, and as Miss
+Kapolo referenced um is a
+significant challenge
+consideration is multi-family
+properties, um, many consumers
+who have purchased an EB who
+have access to EV charging
+infrastructure at home,
+reference that they would be
+very likely to buy NEV for their
+next vehicle for customers who
+do not have EV charging
+infrastructure at home, that
+statistic is almost flipped
+100%, and they indicate that
+they would be very much less
+likely to buy an EV.
+At home. And so to my mind, what
+that means is that it is
+critically important that we
+provide EV charging
+infrastructure for all New
+Mexicans at the, at their
+primary residence whenever
+possible. And so that is the
+reason that PNM provides up to
+$5000 towards the installation,
+uh, up to $5000 per port towards
+the installation of EV charging
+infrastructure, multi-family
+properties, um, for scale, uh or
+for income qualified so for
+projects that are are located at
+income qualified multi-family
+properties. that number climbs
+to $10,000. We want to make sure
+that those
+Um, those properties have
+sufficient incentive to offset
+the capital costs needed to
+install that infrastructure.
+The second category that I think
+is really important is workplace
+charging. Um, the second, uh, so
+most vehicles spend the bulk of
+their lives parked at customer's
+primary residences. The 2nd
+longest duration that those
+vehicles are parked is usually
+at the workplace, and that's why
+PNM also provides incentives for
+workplaces that seek to install
+UV charging infrastructure for
+their employees. Uh, this
+Uh, the rebates are very much
+the same. They're $5000 per port
+um for level two, chargers.
+The next category is fleet
+charging, so we rep uh we
+recognize PM recognizes that a
+significant number of EV
+adoptions so far across the
+United States, but also
+especially in New Mexico has
+been private um EV purchases.
+However, businesses and
+government fleets represent
+significant opportunities for
+greenhouse gas reductions and
+the adoption of EVs.
+That that's OK. Oh, there it
+goes. Um, and so PNM has also uh
+level 2 charger rebates and DC
+fast charger rebates um for
+businesses that seek to install
+EV charging infrastructure to
+support their fleet vehicle
+electrification targets.
+Uh, and then finally, um,
+I'm also recognizes that many
+New Mexicans and and acquire
+access to EV charging
+infrastructure that's publicly
+accessible.
+Madam.
+OK.
+Um
+Ah
+Public access to charging. And
+so PNM provides up to $5000 per
+charge report for publicly
+accessible level 2 chargers in
+our service territory and um up
+to $50,000 to offset the
+installation costs for public DC
+fast charging infrastructure.
+Um, one thing that I haven't
+noted yet, but I think is very
+important is that from an
+infrastructure perspective, the,
+the, um,
+The greatest impediment to EV
+charger installations are what
+we consider the make ready
+costs, and so from the
+utilities' perspective, this
+includes
+Utility line extension costs, so
+any of those costs for which a
+customer might normally be
+responsible to bring new power
+to a location and then make
+ready costs between the PNM
+meter and the base of the
+charger itself. So when I
+reference um
+Non-residential EV charger
+rebates, primarily what I'm
+referring to are those costs,
+right? So those are the eligible
+costs, anything that the
+customer would normally bear to
+bring that service in up to the
+base of the charger itself. It's
+an important consideration. We,
+um, as Ms Capolo mentioned,
+there are several different
+business models for, uh,
+EV charging infrastructure. We
+wanted to make sure that those
+dollars were going to local
+companies and to offset the
+installation costs. Um, I'll,
+I'll highlight very quickly a
+little bit, um, so you also
+recognizes that the cost of
+electricity can for some
+customers represent a barrier to
+adoption and so for that we have
+offered the residential EV
+charging rate, uh, it's also
+affectionately referred to as
+the whole MEB rate or the web
+rate, and what this does is it
+provides customers with a lower
+base cost of electricity uh for
+their.
+entire home, but primarily to to
+um to incentivize them to charge
+their EVs between the hours of
+10:00 p.m. and 5:00 a.m.
+This represents an advantage for
+the grid. It helps increase the
+utilization of our distribution
+system, while also providing
+those customers with a lower
+cost of electricity to charge
+their vehicles during the
+overnight hours when it's parked
+at their primary service
+address.
+The second rate, the 3 FEB
+charging station pilot rate is
+the non-residential version of
+that rate, it is eligible for
+any EV charging stations, which
+are separately metered and do
+not contain any square footage.
+Um, what that means is that um
+for those charging stations like
+Electrify America or for Francis
+Energy, and these are volumetric
+rates that don't have a demand
+charge component. It helps the
+site hosts, the network
+providers, and the customers
+better understand the cost of
+electricity and therefore how
+much they need to charge to
+recuperate their.
+operations maintenance and
+installation costs. Um, I'm not
+going to belabor market
+transformation. I have uh two
+slides at the end to talk about
+this more as I think it's a
+really critical point. Um, but I
+will spend a little bit of time
+talking about education outreach
+and marketing, as I referenced a
+couple of slides ago, one of the
+primary impediments to the
+adoption of electric vehicles is
+um
+Consumer perception and
+familiarity with the technology.
+And so PNM is actively working
+with partners across the
+community and educational
+institutions to help educate
+customers on the benefits of.
+electric vehicles.
+Uh, moving on to slide 5,
+Ensuring equitable access to
+transportation electrification
+is critical, and PNM's
+transportation electrification
+program has been designed to
+support EV charger
+infrastructure.
+Her income qualified customers
+and to support EV charger
+projects in underserved areas.
+Um, I am very proud to report,
+uh,
+Publicly for the first time that
+55% of the infrastructure
+incentives for the 2022 to 2023
+transportation electrification
+program were distributed
+directly to those um projects
+which are intended to benefit
+income qualified customers and
+those living in underserved
+areas.
+for the 2024 to 2026 program,
+which is the one that is
+currently available for
+customers to participate with
+25% of the infrastructure
+incentive budget is earmarked or
+carved out for income qualified
+customers and projects in
+underserved areas.
+Um, we are also very proud to
+have worked closely with 4th on
+what's called the Affordable
+mobility platform, and it is a
+car share program in Albuquerque
+and Santa Fe, which provides
+access to NEV and EV charging
+infrastructure for customers
+living in um in affordable
+housing uh multi-family
+properties.
+We also work with low income
+community organizations across
+our service area to help ensure
+that low-income customers are
+also made aware of the benefits
+of electric transportation, as
+well as the capability.
+Moving on to the next slide. Um,
+so slide number 6, just to
+provide a little bit of context
+about the state of EV charging
+infrastructure in the state of
+New Mexico. So I pulled this
+from Atlas Hub, which is a
+policy organization that uh that
+does a lot of work related to
+transportation, electrification.
+Um, this information is current
+as of last night. Today in New
+Mexico, there are 803 EV charger
+ports located across 332
+locations. Um, PM is very proud
+to have supported or to provide
+an infrastructure incentives to
+72.
+those EV charger ports, uh, and
+I'd like to highlight that we
+have 92 additional EV charger
+ports in the pipeline. Um, so
+those have not yet been
+energized or at least we have
+not been able to inspect them
+and confirm that they meet the
+performance requirements for
+participation in the program,
+but we are very excited to
+continue to push the adoption of
+EV charger infrastructure.
+PM continues to engage
+organizations across various
+market segments to actively
+encourage additional EV charger
+projects across her service
+area.
+Um, finally moving on to slide
+number 7 PNM's distribution
+engineering teams are actively
+engaged with and seek to
+understand the impacts of EV
+charging on distribution systems
+and to incorporate those plans
+into the areas that we serve.
+In addition to incorporating our
+distribution, engineering and
+planning departments and the
+work that we're doing on PNM's
+integrated resource planning and
+load forecasting teams have also
+incorporated EV adoption
+forecasts and the corresponding
+energy requirements for those
+forecasts and to
+Our generation capacity planning
+for both existing and future
+integrated resource plans. So
+PNM takes very seriously the
+energy requirements of the EV
+adoption, and we are seeking to
+ensure that we are able to
+provide reliable and affordable
+service for all EV drivers as
+well as all of our other
+customers.
+Moving on to slide number 8, so
+I didn't talk about market
+transformation, um, but I would
+like to spend the next two
+slides doing so, because in my
+mind, this represents both the
+unique opportunity for um for
+consumers but also for electric
+utilities and for all other
+drivers or I'm sorry, all over
+the utility customers regardless
+of whether or not they choose to
+adopt an electric vehicle.
+So
+Right now, PNM is in the process
+of reviewing vendor proposals
+for an active managed charging
+program. Active man and charging
+programs represent an
+opportunity for uh for electric
+utilities to work with EV
+drivers in their service
+territory to manage their EV
+charging loads and requirements
+to ensure that we are both
+providing those customers with
+the energy that they need, the
+fuel that they need for their
+vehicles, um, but also to do
+that in a way that's both
+beneficial for the grid and for
+other customers. So if you look
+at the chart on the right hand
+side and my apologies that it's,
+it's a little small. Um, this
+was from
+a report that was recently
+released by the Smart Electric
+Power Alliance on the state of
+managed charging in 2024.
+Um, what this shows is 3
+different scenarios. So the top
+bar graph represents a 48 hour
+period. There's 53 EVs on a
+distribution circuit, and if
+left to their own devices, this
+is what the charging load in
+terms of electrical capacity
+looks like um when consumers are
+just kind of plug in and charge
+it at their um at at at uh at.
+Their leisure is not quite the
+right way to put it.
+Um, the second one, so the one
+in the middle represents what we
+call, uh, what we consider time
+of use or passively manage
+charging, and so, um, one of the
+uh
+Characteristics of a program
+like Pin and Toho EV rate is
+that it tends to create what's
+called a snapback timer, uh.
+peak load or coincident peak.
+And so what we see is that a lot
+of customers will delay their
+charging requirements until the
+time when uh electricity pricing
+drops, and then we'll have a
+secondary system peak on that
+distribution infrastructure, and
+you'll notice that the peak for
+that is, is a lot higher
+actually than the, than the
+chart above it. And so it can
+create some unexpected and
+unintended problems. Um, the
+final chart there on the bottom
+is really what manage charging
+represents to you know the the
+opportunity that represents to
+both the utility and the
+customers. So when uh
+drivers and utilities work
+together to ensure that EV
+charging is managed
+appropriately and within the
+constraints available by the
+grid, and what we can do is
+manage the efficient use of that
+infrastructure to ensure both
+that customers have the energy
+that they need for their for
+their vehicles and that the
+P&M's distribution or the
+electric utilities distribution
+system, um, is, is well
+utilized. This represents lots
+of opportunities for consumers
+because what it does is it
+increases the efficient use of
+the system.
+The um.
+The cost of those facilities
+onto a greater number of um of
+Uh, you'd be charging loads,
+right, and what it and what it
+does is it makes sure that we
+right size the investments that
+the ranking and the distribution
+system. Um, but a lot of
+utilities have done historically
+is plan for the worst case
+scenario and what this
+information and what these types
+of programs allow is for us to
+to plan for the efficient use of
+our of our infrastructure.
+Moving on to my last slide,
+slide number 9. this is also
+another program that is
+currently in development.
+Many
+Uh, PM recognizes that many
+fleet vehicles are ideal for
+electrification, as they have
+regular and predictable duty
+cycles and electric power trains
+represent reduced operations and
+maintenance costs for many use
+cases. PNM's Fleet Advisory
+Services pilot program is
+expected to launch in January of
+2025. Uh, we're currently doing
+active recruitment, so if any of
+you guys know, uh, business
+fleets we're we're looking for
+as many of them as we can find,
+um, but participants can expect
+to receive a fleet
+electrification potential study.
+So what this means is that we
+will
+worked very closely with the
+fleet operator to understand
+their current fleet composition,
+and to provide them with a very
+realistic, uh,
+Understanding of the vehicles or
+the assets in their fleet that
+are eligible for electrification
+today, uh, what those um new
+vehicles would cost, uh, and
+then what the total cost of
+ownership would be for the for
+the use of those assets over
+their lifetime. And then
+finally, of course, um, the
+third thing that those customers
+or participants can expect to
+receive is an EV charging
+infrastructure needs analysis.
+So, and, and in order to ensure
+that those customers, um, and
+their fleet vehicles are able to
+meet the duty requirements for
+their business.
+We want to make sure that the,
+the charging infrastructure
+that's installed is both um is
+realistically kind of portrayed
+them. And so um we're very
+excited to launch this program.
+We think that there will be
+significant opportunities both
+for PNM to take and learning and
+to better understand how to meet
+these new electrical needs in
+the future and how to work best
+with customers to ensure both
+that were making the proper
+investments in our distribution
+infrastructure and that we're be
+able to serve our customers
+accordingly.
+So
+Madam Chair, that concludes my
+presentation and I stand you,
+Madam Chair and thank you,
+Mr. Williamson, and I appreciate
+the, the good things that PNM is
+doing in this area, particularly
+the time of use rates for lower
+income, I think it was called
+the whole home.
+Program or whatever and those
+types of things that that helped
+to shift the load and the equity
+programs, uh, when you started
+off, you indicated that the
+current energy mix on PNM you
+said was 60% renewable.
+Um
+I don't think that's accurate. I
+think because that 60% includes
+35%.
+Nuclear, which is not renewable
+but isn't carbon free, and so
+it's important we, we make those
+distinctions when people are
+listening in.
+So it's about 60% carbon-free
+right now, not 60% renewable.
+Um, is that accurate?
+Madam Chair and Senator, thank
+you very much. I, I think um we
+can certainly provide that, but
+yes, that's a very good point.
+OK, just wanted to make sure
+because, you know, that's an
+important distinction between
+renewable and carbon-free as far
+as when we're working towards
+getting to 100%, uh, carbon free
+energy, yeah, that we, we make
+sure we make those distinctions.
+I do have a question or two,
+Madam Cherries.
+How do the manage load systems
+that that chart where it moved
+across the graph.
+Is that directed by the owner or
+do they plug in and there's an
+automated system that when the
+rates drop, it charges, I, I
+know on my house, you know, I
+can plug in and it then start. I
+put the clothes in the dryer,
+the dryer starts when the rates
+go down. Is that what this
+system is doing, or does this
+require direct input from the
+owner.
+Uh, so Madam chair, Senator,
+that's a great question. And
+thank you for asking it. Um.
+So it's a, it's a very
+collaborative process, the way
+that these programs are meant to
+work and there's different
+models in the field right now
+and we're currently evaluating
+those models and and which
+vendor we want to select, um,
+ideally in active managed
+charging program takes into
+consideration the driver's
+preferences. So typically what
+will happen is an EV driver can
+say, I would like for my vehicle
+to be charged up to 80% um by 1
+time. And so those are the
+primary inputs that the driver
+has access to to provide PNM or
+to the
+The electric utility, and then
+the rest of it is managed by the
+utility to ensure the efficient
+use of the infrastructure, um,
+of course, uh, vehicles are
+transportation technologies
+first. And so there are
+opportunities, of course, for EV
+drivers to say, you know, this
+is my normal schedule. Um, I
+really need to charge my
+vehicle, uh,
+at a different time today
+because I have different
+requirements right for my life
+either, maybe there's something
+out of the ordinary or what have
+you. And so it's really designed
+to ensure that customers have
+the energy in their vehicles
+that they need at the time, but
+to make sure that we're also
+supporting.
+The, the, the grid
+appropriately. I hope that
+answers your question.
+Yes, Madam Chair, and let me
+make sure I understand that.
+So if I've got my electric
+vehicle, I come home, I plug it
+in, but it's not actually
+charging it.
+Until
+3 o'clock in the morning, for
+instance, but it knows I need to
+have 85% charged by 6 o'clock in
+the morning when I'm off to
+work, but I could come home,
+plug it in and say, but I need
+85% by 10 o'clock tonight and
+it's going to charge it then,
+but it may be charging me at at
+a higher rate because of time of
+use. Is that accurate?
+Madam Chair, Senator, that um
+it's almost like I could
+override the system that says at
+3 a.m. if I've got a specific
+need today. Absolutely, yeah, so
+most vehicles are plugged in
+roughly at most TVs are plugged
+in somewhere between.
+8 and 12 hours a day, but they
+really only actively charge for
+2 hours. And so what most
+utilities that are seeking to
+utilize these types of programs
+is to do is to manage when those
+two hours are to ensure um that
+those benefits are, are given to
+the customer and to the utility.
+I would just like to highlight
+that there's lots of different
+inputs, right? So, um, some of
+the different considerations
+that we're taking in as we
+evaluate those vendor proposals
+or are things like real-time
+wholesale pricing, um, the
+availability of renewable energy
+pricing or renewable energy at
+that given time.
+Uh, and then, of course, with
+the driver's needs and
+preferences are and then any
+sort of localized distribution
+constraints that might exist on
+that infrastructure itself.
+Thank you and Madam Chair, thank
+you. I, I really appreciate
+programs like that where it
+could be set up automatically,
+whereas an owner, I don't have
+to be watching what the
+renewable load is and that
+there's extra capacity on the,
+you know, that I ought to do it
+now or something like that. Um,
+kind of my last question.
+You talked about, Madam Chair,
+and Mr. Williamson, the PNM
+fleet program type of things is
+PNM electrifying its fleet.
+Madam
+Madam Chair and Senator, yes,
+sir, um, absolutely, the short
+answer to that is that PNM is,
+is electrifying our fleet um
+right now, we have targets to
+electrify 25% of all new light
+duty vehicle purchases, uh, the,
+so on that slide, the vehicle
+there is one of P&M's light duty
+or medium duty bucket trucks
+that vehicle is located in Las
+Vegas, New Mexico, and it is
+fully electric. So both the
+powertrain uh and the auxiliary
+power.
+both electric.
+Thank you, thank you, Madam
+Chair.
+Thank you, Madam Chair, Mr.
+Williamson, the
+A load management that you've
+described in that.
+In several charts.
+Requires I would presume a very
+smart meter.
+To accomplish those objectives.
+Oh what
+would be the cost.
+Of those meters.
+To the consumers.
+And
+And would they have
+Uh
+Sufficient economic incentives
+to
+Yeah,
+Purchase that equipment.
+Absent
+Subsidies
+Madam Jared Representative
+Scott, that's a great question.
+Um, there are different models
+available for um for how active
+managed charging works right now
+PNM is considering two different
+models. So the first one is um
+we communicate directly with the
+vehicle itself. And so this is,
+uh, it's called Telemanics and
+it bypasses the need for smart
+infrastructure for for smart
+meter infrastructure, um,
+While some programs do rely on
+smart meters to enable manage
+charging. Um, what we find is
+that, you know, a lot of times,
+um, the communication stops at
+the meter itself and so it
+doesn't necessarily allow us to
+get to that particular asset to
+to to manipulate its behavior.
+And so what I would say is that
+um there are not any, uh, at
+least in the programs that we're
+evaluating today, um, there are
+not any additional costs that
+the consumers would need to bear
+to enable participation in that
+program.
+So senators.
+To
+Described his clothes dryer
+coming on when the
+And
+That wouldn't be communicating
+with the vehicle. I'd be
+communicating.
+With one of the smart meters, is
+that accurate?
+Um, Madam Chair Representative
+Scott. So I, I think what uh in
+please correct me if I misstate
+this, but I, I think what the
+senator was referencing was a
+timer on his, on his dryer. And
+so he has the ability to program
+that asset, particularly to
+begin operating at a time when
+it's most advantageous, uh,
+given the current electricity
+rates.
+And so EV drivers today have the
+same capabilities and capacities
+most customers who participate
+in the whole home rate, um,
+right now, what they do is they
+program their vehicle to begin
+charging at a time that's
+convenient for them and is
+within the EV charging window.
+Uh, and so when they get home
+from work, they put their
+vehicle in, and then their car
+begins charging automatically
+based off of that program, uh,
+and it doesn't require any
+further action either from the,
+the customer can usually set
+that one time and, and it, it
+doesn't have to be manipulated
+regularly.
+It
+Ma I'm sure you might have a
+little bit more insight as you
+drive an EV, but my
+understanding is that a lot of
+those can also be manipulated
+from the the native applications
+that many consumers have on
+there. And,
+Madam Chair, Miss Williamson.
+I believe you, I heard you
+represent that you had subsidies
+available for $5000.
+He installation for a home
+charging system was that
+accurate?
+Madam Chair Representative
+Scott, um, so the $5000
+installation rebate refers more
+to the level 2 chargers for
+non-residential participants.
+And so for um for uh locations
+like multi-families, so
+multi-family properties tend to
+have two different types of
+meters, um, both the residential
+meter, which the tenant will pay
+and it refers mostly to what's
+inside that uh particular unit.
+And then there's also going to
+be commercial, um,
+Commercial meters and so these
+might operate things like the
+laundry, uh, the laundry room,
+the gym, uh, the security gate
+and and such things. And so
+typically speaking, multi-family
+properties will install level 2
+charger as an amenity that's
+available to, to, to many
+Of the residents there and so
+it's on what we consider to be a
+house or a commercial meter. And
+so those are the, that's what
+the $5000 is, um, for
+residential customers who
+install a qualifying level 2
+charger, the, the rebate is up
+to $500 towards the purchase of
+that charger and to give you an
+idea, uh, if you were to search
+Amazon right now for level 2
+charger, you could probably
+purchase one anywhere between
+300 and $800 and so for
+consumers who are primarily
+motivated by costs, they can get
+one essentially at no cost. Uh,
+the installation rebate.
+for market rate participants or
+$1500.
+up to and so that helps offset
+the installation costs should
+the the customer have to uh uh
+complete significant electrical
+wiring or a panel upgrade.
+Oh, madam chair, Mr. Williamson,
+basically these
+would add somewhere.
+Around 50 amps of demand
+requirements to
+Typical home is that accurate or
+would we talk about more than
+that.
+Madame Cherry and his guy. I, I
+think that's a fairly safe, um,
+assumption I've seen level 2
+chargers at residential
+properties anywhere between 30
+and uh and believe it or not,
+ADMs depending on the available
+capacity and the charging
+requirements of the of the
+driver.
+And
+Oh, Madam Chair, Mr. Williams,
+you are familiar, I believe I
+mentioned it with respect.
+To commercial properties.
+Uh, with the previous presenter,
+but you're familiar with that
+mandate.
+That now all new homes.
+Um, uh, equipped.
+You serve
+Oh
+Level 2 chargers.
+And
+And the concern.
+With
+Again, folks in my community,
+this
+This adds
+Fair
+For the cost of a new home.
+is that new home construction
+also qualify for the rebates
+you've.
+You've described
+Madam Chair Ripper Scott, thank
+you. That's a great question.
+Um,
+I don't have data in front of
+me, but um my understanding is
+that uh the most affordable time
+to install that EV charger
+infrastructure or the, the
+circuits to serve that
+infrastructure would be at the
+time that new home was
+constructed.
+Throughout the regulatory
+process for PNM's 2024 to 2026
+transportation electrification
+program we did propose
+incentives to help offset some
+of those installation costs. Um,
+we estimated that $150 would be
+sufficient to most new property
+developers to install that
+infrastructure to serve, um, so
+I recognize that that might be a
+significant burden to some
+consumers, but, but I, um.
+My understanding is that that
+would be a lot more affordable
+than having to to retroactively
+upgrade some of that
+infrastructure and possibly have
+to upgrade the the electrical
+panel itself.
+Uh, Madam Chair, Miss Williams,
+and I'm aware of significantly
+higher estimates than 150 bucks.
+In New Mexico has been all
+about.
+Affordable housing.
+Which we don't have near enough.
+And these mandates would seem to
+be adding.
+Or maybe subtracting.
+From the affordability of the
+housing market if this new
+construction.
+If all of this has to come with.
+With the charging
+Thank you, madam, and thank you,
+sir.
+Um, I thank you to, um, I have
+the 3 cents per kilowatt hour
+charge, and that's great, the
+rate, um, um, I think helping
+the customers, um, I've, I've
+been part of the rebate so
+system and it's pretty easy to
+do. It's, it's out there. I just
+look on your website, everybody
+can see what's out there, so
+presentation. Thank you.
+Madam Chair, thank you so much.
+committee, um, Indian Affairs is
+saying goodbye to um Senator
+Rodriguez and Senator Alice,
+Representative Allison, and
+they've invited us to go, starts
+at noon, so.
+We're done for now. We're
+breaking for lunch, yes. All
+right, and we'll be back at one
+o'clock.
+We're gonna get started on a
+couple of legislators across the
+hall, um.
+All right, next is our first
+presenter after.
+Now.
+route.
+Good afternoon. Um,
+of the committee, chairwoman.
+I'm honored to be here with you
+today. I'm the new kid on the
+blog with him about.
+60 days.
+Before that, I was the city
+manager of the town house and
+extremely prior to that, um,
+I was, I spent 10 years with one
+of probably the most progressive
+loss in New Mexico.
+So I built Kit Carson's
+broadband network.
+Towards the end of my tenure
+with the kids.
+So not a stranger to
+electrification.
+Um
+bit of a newcomer to
+electrification of the state of
+New Mexico.
+With that, I am looking
+Uh, it's a little bit on the
+first, uh, page, uh, we did a
+New Mexico energy profile.
+are just some quick tidbit facts
+in 2022, uh, New Mexico was the
+nation's 2nd largest crude oil
+production state after Texas,
+the state accounted for more
+than 13% total.
+2022, New Mexico was among the
+top 10 natural gas producing
+states, 7th.
+for 6% of the nation's total
+natural gas gross withdrawals.
+The end of 2021, you Maico had
+almost 6% of the US.
+natural gas reserves.
+At the end of 2021 in New Mexico
+had almost 3% of the nation's
+estimated.
+Cover vocal reserves, 10th
+largest among the states.
+State accounted for almost 2% of
+the total US.
+co.
+In 2022, New Mexico ranked 9th
+in the.
+and electricity generation from
+wind power.
+35% in Mexico's total.
+electricity net generation came
+from wind.
+2022
+5 times the share of contributed
+in 20 Mexico is one of 15 states
+that produce natural gas from
+coal beds in 2021, the state was
+second only to Colorado and
+Colbay.
+that methane production and
+accounted for 26% of the
+nation's.
+So next slide.
+New Mexico electric vehicle
+program holds.
+One is to establish an
+electrified and alternative fuel
+transportation system.
+a system that is convenient,
+affordable, reliable, equitable,
+accessible, and safe.
+Establish a path the US to
+create nationwide network of at
+least 5,500,000 EV chargers by
+the year 2030.
+improved networks for vehicles
+using hydrogen, propane and
+natural gas.
+And increase EV adoption.
+New Mexico residents.
+I want to say that the
+Department of Transportation is
+not in the electrification
+business from the standpoint of
+creating revenue or generating
+revenue from electrification or
+or electric charging stations.
+We are to act as the vehicle to.
+Our next slide
+New Mexico EV infrastructure
+project funding sources.
+Uh, 2021 infrastructure
+investment and Jobs Act, which
+is the IIJA.
+appointment is 38.3 million.
+Uh, in fiscal year 22, uh, we
+had 5.681 million.
+And
+by 2023, 8.176.
+FY 24 8.176 FY 25, which is the
+upcoming 8.176 and 2.
+26 is also 80.
+was the 2021 regular legislative
+session capital appropriation of
+1.2 million.
+2021 special session American
+rescue plan, which was the art
+of wins.
+10 million.
+2024 charging and filling
+infrastructure was the CFI grant
+at 67.7 million.
+2024 legislative session capital
+appropriation was 15.
+on
+Our electrical vehicle
+infrastructure projects and you
+see the map that's generated
+there. These are all.
+charging
+patients that have been deployed
+by the state of New Mexico.
+So the idea is to provide
+drivers with a convenient,
+reliable, affordable, accessible
+and equitable charging
+experience.
+Meeted goals for statewide
+electrification network.
+Support economic development
+opportunities for rural parts of
+the state.
+Mexico designated 8.
+AFCs, which are alternative
+field corridor.
+including the state's 3
+interstates, like 10, I-40 and
+I-25 and 5 additional US
+highways, US Highway 60, US 70.
+160 US 285 and US 380 totaling
+almost 2200 center miles.
+on our deployment strategy.
+issue RFPs for private and
+public partnerships, contract
+with private entities in a way
+that makes sufficient use of
+funds to ensure maximal
+deployment at the most efficient
+unit cost.
+of satisfy state and federal
+procurement requirements satisfy
+match requirements established
+5-year O&M performance period.
+Requires site location
+agreements, after analytics on
+charger use.
+So EV charger growth, anxieties
+and misconceptions.
+There's a lot of anxieties and
+misconceptions such as range,
+cost, and access and those
+anxieties are real.
+That's where we're trying to
+close so we need to work with
+New Mexico Auto Dealers
+Association to support adoption
+of ZEV transition for agencies.
+Tracking rebates and incentives
+from federal, state, utility
+providers.
+also tracking the data on
+registration.
+Uh, strategic.
+Zero emissions vehicle. Yes,
+sorry.
+NCV can encompass multiple.
+It's electric saw our next slide
+overcoming challenges and much
+like the uh
+Uh, presenters that presented
+before us.
+Uh supply chain continues to be
+an issue.
+So that encompasses
+semiconductors, uh, especially
+those associated with DCAS
+chargers. Those are unlimited
+supply.
+materials which are shortages of
+the central materials such as
+copper, lithium, and aluminum.
+A production of cables,
+connectors, and batteries.
+Transformers and great
+equipment.
+Uh, there's limited availability
+of transformers.
+workforce development and I
+think going back to the
+Transformers.
+Um
+We're sitting right now at about
+Uh, 58 weeks on availability.
+Transformers, and that's
+actually shortened from about
+120 weeks previous uh line
+extensions, which can be costly,
+um.
+So that's associated with
+installation costs.
+permitting an approval process
+or sometimes subject to local.
+Governance, local
+municipalities, and then our
+own.
+Department of Transportation
+right
+can be
+Uh, utility coordination
+challenges.
+Great capacity in rural areas
+and you'll see us highlight grid
+capacity and.
+several of the bullet points
+below him.
+Environmental and community
+impacts.
+Co op and utility partnerships,
+and we saw
+presentation from P and just a
+little bit earlier. So it's how
+they uh
+Prioritize uh their business
+models.
+Uh, looking at regulatory
+measures and again, greater
+capacity associated with those
+utilities.
+sharing disputes, tariff and
+restructure issues.
+And then there's the great
+reliance piece, which
+increased demand on the grid.
+load management.
+capacity constraints and rural
+areas, especially rural areas.
+challenges with home charging in
+denser.
+The future program consideration
+are unfunded gaps.
+And that's what even now with
+our corridors.
+The equity and justice 40 for
+disadvantaged community
+participation.
+supply chain issues around
+electric components.
+which is the Build America Buy
+America Act.
+futility and cooperative delays
+14 month delay on a robust
+workforce for EV infrastructure
+installation and maintenance and
+car technicians.
+Announces with competitive
+grants.
+Access to high yield.
+High level bridge for electric.
+electrical connectivity.
+statewide broadband connectivity
+for charging station network,
+especially in our more.
+So some federal compliance
+challenges, uh, complex
+reporting and documentation
+requirements, the Nevy uh
+reporting and requirement puts
+us at roughly about a 50 mile
+requirement in range, New Mexico
+is a pretty big state.
+Trying to cover some of those
+gaps, uh.
+again,
+As mentioned in previous
+presentations, is trying to put
+those EV charging stations in
+safe areas and areas that have
+access to grocery, access to uh
+some type of service.
+has been challenging.
+And then chargers must be
+installed with 1 mile of the
+designated highway corridor.
+sight must have at least 450 kW
+fast chargers that can charge
+multiple vehicles.
+Multiple charging ports.
+must comply and meet ADA, uh.
+Guidelines.
+rural and remote areas often
+lack suitable sites within 50
+miles, posing challenges for
+compliance, and some 50 mile
+intervals fall and load.
+Traffic zones for the ROI and
+then recurring funding strategy
+for EV chargers.
+Lastly, P3 partnerships
+subscription and or membership
+models, utility and energy
+agreements, grant recycling and
+revolving.
+And so moving on to the uh.
+America.
+So Mexico, New Mexico is a
+member of the Rock America.
+REC West, RUC America has funded
+over 24 research projects
+splitting the feasibility of
+road usage charging.
+usage charge is a transportation
+funding model where all drivers
+are assessed a fee based on the
+number of.
+miles they drive.
+Rather than how much gas they
+consume.
+today we're in very early stages
+at the state of New Mexico
+looking at this, uh, other
+states, and I believe there's 2,
+Utah and Nevada that have
+adopted models.
+They are uh
+approaching their eating
+So moving on.
+What options are being
+considered for recording.
+road usage.
+time permits similar to a
+vehicle registration fee, the
+participant purchases unlimited
+road use for a specific period
+of time.
+Mileage permits the participant
+prepays to drive a certain
+number of milesometer charged
+the participant pace of feet per
+mile based on periodic odometer
+readings.
+Automated mileage reporting
+without general location data.
+vehicles have equipment that
+measure and report mileage.
+Automatically to an account
+manager.
+Either provided by a state
+agency or private company.
+The account manager
+periodically, monthly or qua.
+orderly.
+Sends the motorist an invoice
+for the.
+Virtual.
+Automated mileage reporting with
+general location data.
+vehicles
+report mileage traveled to a
+third party account manager,
+which invoices the participant.
+equipment also provides general
+location data so the
+participating is not charged for
+travel out of state or.
+private rooms.
+These options include a vehicle
+telematics, smartphone apps, and
+plug-in devices for the vehicles
+onboard diagnostics data board.
+So this is the uh
+Long term state road fund
+outlook.
+There's 4 major state road fund
+revenue sources, which is the
+gasoline weight distance,
+special fuel.
+vehicle registration.
+you see is from the time period
+2005.
+2050, the modeling shows the
+decline on.
+respective fuel sources and the
+Um
+distance
+Special film.
+So over the next 5 years, state
+road fund revenues are expected
+to grow at an annual average
+rate of 1.2%, slowly shrinking
+thereafter.
+short-term growth mainly driven
+by commercial vehicle revenue
+sources and is tied to overall
+economic activity.
+Future long-term revenue
+expectations being pulled down
+by declining revenues from
+gasoline and diesel taxes based
+on assumption around fuel
+economy standards and national
+trends towards increased.
+option of electric vehicles.
+caveats.
+That's our presentation, so
+thank you.
+that I
+She's, she's a
+She's here, she's, she's back
+up. She's more of support
+um, it's like he's expecting me
+uh road li public works
+Committee for the last 10 years,
+and we've been talking about
+this to of.
+we can address.
+Uh
+So
+Share with us what they're
+doing.
+I don't, uh, Madam Chair, uh,
+representative, I don't have the
+exact details of what the what
+programs those two states have
+rolled out. Those are the two
+states that I know of, um.
+I get in my short term period in
+April, you're welcome to speak
+on this as well too, um.
+Those are the two states that I
+know have adopted some form.
+of
+Recoup mechanism
+vehicles, um, as, as you
+mentioned, uh, representative,
+the concerns uh with DOT is that
+with a larger weight
+displacement on EV vehicles,
+which means a higher level of
+wear on the roads.
+Especially as we start looking
+towards the future of what
+Semi truck or transportation
+looks like, even in the even in
+school buses and and uh public
+transit.
+As we make these uh
+changes so faster we on roads,
+and I know our DOT engineers
+have been talking about that
+substantially and you mentioned.
+And the, the
+gap
+funding that we received today.
+So
+We need to place a lot of
+emphasis and thought as to how
+we can I'm happy to get the
+information for you.
+No, no, I appreciate that. I, I
+could probably just do it here
+or we're done and.
+read about what they have done.
+Um
+Yeah, I
+I personally
+Yeah
+about doing something that is
+based off of miles.
+Reading an odometer
+something on your vehicle.
+All of the wild and my daughter
+are not in New Mexico.
+Utah, Colorado, Arizona. So,
+There's also the concern of Big
+Brother knowing where I'm going
+all the time.
+So
+What I have
+towards, I think is a is a a
+compromise and until someone
+comes up with something better
+is, uh, adding additional fee to
+the vehicle registration every
+year.
+accounts for essentially what I
+would have paid in gasoline tax,
+and I think we've passed
+something similar.
+last year or two,
+$100 or $120.
+somewhere between 90 and 120, I
+think it's up.
+Personal vehicle.
+Not sure about and.
+Semi trucks that'll be, that'll
+be just us to.
+looking at
+How can we make sure we still
+have roads when we no longer are
+getting the gasoline tanks.
+It
+your hand
+So
+When it comes to
+mentioned several times. I don't
+think it makes sense for
+Representative Scott to go and
+get a
+Uh electric pickup right now,
+because you could
+drive to his neighbor's house
+and run out of, you know, the.
+And that's facetious, right,
+but.
+Um
+I, I drive maybe 100 I'm sure
+I'm guessing.
+That's a lot less than what a
+rural.
+Let's say
+Battery technology is gonna
+continue to advance.
+And I
+and I
+I really love
+We have
+So it's not like we don't need
+to do anything much.
+And
+we can plan, we can think about
+how to.
+Executed properly.
+Hampshire and
+Representative Harper, um, so
+yeah, so we, um,
+Really work hard on
+strategically placing REV
+chargers.
+So in every phase one, those are
+federal funds.
+National and um those 940.
+Um
+And from this heat map you can
+see, um, we've identified
+alternative.
+corridors.
+We don't have um
+US 550 as designated alternative
+fuel cars.
+So strategically look at it.
+Um, we're looking at
+Many different ociation of
+counties.
+Um
+mountain in its advantaged
+community.
+We are, it also makes sense kind
+of.
+Level 2 or level 3 chargers so
+you can have your fast to their
+apartment, they're bringing
+charges, they need to go to the
+grocery store.
+their level
+Um,
+Chair representative.
+one of the biggest issues I
+think that we face, and this is
+just us as a state as a whole,
+and I, I come from a rural area.
+I live, still live in Taos
+today, and I think uh it's done
+a phenomenal job of shoring up
+capacity, but it still doesn't
+underscore the fact that even
+within that territory. There's a
+lot of line miles that are aged.
+ag g ing infrastructure and
+whether or not there's the
+capacity to carry, uh,
+specific case in point today is
+that we have a Tesla station in
+Springer.
+Uh, that's trying to get
+deployed, and there's not enough
+substation capacity, so you're
+looking at about $1.2 million
+worth of upgrade.
+To accommodate charging station.
+So I think that's something that
+uh
+also needs to be considered as
+we start looking at how we fund.
+It's one thing to deploy
+chargers, it's a whole other
+thing, the weather.
+and the line, uh.
+areas have capacity to support.
+Type of
+So right now it's a fine dance
+and um.
+You know
+my early days with Kit Carson
+when we were.
+adopting broadband, it seemed
+like a Herculean effort because
+we were fighting everybody that
+didn't believe.
+should be
+event
+Yeah you fast forward to the
+pandemic when uh education and
+need
+Uh
+connectivity at home was was
+paramount. Uh.
+You fast forward 10 years later
+and it was probably one of the.
+decisions that that community
+made
+And as I look at electrification
+today, it's, it's kind of the
+elephant in the room, so to
+speak, when.
+Looking at
+Uh, a lot of anxieties as we
+went over.
+in the slide.
+I think that anxiety if you
+equate it back almost to the
+Y2K.
+Right, when, when everybody had
+this anxiety of.
+And, uh, you know, I, I think as
+common as it is today, uh.
+With regards to even charging
+your laptop or charging your
+cell phone. I still face those
+same anxieties. I travel quite a
+bit across the state now with
+New Mexico Department of
+Transportation and
+Several occasions I left my
+charger at home from my phone.
+And uh you talk about anxiety,
+right? Being in a rural part of
+New Mexico with uh
+1% battery on your cell phone.
+That same anxiety exists today
+as we correlate it with
+electrical vehicles.
+And uh I, I think I'm a
+proponent of not one type of of
+renewable.
+I'm a huge believer in the need
+to reduce carbon emissions.
+And that's by any means. So
+whether we adopt hydrogen,
+whether it's a mix of EV.
+And I leave that to our our our.
+Nationals in the auto industry.
+I think they're they're the
+innovators and they're the ones
+that are really pushing the
+envelope and and.
+If you've ever read the book Who
+Killed the Electric Car.
+Uh, you fast forward to today
+and every automaker now.
+some version of an electric
+vehicle.
+Peter built one of the nation's
+largest.
+transportation, uh.
+diesel companies who just
+invested over half a billion
+dollars in E.
+Technology. I
+I think the train left the
+station.
+I
+Happy to be part of a state that
+is
+thinking, uh, and, and reading
+and
+You know, we travel a lot and
+engaged with a lot of other
+states that are way far behind
+with
+The state of New Mexico is
+doing.
+I know we have a ways to go, but
+I think um.
+TV today.
+is what
+was 10 years
+I think we will
+You, we're just gonna take 1 2nd
+to pass our minutes because it's
+back.
+So I
+I know you have rhythm in motion
+of
+that I'm sure I move that we
+talk, right.
+Thank you.
+Um
+Yeah, so, so thank you, ma'am
+chair and thank you for that
+answer. I think I'll just, I'll
+just conclude by
+Saying I
+The the
+When you look at an electric
+engine versus internal
+combustion engine.
+It's
+It's hard to find an advantage
+of internal combustion. So many.
+actually the electric engine
+was.
+Like motor was invented before.
+reason we drive
+Ford.
+vehicle, you would have to have
+a semi-trailer for the battery.
+It could have moved about 10 ft.
+Um
+So these advancements in battery
+technology.
+Allowed us to now use these
+great.
+Electric motors.
+So, as you look at where
+batteries are going to be.
+you know, it looks awesome.
+But
+hoping we're not putting the
+a little bit in front of the
+horse, because if all of a
+sudden
+You and
+Denver, I stopped in Las Vegas
+and it was like nothing else
+until you get to Colorado.
+So spring.
+You're having to spend
+$5.
+celebrate the.
+Juice to the charging station,
+right? So.
+So I just
+I just urge us to be cautious,
+it would be like right now.
+During your broadband effort if
+we decided we needed to.
+Copper everywhere.
+Right.
+Uh
+uh representative, you're
+absolutely right, because when
+I, when I embarked on building
+broadband for Kit Carson
+Electric.
+uh
+Cooling data room.
+That was roughly 20 by 20 by the
+time the project ended.
+data room that was 6 by 6.
+The advancement of technology.
+Severely reduced. I, I think
+those are the pains of early
+adoption and, and.
+Leading edge technology being at
+the forefront of some of this
+stuff.
+Uh
+I still think at the end of the
+day.
+we gain out of electrification.
+You, you
+If its light capacity builds, if
+we can use uh federal funds to
+help our local electric co ops
+through grants to do that, which
+we
+actually been at the forefront
+of being able to enable.
+To do line extension and
+upgrades, then I think it
+benefits us all. And I, and I
+think I, I, I, I look.
+get that through the lens of.
+In the areas of like the Permian
+Basin, I think our oil country
+oil rich areas are still looking
+for electrification for
+different reasons. It's more
+efficiency in running their fuel
+pumps.
+And I think part of that, uh,
+is, is just
+Cos it doesn't matter what part
+of the state of New Mexico you
+live in.
+Whether you drive an EV or you
+drive a.
+If you don't have reliable
+electricity. Nothing's going to
+work. Your pumps aren't going to
+power, you can't power the
+routers that need broadband, and
+you definitely.
+Thank you, Madam Chair.
+Thank you, Representative.
+Thank you, Madam Chair.
+Has there been any study?
+Performed anywhere with respect
+to
+And I know it's, it's.
+Probably way premature given the
+market penetration.
+of electric vehicles, but
+typically they would be much
+heavier.
+For the same size vehicle.
+Correct.
+Which would
+One would presume.
+Increase the wear and tear on
+our.
+Highways, do we know?
+We have any kind of projection
+of what that.
+Going to look like, uh, Madam
+Chair Representative Scott, we
+have started to not we, but I
+think the industry as a whole
+displacement and vehicle weight
+has started um again in speaking
+with our NMDOT engineers, that's
+something that is weighing
+heavily on their minds as to
+what road degradation looks
+like, so what used to be.
+10 or 15 year old may now be a
+5-year road.
+And so how we look at that uh in
+terms of recoup on the gasoline
+tax and being able to fund these
+endeavors and I, I look at it,
+especially coming out of a rural
+community where potholes are a
+norm.
+Uh, even on our, uh, New Mexico
+highways, um.
+Even more so on on city owned
+streets, it becomes more and
+more challenging, and, and yet
+we're starting to see more and
+more EV vehicles show up and I
+take Taos as a prime example
+because.
+Through the efforts of the co
+op, they've done a great job of
+enabling probably a higher level
+of saturation of EV chargers in
+that part of the state, uh, then
+probably anywhere else, even,
+even in the in the metro areas
+or or next to Albuquerque, at
+least.
+And so
+Firsthand as the city manager
+for the last 2.5 years at the
+city, that was something that I
+saw and, and what's interesting
+about it is that New Mexico is a
+state which is receiving a lot
+of transplants, um, that aren't
+registering their vehicles in
+the state of New Mexico. If I
+drive through Taos today.
+There's probably half the EV
+vehicles driving around have
+Texas, California, Oklahoma
+plates on them.
+And if we're not capturing that.
+By some way, some mechanism, and
+how are we able to satisfy the
+needs of our major thoroughfare.
+and so
+Again, being that EV is so new,
+I think we're just barely.
+And Madam Chair, Mr. Gonzalez
+today.
+I heard you say.
+Somewhere in your presentation,
+yeah.
+We were going, we were pursuing.
+At this point, electrification
+at any and a, a cost benefit.
+Analysis.
+Of these programs.
+short,
+certainly does for the consumer.
+Because
+You know, folks have to be
+incentivized. They have to,
+there have to be subsidies out
+there.
+Yeah.
+For those
+For those vehicles to move off a
+lot.
+In a poor state.
+If
+Uh, Madam Chair, Mr. Gonzalez in
+a poor state.
+If these programs are going to
+increase.
+The course to our consumers.
+Without some commensurate
+increase in a particularly.
+Do not see that.
+just
+I
+For obvious reasons
+So
+Electrification at any cost is
+an appropriate policy, and I'll
+use your example of
+Of Kit Carson.
+As I understand it, Carson's got
+some of the most.
+Expensive electricity in the
+state.
+Ezakov, not just.
+E
+And electrification of.
+Mr. Green Energy.
+Movement in general.
+So
+For members of the committee, we
+need to keep in mind.
+That there is no free lunch.
+And to the extent that these
+Technologies are not as
+efficient.
+As what's out there and proven.
+Reliable
+For 100 years.
+Yeah
+We need to be cautious about
+jumping headlong into this
+because we may thank you, Madam
+Chair. Thank you, sir.
+Chairwoman and representative um
+a multitude of of points and
+facets, I think.
+Uh, as, uh, who has.
+What I guess I would call a
+there's a high level of need,
+what the cost implications of
+not you that subsidies will be
+needed and again, you know.
+Not to keep taking it back to
+broadband, but when I started,
+it was something that was uh
+high uh megabit speeds delivered
+to the most affluent of I think
+the end goal was to make sure
+that we put broadband in the
+hands of every single person
+that was within our community,
+and I think as we look towards
+the future, and again, not, not
+in one basket with, with
+electrification.
+I still believe that we need to
+and I think the state is doing a
+great job and doing our part to
+moving the needle, uh, to a more
+carbon-free environment, and,
+and that's not just for today,
+that's for future generations.
+And uh I think there's windfall
+benefit across all sectors. I'm
+not saying that one sector has
+to get done away with by any
+means, that's inclusive of our
+of our uh oil and natural gas
+industry, it plays a vital and
+integral part within our state
+and
+Especially as it as it as it
+keys to our budgets. um, but I
+think there could be more useful
+purpose of those resources as
+opposed to how we're, how we're
+recognizing their use today.
+And so, uh, you know, like I
+think the Carson example is one
+by which at a time when uh
+inflation was rising, uh, kids's
+rates dropped by 25%. And that
+was a statewide, and that was an
+arbitrary decision to build.
+Solar capacity that was 100%
+that community today is powered
+100% today by daytime solar.
+Uh, the co op today, I believe
+has about 30 megawatts of their
+88 megawatt load on battery
+backup and storage, so as they
+continue to progress, and they
+just received a federal grant to
+do hydrogen fees.
+about $96 million. So I think.
+More co-ops throughout the state
+of the of New Mexico with the
+amount of sunshine days that we
+have.
+their job in providing for their
+constituency too, I think
+electrification.
+is as equal to broadband in
+which it's a right to every New
+Mexican, and it comes as a right
+uh to be affordable, reliable. I
+think at the end of the day
+when, when we walk in our homes,
+uh, we want the lights to turn
+on. So when we hit that switch,
+the reliability falls within
+that switch, and I think a lot
+of consumers myself included,
+um, sometimes have pains with
+rate adoption or rate increases,
+never really understanding that
+that and then the second
+question.
+Homes that don't have a er a
+panel.
+And they all be upgraded to 200
+amp or does it depend on how
+Old neighborhood is in the
+infrastructure.
+And interior representative
+Harper, those are fair
+questions. Engineering is
+required for.
+Requirement of the utility.
+Um
+Probably not necessary in most
+cases.
+But it's a requirement. So
+during that.
+During part of that, TM's gonna
+look throughout.
+in the panel to do and and I'm
+sorry, the second part of your
+question.
+Um, yeah, Madam Chair, Mr. Shaw
+was.
+Can any home be upgraded to 200
+amps.
+Yeah.
+I'm sure
+Yes, almost 95, really run into.
+Someone with a 100 amp panel.
+Thank you, Madam Chair, and Mr.
+Shaw, um.
+And then I want to uh thank you
+for your comments regarding, we
+don't need to build.
+Charters every 50 miles. I
+totally agree with that.
+I, I think you're right. Um,
+I've been to lots of hotels that
+have EV chargers.
+I think more businesses that do
+that.
+Um
+That makes way more sense uh to
+me.
+Um
+Thanks to the just the last
+thing I'll mention, Madam Chair,
+uh, this is just a
+Maybe a comment from from uh
+Senator Souls talking about the
+uh cyber truck.
+And uh just how ugly it is. Um,
+uh.
+Yeah, I
+I think
+Yeah, beauty is in the eye of
+the beholder.
+Um.
+No, but, um, what I find
+fascinating is
+Elon Musk is having us folks by.
+Rev one of his Mars rover.
+Everything Musk does is about
+Mars.
+Everything
+Tesla
+Is there oil on Mars?
+I don't know.
+Probably not.
+So all transportation on Mars is
+going to be electric.
+It's a boring company.
+Right?
+Digging tunnels and putting
+loops under Las Vegas.
+have to live underground.
+On Mars
+Because of radiation.
+Those that you look at the
+diameter of those tunnels, they
+happen to fit on a rocket.
+Right?
+So these there's gonna be
+building tunnels in Mars for us
+to live under, right?
+Uh, even, even Starlink, right?
+The constellation that we're all
+gonna get our cell phone from
+eventually.
+Cell phone service from.
+Do you think we want to take
+hundreds of tons of fiber to
+Mars.
+No, we're gonna set
+OK. So a car drives by. You put
+these along a highway, cars
+driving by stimulating
+turbulence. This thing starts
+throwing out electricity like
+crazy. We can put those in these
+charging ups. They're small.
+They're not like a windmill.
+They're very attractive. They're
+hexagonal.
+Right? It's, it's, it's an early
+stage company. They've proven
+this technology, they're now
+trying to get, get it, they
+haven't manufactured, they won't
+be available now for about, for
+about a year.
+I'm working very hard and I'm
+very close to getting them to
+base their US operations in New
+Mexico.
+But that's going to be a huge
+opportunity to charge batteries
+with something like
+Wind that really turbulence.
+OK, you'll be able to put these,
+first of all, these things work
+24/7, because the wind blows all
+the time. OK, you can put it in
+a city like New York City and
+that wind that goes through the.
+between the buildings it's gonna
+just create win and when we have
+plenty of one here to ground
+level winds, not high off the
+ground.
+So there's, there's new stuff,
+technology coming that's gonna
+have dramatic impact.
+On the future of Avis. So our
+big single installation is in
+Georgia.
+We are very active in the state
+of Georgia. Georgia through
+Georgia Power, which is much
+like PNM.
+Um, is, is very aggressive in
+installing EVs and encouraging
+EVs.
+Um, part of the reason for that
+is not, does not relate to
+almost none of it in their case
+relates to trying to save the
+environment.
+They're looking at it as an
+economic opportunity.
+Because by having all this EV
+capability and electrical power.
+OK, they can attract companies
+to move there.
+Much like we did in Los Lunas,
+you know, with the, with the
+data centers.
+OK, that, that ends up being
+able to to provide green power
+to companies turns out to be a
+huge benefit in attracting
+companies to location in
+Georgia, Tennessee have been
+very successful, uh, with, with
+that kind of approach.
+Um
+The key to Georgia was not.
+EVs
+It was attracting companies. It
+was economic development
+opportunity.
+Right, and they're outrageously
+successful at it.
+So what's happening? What, what
+do we do for New Mexico. A,
+we've got to stop thinking about
+the EV world of yesterday.
+As we try and roll out the world
+of tomorrow.
+Or shooting in a moving target.
+If we shoot where the target is
+today, we're going to miss.
+And that's what we're doing, I'm
+afraid.
+We've got to shoot for
+the target's going to be.
+One of the biggest users of, of
+EV equipment in the country or
+the oil companies.
+They're just trying to reduce
+their own costs.
+They, they're very supportive.
+They just haven't invested in
+the industry yet, but they have
+invested uh in, in themselves.
+Decarbonization is going to be
+crucial.
+And we have, you haven't heard
+anybody or I haven't heard
+anybody in New Mexico talk much
+about industrial.
+Decarbonization.
+We talked about EVs, but we
+don't talk about industrial
+decarbonization and even more
+important for New Mexico. We
+don't talk about agricultural.
+Decarbonization there's huge
+opportunity.
+In in both of these spaces, and
+again, I don't think we've
+addressed it yet because
+We're focusing on cars.
+But if you look at uh the 11 of
+the gentlemen this morning
+talked about Peterbilt.
+Um, the, the, the Mercedes
+division, the big truck
+division, um.
+Can't remember what it is, but
+they, they, they're, they're all
+the EVs, so we had
+We had a demonstration in
+Georgia at, at, at.
+At the
+Second largest port.
+The port of Savannah is the 2nd
+largest port in the United
+States.
+We had a demonstration at, at a
+site that they that we put in
+there that will ultimately be.
+20 light duty vehicles and 10.
+And chargers for heavy duty
+vehicles, semis.
+We brought in a demonstration
+and they sold 2 semis, electric
+semis, at that demonstration
+while we did this demonstration
+at the port of Savannah. What
+are we doing in Santa Teresa?
+Who's thinking about charging.
+tractor trailers in New Mexico.
+They were a huge component of
+the, of the, the pollution that
+comes out of Mexico.
+But everybody is coming, all the
+major truck manufacturers are
+coming out with electric semis.
+Teslas is, I don't know if
+they're selling it yet, but
+they've certainly announced that
+others are selling it too. We
+have, we have a huge opportunity
+if we installed significant
+charging capacity at Santa
+Teresa. I've tried, I've talked
+probably 6 or 8 different people
+at Santa Teresa. No one's in
+charge.
+I don't know who to talk to. I
+haven't been able to figure it
+out.
+On and or cause we would, we
+would go to Senate 3 cents,
+start installing chargers. I
+again, I don't, I don't know how
+to do it, but that's, that's my
+frustration.
+We are focusing heavily on
+agricultural charging.
+Industrial charging. We're at 7
+ports around the country. Some
+of, some of that uh is for dr
+equipment, just how do you move
+stuff around the port?
+OK, um, some of it is, is like,
+uh, a 60 ton forklift.
+OK, those should be electrified.
+It's cheaper and they last
+longer.
+Uh,
+so Pors are, ports are a major
+opportunity for us, uh, and,
+and, and so we're, we're, we're
+doing everything we can to be
+able to, to, to meet.
+Um, the requirements of those.
+places that you don't normally
+think of.
+Um
+New Mexico has a real
+opportunity.
+Because while we hear about
+California doing a lot in this
+space that it it they're not
+doing it right and they're
+already stuck with an installed
+base that's that's partially
+obsolete.
+We haven't done much yet. We
+really do have an opportunity to
+lead the country, but we have to
+take risks.
+You can't predict the future.
+You can get guidance.
+But you have to be willing to
+take risks and maybe make some
+mistakes, you hope don't want to
+make core mistakes, but you can
+make mistakes on the periphery
+and not have it impact you.
+Um
+CNM is, is, is good at at
+The incentives that they're
+creating.
+They're they're doing a terrific
+job.
+I think El Paso Electric for the
+whole southern that the cruises
+and the other part of the states
+is doing an OK job.
+Doesn't have as much incentive
+as PNM does.
+Uh, but they're interested.
+We've talked to both.
+Um
+There's a lot that needs to be
+done. I don't know exactly what
+it is to be done.
+But there are opportunities if
+we can can come up with a long
+term vision and then probably
+create a public-private
+partnership rather than rather
+than letting bureaucrats make
+decisions.
+Because the bureaucrats, I've
+had just personally in the
+various businesses that I do.
+I've had too many experiences
+with the legislature does his
+job, passes.
+Uh, a law and the bureaucrats
+end up changing it, so it's not
+as effective.
+So to me, we got to get it out
+of the hands of of the
+bureaucrats if we're really
+going to to to do it properly.
+That's my personal bias.
+That you guys have to deal with
+every day more so than I do.
+Um, so, so that's my theme.
+Um
+We, we
+The important takeaway here is.
+Don't target the past.
+Margaret, where we're going to
+be.
+Form private doesn't have to do
+with us, but form, you know.
+Public-private partnerships and
+make it really happen.
+And it's got to be driven not
+because not for environmental
+reasons. There aren't enough
+people who are
+environmentalists.
+Who will buy the EVs because it
+saves the planet.
+They'll buy it because it's fun
+to drive because they save
+money.
+And so we have to position it.
+In that way, the farmers,
+they'll buy the agricultural
+equipment because they're going
+to save money.
+And, and they do.
+And that's why Peter built and,
+and, and
+International harvest or they
+still around and others like
+those those big companies,
+they're all creating electric
+versions of their, of their
+heavy equipment.
+Um
+And, and, and again, pay
+attention to other than just
+cars.
+Um, we can see what other states
+have done. We can see what it
+looked like again, especially
+look at Georgia, Tennessee,
+North Carolina, they're way
+ahead of the West.
+OK. California has done it
+oddly, but and and not really
+successfully, um.
+And crazy expensively.
+But if you look at those
+southeastern states.
+You're you're gonna find that
+there's significant.
+Opportunity to copy and learn
+from what they've done.
+Uh, fleet management is going to
+be important.
+OK.
+Help, help companies that have
+fleets.
+To to convert.
+So, so those are my
+General observations and and and
+advice and I'm happy to take any
+questions if anyone has any.
+Represented Scott.
+Uh, thank you, Madam Chair, Mr.
+Rose.
+Do you believe that this
+technology
+Will ever exist.
+Without the need to consume
+taxpayer dollars. Yes. Oh,
+without question, and at what
+point does that occur?
+And what energy density.
+Of battery technology does that
+occur?
+In most industries.
+Mm
+There's a, there's a period
+where they are created and then
+grow.
+And
+The establishment that's in
+place will always say you can go
+back to the railroads.
+We always say we don't need
+that.
+Because what we have is OK.
+Um
+And I don't know exactly where
+the critical mass is.
+That where when we convert from
+Uh, I
+To
+TV
+Uh, but it's all gonna be
+driven.
+As Representative Harper said
+earlier, it's all going to be
+driven by battery technology.
+US representative or Scott
+earlier
+about the weight of the
+vehicles.
+And, and that's going to be
+impacted by battery technology
+too.
+Um, and, and also what, what
+hasn't been recognized here is
+that there's now a
+That there's been a dramatic not
+obvious change in the technology
+of tires.
+That are used on EVs.
+And they are now.
+Not where we need to be yet, but
+they're having significant
+impact on reducing this new tire
+technology on reducing the
+impact on, on the, on the
+highways of these heavier,
+heavier vehicles. So I'm sorry,
+I can't answer your question
+exactly.
+Um, but
+It, it, the
+I know the technology space is
+changing so dramatically and,
+and it's not gonna be too long,
+10 years.
+Oh
+Madam Chair, sir, I
+I have to disagree. I've heard.
+This technology compared.
+To the electronics right right.
+Revolution, if you will.
+What was Moore's law that
+processing power doubled every.
+3 years
+7 years, 2 or 3, I think, yeah.
+3 years I think and that
+circumstance is not in evidence
+with battery technology, and in
+fact,
+Those improvements have actually
+started.
+Plateau
+Now right now we are having.
+The pay consumers.
+To adopt this technology.
+Sooner or later.
+That process has to stop.
+These have to be able to stand
+up.
+In, in the court.
+Of competition and be
+competitive and nobody.
+It's
+That's made any presentations
+today.
+Will make any pre we'll make
+any.
+Representation that that day is
+coming.
+Everybody
+That's more money.
+Matt, uh, Madam Chair
+representative Scott, I could
+give you an example of a company
+right now. It's based in New
+Mexico that's gonna change it.
+It's a company called Flow
+Aluminum.
+And what they're doing is using
+aluminum, aluminum, and carbon
+dioxide.
+To make batteries
+They're lightweight.
+And they have more energy
+density.
+At this point they've
+demonstrated that they work and
+their challenge right now is to
+scale up manufacturing, but the,
+the potential opportunity there
+is outrageous.
+Well, what's required?
+At least from what I've read.
+is we need to go.
+Uh
+Maybe not an order of magnitude
+improvement, but certainly a 3
+to 4 x order of improvement.
+Or this stuff to be economically
+viable.
+And right now
+Nobody is predicting that that's
+on the horizon in a 5-year, 10
+year, or 15-year period.
+So
+Yeah.
+One of these days, one of these
+days.
+This body
+We'll have to recognize.
+That that technology needs to be
+able to compete.
+And needs to be able to compete.
+Without taxpayer dollars on it.
+Madam Chair Representative
+Scott, I agree completely.
+You'll see that in 2026, Toyota
+has announced they're going to
+introduce a car with 750 mile
+range using new battery
+technology.
+2026, only two years away, 1
+year and a half, maybe. I don't
+know the timing, but it's
+coming.
+And, and yes, it's not out there
+yet.
+All right, but it and you're
+absolutely right, it should not
+need taxpayer dollars. It needs
+taxpayer dollars to launch.
+To do this research.
+And to create the market
+opportunity, but it doesn't, it
+won't need it forever, Madam
+Chair, we've been launching
+this.
+stuff now for 15 years.
+Yeah.
+Or maybe longer.
+Perhaps it's time for it to fly.
+Thank you, Madam Chair. Thank
+you, sir, for your answers very
+informative.
+Representative Harper.
+chair and uh
+Doctor Rose, thank you for your
+presentation. Um, and I'll, and
+I'll just first thank uh
+Representative Scott for his,
+his comments. Um, I, I can maybe
+speak a little bit to it, um,
+because I've been
+Studying this for the last
+couple of years before deciding
+to buy a car or not, but
+Um, the energy density for our
+best batteries right now.
+It is about 100 times less.
+And the energy density of
+gasoline.
+Right, so when you think about
+the size of your gas tank in
+your car versus the size of an
+EV and the respective range,
+right? That kind of makes sense.
+And that's really kind of the
+I'll say the, the, the opening
+threshold energy density that
+has allowed electric vehicles to
+become a thing.
+Um
+And, and I also say, um,
+Uh, you know, as a dabbling
+electrochemist, um,
+We really need a eureka moment
+in energy storage technology.
+Batteries today are essentially
+what Volta invented back in the
+1800s, we just have better
+materials.
+Um, but they essentially do the
+The exact same thing. So, so a
+eureka moment will eventually
+happen.
+Um, uh, but
+I guess I, I don't think we
+quite need that eureka moment to
+get to the point where we don't
+need to fund, uh, subsidize it.
+Um, and I really appreciate what
+the tax committee did, um,
+Last year with the
+New Mexico incentives.
+So we now have in New Mexico.
+EV incentive charger and fast
+charger, um, incentive. They
+actually phase.
+Out
+Over
+About a decade, um, so the
+first.
+Um, you.
+Uh, Madam Chair, uh, that, that
+may be true, but I love how we
+structured it, um, because that
+makes sense to me, like right
+now, solar panels.
+Um
+Of significantly lowered in
+cost, and it now makes sense to
+buy them outright. You'll get a
+return on your investment in
+about 10 years.
+So do we really need to be
+continuing incentivizing those
+it's probably about time to
+start phasing those out.
+Um, but I appreciate that we
+built.
+Our state EV tax credit that
+way.
+Um, that it, that it phases out,
+um, and then maybe another quick
+comment, um, just talking about
+the weight of the vehicles.
+Um
+I'm
+Fascinated, you know, the, the
+car that I got.
+weighs 10 pounds more than the
+BMW 3 series that I could go and
+buy right now.
+So they're
+Yeah, they're, they're heavy,
+but it's not like they're.
+Like twice the
+The weight of a car, uh, a
+regular ice car going down the
+road.
+Um
+So, anyway, just a
+Couple of thoughts, um.
+So, uh, Madam Chair and Doctor
+Ross, thank you for your, your,
+your presentation. I guess just
+maybe one conceptual question.
+I, I love that you are saying we
+need to be
+Looking at where we want to be
+in the future and not trying to
+Make up for the past or be, you
+know, target where we're at
+right now.
+Um, I feel like we often do that
+here, not on purpose. We're just
+trying to do the best we, we
+can, um.
+I, I think one example of that
+is broadband or
+We're, we're spending a lot of
+money putting fiber in the
+ground and in 5 years, we're all
+going to be getting our internet
+and cell phone coverage from
+satellite, um.
+So, we probably could buy every
+New Mexican a
+Subscription and a broadband
+satellite for less than the
+price of we're spending on
+fiber.
+Um,
+But that said, kind of where I,
+I know this is a hard question
+to answer because I'm asking you
+to look in the crystal ball.
+But as policymakers, as we're
+looking at trying to roll out
+this infrastructure in the best
+way possible.
+Realizing there's real needs,
+health care and education that
+makes up the biggest portion of
+our state budget.
+Um, what
+Counsel would you have as we try
+to roll out smartly.
+Um, this new infrastructure.
+I, I think
+What I would do
+Is not focus as much.
+On, on the consumer.
+I, I'd focus on.
+Corporate electrification.
+It's easier
+It's easier to understand.
+Where
+Um, where the impact can be.
+It's easier to talk to the
+people, they don't get
+emotional.
+OK, they just fundamentally look
+at
+The numbers
+And, and
+And so if you started with.
+The agricultural of farmers.
+And some of the
+manufacturing companies and got
+them to electrify.
+The consumer will follow.
+Instead of trying to get this
+massive emotional consumer
+group.
+Aligned to move in the same
+direction.
+So I think that's what I
+Fascinating.
+Thank you, Madam Chair.
+Thank you, Representative Nix is
+Representative a comment that he
+and others, you know, he's not
+alone, so I'm not, you know, I'm
+not picking on him.
+Um, bring up this issue about
+how much we're investing in.
+like, you know, electrifying the
+the country and um points to the
+fact, well, we're not self,
+they're not self sustaining yet,
+and you know, when is are they
+going to be self sustaining and
+all these kinds of points, all
+legitimate points, but.
+And if we were just purely
+thinking of this as a
+capitalistic endeavor, you'd
+say, OK, well, you know, show us
+the beef, it's, it's a
+capitalistic, but it's not just
+a capitalistic endeavor.
+So we shouldn't be analyzing it
+just like it's a capitalistic
+endeavor. We are working on
+trying to save the planet, you
+know, and I like.
+Sorry to be a little dramatic
+with that, but we know that we
+need to lower our our carbon
+emissions, that's clear.
+Most of us, um.
+And so we're investing in
+lowering our carbon emissions,
+not just a capitalistic
+endeavor, um, and I'd also point
+out, you know, the, the oil and
+gas industry get all kinds of
+subsidies from us, I mean, you
+know, just we had that
+controversy with the stripper
+wells, who should pay for
+cleaning up the, you know, the
+messes that they what we invest
+in those guys all the time.
+And so you know, I to say that
+we're just doing this with
+regard to electrification is,
+you know, only talking about
+half of the story or or just one
+segment of the story, so, you
+know, keep in mind there's a
+public policy we're pursuing
+pursuing besides propping up an
+industry, it is helping the
+planet and we're trying to get
+them, get us all moving in that
+direction, and I'm pleased to
+see that there's much more buy
+in to that as a concept, and
+maybe there was even 5 years
+ago, so all of that's good. So I
+just.
+That's my kind of reply when
+they say, well, show me when
+they're gonna be
+self-sustaining. Well, OK, we
+need to think about that, but
+you know, in the interim, we
+need to keep pushing it, so
+that's all I have to say. Thank
+you. Thank you for listening,
+presenter.
+Thank you, Representative. I was
+gonna say the same thing, but
+different words, but I, I had to
+do that on probably nicer,
+probably nicer
+thing on Tuesday when we were
+talking about renewables, but
+same, his partner, um, anyway,
+thank you, um, I have to tell
+you these two gentlemen, last
+two presenters I met during my
+installation of my home charger
+and um when we discussed um
+charging at uminrock. I, I just
+got my car and and I charged it
+here and it was like 30 cents a
+k.
+And then I went to different
+charging station, and it was
+just crazy more and um nothing I
+was expecting cause it was all
+new and uh so I called his
+company and like I said, you
+know, why is it we're trying to
+get people to use EVs and your
+charging station is so expensive
+and it's his um person came on
+and then it let it led me to
+speaking to him. So that's why
+he's here because he has these
+great ideas and he's brilliant
+and uh Mr. um Rose and the Rose,
+right?
+in the back also guided me to
+get shots, OK, these two guys,
+um, they have been part of my
+life in this electric vehicle
+struggle, but um adventure,
+yeah, journey, OK, but thank you
+both. I appreciate you both
+coming and we've learned a lot
+from both of you and um this is
+a new area we have to get better
+at, and I think we will, and um.
+Whatever we do, we have to like
+representative Chandler said
+it's about our planet and our
+kids and our grandkids and our
+future, and this is just one pig
+in that, in
+um, movement, so thank you so
+much. I appreciate you. Thank
+you.
+person
+All right.
+last presenter.
+Um, New Mexico alternative fuels
+strategies, making the most of
+the federal tax credit.
+Program.
+Um, welcome.
+My Halloween costume is bad
+ninja.
+Oh.
+Takes me a minute to get
+settled. I had shoulder surgery
+on Monday. Well, not this
+Monday, Friday.
+Well, thank you for being here
+and whenever you're ready.
+Sure
+Um, we're gonna attempt to, this
+is an animated, uh, PowerPoint
+and so we're gonna attempt to.
+Not that exciting.
+Um,
+I'm gonna follow along here so I
+can hopefully see what you're
+seeing. Um, so my name is Pucker
+and I'm the director of the
+Energy Conservation and
+Management division over at
+Ener, um.
+We tweaked our acronym slightly
+because we're so much more
+public now, so instead of ECMD,
+you're gonna start to see ecam a
+lot more, and that's just our.
+Hope to be recognizable on the
+side of a bus as we have to do a
+lot more outreach.
+Um, and a couple of comments
+before I plunge in on what we're
+doing on the state side, um,
+from the prior presentations,
+um, we are about to try to
+develop a transportation
+decarbonization roadmap to bring
+together a lot of these
+disparate voices that you've
+been hearing.
+Um, modeling off of a building
+decarbonization roadmap that we
+completed this summer.
+Um, I don't know if any of your
+presenters have mentioned smart
+grids or um grid management or
+the batteries that EVs bring,
+but.
+Put that in the room. Um,
+gasoline sales don't make profit
+either. They make their money
+off of the Doritos, as we all
+know.
+Um, we are about to enter into a
+partnership possibly with Flow
+Aluminum also, and that's
+another conversation and again
+to representative Scott's
+question about the Chargers, I
+would.
+Point out that I think the issue
+is less about battery density
+and more about a charging
+network. In other words, if you
+look at your cell phone, you
+don't really think about the
+charging density of your cell
+phone, you think about, well,
+where's the nearest plug?
+Until plugs are as ubiquitous
+for cars as they are for cell
+phones. I think it's a charging
+challenge that last a battery
+challenges. Um, all right.
+Next
+I'm gonna say next slide, I'm
+just gonna say next. So we are
+in the middle of a just
+transition strategy over at
+ECAM, um, there's lots of
+support available right now in
+the form of loans, grants from
+the IRA, grants from the BIL,
+which primarily is what my
+division does is pursue and then
+flow through the.
+On division, but primarily, um,
+and tax credits and some other
+financing. So we have this, this
+cornucopia of opportunities and
+we're trying to be strategic
+about how to deploy them. So
+we're generally thinking in two
+phases. Um, the first phase is
+funded mostly by grants. These
+are mostly federal grants, the
+targets in the household world
+is the low income households and
+in the business world, it's in
+supporting newer technology, as
+we discussed, um, and the goal
+of phase one is to really, by
+the time we've spent down on the
+grant money to wind up with a
+buff workforce and a really fat
+slowing, flowing supply chain in
+New Mexico.
+Next
+See if this works.
+Good. And then phase two, I will
+be funded more out of loans and
+tax incentives, um, and some
+other, you know, interest rate
+buydowns and some of the
+creative financing, the target,
+uh, households is more moderate
+income, the target in the
+business and industry world is
+more about expansion and
+implementation of the new tech
+and the goal for phase 2 is a
+wider distribution and something
+that we as a state can sustain
+fiscally prudently for decades.
+Um
+And next, you may notice the
+phases.
+Can and will and already are
+overlapping a little bit.
+Um, next,
+So challenges New Mexico faces
+in terms of EV adoption, and
+I'll just preface this by saying
+I know that you're, you're
+focusing on EVs today, um.
+There is sort of two
+conversations. One is about EVs,
+the other sort of moving about
+moving cars, there's another
+conversation which is really
+about moving people. And they're
+not always the same here in New
+Mexico in a rural state, yes,
+moving people usually equates to
+moving cars, but not always.
+Um, but if we're going to
+restrict the conversation to
+just cars, some of the
+challenges we face, um, next.
+is we have a we're a poorer
+state. We have lower incomes and
+so that's a smaller market for
+new cars.
+Um, so next.
+Solution that we can look at is
+to focus also on the used
+secondary market for EBs as you
+did with the smartly crafted EV
+tax credit or clean car tax
+credit. Next.
+You're fast. Thank you.
+There's also what we call
+newness hesitant hesitancy.
+Obviously it's a new technology.
+There's lots of questions, a car
+is has to be reliable and
+central to someone's household,
+so how do we get over the
+newness hesitancy, uh, next.
+Um, and we are hoping to as eCAM
+as a state agency, be a provider
+of neutral, reliable, factual
+information, no spin, we're not
+in the game to make money one
+way or the other. And we have
+launched a new website, Clean
+Energy.nm.gov, which is.
+Our one stop shop, um.
+Re-clearing house website, um,
+funded in part by an
+appropriation from the
+legislature. Thank you very
+much, um, which is to help New
+Mexicans navigate.
+All of this, including EVs.
+Um, next.
+Obviously there's a a range
+challenge we just talked about
+this with high windshield miles
+in New Mexico and a solution for
+that could be next.
+Chargers, charges, chargers, and
+sign it to the chargers.
+Um, next slide
+Continuing some of the
+challenges that we face in New
+Mexico with the adoption is
+next.
+Uh, service, so as you know, EVs
+require less service, but they
+still require some service every
+now and then or something goes
+awry, um.
+But, yes.
+They require less service, but
+it can be far to the nearest
+dealership and we also may have
+a loss of auto shop jobs. I'm
+sure you've seen.
+Pretty much in every small town
+in New Mexico, there is an auto
+body parts or an auto mechanic
+shop, and we want to make sure
+as we do this transition that we
+take care of those folks in
+those jobs in those small
+businesses and don't leave them
+out.
+Um, so solutions next is uh
+supporting dealers and also
+really focusing on the workforce
+transition, which you'll hear
+more about later.
+Um, next
+Another challenge is, as you
+heard about our grid edge is not
+ready, uh, flowing that many
+electrons all the way to the end
+of the grid to the end of a
+cul-de-sac, something that our
+grid is not ready for. I
+actually just testified this
+morning at a PRC hearing about
+this very topic, um, and so
+that.
+Things we could do would be to
+support grid modernization
+efforts, which this legislature
+has done, um, via legislation
+and the PRC and some of the
+other um statutes that you've
+put in place, um, next, yes,
+being proactive with the grid
+build out, um, and thinking
+about the rates that we that
+we're charging for customers,
+and I'm just added a little note
+here. Let's not forget our
+co-ops in this whole
+conversation.
+Um, in our favor here in New
+Mexico in terms of the EV
+transition, um, we do have,
+yeah.
+High home ownership, even among
+low income proportionately to
+other states, which does lend
+itself to at-home charging, even
+though that's.
+Um
+Not going to be the solution for
+everyone.
+And next.
+Yes, so home charging is a real
+option. Also in our favor.
+liquor. It's low electricity
+rates in New Mexico compared to
+other states, um, meaning next,
+you all is cheaper than gas. I
+drove here in my electric car
+and I participate in P&M's
+overnight charging program and I
+commute back and forth from
+Albuquerque and I fill it up
+every night for $3.
+Um, so what we're doing in this
+office next is focusing on those
+two things on the home charging,
+especially also including
+multifamily and the
+Cost of ownership is cheaper.
+OK.
+Moving on, we have lots of
+resources, as you know, and I'll
+walk you through some of them,
+some of them came from you also.
+I'll know what they are and I'll
+go quickly, but some of them are
+from the IRA or the BIL, um.
+Yes, so I'll walk through, uh,
+this is just that we have about
+35 different programs over um
+e-camp, 2 more I got added this
+morning and we won 2 grants
+already this week.
+Um
+And this is the subsection of
+programs that are connected in
+some way to EVs that can be to
+Evie's directly and clean cars
+directly and also to the grid
+and the charging that's needed,
+um.
+So we have
+N
+Um
+Uh, aloneon of a federal energy
+efficiency revolving loan fund,
+um, which can include.
+Uh, upgrades for your home
+panels, that's 5.4 million and
+we hope to revolve that fund
+many, many times over, so it'll
+be 5.4, 10.8.
+162 etc.
+Uh, you're eligible if you are a
+homeowner or a building owner,
+so it's fairly broad, um, and
+then going to workforce, we have
+ongoing sustainable education
+for advanced buildings, uh,
+federal grant. This is to, uh,
+train folks like my friend Bob
+back here and upgraded um.
+Building codes that is up and
+running in those classes are
+available right now.
+Um, next, please.
+Um, then we have acronym City.
+We have EECBG, the energy
+efficiency and conservation
+block grants. Um, this is
+federal funding for large
+variety of energy efficiency
+improvement. Again, it can be
+used to help.
+Uh, buildings upgrade their
+panels for EV charging,
+including municipal projects,
+government projects, and
+multi-family as well. It's
+fairly broad.
+Um, that's 1.7 million, it's
+already allocated, uh, hopefully
+we'll get another batch of it.
+And then it's allocated cuz we
+bundled it with the C grant
+coming from this legislature of
+10 million, um, and you know
+what that is about, um, and
+where you that also will help
+upgrade the buildings so that
+they can charge more. Um, next.
+Both of those are allocated and
+out the door and the need is
+high, so hopefully you'll will
+consider a second round of seed,
+perhaps.
+Um, next, yeah, 3 or 4, there's
+now on the grid side of things,
+this is a federal grant which we
+supplied a match for, um, we
+supply about 1.7 million a year
+depending on the legislature and
+uh the feds matched that at
+about 7 million. So if we invest
+1.7, they give us 7 and change.
+Up till now we've accumulated
+about 14 million, and this is to
+help the utilities upgrade the
+grid, um, not only to make it
+buff for EVs, but also to do.
+things like prevent wildfires.
+Um, next,
+Allocated around were rounds 2
+and 3 are.
+Uh
+In process.
+Um, and then these are.
+These two grants, sister grants
+are the federal home rebates
+programs. This is a really great
+grant program. They total about
+87 million total, and it is for
+discounts at the register for
+low income folk to do home
+efficiency and home
+electrification, and that can
+include upgrades for EVs, um,
+next.
+Very proud that we were the
+first state to apply for both
+programs, and we were the first
+state to launch retail. Um, we
+launched in Lowe's on September
+3rd and yesterday added Home
+Depot and there's more retailers
+coming down the line, so we
+should be very proud. um, this
+means New Mexicans can apply
+online at that website that I
+mentioned, they wind up with the
+coupon on their cell phone, they
+can pick out their, their
+insulation or their electrical
+wiring for their EP, go to the
+register it loads and get.
+800
+$16,008,000 off what they're
+purchasing.
+They're significant.
+Um, next
+Upcoming, uh, EV related grants,
+these are in the pipeline. These
+are both.
+Uh, workforce grants to trek
+grants. One is Formula what is
+competitive. They're both
+training for residential energy
+contractors like our friends,
+bullfrog friends, um, the first
+is for 1.5 million, the second
+is for 2 million. They do the
+same thing and help train our
+workforce to do all its
+installation.
+Next
+Uh, then this is an existing tax
+credit. I'm moving into tax
+credits now, so we're moving
+into phase two. You all are
+familiar with this one. It's up
+and running right now, the state
+sustainable building tax credit.
+It's really too tax credits in
+11 is for energy conserving
+products like heat pump, um, he
+pump water heaters, etc. and the
+other is for commercial
+renovation or new construction
+projects, and EV readiness is.
+Uh allowable in both of those.
+Next, please, thank you.
+Um, and then the, oh.
+Mm
+OK.
+Ended up hold that red freight,
+hold that, that didn't appear
+here. It's going to appear on
+the next one. The next.
+Yes. And then the EB tax credit,
+I don't think I need to spend
+time going over that other than,
+uh, we opened the portal. My
+office is the one administering
+that, and we opened the portal a
+few weeks ago, um, and the red.
+Uh, lettering was supposed to be
+on here. We've got 63
+applications already that we are
+approving out the door. It's
+about.
+40-ish cars and.
+In the teens amount of chargers.
+No level 3 chargers yet.
+But it is $25,000 tax credit for
+level 3 charges.
+Um
+Oh, there it is.
+Those are old.
+It's every day it's updated, so
+it's up to about 60 applications
+now.
+Um
+I will note that if you go to
+next.
+Oh, yes, so we in collaboration
+with Thaksin Rev and with MVD,
+we innovated a way to do that
+transfer of that text credit
+effectively at the point of sale
+in the dealership. So if
+The car dealer is willing, they
+can effectively offer and on the
+hood discount. Um, I'm very
+proud of that work that we did
+with the agencies. I think it's
+really important because going
+back to different incomes and
+who can afford a car. This opens
+up, um, EV affordability to
+moderate and lower income
+households as well because they
+don't have to front the money
+and then wait for tax time.
+Um, next
+And next
+And this may open the door, this
+structure may open the door, um,
+to kind of other point of sale
+discounts in the future via a
+tax credit mechanism, um, if we
+so choose. And I think that's
+pretty important. Next.
+Yes.
+OK, and then you are aware next.
+Of the federal tax credit, which
+can be stacked with our state
+tax credit for EVs.
+Not gonna spend time on that
+one, you know it. Um, and next,
+moving on to my last sort of,
+well, last financing side is
+other financing, um, there is a
+need for to help folks when they
+have to front money, so when
+they, um.
+Might be eligible for a tax
+credit but can't afford it
+upfront. They could their way to
+get a green loan or something
+similar. So my office is
+actively issued an RFP to
+partner with a sort of green
+financial entity to help the
+whole spectrum, everyone from
+individual homeowners all the
+way up to commercial fleets and
+everything in between, because
+we don't exactly have a green
+bank per se in the city of New
+Mexico at the, at the moment,
+and we really could use some
+help with green financing.
+Um, and they could do other
+things like offer low interest
+loans, interest rate buydowns,
+loan loss reserves, addition.
+Um
+Next
+This has taken a lot of
+collaboration and I won't read
+the list, but we work, my office
+works actively with all those
+other agencies and as well as a
+lot of non-government folk as
+well and doing this transition
+to decarbonized fleet.
+Next
+And we have 3 strategies, um, I
+spoke about our outreach and
+marketing about slightly
+changing our name to Ecam so
+that it's a little easier for
+customers to remember and find
+us since we are so much more.
+Front facing now, um, #2 is we
+are looking at an RFP right now
+to bring on a fleet of what
+we're calling energy coaches to
+help anyone, whether it's a
+homeowner or a business, um,
+navigate what they can do when
+they should do it, what order
+they should do it in, and how
+are the different ways that they
+could pay for it. So it's a
+different answer if you are a
+low income New Mexican in
+Clovis, or if you are a, you
+know, battery recycling plant.
+in Carlsbad, very different,
+what you're eligible for.
+Um, and number 3, I talked about
+the website, um, which is up and
+running at the moment.
+Um, next, that's just the.
+The page on the website of the
+Clean car incentives and
+rebates. This is where
+constituents go to apply for the
+clean car tax credit and also
+all of the other programs I just
+talked about are here.
+And next
+I just want to point out this
+has taken a lot of growth, so
+this is my staff growth, um,
+from last year to this year, we
+went from.
+27 to 44. Most of those are, are
+big chunk of them are funded out
+of federal grants and which are
+only going to last for 3 or 4
+years, so we might fall off a
+cliff soon.
+Something I'm thinking about.
+Um, and next, I'll just leave
+you with this slide of the
+growth in what we have been
+managing dollars under
+management from my agency from
+last year to this year, um,
+next.
+We're current, depending on how
+you count, we're currently
+managing about $776 million in
+some form of green incentive.
+And that concludes my
+presentation.
+Thank you. Do we have any
+questions?
+Charity leader Chasey, thank
+you, Madam Chair, and thank you
+very much. I'm sorry I missed
+part of this. I'm.
+I'm attending two committees.
+You were looking for someone to
+help finance, and I'm wondering.
+Because I've heard of their
+work, but I don't know exactly
+the scope of it, the green
+chamber of commerce. Would that
+be a, a likely partner here.
+Um, chair, Senator, Green
+chambers of commerce are
+absolutely allies, um, they tend
+to focus on businesses that are
+doing green or sustainable work
+or how to help businesses do
+work in green or sustainable
+ways, um, what we need is a
+source of capital that can front
+money, make green loans to say a
+a New Mexican who needs a loan
+to buy an EV, um, but maybe they
+could get it out of a much lower
+interest rate because the goal
+of a green bank, of course, is
+not to.
+Just make pure profit, their
+goal is perhaps to lower carbon
+emissions or uh help clean
+indoor air or things like that.
+I see. Thank you very much.
+Thanks, Madam Chair.
+Um, uh, Representative Harper.
+Thank you, Madam Chair, and
+Msta, thank you for coming and
+presenting um.
+I, I really liked seeing kind of
+the entire portfolio, uh, uh.
+Instead of just little pieces
+here and there, yeah, um.
+Yeah, and, and my answer my this
+might already answer my, my
+first question, but, uh, Madam
+Chair and Mr.
+Usually our tax credits are
+managed by TRD.
+Not through
+A nerd
+Um, so can you maybe just talk a
+little bit about that. I mean,
+obviously there's some thought
+to which department would manage
+these.
+Sure, Chair and Representative,
+it's, they're still managed by
+TRD, however, per statute, um.
+Emner is under direction to
+certify that the purchase meets
+the requirements in law, so we
+take a look at the purchase, you
+know, is it an EV? Does it meet
+the requirements laid out in the
+statute. So we look at the whole
+transaction. And if it is
+eligible, then, then we issue a
+certificate that that, um,
+taxpayer could then take two TRD
+and file alongside their taxes
+and get the tax credit at that
+time.
+Yeah, it's a two-step.
+process.
+Yeah, I'm sure and, and my,
+yeah, thank you, but.
+Usually for a a tax credit.
+And any individual business
+doesn't stop by Emner first and
+then go to TRD. They usually go
+straight to TRD.
+Um
+When I, I'm talking about our
+entire tax code, but there seems
+to be a subset where the first
+stop is M nerd and it I'm
+guessing these are all um
+environmental related.
+OK. Yeah, representative, that's
+correct, um, we have about 10
+tax credits at the moment that
+that it follow that pattern, and
+I believe there are tax credits
+in the state of New Mexico that
+follow that pattern, for
+example, the film tax credits
+make a stop at the film office
+through EDB, uh, to be certified
+and to have all the fine print
+checked.
+Before it rolls over to TRD.
+Yeah, thank you, ma'am.
+Ja and must there for that, um.
+And then, uh, maybe just a
+clarifying question here for the
+sustainable building tax credit
+there are several things listed
+here. At the bottom is, you
+know, making a home or building
+electric vehicle ready?
+Mhm. Can you maybe talk about
+the difference between that and
+like installing a charger like
+what what what's the difference
+or the
+representative, it essentially
+means, uh,
+Installing wiring behind the
+wall that is sturdy enough so
+that someone could subsequently
+come and install a charger.
+Basically exactly the same as
+what is done to create a dryer
+plug. Yeah.
+OK.
+Um
+So, so Madam Chairman there, so
+it'd be.
+to say that, um.
+You know, if someone is putting
+in the wire as part of an
+installation.
+That portion could be eligible
+for the sustainable building tax
+credit.
+Chair and representative, that's
+correct.
+Uh, thank you, uh, Madam Chair
+and Mr.
+OK, now, um,
+You
+There is a nice new website.
+And there's been about 25
+applications for cars and
+fighter chargers.
+60
+60
+This was written a few days ago.
+So now.
+So
+So I am one of each.
+Um, so I sat down a couple of
+weeks ago.
+On a Saturday
+Thinking I needed about a half
+hour to apply for both these
+credits.
+Three frustrating hours later, I
+was done.
+And
+2 days ago, I got my first
+rejection notice.
+And I'm a
+PhD pretty capable of filling
+out forms, um.
+So I'm actually pretty concerned
+with
+How that that's been rolling
+out.
+Um
+And, and I even pulled up the
+statue just to make sure that
+the website wasn't asking for
+things that were not in the
+statute.
+Um, like, for example, the the
+charge, uh, the, the car.
+One asks for a copy of the
+window sticker.
+Um
+You know, it has all the specs
+of the car, right? Well,
+Tesla doesn't do window
+stickers.
+So I put a little statement
+there it says Tesla doesn't do
+well no stickers. Uploaded that
+in the place that mandated that
+I upload a Windows sticker
+before I could click next.
+Um
+And my charger was rejected
+because
+The spec that I uploaded, didn't
+include.
+What kind of connector it was
+and the serial number of the
+charger.
+And
+And I'm
+Went through the statute and
+sure enough it asked us to put
+the serial number of that
+charger and I'm just.
+They can some.
+One that is not as
+Capable is just gonna get super
+frustrated and we're gonna have
+a bunch of people that are not
+taking advantage.
+How can you have the serial
+number if you haven't bought it
+or did you buy it? Madam Chair,
+I bought it. It's installed.
+It's OK. Yeah, but I thought
+this was OK.
+Yeah
+I'm used to.
+Right. Chair and representative,
+I appreciate your, your feedback
+and then welcome it. This is new
+for all of us, including
+everything all the way down from
+writing the statute to doing the
+rules to our IT department,
+which is that this is new for
+everyone and I'm hiring new
+staff to do it, so I appreciate
+your feedback and if I can chat
+with you afterwards to get
+specifics, I would, I would
+appreciate that. And of course
+we're always, we're in the
+position of trying to interpret
+what you all have said in
+statute and be fair, um.
+Following the letter of the law,
+and hopefully the spirit of of.
+I don't know if it's generosity
+or stinginess, which you would
+like us to execute your
+legislation, um, but that is
+always the the conversation,
+yes. Thank you for your
+feedback. Yeah.
+Um, Madam Chair and Mrs. Dett,
+thank you for, for the offer to
+help, um, yeah,
+it's brand new. It's only been
+live for 3 weeks, so I'm sure
+there's hiccups. I appreciate
+you, guinea pigging one or two
+of them for us. Thank you.
+Thank you, Madam Chair. Um.
+Thank you for your presentation.
+Actually, uh, Representative, I
+didn't have a problem, but just
+to say I only have a master's.
+I'm sorry, but
+just.
+Just joking. No, but I didn't I
+don't know. Well, plus I had.
+Back there, help, um.
+So, uh
+comes
+As far as the heat pumps.
+Are those, are those
+Pretty, um
+Easy to get through as far as
+all the paperwork and everything
+as far as getting a heat pump
+and so it just says
+installation, so you buy it and
+then the installation is what's
+given the chair I have about 15
+different ways to help pay for
+heat pumps, are you referring to
+the sustainable building tax
+credit or the here and her
+rebates or sustainability
+depending on it,
+it's the cornucopia right now,
+um.

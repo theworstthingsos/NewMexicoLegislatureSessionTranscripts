@@ -1,0 +1,2892 @@
+The hearing.
+I.
+Hey.
+Or.
+The.
+The other.
+I have you mean this year or in
+the eleven years I've been here
+and I've been here way too many
+times managers.
+I think I have yes once you.
+As
+well including
+Thank you very much madam chair
+and Mr vice chair and members of
+the committee so I think we're
+all pretty well aware that
+something that we can't see has
+begun to creep into our public
+way of life and that is cyber
+attacks in those can be in the
+way of of financial the tax
+information data gathering
+compromising the privacy you
+name it and so you know we do
+have a very large state
+government and in the large lot
+of agencies that do transactions
+with state government on the you
+know second by second basis
+throughout the day and
+throughout the year
+you know we we need to do
+something that that that brings
+minimum security standards to
+all of our systems in state
+government and that's
+essentially what we're coming
+forward with today I I will say
+that there was a lot of work in
+the interim there was a lot of
+work in the interim with regard
+to working with that chief
+information security officers in
+the various state agencies and
+other agencies that do
+transactions again with the
+state of New Mexico and but we
+also worked a lot with CIO's
+because this is step directly
+going to you know affect a lot
+of the work that they do and so
+there were multiple meetings
+that occurred in the interim all
+the way leading up to the
+session we didn't file this bill
+until a little bit into the
+session because want to make
+sure that we had a final product
+for the cisos chief information
+security officers to look at
+provide feedback we've been made
+a lot of changes to it to make
+sure that we satisfy a lot of
+the feedback that we receive
+from them and so we feel like
+we're in pretty good shape there
+we.
+I have seen since severe
+cyber security attacks madam
+chair in the last couple of
+months that have been pretty
+devastating one of them I think
+we're all aware of is regulation
+and licensing department are of
+the and as a result you know
+almost everybody that does any
+type of business in the state of
+New Mexico was was attacked was
+was affected by it what you're
+gonna see here in in this
+legislation and after you know
+what we answer any of your
+questions is it this is a
+proactive attempt verses or
+react scenario that we're trying
+to to propose here I do have our
+current system chief information
+security officer here to my
+right and he's gonna make a few
+comments before we get rolling
+and take other feedback and I
+will say that not just what
+happened with our all the which
+was probably the most noticeable
+tab that we've had in a while we
+had school districts completely
+shut down as a result we've had
+the City of Albuquerque Los
+crucis a few other major Rio
+Rancho so so that the city
+governments have also had severe
+issues essentially what we're
+saying is these are gonna be the
+minimum security requirements
+information security
+requirements if you want to do
+transactions with state
+government you must it here to
+this minimum standard I know
+that madam chair you have a
+couple questions that you're
+going to want to ask us about
+other state agencies that are
+executive agencies that we will
+definitely are open to receiving
+that feedback and and figuring
+out where we go from there but I
+am in the ask our chief
+information security officer to
+to make a few comments hello I'm
+sorry can I just say one more
+thing before our system begins
+we literally had a cyber attack
+last night that actually
+affected twelve state agencies
+so this is how urgent and
+important this is to get this
+rolling.
+Mister chief information
+security officer thank you
+senator and chair and members of
+the committee my name is Roy
+this and been and currently I'm
+the chief information security
+officer for the state of New
+Mexico so all very good I like
+to start is to give you a
+general sense of what I would
+anywhere CENIC's likely be have
+seventy five agencies boards and
+commissions they all follow
+video set of standards there is
+no common uniformed that across
+the ecosystem and that is
+working in favor of half the bad
+guys so if I choose your
+password length is eight
+characters some may choose some
+maybe you'll stand so there is
+no consistency of the
+standardization what this bill
+will do is bring that minimum
+security standards so that I can
+look at one agency and and
+different agency and see our
+security posture is universal
+across the ecosystem bill this
+have any or impact all of the
+federal issues that answer is no
+if they have federal agency
+which has of oversight function
+and that is applicable to a
+state agency I'm if they just
+standards out higher they of
+local agency will follow highest
+all we are trying to do is
+establish a minimum baseline so
+that the bad guys don't abuse
+one single entity which may be
+the weakest link in the
+ecosystem that can bring the
+entire state infrastructure down
+because we are all connected.
+Divided we fall United we stand
+a good security posture so thank
+you Russia that additional
+discipline on the job for the
+state government and is always
+available whenever we need him
+and so I don't want to I'm not
+going to read to you madam chair
+but if you take a look at the F.
+I. R. if there's you know
+approximately fifteen twenty
+what what's there that give the
+specifics of what this office
+will be doing establishing
+security standards developing
+protocols detecting mitigating
+in a proactive manner as I said
+previously accessing other state
+of our arms and other agency IT
+systems to validate that their
+meeting the minimum standards
+creating models for incident
+management
+serving as as a resource
+developing that service catalog
+so that agencies can easily get
+to and from what they need to be
+doing to update their systems
+ensuring that state agencies
+meet the regulatory environment
+requirements all the way to the
+second page results are your
+attention to any of our which is
+also obviously in the
+legislation which is the second
+paragraph on page two which is
+establishing a cybersecurity
+advisory committee the committee
+will regularly meet with
+professionals and in this venue
+in this area and they will find
+the direction that the agency
+that that the office needs to go
+in to ensure that we're meeting
+of minimum standards that that
+keep us from these threats but
+again proactive versus reactive
+thank you madam chair.
+You.
+You have.
+The rules we do yes that.
+I would deliver that several
+days ago so you but essentially
+what the substitute that I
+should mention that thank you
+madam chair this actually this
+is a lot of the feedback that
+came in from the various chief
+information security officers in
+the various agencies that do
+government business with the
+state government and have
+transactions with the state
+government for Senator from
+approval but this was emailed
+out last week to to the
+commissions on.
+Just a Senate bill two eighty
+and for purposes of discussion
+you can pass the Senate rules
+committee substitute percent
+completely.
+And madam chair out of respect
+for the minority of of really
+the choir for in the future with
+these if we can get L. to R.
+analyst.
+just informed me he has not seen
+it and I was under the
+assumption that that he was
+moved in so we're kind of flying
+blind at this point Senator I
+apologize I was in the.
+Make sure that.
+I didn't figure you did it on
+purpose it's a little early for
+that.
+That.
+And and we were lucky enough to
+get into a five days ahead of
+time so with with.
+We are.
+We have a.
+Or appropriations subcommittee
+right now
+the official actions that just
+go ahead and look at the working
+on this proposal and once the
+for more people to.
+That but if you have any
+additional presentation.
+I don't think so.
+Could could you explain what's
+what's different in this from
+members of the committee that it
+incorporated budgeting corporate
+what's different about I think
+it is madam chair and and
+senator Ortiz Y. Pino it it's
+streamlined a lot of the areas
+that would have been up pushing
+rather than pulling
+and and I think that the the the
+various agencies that also
+created the cybersecurity
+advisory committee which would
+allow for regular discussion
+with the various agencies
+outside of state government to
+do transactions with state
+government and then there there
+was just a lot of unknowns so
+that wasn't anything major that
+came from that feedback but
+there were a lot of unknowns
+because we didn't have the the
+original bill produced until
+right is the session was
+beginning so that there was
+there was a need for some
+cleaning of just small pieces of
+language here and there.
+Madam chairman Senator did the
+meant that make up of the
+advisory committee change no it
+did not.
+Okay thank.
+so we'll go to the discussion.
+Nobody signed up for COVID all
+of us are actually yes no sign
+of for home and other on support
+or opposition
+if you have any organized
+support we want to present I.
+I thought I had been the
+committee before if I have it I
+assume you might go to the
+audience to us we still have
+about I would think about ten
+minutes left in our in our
+window of time.
+I have about ten minutes left so
+if there's recognizes our budget
+for two seconds are just up for
+a show of hands anyone here to
+insert the.
+just has anyone here in
+opposition of the bill.
+Hello not online.
+If there's about the only thing
+I'll say then is that we have
+the acting and the secretary
+designate for a department of
+information technology here
+Peter Mentos and Todd Barrett
+who is the chief counsel for the
+department as well and they will
+be serving as additional expert
+witnesses should I need that
+assistance thank you.
+All right so roll Senator.
+Thank you madam chair thank you
+senator
+do their due to any other
+departments currently have a
+position similar to this just
+within their department separate
+from do it.
+Madam chair and senator pirtle
+are you referring to the
+position of chief information
+security officer any position
+similar to the one that you're
+creating yes the there are are
+several all that the states is
+so Senator thank you chair and
+then Senator yes there are about
+thirty six position as part of
+this IT security and compliance
+job family.
+And out of that twenty five
+positions of felt and the rest
+of them is vacant so the larger
+agencies have.
+Many of these positions within
+their function to meet federal
+mandates and compliance with.
+And madam chair and senator how
+are we gonna have that many.
+people operating independently
+and then expect some how do it
+to manage and to and basically
+be in charge of people that are
+under the purview of do it so
+madam chair and senator I would
+liken it in a lot of ways to
+sort of how
+PED might operates you would
+have a secretary of the public
+education and then you would
+have a superintendent in that
+which operates a Thomas Lee and
+does bless you and does their
+work based on what the
+requirements are of the Public
+Education Department so you you
+could could kind of use that
+model we don't have that today
+the reason that we're probably
+more vulnerable is because you
+have everything being done every
+which way from Tuesday and I
+wouldn't say that they're doing
+a bad job they're just doing
+what they're HSD is ask them to
+do now we're going to be setting
+up a framework much like I was
+using the example of PED these
+are minimum standards that
+you'll need to meet in order to
+operate your in your environment
+to do transactions with state
+government so that yes Sir and
+senator I think a more efficient
+way would would possibly be to
+have the employee be of do it
+within the department so that
+they answer back to this group
+because again I think you're
+gonna have thirty five or so
+people who are in charge of
+their own
+cybersecurity and yet you have
+this whole separate entity in do
+it putting a lot of these things
+forward hello how are we going
+to have is going to come from
+the direction of the governor to
+then have the other department
+heads the secretary say Hey
+listen to the cyber security
+person I mean I I think we're
+gonna have a.
+A real problem with
+communication and implementation
+because of that and maybe the
+best way forward moving forward
+with this is having these
+individuals of thirty five or
+thirty six positions within
+these other the actual employees
+of the the department of
+information technology and
+that's been an issue that that
+I've seen since I've been
+a legislator and and really get
+my head the wall or the table or
+whatever's closest to me as to
+why we have a department of
+information technology in this
+separate from them within every
+single department there's
+somebody that does that job as
+well duplication of effort
+drives me insane it is wasteful
+and ineffective inefficient and
+then really I think we're just
+with this legislation madam
+chair and senator we're just
+adding to that chaos and I think
+there's got to be a better way
+to do this said that would
+really achieve the goals that
+you're trying to achieve and I I
+applaud you for for wanting to
+do that but I don't think
+growing government is the answer
+thank you for the response is
+needed madam chair thank you
+for.
+Happy to give a response.
+There was a lot there more yes
+yes thank you enter respectfully
+Senator Pirtle I I hear you and
+and and to let you know what I
+hope this makes realize maybe
+some of your fears that's
+exactly where I started what you
+just described that's exactly
+what I was hoping to do
+and efficiency drives me Batty
+also that's why you see me come
+in here every couple of years
+with some new department a new
+office for something to try to
+streamline things and make
+things work a little better but
+we're we're the philosophical
+the in and I hear you loud and
+clear on in terms of how are you
+going to get these departments
+to participate and and operate
+this way well the carrot in in
+the sticker gonna be you know
+I'm gonna have to be allowed to
+have transactions with state
+government until you meet these
+minimum security standards and
+so it's not that there's going
+to have to be in single to make
+a lot more sense to me to go
+down this path first in this
+this route this this
+methodology first and that is
+you know
+it would entail you adhere to
+the standards you're not going
+to have transaction to state
+government so it's going to be
+impossible for you to do that
+and that that's where the care
+of the state comes from thank
+you.
+Thank you senator Senator.
+Thank you madam chairman thank
+you senator of this of course
+there is a questions mostly
+because.
+I don't understand cybersecurity
+very well but maybe you can help
+me figure this out that last
+thing you said about you will be
+able to do business the state
+government unless you meet
+minimum standards that's why
+this is that in this bill.
+Where is that in the bill.
+So the basically establishes of
+the in on page three
+Section three.
+Established and right in the
+middle of the page established
+security standards and policies
+to protect so this basically
+this group would.
+The advisory group pulled out by
+in establishing that standard
+set of practices and what not
+for all agencies to
+employment.
+Madam chairman and and and to
+secretary and and at that time
+is a yes Representative not that
+that that that alright so with
+this includes people that
+contacted the state.
+His business with the state like
+a Medicaid providers and are
+CYFD providers and our health
+department providers they would
+all be subject to this as well
+you thank you thank you chair
+and senator.
+If the that is a possibility it
+could extend to some of those
+vendors if they have state data
+on their devices.
+What we are trying to prepare
+you for the data has a tendency
+to move to have and with the if
+the vendor is trying to hold on
+to their data from one of our
+purpose like testing purpose as
+a politician and then they need
+to have the minimum basic
+protection that this would.
+Recommend for example encrypting
+the laptop that contains the
+data so that the bad guys would
+not walk away with that data.
+Madam chairman of yeah I can see
+that this advisory committee is
+going to have a lot of work
+because the diversity of those
+arrangements is such a thing the
+big NCOs for example the managed
+care organizations of the the
+billion dollar Medicaid contract
+they're big enough they probably
+wouldn't have any trouble with
+the state that they already have
+their own security but the
+community clinics in the
+individual providers that.
+Have individual patient data
+that identity and so on on their
+I wouldn't spend that for madam
+chair and members of the
+committee Senator up it I I
+don't think it will be impact
+that because the existing but
+standards will address the
+baseline for that and in those
+madam chairman and and says a
+Senator and rather the those get
+the standards include
+cybersecurity standards they do
+yes yes Senator yes a couple of
+the questions madam chairman
+do we ever pay ransom.
+Madam chair and and Senator I
+don't have the answer to that
+the can I ask the secretary
+designate to maybe he's willing
+to comment on some of the money.
+Madam chair Senator that's a
+great question the answer is no.
+Special in this oral the issue
+related
+to this issue of establishing an
+office is also a fund and that
+fund is we know that despite our
+best efforts and and timing wise
+we are going to get hit again on
+you know all across the state
+not just state agencies and this
+fund every time we get hit
+according to IBM and others it's
+like four million dollars to
+recover and and mitigate the
+after effects of our see a
+ransomware attack.
+No we won't pay a dime for
+ransom but it does cost money to
+recover and we want to set up a
+fund so that we can be ready to
+help agencies if and when these
+procedures fail and just while
+you're there Madam chairman of
+the same issue that some of our
+school districts apparently have
+been hit yes of of local
+government this is that's
+correct Bernalillo county we
+don't pay ransom does that
+extend to them.
+We do not Senator thank you for
+the question madam chair we do
+not have that authority we were
+to tell them to pay or not we
+discourage them from doing so
+they did ask for help we did
+help and it was to mitigate and
+prevent future occurrences but
+no not not to pay and our
+authority we cannot tell them to
+pay or not to pay.
+Thank you
+And then you you alluded madam
+chairman and and senator and.
+Acting secretary of.
+So I it's not in this bill that
+is correct Senator where is that
+Fund is it is it already created
+or do we have a separate piece
+of legislation is a separate
+piece of legislation center does
+anybody have the number of all
+right Sir.
+We will see that what will we
+see that there's it's very
+possible that you'll see it yes
+this committee.
+I don't know that it'll just
+yeah and I don't want I can
+certainly Jordan leader to
+figure out where to send it.
+At the fund is not for rents and
+purposes of.
+Mitigate the effects of the
+these it's essentially to review
+the right what will this that
+the
+This is the for the cyber
+security office for its services
+provided pursuant to the act so
+the services this would be one
+of them so madam chair and ask
+Senator they ended up that fund
+would be to assist any entity
+that is impacted based on the
+incident for the post of
+recovery have.
+Okay.
+The speaker okay.
+But thank you madam chairman I
+think senator for for working on
+this I mean I think this is
+something that that.
+Thanks a lot of us sitting
+really worries a lot of us
+because of the potential for a.
+And and.
+Just the if the affected
+individual lives but also in
+agency operations is so
+catastrophic that happens
+I am aware of the health
+provider in in our neck of the
+woods Senator that participate
+rents and they just did the
+calculation it was cheaper to
+pay ransom and try to get out of
+from hundred fifty you know as a
+policy for the state that would
+be I think there's a.
+I agree madam chair Senator
+eventually the the ransom is
+going to be requested is going
+to be so enormous that it's
+going to cause catastrophic on
+on on services you know of our
+ability to deliver services so
+that's why getting ahead of it
+this way it's going to be so
+important.
+Okay thank you thank you madam
+chair.
+Yeah additional.
+Senator.
+I.
+I have too much time to look at
+this.
+One one.
+I have a little okay
+so first of all thank you for
+coming with us.
+That is **** on the line that
+issues.
+the state that is not just a lot
+of issues that affect the rating
+initiative grant
+One of the issues.
+It here is the top us yesterday
+on so the HSD is fine it's fine
+as.
+But we have independent.
+Executive agencies that break.
+Well
+who are going to have some sort
+of.
+Pretty specific to their
+expertise
+State
+Probably are always on offices.
+MFA.
+That's correct and so my
+speaking with secretary states
+offices that day with one
+clarification to this definition
+agencies to make clear that.
+That this and later in the day.
+Executive agencies.
+I just.
+Limitations.
+but AJ.
+That.
+The.
+Others but this survey issue.
+Times of agencies with that
+relations of the cyber security
+advisory committee however
+compliance is four agencies are
+county clerk from.
+Voluntary and it just because
+there's no as of yet or sectors
+we don't define non committees.
+Representative is the right time
+and this is just for now.
+And folks percent what is on the
+HSD is.
+I was just thinking at all very.
+And
+that is the same.
+Specify.
+Agency requests.
+And the more I sat here.
+We often.
+Yes that includes that provision
+of non.
+I see
+it right now that is just see
+that is where the person who has
+it was either alleged.
+Secretary of state for the.
+An officer.
+I.
+It sure helps I.
+So
+so we're going I'm sorry what
+we're we're we're we're
+definitely open you may I talked
+about this on the floor I think
+yesterday the day before and I
+did deliver you know we did.
+To let you know there was going
+to be a substitute for the so
+that I'd always just couple days
+overall very busy so but we're
+definitely open to the sec you
+know the the amendment to
+further clarify so that the
+secretary of state's office and
+other state agent non
+executive swell.
+Yeah I see that I see this that
+the conundrum there like how do
+you define it so I'm we're open
+to that we just want to make
+sure that it doesn't take any.
+Of the seventy how many agencies
+seventy five seventy five
+agencies out of what we're
+trying to accomplish here.
+And some of them are here.
+Going up.
+In law I.
+On to the US than those have
+that act
+on consistency.
+Hi I just read there are a
+consequences maybe.
+I potentially.
+Agencies.
+This is
+that's what it says I have the
+case to get here and.
+Just ask.
+Work on this
+and I fear the first thing I.
+That is off the changes that
+there are are.
+That.
+I.
+So can we just yes so so another
+thing that we're probably
+dealing with you're too is even
+than on.
+Are the other executive agency
+or the other executive offices
+secretary of state's office
+whatever they already have
+requirements of federal
+standards so where elections are
+law enforcement are concerned
+they already have to beat
+homeland security U. S. homeland
+security minimum standards as
+well and nothing in the
+legislation
+Calls for anything less than
+that so I don't that's another
+reason we didn't feel like we
+needed to go down the road.
+bifurcating the legislation for
+other departments or other state
+Would you call them state
+offices executive offices that
+are not on.
+Yes so that that's another
+reason why we didn't think that
+it was necessary
+six.
+This.
+Why is this year.
+Passed out there but I.
+You can you give me an example
+of the agencies that you think
+we might be have some unintended
+consequences.
+Sectors.
+Hello these windows and we
+understand.
+so that.
+But I I.
+it looks like our vision plans
+is there and.
+we were just one of the agencies
+madam chair that has been
+chatting with do it was on for.
+We've already talked to them at.
+what were you referring that
+ensure to any of the seventy
+five state agencies that are
+under the purview of the
+governor that okay.
+That that gives me a lot more
+coverage than with what you're
+trying to do okay I I I Senator
+says the that seventy five is
+including some of these plans is
+also set out to the extent that
+there are hundreds of the
+governor absolutely I.
+Some may have in the back of my
+head out for the.
+FY like I said.
+Another thought
+On page three.
+I I was thinking this to have a
+full rulemaking for.
+Yes and that would be a
+direction given by the advisory
+committee.
+I I think it might be a good
+idea absolutely was there Page
+three line thirteen after that
+one point average adopt so
+stress abolition certain in
+their adopt and implement the
+rules establishing.
+The minimum security standards
+policies to protect people's
+information technology systems
+instructors taught strike
+find is that certainly there
+And to provide and providing
+appropriate governance and
+application of standards and
+policies process not a problem
+I'm gonna have one more session
+to that that sentence but but
+later stopped there
+No disagreement happy that
+switches clarify that you have
+exposed is that from their
+accent friendly.
+I read so we have.
+any special that in the.
+Your smoker could you just read
+it again so yes page three at
+live.
+Stride the staff.
+Certainly there
+adopt rules establishing.
+That.
+And that that's all this.
+Page three line fifteen stride
+provide certain provided stands
+provided.
+Sure last page three.
+The substituting for find and
+find.
+Just.
+So the special.
+Any objections to the dolphins.
+And that is adopted as we have
+for now we are.
+It is.
+this up for discussion thank
+you.
+His injury on that line
+On page three line eighteen
+right now I have but we're
+confidentiality and I'd like to
+install the security.
+overall it is
+So that I have in front and the
+committee access concerns with
+our staff this and this really
+addresses I think the the vast
+majority of them are subject to
+meetings act
+But then but we don't any took
+actually which is.
+This specifically said this year
+is presented to a generated by
+Senator security advisory
+committee
+parts that for each of that.
+But.
+No it doesn't it's not and.
+The language here that the
+reports to the legislature our
+office will second but.
+I think.
+You clearly address how is it
+that works with us
+so what does is all and realism
+jump around here can I just jump
+in for one second so there's
+we're covering a lot there so
+Representative Sarinana is
+coming forward with a in April
+bill related to this topic also
+we didn't want to make it turn
+it into a.
+But but if we need to marry that
+one with this one at some point
+I.
+But but there isn't an effort on
+the part subject related to
+cybersecurity coming your way
+coming our way I guess I was
+selected to be addressing this
+bill and I think it's also
+he's looking at case.
+I'm gonna get that yes officer
+for that yes okay that
+confidentiality.
+Because of on page eight.
+The.
+The.
+Generated by Senator security
+advisory committee is actually
+open meetings act and I'd like
+to answer after that and the
+public records.
+On and then.
+With this subject to accept
+section of their meeting this
+year on.
+Public is the ability.
+One that information system
+are operated by the orders of
+superiors.
+That.
+So will maintain the secession
+and.
+That well I.
+Just as well funds were aided
+by doesn't lack I realize I
+promise madam chairman chuckling
+and just we had a huge debate
+over this very issue because it
+keeps.
+Actually that and and I and I
+talked to Paul about this.
+and while I think a lot of that
+the initial concern our
+softwares this is still one I I
+think the.
+The stock has to protect the
+electors.
+Thank you because that was the
+big nut to crack over this can I
+have a five second huddle with.
+This is.
+Questions.
+We'll go back to.
+Okay we're we're good friendly
+okay great that's an easier five
+six seven seconds.
+So so that in this case eight
+one four.
+After
+meetings and.
+So that it does apply to these
+is that.
+That is why I was also making
+you want to make that change on
+page three change the
+confidentiality there to
+security one because it would be
+in keeping with the fact that
+Pratt does generally applied to
+otherwise this would might read
+as though you could make rules
+that would advocate for us which
+is definitely never our
+intention I think as a
+legislature
+said that amendment
+and actually did we address the
+first amendment about abroad
+what I want the amendment on
+page eight
+inserting and at problem line
+for meetings act from the moment
+special on that amendment
+Senator so madam chair which
+point to spell it out not going
+to put it yes yes thank you
+legislative session and the
+inspection of public records act
+right.
+It's from the.
+Any objections that.
+See that stuff to.
+The exact page three the the
+switch it out online state
+competition percent.
+Thanks for FY.
+All the things that.
+Actually advocated for a.
+Because there is that yes the
+links up with what's on it so.
+And special that.
+Seeing then that amendment is
+also.
+So I they.
+That would want to go back one
+more time to the state agencies
+the state is.
+We have a state official here no
+she wants to see her I just.
+Yeah.
+Thank you madam chair thanks to
+the sponsor for a long we just
+about in here so I am Stephanie
+Garcia Richard we are state
+agency of the State Land Office
+with our own independent systems
+and and also have you know
+concerns that that potentially
+these requirements could affect
+us negatively and so we we are
+actually in very close
+communication with do it around
+our cybersecurity and are of
+standards on cybersecurity go
+above and beyond what's even
+contained in this bill so we
+would
+Very respectfully support the
+mission of I guess what you're
+calling non executive agencies
+okay.
+And so thank.
+The state.
+One eight.
+striving.
+Yes
+chair of a non executive.
+With that right HSD otherwise I
+need a non executive agency
+executive director State.
+And all of that Representative.
+That
+that that
+that that.
+So all.
+As a.
+Well it is I I'm with you though
+madam chair that I I don't have
+a better with more artful would
+put it
+is there anything in the
+constitution you can think of as
+as I I don't have a country with
+the.
+Just word searches online
+sellers.
+Have not been into some language
+not percent pop up.
+We may have something for you
+can we just a time my the
+representative of the council do
+it
+give us a little more.
+Thank you can stand up and
+become.
+The thank you madam chair
+to.
+I think the intent was to
+capture the executive cabinet
+level agencies and we can simply
+state that would apply to the
+executive cabinet agencies and
+their administratively attached
+agencies boards and commissions.
+so that captures the seventy
+five that we talked about that
+make sure that you bring in the
+boards and commissions as well
+yeah I think that.
+Means so the.
+The HSD means executive cabinet
+agencies there administratively
+attached agencies boards and
+commissions.
+All of the status of that.
+Thank you
+so page one.
+Twenty.
+After
+being.
+Strike the remainder of that
+line and line twenty four.
+The.
+And certainly there have.
+Executive cabinet agencies.
+For more.
+Administratively attached.
+I'm sure agencies boards and
+commissions.
+Agencies susceptible out.
+And they're Mr leader taps
+agencies boards and commissions.
+And madam chair if I may
+interrupt we do have one that's
+called an office so we can say
+offices as well.
+The very minute surely Task
+agency offices come up for
+missions.
+Madam chair.
+Yeah just to madam chairman it
+just the way the constitution
+does that a they say the
+executive branch.
+Consist of a governor that shall
+consist of.
+The governor.
+Secretary of state state auditor
+state treasurer Attorney General
+and commissioner of public lands
+so if we say executive branch we
+would be including all of them
+and that is changes that's
+exactly why we're making this
+change because right now they
+would all be included in that
+and the current language we want
+to make sure that we're making
+clear that those independent
+offices like the AG's office SO
+Act would dismiss your public
+lands are not not included.
+So how have you done that
+because of isn't the issue the
+governor things that are done to
+the governor's directive those
+the ones you don't want to
+include exactly we define
+agencies say executive then
+you're putting all of them well
+so what we're saying is
+executive cabinet agencies.
+So we're making we're making a
+specific to her cabin.
+in order to add to capture those
+ones that are under her feelings
+I governor the simplest.
+I think this I think this covers
+and I think this doesn't.
+Okay I mean it's but it just
+seems like it's a round about
+way.
+This set so the way that it
+would then right is that HSD
+unless otherwise specified
+means executive cabinet agencies
+and their administratively
+attached agency offices comma
+four comma and commissions madam
+chair should it be agencies come
+offices come up.
+Boards and commissions.
+Well it's really R. as does it
+have an agency have have another
+agency within it well you'll
+have madam chair office of
+broadband access and expansion
+verses.
+Thank you have a sub agency
+within an agency are we talking
+about the offices boards and
+commissions up in HSD.
+Miss madam chair there can be an
+administratively attached agency
+to an agent's office and that
+case yes it should be and and
+you know how the LCS commas so I
+don't know.
+Okay those callers but
+So agency unless otherwise
+specified means executive
+cabinet agencies and there
+administrative we attach the HSD
+is common boards are no agencies
+call offices come up boards and
+commissions thank you madam
+chair silently got the offer
+faster as my auntie told me what
+I was was a third grade teacher
+for twenty five years Michael
+Commisso your friend.
+And then the more I mean all
+that.
+Okay so that is the torture
+which I can the state if anyone
+needs at the mas but sure so
+page one line twenty three.
+striking and and then strictly
+all one twenty four and
+inserting in lieu there
+Executive cabinet agencies and
+their administratively attached
+agencies comma office for common
+conditions.
+No no no no offer.
+If I mean I think the unintended
+consequence we have a member of
+the executive here in the
+audience with the State Land
+Office that the now we would be
+removing the state land
+commissioner of the yes JG the
+treasurer that's intended that's
+that's includes the center yes
+that's that's the intent the has
+the that they could still that
+so what it means is that these
+minimum standards are voluntary
+for them
+but they are the independent of
+the governor those agencies and
+I think it's important to
+respect that independence but
+also some of them are going to
+have had a need.
+Other security issues like
+secretary of state's office
+who's and or other or AG's
+office frankly if they're
+they're gonna have some unique.
+Things that probably they're
+gonna want to do with our state
+that we would hope that they're
+still meeting the federal
+minimum standards but we don't
+want to find their hands
+there is some madam chair thank
+you and and I know that a lot of
+people coming and leaving the
+room the coming back but so
+those agencies madam chair
+center actually new to me state
+where elections and law
+enforcement concerns
+specifically the others Land
+Office I can't really speak to
+with the they have to meet
+minimum standards at the US
+federal homeland security
+standards set for them so in a
+lot of so that they're already
+meeting standards that we're
+proposing here they're required
+to.
+Quick comment at legislation on
+issues made a comment to help
+their hands are tied they're
+only tied when they want to.
+That's what you have.
+I would be very careful you may
+have to do committees of the
+amended this coverage and it may
+need to go through this.
+Trying to kill us with lots of
+things.
+We've been.
+Right here sure we tried to do
+this time or to match very
+difficult.
+So madam chair you know again we
+we brought you a substitute and
+we're anticipating that when we
+leave you it will be a
+substitute with these amendments
+that you all agree to today so
+it's much cleaner we get over to
+finance to go through the
+various pieces.
+The full access thank you.
+Then just for your adult it with
+your diligence manager class the
+acting secretary secretary
+doesn't just thirty six you want
+to add something.
+Thank you madam chair just the
+senator to help allay your
+concerns about the non executive
+agencies participation.
+All over the years they have
+been kicking and screaming and
+dragging their feet on some
+efforts but I'm happy to report
+that some of the efforts that
+we've implemented this year with
+respect to cybersecurity
+including phone bility
+management.
+All of them have participated
+and it is true that the
+the SLO has exceeded our
+expectations for example we do a
+monthly scan of vulnerabilities
+they do it weekly.
+we have implemented multi factor
+authentication they are with us
+they're doing this we have a
+single pane of glass into the
+state's cybersecurity posture
+and they are participating thank
+you madam chair.
+Thank you madam chair.
+The only thing Madam chair I was
+apologize.
+Making the change on page one
+starting at one twenty three do
+you I thought you said we may
+need to do this somewhere else
+did you have anything else you
+needed to have on that on that
+point.
+and right down the road I don't
+think we do but I just want to
+make sure with your.
+Legal expertise that did not
+there was anything else we
+needed to on that topic the
+rules of the.
+I saw but if you please.
+That.
+Is that.
+Of course on the amendment.
+Is there any objection to
+adopting that amendment.
+that is a doctor so yes.
+In this place of show some
+report on the subject.
+that amendment is adopted
+Senator Senator Ortiz Y. Pino
+back on the so madam chairman
+thank you and thank you senator
+but the I just realized in
+section six.
+Three separate offices.
+Maybe.
+All the furniture record person.
+Place in other properties
+pertaining to the cyber security
+of the depart Department of
+information technology transfer.
+Moving them out of the.
+I thank you madam Mr chair and
+the mission center yes they
+would become their own office
+much the same that we set up the
+office of broadband access
+expansion administratively they
+will be attached to do it but
+they but they will be their own
+office with that their own
+responsibilities advisory board
+that we set up here and and all
+that yes.
+Because Mr chairman the met Mr
+chairman and senator much like
+broadband we made that decision
+it was it was just there was no
+centralized combines setting
+standard setting policies it we
+we had seventeen agencies trying
+to deliver broadband this brings
+it into one area so that there's
+a unified standards based
+methodology in terms of managing
+this process for state
+government.
+And and that Mr Chairman do it
+doesn't doesn't do that they do
+some of it today but then you
+heard a lot of discussion about
+other agencies and how they
+operate.
+Our to do.
+We have another office.
+We're not adding any additional
+staff.
+Okay this.
+Thank you thank you senator
+thank you it does it does seem
+like we are from proliferating I
+mean we have a private office
+and it was approved secretary
+of.
+Do it.
+Not sure that makes a lot of
+sense of the the whole point of
+of of of the I have a central
+place is one place where you get
+all your information needs taken
+care of but that's what this
+stuff going on and that and the
+information thank you thank you
+senator any other comments or
+questions.
+The number of Senator Stewart.
+Mr Chairman.
+Have Senate bill two eighty pass
+from Senate rules committee
+substitute for Senate bill two
+eighty it'll be a point three
+versions include.
+There's been a motion is there
+any opposition to that motion
+Raul help please we could have a
+roll call vote.
+Top of.
+Senator Baca no Senator Ingle
+that.
+Senator Ingle passed Senator
+Lopez is excuse Senator McKenna
+yes Senator McKenna yes Senator
+Moores is excuse Senator Ortiz
+Y. Pino.
+Yes.
+Senator Ortiz Y. Pino yes
+Senator Pirtle no Senator Pirtle
+no Senator Stefanics yes and to
+explain my vote.
+Senator Stefanics yes Senator
+Stewart yes and to explain why
+the.
+Yes Senator Hermio yes thank you
+yes and senator do you can see.
+You have I yes to know and three
+excuse thank you for that will
+go to Senator budget later okay.
+Sorry Senator Ingle did not fill
+of of what now.
+No twice.
+Thanks.
+I yes three male and three thank
+you for that I will go to
+Senator panic just wait explain
+her vote followed by Senator
+Stewart so Mr chair first of all
+I have the same concern as
+senator or to see Pino and I
+hope this will be fleshed out
+about creating another state
+agency but secondly I asked for
+a roll call vote because the
+people on the webcast do not
+know what we're doing if we
+don't do it verbally thank you
+very much.
+Senator Stewart thank you madam
+chair I just want to thank the
+sponsor this is so much better
+this substance it's clear we
+need to this office this is not
+a new agency this is having
+security people have their own
+place to work with each other
+with their advisory committee in
+the do it office already so
+let's let's.
+Doing it only moving this five
+or six years the school setting
+office wind within the agency we
+need this we we needed it last
+year.
+It years ago and we will I'm
+sure amend this as we go forward
+in the years at least we thought
+this and we can get started on
+that so that is the reason of my
+yes vote and I want thanks to
+the thank you madam chair thank
+you.
+I think that this for less than
+that.
+Thank you.
+I just on the point of cyber
+security I was half this morning
+and if anybody was asked to I
+mean out part of either donated
+either donated to domestic
+violence shelter or just know it
+was a half thank you very much.
+Senator and I see you have
+worked at that time with the
+folks.
+And that you want to four
+minutes for rebuttal this you
+have organized support I'm sorry
+organized opposition sign up
+so I will all help with time but
+also asked if the.
+Keep your speakers within within
+the time that you have a lot of.
+Thank you madam chair and I I
+hope you got the email about
+State Land Office Stephanie
+Garcia who is also going to
+speak and we're going to kind of
+take it I sent the email but
+because she has a limited time
+of we're going to kind of move
+for up if that's okay just
+briefly introduce of the story
+of the green amendment madam
+chair committee members the
+story of the New Mexico
+environmental rights amendment
+began two years ago.
+Joanne I and and I learned about
+its effectiveness in other
+states I mean Representative
+Ferrary and I learned about its
+effectiveness in other states.
+And we also saw that the Lujan
+Grisham administration was doing
+solid environment to work
+through rulemaking.
+Many of you know that I have
+read article twenty section
+twenty one the pollution control
+amendment of our New Mexico
+constitution on the floor many
+times.
+But I also know in the one case
+that has been brought under
+article twenty section twenty
+one it failed to stop then
+governor Martinez from reversing
+governor Richardson's
+administrations painstaking
+rulemaking finding on the
+environment and climate change.
+The result was record record
+methane poisoning environmental
+chaos with regard to produced
+water no climate goals and
+little if any agency
+enforcement.
+That has changed with the
+Michelle Lujan Grisham
+administration.
+With the passage of Senate this
+Senate joint resolution six
+voters will be allowed to vote
+on whether they prioritize are
+beautiful but environmental and
+environmentally fragile
+environment and if it passes the
+environmental protections put in
+place during the Lujan Grisham
+administration rulemaking will
+require a consideration of the
+impact of I'm doing those
+regulations on our air our land
+our water and our health.
+This amendment passed rules
+committee in twenty twenty one
+with a good free right I had
+modeled it on Pennsylvania which
+is a little forty an old
+fashioned I I admit last year we
+further home the amendment in
+House Energy Environment and
+natural resources of with
+Representative McQueen doing
+some really great work on it.
+Because the community this year.
+Gave us incredible feedback we
+added an environmental equity
+component to make it clear that
+in New Mexico we care that all
+people no matter their race
+ethnicity tribal status socio
+status and geography all people
+are are given the benefit of
+this ammendment because of the
+time project like yes state land
+commissioner Stephanie Garcia
+Richard to make a statement
+before Representative Ferrary
+makes a statement.
+Madam chair thank you so much
+for having me so I am Stephanie
+Garcia Richard on state land
+commissioner I oversee thirteen
+million acres of our state's
+public statement and I I very
+much appreciate the breach in
+protocol to allow me to speak
+today
+You know what I really want to
+say I I have been supporting the
+green amendment since it was
+first introduced I believe two
+years ago and I I have had
+numerous conversations with.
+No it's an opponent's on this
+particular piece of legislation
+in this recommendation to before
+you all today and really what
+continues to resonate with me is
+that we are trying just the same
+way that we protect the other
+rights that we enjoy both in
+this country but in the state
+of of freedom and and right to
+speak and write to participate
+in our government we are asking
+the voters whether or not they
+will prioritize their right to a
+clean environment clean air
+clean water and what this
+particular proposal has done is
+brought in voices that you don't
+necessarily see when we are
+making policy here in this
+building and I I've seen some of
+these voices in our in our
+energy policy discussions I hope
+you hear from some of them today
+but they are basically the
+future generation who are
+looking at the the future of of
+like of the the sponsor said a
+very fragile ecosystem and
+wanting to weigh in in a very
+positive way by reinforcing
+reinforcing their rights.
+To clean air clean water in in
+our state and so I'm very
+hopeful that some of those folks
+also will be able to speak today
+I cannot stick around to listen
+to them but I did want to be
+here to stand in strong support
+of of this proposal so thank you
+so much for hearing from you
+thank you thank you.
+Now we'll hear a brief statement
+from representatives of join
+Ferrary.
+Thank you madam chair and
+committee members just briefly
+breeding madam chair this of the
+green amendment will add to the
+bill of rights sections of the
+constitution our constitutional
+right to clean and healthy
+environment and it will
+establish a clear trustee
+obligation on New Mexico
+government officials to protect
+the state's natural resources
+for the benefit of both present
+and future generations and by
+placing environmental rights and
+our constitutional
+constitutions bill of rights we
+are insuring that.
+We are given the same legal and
+constitutional standing as other
+inalienable rights of
+fundamental importance to all
+New Mexicans and we recognize
+the importance of protecting our
+speech rights our religious
+freedoms.
+And our civil rights and it is
+just as important to protect the
+rights of our people to clean
+water and air and healthy
+climate and environment.
+And having the green amendment
+will help us to ensure that
+existing environmental laws and
+regulations are implemented to
+give full potential and they
+will also provide a basis for
+advancing new needed protections
+and it will also make clear that
+protecting environmental rights
+is the duty of all government
+officials not just our
+legislature.
+And the amendment will not
+undermine economic development
+in our state it will just make
+sure that economic industry and
+business growth has to protect
+our environment which itself is
+essential to help the economy
+and is essential for the health
+safety and the happiness of all
+New Mexicans.
+Thank you madam chair.
+Representative madam chair I'm
+proud to introduce my of in
+Boston who is the author of
+green amendments for the
+generations she's written an
+inspiring book that's now in its
+second edition.
+Thank you madam chair for the
+opportunity to testify and to
+add some helpful points for
+committee consideration.
+I'd like to just offer that
+there is nothing unique and how
+this proposed environmental
+rights amendment will operate
+legally all of the same rules of
+constitutional and legal
+interpretation will apply to the
+environmental rights amendment
+at the plate to all other
+constitutional bill of rights
+protections and so New Mexico
+judges who already deal with
+constitutional challenges as
+well as environmental cases on a
+regular basis are already well
+equipped to effectively use this
+ammendment to strengthen
+environmental protection and
+environmental justice.
+And to do so in a way that is
+respectful of the other arms of
+New Mexico government just as
+the judges and the other three
+green amendment states have done
+so Pennsylvania Montana New York
+in these other three green
+amendment states that have
+similar amendments the
+legislative executive and
+judicial branches of government
+have all expectedly use their
+amendments there is no
+inappropriate usurpation of
+authority by one branch of
+government over the other in the
+three states with similar
+amendments there is no matter
+massive rush of litigation in
+every instance save for perhaps
+one the cases that have been
+brought citing the green and
+then it would have been pursued
+regardless based on other legal
+claims the constitutional claim
+is brought in either as an
+additional claim but most often
+is brought in to help interpret
+and apply the existing laws that
+are at issue in the case so
+there's not a net increase in
+the actual number of legal
+actions that are brought forth
+into the courts and no cases
+have been dismissed as
+frivolous.
+The number of cases that do
+actually make it into the court
+system in the state for judicial
+intervention intervention has
+been less than ten a year there
+are some administrative
+challenges but does get resolved
+at those very early stages and
+don't make it up into the courts
+and I would just like to
+conclude by offering that the
+Pennsylvania green amendment and
+what we see in other states
+in other states where the cases
+include a green amending claim
+that they have not cost and
+frontier do hardship on the
+agency resources the agencies
+that have involved been involved
+in those cases they actually
+help to support agency focused
+on prevention of environmental
+pollution degradation and harm
+which has provided a cost
+savings to both state and local
+government budgets thank you
+madam chair for the opportunity
+to testify.
+Madam chair I'd like to improve
+the to ask Kyle to still who is
+a senior attorney with the
+invest western environmental law
+center.
+I believe he's online saying I
+have about ten minutes.
+Please go ahead.
+Yes thank you good morning madam
+chair and members of the
+committee my name is Kyle
+dissolved as the senator Sam a
+senior attorney and I climbed
+Energy program director for the
+western environmental law center
+and I work out of our house
+office I'm speaking today to
+offer support for S. year six
+while New Mexico while New
+Mexico has a tapestry of
+environmental laws and
+regulations there remains a
+significant gap in the
+protection of our water air soil
+and climate.
+The staff is made evident by a
+persistent negative
+environmental and health
+outcomes that occur throughout
+our state and in particularly
+for the people and communities
+at the front lines of extractive
+industries.
+Having the constitutional
+authority offered through Esther
+six will provided legal support
+and forty for government
+officials and communities to
+address these negative outcomes
+and safety net that currently
+doesn't exist.
+Looking specifically at article
+twenty section twenty one is my
+opinion that appealing this
+language have no legal impact on
+the state's authority or power
+to legislate Environment
+additions however this repeal
+does have the benefit of
+ensuring broad environmental
+responsibility is shared by all
+all government officials rather
+than leaving that responsibility
+solely to the legislature.
+S. year six is focused on
+protecting environmental rights
+not simply pollution control.
+Notably in the past year six
+would help facilitate a just
+transition for New Mexico by
+promoting telling government
+interests to address climate
+change and environmental harms
+as well as promoting more
+equitable equitable process sees
+to engage people in communities
+and to avoid potential legal
+challenges.
+It is impossible piece Mealing
+individual laws and regulations
+to address every situation or
+occurrence environmental harms
+exist let alone anticipate
+involving environmental and
+health challenges our
+communities will face in the
+future.
+Esther six can help we've this
+existing tapestry of law
+together to ensure more
+equitable outcomes and help
+bring environmental and climate
+justice that our communities so
+deserving the thank you.
+Thank you madam chair and is it
+as we talked this morning I
+thought that we were doing this
+Wednesday of the twentieth so I
+had thought that you would all
+have time to read over this why
+do that you have been provided
+with I believe the reason we did
+this binder is because it was a
+lot of misinformation floating
+and legal memos that just really
+for hypothetical upon
+hypothetical and some want you
+to have concrete answers we also
+brought for mark freed in KC
+Manahan I'm not sure if Casey
+van and was able to stay a more
+free is a public sector law of
+is that a partner with public
+sector law environmental law and
+litigation I believe is on line.
+Thank you madam chair of like
+here members of the committee
+it's an honor to be here in
+front of you if I may just
+briefly qualify myself on a
+partner at the law firm of
+Kernan he's here in Pennsylvania
+I'm also elected Pennsylvania
+county supervisor I'm a former
+system council with Pennsylvania
+department of environmental
+protection and also a former
+prosecutor with the attorney
+general's trying to
+navigate numerous cases on
+behalf of local governments.
+Organizations and individuals
+involving Pennsylvania screen
+amendment and have addressed
+Greenman issues in states across
+the country including Montana
+New York both of which currently
+have twenty minutes.
+I just want to briefly address a
+couple issues what the green
+amendment is and and isn't
+F. as we are
+us R. six really proposes to
+very basic items one is an
+individual right of people to
+clean and healthy environment
+and to is that all levels of
+state government the trustees
+protect the state's natural
+resources we've already heard
+from miss van Rossum about some
+of the litigation issues the
+only comment I will make
+generally the green amendments
+in other states have been
+applied as a limitation on
+government overreach not as a
+not as a basis for government to
+to start taking
+at least in the litigation is
+additional action it's it's
+really to to prevent over region
+there's a number of examples of
+that and in Pennsylvania other
+states
+outside.
+Context it is also a powerful
+tool for state at all levels
+including state county and local
+governments to protect drinking
+water supplies from cancer
+because of ten eighty.
+Affect air resources from
+pollution releases a secure
+cleanup of hazardous site by
+responsible parties and advance
+good projects and government
+decisions healthtech impairment
+in a in a dress of climate
+issues of it's really been used
+to insure that
+permits consider the full range
+of involvement ramifications and
+harms of there is been a lot of
+discussion and I want to address
+one last point if I may
+that the there's been a concern
+that is going to somehow impact.
+Community mystery
+we have not seen any evidence of
+that in the states that have a
+green amendments I'm not aware
+of any cases attacking clean
+energy and frankly I will tell
+you that the the green amendment
+is often cited as a basis and
+resolutions that I that I see at
+local government level business
+my Mister freeze I'm sorry your
+your time is up and
+unfortunately we have we have a
+set aside for minutes for
+rebuttal and so I just wanted to
+mention the committee we have of
+that concludes the experts so it
+looks like the only time we had
+was for our experts which is
+really unfortunate we have Paul
+Gibson Nicole my answers so few
+firmer Care Josi for yucca
+Jonathan we we have several
+people who are online and I was
+hoping that some of them would
+have time to speak and I just
+want to apologize to all of them
+because and to say it's your
+voices that we're doing this for
+so thank you madam with that and
+I also do want to introduced by
+one of the co sponsors we have
+twenty people of coast cosigned
+and we have a prime Sanchez
+sitting be active for me again
+with me with Senator Pinto.
+Thank you.
+Reserve affirmative for your
+profile
+we do have organized opposition
+right to our rules committee
+procedures so if the opposition
+is organized state you have
+twenty minutes to present they
+will have fifteen and then you
+will have here for the reserve
+to offer I off so who is
+speaking on behalf of the
+organized opposition.
+Hi y'all Representative organize
+yourselves so please come up
+and.
+You but I ask that you.
+Keep yourselves to your
+individual to I'm not going to
+cut you off but you guys should
+be cut each other off of
+someone's speaking longer than
+than you have to thank you madam
+chair and members of the space
+States everyone speaks please
+state your first last name for a
+committee secretary the fact
+that thank you madam chair and
+members of the committee my name
+is Rikki Seguin and I work as
+the executive director of the
+Interwest Energy Alliance
+Interwest is the regional
+renewable energy trade
+association headquartered here
+in New Mexico representing
+roughly forty of the largest
+developers and manufacturers of
+wind solar storage geo thermal
+and transmission in the globe.
+We're here today in opposition
+to S. J. R. six.
+An arrest and the renewable
+energy industry are strong
+believers in the goals of clean
+air healthy environments and
+stable climates and we support
+the intention of this proposal.
+We're very excited to be part of
+New Mexico's clean energy
+transition and are already
+investing roughly ten billion
+dollars into the state and
+putting thousands of New
+Mexicans to work.
+We commissioned the Holland and
+Hart legal analysis which was
+distributed to every member in
+the building and the reason for
+that was to better understand
+what the proposal would do for
+and against renewable energy
+development.
+The language in the green
+amendment is so broad that
+unfortunately neither local
+governments members of the
+public or private developers can
+accurately gas at what these
+words mean.
+This leads to incredible
+inefficiencies legal risk and
+uncertainty in the context of
+renewable energy development.
+Businesses need stable
+regulatory environments in order
+to receive project financing and
+invest and unfortunately as J.
+R. six will compromise that
+leading to unnecessary expense
+and delay that can compromise
+project success reliability of
+our power grid and are clean
+energy transition again we are
+very excited to be part of the
+conversation about how to
+achieve the goals of the green
+amendment and we're grateful to
+the work of the Sanchez and open
+dialogue that they've allowed us
+to have with them over the last
+few months.
+But again we're here today
+because we strongly believe that
+S. J. R. six will create a
+chilling effect on renewable
+energy development in the state
+and we respectfully urge a no
+vote thank you.
+Good morning madam chair members
+of the committee prime contact
+on the executive director of the
+New Mexico building and
+construction trades council we
+represent fifteen construction
+trade unions in the state of New
+Mexico and have been active in
+the state for a hundred years we
+have
+looked at this very closely and
+our our council has voted
+unanimously to oppose this
+proposal
+Yes here are six
+it is.
+Very as was shared earlier a
+very ambiguous and bay if we do
+have a patchwork of
+environmental bills in our state
+in our view with thirteen
+judicial districts and district
+courts making decisions of all
+different colors all across all
+different parts of the state
+this this proposal will have
+significant
+impacts on our ability to build
+important infrastructure
+including energy water waste
+water on national laboratory
+functions except us so we are
+respectfully request that
+respectfully request that you
+oppose this measure thank you.
+Madam chairman.
+vice chairman and esteemed
+members of this committee my
+name is Patricia Madrid I am the
+former chief judge of second
+judicial district in Albuquerque
+and the former Attorney General
+in New Mexico for eight years.
+Currently I am also on the board
+and the a small New Mexico
+copper company
+of which is what drew my
+interest to this proposed
+legislation I must remind you
+that this is a common.
+I don't think.
+Sorry.
+I must remind you that this is
+not a statute that you're voting
+on this is constitutional
+amendment that's being proposed
+it cannot be easily changed or
+amendment of and so you must be
+very careful and voting for this
+example a few years ago you
+passed a constitutional
+amendment concerning bond for
+defendants it sounded very good
+but it was had a lot of
+unintended consequences and now
+you are trying to correct that
+and now when you try to correct
+a constitutional amendment
+oftentimes you cannot in court
+because then it will be called
+unconstitutional so be very
+careful when you vote on this
+overly broad constitution.
+This amendment is couched in
+language that will cause it to
+pass when they call it a green
+amendment it's almost like a
+challenge to all of you to pass
+it because otherwise you'll be
+called against a clean
+environment it's intimidating
+and and it's also in language
+that will cause the voters
+automatically passes so once
+this passes the legislature you
+can count on it passing of the
+electorate again the land the
+language is simple but it's
+overly broad vague and more
+importantly it gives rights to
+everyone the lawyer to spoke to
+you drew up the language of this
+so they can alleges in in court
+please to give everybody
+standing to complain about any
+project that's being proposed to
+be built.
+so give expanding to anyone who
+feels aggrieved now as it stands
+you have to have something
+called standing.
+so it will fall on the judiciary
+to decide on a case by case
+basis.
+Which will undermine our
+regulatory framework in the
+state there will be uncertainty
+people will not be able to
+undertake or invest in our state
+without such uncertainty and so
+they won't I'm I might add that
+my company is invested already
+fifty million dollars in a
+project and now we've been
+getting through the permitting
+process for over ten years.
+Okay.
+I just want to say that this
+will have a great effect on the
+attorney general's office who
+represents all these permitting
+agencies and by the way they do
+a very good job and I don't see
+any evidence that they're not
+doing their job this is really
+an indictment against our
+permitting agency I just think
+that this ammendment is not well
+thought out and should be voted
+against.
+Madam chair members of the
+committee Tiffany Rivera
+registered lobbyists for New
+Mexico farm and livestock bureau
+we stand in respectful
+opposition to as tears our
+state's farmers and ranchers are
+some of the very best years of
+our natural resources as their
+very livelihoods directly depend
+on them the joint resolution has
+the potential to adversely
+affect our state's agricultural
+sector which directly supports
+more than twenty three thousand
+jobs and contributes over three
+point four nine billion to our
+economy constitutional
+amendments are not needed one
+whole bodies of law exists to
+protect and regulate activities
+that could affect the
+environment deficiencies in
+state programs should be
+directly addresses policy
+matters instead of through a
+constitutional amendment that
+provides a broad and vague
+instruction a prime example of
+this very action in successful
+practice is a Derry rule which
+is administered by the
+environment department this role
+is drafted is an agreement
+between the depend fireman
+Department the dairy industry
+and environmental coalition that
+collectively developed what the
+permitting program would entail
+this collaborative effort
+resulted in New Mexico Derry's
+having one of the most stringent
+groundwater regulations in the
+nation our producers responded
+to this challenge with good
+environmental stewardship and
+one of the highest rates of
+sustainability in the nation.
+This is a prime example that
+shows agencies and stakeholders
+can achieve collective goals
+without and overly burdensome
+and vague constitutional
+amendment for this reason and
+many others we Senators buckle
+up as Asian.
+Good morning madam chair members
+of the committee my name is
+Katherine Kirk shot a and I'm a
+registered lobbyist for New
+Mexico counties counties already
+work actively to protect public
+health and safety but the green
+green amendment places on clear
+an unfunded responsibilities on
+counties this resolution would
+make counties a trustee of
+environmental resources with the
+right responsibility to conserve
+protect and maintain them it
+will require counties to expend
+significant legal resources to
+resolve the confusion and
+conflict created by S. J. R.
+six.
+Further there are existing rules
+and regulations that have been
+vetted at length such as solid
+waste regulations that include
+environmental justice
+considerations for
+disproportional and pass and
+look at cumulative impacts
+county so please do not have the
+resources to implement or
+enforce this unfunded mandate
+only seven counties in New
+Mexico have planning and zoning
+offices fostering a climate of
+litigation without guaranteed
+outcomes places and overly
+burdensome mandate on counties
+that they simply cannot afford
+we urge you to vote against this
+bill thank you.
+Good morning madam chair members
+of the committee Clinton nicely
+risk services director for the
+self insurance fund registered
+lobbyist for the New Mexico
+municipal league
+with respect we think the
+opportunities for exploitative
+litigation are near limitless
+when it comes to this amendment
+as it has been proposed I think
+courts are going to have to
+wrangle with all kinds of really
+weighty questions from whether
+utility meters release cancers
+materials into the environment
+to some of the seasonal
+allergies to they have standing
+to bring suit under under this
+language this may sound
+hyperbolic on its face but it's
+not because that litigation
+already happened it's happened
+elsewhere in Pennsylvania it
+happens here because I just our
+claims on behalf of the fund
+we stand in opposition to that
+this proposed amendment for at
+least one other reason and
+that's because cost to frame it
+language in amendments is a high
+bar for responsibility because
+voters are gonna have a chance
+to weigh in on this concept can
+we say things like monetary
+damages are not available or the
+provisions in this are self
+executing we need to make sure
+that we are as candid as
+possible with the voters who are
+going to be left with the
+impression that injunctive
+declaratory relief are not
+available to judges who are
+going to be weighing in on these
+concepts and obligating millions
+in public spending for some of
+the decisions are going to have
+available to them and it is for
+those reasons we stand in
+opposition to this bill.
+Good morning madam chairman and
+members of the Senate rules
+committee my name is Daniel
+Garcia and I am a the average
+manager for we New Mexico I'm
+also a lifelong multi
+generational resident of our
+beautiful state renew Mexico's
+only statewide coalition focused
+solely on advocating for the
+development of renewable energy
+projects through community
+action resident mobilization we
+currently have over fifteen
+thousand supporters in New
+Mexico alone we believe best
+year six will negatively impact
+our renewable energy progress
+because no language in the bill
+reasonably projects are states
+for renewable energy development
+goals from I'm just legal
+challenges on current or future
+public land leases this lack of
+clarity in the current iteration
+leaves too much room to pull
+back on the progress our state
+has made to support renewable
+energy S. share six opens a door
+for entrance to oppose our
+renewable energy projects and
+sue to stop developers of wind
+and solar projects that would be
+a lost both state and federal
+budgets and hinder ability to
+achieve the tease goals please
+oppose Esther six until
+consensus between advocacy
+groups and renewable energy
+developers has reached and
+reflects the stances of all
+parties thank you.
+Madam chair members the
+committee the rubber amero on
+behalf of Kit Carson electric
+coop K. Carson is over thirty
+thousand electric electricity
+customers twelve thousand
+broadband customers and three
+thousand propane customers
+kickers and started as broadband
+business in nineteen ninety nine
+today they provide some of the
+highest speeds in the state
+kickers and made a huge
+commitment to solar energy in
+two thousand five as a result on
+a sunny day Kate Carson through
+a network of solar arrays in
+their service area has no power
+totally by solar during daytimes
+out daytime hours in addition
+there continue to add solar with
+battery battery backup to Carson
+is built to do this through the
+existing regulated system this
+bill could compromise species
+consists success there's just
+too many unknowns Carson urges
+you to.
+Vote no on this bill.
+Well not need that much time
+thank you madam chair members
+the committee John with sheets
+with The New Mexico federation
+of labor for reasons previously
+stated we stand in solidarity
+with with brother Condit and the
+building trades and respectfully
+oppose this measure thank you.
+Yes.
+And I know that we got quite a
+bit
+written comments both both in
+support and in opposition all of
+which should be in everyone's
+notebooks fair I believe and
+anyone who's here would like to
+raise their hand to indicate
+support please do so.
+Anyone who'd like to indicate
+raise their hands indicate
+opposition please do so.
+I believe we have about twenty
+four people in support who are
+online is that correct yes
+manager next half of the listen
+to the secretary there there's a
+couple more indicated for online
+well.
+Thank you give us a rough
+estimate of online how many
+people online have indicated
+opposition sides of this I've
+already given you as soon as and
+other to individuals.
+I would I I assume that this
+list meant at was all people
+supports this office there are
+okay okay and then there's about
+two online and officers are who
+are in opposition yeah.
+One second madam chair
+and this is here.
+Time eight.
+One.
+Four five six online in
+opposition thank you.
+and you have reserve I'm sorry I
+should let you do to your
+rebuttal before a.
+We ask you about dental hand
+iterations Adams is you you
+reserve affirmative beer your
+doctor thank you I think I can
+do my rebuttal in two minutes
+and I I would like to give the
+other two minutes to at least a
+couple of of the public members
+who would like to speak
+we met with Interwest and some
+of the some of the other people
+and their primary concern is
+about the transmission lines
+that they're going to have to
+construct in the end the
+sighting of them and I contend
+that if they cite those lines
+with with regard to you know in
+compliance with state law and
+sensitively to the environment
+they should not have a problem.
+The other thing they said is
+that the constitutional
+amendment is brought well that's
+true of all constitutional
+amendments constitutional
+amendments that policy.
+And one of the things that we've
+seen in the other states is it
+is not had a chilling effect on
+renewable energy quite the
+opposite.
+Now labor opposes it because
+it's ambiguous and vague and I
+did have a conversation with
+members of labor and they're
+afraid afraid that it will slow
+down construction we have heard
+from people who in the other
+states and they have not shared
+with us at all that it's good
+start construction in fact a lot
+of renewable energy jobs have
+been made more available.
+I don't know what I thought
+about going into this but the
+whole issue standing is a red
+herring because standing is a
+separate legal requirement and
+it requires that a plaintiff
+suffer actual harm from the
+polluter so that it is always
+going to be the case this this
+ammendment doesn't change that
+it anyway sure PED to perform in
+the first amendment they have to
+to show expanding every
+amendment requires a place to
+show expanding.
+It is not it has not adversely
+impacted the agricultural center
+that secretary in other states
+they should not fear because
+they are excellent stewards of
+land and this would help the
+state protect their land and
+protect what they do.
+With regard to counties counties
+will be empowered to protect the
+environment it's been used to
+help local governments protect
+the environment and.
+I believe it's their
+responsibility and should be a
+policy of the state that they
+look at cumulative impacts on
+our vulnerable communities and
+they should not be afraid of it
+again I guess I want to conclude
+by saying the parade of
+horrible's it has been set out
+has not occurred in any other
+state and I don't think that our
+judges are less capable our
+attorneys are are just as
+capable as other states I don't
+see this parade of horrible's
+happening and they all grow out
+of fear so with that I'd like to
+leave the rest of my time to two
+more comments if I can from the
+public.
+Fifteen seconds perfect if they
+if you can get them online or.
+Jonathan okay Jonathan.
+Madam there's a whole bunch of
+people and I apologize to
+everybody you can't.
+You want to I'm sorry that
+curious okay.
+The service.
+Good morning madam chair members
+of the committee my apologies I
+was trying to and use those
+waiting to be given permission
+by the host good morning again
+my name is Jonathan what is I am
+here today on behalf of the
+United for climate crisis action
+and we stand in strong support
+of S. G. R. six.
+The climate crisis is one of if
+not the biggest threat to my
+generation's future.
+And despite scientists and
+community members calling for
+action for decades what should
+be our intrinsic right to a
+healthy environment has been
+violated time and time again.
+Indigenous frontline communities
+in particular like my home in in
+Laguna pueblo have continue to
+face the irreparable harm caused
+by pollution and industry and
+this is unacceptable we deserve
+to know that are.
+Thank you for your.
+Senator so we will go ahead and.
+Discussion from the committee.
+That are to be paid.
+Thank you madam chairman thank
+you senator and and the
+representatives and senators and
+representatives what what what
+is the what is the reason.
+Why.
+We're striking out our existing
+constitutional right to claim
+it.
+The healthy climate which is in
+article
+twenty section twenty one we're
+gonna get rid of that why is
+putting it in the bill of rights
+better than what we already have
+which would seem to be a
+statement of state policy thank
+thank you Mr the madam chair
+Senator if you look at that
+amendment it really is about
+balancing and allocating
+pollution and then some of the
+language in our amendment is
+duplicative of the language
+there we actually took it from
+the amendment so we felt that it
+would cause confusion I know
+that the Attorney General said
+old article twenty section
+twenty one and gives authority
+to the legislature that is not
+all correct the legislature is
+always had the authority to
+regulate in this area and and
+the pot that provision doesn't
+give us anything that the
+legislature didn't already have.
+The other thing is I do want to
+reverse the results of the case
+interpreting that where they
+allowed
+Senator Martinez the court
+simply allowed Senator
+rules within ten ten months and
+so those are the reasons that
+we're repealing it I understand
+it could cause confusion but we
+think that it to repeal it but I
+think it could cause more
+confusion not to not to repeal
+it.
+So we're trying to just do a
+clean.
+Bill of begin amendment in the
+bill of rights and not the some
+other additional language in the
+miscellaneous section of the
+constitution.
+madam chairman one of the
+question of what is section see
+on page.
+So thanks monetary damages shall
+not feel for.
+Forcible again states have these
+this is valid.
+Thank you
+this became the the suffix
+executing provision is important
+because we wanted the amendment
+to be used to strike down.
+Of legislation and rules that
+were inconsistent with it and
+therefore if it's self executing
+you don't need to have any
+implementing legislation it
+stands on its own you can have
+implementing legislation but it
+stands on its own the other
+thing the next thing monetary
+damages will not be awarded that
+became necessary because we
+passed the Civil Rights Act and
+if you read the cases that have
+use this ammendment in other
+states all of them are striking
+down state action or as were
+reversing permits because a
+constitutional amendment is a
+limitation on government's power
+and it's a check on government
+power so we did not want this to
+be viewed has or or or to.
+To be a vehicle for monetary
+damages people can have monetary
+damages by suing
+in nuisance in tort law against
+the polluters so if this doesn't
+stop an individual who is harmed
+they don't need this ammendment
+they can sue now but we felt it
+was important because of the
+Civil Rights then we thought
+that the legislature's might be
+concerned about how much this
+might cost and we did not that
+was not the intention and that's
+not how it's been used in any
+other state.
+And the section this is
+enforceable against the state
+counties in Houston
+municipalities that further
+explained self executing so that
+this could be used to take an
+action against a county a city
+or municipality and and that's
+that's really important because
+there's owning laws there they
+can do some real damage to the
+environment
+and they need to be checked well
+Senator other sources
+say that were to be on for
+minutes thank one of our members
+have
+for for meetings that they can
+and and and I want everyone to
+have a chance to have a full
+discussion on this bill and and
+the full.
+and so what I'd like to do is
+take out here on Friday I
+continue to debate on the
+stability.
+That this is not a bill that I
+think we want to rush through
+just because.
+Thank thank you madam chair we
+look forward to the discussion
+with that we will.
+Thank you thank you madam chair
+and real quickly because I don't
+know if I'll be able to be here
+on Friday and members of the
+committee that we think that
+some entities and what exists
+right now is enough but if that
+was the case then why in my area
+do I have a company from Canada
+still drilling for bore holes
+since thanksgiving since
+November so they are here
+exploring uranium in the area
+and where's the county where all
+these entities that are supposed
+to help our communities
+maintain a safe community or
+even have a clean community and
+they're here it's happening
+right now as we speak thank you
+madam chair.
+Thank you madam chair I also
+want to thank senator pope who
+joined us it's great I it was as
+you know we found out about the
+I found out about this yesterday
+and I'm thrilled that so many
+people are able to show up.
+It was.
+Act.
+That we're going to pick up with
+this on Friday we're not gonna
+go back.
+Right here.
+that was.

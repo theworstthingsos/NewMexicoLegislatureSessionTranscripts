@@ -1,0 +1,5725 @@
+who ICASA is and then jump right
+into uh this project's funding,
+uh, the current purpose of this
+project are stakeholders, uh,
+some of the data issues that
+we've encountered over the past
+year. And finally, we want to
+demo for you the first version
+of our dashboard that we've
+built throughout this last year.
+Madam Chair, members of the
+committee, thank you for your
+time today. Uh, we're very
+excited to present, uh, before
+we get into that, I just want to
+give a little overview of the
+institute and who we are in case
+you're unfamiliar. So ICASA is a
+RPSP uh attached to New Mexico
+Tech and we were founded in 2001
+and have that line item still
+there that give us our funding
+to this day, uh, we spent a lot
+of our, uh, history working on
+critical infrastructure problems
+and very technical problems with
+three-letter agencies at the
+federal level, DOD, DOE, etc.
+And we've taken that technical
+skill and now have turned it
+into our state and have been
+working to solve a lot of these
+technical issues with partners
+across the state that maybe
+don't have the resources or the
+people in their organization to
+actually do some of that
+technical work and we've spent a
+lot of that effort, uh, since
+2018 working with partners in
+the criminal justice space.
+People like the Sentencing
+Commission, AOC, AODA, etc. um,
+we've deployed a number of
+dashboards and tool.
+rules for those partners, and
+this is our kind of first
+entrance into the health care
+space and so uh we've taken
+again that technical expertise
+and have partnered with a lot of
+people across the state to try
+to get um more expertise in the
+space of health care. We're not
+kind of tied to that in any way
+and so it was very critical for
+us to find partners to work with
+and Mary will talk about that a
+little bit more, uh, so that's
+just a little brief overview of
+the institute. Uh, we'll go
+ahead and pass it back to Mary.
+Apologies. So this project was
+uh funded through 2024
+appropriation, uh, we
+appropriated $750,000 to
+establish and maintain a state
+healthcare workforce dashboard.
+This funding is good through
+2027 as we continue to work
+through this dashboard.
+As far as project purpose, uh,
+this purpose of this project was
+to create an interactive
+dashboard that examines the
+healthcare workforce data within
+the state of New Mexico. Our
+stakeholders who I'll talk about
+in a second, uh, establish kind
+of three main targets that we
+should try to focus on for this
+first initial push of the
+dashboard, which was nurses,
+physicians, and EMTs, uh, within
+a initial focus on three what we
+call data families. So that
+included retention rates,
+thinking, who's going to school
+in New Mexico, who's
+sticking around after they go to
+school, how long they're
+sticking around in New Mexico,
+um, FTE and PTE or full-time
+equivalent or part-time
+equivalent, uh, for instance,
+it's great if you have 5
+physicians in your town, but if
+all 5 of them are only part
+time, that's a lot different
+than having 5 full-time
+positions, so we wanted to look
+at that as well as supply and
+demand, looking at not only the
+number of physicians, nurses
+that we currently have, but
+looking forward to see uh
+prediction of how the demand
+would increase at a 35.
+and 10-year interval.
+So as Draya mentioned, we are
+not, uh, specialists in
+healthcare data, which meant we
+needed a large group of
+stakeholders to help us
+understand and make sure we
+weren't misrepresenting data as
+we gathered it and analyzed it.
+Um, I have a few of the
+stakeholders, uh, legislative
+Finance Committee who are here
+today. We're very influential
+board of nursing, New Mexico
+Medical Society, Healthcare
+Association, um, Department of
+Health, uh, Department of
+Education, um, all of these
+institutions helped us
+understand.
+and helped us so we weren't
+misrepresenting anything along
+the way.
+As far as those stakeholders,
+their overall mission for this
+dashboard was to make New Mexico
+an attractive place to practice
+medicine. They wanted to see
+where we were, uh, as far as
+healthcare workforce and how we
+could make it better.
+Um, as far as data, it was a
+year-long process. We started
+this project on July 1st of
+2024, so it's been a little over
+a year now since we started this
+project. A lot of this project
+has been data procurement, uh,
+and with that has come a lot of
+issues and um struggles in
+procuring data throughout the
+state. After a year of going
+through and uh procuring data we
+currently only have 3 data
+sources that we're using for
+this uh dashboard. The first one
+and our largest
+uh, data set is from 3D Health.
+This is data that we paid for,
+uh, this was at the
+recommendation of multiple of
+our stakeholders as they are
+reputable source that had worked
+a lot with healthcare workforce
+data around the nation, but we
+specifically bought data from
+them, uh, occurring in New
+Mexico.
+We've also been using NPI or
+National Provider identifier
+information, individual numbers
+associated with providers within
+New Mexico and finally Board of
+nursing did provide us, uh,
+their board of nursing data
+overview, uh, for this past
+year.
+As far as uh additional data we
+had talked to so many
+institutions and we did have
+leads for a lot of data. None of
+them have come to fruition yet,
+but we've met multiple times
+with hospital association,
+Department of Health,
+specifically looking at their
+EMS data was something that we
+really need because we had, uh,
+reached out to other
+organizations to get EMS data
+and no other organizations had
+this data other than Department
+of Health. We still do not have
+data from Department of Health
+with EMS, so you'll notice that,
+uh, even.
+even though I mentioned
+physicians, nurses, and EMTs,
+our dashboard currently only
+reflects physicians, uh, and
+nurses, uh, we would still like
+to include EMTs as soon as we
+have the data available, we'll
+be implementing that in the
+dashboard.
+We've also met with New Mexico
+Healthcare Authority and the New
+Mexico Longitudinal Data System,
+um, to try to access data we
+have not procured any data from
+those individuals yet, but we've
+had contact and we've had
+conversations about that.
+Um, I would now like to switch
+to the demo. I will warn, uh,
+members of the committee that
+this demo is going to be taking
+place on the projector behind
+you. I'm very sorry we did not
+realize that you'd have to turn
+out in your chairs.
+We are nothing if not.
+Flexible. Thank you so much.
+I will.
+So
+Maybe.
+Here we go.
+So this is the first page you'll
+see when you enter the New
+Mexico healthcare Workforce
+dashboard currently, we only
+have down here the legislative
+funding that funded this
+dashboard. Uh, we've also listed
+our partners that have helped us
+out. These have all been linked
+to their um own web pages to
+give thanks for their
+recommendation and their
+expertise throughout this
+project.
+Another thing to note about this
+dashboard is that we build it
+from the ground up using open
+source libraries, so this is not
+anything through Microsoft BI or
+Tableau, uh, that would have a
+reoccurring subscription fee. We
+do not have that. We build
+everything from the ground up.
+So it's owned by the state
+because we use open source
+libraries. So this page is
+really just referencing all of
+those open source libraries that
+we're using so we give proper
+credit.
+The first page we'll look at is
+our attention page. Uh, this is
+using national provider
+identifier numbers, so I want to
+specify that national provider
+identifier numbers can be not
+only for physicians, nurses, and
+healthcare workers, but also
+people who drive ambulances,
+people who fix ambulances. So
+I'm gonna first and foremost
+kind of drill down to something
+a little more relevant because
+the overall number can be a bit
+misleading. So we'll go to
+family medicine, perhaps, and we
+can see that within the state of
+New Mexico.
+We currently have a total number
+of 10 1845 uh family medicine
+practitioners who have an NPI
+number. Now, what we've created
+and it's kind of with the
+projector, it's a little hard to
+see with, um, colors, but this
+is what's called a sany diagram,
+um, and it's breaking out and
+showing when people have left
+the state. Now, within the NPI
+data, we can see that it's a
+national provider identifier
+number within New Mexico, once
+they're no longer practicing in
+New Mexico, it will leave the
+system, which is how
+We're tracking, uh, in theory,
+when people are leaving New
+Mexico. So we can see we have
+currently leftover after 2
+years, 3 years, 4 years, 5
+years, and a 6 year rate, um,
+with their attention over 5
+years of 1,256.
+We also have KPIs or key
+performance indicators at the
+top of the page. For instance,
+we have undergraduate medical
+education, um, according, and we
+have all of them um cited within
+the KPIs as well. We can pull it
+down and see this was um from
+the AMMC or the American.
+Association of Medical Colleges.
+They list that there are 1,116
+undergrad medical education
+students in New Mexico and we've
+also included indicators of
+whether this is higher or lower
+than the national average. Um,
+on most of our KPIs, we've
+included that and if you hover
+over, there's also sources for
+that for the um average that we
+are using. This one is also from
+the uh association of American
+Medical Colleges. We've also
+included physician retention
+rate, physician.
+who've completed graduate
+education in New Mexico, the
+percent and New Mexico graduates
+practicing in new medical, uh,
+New Mexico and the percentage.
+Next, we'll look at FTE and PT
+or full-time equivalent
+part-time equivalent. This is
+when we're using um that 3D
+health data that we had to pay
+for this one we can drill down
+to an individual level. So if we
+wanted to look at Bernalillo
+County, we can scroll down to
+Bernalino County, and we can see
+primary care specialties and
+looking at the FTE count is 666
+with the PTE count of 328. If
+you did not want specialty
+groups, because as we can see
+they're primary care, uh,
+surgical, all of that.
+can also break this down by
+specialty. It's just a much
+larger graph, and you can scroll
+down uh through these as well,
+and we also have a table if it's
+easier for you to access tables
+for overall numbers of FTE PT.
+You can also do multiple
+counties at once. We could do
+Bernalillo as well as Santa Fe
+and combine those numbers or you
+can also select all of your
+regions.
+We also of course have KPIs for
+this page as well. Percentage of
+FTE in all appointments is 64%,
+uh, which is actually according
+to uh
+I'd have to look, but um, I
+don't want to misquote that.
+We got from the Health Resources
+and Services Administration from
+their healthcare workforce
+analysis report. They report
+that 64% of um or that's a a we
+calculate the 64% of all FTE
+employment of physicians in the
+state of New Mexico and
+according to the health
+resources and Services
+Administration that is 27% below
+the national average.
+We also have primary care
+physicians at an FTE count per
+10,000, uh, which is at 5.2,
+which is 6% below average.
+Finally, uh, as far as physician
+data, we have supply and demand,
+uh, something I want to speak on
+with the demand is, it is based
+on an algorithm from 3D health.
+This is a proprietary algorithm.
+We do not have access to it, but
+there are stakeholders, uh, was
+one of the largest reasons we
+bought this data was because our
+stakeholders believed in the
+accuracy of this uh demand
+algorithm that at 3D health
+operates. Uh, so as we can see.
+This currently gives us in the
+year 2025, if we, this is for
+all uh physicians we can see
+supply is 3400 in the state of
+New Mexico, the demand is 4300
+with a need of 951, I think, my
+vision is not great. Apologies.
+Uh, but as we can go on, we see
+there's a 35, and 10 year
+prediction rate that we can go
+through like our previous page,
+we can also drill down by county
+and by specialty.
+Specialty group.
+And we can see even drill down
+into further of that. And as
+before, we have provided a table
+below if it's easier to use a
+table than it is the
+visualization.
+Finally, we have nursing. Now we
+heard from a previous, um,
+Session earlier today, the
+mention of compacts uh within
+the state of New Mexico, New
+Mexico is part of the nursing
+compact, so they're one of, I
+believe, 48 states. We are one
+of 48 states to be in the
+nursing compact, so it's
+difficult at times to get
+concrete numbers on how many
+nurses we actually have working
+in the state. We currently have
+4 44,000 active licensed nurses.
+This is not necessarily mean
+that we have 44 active nurses
+working in New Mexico as they
+could obviously go to.
+New Mexico or um Texas,
+Colorado, any of our surrounding
+states and work there without us
+knowing, uh, so we've tried to
+drill down who we know is at
+least active licenses and can
+only work in New Mexico, and
+that is a number of 13,900. Now,
+of course, there are people who
+have a compact license that are
+on top of that 13,000, that
+13,000 are people who only have
+licenses for New Mexico.
+We also have it broken down of
+how many
+individuals have active
+licenses, uh, RNs uh CRNAs.
+What have you. We've also given
+a Sankey diagram as we have in
+the first retention page of
+overall how many total nurses
+have ever been licensed in the
+state of New Mexico and uh when
+their NPI numbers are leaving
+New Mexico as well.
+Finally, I wanted to mention
+with this dashboard that a large
+part of it has been.
+Powered by that 3D health data
+that we had to pay for. This is
+not the goal of this dashboard.
+In fact, our goal of this
+dashboard would be that it's not
+only funded by the state of New
+Mexico, but that it's powered by
+data from New Mexico. We really
+bought this 3D data because we
+were having such issues
+procuring data within the state
+that we felt the only productive
+way to have this dashboard have
+real and accurate numbers was by
+buying data, but this is not our
+end goal. We would really prefer
+to have this dashboard powered
+by New Mexico data and we've
+continued to work towards that,
+as I mentioned, this funding is
+good through 2027.
+we still have many things we
+want to add to this dashboard.
+Many data sets that need to be
+added to this dashboard, and we
+look forward to adding them, uh,
+in the coming years. Thank you.
+So thank you so much. Wow, um.
+Wow, shucks and wow, great, um.
+So
+Who doesn't have questions?
+OK, well, so we will start with
+uh Senator Block, go that way
+and go around, um.
+I'll just stick with 3 minutes.
+Thank you, Madam Chair. Um,
+phenomenal brief. This is right
+in my wheelhouse on the
+dashboard side. This is exactly
+the type of information we need
+as policy makers, um, to see
+where we need to go, and I
+understand when you do the data
+analytics, it, it's just as, you
+know, the data is only as good
+as you, you got, and I
+appreciate that cause there's so
+much potential in here to show
+what we need for required
+treatment or providers versus
+what we have and you you
+drilling down to the specialty
+into the
+County. This is a tool, um, that
+I, uh, come see us in the
+legislature because we have to
+sustain and maintain this tool
+and update it. Um, I'm curious
+about the access to the tool and
+how fast the data is um in
+regards to real-time data and
+what type of platform is this
+gonna be on?
+Uh, Madam Chair, Senator Block,
+yes, so currently this dashboard
+is just hosted locally on my
+machine, however, we do have
+plans to go public with this to
+open internet by the end of
+September is our goal for this
+project, um, as far as when data
+is being updated, it's different
+for each of the data sets. The
+NPI data we can receive updates
+quarterly at the most recent,
+uh, none of them are real-time
+data is what I.
+should specify first and
+foremost. We have the the
+closest we have come to
+procuring real-time data was
+when we had talked to Department
+of Health with um Kyle Thornton
+about EMS data. The data is real
+time, but we have not gotten
+access to that. But in the
+future if we do, that would be
+the only real-time data that we
+have. Thank you, thank you,
+Madam. Yeah, because I, I think
+that one of the limiting factors
+here is we have, you might have
+a nurse who's licensed in New
+Mexico or or a PA, but they
+could work close to the border
+where they're going across their
+license.
+here. So the numbers, they might
+look good.
+But they're really not. Um, and
+we have to figure out a way to
+get the, the accuracy of that
+data to the policymakers, us, so
+we can look at that and provide
+incentives and, and things like
+that, and we got to drill down
+on the PAs, the X-ray techs, the
+physical therapists,
+occupational therapists, I mean,
+this, this is to me, this is
+like phase 0 and uh please come,
+come see me for any help I can
+do to, to keep this thing funded
+because
+This is is critical to the state
+of New Mexico to help us
+understand where the problem is
+because you should be able to
+pull out and extract some trends
+and analysis because I would
+argue as we're getting older,
+you're gonna get more stressors
+on the healthcare system,
+especially at the PA nurse,
+well, physical therapy, uh, as
+well. Um, and that can skew skew
+who's getting the care based on,
+on the, uh, the age group as
+well. So looking at the
+counties, the rural ones
+especially, uh,
+really great job. Once again,
+New Mexico Tech just comes
+through. Um, you guys are
+phenomenal. So, um, come see me
+up at the roundhouse for funding
+to keep this thing going. This
+is phenomenal. So thank you.
+Thank you, Madam Chair, right on
+time.
+There you go.
+So a representative block, let's
+see if you can do it. Thank you,
+Madam Chair. I'm sure I will
+cause I'm usually pretty good,
+but I'm just gonna start, uh,
+thank you both for your
+presentation. I won't smoke up,
+whatever. I wanna say thank you,
+uh, first of all, I'm just
+wondering how expensive is the
+data? And I know that we paid
+for it or you guys paid for it
+through the state dollars
+technically everyone paid for
+it. But can you tell me how much
+that was? And then also, does it
+go back retroactively because I
+saw it starts in 2025 with
+trends in the future. Is there
+anything backward that you have?
+Thank you, Madam Chair,
+Representative Block, it's so we
+paid, I believe, what was it
+5950 $59,000. Now this was again
+a one time fee for that data if
+we wanted updated data in the
+future, we'd have to pay an
+additional, not $60,000 but I
+think, I believe you're quoted
+for about 20,000, which is why
+we're so eager for this to be
+state data instead of private
+data, uh, as you can imagine
+because $60,000 out of a budget
+is not nothing. It's an entire
+developer for one.
+on this project, so it's
+definitely significant overall.
+Uh, that data does not go
+backwards. It starts at 2025 and
+we have the demand going
+forward, but they did not give
+us any data going back from
+2025.
+Madam Chair and thank you for
+that. So does it exist at all?
+Because I would love to see what
+certain policy decisions when
+they were made, what it
+Ended up with now where we are
+in 2025, so we can see what we
+did terribly wrong and why we're
+purging nurses, doctors, etc.
+and how we can reverse that, I
+suppose.
+Madam Chair, Representative
+Block, yes, I don't know, but
+I'm happy to reach out to 3D
+Health later this week, and I
+can get you an answer to that
+question.
+Thank you, Madam Chair and thank
+you for that. Great to put a big
+appropriation to get all that
+data in one file swoop. I don't
+know how many years, is it
+annually 50,000 bucks every
+year, or is it just all the data
+from the future, maybe?
+Madam Chair, Representative
+Black, it's that we paid the
+initial amount of $60,000.
+That's the majority of the leg
+work that's needed going
+forward, if we wanted a yearly
+reoccurring, I believe we are
+quoted for $20,000 for a
+reoccurring fee.
+Thank you, Madam Chair, and I
+think that would be a good
+investment. That's all I had and
+I had extra time, so I'm gonna
+give it to the chair because I
+can't give it to anyone else, so
+thank you.
+Uh, Madam Chair, uh, may I
+respond to that as well? Oh, go
+ahead, Madam Chair, thank you,
+Representative Block, uh, I
+would also just like to note
+that ICASA would be very capable
+of doing the same analysis,
+should we have the data, uh, as
+far as I'm aware, and I might be
+slightly off here. From what I
+remember, the way that this
+procurement process works is
+that, uh, 3D health buys their
+data from Milliman, who gets
+their data from providers in the
+state. So through a roundabout
+process, I believe we are
+purchasing our own data back
+from somebody who's doing
+something with it, and we
+would be very happy to try to
+get that same all payers claim
+data, etc. uh, which are some of
+the people we've reached out to
+uh to try to get this data and
+then work with it. Uh, we're
+very capable to take this
+personally identifiable
+information of the providers and
+then extract that out. All the
+data we have here doesn't
+necessarily have that at this
+point, but in the future we're
+capable of kind of extrapolating
+that information out so that the
+data we're providing to the
+internet on this public facing
+dashboard would not be able to
+be hacked and like exposed.
+people's information and so
+that's one of the things we've
+actually wanted to do is to push
+into this space, make it all
+from our own state, from our own
+funding, so we're not wasting
+resources so that to kind of
+keep this going forward, it
+would lower that overhead cost
+uh and so that's one of our kind
+of overhead goals is to
+facilitate data sharing between
+these partners and see if we can
+automate some of these processes
+so then you remove that overhead
+you don't have somebody going
+and making an Excel spreadsheet
+every year or every 4 months if
+you can automate that machine to
+machine.
+Access, then you could have
+real-time data and you're
+removing some of that human
+element that you have to
+continually pay for.
+Thank you, Madam Chair. Good job
+I will jump in here and say this
+committee has been begging,
+whining, crying, demanding for
+all payer claims data for
+It feels like decades, um,
+forever, and uh we're very
+frustrated, so maybe this is,
+this is, uh, maybe we can work
+together and finally get what we
+should have had decades ago.
+That I'm Chair, that would be
+incredible if that were
+possible. Representative
+Herndon.
+Thank you
+Thank you, Madam Chair, and I,
+and thank you for this
+presentation. I just wanted to
+uh think about if we could add
+some aspects to this. I
+hopefully, on your first
+picture, it was, you know, how
+wonderful it is to work in New
+Mexico. So if you're able to
+send this out to like all of the
+medical schools, so when they
+are getting ready to decide
+where they're going to live,
+that New Mexico number becomes
+number one. And then the second
+thing is, uh, you know, we have
+a there's a lot of
+hypothecation.
+Around why doctors are leaving.
+So it would be wonderful if you
+could do focus groups to
+determine actually talking the
+real doctors who are deciding
+that they are going to leave. So
+we have those data points right
+here and if there's something
+that the legislature needs to do
+that we can absolutely do it.
+Now one thing I, um, my final
+question is looking at these,
+uh, the doctors that are here.
+Are you able to segregate them
+into those doctors that will be
+providing service.
+is for children, those that'll
+be providing it for seniors so
+that we can see where there is a
+real uh lack of doctors in a
+particular area. Is that in
+here?
+Madam Chair, Representative
+Herndon, I don't know if we can
+separate by age group, we do
+have, we can drill down by
+specialty, so it might be senior
+medicine is a specialty. There's
+quite literally hundreds of
+specialties within this list,
+uh, I do believe senior care is
+one, I don't know about, um.
+Child, but I know that senior
+care is one.
+OK, that would be really good as
+we were looking at our aging
+population in the state of New
+Mexico. Is this gonna be a place
+where people can get the medical
+attention that they need, so we
+can see that is what you're
+saying, and share that with the
+rest of the aging and long-term
+services, for example, as they
+can use it when they put out
+information.
+Madam Chair, Representative
+Herndon, um.
+Yes, I believe so because
+there's a senior care specialty.
+Now that would just be for
+physicians, it would not be for
+any others within that group
+because the data that we're
+using only includes physicians
+at this time, but that's very
+good to know. I'll make note of
+that as that is something that
+seems very important for this
+dashboard to include.
+OK. Uh, thank you, Madam Chair.
+Thank you. um, Senator Pinto,
+and if you could introduce
+yourself.
+Madam President, members of the
+committee, I am Senator Shannon
+Pinto I represent District 3.
+Um, this, um, does this include
+IHS employees?
+The Indian Health Service.
+Madam Chair, Senator Pinto, uh,
+as of right now, we do not have
+any data related to that that we
+have looked, uh, that was one of
+the things that we wanted to
+spend some time on, um, I'm
+native and so that was one of
+the things I wanted to bring up
+was, OK, we have a lot of native
+individuals across the state, so
+how do we uh work to figure out
+how to get data from those
+subgroups and those specialties,
+uh, so that we didn't have a big
+gap in our population, uh, and
+so as of right now we don't, but
+we have been looking into who we
+might contact to get information
+in that space.
+Thank you, Madam Chair.
+Thank you, Senator Stephanics.
+Thank you, Madam Chair. Thank
+you for your presentation and um
+I
+Could you repeat
+What you were saying about the
+end of September, this would go
+live for the public and there's
+no way for the public to see
+what you're doing now.
+That's a question.
+Thank you, Madam Chair. Madam
+Chair, Senator
+Stephanics.
+Apologies, um, yes, so currently
+this is just running on an
+individual laptop, so it's not
+open to the internet, so no one
+would be able to see it right
+now, but as of the end of
+September, we would have it have
+its own web address so you could
+type in a web address and anyone
+could access it online.
+So, Madam Chair, for the end of
+September, someone could go to
+New Mexico Tech and find a link
+to get to this.
+That is correct. So, um, maybe,
+Madam Chair, um, not necessarily
+another presentation, but maybe
+just a handout about that when
+it comes time. Thank you so
+much.
+Thank you. I'm gonna have you
+guys present because the
+questions are.
+I'm not even having to have my
+timer go off so I could get used
+to this. Yeah, yeah, don't get
+used to it. It's the, is the
+lesson here. Representative
+Torres Velasquez.
+Um,
+let's see.
+Madam Chair, um, my question has
+to do with the data that you
+provided and, and I'm sorry to
+hear that we won't be able to
+access it either, it looks like.
+Um, except for what you show us
+here. Um, I don't think I saw
+this, but I was wondering if you
+disaggregated for demographic
+information such as age, um,
+gender, um, ethnicity and um
+location, um, so that, uh,
+Senator Pinto's question
+answered part of what I was
+gonna ask, but so that we can
+look to see if there are um
+If, if, who are the doctors that
+are serving our various rural
+and city communities.
+Thank you, Madam Chair.
+Madam Chair, Representative
+Torres of Velasquez, yes, so two
+of our data sets do include age,
+gender, and location. That would
+be the 3D health data does
+provide age, gender, and
+location of practice of
+physicians, so we do not have.
+Personal addresses, but we do
+have the addresses of their
+practices for as far as the our
+big data set, uh, as well as the
+board of nursing data does
+provide age and gender, but they
+do not provide location. But as
+far as physicians, we do have
+age, gender, and location that
+we could add to the dashboard in
+future.
+Madam Chair, I'm also interested
+in ethnicity. I'd like to know
+if you could collect that and
+information and provide that
+with the rest of the
+information.
+That you have available.
+Thank you, Madam Chair.
+Thank you, Representative
+Garcia.
+Thank you, Madam Chair um.
+And thank you presenters uh I
+had to step out for a second and
+I don't know if you covered this
+issue or not.
+But uh I did hear that you were.
+Wanting to kind of specify.
+The certain factors.
+Um, why physicians are leaving
+New Mexico.
+Um
+I'm, I'm not exactly sure what
+those factors are that you've
+identified.
+But 11 concern.
+That, uh
+I think it's real important.
+Uh, for us legislators and for
+the public in general, uh, is.
+Um
+Uh, there's a, a very heated
+issue before the legislature
+regarding malpractice insurance,
+Madam Chair.
+And uh
+There's not really specific
+data.
+On that item, um.
+And naturally.
+People of different uh.
+Takes on that issue kind of use
+that lack of data.
+Uh, to maybe make their argument
+or not make their argument, so I
+wanted to ask Madam Chair, if
+That's one of the factors that
+you kind of are wanting to
+develop.
+In terms of the reasons that
+physicians are leaving New
+Mexico.
+That specific factor in terms of
+That they are leaving.
+Because of malpractice insurance
+in terms of the cost.
+Uh, Madam Chair, Representative
+Garcia, currently we do not have
+enough information to make
+recommendations on why
+physicians are leaving the
+state. Uh, we do not have any
+current plans to look at or
+include medical malpractice data
+within this dashboard.
+Thank you, Ma.
+Thank you, Representative Anaya.
+Thank you, Madam Chair. um,
+thank you all for your
+presentation. I have actually
+heard about this over the course
+of the last year or so and I was
+really excited to see this and
+also really, really disappointed
+and quite honestly, like pissed
+off.
+Not at you, clearly, you're just
+doing the work, but I'm like, I
+really wanted hyperlocal data.
+Like that was the point and so.
+As I look at the stakeholders
+page, I'm going, are these
+really stakeholders or are they
+just telling you what they want
+and not giving you information.
+So I'm pretty pissed about that
+because I've also like.
+I've been trying to crack this
+workforce nut as well,
+especially having a bunch of
+friends my age who are in the
+medical fields, you know, we
+want to bring them back home and
+also knowing that the people who
+I know are leaving for various
+different reasons, right?
+They're like, I fell in love
+with someone and their family
+lives somewhere else or I was
+treated like absolute trash. Why
+would I want to stay here? And
+so, you know, as we're talking
+about this, it, I have to
+express my disappointment and
+Um
+As we're still searching for our
+local data because you can find
+all of this nationally on a lot
+of different websites. It
+exists. It just is. But
+I have a couple of questions,
+like, one, what's the holdup?
+Especially, you know, if you
+have MOUs that are pending, are
+there particular
+Segments of the MOU's that folks
+have trouble with and they're
+not wanting to enter an MOU and
+why, um, can you answer that?
+And if I have time, Madam Chair,
+I have a couple other questions.
+Madam Chair, Representative
+Anaya, thank you for your
+question. Um, I would say as far
+as the holdup, we have just run
+into a lot of roadblocks as far
+as communication. I think a lot
+of our communication happened
+around the beginning of the end
+of last year and so we reached
+out to a lot of individuals. We
+started the ball rolling and
+then the power vacuum of the
+session happens and everybody
+falls off the map because
+they're paying attention to the
+bills they're working on and
+these kinds of things. And so a
+lot of people said we'll follow
+up with us after the session and
+we'll get back.
+with you and we've continued to
+email and call and try to follow
+up to see if we can get some of
+these meetings set up, you know,
+us being part of New Mexico Tech
+allows us to do IGAs and MOU's a
+lot easier than kind of outside
+sources, uh, and so really the
+hold up is just trying to find
+somebody who will contact us
+back and then start that ball
+rolling. Uh, we have people in
+our legal team at New Mixotech
+who is very ready to get MOUs
+going, um, and I also think that
+there is maybe been some of the
+way we communicated initially,
+uh, we're
+learned we had to specify, we
+weren't asking for HIPAA data,
+so when you reach out to people
+and ask, well, we would like
+data related to doctors, a lot
+of people go straight to hipA,
+and we did not know that, so we
+had to learn how to communicate
+in this space effectively so
+that we weren't immediately
+scaring people off.
+Um, and as far as the localized
+data, if we are able to get data
+that has um data kind of
+granular enough where we can see
+addresses and stuff, we would be
+happy to do that, um, and we
+have the ways to do that. Is
+there a way in which we can get
+data from employers as well
+because as I'm thinking about
+this, you know, there's so much
+more we need in terms of the
+quantitative data, like our
+folks leaving particular job
+sites at a much larger rate than
+others, right?
+But the other piece is, is like,
+who are these people on the
+chart, right? How much do they
+get paid?
+What debts do they have? Like,
+you know, are they stuck in
+student loan debt where their
+families here? Are they from
+here? Like because we have to
+know who these people are in
+order to start
+Assessing why people are or are
+not leaving.
+Also thinking about the timeline
+on that, right, right now we
+have information over the course
+of how long?
+Or is this just ever?
+Madam Chair Representative, and
+I, what section of the
+dashboard? I'm thinking about
+the number of actual providers.
+Is this over the course of the
+last year or 2 years, 10 years
+from 2024
+only. Thank you. Yeah, and I'm
+also thinking longevity wise as
+well, Madam Chair, if I can just
+suggest uh timeline as well and
+letting us know, Madam Chair,
+um
+How we can help in this. I know
+IPRAs have been
+Requested before.
+But I'm also like at a point
+where I'm like, do we just
+subpoena, we just need this
+information in order to crack a
+really hard question that we're
+facing in our state. Thank you,
+Madam Chair.
+Vice Chair Lopez.
+Thank you, Madam Chair. Um.
+Wow.
+This is information that we have
+been asking for for so many
+years and I just appreciate that
+there was some funding
+appropriated, of course, um, but
+Madam Chair, I just wanted to
+point out and
+As we're looking at this on page
+3, it says to establish and
+maintain a state healthcare
+workforce dashboard, right? So,
+Madam Chair, it's when we look
+as to how we define healthcare.
+Does it also include behavioral
+health.
+Madam Chair, uh, Senator Lopez,
+this is something that we've
+thought to include within this
+dashboard. If we were to obtain
+behavioral health, we currently
+do not have any behavioral
+health specialists within the
+data sets that we're working
+with. However, if we were to get
+that data, we would be happy to
+add it. It's something that many
+of our stakeholders have
+expressed interest in, in adding
+to this dashboard in the past,
+ICASA has worked on behavioral
+health projects and we've
+struggled to procure behavioral
+health data.
+Due to oftentimes HIPAA
+requirements, uh, but if we had
+the data, we'd be happy to add
+that to the dashboard.
+Madam Chair, I asked because
+part of our conversation talking
+about workforce.
+Um, in addition to the
+physicians, nurses, all the
+other um
+Providers of, of healthcare,
+behavioral health, you know, the
+brain is not separate from the
+body. So when we talk about
+healthcare, we still need to
+talk about the continuum, so
+let's see how we could assist
+maybe legislatively, but I think
+behavioral health needs to be
+part of this, and then just a
+couple, um, on, on your pending
+MIU MOUs, excuse me. Has there
+been any outreach also to the
+primary care association.
+Madam Chair, Senator Lopez, I do
+not believe so. OK. And I, I
+bring that up, Madam Chair,
+because they're also associated
+with our federally qualified
+healthcare centers and others
+who are also providing care um
+throughout New Mexico, primarily
+rural.
+Um, so that may be another
+consideration, Madam Chair, for
+you to add to um a consideration
+because they too also have um
+Physicians and others which
+could be captured, but I think
+that they may be um add value to
+some more of the other
+healthcare community healthcare
+workers and others who are also
+part of the mix. That's all,
+Madam Chair. Thank you.
+Thank,
+thank you so much for your
+presentation. Um,
+As, as has been stated, this is
+exciting and extremely
+frustrating um because this is
+what we've been trying to get
+for, and this is my 11th, 11th
+year, and since, since I've been
+here, which is kind of
+ridiculous, um.
+So in terms of, in terms of the
+pending MOUs and I'll say what
+I, what I have frequently been
+saying
+um organizations say that data
+is proprietary and what I've
+started to say to them, now
+whether I can make this stick or
+not is then so is state money.
+If you a hospital association,
+if you want us to fund your
+hospitals, then you need to
+provide us with some data, so
+we're not just throwing money
+into the wind, so I'm saying
+that again to the universe, you
+know, this whole proprietary
+thing, um.
+Move, move along, move along.
+Um, and then in terms of HIPAA,
+I mean, it's like healthcare.
+Oh, HIPA can't, I can't, I
+can't, I can't, I can't, and
+you're not, we're not asking for
+anything patient identifiable
+and so that HIPAA is just a
+defense and I'm tired of it, not
+that anybody cares, but I'm
+throwing it out there, I'm chair
+of this committee now and, and
+people need to understand what
+HIPAA is, it's not that you, you
+know, you can't.
+say anything about anything,
+it's it's about patience and
+that's not what we're looking
+for. We're not looking for
+patient data. We're looking for
+workforce data, so, um, in terms
+of the MOUs are they
+I and I see the 4 here, Hospital
+Association, Department of
+Health, EMS, uh, Healthcare
+Authority, and the longitudinal
+data system. Are you hearing
+back from them? Are they saying
+we need more time, are they
+ignoring you?
+Well, and, and they all may be
+different, but what are you,
+where are you on this and what
+can we do to help you?
+Uh, Madam Chair, the biggest one
+that we've been stuck on, as I
+mentioned earlier, was getting
+access to that EMS data we had
+met with Kyle Thornton and
+Doctor Jose Acosta at Department
+of Health, um, a couple of times
+last year, um, they last emailed
+me on in October, early October,
+I believe it was October 7th.
+I've since emailed 5 times and
+called 4 times with no response
+to any, um.
+We really want to include EMS
+data. It's not for lack of
+trying. We've reached out to
+ambulatory services in
+Albuquerque and Santa Fe, um,
+trying to find any data uh to
+include an EMS, uh, and while
+that is not the rule for all of
+these organizations, um.
+It's oftentimes that this
+project is not a top priority
+for them, which is fine. They
+don't get paid like we do to
+work on this project so we
+understand, um, but oftentimes
+it's just um
+Lack of communication that's
+been tying up these MOUs.
+And that is unacceptable. Since
+October, I mean, admittedly the
+session does suck the air out
+of, out of all of us. But, but
+that's not an excuse for not,
+um, you know, I mean, especially
+here we are, end of July, we've
+been out of session for 4 months
+plus and October was well before
+session, so I, I would ask that
+when you send emails,
+particularly to state agencies
+that youCC Xander.
+And the vice chair and I, um,
+and hopefully we can uh no
+promises, no, uh, but just, and,
+and sometimes in my dreams I
+feel like having us on there.
+Uh, means something. Most of the
+time I know it doesn't mean
+anything. It means something to
+me, so.
+I have to keep, I have to keep
+on trying. Um, and I'm
+wondering, um,
+If we need to mandate, if we
+need to start, we need to pass a
+law that says, OK, I mean, and
+we have done this with all payer
+claims data and it but we, we,
+as, as a body have no um
+enforcement abilities and that's
+I've said this before, that's
+one of my um things that I'm
+really gonna work on is, um, we
+are not a co-equal branch with
+the executive because we can beg
+and ask and plead and threaten
+and that's all we can do. We
+send our
+strongly worded letters
+frequently and we get nowhere,
+so I um one of my missions is to
+give the legislature some power
+so that we can, we can get what
+we need to do our jobs. I mean,
+we're trying to do these things
+with no data, you know, we're
+having this malpractice debate,
+the hospital association won't
+give us data, so we're going
+blind and that's a waste of time
+and a waste of money, so again
+I'm throwing it out in the
+universe that someday.
+Someday we're gonna have the
+ability to say, you know what,
+we need this data and you will
+provide it. So this is a great
+step in the, in the right
+direction and please know I
+would, I, I'm not gonna speak
+for all my committee, but I'm
+betting that the vast majority
+of this committee would stand
+strong and since we have the
+Secretary of Health here. I'm
+wondering if she'd want to come
+up and talk about why it's been
+so difficult to get the EMS
+data.
+Good afternoon, Madam Chair,
+Vice Chair, um.
+Jose Costa, Doctor Costa's no
+longer with Department of Health
+and I did hear about this last
+week or week and a half ago when
+Jason Weeks, uh, reached out to
+me, so we're on it and I'll
+reach out to Kyle Thornton over
+at EMS.
+So, Madam Secretary, give us a
+timeline, please.
+I need to understand what the
+data request looks like before I
+can give you a timeline, but you
+can, I can send you an update in
+the email letting you know what
+how soon we can get it to. That
+would be, that would be much
+appreciated. And again, there
+ought to be, I mean, he's gone,
+but
+There should be some carryover.
+I mean, there should be a
+written plan, there should be
+someone within the department.
+It shouldn't be that every time
+we get a new secretary or a new
+head of whatever that we go back
+to ground zero. That's
+unacceptable. It's a waste of
+time, a waste of money, and New
+Mexicans are suffering because
+of it. I mean, and I know it's
+not on you. I know you got, you
+got, um,
+Selected for this position or,
+or forced, I don't know what the
+deal is, but, but um I, we just,
+we have been playing this game
+for far too long we're we are
+wasting health care resources
+for wasting healthcare dollars
+and we're losing professionals
+that we can't afford to lose.
+So, um, with that, I think, um.
+Well, I will ask you, um.
+So
+Do you see a place for the
+legislature to pass bills to
+mandate data.
+Madam Chair
+Well, I cause it, I don't feel I
+can comfortably make any
+statements. Lots of our
+stakeholders have expressed that
+they feel that.
+This data sharing will not
+happen without legislative
+help.
+OK, thank you for that. So, uh,
+looking for bill sponsors.
+Maybe, maybe we'll all
+co-sponsor. So thank you so much
+for your work. Thank you for
+your presentation, and I hope at
+some point, um, October or
+November, we could maybe have
+you come back for a brief, um,
+kind of a public.
+What will happen, what do they
+call it, um, a red carpet event
+where we roll it out, you know,
+get ball gowns and all that, so
+thank you again so much and
+thank you committee Madam Chair,
+if I may say one last closing,
+um, I guess, as far as the data
+goes, we have designed this
+dashboard in such a way that uh
+it's highly extensible and so
+any data that we get in, we
+would be happy to do all of the
+technical work to clean it and
+get it into a usable state and
+put it into the dashboard and so
+while we don't have a whole lot
+of
+Data sources now, all of the
+back end work has been designed
+as such so that when we get
+data, the moment we get that we
+can start implementing it into
+this and our framework will kind
+of streamline that process and
+so we'd be happy to work with
+our partners to do all of that
+technical work, and it should be
+a lot shorter of a process than
+this last year, uh, because it's
+just gonna be taking that data,
+cleaning it, and inputting it,
+and so uh that's kind of a
+positive side of this, that if
+we can get those things in place
+and get some of this data shared
+which.
+Historically has been difficult.
+Uh, we would be able to pretty
+quickly turn around and get that
+out to the public and deploy a
+new version of the dashboard
+with those new uh analytics and
+those new visualizations.
+Thank you for that. And, and is
+there a plan or is there funding
+or gonna be a request for
+funding to include more
+professions. I'm thinking about
+regulation and licensing. I, I'm
+a physical therapist and the
+question they give us these
+gigantic questionnaires, 90% of
+which isn't relevant to what we
+do, but in terms of where we
+work, you know, what, how much
+we work, etc. so is there, is
+there a plan or
+Hint, hint. There should be a
+plan to include more
+professions.
+Madam Chair, yes, we absolutely
+want to include more
+professions, um, within this, as
+we said, if we get the data,
+we'd love to, as far as funding,
+uh, it's good through 2027.
+However, we have around, I
+checked this warning around 300K
+left of that spend, uh, that
+will not last through 2027, uh,
+but we will use it for as long
+as we can and include as many
+professions as we can as well.
+Hope and, and also hope to get
+additional funding along the way
+and
+I
+again, I use a
+as a resource to help you get
+more funding and of course it's
+gonna have to pro you said our
+our our PSP so work, work with
+your um administration and let
+us know how we can help you if
+we need to be a carrot or a
+stick or whatever we can be. So
+thank you so much.
+Thank you, Madam Chair. Thank
+you, members of the committee.
+OK, and we will move on to, uh,
+and this, oh no, that's
+tomorrow. I'm moving ahead. I'm
+saying, oh, the next one is
+behavioral health providers. You
+should listen, but that's
+tomorrow, we're not there yet.
+So we are on a New Mexico
+Behavioral Health Institute, um,
+Nicole Mandel and Tim Shields,
+if you could come forward.
+And um we are ready for you.
+And Matt's back. Matt, you're
+involved in everything.
+Go ahead whenever you're ready.
+Good afternoon, Madam Chair,
+members of the committee. Thank
+you for allowing us to present
+today. So mostly what I wanted
+to do is just give a broad
+update about Mexico Behavioral
+Health Institute where we are,
+progress we've made, um, and
+then we're gonna talk about our
+psychiatric residency that we're
+very excited to be starting this
+year. Can you please introduce
+yourself? I apologize. Yes,
+madam Chair, um, my name is Tim
+Shields. I am the hospital
+administrator here at NMBHI.
+Madam Chair, committee members,
+I'm Nicole Mandel. I'm the CEO
+of New Mexico Primary Care
+Training Consortium.
+And we know Matt
+So go ahead.
+All right.
+Well,
+Again, Madam Chair, thank you
+for allowing me to be here
+today. Um, so really what I
+wanted to discuss and you should
+have handouts here are just a
+brief overview of our services,
+some census updates, uh, House
+Bill 8 that was passed that
+we're excited to, you know,
+start implementing some of those
+things. Um, our new forensic
+building that is under
+construction or substance use
+treatment facility here in Las
+Vegas that we're working to open
+and then just kind of an overall
+state of where we are. Um.
+So just brief reminder for
+people who maybe don't know what
+we do at NMBHI. So we're the
+state hospital, we actually do 6
+different things. So we have a
+long-term care facility or a
+nursing home there called
+Meadows. It's licensed similar
+to any other nursing home here
+in this state, but we do take a
+higher number of people with
+psychiatric conditions, and we
+have a psychologist there, some
+psych psychiatrists who go and
+support that, uh, that division.
+We have an outpatient
+clinic here and also in Pecos,
+um,
+Just down the street actually
+where we serve people who are,
+you know, in the community, we
+call it community-based services
+who receive uh community-based.
+Psychiatric treatment for their
+mental illness. A lot of people
+have been discharged from NMBHI
+over the 130 years you've been
+there, but, um, kind of just a
+generalized outpatient provider.
+Then we have our small
+adolescent program called CARE,
+which stands for Center for
+Adola adolescent relationship
+exploration. Um, it is for males
+between 13 and 17 who have some
+type of sexual harmful behavior.
+It's about a year-long program.
+It's licensed through CYFD as a
+residential treatment facility.
+And then we have some of the
+more well-known service lines
+for, for kind of what you guys
+look at. One is our, we call it
+adult psychiatric division.
+Those are people who are on a
+civil court commitment, so not
+in the criminal justice system,
+but they are on a court
+commitment to receive treatment,
+they can't leave until, you
+know, our treatment team says
+that they're able to do so,
+those commitments can be 30
+days, 90 days, 180 days, um, and
+then we can renew them. So these
+are people who are in some type
+of psych.
+catch a crisis and their
+symptoms are making it where
+they can't um care for
+themselves in the community at a
+lower level of care.
+We have our forensic division,
+which is the division that does
+two things really. One is treat
+to competency. So people are
+alleged to have committed a
+crime, and they're unable to go
+to trial because their mental
+health condition is um
+interfering with their ability
+to aid and assist in their
+defense, they can come to us for
+competence restoration
+treatment.
+We have up to 9 months to
+provide that treatment and
+restore them to competency. If
+they are restored to competency,
+we send them back and they
+proceed with the trial. If
+they're unable to be restored to
+competency, there are select
+number of crimes that get put on
+what we call a 1.5 commitment,
+which, um, essentially they stay
+with us up to the amount of time
+had they been convicted of the
+crime, which they were alleged
+to have commit.
+So apologize, it's a bit of a
+mouthful, but basically, if
+someone is, um, you know,
+charged with murder and they're
+not competent and not
+restorable, they would come up
+to, to us for as long as if they
+had been convicted of that
+crime. There's a big legal
+process to that, you know, they
+have to have been more than
+likely to have committed that
+crime, but they stay with us for
+up to that amount of time. So
+that could be
+You know, for the rest of their
+life. So if you hear me refer to
+1.5 commitments, sometimes I, I
+forget that, you know, that
+that's what they are, but that's
+what they are. The 1.5s are
+people who are there. And then
+our 6th division that we are
+very happy to start here soon is
+substance use treatment. So
+we're gonna do a detox and
+substance use treatment
+facility. So the county along
+with Matt's help, you're right,
+he is in everything. Um, kind of
+got some funding to renovate a
+building that's basically on
+NMBHS.
+Campus and the county was gonna
+look for someone to operate it
+and I, you know, went to some
+meetings to help them with
+planning, and I said, well, we
+can provide food, we can provide
+pharmacy, we can provide
+security, and they said, well,
+why don't you just run it? So,
+um, I went back, of course, to
+DOH leadership and ask them, you
+know, kind of their thoughts and
+then this last session we did
+receive some funding to run that
+facility. So I'll talk a little
+bit more about that, but that's
+gonna be the 6th thing that we
+do at an MBHI.
+Uh
+So I did want to go over our
+census update.
+So, I don't need to go through
+each of the
+The numbers specifically, but I
+will say that overall we've seen
+an increase in the census at
+NMBHI on the hospital side. Um,
+We trending up even from the end
+of the fiscal year data. So what
+I gave you is the average daily
+census for each of the 5
+divisions and the hospital
+overall. I'll say our adult
+psych side, which is that civil
+commitment side has gone up
+pretty substantially and right
+now we're at the point where
+basically all of our operational
+beds are full, and as we're
+discharging, we are bringing
+more people in. So I'll talk a
+little bit more about when we
+get to House Bill 8, how we're
+gonna try to expand that
+capacity. Our forensic division
+is
+also, um, operating at a higher
+rate than we ever have before.
+So we're still able to kind of
+meet that need, but as we kind
+of move forward, we're watching
+that really closely to make sure
+we continue to, to watch those.
+So overall we've seen an
+increase in the census that
+NMBHI over the last 3 years, a
+smaller increase at um Meadows,
+which is the nursing home, um,
+but we're still kind of working
+towards building that up.
+Um, some clinical highlights,
+I'm just gonna jump in here. I
+had to, I had to Google House
+Bill 8 because I don't even
+remember my own bill number, so
+that's criminal competency and
+treatment for, so um that was
+sponsored by
+uh Rep Reps Chandler, Garrett,
+Barrego, Cates, and Little.
+Yes, thank you, Madam Chair, and
+when I get there, I do have a
+slide just on House Bill 8. So
+that's interesting cause yeah,
+that's, I've read it probably
+200 times. So we just call it
+House Bill 8 now, um, that
+we're, we're excited to kind of
+put into place and see what we
+can do. So I'll go over, I can
+briefly go over what that bill
+did here in a minute. Um,
+definitely.
+Uh
+Some clinical highlights, so
+We are part of a group called
+Whipshot, which is the Western
+psychiatric State Hospital
+Association, and what we do is,
+is we share data. So interesting
+following the presentation you
+just had is, is we do share
+data. We do de-identify it,
+cause I don't want them to take,
+you know, New Mexico State
+Hospital in comparison to Oregon
+and then everyone in Oregon
+knows it's us. So I did
+de-identify it on this, but what
+we do is, is we compare us to
+the other state hospitals. It's
+the most apples to apples
+comparison we can make. And
+there's some highlights that I
+just wanted to point out. One
+is our seclusion data, so we try
+really hard to make sure that
+we're treating people, you know,
+with, with dignity, with
+respect, and trying to not put
+them into seclusion. So we
+actually have one of the lower
+rates of seclusion for any state
+hospital. The ones who are above
+us are actually people who don't
+exactly do what we do, so that's
+the closest comparison, but some
+just take, you know, a subset of
+people who are not quite as
+acute as we take. So those are
+the ones that have no seclusion,
+that's, that's who they are.
+But if the people who do use
+seclusion, we are at one of the,
+the lower rates of use. So I
+like to kind of flip it instead
+of saying, you know, 6% of
+people, I like to say 94% of
+people who come to us never have
+a seclusion event while they're
+with us. Um, and given the
+acuity of who we take.
+Meaning if you go to the psych
+hospitals across the state, your
+UNM Central Desert, places like
+that, we take the most acute
+people that they have, that's
+who they send to us and we still
+work really hard to not use
+seclusion and restraint up with
+this. So I'm pretty proud of
+that data. Um, the next one I
+talked to our staff a lot about
+is, is, is we can control kind
+of a lot of things and how the
+patients feel when they're with
+us, so that felt safe in the
+hospital. I'm really proud that
+we were number one in that um
+that
+So of all the state hospitals in
+the western part of the United
+States, and I should have said
+this earlier, we're talking
+North Dakota, South Dakota,
+West, including Alaska and
+Hawaii, they are part of it. All
+of those states, um, our
+patients feel the most safe out
+of any state hospital.
+Um
+And then
+I did put in some restoration
+data.
+So, reason being is, is the
+competence restoration bill and
+Competence restoration in
+general across the country right
+now is getting a lot of
+attention.
+So it's different states have
+been sued for a number of
+different reasons, all sort of
+revolving around competence
+restoration. So, I just like to,
+to bring this out to say that on
+average, the rate that we do
+competence restoration, we are
+restoring the competency again
+above average, and I don't have
+good average data on there, but
+we are
+Restoring most people back to
+competence restoration. So if
+the people who sent us somewhere
+between 75 and 85, 80% of the
+time, we're gonna restore those
+people to competence and send
+them back to the judicial
+district that sent them to us.
+And then I didn't include it
+because it's a small number, but
+a lot of times people will, will
+ask, you know, hey Tim, how many
+people then?
+Aren't competent, you know, or
+is, are they challenged and of
+the entire fiscal year, we only
+were challenged 6 times and 6
+out of 6 times the judge agreed
+with us that they were competent
+to stand trial. So that's, you
+know, just credit to the
+clinical team there in that
+division that we do a pretty
+good job. The people that are
+sent to test us for competence
+restoration, we do a pretty good
+job and when we say they are
+competent and ready to go to
+trial. Most of the time we are
+correct in that judgment.
+Um, so some other division
+highlights that I wanted to say
+is, is, you know, kids in state
+custody right now has a lot of
+attention, so our care program
+is a specialized unit, like I
+said, where we, we look at
+adolescents who
+Um, have some type of sexual
+harmful behavior, and I've
+worked with that team there
+where we're pushing it to try
+to, you know, expand and maybe
+take some kids that maybe we
+would have said no to in the
+past to make sure we get kids
+in.
+In New Mexico, keep them in New
+Mexico, so we've today we're at
+6, we have an interview for
+another kid tomorrow and we're
+trying to get up to 8 or 9,
+which is not a ton of kids, but
+when we were at 4 for the last
+number of fiscal years, we're
+trying to double the number of
+kids that we can take and we're
+on pace to be able to do that
+here in the next couple of
+months. We'll probably be at
+that 8 to 9 mark that we're
+really trying to set.
+Um, community-based services,
+so.
+Uh, assisted outpatient
+treatment or AOT has been in
+existence for a while. It's been
+in law for a while and some
+areas of the state have been
+more advanced in that. And what
+we're trying to do is start it
+up here in the 4th judicial
+district. So our outpatient team
+is working with the courts to
+be, so we will be the service
+provider for that. So it
+assisted outpatient treatment
+is, is
+Essentially, it's, it's similar
+to a court order to continue to
+receive behavioral health
+treatment in the community. So
+instead of having people at the
+hospital, we can put them into
+the community, but they still
+have some kind of legal
+oversight. And if they stop
+taking their medications or they
+start using drugs, they can
+re-hospitalize them a little bit
+quicker. And um people kind of
+say, you know, it's the black
+robe effect as well where you
+put someone on a court order to
+do something, they're more
+likely to do that. So there's a
+good program, um, in Las Cruces
+and Albuquerque and Santa Fe,
+and we're trying to set it up
+here. And, in this area for the
+whole 4th district. So they've
+had meetings last week, this
+week we're trying to get that
+kind of pushed forward so that
+we will be the provider here for
+the 4th judicial district to be
+able to do that.
+And then our long-term care, so
+this is a
+Uh, challenge that we've been
+working a lot with the state on
+and how to solve is how do we
+get people out of the psych
+hospital who have sort of aged
+out and need some assistance
+with their daily living and put
+them into nursing homes when as
+you guys know, nursing homes are
+the most highly regulated
+outside of nuclear facilities,
+their most highly regulated
+place in, in the country. So we
+have successfully in the last
+few weeks moved to 2 from our
+adult psych division to help,
+you know, take the next people
+who are up for that and put them
+Over at Meadows, and we have a
+list of another number of about
+7 or 8 that we're trying to work
+with. So they're expanding that
+as well to try to move that
+forward.
+Uh
+So those are all the updates.
+Now we'll talk about House Bill
+8 a little bit, so House Bill 8
+was the, the competency bill.
+And essentially what the bill
+did is a number of things is the
+main thing that it did though is
+throughout the process, it
+forces people to look at civil
+commitment as they go along in
+the competency process. So,
+There's a whole group of people
+that are sort of blind to us at
+the state hospital that
+Um
+They commit a crime.
+We only see them if it's a
+felony and if they're considered
+dangerous. Those two conditions
+are met, they're sent to NMBHI.
+So that's sort of my life. I
+could tell you everything there
+is to know about them.
+There's also a push, so what if
+they're not dangerous and not,
+don't have a a felony, are they
+just sent back to the streets.
+So what they did is they started
+this bill pushed it so that
+people have to be evaluated for
+a civil commitment. So before
+just releasing them, they're
+gonna be evaluated for a civil
+commitment if they come to
+competency and they don't quite
+meet criteria for a 1.5
+commitment. They can also be
+looked at for civil commitments
+there and with the civil
+commitment, it's not just
+inpatient, there's also
+outpatient.
+Um, that AOT that I was talking
+about, assisted outpatient
+treatment. So at multiple times
+in the competency process,
+they'll
+forced to evaluate now for
+That criteria to see if they can
+come there. The other thing it
+does is it adds outpatient
+competence restoration. So
+Full disclosure that doesn't
+exist in the state yet, but we,
+you know, that the argument was
+if we don't have it as an
+option, then there's no reason
+for people to build it up. So
+now, if it's a non-dangerous
+felony people could be sent to
+outpatient competency
+restoration.
+Which different counties,
+different communities would
+start to be able to provide that
+service so they wouldn't all
+come to NMBHI, but really what I
+think the focus of this was
+There's a lot of people that
+don't come to NMBHI. How do we
+make sure that they get the
+services that they need, who
+don't quite meet criteria to
+come to us. So with that,
+Um
+We want to be ready, right? So
+it went into effect June 20th,
+so, um,
+With that, what we wanna do is,
+is we wanna be ready. So if
+there's an increase in referrals
+of civil commitments, where do
+they go? Now the bill is silent
+on where they go, which means
+that if someone's say in San
+Santa Fe County Detention
+Center. They have a felony,
+they're not competent, but
+they're not considered
+dangerous.
+So they're evaluated and they
+say, but they do meet criteria
+for a civil commitment, meaning
+that, you know, their psychosis
+is coming to the point where
+they can't really care for their
+own basic needs.
+So they need to be hospitalized.
+Well, where does that go? The
+bill doesn't say that they have
+to come to NMBHI, but I'll just
+say in practice, I'm
+anticipating that they're gonna
+come to NMBHI. So what we're
+doing is we're going to get
+ready, so we have um civil
+commitment units that are
+essentially full. We have 2.
+Cottages that used to be kind of
+lower levels of care, but our
+licensed under this, so what
+we've done is, is we've secured
+them up a little bit and gotten
+them ready. So one is almost all
+the way ready. It's a cottage
+that we had to fence. It didn't
+have fencing. Last time we used
+it for the adult psych
+population, someone hopped a
+fence, um, I'm getting old, I
+have bad knees. I could get over
+the fence and got out of that,
+which is not what we want. If
+someone's on a court commitment
+to us, we want them to be there.
+So we've kind of put some
+fencing around that unit. We're
+leveling it out. We're
+going to be ready to open that
+unit here soon. And the other
+one didn't have a seclusion
+room, so I just said a few
+minutes ago, we don't use
+seclusion a lot, which is true,
+but when you need it, you need
+it, um, you know, you can't hold
+people for forever. You need to
+kind of get them into a secure
+place. So that one's gonna take
+a little bit longer. There's a
+lot of rules around what a
+seclusion room has to look like.
+So we're gonna add that one, but
+that, that's in process, and
+I'll say Department of Health
+Leadership jumped on that as
+soon as I said, hey, these are
+the two things lacking we had.
+We had it like uh within a week,
+which I've never seen in state
+government. It was great. So we
+are trying, we are getting ready
+to be able to provide services
+to more New Mexicans as we get
+these court orders.
+I will say I'm also working with
+um hospitals and CEOs and
+Central Desert and other places
+and had a constituent complaint
+that came to me not, it wasn't
+about the state hospital, but it
+was about this process, and I
+said, you know, the best thing
+you can do is just call your
+local hospitals and see if
+they'll take them. And if they
+can't stabilize them in 7 days,
+30 days, send them to us.
+That's, that's who we are.
+That's why we exist. But if they
+don't need to be with us, then
+let's stable.
+them in the communities that
+they're in. So again, because
+it's silent on that in the bill,
+they can go sort of anywhere,
+and I'm trying to help the
+state.
+I understand that, not because I
+don't want them to come to us. I
+do, but I want to do what we
+need to do. And if we take the
+most difficult people in the
+state, which I'm proud of that
+that's what we do.
+Then
+People need us to take the most
+difficult people in the state.
+We don't need to take people who
+maybe could be stabilized at a
+lower level of care.
+So we're working hard kind of
+across the board to make sure
+that we're getting New Mexicans
+out of jail, not back into the
+community, because that was sort
+of the point of this bill is to
+get them services when they need
+services at the level of care
+they need in their communities
+and then kind of, like I say,
+let us be us, let us do what we
+need to do, which is take the
+most difficult people who are
+the take the longest to
+stabilize and we're kind of
+happy to take that on.
+The forensic side of this.
+There's not any real substantial
+changes from this bill to who's
+going to be eligible for
+inpatient competence
+restoration. So like I said, it
+added outpatient competence
+restoration inpatient.
+Before June 20th was they needed
+to have um allegedly committed a
+felony and be considered
+dangerous, that state, they
+added some language, I guess you
+guys, you added some language
+about, um, what, what that looks
+like to kind of clarify it a
+little bit. And there was a
+change to 1.5 commitments, so
+they're not dangerous, or sorry,
+the dangerous felonies not
+competent, not restorable
+population, so.
+It expanded on that a little
+bit. It added things like human
+trafficking and a few other
+other crimes.
+We don't have great data on
+that, but personally, I'm not
+super worried about it because
+if you're capable of pulling off
+some of these crimes are
+probably competent. We don't get
+a lot of not competent people
+charged with human trafficking.
+That's a fairly complicated
+crime to pull off. So we're not
+as worried on the, on this side.
+I will say that LLCP side is
+also, sorry, Los Lunas Community
+Program who works with the
+developmental delays.
+That the 1.6 is similar to what
+I kind of described for the
+people with mental illness, if
+they have a developmental delay
+or intellectual disability, they
+go to Los Lunas and they're also
+preparing for that expansion
+there and they're ready. So as a
+department, we're, we're ready
+for this.
+Not knowing what it's gonna look
+like, right? We don't know the
+numbers till we know the
+numbers, but we're, we're just
+gonna be ready, um, kind of
+across the board. So that one
+might have a little bit more of
+an impact in terms of there
+might be more people who fall
+under. It's the same list of
+crimes, but they might have a
+little bit more, and that list
+expanded. So previously it
+wasn't the same list for uh
+mental health 1.5 and a
+developmental delay intellectual
+disability 1.6.
+Um, this bill.
+Made it equal, so they are, it
+has exactly the same crimes now,
+so they're ready for that, um,
+and they've done a good job sort
+of prepping for that.
+They also have done, um, a good
+job of taking a couple of our
+people who could go to LLCP so
+as we're ready and we're, we're
+expecting a big influx in
+referrals for civil court
+commitments, so we're trying to
+work with people who don't
+necessarily need to be with us
+to discharge into lower levels
+of care, and we had a few people
+who were not on the DD waiver
+who we felt like we should so
+our psychologists tested them,
+worked with, um, DD
+SD and got him on the waiver and
+we've discharged about 4 who are
+all doing exceptionally well in
+the community settings that they
+have there. So, um, that's just,
+I just wanted to give a shout
+out, I guess, to our LLCP people
+cause they've taken a few of
+ours and they've done, they've
+done really well over there.
+Um, the next few slides are
+regarding our new forensic
+building.
+So quick backstory on the
+forensic building is is we are
+joint commission accredited.
+Um
+And with that accreditation.
+It was put at risk with the
+current forensic building that
+we have.
+Because it doesn't even meet ADA
+standards. It was built in 1972.
+It was well it was opened in
+1972, and their ligature risks,
+and by ligature I mean in the
+hospital settings, you can't
+have places for people to tie
+off of and try to commit
+suicide.
+Well, that wasn't the case in
+1972, so the building is just
+full of them to the point where
+we couldn't even retrofit it or,
+you know, renovate the building.
+We had to build a new building.
+So we broke ground here this
+spring on that building, um,
+after years of planning and a
+lot of work, um, gone into that.
+So super excited.
+Um, people who live here have
+seen lots and lots of dump
+trucks go. We had an average of
+80 dump trucks in and out every
+day, um, for the last number of
+months. So there's been a ton of
+work to get to where the second
+picture is, which doesn't look
+like there's that much work, but
+trust me, to get the wall
+starting to go up, they've had
+to do a lot of work, um, so
+we're super excited that that's
+where we are and then I did put
+a rendering of what the building
+will look like at the end. Um,
+so we've received a
+a lot of funding and I know we
+received a lot of funding and we
+need a little bit more and by a
+little bit, I mean, probably a
+lot more. Um, so this upcoming
+session we're asking for more
+because we really want to
+complete this project without
+having to stop construction, so
+we can phase the finding of it
+and we can work around that.
+If we get the rest of the
+funding, this upcoming session,
+then construction won't stop,
+it'll be seamless and we'll be
+able to hit that substantial
+completion date of the end of
+2027.
+And if we don't hit that
+substantial completion date, we
+will get into some issues with
+joint commission and
+accreditation. So as long as we
+sort of
+Meet these these timelines that
+we've set out, we'll do that.
+And joint commission is watching
+this instead of coming every 3
+years, they now come every year.
+Um, so we get the privilege of
+welcoming them every year now,
+where they get to kind of come
+and look under the hood and look
+at everything they want to look
+at, but um right now they're,
+they're pleased that you guys
+approved that project that you
+funded that project, we just
+need to keep it going.
+Um, the substance use facility.
+So there is a picture of the
+outside of that building. So
+what we're trying to do is
+provide a level of care that
+doesn't exist currently in this
+part of the state. So right now,
+the hospital provides what's
+referred to as 4.0 or medical
+detox. So these are people that
+might need IVs, might need some
+really intensive medical um
+assistance in helping them detox
+off of their substances.
+Once they're done to go to
+continued treatment, they would
+have to go somewhere else in the
+state. So this is part of why
+the county wanted to do that is
+to keep them here. So what we've
+done is we're gonna work really
+closely with them. We're gonna
+work really closely with
+detention, um, Sheriff Lopez was
+also an integral member in
+getting this off the ground, so
+we have a lot of partnerships
+going, so what we wanna do is we
+wanna provide a little bit lower
+level of detox, so people can
+detox with us as long as they
+don't need medical, um, IVs and
+things.
+like that.
+And then we're gonna do the
+continued treatment, the 28 to
+30 day ish treatment, we're
+gonna um provide that
+residential treatment here and
+then we have outpatient
+providers in the community that
+we're gonna right now just team
+up with and they can continue
+outpatient after. So, we're
+gonna kind of
+Focus on this part of the state,
+but also as a as a state
+operated facility, it's open to
+anyone across the state who
+refers to us.
+So we've been doing a lot of
+work, um, just kind of had an
+official that we would operate
+this, this facility.
+After this last session. So I've
+been involved and toured the
+facility many times throughout,
+but
+Officially that's where we are.
+So what we worked with the
+county. The county had some
+money to buy, you know, they
+didn't have beds and furniture
+and all of that cause they
+wanted to see who was gonna
+operate it, so we worked with
+them and bought a bunch of
+stuff, so the reason there's not
+a picture of the inside of the
+building is this because it's
+full of boxes right now, as our
+team is working on putting the
+beds in and putting the
+furniture up and doing
+everything we need to do. We do
+have to notify during
+commission, which we've done
+that we're gonna do this, so
+we'll get a joint commission
+accredited and then we'll work.
+With um the healthcare authority
+to get it licensed as a
+residential treatment or
+accredited adult residential
+treatment center and just
+Friday, coincidentally, Nick
+Bucas was in this room and, and
+he and I talked and he said, as
+soon as um as soon as you guys
+are ready for us, you let me
+know and I'll fast track it. So
+I appreciate his support in
+that, so we're gonna do that. So
+that's sort of where we are.
+We're starting to post some
+positions and higher. I have
+some interviews this week for
+the, the main director of that
+division and then we're gonna
+start
+Posing some of our medical
+providers and nursing physicians
+and things like that. So best
+case scenario, I think about 8
+weeks. I've been kind of joking
+somewhere between 1 month and 11
+months will open. I, I, I want
+to give myself a wide range
+there, so I don't miss. Um, so
+best case scenario would be 8
+weeks.
+Probably not too much later than
+that. I'm hoping we can get it
+done right around there. But
+until I know and um know when
+joint commission is gonna come
+look at the building cause it's
+a new service line so they do
+have to physically come look at
+it. If I was gonna open another
+forensic building, they'd say,
+yeah, open it, and we'll, we'll
+check you next time that we come
+out, but with a new service
+line, they have to come and look
+at it as we open. So we've
+notified them of our intention
+to open and then we'll notify
+them when we have a date that
+will open, they'll come out and
+then we'll get it.
+licensed.
+So we're very excited to do
+that.
+Um
+Thank goodness, right Academic
+partnerships for these guys.
+I've been talking a lot, so
+Quickly, big picture, NMBHI
+works with a lot of different
+schools. We have nursing
+students come from all over the
+place for a week or 2 weeks, um,
+eastern New Mexico, but our big
+people that we um partner with,
+of course, are Highlands. We
+have social work students, we
+have behavioral health
+therapists, students with UNM
+we've had medical students come
+up, we've done residencies. We
+do have an APA accredited
+psychology internship, and then
+what we're very excited to work
+on now is um a psych
+residency, so here I will kick
+it off to everyone else to talk
+about that a little bit more.
+All right, so, um,
+Madam Chair, members of the
+community. My job here is just
+to help show how this connects
+to other parts of the
+presentations. We just finished
+talking about workforce and 14
+years of blood, sweat, and tears
+of my blood, sweat, and tears
+and Sheriff, Sheriff Lopez and
+others, um, to see this
+facility, this residential
+treatment center, get to this
+point that has furniture and
+beds and they're being put
+together and we hope within not
+one month, but maybe a year or
+so to be, uh, placing our first.
+most vulnerable patients in that
+treatment center. Since the
+beginning, uh, in, in its in its
+design, this Northeast regional
+crisis and treatment center, a
+huge component of it has always
+been workforce. So the idea not
+only that we will treat our most
+vulnerable patients and have an
+inpatient facility here in our
+region for doing that, but also
+that we will be a location where
+students can have clinical
+rotations specifically in
+substance use. So all students.
+So that, that is a huge
+component of it and just as you
+heard me speaking in, in the
+previous presentation about
+Sami's the salute and how these
+young students become our future
+health professionals, the idea
+here is a similar program, which
+uh we called a spinoff, Samis de
+Esperanza is that now here's
+another entry level into health
+careers that folks in recovery
+who need sustainable employment
+to be able to stay in recovery
+that they will all that will
+this will.
+be another stream for us of
+healthcare workforce,
+particularly those, those entry
+level positions that we need to
+keep facilities like this
+operational in, in our, in our
+local communities. So I'm super
+excited about that component of
+that, everything from our
+certified nurse assistants to,
+uh, community health workers and
+peer support specialists and
+latex and LSAAs and social work,
+which you already heard about in
+counseling all the way to, we're
+just coming off of a year of
+planning.
+of having a planning grant, uh,
+for uh uh uh residency planning
+grant in here in our community,
+Mora San Miguel and Guadalupe in
+this region, these counties, we
+looked at planning being, is it
+feasible to have a family
+medicine residency here. Is it
+feasible to have a psychiatry
+residency here. So we looked at
+both. The reality is it's still
+feasible. It's just not in reach
+right now for family medicine.
+Uh, there's just too many holes
+of the special.
+Trotations that are needed, my
+partner Nicole can explain a lot
+more about that. um, and GME
+requirements, but what is
+feasible in partnership with the
+University of New Mexico and the
+New Mexico Behavioral Health
+Institute is to set up a
+psychiatry residency here in the
+north. So with that, I'll hand
+it over to Nicole.
+Madam Chair, committee members,
+thank you for having us here
+today. Um, so take a step back
+really quick and just explain
+New Mexico primary care training
+consortia, and we're a
+consortium of all of the primary
+care residencies in the state.
+Uh, so this is family medicine,
+PEs, psych, and internal
+medicine. And we work with the
+state, um, to provide technical
+assistance for developing
+residency programs with uh
+institutions that might not have
+the knowledge or the
+infrastructure to do so
+themselves. We also run and
+operate our own programs. Um, so
+we are working with uh the New
+Mexico Behavioral Health
+Institute and UNM, um, for a
+psych residency here. Uh, so
+this is going to be a
+partnership, uh, and it's kind
+of got precedences with you and
+him. They are currently
+developing and coming to the
+closing lines of uh psych
+residency program in Don.
+Anna County.
+Um, so this partnership with UNM
+allows for those specialty
+rotations that uh Matt was
+alluding to before to be
+fulfilled, um, in the more urban
+developed UNM setting and then
+coming out, um, kind of in a 1 +
+3 program is what we call it, so
+one year at UNM and 3 years, uh,
+uh, San Miguel for this program
+or Donana County for the other
+program. Um, and so we are
+coming to the close for the
+Donana County program, um, and
+just kicking off this program,
+but something I wanted to talk a
+little bit more about with you
+guys is a roadblock that we are
+facing now that we are getting
+up and running and I'm sure you
+may be able to guess. This has
+to do with financing. So, um,
+one of the big challenges is.
+Well, let me, let me step back
+really quick and I'm gonna throw
+some jargon soup at you. Uh,
+bear with me for a second and
+I'm happy to answer questions,
+um, residency programs that post
+medical school training are
+funded by Medicaid, Medicare
+majorly.
+They come through two different
+streams in each one called
+indirect Indirect Medical
+payments.
+Because of the regulatory
+language, independent psych
+hospitals, facilities or units
+are not eligible for that
+indirect payment. And this is
+one of the larger payments that
+provides funding for residency
+programs. Um, so there are a few
+avenues that we can go about
+trying to work around this to
+allow these residency programs
+to exist because they're so
+needed here. Um, and one of them
+is to change the regulatory
+language, so put
+the State plan amendment uh with
+HCA working with them to change
+it right now. It just says that
+those payments can go to DRG
+Hospital.
+And as you may or may not know
+psych hospitals are paid on a
+per diem rate. So that's why
+they are ineligible, just that
+one wording. um, and then the
+other avenue we've been
+exploring is last year we worked
+with our partners, uh, to put
+forth a piece of legislation to
+provide a permanent fund, uh,
+for the state and this permanent
+fund would be ran out of HCA,
+um, in 2019, House Bill 4
+80 provided the creation of a
+graduate medical expansion
+committee so that committee
+would really help oversee that
+permanent fund, and it would
+look at residency programs who
+are struggling due to geography,
+regulatory language, that kind
+of thing to provide extra
+financing to help them meet that
+need. Um, so those are a few,
+uh, avenues that we are looking
+at and um I'm just talking about
+psych right now, but there
+There's also issues around rural
+rural rurality, um, and then
+FQHCs have similar limitations
+due to regulations, uh, which
+I'm happy to talk about at
+another time.
+Yeah, so I'll just wrap, wrap up
+the presentation briefly. Um, so
+yeah, so we're very excited with
+that partnership and like I
+said, we have a lot of
+partnerships going on right now
+that we're trying to continue to
+build the workforce. Um,
+I still on Matt's line that he
+kind of sold me on is is what do
+we do in Las Vegas is is we
+build healthcare professionals.
+So, um.
+I think that's something that we
+can do here, especially with
+NMBHI we have a lot of people
+there that we can take a lot of
+students, so we're trying to do
+as much of that as we can.
+Um, so just kind of overall to
+summarize kind of what what
+we're looking at is the census
+overall at NMBHI has grown,
+especially over the last 3
+fiscal years, um, specifically
+on the psych hospital side.
+That's where we've seen the
+biggest growth.
+We've had joint commission come
+out, and we've had lots of
+different licensing come out,
+um.
+Last week I had licensing at our
+adult psych division and at our
+adolescent division at the same
+time. So there's some things
+that I like, you know, a double
+dose of. I said double dose of
+licensing was not fun. We're
+running all over the place. One
+has already left no citations at
+all. CFD is still there kind of
+completing it virtually, so, um,
+we'll work with them. Nothing
+major, but we've had a lot of
+really good positive surveys
+recently, um.
+The only major thing that Joint
+Commission found was that our
+forensic building does not meet
+code for suicide risk.
+We're building a new building.
+There's not really anything else
+we can do with that. So, other
+than that though, they had some
+minor level findings. Um,
+And then our biggest need.
+Since I've been here as across
+the country with healthcare is,
+is more the entry level
+positions, so certified nur
+nursing assistant on the, you
+know, long-term care, nursing
+home side, that equivalent
+position on the hospital side
+used to be called Py texts, now
+they're called direct care. Um,
+we're working really hard to be
+able to build that workforce up.
+We've done some, some
+initiatives recently with
+Department of Health Leadership
+has really helped to push
+forward, we increased shift
+differentials from $1 to $3 even
+$3.50 if you work weekend
+nights. We've just done an
+appropriate placement of our
+direct care staff. They were all
+at the, you know, bottom end of
+the pay band because the pay
+band goes up, which is great. We
+appreciate it, you know, instead
+of the minimum being $11 in the,
+in the state, it's 15, so we
+bring everyone up and everyone's
+making $15 an hour, whether
+you've been there 1 year or 30.
+we just placed them so people
+got some pretty significant
+raises. So we're really excited
+um to work with that and see how
+that, that helps us, but yeah,
+that's kind of the thing that
+we're most focused on right now
+is is increasing the number of
+positions we have there so that
+we can make sure that we're
+increasing the census and we're
+ready for, you know, whatever
+changes come. So thank you all
+and any questions, I'd be happy
+to answer them.
+Thank you. Um, again, is there
+anyone who doesn't have
+questions.
+OK. So we will start with um
+let's start with Senator Pinto,
+and we'll, we will have 3
+minutes.
+Thank you, Madam Chair, members
+of the committee, thank you for
+your presentation. So you, could
+you explain how the child,
+children's the, the separation
+and why there's a separation of
+and where it occurs between the
+children and adults.
+Madam Chair, Senator Pinto, um,
+Not exactly. I can't explain why
+I have the predates me, but what
+I'll say is, is that, that New
+Mexico right now does not have
+like a long term psychiatric
+hospitalization level of care,
+but we're actually working, I
+was appointed to a committee. We
+had a meeting last week and
+we're working really fast. I
+have another meeting tomorrow to
+look at. Is that something that
+we need to have a higher level
+of care. So you have psych
+hospitals for adolescents.
+Some might need to stay there
+longer, but they're not designed
+for it. So we're working on kind
+of a solution for that with
+CYFD.
+Um
+And I'm not saying that's the
+answer, but that's what I saw
+over in Washington state and I
+ran one of them, so I think
+that's how I got put on this
+committee. So historically, the
+state hospital here has had a
+hospital level of care for
+adults and a residential
+treatment, which is a lower
+level of care for adolescents
+and
+The exact makeup of that has
+changed when I got here almost 5
+years ago, it was this kind of
+sexual harmful behavior focus,
+and that's what we are right
+now. But I've worked with um
+Secretary de Blasi and Mr.
+Morgan, the director of
+facilities of the state needs us
+to be something different. Let's
+be something different. So we're
+open to that and we're looking
+at that right now is what, what
+makes the most sense for the
+most New Mexicans, but that's
+the history, it's predates me
+why they separated it. So Madam
+Chair and presenters.
+So it's not clearly saying,
+well, they turn 18, we're gonna
+move them with the adults. It's
+an understanding of the sexual
+harm or their understanding of
+the aspects of the
+Sex, basically, yeah, some madam
+chair Senator,
+yes, so when you discharge from
+a program, it's, you've
+completed the treatment.
+I don't, I don't think we've had
+any go from there to the adult
+side since I've been there.
+It's, it's not that, it's not
+the pipeline, it's, it's more
+they would go back into the
+community after treatment.
+So, Madam Chair and members, so
+is it like a questionnaire, is
+that like an evaluation of their
+behavior that's um
+Sends them to the the next.
+Upper facility. I mean, cause
+you know you're talking about
+the competency of the mind that
+that's my thing too with the uh
+they talk about juvenile justice
+is that we have some young
+adults in there that are very
+vulnerable and yet we're gonna
+say, well, you're 18.
+Go go next door to the next
+building. Thank you, Madam
+Chair. So, Madam Chair, Senator
+Pinto, I will say that we cannot
+admit someone after their 18th
+birthday, but we don't have to
+discharge them when they're 18,
+and we have kept people past
+that to make sure that
+treatment's completed. So it's
+not on their 18th birthday. Good
+luck to you. We do keep them
+until they're done with the
+treatment.
+Senator Stephanics.
+Thank you, Madam Chair. I'm
+gonna follow up on the same
+topic, um.
+Are there any other facilities
+in the state that could be
+contracted with to do work with
+forensic, um, needs of children.
+Um
+Madam Chair, Senator Stephanics.
+I'm sorry, could you clarify
+what you mean forensic needs,
+you mean competence restoration
+specifically, or more broadly
+behavioral health treatment.
+Uh, not, not broadly behavioral
+health. I'm talking about
+children with crimes who need a
+psychiatric evaluation and
+forensic treatment.
+I just, if you're not speaking,
+can you turn your mic off? We
+get beat.
+Yeah, Madam Chair, Senator
+Stephannis, not that I'm aware
+of. I don't believe that that
+exists in New Mexico.
+So Madam Chair, uh, does you and
+Hospital still do children's
+psychiatric work?
+And are they a possible option?
+Madam Chair, Senator Stefanis,
+UNM definitely has an inpatient
+psychiatric hospital for
+adolescents.
+That I know
+I, I feel like I might be out of
+line to say what they could or
+could not do in the future.
+Yeah. That's fine. Thank you,
+Madam Chair. There's one other
+thing, OK, we
+In our state, we have made some
+uh hard decisions about
+Adolescence, not 18 year olds,
+adolescents who commit serious
+crimes.
+To be evaluated and they might
+end up in an adult setting.
+How does your facility handle
+that? And I'm talking about 13
+to 15 year olds.
+Um
+Madam Chair, Senator Stefaniks,
+I will say that we don't admit
+them to our facility because we
+do only work with the adults.
+What we have done is we have
+offered our expertise, and I
+don't mean my expertise, I mean
+our our psychologists to help,
+um, if we're, if we're called on
+a case and if they want, you
+know, competence restoration or
+should they raise competency. We
+have been brought in for that. I
+would say, um, sister facility
+for the Department of Health,
+um, Sequoia Adolescent
+Treatment.
+They probably would be better to
+answer that question, and
+they've done a lot more in that
+area than, than we have here at
+NMBHI.
+One last question.
+Um, while the forensic, uh,
+building is being completed, uh,
+I'm assuming that the adults are
+in the old.
+Forensic
+Facilities
+Yeah, Madam chair, Senator
+Stefaniks, yes, and that's why
+we get the pleasure of joint
+commission annually instead of
+every 3 years. This is because
+they're still in the old
+building, yes.
+Uh, thank you, Madam Chair.
+Thank you. um Representative
+Lujan.
+Thank you, ma'am. Thank you,
+Madam Chair. Thank you
+presenters.
+Yeah, it's OK, um.
+Yeah, the, the
+I don't know if we get an extra
+round of questions, but I do
+have a few questions, Madam
+Chair. This is, you know, uh, an
+area of, of legislation that
+I've been working on heavily and
+but I'm just gonna get to some
+of the, the points and, and
+issues that I'm hearing about,
+um, as far as, you know, with
+the,
+The structure around the
+evaluators when it comes to the
+competency and those sorts of
+things, it's come to my
+attention that we've lost the
+contract or two or if you
+evaluate or so I want to know
+how you're um
+Dealing with that, Madam Chair.
+Madam Chair, Representative
+Lujan, that contract is held at
+at HCA with the community, um,
+evaluators. So
+In terms of NMBHI, we have not
+lost anyone.
+So I think I, I, I don't want to
+speak for you, that's fine. I
+was directly of how this was
+impacting you, if at all. Thank
+you. That's the right answer.
+Um, if that's the answer, um,
+so,
+What I'm seeing here is a big
+plan and overview plan and all
+of you working together. What I
+didn't hear too much about. I
+heard about the AOT that you're,
+you're, you're developing around
+a plan around that as well and
+really bringing in
+infrastructure with your local
+government. Congratulations. I
+think that's essential and
+important. But with SB3, which
+has not mentioned in here, how
+is that coming into play with
+the work that's in front of you,
+Madam Chair.
+Um, yeah, Madam Chair
+Representative Lu Han.
+That's gonna be an integrated
+into all of this, right? SB 3 is
+how this region is going to use
+the funds and all, all of those
+things, um.
+I believe it says the Department
+of Health will have
+representation on those
+committees. I would venture to
+guess that I'll be on it, um, or
+someone from Department of
+Health. So we have not, I've not
+been in any of those planning
+meetings yet, but I believe that
+they're just starting to happen.
+Thank you, Madam Chair. They
+have begun. Yes, they have an
+executive committee, and I would
+hope that is essential as what
+the work is here in Las Vegas
+and the way that you're, um,
+planning that you are going to
+be, have a have a a front seat.
+So to speak, and how this is
+going to be developed because
+from what you're presenting
+today, you're looking to be a
+hub, you're looking to to take
+leadership and I want to commend
+you on that, and I want to see
+how that's going to unfold as we
+are looking at
+competency, forensics, AOT, all
+these things and really how this
+is going to develop here and
+what you're presenting with us
+throughout the day today and,
+you know, for the future, but
+there are some concerns that I
+have, obviously, um, other
+things, Madam Chair, I don't
+have time for and looking at,
+you know, definition for
+recidivism and things of that
+nature and how that goes into
+some of the way that some of
+the, the, the questionnaires
+that you develop when you're
+looking at um
+How you're, um,
+How you're dealing with the
+population that you are and
+getting the numbers that you're
+getting here, which are good.
+Thank you, Madam Chair.
+Good timing, Representative.
+Taurus Velasquez.
+Hey, Madam Chair, I don't know
+if I can beat that timing, but
+I'll try. Um,
+As a hub, as I understand what
+you're presenting here, um, as a
+hub, I'm wondering if Madam
+Chair, I'm wondering if you all
+have thought about implications
+for your institute, um, based on
+what the federal government is
+doing in terms of the special
+education department.
+And where it might be housed in
+particular for students with
+behavioral disabilities. I'm
+wondering if um if you might
+have any answers for me on a
+question that we received at uh
+A community gathering yesterday
+on um public education being at
+risk and that was what's going
+to happen with our severe
+emotional support services for
+students with disabilities, and
+I'm wondering if you have
+considered not only the funding,
+but how children with behavioral
+disorders will be housed, um,
+home, home base in terms of.
+Services, but also for the kids
+that need further, further care.
+Thank you, Madam Chair.
+Madam Chair Representative
+Torres Velasquez, um.
+I've been asked
+Not just about this, but about
+kind of big Medicaid cuts and
+how that might impact NMBHI. We
+do get a pretty substantial
+amount of state funding. So we
+do also bill Medicaid for
+certain services, Medicare for
+some services.
+But it's difficult for me to say
+exactly how that will impact us
+until I see a little bit more.
+Um, in terms of special
+education, we have a really good
+relationship right now with the
+West Las Vegas School District,
+so small town but two school
+districts here. West happens to
+be the district that we're in,
+and they, they work well with
+us, and they provide a teacher
+for adolescents, um, so.
+That's, that's kind of I guess
+the extent of what I would know
+about that. I don't want to say
+too much cause I'm not sure, but
+maybe
+you jump in? Yeah.
+Madam Chair, Representative
+Torres Velasquez, I think it's a
+great question and back to that
+intersection of health and
+education and and partnerships,
+uh, uh, even, you know, when one
+partners with funds are, are at
+risk, how it infects another.
+So, uh, again, we have a
+presentation coming up at 3:30
+regarding more regarding uh
+youth center programming and
+specifically leveraging opioid
+settlement fund dollars and so
+there may be more that comes up
+in that. I, I don't.
+know any more specific about the
+risks, you know, my wife is a
+teacher at West Las Vegas School
+District. I know there's lots of
+concerns there, but I do not
+have more specifics.
+Thank you, Madam Chair.
+You, you also win the prize for
+timing.
+Uh, I don't know what the price
+is, but, uh, Representative
+Garcia, thank you, Madam Chair.
+Thank you, panel. Madam Chair,
+uh, Ms. Nicole kind of raised
+the need to change regulations
+regarding residency within a
+psychiatric setting. I like to
+recommend to uh.
+Um, Sandra that uh he looked at
+drafting some legislation along
+those lines.
+And he can get the specifics
+from Miss Nicole in terms of
+what that would look like. Um.
+Also, Madam Chair, um,
+Tim, um
+The behavioral health institute
+and state hospital on the same?
+Madam Chair Representative
+Garcia, yes, we were at the
+state hospital forever and they
+changed the name to the New
+Mexico Behavioral Health
+Institute that's a good,
+uh, Tim, uh, can you kind of
+share with us in terms of the
+history of uh the uh executive
+directorship of a hospital and
+let's say going back 20 years.
+Um,
+Madam Chair, Representative
+Garcia.
+Are you asking the history of
+the, of my position. Yes, sir.
+Yes, OK. Um.
+It had some turnover before I
+got here and there was in a
+couple of interim people and uh
+someone that was there for a few
+years. But yeah, I've been here
+almost 5 years.
+And I'm hoping to be here 20
+it's up to Secretary de Blasio
+as long as she wants to keep me,
+but um, yeah, so it's, it's
+changed a little bit in terms of
+at one point, it was a governor
+appointed position. Now it's a
+state position, um.
+And yeah, it's.
+I guess, does that answer your
+question is
+that you've been there the
+longest in terms of the last 5
+or 6 directors. One last
+question, Madam Chair, and I
+applaud you for that.
+I think your commitment to this
+community and that institution
+is a viable one.
+And uh and it shows your
+dedication and commitment. One
+last question, Madam Chair, um,
+how do you restore competency?
+In terms of the process itself.
+And uh if you could give one
+example.
+And how that happens and uh.
+Do you start from a certain
+category and then try to
+increase that to another
+category, but how do you restore
+competency?
+The process, yeah.
+Madam Chair, Representative
+Garcia, great question. So if
+someone comes in on a competence
+restoration order, they're gonna
+meet with the interdisciplinary
+treatment team right up front.
+So that's gonna be a
+psychiatrist or prescribing
+psychologist, psychologist,
+social worker, behavioral health
+therapist, nurses, and the whole
+team is going to meet with, with
+you and we're gonna develop a
+treatment plan on what you need
+to
+Um, be restored to competency.
+So basically it's gonna look
+like, how are we gonna reduce
+the symptoms of your current
+behavioral health condition. So
+let's say you're psychotic and,
+you know, I walk into all subs
+and I say, I'm just gonna take
+everything because I'm the king
+of New Mexico, and that's my
+delusion, right? And then my
+attorney meets with me and says,
+Do you want to plead guilty or
+not guilty, and say, well, I'm
+the king of New Mexico. I, my,
+your laws don't apply to me.
+So that's what's standing in, in
+place from my ability to proceed
+with my trial, right? This is my
+attorney can't have a
+conversation with me because my
+delusions are at the point where
+it's interfering with, with
+that. So what we're gonna do is
+we're gonna target that. So of
+course, there's gonna be some
+medications that we typically
+start. We're gonna provide a
+safe and secure environment,
+reduced drug use, and I say that
+like that's kind of an obvious
+thing, but we're not gonna, you
+know, people stop using
+methamphetamine or fentanyl,
+that really helps their
+behavioral health condition. And
+then we do what's called um
+Courtroom knowledge, symptom
+recognition, so these are groups
+that are led that kind of
+explains what is a judge, who is
+the prosecutor, what does it
+mean to plead guilty. So we
+provide some education around
+those as well. So it's kind of
+individualized from that entire
+team. And then our psychologists
+would then evaluate someone and
+say, you know, yes, this person
+now understands the process and
+can assist in their defense, and
+that's when we would um
+discharge the person.
+Thank you for that, Tim.
+Madam Chair. Representative
+Gonzalez.
+Thank you, Madam Chair and thank
+you for, you know, since I've
+got in place, excuse me, um,
+being able to to work with you,
+going to you for any questions I
+may have. You've just been a
+truly valuable resource and I
+would also like to see you there
+up to the 20 years, but, um, I
+guess my question is in light of
+more the community impact. So,
+um, with the, I say the changes
+and things that are going to
+increase, you know, traffic to
+BHR, the increase of services
+that BH BHI is looking to
+increase, um, how do you look at
+that impacting the
+local community and maybe what
+are some thoughts, particularly
+we already have an abnormal
+amount of boarding homes here in
+the local area just because of
+the nature of work that we do
+here, um, our ER visitations,
+you know, have been reported,
+you know, maybe what are some of
+those possibilities of, um,
+maybe the collaboration between
+Our local hospital in the BHI
+being that, uh, we do see a lot
+of there we are not by we, by
+the community sees a lot of
+patients that do require
+behavioral behavioral health
+assistance, um, and also regards
+to public safety, um, I am very
+proud of our local law
+enforcement and our public
+safety personnel, um, you know,
+it's, it's common, common
+occurrences here in our local
+community, um, just the ability
+to work, you know, with possibly
+inpatient um clients.
+Patient, um, you know, from,
+from the area, but how do you
+see with this increase in
+service both with the, the, the
+detox center as well as now, um,
+The changes to competency where
+we are, we are expecting
+inflicts in traffic. How do you
+see that affecting our local
+community?
+Madam Chair Representative
+Gonzalez.
+Limited. So I think that we have
+a disproportionate number of
+people with serious and
+persistent mental illness in
+this town in this county because
+of the history of NMBHI being
+here since 1889. And if you look
+across the country, I don't know
+if this is purposeful, but
+almost every state hospital is
+about 1.5 to 2 hour drive away
+from the main metropolitan area.
+Um, so as I keep visiting, it
+keeps just shocking me that I
+have to drive to Albuquerque,
+fly, and then drive about the
+same distance to get to that
+state hospital. Um, so I think
+with that way.
+you see is, is you see an
+increase in behavioral health
+treatment and providers and all
+of that around those state
+hospitals. What we have done
+In my time and even before that
+is, is we work really hard to
+discharge people back to the
+community they came from. So we
+want to discharge them back to
+where they have connections,
+back to if they have family or
+whatever their connections are.
+So if we get someone sent to us
+on a civil commitment from Las
+Cruces, we're gonna discharge
+them back to Las Cruces. There
+are exceptions to that, but it's
+really rare that there's an
+exception to that. It would only
+be if they're from a really
+small area that they just don't
+have any resources, then we'll
+look to where else I might be
+able to.
+Yeah.
+So that's the, what we do now in
+terms of like hospitalization.
+That, that's our philosophy.
+Um, the assisted outpatient
+treatment. We're already seeing
+them at our CBS clinic or
+outpatient clinic. So I'm not
+anticipating a, a big influx.
+What I'm hoping is, is that this
+helps keep them out of the
+hospitals, out of the ERs
+because if we can keep them
+stabilized in the community,
+then they'll visit the ERs less
+frequently.
+And the new detox facility that
+is a new service line and that
+is something new. I would argue
+that they're probably still
+already in the community, um,
+and we're gonna be able to
+provide treatment and hopefully
+at a pretty successful rate, um.
+I have met with the CEO of
+Altavista. I've met with um
+Sheriff Lopez a number of times
+I've met with county officials a
+number of times that we really
+wanted to do this well and if we
+do take admissions from
+elsewhere in the state. I'm also
+kind of building into the budget
+and the planning and the
+treatment that we're going to
+discharge them back to where
+they, they came to us from. So
+historically, and this is again,
+not just New Mexico, this is
+across the country. The state
+hospital became a hub for it,
+and I think we're working hard
+now.
+To make sure that we discharge
+people back to the community
+they came from.
+Representative Anaya.
+Thank you, Madam Chair. um,
+thank you to the presenters as
+well. Somebody who worked on the
+house before I believe it was
+side of House Bill 8,
+It's really nice to hear the
+update, um.
+But I was wondering, you know,
+as we were building out that
+part of the bill, um, we heard a
+lot from providers who, um,
+we're concerned that there
+weren't necessarily enough
+evaluators for competency
+itself, and I was wondering, is
+that an issue at BHI? Is there
+some kind of waitlist? Is there
+any sort of backup?
+Um, that was something that we
+heard from providers themselves.
+Madam Chair Representative
+Anaya.
+Historically we had 30 days to
+get people admitted into the
+forensic portion and that now is
+15 days after this, and we have
+hit it 100% of the time. So we
+do not experience the delay at
+an MBHI. We get them in right
+now, we have capacity to
+continue to do so. That's why we
+watch this so carefully is is we
+don't want to put the state in a
+position where we're not meeting
+that time frame. Now, in the
+community, I don't really wanna,
+I don't know because that again
+that those contracts go through
+healthcare authority, but I will
+say if they are found not
+Competent
+Alleged felony dangerous, we do
+get them in within the time
+frame.
+Thank you, Madam Chair. And then
+the other piece, um, that I
+found interesting that you
+didn't really talk about as much
+as your last slide on the state
+of the institute, um, it looks
+like you all are successfully
+recruiting for many of the like
+the license positions, clearly
+you still need direct care
+alongside everyone else, you
+talked about um some of the
+changes that you've instituted.
+Can I just ask, um, you know, we
+just got done with the
+workforce, a look at the
+workforce itself, but I'm
+wondering how is it that you're
+thinking about
+Changing um.
+Some of these working
+conditions, how is it that you
+thought of that and can you tell
+me a little bit about how it's
+working because clearly here you
+have seen success.
+Yeah, so
+Madam Chair Representative, and
+I, I think that we put money at
+the problem, and thanks to you,
+we were able to get funded, so
+when I first started 5 years
+ago, I said we, we can't pay
+people $11 an hour, and they can
+go to any fast food restaurant
+in town and make 15.
+We're not close. You have to at
+least make me competitive once
+I'm competitive.
+Then I'm, I'm good with it. And
+not only have you guys made us
+competitive, you've, you've
+beaten them in a lot of ways, so
+thank you. Um, so that was, I
+think the first step. The second
+step is, we do have to have a
+working environment that is
+supportive. So historically, you
+know, some of these positions
+were seen not in the best light,
+like, you know, kind of.
+Beneath other positions and what
+I've worked hard on
+trauma-informed workplaces.
+There is, there is none of that.
+We all are equal, um, some jobs
+are gonna be compensated
+differently due to education and
+experience, but every job is
+valuable and important, and, and
+what I've said
+Repeatedly is, if I don't have
+any direct care staff at NMBHI.
+You sure don't need a hospital
+administrator.
+Right? I, I'm looking for a new
+job, so we need to value those
+jobs that make all of our other
+jobs possible. So I feel like
+that's on us is just to create a
+culture there that we do that.
+The other part that I routinely
+hear is is it's not safe to work
+at the state hospital. It's not
+safe to work with people who
+have these psychiatric
+conditions, and I didn't include
+it in this data, but we have
+data to show that we don't have
+A high number of incidents where
+staff get hurt. It happens. I
+don't want to say it's zero, but
+it could happen on any job,
+right? Um, so trying to help
+shift that narrative a little
+bit that this is actually a safe
+job. And then finally,
+What job?
+Has more intrinsic value than
+working with New Mexicans who um
+are the most vulnerable and in
+most in need, right? Like,
+That's what it says, you don't
+even have to volunteer or donate
+money if you come work at an
+MBHI because you're doing your
+do good, you're good, um, so
+those are kind of the things
+that we've worked on to try to
+get some success with that.
+Senator your block.
+Thank you, Madam Chair. Um,
+first, thanks, thanks for the
+job you do. It's very difficult
+job and complex job for you and
+the secretary, uh, greatly
+appreciate and I hope, Madam
+Secretary, you're feeling better
+now.
+Yeah.
+Um, I'd like to talk just a
+little bit about um the
+workforce there, um.
+percentage of government versus
+contractor.
+Yeah.
+Madam Chair, Senator Block.
+I'll give you numbers. I, I'm
+trying to do the math in my
+head, so we have about 100, sir.
+I don't, it doesn't have to be
+exact, just, just a guess. I'm
+just curious. So for, you know,
+the physician level we're about
+80 to 85% state employee for the
+direct care level, we are
+I think we have probably about
+110 state employees that are in
+that kind of CNA level, direct
+care level, and we have about 20
+contracted and for nurses, it's
+probably around that same
+percentage, right around 20%,
+maybe a little less in the
+nurses.
+Thank you man, and that's, are
+you, are you looking to keep
+that stable? Are you looking at
+going a little bit more one way
+or the other because sometimes a
+no brainer contractor on is a
+little bit faster than trying to
+hire people. If you have
+personnel gaps.
+Yeah, so, Madam Chair, Senator
+Block, I will be honest. I'm
+looking at both all the time
+trying to expand our workforce.
+We have a little bit of a
+waiting list on our civil
+commitments, and I don't like
+that. So I'm trying to get as
+many people in as we can. OK,
+thank you, sir. Thank you, Madam
+Chair. I just want to ask about
+recidivism. Uh, what is your,
+what is your rate?
+And how do you get it better and
+what type of cross talk of best
+practices are you doing, uh,
+within the state or even outside
+the state?
+Yeah. Madam Chair, Senator
+Block,
+I said of level is very low.
+Meaning probably about 5% less
+than right around 5% are
+re-hospitalized within 180 days
+of discharge. So I could end the
+sentence there and say good job,
+but I will say it also takes a
+little while to get back to us,
+right? Because you have to be in
+the community, you have to have
+your symptoms increased, you
+have to be hospitalized. So,
+I also look at how many people
+are then incarcerated or go to
+the ERs and it's hard to exactly
+know that data. But what we're
+doing is, is we're working
+really hard with the AOT teams
+right now that we're building
+out the assisted outpatient
+teams, so we've connected with
+the one in Albuquerque, the one
+in Santa Fe, to try to build up
+um those resources to make sure
+that when people are discharged,
+they have the resources that
+they need.
+Madam Chair, Senator Block
+Sheriff Philus is uh delayed uh
+performing, uh, public safety
+duties, but that's where this
+started. So 14 years ago I
+mentioned, uh, two wrestling
+coaches after practice, youth
+wrestling coaches, and uh the
+sheriff in near tears if he
+would cry, he was probably as
+close as he would get, um,
+saying there's got to be a way
+than arresting people over and
+over again till they die of an
+overdose. And I said, there is a
+way and uh it's called trauma
+informed care and we
+started looking at all of this,
+putting these resources
+together. There are still many
+and fruits that need to come,
+including the youth center,
+which you'll hear about later,
+uh, hopefully he can make it by
+then. But this residential
+treatment center is that way.
+And through diversion efforts
+and working with the uh courts,
+uh, uh, we are hoping that, um,
+To have less obituaries.
+Thank you, Madam Chair. Uh,
+thank you, sir. These people,
+they have value no matter what,
+and uh we gotta remember that.
+Thank you, Madam Chair.
+Representative Block.
+Thank you, Madam Chair. Thank
+you guys. I will not berate you
+with too many questions, but I
+had a few. So first of all,
+going to the, the slides here, I
+don't know if you have copies,
+uh, looking at page 5 and 6. I'm
+not really sure what they mean
+particularly. I know on the
+bottom of the graph it says ABC
+through Z or it goes to V. So
+I'm just wondering what that
+axis means on both 5 and 6, just
+so I understand what we're
+looking at here.
+Yeah, so, Madam Chair,
+Representative Buck, those are
+the other state hospitals that I
+don't want to identify. I really
+can't identify, so that's um
+South Dakota, North Dakota,
+Utah, Arizona, California,
+Oregon, Washington, Hawaii,
+Alaska, and I'm sure I forgot
+some, but those are without
+saying which specific hospital
+those all represent one of those
+state hospitals. And some states
+have more than one. OK, great.
+Thank you, Madam Chair. Thank
+you so much for that, Tim. So
+another question I had, I think
+you referenced 80% of the time.
+Your clients are restored to
+competence in one of your
+programs, I believe you said,
+which one was that? And uh what
+does that look like pertaining
+to national averages.
+Madam Chair Representative
+Block, uh, yeah, that is what I
+said and that's our forensic
+division for people who are sent
+to us for competence restoration
+and the national average best I
+can get is about 65 to 70%.
+OK, thank you, Madam Chair.
+Thank you so much for that, Tim.
+And then of the population you
+have in the forensic unit, how
+many are quote unquote lifers,
+as in they will be there until
+the end of their sentence. Maybe
+it's a life sentence.
+Madam Chair Representative
+Block, the best way for me to
+answer that question is how many
+are on the 1.5 commitment, and
+that could not be life, that
+could be 1215 years, but that's
+still a really long time to be
+in the hospital. And we have,
+last time I looked, which was
+not that long ago, I think we
+have about 23 of those
+individuals.
+OK. Thank you, Madam Chair.
+That's all the questions I had.
+Representative block, I could
+get used to this.
+Representative Herndon. Thank
+you, Madam Chair. And one of the
+biggest, uh thank you again for
+you all being here. One of the
+biggest issues that I have found
+was the, the lack of ability to
+help adolescents who needs uh
+behavioral health care. So there
+was a big push to look for the
+uh to try to convert the
+facility at 5200 Socorro on the
+west side of town, and I see
+that there was lots of new
+building that was going on. Why
+wasn't that building considered?
+Um, Madam Chair, Representative
+Herndon, I'm not familiar with
+that. I apologize. I'm not sure.
+OK. Well, that was something
+that we've been working on a lot
+to try to get the state to
+purchase to it was there and it
+would actually take care of
+children and uh the way the
+facility was set up and I'm
+looking at all the new building
+and I was just wondering why it
+wasn't, it wasn't being
+considered. The second thing is,
+is that as we look at um people
+who are going into our state
+facility. What I am not what I'm
+still not clear about, and if
+you have any type of
+intervention.
+Our action with uh helping those
+people who have been, um, have
+been sentenced to a state
+facility and then trying to get
+off of drugs. They've not been
+the uh the, I guess the
+medication to assist them to do
+so in a way that's not, uh,
+that's least harmful to them.
+How are you working with that,
+if at all.
+Madam Chair, Representative
+Herndon, so if someone comes to
+us on medication assisted
+treatment or MOUD for an opiate
+use disorder. We keep them on
+that medication. So that would
+be like Suboxone, for example.
+We would keep them on that
+medication. With the new
+treatment facility, we will have
+the ability to initiate people
+onto that medication assisted
+treatment and then we will look
+to expand that across the other,
+the other places. I will say.
+Medication assisted treatment
+saves lives and it is
+incredible.
+And we
+are able to keep people off of
+drugs because of our
+environment, because we're
+locked. So it hasn't been as
+high of a need for us to do MOUD
+if someone's on an inpatient
+psych hold because they're
+there. So we help them with
+their cravings and with all of
+that in a different way with
+different medications we can
+offer them and support, um, so
+it hasn't been something that
+we've pushed on a, on a
+psychiatric hospital, but it's
+something that we're looking at
+doing.
+Thank you, Madam Chair, and uh
+with respect to Meadows, you
+indicated that there would be,
+there are Medicaid beds,
+Medicare beds there, I think.
+I'm, I'm trying to determine how
+many do you have and how likely
+are, are you to be affected by
+these bigger cuts. I know you
+mentioned it slightly, but I'd
+like you to be more specific.
+Madam Sherpresentative Herndon.
+About 90% of our residents at
+Meadows are on Medicaid. That's
+an institutional version of
+Medicaid.
+Um, it might even be 95%, a vast
+majority are on Medicaid. When
+looking at the cuts,
+The reason that I'm not 100%
+sure how to answer that I can
+answer the question is, is I
+think most of the people will
+remain on Medicaid, meaning
+these are the most vulnerable
+kind of lowest income people in
+this state who from what I can
+tell and what I've read, will
+likely remain on Medicaid, but
+until we see who's cut, I guess
+I'm not, I'm not sure.
+All right, thank you, Madam
+Chair.
+Representative Rogo Caballero.
+Thank you, Madam Chair, and
+thank you all for your
+presentation. I, you know, in my
+imagining mind, um, I
+I would like to imagine the
+perfect um
+holistic approach.
+To, uh, all that you have
+presented today, being under one
+hospital, uh, psychiatric
+hospital, whatever you want to
+call that, whereby we have a
+floor for adolescents, a floor
+for adults, a floor for
+children. We have clearinghouse
+of services, uh, to handle
+social, economic, emotional
+support and referrals, you know,
+that it seems that
+Whether we have a little pot of
+money or a large pot of money,
+Madam Chair, we're still
+piecemealing how we are
+delivering services and how we
+continue to um
+Try to address a major, a major
+problem. And so I, I just wanted
+to, to start with that because
+at some point we need to start
+thinking bigger, more
+holistically, not necessarily
+bigger in, in volume but uh well
+that too because we have to
+address the social problems that
+our community is facing, but
+looking more creatively and
+innovatively because we're going
+into the world of needing to be
+more sharing. We need to be
+sharing more services, sharing.
+providers, sharing everything so
+as to be more cost-effective,
+but also more importantly, more
+clinically effective in the
+outcomes.
+Um, and that's what concerns me
+the most. So I, I really felt a
+need to say that because I've
+been here for 13 years and we've
+been tackling uh this major
+problem, and we just keep
+piecemealing it and now we're
+involving the courts, which
+Logically so, but um, anyway,
+my, I have a question. The
+question is, um, reference to
+language.
+And I want to know right now how
+many languages, uh, are, or how,
+yeah, how many languages are
+being offered, uh, to our
+populations that you serve.
+Uh, I'm assuming that they're
+coming in, um, they may be
+coming in, uh.
+fluent in um their home
+languages. Can you?
+Tell me now, how many you serve.
+Madam Chair, Representative Roel
+Cao Caballero, um.
+Any language that someone needs,
+we would provide translation
+services for them. So we have
+contracts with people to
+provide.
+Services in whatever language
+they need.
+In regards to how many specific
+patients right now, we've
+provided those services to, I
+can't answer that, but I could
+get back to you.
+That's fine. I just wanted to
+make sure that we're uh in
+compliance with our language
+Access Act, uh, because I, I'd
+hate to be in a position to have
+to compel our state agencies at
+this point. So thank you, Madam
+Chair.
+But Lopez.
+Thank you, Madam Chair, and
+again thank you to my colleagues
+who've asked a few of my
+questions already, um, but I
+would just like to add and say,
+uh, ditto with regards to
+Senator Pinto.
+Her question and Senator
+Stephanics with regards to our
+juveniles, as they call them,
+but I still call children, uh,
+brain development and all of the
+other issues where, um, Madam
+Chair, I still have hope that
+with the advances that we have
+in brain development and such
+that we can still help.
+Um, our young people.
+And, um,
+I, I guess, Madam Chair, you
+know, for me it's, it's, it's
+always, and it's been a question
+that's come up and this is
+mainly a statement of when we
+try to um
+would I say, make someone
+better, well enough to stand
+trial.
+Um
+Because of a decision that
+they've made, disaster it may
+be, but
+It, it's the bringing somebody
+up to a level of competency,
+Madam Chair, for them to, to
+stand trial. Yes, I'm, I'm going
+over this in my mind.
+And then
+When they
+stand trial and then go back, do
+we continue?
+To keep them at that level.
+Do they go back into that abyss
+that they were in.
+Um, you know, Madam Chair, those
+are just questions asking, um.
+You know, there's
+Questions to ask as to what we
+do.
+Um
+And it's a concern that I've had
+for just because of, you know,
+Um, persons that I've known
+within my own family who've had
+issues.
+Um, medication does only so
+much.
+They come off medication and we
+know and they go into the abyss,
+and what do we do as a state,
+right? They're convicted and
+such, do they go back and do we
+continue to assist them, help
+them, or do they just disappear
+into that abyss again. It's just
+a question, Madam Chair, that I
+struggle with in many ways and
+still goes back into with
+regards to our young people.
+For those who have issues, um,
+again, all of us have issues at
+some point in our lives.
+Um, as to what we do to provide
+them support.
+But also working with the
+families because no matter what
+we do,
+How do we go back and work with
+their families, um, if they
+actually are able to go back
+home.
+Because as the other support
+service, um, Madam Chair, that
+we also have to look at and see
+how we can assist, um,
+Those in our community who are
+vulnerable.
+Um, so it's a question I have,
+Madam Chair, then the other one
+too, um, it is, we talk about
+the biggest need for the
+positions that are coming in,
+everything costs money.
+So I hope, Madam Chair, that as
+um your particular entity
+working with the secretaries
+that were asking for the real
+dollars.
+I understand, um.
+You know, there's budget
+constraints, uh, restraints that
+come from the executive level,
+etc. but
+To recruit somebody and to keep,
+it costs money.
+And as you mentioned, Madam
+Chair, and, um, you know, in
+your presentation, why would you
+work someplace for, you know,
+$11 to $12 when you can go earn
+it someplace else.
+Um, valuing the people that work
+for us, for those who are giving
+of their time and their talent,
+Madam Chair, we really have to
+invest in them.
+So it's just a statement, but
+again, I hope that the request
+coming up this time, um, in
+front of the LFC really is the
+real dollar.
+As to what we need to pay our
+people.
+Thank you.
+And I do have a few questions.
+So you have 44 youth in care,
+correct? And you are hoping for
+8.
+Madam Chair, average was 4.
+Today we have 6. And we have a
+probably a likely admission this
+week and we're hoping for 8.
+Yes, yes, ma'am. So, so is 8
+your capacity?
+Uh, 10, Madam chair is our
+capacity, but I'm hoping to get
+to 8 quickly and then let the
+the stable, you know, stabilize
+it a little bit and then get up
+to 8, Madam Chair, or to 10,
+sir. And then going to page 15,
+the workforce. When we toured
+your facility of, I don't know
+when that was with Senator Ortiz
+Pino and you, you told us that
+you, you know, you, you weren't,
+you weren't having so much
+difficulty getting the
+psychiatrist and the psychiatric
+nurses and that was an
+eye-opener to a lot of us, and
+I'm glad.
+To hear that the pay is, is
+making it easier, but you, from
+what I see here, you are still
+having trouble filling the
+non-professional and
+roles
+Uh, Madam Chair, short answer,
+yes. OK, thank you. Um, and
+Is that, I mean, you talked a
+little bit about it. Do we need
+to increase the pay? I mean, it,
+it, or I know there's not a
+magic bullet, but if you, if you
+had a magic wand, what would
+you, what would you tell it to
+do?
+So Madam Chair,
+I would say through DOH
+leadership and Secretary de
+Blasio. We've put money at the
+problem recently. Um, not just
+recently, we've, we've
+worked on it for the last number
+of years, you know, you wait for
+the next session, you get more
+money, and then you kind of put
+at it. Uh, as of last week, I
+told my team we've put all the
+money that I think we need to
+put at this problem. We need to
+now do our job.
+And make sure we have the right
+working culture. We also need to
+figure out how to get people
+interested in healthcare, and I
+think this goes to what Matt was
+saying, right, is this how do we
+build people to know that, you
+know,
+It's a great job. I was just
+talking to someone yesterday.
+I'm always recruiting, you know,
+what a great job you come work
+for us, you get shift
+differentials, and whatever job
+you go to after us.
+You will have this incredible
+experience, whether you want to
+go be a nurse, you want to go be
+a doctor, or you wanna go work,
+you know, at Costco.
+And they say, can you deal with
+an upset customer. Well, yeah, I
+mean, I dealt with an upset
+psychotic person on the forensic
+unit at MBHI. I think I can
+handle your customer, right? So
+whatever your job is, is we will
+make it better, and I think if I
+had a magic wand, it would be
+helping the world see that that
+working in healthcare is a
+really good job.
+For a number of different
+reasons. Um, and then in terms
+of page 7, where your clinical
+data on the forensic. The
+falloff for April and May, is
+that a not yet factor that they
+haven't reached um restoration
+cause that looks like, oh my
+gosh, from 100 to 55, I'm
+assuming that's because there
+hasn't been enough time to get
+them.
+Restored.
+Madam Chair, I would say it's
+probably more small sample size.
+And if we didn't have one that
+we discharged that month and it
+really impacts the numbers, all
+right, thank you for that. And
+then in terms of the joint
+commission, um, what do you,
+the, the um accreditation, do
+you have a, a
+Since I'm the timeline there.
+Madam Chair, I, I'm not sure I
+understand your question for,
+I, I didn't, um.
+The new residential treatment,
+is that gonna be, is that gonna
+slow you down or do you feel
+like it's, it's within it, it'll
+work within your timeline.
+Madam Chair.
+That will not slow us down, so I
+have the support again from
+Department of Health Leadership,
+Mr. Morgan and Secretary de
+Blasio that we're going to open
+and then we notify joint
+commission because we kind of
+have to be open. So we've told
+them we're going to tell you
+when we're open and they and
+then they have 90 days to send
+someone, but we're gonna open
+anyways, even though we can't
+bill yet, and we're gonna do it
+so that we can uh move forward.
+Thank you for that. And then um.
+How many substance use facility
+beds, if you are fully staffed,
+but what do you have now and,
+and what will you have?
+Yes, Madam Chair, we don't have
+any that are licensed to
+substance use treatment and the
+new facility will have 28, 4
+detox mail for detox female and
+the rest were kind of on
+continuing treatment. And do
+you, do you have a catchment
+area for that?
+So, Madam Chair, what we've
+agreed to because this came from
+this kind of region is is we're
+gonna prioritize this region. So
+if we have, you know, one bed
+left, I might say let's leave it
+for this tri-county area, you
+know, um,
+That's a problem that I hope we
+have, honestly, that all of our
+beds are filled and we're doing
+good work. Um, but if, you know,
+if we have capacity, we're gonna
+take from anywhere across the
+state, I'm sure.
+In terms of your adolescence,
+um, do you know how many of them
+have IEPs.
+Um
+Madam Chair,
+Of the ones that are currently
+with us, I believe 5 out of 6
+have an IEP.
+And the reason I'm asking this,
+we did a tour of YDDC some years
+ago and I was shocked at the
+percentage of, of the people,
+the kids there who, who had
+IEPs, so I'm, and you did talk
+about West Las Vegas supporting
+you. So do you have a classroom
+or classrooms within your
+facility or how, how does their
+education work?
+Madam Chair, exactly, we have a
+classroom at NMBHI and they send
+the teacher to us. Now, we do
+range in grade level, so it's
+some, a lot of online work, but
+the teachers right there to
+assist them.
+And then um do you have?
+Ancillary services. I mean, if
+the if the child needs um speech
+and language pathology or
+physical therapy or anything
+like that. Do you have a method
+to do that?
+So, Madam Chair, if it was
+physical therapy, I would say I
+would probably use our physical
+therapist from NMBHI right now,
+we're, we're about to contract
+with a new one. So today, we
+don't have one, but typically,
+historically, we would have our,
+our physical therapist go with,
+with, with them for speech
+therapy, we would work with the
+school district and they would
+provide it. OK, thank you for
+that. Um, and I think that's all
+I have. Thank you, thank you all
+so much for the work that you're
+doing and for your presentation.
+It always seems like it's a
+bright spot, um.
+Maybe that's why we keep coming
+back to Las Vegas cause we are
+the health and human suffering
+committee, so it's nice to come
+back and get some uh get some
+positive and and you are moving
+forward, please don't go
+anywhere. Gina, don't let him go
+anywhere. Um.
+And thank you all.
+Madam Secretary, I'm sorry.
+OK, now we have transitionally
+transitional housing and
+support, Ruby Anne and Emily.
+Thank you.
+Good afternoon, Madam Chair and
+members of the committee.
+Good to see you all as always.
+Um, I'm Ruby An Eske Bell. I'm a
+principal analyst with the
+legislative Finance Committee,
+and I'm
+Happy and honored to introduce
+somebody new to you. This is
+Miss Emily Hela, and she, uh, it
+was an LSD analyst with us
+before, but she has taken over
+the Department of Health and all
+of Kelly's block, so she's a new
+member of our Health and Human
+Services Committee. So yeah,
+we're very excited. Welcome.
+We have fun, we work hard, but
+we have fun.
+It's a good, it's a good group
+and continues to be a good team,
+so we're really happy that
+Emily's Emily's joining us. So,
+um, what we have for you this
+afternoon, Madam Chair and
+members of the committee is
+Really kind of a comprehensive
+overview and look at.
+Many many multiple housing
+initiatives, projects, funding
+initiatives throughout the
+state. So we're gonna be
+throwing a lot of information at
+you, a lot of, as we always do a
+lot of numbers, a lot of data,
+but, uh, hopefully, uh, it will
+coalesce together and make some
+sense. So with that, um, what
+we're gonna talk about is,
+overall the housing landscape
+nationally and how New Mexico
+fits into that. We're gonna talk
+about
+the leadership is right now, it
+changed, um, in New Mexico where
+the uh the new housing offices,
+it's in Workforce Solutions now,
+so that's, that's something new.
+And we're gonna of course go
+over some of the funding, the
+non-recurring um funding for,
+uh, and the appropriations and
+lastly we wanted to kind of give
+you some, some local snapshots
+and we all know that, you know,
+Albuquerque and Bernlio County
+have the biggest incidences of
+unhoused individuals, so we
+picked those accordingly to look
+at the initiatives there and
+then we'll look statewide as
+well. So let's dive in. I'm on
+slide 3.
+This gives you two pieces really
+of data, a snapshot one is from
+the nat the Federal housing of
+um Department of Housing and
+Urban Development HUD and
+basically you'll see the graph
+over here and you'll see it's
+kind of been up and down, but,
+um, you know, Albuquerque is
+pretty high, the state's pretty
+high, so, um.
+Specifically, we, um, in New
+Mexico, we increased by 11% from
+2009 to 2023 in terms of the
+number of unhoused individuals
+and just in the latter more
+recent years, 2022 to 23, we saw
+a spike, you see it there on the
+table. Um, we increased by 48%,
+so there was a big jump. Now, I
+know this committee has
+mentioned before the Department
+of Health analysis, Madam Chair,
+you, I
+asked a question about that last
+month, um, he said, oh, are you
+referenced that report? So I
+didn't want to not include that
+data as well because that shows
+a significantly higher number.
+So the HUD data looked at a
+point in time, so it looked in
+the in the winter, it looked, it
+did, it looked at all who was in
+shelters and all, and it looked
+in the winter when the numbers
+are highest. And it was showing
+that we had, um, you know, a
+large amount. We had, you know,
+4000, but um.
+Comparatively, the Department of
+Health did a contract, um,
+evaluation and they looked at
+hospital data, hospital records,
+and what people put on when they
+um were admitted into the
+hospital. What they put is their
+address and if you didn't have
+an address and all, then they
+counted them as in-house. And so
+that number was much more
+substantial. It was, um, 10,000.
+So that gives you sort of a
+range in the data and what are
+some of the challenges?
+all know this intuitively, but,
+um, in New Mexico, we see, we,
+we know we have a lot of
+generational poverty. We have
+geographic isolation here, we're
+a rural frontier state, all the
+social determinants of health
+that you've been hearing from
+all these panels just before us
+and limited affordable housing
+which we'll touch on more later.
+And then just what is needed,
+HUD is saying that we need about
+40,000 rental units in the
+state. How do we compare? I'm on
+slide 5. How do we compare
+regionally?
+So some of the factors again
+that influence our housing needs
+in New Mexico are the cost
+burdens for much of our
+extremely low income New
+Mexicans, so that can be rental
+rates, wages, the affordability
+of housing, zoning, you're gonna
+hear a lot about zoning as we go
+particularly into the all the
+elections, you're already
+hearing a lot about it. And
+here's something for that in New
+Mexico, the household
+composition, are you taking care
+of children? Are you taking
+care?
+an aging member, are you taking
+care of somebody in your
+household who's DD or or has
+other special needs. So those
+all impact also, um,
+In New Mexico, another
+interesting factoid. We tend to
+have a higher composition of
+mobile and manufactured homes,
+so then our regional neighboring
+states, so that actually helps
+us in terms of affordability,
+um, so, uh, usually people who
+own their house, whether it's
+house, Mo, whatever, tend to
+have a little bit lower out of
+pocket expense for housing, um.
+So, uh, and then our rents are
+probably a little bit lower.
+do on slide.
+6, Madam chair.
+So, um,
+I just wanted to mention a lot
+of other states, there are state
+legislatures are looking at an
+array of housing initiatives
+now, this is obviously an issue.
+In the, in the world, it's not
+just in even in the US. This is
+always a perennial issue, so
+what are some of the things that
+are being considered and some of
+that.
+I
+That
+Zoning, as I said, looking at
+what are ways we can zone to do
+more infill and to build more
+houses and to build more
+affordable housing.
+So that is one thing. Another
+thing is just looking at
+regulations, rules, regulations,
+and a final thing I wanted to
+mention because it was just
+apropos to the governor just um
+housing the er hosting rather
+the Western governors, um, they
+all announced this building
+resilient and affordable new
+developments West initiative, so
+that's trying to look at what
+partnering with the federal
+government to streamline and
+reduce the cost of housing
+developments, improved rental
+assistance.
+and expand pass towards home
+ownership. So that's something
+that's going on national. I
+think I slipped a
+Uh, went by a slide man and
+number 4. Let me do that one
+real quickly. I, I referenced
+how we compared to our, our
+neighboring states, but I, I
+really should just highlight
+this slide. UNLV, University of
+Nevada, Las Vegas. They did a an
+an evaluation and they looked
+at.
+New Mexico, Arizona, Colorado,
+Nevada, and Utah.
+And they defined um extreme low
+income as um it's at or below
+the federal poverty level or 30%
+of the area's median income, and
+I specifically pointed that out
+because for all of the
+initiatives that we're talking
+about here and a lot of things
+you'll hear about in Albuquerque
+and Las Vegas and Socorro, they
+always talk about the average
+median income. So the percent is
+30%, so that's just something
+for us all to be aware of when
+people talk about that in terms
+of
+Affordable housing, that's the
+number they're referencing, um,
+and so New Mexico, we had 65,000
+extremely low income households,
+um, and that was about 68%, um,
+having a big housing burden in
+our state, but guess what?
+We were not the worst in our
+neighboring region, Nevada,
+believe it or not, had the
+highest housing burden at 88
+86%. We were at 68%. And again,
+the, the factors were the things
+I said we have more um
+Of the modular manufactured
+housing, probably our rents are
+lower, those kinds of things.
+OK, so I just wanted to go back
+to that slide. So we hit 456.
+Now 7, and with that I'm gonna
+turn it over to Emily.
+Hi, Madam Chair, members of the
+committee, as reinstated. I'm
+Emily. I look forward to working
+with you all. Uh, moving on to
+slide 7, just kind of giving you
+a brief history of where we are
+at right now with the uh office
+of housing.
+Last year, the governor created
+the Office of Housing is
+attached to the governor's
+office and legislation this past
+session attempted to attach the
+office as administratively
+attached to the Department of
+Finance and administration, but
+this legislation died and so it
+ended up happening post
+legislation, the governor
+decided to move the Office of
+Housing to be under the
+Workforce solutions department
+on Wednesday at the Legislative
+Finance Committee hearing, we
+will actually be getting the
+more of the plan of the Office
+of housing from the.
+Workforce Solutions department,
+so we're happy to pass along any
+information to you all on their
+specific plans, um.
+But what you all did as a
+legislature this past session in
+the general Appropriation Act,
+also known as House Bill 2. You
+all provided $1190 million to
+the Department of Finance and
+Administration for housing and
+homelessness initiatives, um,
+that's mostly towards 110
+million appropriation,
+non-recurring to support
+affordable housing, with an
+emphasis on transitional housing
+and facilities that support
+behavioral health services.
+However, there was some language
+that was vetoed when House Bill
+2 was signed, specifying 80
+million for housing services.
+In Albuquerque and 10 million
+for Las Cruces and Donana
+County.
+Um, there was also vetoes of
+other appropriations um for
+streamlined housing placements
+and funding for housing
+navigators, what you all have on
+uh slides 23 and 24 is a list of
+appropriations that you all as a
+legislator have funded since
+2023 and the status of those
+appropriations, I will say if
+you look on page 24, which has
+the uh totals and the balances.
+The balances is a little bit
+skewed because um we transfer
+funding to the New Mexico
+Finance Authority through House
+Bill 2, and so that shows up in
+our state's accounting system as
+expended. So that's why it's
+showing as a total spent of
+250.5 million, whereas money
+that has actually gone out the
+door that we know of is 75.5
+million, um,
+And so if you have any questions
+about specific appropriations,
+I'm happy to walk over those
+with you, um, but quickly moving
+on to slide 8 before I turn the
+presentation back over to
+Rubyan. Something for you all to
+think about moving forward with
+the office of housing being
+moved under the Workforce
+Solutions department, uh, in
+2004, the Affordable Housing Act
+was passed and ratified by New
+Mexico voters in 2004.
+Um
+Creating New Mexico Mortgage
+Finance Authority as the charged
+entity responsible for
+implementation and oversight, so
+this is how we receive a lot of
+federal funding through the uh,
+um, something for you all to
+think about moving forward is
+how do we not duplicate efforts
+that uh MFA or Housing New
+Mexico is doing versus what
+workforce solutions intends to
+do with the Office of Housing.
+So we're still kind of getting
+into that with the interim of
+what that duplication, um,
+preventing what that might look
+like moving forward. So with
+that, um, I'll turn it over back
+to Ruben to slide that.
+So
+Like Emily just said, we, you
+know, designated the mortgage
+finance Authority as the state
+specific lead and state entity,
+they're using, doing business as
+the term New Mexico housing, so
+what are they doing? What kinds
+of things? So these next slides
+are gonna be looking at.
+City of Albuquerque initiatives
+also Berlio County, but then
+we're gonna be talking a lot
+about New Mexico housing or
+talking some about New Mexico
+housing or MFA I'll maybe use
+the terms interchangeably and
+also some of our other
+initiatives and other funding
+streams because we have many
+funding streams in the state
+that support housing and
+unhoused individuals. Um, so
+with that, we'll launch into
+City of Albuquerque on
+9.
+So, um,
+The city of Albuquerque created
+the health, housing and
+homelessness department, and
+that was based on, um, visits
+and models from San Antonio,
+Miami, San Diego, and Denver,
+um, specifically regarding how
+they were dealing with their
+unhoused individuals. They are
+building and, and built a
+coordinated system with that
+includes medical respite for
+unhoused detox, of course,
+housing and wraparound services.
+and multiple partnerships with
+treatment providers including
+both physical health and
+behavioral health.
+The Albuquerque Community Safety
+Department is up and running and
+it's a 24/7 full-time emergency
+alternative to 911.
+So that, um, includes a civilian
+team that responds to the whole
+array of SMI SUD, so, um,
+serious mental illness,
+substance use disorder, so
+behavioral substance use and um
+and housing, housing issues. Um,
+so they have taken ACS has taken
+over 100,000 calls they report
+and uh each one of those calls
+diverts someone from the
+previous system that would have
+gone through 911.
+And, and pulled out regular
+first responders, um, policemen,
+you know, pulling them away from
+maybe another public safety
+emergency, so it's diverted all
+these calls to this civilian
+team that actually treats SMI
+SUD, so that's, I think that's a
+huge win and they also created a
+new um uh employment program for
+unhoused individuals, which you
+may or may not have heard of.
+It's called the Better Way
+Forward Program, and it pays on
+housed individuals.
+Who are in the system integrated
+into these systems to um work in
+downtown Albuquerque and clean
+up and water plants and do all
+of that and then they're
+connected to the gateway center
+and the gateway housing, but it
+provides them a, a, a small
+wage.
+So that is currently happening
+on slide 10, we couldn't, of
+course, not mention the gateway
+Center. Everybody, you hear
+about that all the time in the
+news, so, um.
+We have done multiple site
+visits over the last years,
+seeing sort of the iterations
+being built out at the Gateway
+Center and right now it's, it's
+great. They've got a lot of uh
+contractors in there, the
+medical respite is up and
+running when we went last summer
+to visit the medical respite.
+Was like barely being
+constructed. I was amazed when
+we went like a month ago, yeah,
+but it's like it's totally up
+and running. It has all kinds of
+clients. So yeah, they, they got
+it done quickly. So, um, there
+are multiple contractors doing
+um uh multiple medical respite
+there with 50 beds that have
+served 48 people in FY 25.
+They have now a first responder
+area to drop off people
+overnight and connect them to
+services, so this is like when
+you get people, you pick them up
+on the street at 23 o'clock in
+the morning. What do you do? So
+they can bring them in now in
+this setting and you're not
+incarcerated and bring them into
+this setting and then also
+connect them to services. Next,
+there's the 50 bed medical
+sobering unit, um, and again
+they come in, they get sober,
+they get treatment and they get
+connected to services.
+There's a family location you
+ask about children all the time,
+rightfully, and so there's this
+family location which is in a
+separate location from Gateway.
+They're not commingling the
+populations there. So, um, it
+serves 64 families, um, it can
+serve 64 families at a time and
+it's served 827 people and FY 25
+and fiscal year 25.
+They have the expanded, this is
+just the expansion. They had the
+previous pallet helms, they
+expanded with an additional 46
+recovery palate homes and those
+allow you to go for 2 years.
+To do, um, substance use
+disorder services, so you can't
+just be in these pallet homes
+and just live there. These ones
+are actually dedicated to SUD
+and you're getting services and
+you, you have to participate in
+programming.
+And then, um, lastly, the, the,
+the big.
+Shelter is Gateway West and
+that's our state's largest
+shelter and, um, they, they say
+can serve 660 people per night,
+and they've had, you know,
+upwards of 3400 people served in
+FO 25. However, when we've gone
+to do site visits and all.
+Multiple times, especially in
+the winter, what are you gonna
+do? They've had more than like
+800 people there. So 7 to 800
+people on a given night in the
+winter at Gateway West. Just
+think of that unhoused
+individuals in our state.
+So those are the numbers that we
+are looking at.
+Um, slide number 11.
+There's also housing forward
+Albuquerque. They um added 5000,
+this is housing, so they've
+added 5000 housing units that
+they have built and developed
+with the city and with other
+partners, um, the initiatives
+have included
+3, they're trying to address the
+13,000 to the 28,000 units that
+are needed in Albuquerque, of
+course, including low income, so
+there have been two big
+initiatives that yes.
+Housing Incorporated, which is
+working on two projects which
+I'm sure you've heard about, and
+one is the um Calle Cuerta in
+the North Valley, which is 60
+living units, um, and it's 4
+live live and work units for
+retail units 21 town homes, and
+it's available for uh renters
+making below 80% of the area
+median income, and there's also
+the West Mesa ridges, um,
+development which um was cost 43
+million.
+and it's um funded partially
+with housing forward
+Albuquerque, the 8 million and
+then other partners, and that
+adds 1281 to 3 bedroom units,
+and it's for people making at
+60% of the area median income,
+so you see this is above the
+extremely low um income
+households that we reported on
+earlier that we looked at the
+comparative region, so this goes
+all the way up to 80%.
+So that's some of the housing
+developments and then just
+wanted to touch on one other uh
+for Albuquerque and uh slide 12.
+This is the soul housing
+partnership with the Greater
+Albuquerque Housing Partnership,
+um, and this was funded with 6.1
+million in HUD funds and some
+ARPA funds, um, for 70 units,
+um, Somos, and these are mixed
+again, they're mixed use,
+they're housing and commercial
+space, and they're dedicating 59
+of these units for affordable
+housing, and then there was the
+3 million and ARPA funds left
+over ARPA funds dedicated for
+the fatal.
+those senior community housing
+which will have 82 units, and
+that's for all income levels. So
+that's just a kind of a brief
+snapshot of Albuquerque.
+Madam Chair, if you go to slide
+13, I have just one slide here
+on Burnleyo County.
+And infern Leo County.
+Which you take the larger.
+larger region they've
+experienced 100% increase in
+unhoused individuals from 2022
+to 2024. So that's kind of
+another startling statistic, you
+know, exponential growth really,
+um, so, um, they, they're
+working along with City of
+Albuquerque to try and move 1000
+people off the streets and into
+housing, that's their targeted,
+um, uh, kind of benchmark and so
+Berlingo County has Ber Bernco
+builds communities initiative.
+Which is looking at affordable
+housing and also doing
+expansions and renovations and
+transitional housing, and then
+as Emily mentioned with the
+funding that was in House Bill
+2.
+I'm Berlio County actually
+requested a large, they, they're
+targeting 150 million and it's
+um looking to fund, get that
+funding for 2,038 residents and
+transitional housing for 1050
+residents. So, um, the
+legislature will be seeing, I
+think, uh, of course, more
+requests for housing as we move
+forward into FY 26, um, and then
+another, um, just more recent
+thing is the renovation of the
+Wells Fargo Tower.
+Um, this is actually Burnleyo
+County and um they uh approved
+$35 million in project project
+revenue bond, um, and they're,
+um, get using federal and state
+tax credits to basically kind of
+retrofit, redo that and to um 61
+bedroom and 42 bedroom units, so
+that's just pretty much right in
+the heart of Albuquerque.
+So those are the initiatives
+that um we highlighted it
+highlighted on Burleyo Can. So
+if you go to slide 14, Madam
+Chair, members of the committee.
+Let's look at a little across
+the state.
+So, um, the federal government
+offers low income housing
+vouchers and housing tax credits
+through again, Housing New
+Mexico and housing in Moscow MFA
+so you can get there's multiple
+paths here.
+Housing development tax credits
+vouchers. So in the past
+decades, um.
+I think New Mexico, these are
+their statistics about what
+they've accomplished, so I
+thought I'd highlight this.
+They've preserved or built
+61,730 homes. They provided
+rental assistance for over
+122,000 people. They've um
+diverted people from
+homelessness, um, to the tune of
+about 20,309,000 people.
+Uh, housing New Mexico or MFA
+mortgage Finance Authority
+launched this recently, this is
+recent, the statewide landlord
+incentive program and with this
+they're partnering with the
+healthcare authority, the state
+department, the healthcare
+authority, to increase rental
+units by offering landlords,
+$12,500 per unit per occupancy.
+So as you're cycling through
+people, you can get it repeat
+times, um, to
+step for landlords to offset the
+cost for them participating in
+voucher rental programs, so what
+they can do with the funding,
+the landlords is um, if you're
+accepting people who have
+vouchers because as you know,
+many landlords don't want to
+take HUD vouchers and all, so
+there this is an incentive
+program to get landlords to do
+that, so per unit per renter,
+you can get this 12,500 and you
+can um basically.
+Fix up your rental unit. So if
+maybe someone.
+Punches a hole in the wall or
+whatever, you can use some of
+this money, that's what it's for
+to to to fix up the rental
+units,
+to me that seems like a perverse
+incentive if you get $12,500
+every time you have a new
+renter, um, that seems like an
+invitation to evict people. Is
+there anything um to prevent
+that.
+Um, Madam Chair, I think you
+have to, there's criteria to all
+of this and it and it is
+targeted, you have to have
+mitigation to the unit, so it's
+not just to.
+you know, pocket the cash in
+your pocket, so you have to show
+that you are gonna do
+rehabilitation, you know,
+building rehabilitation.
+Thank you. Sorry to interrupt.
+No, that's fine. And then, uh,
+madam too, the last thing on
+here is a a new initiative that
+they're doing, which is called
+the Zero Inter Homebuilder
+program. So this is yet another
+thing they're trying to do, to
+try and build up our stock of
+housing.
+So, uh, these are just some of
+the initiatives through mortgage
+finance authority.
+So that's slide 14. So, um,
+Madam chair now to kind of look
+at some of those.
+State state departments and all
+on slide.
+Uh, 15.
+The healthcare authority and
+it's using opioid funds, and
+they've directed 2 million of
+those to a new program called
+um, Fresh Start Rental
+Assistance, so you know, this is
+tied, it has to be tied to
+opioid and substance use
+disorder, people with that, but
+that people who experience that,
+but this is a new rental
+assistance program.
+Um, here are some of the
+providers we just listed them
+out for you can read those and
+you can see they're across the
+state, you'll recognize some of
+these providers in your own
+individual communities.
+And what this does, it provides
+up to $10,000 for moving or
+rental assistance, eviction
+prevention, um, due to, due to
+opiate use and then it targets
+at 60% of the area median income
+and in FY 25 they served 113
+people. So that's some of the
+state's opioid use dollars, um,
+being, uh, deployed.
+Um, for slide 16 madam chair,
+something that you all talk a
+lot about and and ask a lot
+about is uh the justice involved
+population, people who are
+incarcerated or jailed and um
+the healthcare authority is
+working with um a $2.5 million
+special appropriation to.
+Do a re-entry support pilot
+program, uh, for people who are
+incarcerated and to help them
+not only get.
+Their medications and all you've
+been hearing about that it's uh
+60 days prior to release, but
+also to help them with housing
+and uh wraparound services.
+Uh, HCA is also collaborating
+with the corrections department
+to work on uh uh focusing on
+these um uh housing services for
+individuals with serious mental
+illness, histories of sexual
+offenses and geriatric parole as
+well, which we don't often hear
+about, um, and these efforts,
+this project is, uh, they're
+focused on Berlio, Donana, and
+Sierra counties, and so far 200
+clients have been served and I
+just want to do uh
+a note here, Madam Chair, um.
+You maybe don't always hear
+about community corrections, so
+within the corrections
+department there's a program
+called Community Corrections. It
+gets 100% general fund and helps
+expands on these initiatives. So
+that has existed long before
+Medicaid eligibility. We just
+got approval for that for
+incarcerated individuals. So
+we've been funding.
+General fund directly to
+To, on top of the, the medical
+contract that we find all at
+corrections. We also have this
+community corrections to try and
+bridge these services for people
+who are paroled and released. So
+just wanted to to.
+Make note of that as well.
+And
+Just have a few more. I'm trying
+to kind of go through these
+quickly. I know it's a lot of
+information, so Madam Chair, um,
+the last slides here, I'll try
+not to go through all the
+detail. Slide 17 lists some of
+some of your favorites that you
+ask questions about a lot, so I
+wanted to include sort of
+multiple years of funding and
+numbers of people served and you
+can look at this on your own,
+but the program's highlighted
+here on slide 17 are the
+emergency homeless assistance
+program.
+The rapid rehousing, um,
+homeless prevention program, the
+The home, this was funded
+through ARPA, the home
+supportive, um, supportive
+services program linkages, uh,
+linkages program which is housed
+out of the healthcare authority,
+the behavioral health Services
+division. Again, for a lot of
+people don't always understand
+languages uh real quickly.
+Linkages doesn't have all the
+requirements that all the HUD
+voucher programs require for
+Section 8 HUD vouchers, you have
+to meet a lot more requirements
+and it's limited where you could
+use those vouchers.
+For the linkages program, it's
+100% state funded general fund
+and we have a lot less strings
+attached, so if you are, they
+call it precariously housed, so
+if you are couch surfing.
+Or doing something like that,
+you know, you're.
+Camping out on your friend's
+couch for a while versus, uh,
+you know, just totally unhoused,
+you can still get rental
+assistance through linkages if
+you're couch surfing, so it's
+with HUD, Section 8 vouchers you
+could not qualify, so that gives
+you a real life example, um, and
+then the other programs here are
+the youth, uh, homelessness
+demonstration project and the
+continuum of care. So the
+program descriptions are
+provided here, funding over
+years and the numbers served. I
+won't go into the details.
+That
+So that's slide 17, slide 18.
+Is um the mortgage Finance
+Authority Housing New Mexico,
+their permanent supportive
+housing, so we look across the
+state here at some of the
+different projects from Dona
+Anna to Grant County to Socorro
+County to Santa Fe, and you see
+that there's been 299 units
+supported and um the cost here
+62 million and then, you know,
+the contributions from other
+local providers, so that gives
+you a snapshot of a permanent.
+supportive housing site 18,
+slide 19, transitional housing.
+These are all variations on the
+theme, right? So transitional
+housing and housing innovation
+programs. There are, um,
+4 major programs here with up to
+108 units being supported, uh,
+you see the names here and this
+is over at a cost of over $3.5
+million. So, uh, yet another
+array of programs with, uh,
+different types of services and
+different types of requirements
+to qualify.
+On slide 20 and 21, Madam Chair,
+these are the last two slides
+before questions.
+We have another entity in the
+state, of course, that helps
+with housing that not MFA
+mortgage Finance Authority, but
+NMFA, the New Mexico Finance
+Authority.
+So Ina and Fay also does
+housing.
+So again, see so many places
+where we're touching on housing,
+corrections, healthcare
+authority, you know, uh, MFA,
+uh, you know, all over. So, um,
+the New Mexico Finance Authority
+and MFA, um, the 2024
+legislature passed and the
+governor signed House Bill 195.
+I'm sure y'all remember it and
+it authorized the the existing
+opportunity, enterprise and
+housing development program and
+it expanded it.
+And it funded 125 million
+administered through NMA to help
+families that do not ordinarily
+qualify for traditional
+affordable housing. So the
+housing it created the housing
+development revolving loan fund
+and it builds on the work of the
+opportunity enterprise program
+to address the state's housing
+shortage for workers, workforce,
+one of, one of our favorite
+issues here, right? Workforce.
+Um, prioritizing communities
+where local governments are
+seeking to reducing housing
+barriers to help with workforce,
+helping to recruit.
+Teachers, you know, when
+teachers can't find housing in
+Cuba to help um in house.
+There's one for uh Holy Cross
+Hospital because there's not
+affordable housing in Taos, you
+know, that's a tourist bill,
+right? So, um, yeah, so that's
+what that this initiative is, is
+focused on, so the NMFA they
+approved housing loans for 4
+housing developments and one
+commercial project through this
+um this new program.
+and the loans carry a 4.5%
+interest rate. So on slide 21,
+those projects were again,
+there's a 125 million and this
+um housing development revolving
+loan fund and the projects that
+were funded were 6.3 million for
+an 80 unit workforce housing
+project in Taos, and it's
+estimated to cost 26 million $4
+million was funded for a 40 unit
+workforce housing rental complex
+in Albuquerque.
+The rentals will be restricted
+to New Mexico residents making
+between 61 and 120% of Aryan
+median income. There's 15
+million for an 80 unit workforce
+development in Alamogordo near
+Holleman and 3.6 million for an
+11 unit multi-family infill
+development in Santa Fe with
+rents below market rates in
+Santa Fe, which that's golden,
+right? And then, um,
+And then lastly, 4.6 million for
+a 50 unit office and warehouse
+development in Albuquerque, so
+that still leaves um right now
+unless there's some projects in
+the pipeline which I don't know
+about, which may be the case,
+but still 90 million in this
+again re revolving loan fund
+that was created out of New
+Mexico Finance Authority, so
+Madam Chair, that was a lot of
+information, but I think that
+gives you an idea of all that
+we're trying to do, and it takes
+all of all of this, right? It
+housing is tough, so.
+uh, gives you an idea of what
+we're doing all around the state
+and kind of how we compare with
+our region and we'd be happy to
+answer questions.
+Thank you, Ruben.
+And
+Emily.
+How do you spell your last name,
+Emily?
+Hello.
+Hello. OK.
+OK, so we will start with
+Representative Roel Caballero.
+Thank you, Madam Chair. I'm not.
+Getting set up here.
+OK, thank you. This was a lot of
+information and, and uh I do sit
+on the mortgage finance
+Authority, so this is hearing it
+again, but I still feel that I
+need to, for the record, ask a
+couple of questions, um, to
+dispel some um misinformation or
+misconceptions.
+First question.
+Do any of our
+Housing, um,
+programs
+Serve those that are
+non-citizens.
+Madam Chair Representative Royba
+Caviero. I actually don't know
+the answer to that. I'm not
+sure.
+Madam Chair, and um
+Uh, may I call you Ruby?
+That's how I know you, um.
+I asked the question because
+these are federal money,
+subsidized monies for the most
+part because how HUD moneys are
+federal monies.
+And I understand that.
+a non-citizen cannot.
+Receive federal.
+Benefits in terms of social
+services, in terms of Medicaid
+in terms of any of that, is
+that, do you, you're not
+familiar with that provision.
+Um, Madam Chair, representative,
+I am very familiar with Medicaid
+and.
+previous, we do have certain
+components of Medicaid that um
+non-US citizens like, you know,
+emergency OBGYN, that sort of
+thing, but in regards of
+housing, I don't know the
+answer. Thank you. I, I just
+wanted to, again, I
+I, we get criticized over and
+over and over again that
+immigrants are using our um
+social services or housing
+services or medical services,
+all of our services, so, um, I,
+I'll, uh, I'll move on from that
+question since um
+I think it's similar to, to
+other types of services. I know
+emergency room and hospitals
+cannot deny emergency care, that
+part I understand, and so, but
+I'll move on from that. So my
+question, another question I
+have is on affordability.
+What exactly or how do we
+exactly measure affordability.
+So I see that there's a lot of
+funds that are going forward and
+I ask these questions in
+mortgage finance also and I
+don't seem to get
+Quite a
+The answers, um
+To the questions, but how do we
+or does your office at all look
+at
+The charts and um.
+The whole affordability factors
+that go into making these
+requests affordable.
+Um, Madam Chair Representative
+R Caballero, the, the housing
+depends on the different
+developments. That's kind of why
+we tried to highlight it
+throughout the slides here. So
+some have, it can just depend.
+Some are the extremely low
+income, which is that 30% of
+average median income somewhere
+up to 120%, so it, it just
+depends on the different
+initiative and to answer your
+question, I was just given help
+here from um the director of
+housing at uh.
+Labor Health Services Division
+and she noted that if we use
+100% state funds, so I think
+it's exactly to your point. So
+if we use 100% state funds like
+in the linkages programs, then
+we can help people who um are
+non-citizens, but if it's
+federal funds, we cannot. Thank
+you and I just needed that, uh,
+Madam Chair, to go on the record
+just to dispel some, some uh
+Um
+Uninformed individuals. Thank
+you, Madam Chair. Thank you,
+Representative Herndon, uh.

@@ -1,0 +1,5265 @@
+Senator Padilla, go ahead and
+proceed.
+Madam Chair.
+Yes. Can I just thank the staff
+publicly, uh, for what they did
+to me this morning. Sure, go
+ahead to to you or for you?
+Oh, they're gonna do it to you
+tomorrow. You can do
+it
+you can see what they did.
+Oh
+yes, you're, because clearly
+Senator Block, you don't drink
+nearly enough coffee. You are.
+We were just saying.
+All right, Senator Padilla, go
+ahead. Thank you very much,
+Madam Chair and Madam, Mr. Vice
+Chair and, and uh ranking member
+and members of the committee,
+um, Senator Michael Padilla, and
+I have uh Raja Sambandin, and he
+is our chief information
+security officer CISO and uh
+we're here before you with the
+committee substitute Senate
+Rules Committee substitute for
+Senate Bill 254, as you know,
+um, I was fortunate enough to
+sponsor the legislation that
+created the Office of
+Cybersecurity a couple of years
+ago. We've, we, uh, have to come
+back every year, it seems, and
+continue.
+to clarify the function
+responsibility, etc. of that
+office, but the, uh, essentially
+what we're doing here is we're
+having a name change to the
+cybersecurity office, um, to
+Office of Cybersecurity, you
+know, that's very important so
+it aligns with federal issues
+related to this topic, um, the
+things that we're addressing are
+state cybersecurity, the state
+cybersecurity Committee and how
+it's set up and who actually
+serves on it. We do have some
+overlap issues that were, uh,
+uh, sorting out with the
+substitute, the work, not
+sorting out, but they're sorting
+out in the substitute, so.
+That that's taken care of, uh,
+the work of the committee is
+really duplicative at times and
+this actually leads to
+redundancy, and we have uh wind
+up having issues there. Uh, the
+solution that we've come up with
+is is that the state uh CISO
+will become a voting member and
+um and the governor's 4
+appointees will have much more
+focused roles on this committee.
+Um, we're empowering
+cybersecurity control by passing
+this piece of legislation to
+complement when we created the
+office by expanding its
+authority a bit, uh, the use of
+the state um network and then a
+of policy application to just
+further uh flush this out for
+all of these departments. But
+why this matters is that we need
+consistency in terms of how we
+and and what we call things here
+in New Mexico, so they aligned
+with federal standards, um, and
+then also, um, where they sit
+within the Department of
+Information Technology,
+substitute itself, Madam Chair,
+um, I don't know if you want to
+act on that. Do you want me to
+explain it, do you want me to or
+the changes or would you like me
+to go through the explanation
+now.
+Stewart.
+Um, Madam Chair, I move that do
+not pass on 254 and for purposes
+of discussion, they do pass on
+the committee's substitute
+purposes of how to do that.
+Just discussion.
+Thank you, Madam Chair and thank
+you, madam uh Proton, uh, but so
+essentially the substitute that
+is before you today on page 2,
+beginning on line 25, and I have
+3 things I'll call out that and
+why we had to do the substitute,
+and, and by the way, thank you,
+Madam Chair, for some of your,
+uh, feedback early on with this
+and, and we've we've blended
+that into the document. Uh, the
+substitute adds a definition of
+state operated or state-owned
+telecommunication network, uh,
+the definition refers to an IT
+network controlled by our do it,
+our Department of Information
+Technology. This change was
+added at the request of Obey.
+Who I think are in the room and
+can signify that as well to
+clarify that um
+The Office of Cybersecurity has
+no direct regulatory authority
+over IT networks that are wholly
+independent of the do it uh
+network, such as our SEN and I'm
+gonna ask the uh CISO to define
+SCN at some point, ASAP, um,
+this change also addresses uh uh
+the administrative offices of
+the court's request that it be
+responsible for cybersecurity
+for a judicial network that that
+is wholly independent of any IT
+network as well, which was the
+original concern we had when we
+created the office, some of you
+that were here at the time may
+remember.
+The second change and requiring
+the substitute is beginning on
+page 6, beginning on line 24,
+the substitute restores, and
+this was some of your feedback,
+Madam Chair. It restores, uh,
+the director of LCS is a
+specified member of this
+committee, very important to all
+of us. And then on page 7,
+beginning on line 14, uh, to
+qualify for current federal
+cybersecurity grant funding. The
+committee must be comprised of
+certain stakeholders because uh
+the current federal requirements
+may change, the substitute will
+allow the governor to appoint
+members that will ensure the
+committee is compos.
+most of the members to ensure
+that we are seeing the dollars
+and the funding and the
+alignment that we need. That's
+essentially the substitute, and
+I do have a Raja Sabandden here
+our chief information security
+officer is my expert today.
+Thank you. Thank you, Senator.
+Did you want to say anything?
+Thank you, Chair, and thank you
+members of the committee, um,
+first and foremost, I wanna, um,
+thank you, uh, this body and the
+legislative body and the
+administration for supporting
+the cybersecurity effort in the
+last few years, ever since the
+office was created, we have
+grown significantly. We are not
+only supporting 76 executive
+branch agencies, but on a
+voluntary basis, we are
+supporting 189 school districts.
+Um, 31 higher educational
+institutions in various
+locations within the state, um,
+the local governments.
+Um, specifically municipalities
+and the counties and um we are
+also actively getting engaged
+with the Environment department
+to secure our water and
+wastewater authority.
+Information systems, typically
+they are associated with the
+industrial control system to
+open the gates, close the gates,
+things of that nature. So, they
+are very much lacking and we are
+here to help them.
+Thank you.
+Thank you. We don't have anyone
+signed up in opposition or
+support of this bill. So I'm
+gonna, uh, if folks want to
+raise their hand to indicate
+support, go ahead and do so.
+All right, see you for folks.
+Does anyone want to raise their
+hand to indicate opposition.
+I see that one raising their
+hand for both opposition and
+support.
+All right.
+OK. Um, and, and the, the
+procedures of this committee is
+you, you have to sign up an hour
+ahead of time, uh, if you want
+to want to provide comment.
+So, um, we will go to members of
+the committee, Senator Townsend,
+I have you first on the list.
+Thank you, Madam Chair. Uh,
+thank you, Senator.
+Um
+Senate Bill 254 that you're
+presenting this morning has some
+interesting fiscal.
+Implication statements that I'm
+not, are you aware of that? Have
+you read the fiscal impact
+report? Uh, yes, I have.
+Senator.
+The
+It starts out talking about the
+per diem and Mileage A and the
+differences there.
+I'm sorry, Madam Chair, can you
+repeat that? I'm sorry.
+It, it starts out talking about
+the
+and mileage Act under fiscal
+implications in the $45.
+To.
+The differences in rates. Have
+you, have you read that?
+And who?
+What's the applicability to
+Uh, of, of that to legislators
+or to
+Only to state employees exactly.
+Who is, who is, um,
+Who is affected.
+A mountain chair and senator,
+that's the committee that's
+established to oversee the
+Office of Cybersecurity, but I'm
+gonna ask the CISO. Thank you,
+Chair and members of the
+committee. Thank you, Senator,
+for the question. So, uh, that
+perim will apply to
+Advisory committee members who
+are physically present for an
+advisory committee meeting.
+And so far, I don't think we
+have hit anywhere that threshold
+because we have been holding
+those meetings in
+Um, collaborative software such
+as Teams or Zoom and things of
+that nature.
+And Madam Chair and Senator, I'm
+also a member of this committee
+as well. I, I believe my time on
+the committee will roll off of
+the committee in about 6 or so
+months. We've never had an
+in-person meeting.
+Well, I appreciate that and I
+appreciate what you, what you do
+for that. I'm trying to, it is
+this new language that has never
+Be utilized before or is that
+currently used throughout the
+state
+Senator, you are correct. That's
+for, for, for committees,
+commissions, etc. of this
+purpose. That's the language
+that's used.
+Today.
+Oh we learned something new
+every day around here. I wasn't
+aware of that.
+Um
+lady
+Madam Chair
+Old habits from the house just
+keep hanging on.
+Madam Chair.
+A senator.
+Is industry supporting this
+initiative?
+Um, Madam Chair, Senator, yes,
+um.
+Wouldn't say that I have gone
+out and performed a.
+Survey or whatever, but you did
+see some folks that that our
+industry that are in the room.
+We also had the, have the office
+of Broadband Access and
+expansion, which I also created,
+and they spoke and said we
+worked with them as this was
+coming together to make sure
+that it jive with everything
+that they're up to as well.
+armchair.
+Thank you. Thank you. Senator
+harm you.
+Thank you, Madam Chair, Senator.
+I just have one question on page
+6, which is line 15, it's D. It
+reads and this is breaking down
+the makeup of the um.
+Of the appointed members of this
+committee, and Dee reads a
+private sector cybersecurity
+expert or employed by a business
+offering cybersecurity services.
+Would Los Alamos National
+Laboratory fit into this, as you
+know I represent Los Alamos. We
+have so many international
+experts on cybersecurity would
+an appointee be able to fall
+under D?
+Vice chair, yes, uh, I at at at
+first hearing what you just
+said, but take me to the page
+line one more time. I want to
+make sure I'm on the right
+point. Page 6 of 15 and it's
+letter D, which reads a private
+sector cybersecurity expert or
+employed by a business offering
+cybersecurity services. So the
+laboratory isn't a business and
+isn't part of the private
+sector. But I think in this
+area, if they're I don't know if
+they're I don't think.
+I think you're looking at. Oh,
+I'm, I'm not on the, OK.
+And so we did that Madam Chair
+and Mr. Vice Chair for the sub.
+And that is fixed on, I'm gonna
+ask my expert here to take me
+right um.
+So it, it's fixed on page 7,
+line number 4 starts at line
+number 4. Very good. So that
+would then cover the laboratory
+if she so chooses. Sorry that I
+wasn't on the sub. It's way too
+early. I think I need a coffee
+pot in my area. No further
+questions, Madam Chair. Thank
+you, Madam Chair and Mr. Vice.
+I have Senator Block next on my
+list, but I just found out that
+this side of the table didn't
+get a copy of the sub, so.
+Just pause for a beat. We, I
+apologize for that.
+I'm sure while we wait.
+I just wanted to advise you guys
+I I reviewed your um analysis
+that's going around.
+Well, I'm sure we're gonna
+conquer the world's greatest
+cyber hacks, um, 3rd grade, uh,
+spelling that matters too. And
+so there's a lot of spelling
+errors in here, including the
+name of your office. It's O F F
+I C E.
+But in the swelling areas, you
+may wanna update that cause the
+actual title of what we're
+changing it to is incorrect.
+OK
+Madam chair.
+can
+Yes, sir, I, I, I just want to
+make sure everyone has the sub.
+Be my, my questions are a little
+bit different if you don't mind
+if I proceed. Go ahead. Thank
+you, Madam Chair. Senator
+Padilla, um,
+First of all, I appreciate the
+meme you did on me, that was
+pretty funny, so going out to
+27,000 people tonight.
+Thank you, my friend. I
+appreciate that. Um.
+Madam chair and I'm sorry, sir,
+can I get your, your name, Mr.
+White?
+Thank you, Chair and members of
+the committee, Senator, my name
+is Rades I've been.
+And chief information security
+officer.
+OK. Thank you, sir. A little
+hard of hearing, so I apologize.
+Um.
+Madam Chair, um, sir.
+How much, so, let me ask it this
+way.
+Does this bill strengthen
+Our state cyber defenses.
+Chair and members of the
+committee and senator, yes, the
+answer is yes. Yes, OK.
+So
+I, I just wanna put, cause I, I
+would hope that would be the
+answer, um, Madam Chair and sir.
+Uh, do you have this piece of
+paper in front of you?
+Can, can we get that piece of
+paper, Senator, this is our,
+that's our committee analysis,
+so our analysis.
+One of the, there's two
+significant issues.
+And the uh SB 254 sub, it says
+in the 2nd 1, says, um,
+Sub also eliminates state
+qualifications for the
+governor's appointees requiring
+now.
+Those appointees should satisfy
+any federal or state
+cybersecurity grant funding
+requirements.
+Responsibility for this would
+fall upon the governor in
+consultation with the Secretary
+of Secretary of Information
+Technology.
+And the state Chief Information
+Security Officer, I believe
+that's you, correct?
+OK. Thank you, sir. Thank you,
+Madam Chair. So when we're,
+what, what state qualifications
+were we eliminating because in
+the sub here.
+The one word that comes out that
+I see in here that is really
+troublesome to me.
+And when I read the bill,
+was the word minimum.
+It was on, on this, and I hope I
+have this right, uh, the bottom
+of page 3, line 25.
+For the Office of Cybersecurity.
+Created cybersecurity officer
+duties and powers, that's
+Section 2.
+And then number 2,
+Under section B.
+It says develop minimum
+cybersecurity controls.
+Managing and protecting
+information technology assets
+and infrastructures for all
+entities that are connected to a
+state operated.
+state-owned telecommunications
+network. Why would we put the
+word minimum instead of why not
+just say robust.
+Uh, Madam Chair, and, um,
+Senator Block, I, I
+at this a little bit, and I
+think the word robust would be
+very difficult to define, that's
+one reason. Second, the, the
+word minimum is, these are
+extremely high standards to
+begin with or controls, if you
+will, so we just want you to, if
+you meet these minimums, you're,
+you're good to to conduct a
+transaction with the state of
+New Mexico. If you don't, and
+you don't get to pass go and
+you'd get to come in the barn or
+out of the barn. That's why we
+want these minimum set of
+standards, um, I've never seen
+the word rope, I've tried to put
+the word robust. Boy have I
+gotten feed?
+back on that before. So that,
+that's one of the reasons. OK.
+All right. Thank you, Senator.
+Thank you, Madam Chair. Then.
+Why not
+Ensure, why not just say, ensure
+we
+We develop
+Controls meeting cybersecurity
+requirements.
+Why don't we just say that?
+Because you just said we're
+trying to meet the requirement,
+what saying minimum, why not
+just say developed cybersecurity
+controls meeting.
+Required
+Uh, cybersecurity measures for
+managing and protecting
+information technology, Madam
+Chair and Senator Block, I think
+that might be another way of
+saying it. I think we're both
+saying the same thing, and I
+think that that minimum will
+change over time. And that's why
+we wanted the word minimum to
+meet these minimum set of
+standards as set by this office.
+I, I think you're saying the
+same thing in in in another
+fashion. Well, I I don't, I
+would respectfully disagree,
+sir, and Madam Chair, because we
+want to meet the requirements.
+That's, that's a word that is a
+strong word when we're talking
+cybersecurity, that's a word
+that I know very well.
+Developing requirements.
+stringent requirements, uh, in
+my line of work. When we say
+minimum, it just doesn't give me
+a warm fuzzy, um, and we can.
+Talk later on, on that one.
+Um
+Madam Chair,
+Sir, do you know how much?
+Cyber hacking, um, has caused,
+New Mexico.
+Uh, Madam Chair and Senator, I'm
+gonna let the, I'm gonna ask the
+CISO to to mention or to discuss
+that, but I will tell you that
+we have had in my time in the
+legislature, uh, the largest
+school district, um,
+Albuquerque, the 2nd largest
+school district, the 3rd largest
+school district.
+The regulation and licensing
+department.
+The Office of the Superintendent
+of Insurance.
+And, um, city of Albuquerque,
+the county of Bernalillo, that
+I'm, and those are just the ones
+that I'm aware of. I'm sure
+there are others that the chief
+information security officer can
+discuss, but
+It is, it is very difficult to
+put a dollar figure on it, but I
+will tell you it has been more
+than we're able to stomach, and
+that's why we wanted to do this
+100%, sir, Madam Chair,
+Highlands University was also
+one of those that uh.
+I had some serious issues as
+well, uh, Rio Rancho has had
+some issues in Sandoval County
+got the county government too.
+Um, you know, globally, it's $8
+trillion.
+$8 trillion for cyber hacks.
+And one of the things that is
+near and dear to my heart, not
+just as a.
+A legislator here in in the
+great state of.
+New Mexico.
+But in my
+In my, uh
+private background, Madam Chair
+and sir as a
+As a former Air Force officer
+doing nuclear work, nuclear
+requirements, and as a
+consultant dealing with our
+nuclear systems and looking at
+gaps in vulnerabilities and
+trying to find the right skill
+set to those people.
+Uh, which leads me to my next
+question, uh how do you, sir?
+Um
+What types of cybersecurity
+certifications do you have,
+because when you look at some of
+these certifications.
+You have the certified
+information security manager,
+um, you have.
+Like
+You know, I, I'm looking at
+close to 2 dozen different
+cybersecure uh security
+certifications, and I know Los
+Alamos has a lot of them as
+well.
+Um, how many people are in your
+office doing cyber offensive and
+well, I don't know if you do
+offensive cyber operations, but
+defensive cyber operations. And
+Senator, we're we're getting off
+the point of the bill here. The
+bill deals with cybersecurity.
+This is really specific to this
+advisory council. So while,
+while it would be great to have
+a conversation about
+cybersecurity overall at some
+other time, you, you're, you're
+out of order if you're getting
+off the bill. So let's, let's
+stay on the bill.
+That talks about cybersecurity.
+Underlined here, which is
+Gravely important to the state,
+so I'm just curious if Senator,
+there's there's no question
+cybersecurity is important to
+the state. This bill is about
+the advisory committee.
+So, it's not about
+cybersecurity, generally in New
+Mexico, so you need just need to
+stay on on the bill.
+OK, well, thank you, Madam
+Chair, in, in the up on page 7.
+7
+We'll talk standards of
+cybersecurity.
+When it comes to the
+appointments, which is where I
+was going with this.
+Online
+14
+Section 7 there.
+In relation to cybersecurity
+standards, which this talks
+about.
+Uh, 4 members are appointed in
+all these appointment people.
+In consultation with the
+Secretary of Information
+Technology.
+And the state chief information
+security officer.
+Provided that these members
+individually, collectively shall
+enable the committee.
+To satisfy any federal or state
+cybersecurity grant funding
+requirements. Hence my question.
+What type of cybersecurity
+certifications or standards.
+Uh, do you have in your office
+at the
+Security officer.
+Madam grants.
+Madam Chair and Senator Block,
+you know, I have to agree with
+the chair on this one, actually,
+it's not about Mr. Sambandins or
+his staff's qualifications or
+certifications. It's about the
+committee that will be comprised
+of the advisory committee. So
+those advising and I want to get
+to your point, I, I hope I get
+to to where you're trying to get
+to, uh, at least I think, um,
+the members on this committee
+will need to have the
+certifications that are
+commensurate with what align us
+with the federal standards for
+cybersecurity and that.
+That's simply all this paragraph
+says.
+And so just to get a little
+further into the weeds and they
+would have to be a CIO or a CISO
+in order to serve in these 4
+positions here, you can't
+appoint someone that runs
+nothing wrong with the person
+who runs the coffee shop, but
+you're not gonna be able to be
+on this this advisory committee
+if you're running a.
+Coffee shop without a and it has
+not been a CIO or a CIO that's
+exactly the answer I was looking
+for. That's where I was getting
+to. Um, so because it is
+underlined here and it's new, so
+I appreciate that.
+And then.
+And I believe that strengthens
+our cybersecurity with this bill
+for the state, even though
+you're still going to get
+hacked.
+I can change that.
+So with that, I, I will support
+the bill 100%. I think you have
+a very difficult job.
+Because you're under attack.
+24 hours a day, 7 days a week,
+and I appreciate all the work
+that your office does. You get
+my complete support, sir.
+Thank you. Thank you, Madam
+Chair.
+Thank you. I don't have anyone
+else on the list.
+Uh, Senator, I appreciate you
+coming with this, uh, um, I just
+want to to make clear.
+The language on page 3 defining
+a state operator or state owned
+telecommunications network.
+This cover the, the judiciary.
+Um,
+so, Madam Chair, um, great
+question in the first iteration,
+we exempted them from this
+office's responsibility because
+they have their own protocols
+and their own things that they
+need to.
+And so are they
+So
+So Senator, are they still
+exempted because, cause they
+should be. They are still OK,
+all right, so the first of the
+creation of this office.
+OK, great. And so,
+So the telecommunication
+networks that are controlled,
+uh, that the judiciary's
+telecommunication networks are
+not controlled by the by do it,
+right? All right. Thank you.
+Thank you, I heard a concern
+about that. Um, otherwise, I, I
+appreciate you, you.
+Restoring the, the director of
+LCS, um,
+pardon? Yeah, and,
+and I think I like I think
+you're, your approach to
+Instead of listing out those
+qualifications for the governor
+appointments, I think this makes
+a lot of sense, the approach
+you're taking here. Um, I'll,
+I'll address, uh, an issue with
+Senator Block raised about the
+word minimum, and we see
+throughout that this, the
+minimum, there are minimum, the
+word minimum is is is existing
+language throughout this because
+you are setting the minimum
+thresholds for folks to meet,
+which means that they could do
+more if they wanted to. If this
+is not the minimum, then it
+would be, they would be capped
+at that. We, we want.
+I assume, Senator, the
+The reasoning is that if, if
+certain agencies or groups want
+to go beyond that minimum, they
+should, you'd want them to do
+that,
+do so thank you, madam.
+This was a huge debate back and
+forth when we created the
+office. We thought, well,
+there's probably 178 ways to get
+in and out of the state
+government, and if you leave
+that tiniest little bathroom
+window open that we kind of all
+had in our houses back in years
+ago, um, and, and the bad guys
+and gals get into the into the
+building, they're in there.
+But if you have that absolute
+minimum set of things, and we
+know for sure that the entire,
+even if someone does leave a
+window open that it's protected.
+Um
+Yeah, so I'll just stop there.
+OK, thank you. What is the will
+of the committee?
+But we do pass.
+All right. Well, I'm sorry, did
+you have a did you?
+Yes. So, so I think you, you
+move a do not pass on Senate
+Bill 254, and you move a do pass
+on the Senate Rules Committee
+sub or Senate Bill 2. All right.
+Uh, is there any opposition to
+that motion?
+See, please show all members
+present voting in the
+affirmative, and Senator, you
+have a due pass. Thank you.
+And Senator, you stay there, uh,
+Senator Trujillo, come on up.
+We're gonna go to Senate Bill
+42.
+We also have the, uh, cabinet
+secretary with us today as well.
+Yes, come on up.
+Chair members of the committee.
+Um, I'm here with uh Senator uh
+Trujillo, and she and I do
+these.
+Routines every couple of years
+together.
+And here we are again. And um I
+have a cabinet secretary Teresa
+Casados of the Children, Youth
+and Families Department. Uh,
+we're here on Senate Bill 42,
+the Comprehensive Addiction and
+Recovery Program Act, uh, the
+Act amends the state
+administered program for the uh
+federal uh comprehensive
+addiction and Recovery Act.
+In 2016, the intent of the CAA
+Act is to provide early
+intervention services for
+infants exposed to substances.
+In utero or in utero or at birth
+and their families uh substance
+exposed infants is a public
+health issue and a public health
+emergency right now, and best
+managed by the state's public
+health experts in the Department
+of Health, which is where this,
+uh, will, will reside, uh,
+currently, Kara is attached to
+HCA, however, HCA is not a
+service provider. The act
+creates care and navigators,
+professionals, uh, employed by
+the Department of Health, uh,
+to, uh, in, uh, to provide
+intensive case management, uh,
+linking families to resources.
+needed to support health and
+wellness within the family, and
+navigators collaborate with
+families, hospitals, community
+providers, and care provider,
+the coordinators from MCOs to
+optimize the services provided
+to the family. Um, I will say
+that uh we do have uh we have we
+have a we have a substitute, and
+I believe we gave that to you
+yesterday.
+Yes, and, so I will move the
+Senate Rules Committee
+substitute for Senate Bill 42
+for the purposes of discussion.
+Actually, I think I'm supposed
+to say one movie do not pass on
+Senate Bill 42 and move the
+Senate Rules Committee
+substitute for Senate rules
+first Senate bills 42 for
+purposes of discussion. Thank
+you, Madam Chair, and I'm just
+gonna ask my co-sponsor here to
+please walk us through some of
+the biggest changes in the in
+the sub versus the original
+bill.
+Thank you, Madam Chair. Thank
+you, members of the committee
+for allowing us to present this
+today as my um uh wonderful
+friend, senator to the right of
+me has said this is an
+emergency. This is an emergency
+in our state, and so what the
+substitute does, first I want to
+just give a little background on
+it. There is a House bill 205,
+that's already been introduced
+in the house, and yesterday I
+introduced Senate Bill 458,
+which is a very large
+comprehensive, um, amendments to
+uh CYFD and children and there's
+a portion of this substitute
+within that bill. If this bill
+passes and this committee, and I
+will likely pull it out of 458
+so that we don't have confusion.
+The difference with 458 is that
+458.
+Um, had the healthcare authority
+as the um agency instead of the
+Department of Health, and it
+didn't have, it doesn't have a
+mandate, um, that there be a
+plan of care, and so, however,
+HP 205 and Senate Bill 458 were
+endorsed by the LFC during the
+interim in the last month of the
+um interim, and so I introduced
+the bill trying to hold on to
+the fidelity of that, but
+recognize that the governor's
+move and the secretary's move
+and um my dear friend, uh
+Senator Padillaz moved to keep
+it at the Department of Health
+where it's been moved to is a
+much more reasonable, it just
+makes more sense. So with that,
+I just wanted
+to give you a little bit of
+background of how this all kind
+of came about. So the changes
+here, I'm not gonna walk through
+all of the changes that were in
+the old bill, but I'd like to
+just give you some, uh, you
+know, just a brief explanation
+of what this new substitute
+does. We have left out a lot of
+the detailed specificity about
+what the plan has to include
+because really most of that can
+be done in rule by the
+Department of Health and having
+those kinds of provisions where
+you're doing the implementation
+of what needs to be in the plan,
+how the plan needs to work.
+Unless you're just talking about
+the overall structure of it. The
+Department of Health should have
+the authority to nimbly change
+rules as they need to, to adjust
+to things that we learn. There's
+one thing that we all know,
+particularly if you've worked at
+a state agency, that sometimes
+the statute has unintended
+consequences that the
+legislature can't conceive of
+when legislation is being
+passed.
+So section one is definitions.
+And again, I just mentioned,
+this is just amendments to the
+Children's code. So this whole
+thing is amendments to the
+Children's code.
+Um, section one is some
+definitions.
+And it's a long section because
+we're not making much change to
+the definitions on page 6,
+you'll see that we're also
+adding in that the plan of safe
+care and we're changing it from
+plan of care to plan of safe
+care, um, also extends to
+individuals that to um or to
+provide prenatal or perinatal
+support for a pregnant person
+dealing with substance abuse
+disorder. So this makes it so
+that that plan of care.
+If uh a pregnant woman is at her
+doctor's office and, and there's
+there's the either the self, um,
+uh,
+Self-admitting. I'm trying to
+think of what the word for that
+would be, self-disclosure, thank
+you. Um, or whether or not they
+find it through blood tests or
+some other way.
+The plan of care can be the the
+structure of it and the support
+of it can be applied to those
+individuals too.
+We did add the word safe in
+several other locations as well
+just to make sure it all lines
+up.
+Thank you, thank you, I
+appreciate that. Um, so section
+2, Madam Chair, is really like
+the plan of safe care, right?
+This is, this is it. This is the
+plan.
+And it has, um, it includes
+guidelines for it, the creation
+of the plan, the data that we're
+gonna want to have collected and
+the training that's gonna be
+required.
+Um, again, most of what's
+included in this section are
+rules that the guidelines for
+the rules that are going to have
+to be adopted by the Department
+of Health. So you'll see um
+throughout that section, just
+look at the bottom of page 8,
+where it says rules that covers
+most of what we're gonna look
+at.
+So on page 9, it gives
+participation in the plan of
+safe care development process,
+which includes these um
+entities. It could be uh a
+medical visit. It could be prior
+to, um, uh, you know, the child
+being born, but it shall be
+completed. This is where it's
+mandatory, shall be completed
+prior to the substance exposed
+child's discharge from a
+hospital or birthing center.
+And then it goes on to say what
+that plan of care has to
+include.
+Again, there's not a lot that's
+been changed. There's some
+clarification here. Uh, you'll
+see in B lines 12, excuse me, I
+got a frog in my throat. 12
+through 18, really give an
+explanation of what that um
+Air coordinator would do, and
+you want that information to be
+part of rules instead of in
+statute, because we don't want
+it to be limited to that, and
+sometimes, um, you know, you can
+look at the law and you can say,
+well, this is limiting, this is
+all they have to do. We want
+them to do what needs to be
+done.
+Thank you.
+So the rules.
+On page 10 have to include a
+requirement that all hospitals.
+Birthing centers and prenatal
+care providers use the screening
+brief intervention and referral
+to treatment program at all
+prenatal or perinatal medical
+visits and live births.
+This makes it a requirement.
+This means that it has to be
+done at all points along the
+way.
+And I, I would, I would defer to
+the secretary when we're
+finished looking at this to
+answer any questions about what
+that tool looks like.
+On page 11, again, we're still
+talking about rules, so the
+requirements for the Department
+of Health.
+is to ensure that there is at
+least one care coordinator
+available at each birthing
+hospital in the state.
+One person at each hospital in
+the state.
+They have to ensure that all
+substance exposed children who
+have a plan of safe care,
+received care coordination to
+implement the plan of safe care,
+and they have to provide
+training. This is the Department
+of Health has to provide
+training to hospital staff.
+Birthing center staff and
+prenatal care providers on the
+screening.
+The brief intervention and
+referral to treatment programs.
+So paragraph 5 goes on to who is
+the agencies that need to be
+included in this process.
+This is the part that I really
+like. This is probably my most
+favorite sentence in the whole,
+um, in the whole bill. Line 13,
+page 12, it shall include home
+visitation programs. And we know
+from information reports that
+have been provided to the
+legislature that our home
+visiting programs are very
+successful when they're followed
+through on.
+Making them part of the Kara
+plan requires that they have to
+be followed through on. Now, the
+goal, and I think the secretary
+would, would, would agree to
+this, is that you want parents
+to volunteer for this. You truly
+want parents to be volunteers,
+but if they're not willing to
+volunteer and follow through
+with it, then our next
+protection is that we're, we
+need to protect.
+And so I would like it to be
+voluntary, but it can't always
+be voluntary.
+So, um, it and it has to include
+substance use disorder
+prevention and treatment
+providers, and then it may
+include that next list.
+Those are may include that next
+list. The first two are
+mandatory. Page 13.
+Implementation of plans of safe
+care.
+That shall include requirements
+for a care coordinator, and then
+it tells what the care
+coordinator basically has to do.
+Again, we want any further
+clarification to be part of
+roles.
+Look at the
+An attempt to make contact with
+persons who are not following
+the plan of safe care using
+multiple methods. I, I don't
+want to read the whole thing,
+but I just want to point out to
+you that the, the care plan is
+required before they leave the
+hospital, and if they're not
+following through with it and
+contact is absolutely necessary.
+And it's not just the person
+you'll see in that paragraph
+that it includes family members.
+This is the Department of Health
+trying to get as many um in that
+child's circle involved in this
+plan, so that multiple people at
+multiple points have the ability
+to help support the family, help
+make sure the child is safe and
+then to help find the child, if
+that's necessary because the
+plan's not being followed.
+On page 14, there's a
+requirement, and I think um I
+know in Senate Finance, this is
+something that everybody always
+looks for. I suspect Senate
+rules is the same. Um, this is
+the annual report. We want to
+have reports out. We want to
+know how this program is
+working, um, and the department
+of, uh, or I'm sorry, but the
+legislature will get those
+reports as well as other
+individuals. And the list below
+that is just the information
+that at a minimum.
+Um, we'd like to have available.
+Let's keep going. I wanna go
+over to section 3.
+This is the requirement um to
+notify CYFD.
+In the event that a plan of care
+is not complied with.
+At the point that the hair is
+the plan of care is not being
+complied with. That's when the
+Department of Health has the
+responsibility, um, I mean,
+there's a whole list of people
+there, a managed, uh, a Medicaid
+managed care coordination
+insurance plan coordinator.
+Anybody who's evolve in ensuring
+that that plan is followed, has
+a duty to report to CYFD when
+it's not followed.
+CYFD CYFD will um.
+Uh, then take up making
+determinations as to whether or
+not the child is in imminent
+harm, um, and then the
+department will do what they're
+supposed to do.
+Section 4 is simply amending the
+general duty to report child
+abuse. It's not necessarily
+specific to the plan of care.
+This is just the section that
+teachers and counselors and
+everybody has a duty. It says,
+who has a duty when you have a
+duty and why you have a duty to
+report, um, suspected child
+abuse or neglect.
+So
+Let's turn all the way to page
+2, and what I want to point out
+is that.
+We're not changing anything in
+the law that says look at
+paragraph G please. A finding
+that a pregnant woman is using
+or abusing drugs made pursuant
+to an interview.
+Self-report.
+Clinical observation or routine
+toxicology screen shall not
+alone.
+For a sufficient basis to report
+child abuse or neglect.
+to the department.
+That's CYFD pursuant to
+subsection A.
+Again, it goes on, we're not
+changing any of that.
+The, the, the drug finding in
+itself is not an indication that
+that child is being abused or
+neglected.
+But on page 21.
+We then do have the requirement
+that
+Um, the hospital.
+does have to notify the
+Department of Health.
+And I know you all were sent out
+a discussion draft yesterday.
+This is one place where I had to
+get the um drafter to change
+because it said department, and
+when you look at who the
+department is under that um part
+of the law, it's CYFD. We want
+the Department of Health to be
+notified when a care plan is
+provided. So I had to clarify
+that last night. It's in the
+substitute that you have right
+now that, that you may have
+noticed last night that it
+wasn't really clear um who was
+gonna get that report.
+It's the Department of Health
+that needs to be notified by the
+hospital, the care provider that
+a care plan has been
+implemented.
+And then the last thing is just
+section 5, which is the
+effective date, July 1st of
+2025.
+And, uh, Madam Chair, I will add
+for the committee also that uh
+Representative Armstrong, the
+minority house, uh, leader.
+House minority Leader, excuse
+me, did sign on as the um.
+As my my co-sponsor as well on
+this, and I'll ask the secretary
+to say a couple of words and
+then we'll work with whatever
+direction you, thank you,
+Senator, members of the
+committee. Good morning. Um,
+we've worked, you know,
+consistently on this carab bill
+since last year, as they said,
+it is a crisis, it's something
+that we're addressing at the
+department, we've made internal
+changes, um, specifically to the
+plan of care to change it to a
+plan of safe care to um ensure
+that we're really looking at
+services for individuals and not
+just supports.
+Reports are important for them,
+but that should not indicate how
+a child is gonna be kept safe
+when somebody just selects a
+support, so there's been work on
+that plan, um, as they said,
+they changed the name in the
+bill to be a plan of safe care,
+cause that's really what we're
+all trying to do is ensure the
+safety of that child. Um, and as
+you mentioned, we're working
+across with other um legislators
+on other bills, um.
+Senator Trujillo um mentioned
+House Bill 205. Um, there's also
+House Bill 343 and House Bill
+424 that have aspects of Kara in
+those, so we're working
+currently with those sponsors to
+see what are in those bills that
+are really important that we
+haven't covered in ours so that
+we can have one comprehensive
+bill, so there may be additional
+amendments or substitutions as
+we move forward. But I think the
+amendments that they've covered
+have really given it a very
+strong chance that we
+will be successful, that kids
+will be um taken care of, that
+they will be kept safe and that
+we will be providing treatment
+to families as we move forward
+through this process. So, um, I
+just want to say thank you for
+all of the work that's gone into
+it, to everybody who's working
+together for this and um I have,
+if there's any other additional
+questions specific to it, um,
+I'm available to answer those.
+So thank you.
+Thank you. Uh, we did not have
+anyone sign up in opposition or
+support members before we uh get
+started. I just want to note for
+you in your analysis at the very
+bottom of the first page, it,
+it's talking about a definition
+that was removed in the sub.
+So
+You, you can ignore that.
+That point that is being made
+there.
+Uh, that continues on to, to the
+other page because that
+definition is, is no longer in
+the, in the legislation that we
+have before us. Uh, first on the
+list, I have Senator Townsend.
+Thank you, Madam Chair. Um,
+S
+Is this enough?
+I mean, even today in the
+newspaper, we
+Read of a child in Carl's bed
+that was
+that died was buried in the
+backyard, um.
+and all again is involved.
+I look at statistics and we're
+spending about
+58 $60,000 per person.
+And I'm trying to figure out
+Is this enough? Are we doing? I
+know this is better than it is.
+I'm not arguing that point.
+My point is,
+It's just enough.
+Uh, thank you, Madam Chair and
+Senator, I, I.
+I don't think it's ever gonna be
+enough. But, you know, this is a
+scourge on our community and.
+I think this, but I do believe
+this is a move in the right
+direction. Well, um, Madam
+Chair, let me just
+What questions did I marked, um,
+On page 11, 8.
+It talks about at least one care
+coordinator is available at the
+furthering hospital in the
+state. What exactly does
+available mean?
+How often, where are they?
+24 hours a day.
+On the phone, what does that
+mean?
+Um, and secretary, if you would
+like to move to.
+Or maybe Senator Padilla can
+scoot over like you both have
+your own bushy mower, you'll
+know.
+And I'm sure, thank you, um,
+Senator Townsend, um, what that
+means is that the, the care
+coordinators that are in each
+hospital, those are separate
+from the department and the
+navigators that Department of
+Health will have to address this
+issue. Those are through the
+MCOs. So alongside the nurses in
+the hospital that are doing
+those assessments, the MCOs are
+required to have a care
+coordinator that is available to
+do this plan of safe care, so
+they may not necessarily be in
+that hospital 24.
+7, but they're available for
+that birth if there is an issue
+or a situation that arises where
+a child's screening comes back
+as positive, then they would be
+there to meet with the patient
+and work on that plan of safe
+care, um, and ensure that that
+gets completed prior to
+discharge.
+Madam Chair, secretary, Senator.
+Well
+Will there be any testing other
+than
+On the child.
+Well there, will there be any,
+what, what investigation, I
+mean, if you go on to page uh
+Um, 13 line 7. It talks about
+this implementation of the safe
+care plan will include the
+child's parents, relatives,
+guardians, family members,
+caregivers. How do we get there?
+I mean, there's so many.
+There, there's so many times
+that a child is put in danger,
+not
+Oh, not necessarily because of
+a, a guardian or a parent, it's,
+it's people, other people that
+are in the house. How do, how do
+we protect the child when we
+know there's
+I mean, when the
+When you get a test back that's
+positive.
+How do you screen
+Make sure that that child is
+protected.
+Um, Madam Chair, Senator
+Townsend, unfortunately, it
+would be impossible to touch and
+screen every person that touches
+that child life. That would be
+an ideal situation that would
+help to eliminate so many issues
+that we see in the state. Um,
+but initially the screening at
+the hospital would take place
+with anyone who is going to be
+going home with that child, so
+if the child is gonna be um
+going home with mom after a plan
+of safe care where they deem
+that there is somebody, say, a
+grandparent.
+Grandmother or an aunt that is
+gonna be taking responsibility
+to ensure the safety of that
+child, all of those individuals
+would be screened in a home
+assessment that is done by um
+the car navigators when that
+child is going home.
+Well, what caught my eye, if you
+look on down in um.
+On line 15 through
+22 of page 13, it talks about
+when
+When family members or
+caregivers are not following.
+Uh, the plan of safe care. I'm
+trying to figure out how do you
+get to the point that you know
+they are not following that
+plan.
+Madam Chair, I don't mean to
+interrupt the senator. I'm going
+to ask Senator Burrs to sit in
+my seat for just a moment. I
+need to run to a.
+Break and I I'll come right. OK.
+that we've put in there, um,
+there are many different touch
+points and so.
+Currently, the way we have it
+written, and I need to really
+study the amendment because I
+heard something that was.
+Kind of caught my eye in that
+amendment that it just gets
+reported to DOH, but currently
+it gets reported when a plan of
+safe care is completed through a
+portal, notification goes both
+to Department of Health and to
+CYFD so we know that there's a
+plan that's been created. The
+way that this is specifically
+being laid out is then DOH with
+one of their Kara navigators
+would make contact alongside the
+care coordinators from the
+hospital with that individual to
+ensure
+That there's somebody available
+to work with them on that plan
+of care, so that engagement with
+that individual and that support
+would then be able to notify
+CYFD quicker if they're not
+engaging in services if they're
+not going to those regular
+meetings that they're scheduled
+or, you know, whatever they have
+agreed to in that plan of safe
+care and it would give the
+department quicker notification
+when they're not engaging for
+one of our family navigators to
+work with them and.
+make a determination if in fact
+more efforts need to be made
+from CYFD, um.
+Or better safety for that child.
+Madam
+Chair, secretary.
+And it
+We have a fiscal impact report
+on the committee substitute.
+as senator, I, I don't think so.
+I think we're barely getting
+fiscal impact reports on bills.
+That's another subject that we
+can talk about, but.
+Um
+I'm in favor of this. I'm, I'm
+not, I'm not.
+Suggesting that I'm not what I'm
+trying to figure out is.
+is
+First and foremost, is it
+enough?
+Is it a move in the right
+direction, I think so.
+Do I have concerns that we're
+still going to have issues,
+absolutely.
+But with the expanded care
+that's in, I just wanna make
+sure that I understand what the
+physical impact is. I'll, I'll
+continue to listen. Madam Chair,
+I appreciate it. I, I.
+to support the effort. Thank
+you.
+Thank you, Senator Brantley.
+Thank you, Madam Chair.
+Thank you guys for being here.
+We all support the effort. We've
+supported it for a number of
+years.
+And it hasn't made it across the
+finish line for one reason or
+another, so I want to thank
+Senator Padilla for bringing
+this bill forward, but I want to
+thank a number of champions who
+have put really child welfare at
+the top of their list this year,
+including our pro tem.
+It was identified that through
+the interim in this year of
+making it a priority, including
+Senator Doha, who's carrying a
+number of bills.
+I think this is a nonpartisan
+issue is that we have got to
+come in and save New Mexico's
+children, and I, and I want to
+thank you Secretary. You've had
+a large presence. I have often
+been a very loud critic of
+clearly the agency.
+And, and as a result, that is,
+that has fallen on you as well,
+and I think that this year with
+the agency coming proposing
+solutions, this all being at the
+table. I, I am optimistic that
+we have a real chance to make a
+difference.
+Specifically to Kara, the reason
+why it's the most important bill
+is because it's the first step
+in a in a broken cycle. It's the
+first time and the most
+important word, we fight in
+judiciary over words and I've
+never understood.
+The the value and the importance
+between the word may and shall
+more than the example of what we
+did in Kira.
+Um, you may have a drug addicted
+newborn baby, and we have said,
+you may get treatment.
+85% of them don't.
+Because we didn't mandate it.
+LFC reported that 40 of them
+didn't even know they had a
+plan. You may get treatment, but
+unfortunately from the state's
+perspective, when we send him
+home with that baby, often we
+never see that child again until
+they're 5 years old or in our
+school system and at that point
+we'd had 5 years to provide
+cause this doesn't just have to
+be punitive. The goal of this is
+not to take the children away
+initially from parents. It's to
+create and to invest.
+All sorts of resources to get
+that family and specifically
+that baby on a path of success,
+right? Substance abuse treatment
+programs that maybe the mother
+needs to get in. They have
+healthy food or they receiving
+medical care? Do they need to
+vest in domestic violence
+intervention, whatever it may be
+to, to change.
+Not just the babies' lives, but
+that the family's lives.
+It's alarming to see that that
+they anticipate that this.
+Carra rule will impact 1200
+newborn babies this year.
+Drug addicted babies in New
+Mexico. That's 6% of all the
+babies born in this state.
+I, I think there's never there
+there may arguably be some
+pretty important bills that
+we're dealing with this year.
+This may be one of
+The most important, and we've
+seen it introduced a number of
+ways and a number of times and
+quite frankly, I don't care
+about the details, as long as
+we're putting the the the baby's
+interests first and how we're
+gonna get early in invention.
+I, I do have a very
+Specific concern in here, and
+that's really just the
+presentation of this bill,
+Secretary. We are moving the
+responsibility of this Kara over
+to DOH.
+But you're here presenting the
+bill, we're removing it out of
+your agency, why is DOH not
+here?
+When there was
+Thank you. There we are I'm
+sorry. Thank you. DOH has a
+major role to play in this
+because we're moving the
+responsibility. Can you guys
+speak for just a moment because
+this is what it all comes down
+to.
+To the accountability between
+the handoff of these agencies,
+the accountability of this
+program and who who we turn to
+to really hold responsible that
+these plans are one getting
+issued and 2 being followed
+through on.
+Um, Madam Chair, Senator
+Brantley, yes, I think we can
+both speak to that, um.
+I think that there's been a lot
+of collaboration and
+coordination between the two
+agencies about what exactly this
+looks like, because it will take
+both agencies for us to be
+successful. I think our initial
+thought is that this is a public
+health issue, and they are our
+public health entity to ensure
+that they're out there, um, you
+know, providing information to
+individuals to really build
+those programs to work closely
+with HCA on capacity and
+ensuring that we have the
+treatment facilities in our
+state that are
+necessary for some of these
+individuals. So absolutely, they
+have a huge responsibility. But
+at that same time, when families
+are not following that and we're
+making it, they need to have
+that plan of safe care when
+they're not, there needs to be
+that immediate coordination
+between Department of Health and
+CYFD so that we can ensure that
+we get out there as you know,
+Senator Townsend said, sometimes
+we're too late. We don't know
+that. And if there's a lack in
+communication between the two
+agencies when something happens.
+And CYFD is not notified timely
+enough.
+And we're going to continue to
+have these horrific instances
+and so it's really we're handing
+that off to them as a public
+health.
+Issue for them to train the
+hospitals, but working side by
+side with them on accountability
+and ensuring that babies are
+safe. And so, I'll turn it over
+to my colleague to, um,
+Secretary de Blasi.
+Madam Chair, Senator Brantley,
+thank you. It's a really
+important question. There has
+been as we're moving the um Kara
+program over to Department of
+Health. We've been having daily
+meetings with CYFD and the
+teams. We're working with the
+navigators that have come over
+to the Department of Health, in
+addition to that, we're
+coordinating with the managed
+care organizations we're we're
+sitting in on weekly meetings on
+case reviews with the managed
+care organizations, um, and
+then.
+we also bring in ECCD because
+there's a home visiting program,
+so we're taking this as a public
+health approach where setting up
+kind of a um standards of
+practice on, uh, with the Kira
+navigators as the baby is born,
+and we are notified, we're
+working alongside the managed
+care organizations for those
+that are on Medicaid and those
+that don't have Medicaid because
+many some of the babies that are
+born also have commercial
+insurance, so they may not have
+an MCO, uh.
+care, uh, coordinator involved,
+that's when the Department of
+Health becomes that care
+coordinator and that care
+navigator. The plan of safe care
+will be much more than a
+referral based, uh, plan, it
+will really be understanding
+what the root of the issue is
+what is the intervention and the
+referral look like and where's
+the follow up and that would
+fall on the care navigators from
+Department of Health. We'll be
+doing home visiting, and if we
+are at all concerned at at any
+time when uh have notification.
+or were recognizing the work
+that we're doing, we will, um,
+that there's noncompliance will
+immediately engage with CYFD,
+um, we're looking at having
+really intensive case management
+and also having case reviews of
+every active case, um, on a
+weekly basis of of the
+individuals that are wrapped up
+in the care program.
+Thank you, Madam Chair.
+Um
+We're fortunate to have the two
+of you working together, but we
+all know that the statutes we
+pass and the policies and the
+programs that we put in place
+outlasts longer than any of us
+in these roles, and so I would
+turn to you guys to make sure
+that whatever sort of
+coordination policies are in
+place are strong enough that
+that outlast your service here
+because I would identify that as
+potentially the biggest um
+concern and potential crack in
+the system is gonna be right
+there and it's gonna be
+important that while we.
+implement this, that you guys
+make sure that that coordination
+will outlast your terms in these
+roles, just, just as our work in
+these statutes do. Um, I, I'm
+gonna support this all, all day
+long. I have for a number of
+years. I think you guys both for
+supporting it too. I think, I
+think the champions have come to
+the table, this session to make
+sure we get some things done. I
+think that is as legislators we
+have a duty to represent every
+New Mexican.
+And I think as, as a mother, and
+I think as human beings we have
+moral responsibilities to
+protect the most vulnerable of
+our population and it would be
+hard to argue that there is
+anyone more vulnerable than a
+drug addicted newborn, and this,
+this is an important piece of
+legislation. It's the first step
+in a lot of different changes we
+need to make within CYFD, but I
+will wholeheartedly get behind
+this, and I think you guys for
+coming to the table and doing
+that this year. Thank you.
+Thank you. Senator Harmio. Madam
+Chairwoman, thank you. Good to
+see all three of you this
+morning, Senator up there for
+the other senator, I might have
+missed this, but in my area
+we're having an issue with
+grandparents who aren't the
+legal guardians of the
+grandchild, and so parents who
+are leaving the grandkids with
+the grandchild. And we're seeing
+that there's a support unit of
+how to provide services to the
+child with this group of
+individuals, even if it's family
+members who are caring for the
+child.
+If the mother is the listed
+guardian.
+But doesn't respond and the
+child's with the grandparent.
+Do the services then go to help
+the grandparent, even though the
+grandparent isn't the legal
+guardian.
+Um, madam chair, um.
+The meal.
+Um.
+So yes, there are programs
+available to help the
+grandparents, um, they would be
+supported by the department. I
+would just like to say, you
+know, for those grandparents
+raising grandchildren, not just
+in this situation, but in many
+situations, you know, our office
+of advocacy is really working
+with them to identify how do we
+expand those services so that we
+can better support them. So I'd
+love to put you in touch with
+Don to talk about that, but
+specifically for this, the child
+would not necessarily go home
+with the mother if she hadn't
+agreed to engage.
+services, so at that point in
+time, if she is not engaging in
+services and they feel that it's
+not safe to send her home, then
+the grandparent would be
+designated as the individual to
+care for that child and we would
+do wraparound services about the
+grandparent at that time.
+Got it. So it's designation, so
+it doesn't have to be the legal
+guardian. It's designation of
+taking the child. Perfect. That
+answers that. And I want to just
+make one comment that I'm
+thankful about our home
+visitations, because when you
+think about poverty is linked to
+drug abuse and use. And so if
+you think about rural New
+Mexicans when we talk about
+needing them to come into a
+hospital if Espin is the only
+hospital, but you're in Savoya,
+which is almost an hour away.
+Transportation becomes a major
+issue. So I'm happy to see that
+home visitations is
+be taken into account so that
+way transportation isn't a
+barrier to ensure that these
+children are checked on. So
+thank you so much. Uh thank you,
+ladies, and thank you, senator
+for this bill. No further
+questions. Senator Block,
+followed by Senator Stefaniks
+and Stewart.
+Thank you, Madam Chair. Um,
+Thank you, Senator, and, and
+thank you secretaries. I, I love
+seeing both secretaries here,
+that's called integration and um
+I very much appreciate that.
+Um
+I, I've been on this bill, I, I
+got a
+I wanna say it's a complaint.
+I support the bill, by the way.
+But I just want to see if
+We can uh
+Get a couple things going here.
+This was not socialized from
+what various lobbyists have told
+me, uh, with, with hospitals.
+And um
+On page 11.
+On the underline there, starting
+on page 5.
+I love the word requirements in
+this one. That means a lot to
+me.
+That is just minimum standards.
+Can you tell me on page 10.
+Um, requirements for the
+Department of Health to ensure
+all that all substance exposed
+children.
+Who have a plan to safe care
+receive care coordination to
+implement the plan of safe care,
+what, what are all?
+Substance exposed, what, what
+does that mean, does the state
+have a list of all these
+substances that the hospitals
+need to know.
+Um, Madam Chair, Senator B
+block, um, yes, there are
+several substances that are
+listed that are of concern, um,
+and they do have that when they
+are doing that plan of safe care
+when they're testing, um, they
+have a list of those that
+they're looking for.
+Thank you, thank you, Madam
+Chair. Do we know how many there
+are and and can you name them by
+chance or do you not have that
+information? If you don't have
+it, that's fine, but I just
+wanna know roughly how many
+there are and if, if you do have
+a list that the hospitals are
+aware of to comply with this.
+Um, Madam Chair, Senator B
+block, I don't have it, but I
+can get it to you, um, Secretary
+Delasi may know it.
+I believe there are roughly 7.
+Substances including um
+nicotine, methamphetamine, um,
+marijuana.
+Other opioids, alcohol.
+No
+Fentanyl
+Um, so yes, and just to also,
+um, Madam Chair and and Senator
+Block to answer your question.
+One of the goals at the
+Department of Health, and we're
+uh starting to organize that now
+is training across all the
+birthing hospitals. So I'll be
+working extensively with that
+question's coming up. Thank you,
+Madam Chair.
+Um, so, Madam Secretary,
+nicotine.
+Really?
+So
+You got a mother who's a smoker.
+Who shouldn't be smoking when
+she's pregnant because that's
+just a really stupid thing to
+do.
+Or she's taking nicotine patches
+or or something like that.
+Um, or maybe she chews. I mean,
+I, I don't know what people do.
+Um, are you testing just for a
+certain level, is there a
+certain certain threshold on
+the, the other drugs I totally
+get, I'm, I'm good. I is there
+I mean, you pick up nicotine in
+the blood and then they're
+automatically enrolled in this
+process.
+Madam Chair, Senator Block, yes,
+there will be if there's
+exposure to the baby, and it's
+been identified, we will move
+towards a plan of safe care and
+what it may mean is that we just
+work with the mother, the
+family, um, you know, on that
+nicotine exposure. Thank you,
+thank you, thank you, Madam
+Chair. So you, you would agree
+that all 7 are not going to be
+treated, all these cases, these
+mothers are not going to be
+treated equally based on
+nicotine versus fentanyl.
+Madam Chair, Senator Block,
+absolutely. OK, thank you for
+that. Thank you, Madam Chair.
+Um, let's, let's talk on line 13
+there. Provide training.
+The hospital staff.
+Who, who is doing that?
+Madam Chair, Senator Block, that
+would be Department of Health.
+Thank, thank you.
+Thank you, Madam Chair.
+Um
+When is that going to start to
+start, uh, because how I see
+this.
+As you will probably want to
+what we would say in the Air
+Force, Madam Chair and Madam
+Secretary is train the trainer.
+So you're gonna go in Rust
+Hospital in my district, or
+Loveless West, West Side in my
+district.
+Um, or SRMC in my county, and
+you're going to.
+Go there in person.
+And provide training to 1 or 2
+individuals who are going to be
+responsible for carrying out
+this training to the staff to
+comply with this. Do I assume
+that correctly?
+Madam Chair, Senator Blo we'll
+be working directly with the
+hospitals to identify the best
+approach for each of those
+facilities. So we would want
+them to have, um, you know,
+either 1 or 2 people within
+those units that they have
+identified that would be held
+accountable or responsible.
+So it's going to be standardized
+training across New Mexico. Do I
+understand that correctly?
+Madam Chair, Senator Ballo, yes.
+OK. Thank you.
+Thank you, Madam Chair. Um,
+We're this, this training is
+this off of, is this developed
+locally at the state or is it
+like a hybrid from state and
+federal training or is it taken
+from other states that have um
+You know, a good track record
+dealing with this uh this
+tragedy.
+Madam Chair, Senator Block.
+Yes.
+To that question, so it's all of
+the above. OK. Thank you.
+Thank you, Madam Chair.
+Um,
+Real quick, walk, walk me
+through real quick, Madam Chair,
+Madam Secretary.
+When a parent
+A mother and father or a mother
+or whoever the guardian is in
+this program doesn't comply with
+home visits or these these
+plans. How do you remove the
+child out of the, the, the care
+of that parent because you have
+in the bill, uh, underlines
+imminent danger.
+So tell me about the process,
+how that works to remove a child
+from a home.
+Um, Madam Chair, Senator Block,
+so if there's noncompliance with
+that plan of safe care, that
+would be a notification through
+our central intake, um, that the
+child.
+I believed to be in danger
+because if somebody is not
+complying with their plan of
+care, um, and if it's an
+exposure, if it's nicotine, it
+might be handled a little bit
+differently than if it were
+fentanyl. And if they're not
+complying and it's um a drug
+that is concerning, we would go
+in and do that assessment to
+ensure that that parent could
+safely take care of that child
+and the likelihood if they're
+not complying with the treatment
+of that happening, um, would
+probably
+Probably create a high risk for
+that child or CYFD would then go
+in through an investigation and
+determine if the child needed to
+be removed, um, or if there were
+a safe caregiver that was going
+to take that child, but would
+not leave the child
+and um
+Madam sure and
+Madam Secretary, let, let me ask
+it this way.
+If
+You're gonna have to make some
+serious assumptions.
+Um, if
+Very serious assumptions because
+if you're not, and you talked
+about it here in the bill that I
+read.
+But not being able to make
+contact with the parent.
+And, and I would, I would argue
+based on that parent's previous
+behavior, if you don't have
+contact with that parent over
+I don't know.
+A month or 2 months.
+You know, the exposure, the risk
+of exposure to that baby, I
+would think it would be great. I
+mean, quite frankly, the baby
+could be dead already.
+Um, how do you
+How, I'm still trying to
+understand how you are like,
+stay focused on this parent to
+ensure the safety of the baby
+because if you're noting on
+their door 2 or 3 times.
+And they're not answered, you go
+get a, a court order or
+something to go.
+Break the door down to go get
+that baby or something. How, how
+does that work because I would,
+I would argue the safety of the
+baby is the number one priority.
+Um, yes, uh, Madam Chair,
+Senator Block, I think the way
+the program is being designed at
+Department of Health is there is
+constant communication with that
+family, it's not just, you know,
+we check you got home, we're
+good, we'll see you in a month
+or 6 weeks, it is constant
+communication with that
+navigator. And when there's not
+engagement is a trigger point
+for Department of Health to
+notify CAFD. We would then go in
+and do an investigation. So our
+investigators go in, um, if they
+get to the house and they can't
+get engagement.
+At that point in any
+investigation, then we include
+law enforcement to come in and
+help us to gain access to ensure
+that we have eyes on parent and
+on baby. OK, thank you for that.
+Thank you, Madam Chair, because,
+I mean, let's face it, and the
+reality is, um, I think Senator
+Jaramillo touched on this with
+grandparents raising their kids,
+so you have a, you have a young
+mother.
+Uh, addicted to drugs.
+With a baby or babies, um, young
+children.
+And then
+Mom and grandma get into a
+fight.
+Mom leaves the house, takes the
+kids.
+Um, now what the hell do you do?
+Because mom calls CYFD or calls
+the police and says.
+She's gone
+She's still using
+And now
+Now do you call the police to do
+an investigation of trying to
+find out, you know, through cell
+phone towers and other.
+Other, uh, investigation tools
+to go find this person
+immediately cause that that's a
+trigger where you gotta go.
+Get this, uh, get this kid or
+these babies or uh immediately.
+Um, Madam Chair, Senator Block,
+yes, that would be called in as
+an emergency, um, to CYFD when
+the parent calls in that she is
+absconded with the baby, um, if
+we know that she is at high risk
+for being able to keep that
+child safe.
+OK, and just
+Uh, Madam, 3 more quick things
+here on page 11, I'm sorry, page
+13, line 11. I always see the,
+the, the phrase evidence-based.
+Um
+I, I never, I mean, it's been
+explained to me before and I've
+gotten different answers.
+What, what does that mean to you
+in here that's this, uh, part of
+this new law, new bill.
+Um,
+madam an evidence-bas.
+Intensive care coordination
+model because the court, these,
+these um care coordinators like
+Senator Townsend said are gonna
+be at the hospital, they're
+gonna be trained up.
+But what, what type of evidence
+based tools are, are we talking
+about there? Um, Madam Chair,
+Senator Block, there are.
+specific programs that have gone
+through, um, a regimen of.
+Review and analysis to determine
+that the program is sufficient
+and the evidence shows that it
+is um a successful program.
+I prefer typically in New Mexico
+for us to use evidence informed,
+because some areas don't
+necessarily have a provider that
+has gone through that process
+and it sometimes limits the
+ability, but we'll work with
+providers across the state that
+can provide services to families
+so basically those programs have
+been reviewed and validated, we
+know they work. That, that's a
+better.
+Where I think saying that for,
+for me anyway, on page 15 here,
+um, I
+And I talked about this in
+Senate Bill 12, and 3, with
+Senator Antoine Cedilla Lopez
+when we were.
+Uh, working on the bill.
+Uh, together to tighten it up a
+little bit, this.
+Uh, starts on page 14, but this,
+um,
+Following aggregate statistical
+information related to the
+creation of plans of safe care.
+In these reports.
+The annual reports to the LFC,
+the one thing that I, it just
+irks me, um, that I don't think
+is very helpful what this is
+missing is at the very end, it's
+recommendations. It's telling us
+what's working and what's not
+working.
+That, that to me, if we don't
+have to make the amendment now,
+but I, I would like to see,
+cause this is gonna come to the
+floor and I'm going to vote for
+it.
+But when these people are doing
+the reports, they gotta give us
+a recommendation.
+Of what's, and you're shaking
+your head in agreement, that's,
+that's gonna happen on here, and
+I'll.
+I'll make the amendment on the
+floor, um, to get that done. So,
+would you, would you quickly
+just uh agree, yes or no, if, if
+that's uh would be friendly to
+you at a later date. Um, Madam,
+Senator, yes, it would. OK,
+thanks. And then lastly, Madam
+Chair.
+Madam Secretaries.
+On page 2 and senator, if you
+want to make a an amendment, do
+it now. Don't wait till the
+floor, and that's what we're
+here for. I know there's other
+people who want to talk and I,
+we, we can do that. I just
+wanted to kind of quickly get to
+the next bill, but.
+OK.
+So
+I, I would like to propose.
+And I got, you're catching me on
+the fly, Madam Chair, so let's
+work through this together and
+uh I could use your help.
+On this one. So I would propose
+an amendment to
+Uh, Senate Bill 42.
+After line 5.
+00, I'm sorry, page 15.
+After line 5, and Senator, how
+about this? Why don't you, why
+don't you tell us what you want
+your amendment to do, and then
+maybe I can suggest what the
+what the language should be
+fine.
+It's all yours, but, but it it
+it is hard to do these, these
+amendments on the fly and so if
+you want to describe what you
+want, I would say something to
+the effect of
+Um
+Develop
+Recommendations.
+Uh
+Uh, describing successes.
+Uh, gaps and needed improvements
+and improvements.
+Something like that, if that
+would be friendly.
+How about develop
+recommendations.
+Or needed improvements.
+Well, I would also want to know
+if successes.
+Because I think that's important
+to know, uh, what, what, what
+we're doing well.
+So we can maybe
+Build on that.
+And Senator, I, I think that
+they can tell us their successes
+without us saying in statute,
+tell us your successes. I think.
+I, I, I don't think you need to
+say that. I think if what you
+want are our recommendations for
+changes that should be made. I
+think, I think that.
+That makes sense to put in
+there. I don't think you need
+to.
+To require them to report their
+successes. I have a feeling they
+will gladly do so
+without a statutory mandate.
+Thank you, Madam Chair. How
+about recommendations
+identifying gaps.
+And needed improvements.
+So when I'm gonna, yeah,
+this.
+On 14 and 15, 12345 are the
+following aggregate statistical
+information related to the
+creation of plants of safe care.
+So I'm not sure that what is
+proposed should go right there.
+You know what, Senator, I wonder
+if.
+We should put it
+The report shall include.
+Recommendations identifying gaps
+and needed improvements and the
+following aggregate statistical
+information.
+So Senator Block, I think what
+your amendment is, is on page
+14, line 19.
+After the word include.
+Inserting
+Recommendations identifying gaps
+and needed improvements and
+Is that accomplish what you're
+seeking to accomplish. That's
+very friendly.
+I, I think, I think it's for
+them to say if it's friendly is
+for me. Well, we'll, we'll ask
+them, but yeah, for me, I'm, I'm
+very good at that.
+All right, so that is Senator
+Block's motion that he is
+moving, is that friendly?
+Madam.
+All right. Is there any debate
+on that amendment?
+Is, is there any objection to
+adopting that amendment. See
+now, that amendment is adopted.
+about you
+Um
+I'm sure you made me lose my
+place.
+I, I blame you. All right. Oh,
+here I am. Uh, last, last point,
+Madam Chair, page 21.
+Uh, the on line 17, the
+underlying piece there, the
+Department of Health shall be
+responsible for ensuring
+compliance with federal
+reporting requirements related
+to plans of safe care.
+So what, what happens?
+Um, if we're not in compliance,
+what is not being in compliant
+means? I mean one hospital is it
+I I don't understand what
+noncompliance would mean here.
+And would we be at risk of
+losing federal dollars if we're
+not compliant.
+Madam Chair, Senator B block, I
+don't have an answer to what
+would happen if we're not in
+noncompliance, I will have to
+get back to you on that, um,
+Gina, do you have?
+Madam Chair, Senator Block will
+have to get back to you.
+OK, cause it's written here it
+says shall.
+Uh, Madam Chair, uh, Madam
+secretaries.
+Um, we, so we have, uh, uh, I'm
+curious why we put that in there
+if we don't know.
+What we mean by that.
+I'm, I'm willing, Madam Chair,
+Madam Secretaries, I'm, I'm
+willing to let that one go and
+if you could just send me an
+email or something, let me know
+what that means, what
+noncompliance means, is a
+certain threshold where the feds
+are like.
+You're not complying with
+pulling money back. I, I, I have
+no idea what that means.
+Um, Madam Chair, Senator Block,
+I will send you an email and I
+will actually send it to the
+chair as well if anybody else
+wants to know what noncompliance
+is, we'll get it to you.
+OK, I'm happy to support the
+bill. Thanks for being so
+friendly today on my, uh,
+memory.
+Thank you so much. All right,
+thank you, Madam Chair. Thank
+you. And next, uh, the
+nurseonics.
+Thank you, Madam Chair. My
+question has been answered about
+the substances, and I plan to
+support this bill. Thank you.
+Senator Stewart.
+Thank you, Madam Chair, I, I am
+just so happy this bill is here
+today. I really appreciate it uh
+sooner Brantley's comments, but
+You know, cinder block, you
+haven't been around before this
+bill has been carried by Senator
+Gay Kernan for many years. We
+passed it out of the Senate. It
+got bogged down in the house.
+That'll be a familiar refrain
+that you'll be hearing from now
+to the end of the session.
+Look at Senator Townsend, he
+knows exactly what I mean, so
+the changes are just so
+significant, it seems to me, I
+do have one question, uh, Madam
+Secretary, it seems that the,
+the only difference really
+between the bills that Senator
+Gaer has carried to make this
+mandatory instead of a
+voluntary, but is that it's now
+in the Department of Health. Is
+that the only change?
+Basically, um, Madam Chair Prote
+Stewart, yes, basically that is
+most of what that changes is it
+makes it mandatory, but yes, a
+lot of what she had previously
+put is incorporated into that.
+So I just, I think there's 3 or
+4 of these bills around, I
+really like this one, so I just
+wanna thank you for listening to
+us these years and understanding
+that we just had to change what
+we were doing. I know a big
+worry is workforce.
+You know, we're requiring now
+Department of Health to do a lot
+of work around this issue and
+workforce issues are everywhere,
+but uh we still have to try to
+do it. We still have to make
+this mandatory and help these
+kids, so thank you so much for
+the bill.
+Senator Gallegos.
+Go ahead, Senator.
+Incomman chair we're in
+discussion over some of the
+wording language, uh, I do have
+I'm sure.
+kind of secretaries, um, some
+concerns or some questions. Uh,
+first off, um,
+No, you talked about earlier in
+testimony that you're looking to
+uh add in some other bills into
+this. I just wanted to touch
+base, so, uh, 343 the CYFD
+plants for safe care for certain
+children, is that one of the
+ones that you're actually
+looking to that tune that I'd
+like to
+Um, proposed, uh, to roll into
+this if you guys looked at that
+bill.
+us and our house about 343.
+Madam Chair, um,
+The guy goes, yes, we have. I
+met um.
+Alongside some of my other
+colleagues with um
+Representative Armstrong on 343
+we agreed on language that was
+in there that needed to be
+incorporate, but the majority of
+what that bill had was already
+in this bill, um, they just
+wanted, um, more strengthening
+on if there were concerns of
+specific drugs such as fentanyl,
+methamphetamines, heroin and
+cocaine, I believe, were the 4
+that they were concerned with
+that there would be a more.
+consideration given on a child
+being at risk with the use of
+those drugs, and so it's
+something that we're looking at
+incorporating. I think we've had
+conversation about that here
+today about how we're going to
+look at that differently from
+maybe nicotine, um, but other
+than that, I believe that
+everything that she had concern
+with on 343 has been
+incorporated either through
+amendments that we've made or
+through the original bill.
+Thank you for that, Madam Chan.
+secretaries is the other one
+that I have concern on rolling
+into this is House 424, the
+pregnancy and Family Care Act as
+there have been discussions on
+that being a part of this.
+Overall, when you go forward.
+Um, Madam Chair, um, guy goes,
+we have not had conversations on
+4 did you say 424? Yes. Um, yes,
+so that is we've identified
+where there are differences,
+there were not many of things
+that needed to come in, but we
+have not yet had those
+conversations. My hope is to
+take the final with the
+amendments on this and be able
+to propose it and have
+conversation with anybody else
+who's carrying, um.
+Tara, and I know there are some
+bills that are very broad that
+have a portion of Kara in them.
+The hope is to really be able to
+strip that out of those bills,
+have one comprehensive bill that
+we can then get through the
+Senate side and really help to
+push through the house. Um, so
+it doesn't get bogged down there
+and that we're able to get this
+bill to the finish line. Thanks
+for parents and secretaries, uh,
+that's sort of one of my
+concerns is the protein brought
+up bogged down in the house, uh,
+you basically have 29.
+days, get this through the other
+chamber and back for us to
+reconsider those changes, uh,
+but I, I do want to go back to
+uh somethingen Block was looking
+at, and it goes back to that
+page 21, and this was just in
+testimony. I don't have anywhere
+written down I looked for it,
+but during testimony, uh, uh, it
+was said that if plans not
+followed, then.
+The Department of Health would
+report to CYFD.
+Is that not correct? I, I, I'm
+wondering if this federal piece
+here, uh, the way it reads the
+health the Department of Health
+shall be responsible for
+ensuring compliance with federal
+reporting requirements related
+to the plan of safe care.
+If that is not done.
+Does that come back to see YFD
+for consideration, or is what
+would the, the next step be?
+Um,
+madam chair guy goes, I believe
+that this is the requirements
+for reporting for federal
+funding that we're in
+compliance, um, there's a
+separate requirement that if
+there's noncompliance that the
+department would notify CYFD.
+OK, my turn.
+Madam Secretary, thank you for
+that clarification. Then what
+would as she responds to you of
+noncompliance, what is CYFD's
+job then with that issue.
+Um, Madam Cheer guy goes, we
+have implemented through CYFD um
+what that would look like if it
+comes in. So, um, as I stated
+earlier, if it is an.
+Concerning
+Where we feel that the child is
+at imminent imminent risk, it
+would um be an immediate
+priority investigation through
+our um protective services
+department. If there's
+noncompliance and it is for, I'm
+gonna use nicotine cause I think
+that's the easiest example that
+would then come through our
+department for noncompliance,
+um, we wouldn't conduct an
+investigation, but we would do a
+family assessment through our
+family services bureau to just
+go out, have eyes on that child,
+assess the.
+situation
+provides, you know, um, support
+services for them through family
+services, but also give us that
+I, you know, those eyes on that
+child through a different lens
+to see if there are other things
+contributing, um, that we felt
+that there should be an
+investigation.
+Thanks for that,
+Madam Secretary, this be my last
+question. So it's using the
+nicotine. If they're
+noncompliant.
+What do you as a department do
+after you've done a secondary
+evaluation.
+If they're still not
+Compliant. What are the teeth in
+the policy to be able to force
+him into compliance. I'm just
+thinking I've got a gentleman
+right next to me sort of
+addicted to coffee.
+Uh, you know, uh, it's not
+nicotine, it's caffeine.
+But just thinking through the
+theory of that, some people
+can't get off of nicotine, so
+I'm just wondering what for the
+safety of the child. We're not
+talking fentanyl or anything
+else, so it's um.
+Worse as you go up the um drug
+chain, but if nicotine is the uh
+topic we're talking about as far
+as the department, what do you
+have?
+And you told it that allows you
+to adjust her thoughts or their
+thoughts.
+Uh, on, on not being in
+compliance.
+Um,
+madam, I think that that would
+depend on, you know, what it is,
+but really the bottom line is,
+is the child safe.
+Right, we all have our vices. I
+probably drink too much coffee
+as well, but what CYFD would be
+looking for is, is that child
+safe or is the use of that
+nicotine causing harm to that
+child or potentially putting
+that child at risk. Um, if the
+answer is no, if the child is
+not at risk, if there's not harm
+to the child, then we would just
+again provide support services
+to the family, but the carer
+still remains a voluntary
+program with now um certain
+require.
+environments that you know, give
+us more opportunities to engage
+and then provide services or
+remove children, but.
+If the child is not safe, and
+there's no harm being done.
+Um, then at that point, there
+would be no further involvement
+from CYFD on trying to
+reduce their nicotine intake.
+just said, I think you might
+have misspoke. I think you might
+if the child is not unsafe, and
+there's no harm being done. I
+think you accidentally said if
+the child is not safe. I just
+want to clarify that.
+Right, OK. But I appreciate it.
+Yes, I intention to that Madam
+Secretary, that, that's the
+primary if uh the process uh
+Highlights a Charles' safety and
+their needs and, and I'm good
+with that. I, I appreciate the
+bill and I appreciate you
+looking into some of these
+others that need to be rolled
+into this. I just want to tell
+you, the sooner the better.
+Uh, we've had a bill that we
+start in July, took me 7 months
+to get my bill dropped.
+Um
+I hope you have better luck with
+rolling everything in by
+tomorrow so we can go forward.
+house,
+so and
+and you'll thank you.
+Thank you, uh, Senator Stefan,
+for a 2nd time, followed by
+Senator Townsend for a second.
+Thank you, Madam Chair, and
+thank you everyone for being
+here, but I want to clarify why
+we're talking about nicotine.
+Nicotine, uh, effects on fetal
+growth and development, low
+birth weight, premature birth,
+growth restriction, effects on
+brain and nervous system
+cognitive and behavioral
+problems, increased risk of ADHD
+changes in the brain structure
+increased risk of sudden
+infant death syndrome,
+respiratory problems, skeletal
+problems. I think there's plenty
+of reasons. They include
+nicotine here. Thank you very
+much.
+Senator Townsend.
+Thank you
+Um
+I'm there.
+Secretaries
+A couple of questions. One is
+amber alert used when
+An instance as
+Senator Block
+described in a child is.
+Missing
+And unaccounted for.
+Is Amber used and
+And why not, if it isn't.
+Um, Madam Chair, Senator
+Townsend, there are very
+specific federal guidelines for
+when an Amber Alert can be used,
+um, so we do notify state police
+or law enforcement if a child,
+if a parent has absconded with a
+child, um, at that point, it is
+up to the local authority or
+state police to determine if it
+meets the criteria of an Amber
+Alert. There have been
+situations where CYFD has called
+in a concern and an Amber Alert
+has been issued, um, there have
+also.
+been times when that doesn't
+rise to the level of the federal
+requirements for an Amber Alert
+and it is not issued.
+Madam Chair
+um
+This is out of my wheelhouse of,
+of.
+Life experiences, but
+It just seems like that is a
+tool that works.
+And has had great successes.
+And the state is constantly
+Um
+Setting procedures.
+At the state level.
+I mean, why, why do we, why, why
+is the federal
+You know
+Why do we say, well, there's a
+federal.
+Oh guideline, I mean, why don't
+we just set up state guideline
+if we're trying to protect kids
+and say, hey,
+Let's do it.
+Um, but I'm sure Senator
+Townsend, I agree with you 100%.
+We are having conversations,
+they haven't happened in a while
+now since the legislative
+session, but I was having
+conversations with Secretary
+Bowie about exactly that, like
+what are those requirements and
+how can we ensure that we can
+get that information out, um,
+timely, and so, you know, we did
+talk and say if things needed to
+change in the requirements or
+the regulations, um, it was
+something that we needed to look
+at. So we may be bringing that
+forth at some other point in
+time.
+So, um, Madam Chair, I, I just
+think it's an important issue. I
+mean, we have seen
+I believe if my memory's right,
+we have seen a at least a couple
+of deaths.
+Or we knew a child was.
+No, I don't know if that's the
+right term to use missing, but
+unaccounted for, not where
+they're supposed to be or
+whatever, and we knew it was a
+problem.
+And
+And in the end, we found that
+the child was deceased.
+Maybe if we had used amber.
+And people knew that amber was
+used.
+Family members would be
+immediately notified that a
+child was at risk. Is it, is
+that logical?
+Um
+Madam Chair, is it?
+If I, I'd like to know why.
+She said it was a good idea.
+I think it's a good idea,
+madam, madam chair, but a
+kidnapping alert, I mean, unless
+we we're gonna send a kidnapping
+alert every time an addict had a
+baby.
+Apply to Kira, but I think in
+the broader conversation of CYFD
+alerts, maybe, I don't know if
+it'd be considered an amber
+alert.
+And, and I don't know if it's,
+it's a great tool that has shown
+successes.
+Um
+I hate to argue with my my peer
+to the right, but if you say
+it's a good idea and I'm, I'm
+here to protect child.
+to use it, right, and that there
+aren't regulations that prohibit
+that, um, you know, but I don't
+believe that every situation
+requires that, I think maybe
+it's more education about if you
+see something, say something. I
+think sometimes family members
+have a concern or a worry or the
+public, but they're not quite
+sure and they hesitate.
+and sometimes then it prolongs
+and makes it too late, but maybe
+it's a better education campaign
+just across the state on keeping
+Madam Chair.
+Senator, I'll, I'll leave it
+there, but you probably will
+hear it again. Um, and so I
+would, uh,
+I would suggest you.
+Consider how to incorporate it.
+Thank you very much.
+Thank you.
+I don't have anyone else on the
+list, um.
+I have a, so,
+They er one I think you have
+signed on to this bill, is that
+right? Or, or you're, you're
+planning to. So, so thank you,
+Senator for bringing this bill,
+um.
+I also, I also want to thank the
+secretaries, uh, you know, what
+the sub that we're seeing here
+is a different approach than the
+original SP 42 was taking. I
+appreciate your flexibility. Um,
+So I'm looking at, so, so when
+under this bill, there is
+If there's a notification of
+noncompliance with the, the plan
+of safe care. Then you do this
+family assessment, which is what
+we see defined in existing
+language on page 17, starting at
+line 9.
+And that assessment.
+Looks at the likelihood of the
+imminent danger to the child's
+well-being, child becoming
+abused or neglected, shrinks the
+knees of the child's family
+members and, and others who are
+around the child.
+Um, with respect to the health
+and safety of the child.
+What if and and and and I've
+been, we've been, what we've
+been talking about so far is, I
+think that that notification
+would come from these care
+coordinators, these, these
+navigators who are are working
+from the family who would make
+that notification.
+What if, what if there's a sky
+report made that.
+That, uh, so, uh, someone else
+calls in a report that shows
+that that that there's
+noncompliance with the plan of
+safe care with the same.
+Family assessment be done.
+Um, Madam Chair, it would depend
+on what was said in that sky
+report, if somebody calls in and
+says, you know, um, my neighbor
+came home with a newborn baby
+and, you know, there's.
+Currently
+Several people at the house and
+they're engaged in activity in
+smoking fentanyl, right? Then we
+would not go out and do a family
+assessment, we would go out and
+do an investigation because that
+would in our mind, put that
+child at imminent danger
+immediately. So that would
+trigger an investigation through
+Sky, um, you know, if they
+called in and said our neighbor
+came home, she's previously was
+known to um use drugs and she's
+home with an infant, um, and
+we're concerned.
+Right, then we would go out and
+we would.
+Maybe then do an assessment to
+determine if she's still engaged
+in that? Is she engaged in her
+plan of care, because sometimes
+people don't know the efforts
+that somebody's making, but if
+she's still engaged, if she's,
+you know, meeting the
+requirements under her plan of
+care if she's actively going to
+treatment, um, then we would
+just ensure that she has
+supports and probably go
+through, um, one of our, um,
+family. Thank you, I I
+appreciate that answer I.
+And so, and I just wanna make
+sure that
+That if the department is
+finding out.
+No matter how
+That there is a, a child who
+might be in danger due to
+exposure that they'll get the
+same level of investigation.
+Uh, whether it's coming in
+through sky or uh notice of
+noncompliance with one of these
+plants.
+I, yeah,
+of how that information gets to
+the department, um, if we
+believe a child to be in
+immediate danger, we will
+immediately go out and
+investigate.
+Great. Thank you.
+Um, secretary, you mentioned
+that you're looking at a number
+of bills and Gallegos had
+mentioned some house bills, I
+was just looking at them as he
+was mentioning them, um.
+I would, so you go to Senate
+Judiciary next. I would, uh,
+It would be wonderful if, if,
+uh, senators Padilla, Bergmann's
+and Trujillo would come in with
+a sub to Senate Judiciary with
+all of those, anything that
+you're wanting to pull from
+these other bills. Um, and that
+we have it at that point. Uh,
+because I think it's gonna,
+exact.
+Because of, you know, what
+Senator Stewart mentioned, I
+think we want to have this.
+As in, in as good of shape as
+possible as early as possible,
+um, to ensure that
+We're getting something that's
+gonna pass through both chambers
+and, and make a, a fix that I
+think everyone is in agreement,
+needs, needs to be made.
+I'll make that a priority.
+Great. Thank you. Uh, what is
+the will of the committee,
+Senator Stewart?
+Um, Madam Cha move uh do not
+pass on Senate Bill 42.
+But a due pass on Senate Rules
+Committee substitute for Senate
+Bill 42.
+Just for the new folks, you
+don't say as amended, because
+this is our substitute and
+whatever we do with it just
+becomes part of the substitute.
+So, and then if there's an if
+there's a substitute judiciary,
+uh, then it'll be the judiciary
+Committee substitute for the
+Senate Rules Committee
+substitute for Senate Bill 42.
+All right, um,
+um, just one question, um, was
+Senator Stewart a teacher?
+How could you tell Senator? I
+can't help myself. It is, it is
+lucky for us that we have her
+here teaching us all how to do
+this correctly, um, all right,
+so we are on a motion for a due
+pass, uh, is there any objection
+to that motion?
+See none, uh, show all members
+present voting in the
+affirmative. Thank you,
+secretaries. Thank you, Senator.
+Madam Chair, could you announce
+the vote for the webcast.
+Sure, so that would be 8 in
+favor and uh 19.
+9 in favor and 1 excused.
+All right. Thank you.
+All right. Do we have Senator
+And, and members, I, I just want
+to let you know, members
+that
+OK,
+folks, if folks can keep it
+down.
+folks can keep it down while you
+while you leave so we can
+continue our business, uh,
+members, I wanna let you know
+the next two bills are, are
+really straightforward. Uh, we
+don't have separate analysis on
+those. We do have the FIRs there
+for you, uh, sums it up, so.
+In case you were searching for
+your pink sheets on those.
+Welcome, Senator.
+Cleared the room. Thank you for
+that.
+Go ahead, senator on uh SB 447.
+The reason I brought this bill
+forward was, was
+Because, uh, in another
+committee, I tried to
+Uh, roll back some EV.
+Uh, mandates on the automobile
+industry, of that bill failed in
+committee, so I thought we've
+got to get infrastructure built.
+And
+There's, there's
+Several of the legislators told
+me they was looking to buy
+electric cars.
+So what this bill does,
+It requires us to put charging
+stations.
+4
+The parking around our capital.
+Simple Bill
+Just
+You know, trying to do my part
+in infrastructure here.
+So, uh,
+I think it said, you know, and
+I'm just asked for 43% of the
+vehicle parking to match the
+mandate on the
+Industry to bring 43% of the
+inventory into the state.
+So, um,
+You know, I, I, I don't see.
+Anything wrong with this, uh,
+They say the equipment costs
+range from
+1.128 million to 5.2 million.
+I don't see anywhere in here
+that the General Services
+Department thinks that we need
+to increase any electrical
+infrastructure other than just
+by the stations.
+So
+I think we'll do that.
+And with that, I'll stand for
+questions.
+Alright, we didn't have anyone
+sign up and support our
+opposition. Um, we have one
+lonely soul who is still in the
+room, uh, but he's he's
+security, all right, uh, Senator
+Townsend, followed by Senator,
+uh, a block.
+I know Senator Stewart.
+Just can't wait for this to come
+forward, but
+Go to say something.
+Well, thank you, sir.
+Uh, this is just so much fun to
+read.
+Uh, so I do have a uh
+Ford C Max's a hybrid plugin.
+Uh
+uh Chalo did a uh
+huge expose of me plugging it in
+underneath the parking. So I had
+a retired electrical engineer,
+figure out how much it was
+costing.
+Uh, I will tell you that
+I am lucky if I get 12 miles.
+A day
+out of that charter, he said it
+was 23 cents a day.
+So, uh, I think it was a couple
+of years ago, so I gathered up
+up my money and uh uh put it on
+a Stuart Ingle's desk. See here,
+I'm paying for it, and then he
+came back to me and said, you
+forgot the GRT?
+So Peter said, well, get about
+$1.05 pennies and throw it on
+his desk so.
+So anyway, I, I appreciate this,
+um, I, I think it's important
+moving forward. I'm glad you
+think so too, and I wanna just
+move it to pass, but I'll wait
+for other people.
+All right, Senator Townsend.
+Madam Chair, I know, Senator
+Stewart will be shocked, but I
+have a different.
+And, and although, um,
+We all have laughed about it.
+It's not very funny to the
+industry.
+Um, and I appreciate what you're
+The points you're making, I
+mean,
+In, in Artesia today, you know,
+we had Senator Sos passed the
+bill last or tried to pass a
+bill, I think it was Senate Bill
+77, if my memory's right.
+Which would have required
+electric chargers to be built in
+all new homes and commercial.
+Establishment and it failed.
+But then what happened is what
+happens all the time.
+And um
+some uh
+stretch of the imagination, the
+department secretary decided
+we're gonna go around the
+legislature and we're gonna
+start requiring it.
+So CID and regulation licensing.
+Instituted a rule that
+This was going to occur.
+Now, in our tea, Senator Stuart,
+we have uh
+A building going up, um, it's a
+new civic center.
+Um
+That the increased cost.
+To
+person building the building.
+From James construction, I mean,
+it's a legitimate cost.
+$283,000 that that person is
+going to pay the, the, to
+install.
+Chargers in there.
+On top of that,
+He is, or is that, that.
+will incur a demand charge.
+Of 18.
+50 amp breakers on the low side.
+Forever.
+They're not 18 EVs in Artesia
+there.
+And I bet you we don't have 18
+go through every day.
+And so we have all of these
+buildings going up all over the
+place and these costs are being
+incurred, and that's the point,
+Senator Wood's trying to make
+is.
+I think, and.
+And I, I mean, I honestly
+believe this that everybody
+should have the opportunity to
+buy whatever kind of vehicle
+they wanted, and if there was
+the need for those vehicles in
+the house, I would vote for it
+to get them installed, but it's
+a waste of money because, quite
+frankly, we're absolutely
+decimating an industry out there
+right now of car dealers across
+New Mexico.
+And
+And I mean, they're complaining
+to me all the time, you guys are
+killing us.
+We can't sell. Nobody wants
+those vehicles.
+And the point that Senator Woods
+is making is
+This is a silly rule.
+could never occurred.
+And it would be even more silly
+if we spent
+Whatever it is, a million bucks
+putting them in the legislature,
+because for many districts.
+Our legislators couldn't get up
+here and back on an EV chart.
+And it just doesn't make any
+sense, but I appreciate it. I, I
+appreciate the, the bill and the
+Opportunity to talk about it, I
+would hope sometime legislature
+would wise up and let the people
+of New Mexico have a choice
+instead of trying to mandate
+what they ought to do. Thank
+you.
+Thunder block
+Thank you, Mr. Chair.
+Mr. Whip
+So, let me
+Let me just ask you a simple
+question here looking at the
+bill. I want to make sure I'm
+reading this correctly.
+You're a lot smarter than I am.
+Uh, Mr. Chair, Mr. Whip.
+It says here on line 18, page 1,
+section A.
+The Director of the Legislative
+council service shall ensure
+that no later than December 31st
+of 2026.
+At least 43% of the vehicle
+parking spaces in the parking
+facility located beneath.
+That's the word I have a problem
+with.
+Beneath the building.
+In which the legislators housed
+are equipped with an EV charging
+station.
+Why, why is it only in the nice
+Secluded
+Warm
+secure
+Elite
+Parking spaces.
+For the legislator, legislators
+and key staff.
+So let me, let me make sure I
+have the question right.
+Why
+Does the legislature expect to
+have
+Better conditions.
+In
+The parking judge.
+Then the general public does.
+Outside of the parking garages,
+it's that kind of the, the
+question you're asking me,
+Chair, Mr. Whip.
+Why would you discriminate?
+Against all the other parking
+spaces that are state property
+around the roundhouse.
+But you were kind enough to give
+the legislature.
+Legislators and key staff.
+This opportunity.
+You know, that's a dang good
+question.
+You know
+Why should I limit it?
+Why shouldn't I put
+I shouldn't I amend my bill to
+include.
+All state property in the state
+of New Mexico.
+At 43%.
+And stood at just beneath the
+roundhouse.
+You know, that might be a good
+amendment.
+Thank you Mr. propose it.
+Thank you. Thank you, Mr. Chair,
+um.
+You know
+I, I appreciate Senator
+Townsend's um.
+comments and.
+Uh, Mr. Chair, and, um, you
+know, I.
+As an American, I believe it's
+my choice what kind of car I
+want to buy, and quite frankly,
+I think I'm not sure if I told
+you, but I, I bought a Tesla.
+It's delivered in March.
+I can't wait.
+Let me ask you just a couple of
+infrastructure pieces here to
+your bill that excludes
+everybody else, Mr. Webb.
+Except
+us
+The plugs downstairs currently
+or in this bill, are they plugs
+that can be used for different
+EVs like Senator Stewart has
+some type of other car.
+I got a Tesla, someone else can
+have a different.
+Electric vehicle are all these
+plugs, do they have a
+standardized plugging station
+that would charge all cars.
+In this bill
+Um
+Chairman
+I did not bring an expert
+witness with me today.
+Uh, I regret that at this point
+in time.
+So I, I'm gonna have to plead
+stupidity on that particular
+question because I don't know.
+Thank you, Mr. Chair. Um,
+lastly,
+Mr. Chair, Mr. Whip.
+We're talking about this
+building.
+So if I want to.
+For some reason, these chairs.
+are bad
+They're worn out. There's so
+many people sit in them 30 days
+a year, 60 days a year.
+And they get worn out. Do we
+have to have a bill?
+To say we're gonna replace
+chairs in different committee
+rooms. Do we need that, Mr. Mr.
+Whip, is that, would that be
+appropriate for a bill?
+the facility.
+chair
+Mr Chasen block, I believe
+that's the.
+Capital
+Planning commission.
+That I've been lobbying to get
+on to.
+To, to take care of the
+infrastructure of the
+State capital building. Thank
+you, Mr. Thank you, Mr. Chair,
+Madam Chair, so.
+Would, would this not
+under that
+Capital thing you just
+mentioned, Mr. Whip.
+Well, there's a good possibility
+this is plumb out of order, all
+right? Yes, I'm, I'm sorry I
+couldn't hear you
+first Mr. Chair, Madam Chair,
+uh, it's a good possibility this
+bill is completely out of order.
+It should be done by the capital
+Planning Commission, but just
+saying.
+That, uh, it's your prerogative.
+To vote up or down on the bill.
+Thank you, Mr. Webb. Thank you,
+Madam Chair, Mr. Chair, so.
+I, I guess if
+Mr. Chair, Madam Chair, Mr.
+Whip, if you've been lobbying to
+get on this particular
+commission.
+What type of projects are on
+that infrastructure because
+we're talking about
+infrastructure for the building
+here.
+Are there, are you aware of
+other infrastructure projects
+that are on that commission that
+are not bills.
+Well, I know that, uh, Mr. Chair
+and Madam Chair and, and Mr.
+Senator Rock and
+Committee, the biggest uh
+Project
+That is being talked about today
+and that
+Commission
+Is a new
+Executive office building.
+That is being held up right now.
+Because we've got
+To conceit that's in the uh
+realm.
+Of the city of Santa Fe, saying
+that they are
+Historical sites and
+In order to build the planned
+building that we're talking
+about.
+We need to
+Do away with those two casitas.
+So, and
+Why I bring this up is
+There's an a by the executive
+for 150 million to move forward
+with that project, but we've got
+about
+84, 85 million set in a fund
+right now.
+That is completely blocked by
+negotiation.
+To
+The city of Santa Fe and the
+General Services Department
+comes to me and says, 00, no,
+no.
+We need an extra 150 because I
+need to let a contract because
+if I ever start, I don't want to
+stop.
+But the problem with that is,
+Senator Block and I'm getting a
+little long winded here. I
+apologize, but the problem with
+that is,
+Uh, when we change
+administrations,
+The whole plan may change.
+So, so
+I'm kind of in the camp of not
+committing another 150 million
+right now.
+On that, because
+I want to see
+Another year down the road,
+whether they get, they win the
+fight.
+With the serious.
+Thank you, Mr. Webb. Thank you,
+Madam Chair. And Madam Chair,
+uh, since, uh, the whip doesn't
+have an expert witness with him.
+When I read the title of the
+bill on 9/11 relating to the
+legislature requiring the
+installation of electric vehicle
+charging stations.
+I, I don't know. I generally
+don't know what the rules are on
+facility improvement if it has
+to be a bill because it reaches
+a certain threshold of dollars,
+so it has to be a bill.
+But I mean, if we're going to be
+installing.
+If this said relating to the
+legislature requiring the
+installation of
+Oh,
+You know, monitors.
+300 inch monitors in the
+chambers or.
+New computer stations in the
+offices, would we still have a
+bill for that, or would it not
+be covered under some facility
+infrastructure budget line item.
+I don't know, but I'll tell you,
+uh, Madam Chair, and, and, uh,
+Mr. Whip is.
+For you to leave out in
+discriminate.
+All the other people.
+Outside the building.
+On this
+Um, I, I, that's one reason or
+two, I just, I can't support it.
+Um, because you're just only
+Doing this for us.
+And um
+I appreciate you being conscious
+about, you know, trying to take
+care of your fellow legislators
+and staff.
+But um
+I
+I, I, I think there's too many
+questions here. We don't have a
+witness to answer some of these
+infrastructure pieces on the
+thresholds and the rules, so,
+um.
+Mr. Whip, I thank you for your
+time.
+Thank you, Madam Chair. Thank
+you, Senator Stewart.
+Um, I've moved the table.
+That's a non-debatable motion,
+uh, let me ask this, is there
+any opposition to that motion.
+I don't like. All right, let's
+go ahead and do it, well, let's
+go ahead and do a roll call
+on the motion to table, uh,
+Senator,
+Senator Bergman, yes.
+Senator Block. No.
+Senator Brantly.
+Go into
+Senator Gallegos. Oh man.
+Senator Lopez, Senator Lopez is
+excused.
+Senator Stefaniks.
+Senator Stewart, yes.
+Senator Towns
+quite low.
+Senator Jaramil.
+Senator Doig. Yes, and with that
+the bill is table of Senator
+Brantly to explain our vote.
+Thank you, Madam Chair. Senator
+Woods, you're a man of few but
+meaningful words and in cowboy
+idioms.
+What, what is the expression,
+what's good for the goose is
+good for the gander me.
+Maybe you better say that one
+more time for the goose is often
+good for the gander, meaning
+that we should probably treat
+situations and people fairly
+correctly, including good ideas
+and bad ideas. So we received
+your point well taken. Thank
+you, Mr. uh.
+Thank you, Senator. I am
+dismissed you are, you are.
+Thank you for, for spend time
+with us. We're. Thank you. We're
+grabbing Senator Cervantes, and
+then we will
+You, you, you have a better
+crowd than Senator Woods did,
+and it was just security,
+um say you look better.
+All right,
+I of the justice component
+because I thought that gave us
+much greater scope of the issues
+that were actually before us in
+that committee, and they, they
+oftentimes went beyond just
+courts and certainly beyond
+corrections.
+The the history of that interim
+committee, I think also probably
+originated out of the prison
+riot, uh, the infamous state
+prison riot where there was a
+lot of attention paid to
+corrections for a period of
+time. But the scope of that
+interim committee has changed
+quite a bit. So the bill before
+you propose is to do a couple of
+things. It proposes really just
+to simplify the name, I think to
+recognize the expanded scope of
+what we're dealing with in that
+committee, and those of you
+again, that are serving there,
+that are new to the committee,
+Senator Brantly, you know,
+there's no, we're dealing with a
+lot of different things.
+So it's, it's to really expand
+on that, on that, uh, title, not
+with a real consequential
+difference, but the real
+consequential part of this bill
+is to do two things right now,
+that committee is a um not a
+standing committee during the
+interim. It is, it is a
+legislative council create a
+committee. I think it should, I
+think it deserves because of the
+branch of judiciary being a
+separate branch of government.
+It deserves a permanency, and we
+should recognize that 1. And 2,
+I think that that committee
+really does need to have
+subpoena authority, uh, subpoena
+authority principally
+be able to obtain records and
+documents, but also to compel
+the attendance of witnesses, and
+we watch uh Congress in
+Washington DC using that very
+effectively, I think, and so I
+won't go into the specifics, but
+we've seen investigations of
+various parts of the executive
+branch, and even the judicial
+branch in Congress by being able
+to subpoena and bring uh people
+to compel them to testify.
+And so that's the really the
+principal authority that I'm
+asking for here right now, we
+don't have that authority, and
+we've had administrations in the
+past that I've been, I've been
+here for, and we've asked
+cabinet secretaries to come to
+our committee and they just say
+we, we're not coming, right?
+And, and what, what do we do at
+that point?
+In Congress, of course, they
+issue a subpoenas and then if
+they don't comply with the
+subpoena, they go to court and
+they get a court order and they
+still don't comply, they go to
+jail, uh, in, in contempt of
+that order. I really do think if
+we want to strengthen our
+legislature, we talked about
+modernizing and
+professionalizing ourselves. We
+had to take that authority that
+Congress has, um, and be able to
+bring people when they don't
+want to be here, or give us
+documents when they don't want
+to give them to us. And that's
+the principal authority. Right
+now, the subpoena authority
+resides only with legislative
+council, number one. And number
+2, the other problem is
+The subpoena authority only
+exists sometimes by a vote of
+the entire chamber. So, for
+example, in the past, I've been
+asked to chair impeachment
+inquiries, and for example, I
+was asked to chair the
+impeachment of the former PRC
+commissioner, many, many of you
+all remember the scandal where
+he was using his credit card and
+selling gas at the gas pump and
+so forth. Uh, I was asked to
+impeach him, and we couldn't get
+any subpoena for documents until
+we could get the whole house
+together, uh, in a chamber to
+get everybody together and vote
+on it. And, of course, that's
+pretty.
+effective and efficient to
+expect us to do that during the
+interim. So that's really the
+purpose and goal behind this
+bill, and I'll stand for
+questions.
+Thank you, Senator. We didn't
+have anyone sign up in support
+or opposition on this, members
+of the committee.
+OK
+Townsend.
+Madam Chair, Senator.
+Just a quick question. If you
+have subpoena powers. Does that
+also put the risk of those that
+are
+Under that subpoena.
+To be sworn and have perjury
+restrictions on them.
+Um, Madam said, yes, that could
+be the case, so for example, of
+an individual is subpoenaed to
+appear, um, and they refused to
+do so, then they began began a
+kind of a cascade of events. So
+we would presumably go to court
+and ask the court to compel the
+subpoena and and at that point
+in time, you're right, they
+could be put under oath and be
+subject to perjury.
+Uh, the, um, again, the power
+seems very onerous, I think
+maybe to the non-lawyers, but
+every lawyer in the room here
+has that authority. I can issue
+a subpoena this afternoon for a
+case that I've got, because
+we're entrusted as officers of
+the court, I can subpoena you in
+a case of, again, you have a
+remedy, you can move to quash
+the subpoena and go to a judge
+and say, Mr. Cervantes has no
+business compelling me to do
+anything. I've got nothing to do
+with whether he's concerned
+about and a judge can be
+persuaded there too. So there
+are remedies uh for an
+individual who's subject to a
+subpoena, but
+That usually means having a
+judge hear both sides
+requirements in the legislatures
+might be a big beneficial.
+Oh, addition to the legislature,
+so, madam chair, uh, senator,
+thank you.
+Thank you.
+Uh, Senator Bergman is followed
+by Senator Stewart. Thank you,
+Madam Chair. Just a quick
+question. I'm just wondering why
+you arrived on the composition
+of 8 members.
+Um, Madam Chair, and Senator,
+again, whenever we create boards
+and commissions, there's always
+some level of.
+Of, uh, reliance on what we've
+done in the past. So we have
+some boards that I think are way
+too big, I have, we have some
+boards that I think are way too
+small. And this is like a little
+bit like Goldilocks, you know,
+you're trying to find it just
+right, and, and the goal here is
+also to try and assure that in
+the number, there's an
+opportunity for the minority
+party to be represented on, on
+any endeavor, um, and the
+majority as well too, and that
+we have equal appointments that
+make some sense uh from both
+sides and it's a fair
+reflection. So the the the the
+this kind of authority does not
+become abused, really, that's
+The idea behind that is to
+spread that out a little.
+OK, thank you.
+Senator Stewart.
+Uh, thank you, Madam Chair.
+I, I appreciate this. I want to
+support it. Um, I'm going to
+support it, but I have a
+suggestion.
+And that is when you have 8
+members, and it's
+proportionality. It's 6
+Democrats and 2 Republicans.
+That seems a little short on the
+minority. If you did 10.
+You would have 6 Democrats and 4
+Republicans, which I think is
+better.
+Uh, so, uh, you could certainly
+make that amendment in the next
+committee if this gets out.
+Um, I, I appreciate the smaller
+number because some of these
+bigger committees can move and
+cannot do anything.
+But the smaller you make it,
+unless it's truly proportional.
+Uh, so it's just a suggestion.
+Thank you, Madam Chair,
+And you wanna make that
+amendment here, I'll make that
+commitment to you. I think
+that's a good amendment. You,
+you uniquely as the present
+Senate know what it is to track
+with these committees together.
+I remember working with Senator
+Pain when she was president
+looking at the board, what's
+called the board, you all would
+find this fascinating, there's
+little pieces with your names on
+them and they're moving them
+around in the back room, trying
+to, and it's really hard. It's
+a really hard job to get it all
+balanced out and to be fair and
+consider that. So I, I think
+that's a good amendment and I,
+I've Madam President, and I've,
+uh, again chaired this in the
+past, and I think that's, I want
+this to be a robust committee. I
+really do, and I think it
+deserves to be given the
+increased role we're seeing
+today, we're going to debate on
+the floor competency and um
+clearly the court's role in
+competence and behavior health.
+We've done that with the
+behavioral health we're bringing
+the court in a very robust role,
+frankly, in terms of behavioral
+health. And so, we're gonna have
+to start looking.
+their budget, uh, their
+staffing, and that oversight of
+of us of that separate branch of
+government, I think becomes more
+important.
+So, Madam Chair, uh, I move that
+we amend page one of Senate Bill
+456 on my 23 strike 8 and the
+certaint in lieu thereof. 10
+online 24.
+Strike the number 4 and insert 5
+online 25, strike the word for
+and in cert 5.
+Alright, is there any debate on
+that amendment, Senator Block.
+Thank you, Madam Chair. Um,
+thank you, Senator Stewart. I, I
+really like that idea, um.
+You, you mentioned earlier about
+a large group having some some
+issues if we kept it at 8 and
+you still had a difference of
+53.
+We might be able to get a little
+bit more done with that, would
+that be something, uh, you
+would, um,
+Favor, if not, why?
+So, uh, Madam Chair, Senator
+Block, it doesn't work 53, got
+the same amount from each.
+Chamber
+So if you have only 4 from each
+chamber.
+With the proportionality, it's 3
+Ds to 1 R.
+If you've got 5, it's 3 D's to 2
+R's, a smaller it gets, the
+weirder the proportionality
+gets, so you can't do 5 and 3,
+it doesn't work like that. You
+gotta have the same number from
+each chamber to get the
+proportionality.
+Thank, thank you, uh, Senator
+Stewart, Madam Chair, I
+I, I understand the math,
+unfortunately all too well.
+But I was looking at um.
+If we had 4 and 4.
+And you would have a, you would
+have a different amount of
+senators and reps, we have more
+reps, I would be inclined to
+accept, you know, um.
+5 reps and 3 senators, but when
+it comes to.
+You could take the
+proportionality out of here and
+what I'm trying to get at is I
+think a smaller number.
+Is a lot more efficient and
+better than than a group of 10,
+I'm willing to accept.
+55 Dems and 3 Republicans, um,
+and getting rid of the, the
+proportionality to make that
+amendment, uh, cause I, I'm not,
+I mean, I don't know what my
+other.
+fellow senators think about
+The senators having less members
+on this.
+than the Republicans, I'm seeing
+a shaking no from the chair, but
+I was just trying to keep it a
+smaller number still a margin of
+2.
+Um, and, and go from there.
+Thank you.
+All right. Any other, any
+further debate on the amendment?
+I'm sure I'll know that those
+notes come from a former county
+commissioner, uh, and I was a
+county commissioner too. It's
+really nice to be on a board of
+5, right when you're county
+commissioner, it's pretty
+efficient, but here I see the
+issue, and I hope you do too,
+Senator, that, that the what the
+president of the Senate is
+talking about is we're gonna
+have equal numbers from the
+House and the Senate.
+And so if it's 8, you're gonna
+have 4 and 4 from each chamber,
+and you're not going to have the
+house put two Republicans and 2
+Democrats, or the Senate 2
+Democrats and 2 Republicans,
+they won't do that. So it'll be
+a 3 and 1 of each chamber, and
+if you put 3 in 1 of each
+chamber, you're going to end up
+with 6 and 4 and and or, you
+know, you're gonna have that
+imbalance 5 and 3, or my mouths
+off, 5 and 3, so I, I think this
+is a better balance when you
+kind of play it all out. And I,
+and I think that's a better sell
+for the House of
+Representatives. You're never
+going to get the house to agree
+to have fewer members on this
+committee.
+Um, then the Senate and the
+Senate's never going to agree to
+have fewer members in the house,
+and that's the way our system's
+supposed to work. We're supposed
+to be equal balanced.
+All right, uh,
+100 on the amendment.
+I would just, um, I'm here
+bright new ice and say Senator
+Stewart, and I agree on this.
+Heck, the other day Senator
+Scher moved to DuP pass on one
+of my bills, he could knock me
+over with a feet.
+All right. Uh, is there any
+objection to adopting that
+amendment?
+See on that amendment is
+adopted. We're back on the bill
+as amended.
+Du Pas has amended.
+OK, center block. Thank you.
+Before we do that, uh, I'd just
+like to ask Senator Savantis a
+couple questions. Um,
+So I understand the 10 now, the
+proportionate, so that's, that's
+taken care of on.
+Page 3, starting with section B
+on line 2, sir, it's the courts
+and Justice Committee has the
+power to conduct, well, the
+courts and justice committee, is
+there going to be additional
+staff needed to support the
+committee.
+Well, Senator, if you look at
+the last page of the bill, yes,
+I'm right on section 5, page 4.
+You'll see the staff is provided
+by legislative council service.
+They've always staffed this
+committee, they do a good job of
+it. Uh, we always have more than
+adequate staff, uh, to do this,
+so I, I'm confident we can do
+that the way we always have.
+OK. Thank, thank you, Senator.
+Thank you, Madam Chair. Yeah, I,
+I did read that, but I wasn't
+sure if it meant more staff or
+the same level.
+Increased level of effort with
+no staff. Sounds like it's an
+increased level of effort with
+no additional staff.
+Um, I, I don't, I think the
+increased effort will be to de
+minimis, I mean, we, uh, so
+again some of many of us have
+served on the interim committee
+before. I hope you'll ask to be
+on it and I hope everybody here
+will ask to be on it. Um, we
+have voting members and then we
+have non-voting members, of
+course, but the Legislative
+council, just so you may, you
+may or may not know, they staff
+all of our interim committees
+and so the staff upstairs will
+sometimes serve on, uh, staff
+for multiple other committees,
+and so we'll see some of the
+same faces, uh, on our various
+interim committees that, sir.
+Thank you, Madam Chair and
+The online 9 here in regards to
+the subpoena, um, same page,
+page 3.
+On line 9, it says uh.
+The committee, the subpoena
+shall be made by a sheriff.
+Does, is it your intent to
+include a deputy in that, or is
+there some type of statute where
+it has to be the elected
+sheriff.
+Uh, um, and so that's kind of a
+common way to serve a subpoena,
+I think law enforcement doing
+this is probably the right way
+to do it because they're usually
+very professionally trained and
+there's no suggestion that
+they're gonna.
+Be improper or, or exceed their
+authority in doing so. So this
+is what they, they do it
+routinely issue subpoenas and I
+think that's the right way to do
+it. Thank you, sir. Thank you,
+better chair, because I, I've
+seen deputies, uh, do the
+subpoenas in Sandoval County, so
+I just wondered why.
+That was um left out. I
+appreciate the explanation. And
+then lastly, um, same page, um,
+Line 20 on the subcommittees.
+Well, what
+What type of subcommittees, how
+many uh are we gonna be doing,
+what are the names of those
+subcommittees?
+Um, I'm trying to think of good
+examples where we've had
+subcommittees, and I know we
+have on that interim committee.
+I'm trying to remember what they
+would have been on that there's
+uh Stewart, the president is
+nodding her head so she maybe
+remembers what one of those
+subcommittees may have been,
+they came out of the legislative
+Health and Human Services
+Committee, which is a statutory
+committee with a very small
+number of people on it. So
+they've created a numerous
+subcommittees of behavioral
+health subcommittee, a
+disability.
+right subcommittees, so and
+those subcommittees.
+Uh, uh
+worked for several years. We
+continued to approve them for a
+number of years. Uh, we did in
+the last two times, you know,
+COVID is just cut down on all of
+our work.
+Yeah, I met him, uh, chair and
+uh president in response to that
+the the example, uh, Mr. Laterre
+just reminded me of, of this
+particular interim committee
+it's now known as the court's
+Corrections and Justice
+Committee, we have had a
+subcommittee, they're no longer
+working, I think, but they
+worked for several years. It
+involved, uh, Representative
+Chasey and represented Maestas
+on a rewriting of the criminal
+code and their task was to kind
+of go through the entirety of
+the criminal code and look at
+the things we look at all the
+time, which is our, our
+penalties in line with.
+Uh,
+essentially internally
+consistent. This is the problem
+we run into oftentimes is we, we
+have everybody coming in here
+saying we need to increase the
+penalty for this, that and the
+other, and if you let that go
+without some thoughtful process,
+you end up with penalties for
+one crime that are are excessive
+of what they should be in
+relationship to other crimes,
+and so the goal here is to look
+at the whole picture and there
+was a subcommittee working on
+trying to do that right. Thank
+you, sir. Thank you, Madam
+Chair, I yield.
+Right, we are on a motion for a
+due pass as amended, uh, from
+Senator Stewart. Is there any
+objection to that motion?
+They show us that Esophonics,
+voting no, and
+1234.
+78. And with a 8 yes, you do
+pass on. Thank you.
+OK.
+All right, so nurse Scott, come
+on up. Town and I don't know if
+you want to go down there with
+them.
+Right. All right.
+We're going on to Senate Bill
+423. Uh, this will be our last
+bill today.
+Go ahead, Senator Scott.
+I
+Ready when you are.
+Now the chair members of this
+committee are bringing.
+The committee this morning.
+Senate Bill 423.
+This is piece of legislation
+dealing with
+Legislative approval.
+Of agency rules.
+Bill does 3 things.
+Or any rule that is predicted.
+To
+Past the state.
+A business
+Or an individual more than $10
+million.
+And then there are some other
+parameters.
+That would
+All 5
+A rule as a major rule.
+Uh, that rule requires
+Legislative approval.
+Now
+If the rule is put forth during
+a time period when
+Legislature is not in session.
+The governor has the authority.
+To implement that rule on an
+emergency basis where it would
+Remain in effect through.
+The next
+Legislative session.
+Finally, the third thing that
+the bill does.
+His sunset.
+In 5 years.
+All rules.
+That are not enshrined.
+In statue
+And with that matter chair.
+I will stand for questions.
+Right, we did not have anyone
+sign up and support our
+opposition on this, members of
+the committee.
+Center Townsend.
+Thank you, Madam Chair. Um,
+There she got
+Um
+How many states?
+That you're aware of have some
+form of this type of
+legislation.
+Um
+Madam Chair, Senator Townsend, I
+believe.
+I've discovered that in the FIR
+and that number is 41.
+41 states of 41 legislator
+legislatures.
+Have thought that this was
+A good idea.
+Um
+In some form or another.
+Uh.
+got
+um,
+One of the issues that I know
+that you and I've talked about
+on this is.
+is for the um
+Political accountability of
+rules.
+Because sometimes rules are
+Or
+viewed by many as being
+politically motivated. How do
+you believe this rule would
+Bring some accountability.
+Madam Chair, Senator, what?
+And I drove home the need.
+For this piece of legislation
+and
+The ill before this last one
+would have been a perfect segue.
+Into this conversation.
+Is that
+We passed or were unable to
+pass.
+Through this legislature, the
+California Clean car 2.
+Rules
+That were then implemented by
+This administration
+Which requires
+43%.
+Of the vehicles sold in the
+state.
+Bye
+I think next year, maybe a year
+after.
+To be either
+Electric
+Or plug in electric. Now the
+market penetration of these
+vehicles today is about 3%.
+This rule was passed.
+And is currently in force after
+2.
+He
+There was one in Albuquerque.
+There was a public hearing in
+Santa Fe, and there was a zoom
+meeting.
+Which left completely out of the
+conversation.
+The rural communities.
+In New Mexico.
+Where this mandate.
+I looked upon with.
+With an extremely
+Squinty eye
+The folks in my community.
+Absolutely do not feel.
+It is
+is an appropriate mode of
+transportation.
+And the car dealers.
+Who had
+Virtually no opportunity.
+Or input
+Or
+Up in arms, if you will.
+Because they fear.
+This mandate.
+Will cause their customers.
+You go someplace else.
+At this
+At this been vetted through the
+legislature. I think we would
+have had.
+Significantly different outcome.
+And more importantly,
+We would have had
+Political
+Accountability
+Environment Department did this.
+Unelected bureaucrats.
+That they're not accountable.
+To their voters
+This bill
+Will make us.
+Politically accountable.
+For the rules.
+Which have the force of the law.
+That we're forced.
+Liver
+There's got, I, uh, Madam Chad.
+And know you're aware. I don't
+know the center Scotts aware
+that.
+Um
+Cervantes that just uh
+presented.
+has made numerous comments in
+Uh
+Both conservation.
+I think in
+right,
+conservation predominantly where
+He has said that this
+legislature had um
+Disarmed itself and weakened it
+itself by
+I, uh, giving away our
+authority.
+And, and I think that this is.
+I think he's exactly right. I
+think the legislature has
+Given away our authority by
+allowing some of these stuff.
+Like you just described to
+happen.
+But I have been a proponent for
+And, and I know you stand for it
+too, is
+Not
+What is politically
+strategically good today, but
+good public policy, whether
+Republicans are in charge or
+Democrats in charge. What is
+good public policy.
+And, and, um,
+I think what you're, I think
+this bill.
+That you have brought forward.
+tries to substantiate the role
+of the legislature.
+Um
+The strength of the legislature.
+Because they'll come a time when
+we have
+A governor of one party upstairs
+and, and um a legislature that
+has the majority of the opposing
+party, and what you want is
+Yeah
+The legislature, and I've said
+this to
+A previous governor didn't go
+over real good, but legislature,
+you know, governors come and go
+and legislators live forever.
+Legislatures live forever, and
+what I mean is that that role of
+The governor is, is, is a 4-year
+term.
+And, and that comes and goes,
+but
+The the power of the legislature
+is, is equal to the power of the
+courts, and we shouldn't be
+giving it away. So I, I, um.
+I think the bill of the that you
+presented and I signed on to is
+a is a good deal. I think it
+meets the needs of the people of
+the Mexico.
+41 states do it in some form.
+Um
+The ethics committee, uh, I see
+says it's unconstitutional and
+And uh
+That, uh
+I don't believe they're right.
+I think, I think it's wrong, and
+I think it would be wise to
+incorporate some form of this in
+our, in our body. Thank you,
+Madam Chair.
+Thank you. Next, I have Senator
+Bergmans.
+Thank you, Madam Chair. Thank
+you, Senator, and thank you,
+Senator Townsend for raising
+that point. I just wanted to
+give you an opportunity to
+address the
+The mentions in the FIR of the
+unconstitutionality of this
+idea.
+I brought my constitution with
+me and studied Article 5,
+Section 1.
+At some length this morning.
+And it appears to me that
+That particularly just
+referencing that section,
+calling it unconstitutional.
+It's quite a reach.
+And
+The fact that
+At 41 states have done this.
+With
+I think somewhere around 30 of
+those.
+Either
+Oh
+Taken these rules.
+Into statute.
+Or
+Approving them by resolution.
+Tells us that we're not plowing.
+Any significant new ground here.
+This is
+Something that most
+Half an opportunity to uh most
+legislators, legislatures have
+an opportunity.
+Thank you for that response. I'm
+also curious if the.
+to mention in the FIR is
+included in
+House Bill 2.
+Uh, Madam Chair, Senator, I
+cannot answer that question, but
+I. OK, thank you.
+Senator Stewart.
+Thank you, Madam Chair.
+So, uh, thank you for uh the
+information about, you know,
+really the, why you did this,
+uh, the clean car fuels.
+Uh
+What I want to say is that it,
+it's just too broad and there's
+too much of an overreach. If you
+look at your definition on page
+13.
+Uh, where
+The annual effect is 10 $10
+million or more.
+Uh
+That's all the education rules.
+Every rule we have in education
+is attached to a huge amount.
+Uh, it's a, a billion dollar
+industry education.
+So, I, I don't see how this
+could actually work. Uh.
+You know, I used to pass like
+3-page education bills, and out
+of that I'd get 25 pages of
+rules. I mean, we have rules for
+everything. Um, but if you're,
+if you're gonna
+Stick with this definition.
+You've just captured way too
+much.
+Um
+So, I, I don't see how this
+could work on education,
+especially, you know, 5 years
+the rule goes away. I mean, that
+makes no sense uh for education
+in particular, I'm not talking
+about clean car standards which
+You know, you, you brought your,
+your issue around that. I'm just
+saying that you, this is a huge
+broad overreach and covers every
+aspect of what we do, and it
+just won't work.
+I would submit that.
+The rules that remain relevant.
+Even though they were passed
+many years ago.
+Will
+Sail through
+The review process.
+Those that do not remain
+relevant where there are
+Questions from
+Either side of the aisle as to
+Whether they have outlived their
+usefulness.
+Those rules, I think.
+Will
+Get the attention.
+Yeah.
+That they, that they would
+rightfully deserve.
+And I'm sure you're having the
+legislative finance Committee,
+be the one that does all this
+review of rules.
+Madam Chair, I too was surprised
+at the fact that LFC only in
+their
+In their analysis only required
+2 staff attorneys.
+To stay on top of this. I
+thought the number would be
+higher.
+Thank you, madam chair.
+Thank you, Senator Bradley.
+Thank you, Madam Chair. I, I
+think you're gonna have a
+because of the the
+constitutional issues that are
+brought up in, in this, I think
+you're gonna have a hard time.
+This is no surprise to you
+getting out of this committee,
+but I very much appreciate the
+messaging of that, and that is
+that the legislator often
+relinquishes our authority over
+to bureaucrats, the same
+bureaucrats I know that.
+that wrote this, you don't have
+to look any further than the 180
+day school school rule, right?
+That it was not the intent of
+the legislator, PED took it upon
+themselves to create rule, and
+it was overturned in court. What
+a process, but I, I, I will say
+that um I often think that these
+agencies undermine.
+The legislators quite often, and
+I would say moving forward that,
+that perhaps we need to make a
+commitment as a legislative body
+is to hold agencies more
+accountable when they do that
+because the, the message of what
+you're bringing forward is loud
+and clear, and that is that a
+lot of the decision making that
+happens, it has such a direct
+impact on New Mexicans are not
+done by the legislator, but the
+bureaucrats instead that are
+running these agencies. And so I
+hear it loud and clear, thanks
+for, thank you for bringing that
+message.
+OK
+All right, I don't have anyone
+else on my list.
+So Senator
+Uh,
+There are 4 states who have
+adopted.
+It's kind of an approach, not
+41.
+Uh, there's a number of states
+where it has been introduced a
+number of states where that
+legislation has been killed.
+Um, but only
+Let's see, Kansas, Indiana,
+Wisconsin, and Florida.
+That's, um,
+And uh I and this is, this is an
+Alec bill.
+Um, so I'm not sure.
+Where the, the 41.
+Number came from, but, but I
+think it might be taking a
+liberal interpretation of, uh,
+of legislative oversight over
+agency rules to get to 41 there
+you to the FIR.
+Second paragraph under
+significant issues.
+And that's where that number
+came up.
+Mm. Wow, senator, uh, you know,
+I've had a lot of FIR concerns
+this session, and they're
+definitely not getting resolved
+by this. That was about a 3
+minute Google I did to find
+that, um.
+Who is writing our FIRs. So, um,
+I think this is
+unconstitutional.
+You are.
+We are, we are co-equal
+branches, but you are now
+saying, giving the legislature,
+uh, explicit authority over
+agency over agency rulemaking.
+Uh, you are giving the governor,
+uh, explicit authority over
+independence executive agencies
+that she does not
+constitutionally have that
+authority over.
+Um, there's a real separation of
+powers issue here, uh, and one
+that creates more bureaucracy.
+Not less. Um, so I, I feel that
+I often hear from from our my
+colleagues on, on the right side
+of the table.
+We need, we, we need less
+bureaucracy. We need less
+government, and this would would
+create more, which I don't think
+is, is your intention, um, but,
+but I think it would be the
+effect. Um,
+Some of the language in here.
+I'm looking at
+Where is it? Page 6.
+This is one of this is talking
+about what a major rule is.
+And you know, you list 4 things,
+and number 4, which starts on
+line 18 on page 6.
+Significant changes in social or
+cultural relations among
+citizens.
+Including significant impact on
+religions and ethnic, racial or
+gender populations.
+Who
+makes that determination. That
+is, that is so vague.
+Um
+The relations be among citizens,
+I mean, that is.
+That that went to court. I think
+that would be, be stricken for
+vagueness. Um,
+I think this whole thing would
+be stricken.
+As unconstitutional.
+But I, but it also in, in
+looking at on that same page on
+6.
+You're looking at just the
+costs.
+Um
+And there's no consideration of
+the benefit. We do cost benefit
+analysis here. Uh, if you look
+only at cost. So, so Senator
+Stewart was talking about the
+fact that all every education
+rule is going to
+To exceed these limits.
+Automatically, and there's no
+consideration whatsoever.
+For the benefit.
+That they are providing to the
+students of New Mexico, um, cost
+alone is not
+Shouldn't be, shouldn't be the
+only consideration we need to
+look at.
+The impact
+Of what it's doing, not just the
+cost of it. Um, but, but
+overall,
+I think you have an unsolvable.
+constitutional issue here.
+Um, which I
+I realize and
+In Kansas, Indiana and Wisconsin
+and Florida.
+They might not think so. I'll
+note that uh this was vetoed in
+both Kansas and Florida, and
+then there was a veto override.
+I in both those states.
+Um
+Uh, one of the only two both
+Kansas and Indiana, this was
+just last year that they have
+adopted it, uh.
+So I don't know what challenges
+will be brought and I and I
+don't know what their state
+constitutions say.
+But I think under our
+Constitution.
+This is
+And, and even not just
+specifically our constitution
+under just the concept of
+separation of powers.
+This, this violates.
+The, the core tenet of, of
+separation of powers. Um, so I,
+I appreciate the.
+The intent behind it, and I
+appreciate every intent,
+everything that is looking at
+empowering our legislature. I
+am, I am usually a huge fan of,
+uh, I think.
+Our power, our legislature, we
+in our three legged stool, uh,
+here in New Mexico, um, the
+legislative leg is, is cut off
+halfway. Uh, we do, we are, we
+are under empowered, and we have
+overemppowered our other
+branches as a result and, and
+every time we are last in
+something, uh, I think, well,
+that's because only two of our
+branches of government are
+operating as they should be, uh,
+and the branch that is
+responsible for essential
+oversight, uh,
+As has never been
+professionalized in a way that
+would allow it to do that job,
+that its job. So I, I definitely
+appreciate your
+Your intent of, of making us,
+uh, of, of making our branch, at
+least as strong as the others.
+But I, but I think you have
+unsolvable constitutional issues
+here that, that don't allow this
+to be the approach that, that we
+can take.
+Oh go ahead. If we look on page
+4.
+Evaluation clearly requires
+costs and benefits associated
+with the rule.
+Madam Chair.
+We have
+Four levels of public policy.
+Starting with the Constitution.
+Then we moved to statute or
+laws.
+And we moved to rules.
+Then we moved from there to
+executive orders.
+Now
+Those rules.
+That are
+Developed
+By agencies.
+Sometimes with very, very
+limited input.
+Carry the force of law.
+So what this piece of
+legislation does.
+I recognized that.
+An elevate.
+That
+Review if you will.
+To the same level as we would.
+With any statue.
+And I believe
+It
+That is exactly the process.
+That this legislature is
+undergoing at the current time.
+This whole session.
+It's been about elevating.
+The governor's executive orders
+and a statute.
+Thank you
+A thorough hearing.
+And wants an active, there are
+much, much harder.
+To modify
+Thank you, Madam Chair. I'll
+just know that, so our, our
+state rules Act requires public
+hearings on all ruled options.
+So there are, there is, there's
+an opportunity.
+Or people to weigh in on the
+rules built into our law, and it
+is incumbent upon us to take
+advantage of that opportunity.
+If we are not.
+Participating in those hearings,
+if we are not, uh, make voice
+Participating in those hearings,
+if we are not, uh, make voiceing
+Participating in those hearings,
+if we are not, uh, make voice
+scene, uh, objections and
+concerns on rules, then that's
+on us.
+Uh, but we, we have that, that
+possibility. Um, also note that
+one of the and this, there was
+the, the Chevron doctrine got
+struck down at a federal level,
+uh, not too long ago, and
+With that, with the Chevron
+doctrine had said was agencies
+have the expertise.
+None of us up here, we might be
+experts in one or two things,
+none of us are experts in
+everything. We do not have the
+level of expertise that our
+agencies have, which is why we
+want, when you're working out
+the nitty gritty of rules. We
+want the experts to be doing
+that.
+Not us, um, and so this would
+take away this would undermine
+the agency expertise. This was
+would essentially be trying to
+do, get rid of Chevron doctrine
+on a state level.
+Um, right now, that is only true
+for for the feds. Uh, but I
+think in our state, we there is
+value to uh listening to and
+honoring the expertise of our
+agencies, and if we and and
+you're, you're absolutely right,
+Senator, that we have a number
+of pieces of legislation this
+year that are uh seeking to
+codify some executive orders,
+which tells me we already have
+the ability if we, if we want to
+to preempt one of those
+executive orders or those agency
+rules.
+Uh, or we want to codify them.
+We can already do that.
+You just got to bring a bell.
+Um
+We, we can do that without this,
+uh, without requiring it on
+every single uh rulemaking or
+rule that that happens or that
+would meet your, the definition
+of a major rule. Senator
+Townsend, did you have something
+you want to say? Yes, ma'am. Um,
+Madam Chair.
+Uh
+The opposing point of view that
+I believe
+My constituents have and and um
+Some of the others are this is
+we're elected by
+A
+50,000 people in our districts
+to come forward and maybe we
+don't have the expertise.
+I didn't have the expertise on
+the CYFD bill.
+Exactly a while ago, I think
+many others may not, as well,
+but we are elected to come up
+here and jointly review those.
+And then vote our constituents.
+Position on those bills.
+I think saying that we should
+Um
+Respect
+An agency.
+Particular expertise, that's our
+job.
+To make sure that when we as a
+Especially in this rules
+committee, when we
+But forth
+A person that we have inspected
+by as a committee to the Senate
+floor to be a
+A secretary of a particular
+department. That's our job to
+make sure, but that doesn't
+relieve us of the responsibility
+of making sure that what they do
+is appropriate.
+We don't give our authority to
+anyone.
+And what Senator Scott has
+brought forth is a bill that
+allows us the opportunity to
+review, not to not to override,
+but to review and put in statue
+or or verify by by deposing that
+particular department to see if
+what they're doing is in the
+best interest of our
+constituents.
+I do not believe, and, and I, I
+feel pretty strongly about this.
+That we should not give that
+right to anyone because I, I
+honestly believe, and we have
+seen it in Washington today. The
+worm will turn.
+And what is looked at as being
+good for one political party
+today.
+It's going to look like our ox
+is being gored tomorrow.
+And we should be very careful in
+what we do in setting public
+policy to make sure that it's
+good for the whole, not just for
+a political party at a
+particular time.
+Thank you, ma'am.
+bottom of chair, I moved to
+table. It's a non-debatable
+motion. Let's do a roll call.
+Senator Bergman's.
+Senator Block. No.
+Senator Brantly, not a table.
+Senator Gallegos.
+Senator Lopez, Senator Lopez is
+excused. Senator Stefaniks.
+Senator Stewart, yes.
+Senator Townsend.
+Senator Jaramil.
+Senator Duha. Yes, with 5 in
+favor of bills table. Thank you,
+Senator.
+Thanks. And uh members just
+before we, before we adjourn,
+Senator Stewart, uh, thank you,
+Madam Chair. We are joined today
+by Wild France. It's a statewide
+organization of our students
+that care about wildlife, they
+come up almost every session uh
+to bring a memorial or a bill,
+um, I don't know where
+you all are from? Can you tell
+us?
+All right. And are you at that
+one particular school?
+What is it?
+What is it Monte Vista. All
+right, in the middle of
+Albuquerque, so I just want to
+welcome you. I, I miss doing all
+their memorials, I had to let
+other people do them, but, and
+Sue George is also here as the
+fearless leader at UNM.
+Thank you, madam chair, Senator
+Bergman. Thank you, Madam Chair.
+I just want to quickly say I did
+wild bread when I was in
+elementary school and middle
+school in
+In the Edgewood Moriarty School
+District, and that's probably
+one of the reasons why I'm
+sitting here today. So thank you
+for what you do.
+Thank you all for coming and
+visiting us today.

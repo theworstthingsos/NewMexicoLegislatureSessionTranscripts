@@ -1,0 +1,3756 @@
+It really changed what
+opportunities to have access to
+what services they have access
+to, and I'm going to talk to you
+about how I think in this very
+fast moving field, um, we need a
+greater degree of transparency
+to make sure that AI is doing uh
+good here rather than harm.
+So on the second page you see
+all those good looking people.
+This is the interdisciplinary
+working group on algorithmic
+justice that I'm privileged to
+be a part of. It's composed
+largely of people at UNM,
+including Melanie Moses there
+from the Computer science
+department, um, uh, and people
+from SFI and other uh
+institutions. You can see it's
+not just computer scientists,
+but it's also legal scholars
+such as Dean Alfred Mathewson
+that I think some of you had as
+an instructor at UNM.
+Um, as well as people from
+political science, social
+science, and so forth, so forth.
+So on the next page where it
+says AI and consequential
+decisions. AI is being used a
+lot now and more every day in
+both the public and private
+sector both by government and
+corporations to make decisions
+that have really long term
+effects on people's lives from
+employment and hiring to health
+care, education and social
+services to credit and lending
+and housing, uh, and even in
+criminal justice to pretrial
+sentencing and
+role
+So the advocates of AI are both
+inside and outside the industry
+argue that unlike human decision
+making, which the psychologists
+tell us is, uh, often imperfect.
+AI can be evidence-based, it can
+be objective. It can avoid some
+of the stereotypes that humans
+might use consciously or
+unconsciously, and it can be
+accurate in a way that we can
+measure quantitatively. On the
+other hand, um, some of the cons
+are that AI works by
+Be
+being trained on data from the
+past. It looks for patterns and
+data from the past and then
+assumes that those patterns will
+hold in the future. So if things
+in the past were not as we would
+like them to be, well, we should
+worry about whether we're
+extending those patterns
+forward. It certainly treats
+people as statistics. It has to.
+It does not know the
+individualized things about
+people that human decision a
+human decision maker might, and
+maybe most fundament
+a lot of AI systems are what we
+call black boxes, so they
+produce some decisions, some
+recommendation, but without any
+explanation or any ability for
+the people affected or the
+people advised by it to
+understand how and why it came
+up with that.
+So my goal today is to talk
+about what you as policymakers
+what I as a citizen, what anyone
+needs to know about these
+systems to make sure that
+they're serving us well.
+On the next page where it says
+transparency versus black boxes
+are a couple of questions that I
+think are top of mind for
+someone like me.
+What data does the AI use? Where
+does this data come from? And
+what does it do with this data
+to make a decision or a
+recommendation or to come up
+with a score, like a risk score.
+And then on the right, um, do
+the people affected by it and
+the decision makers advised by
+it, understand the logic behind
+it. So if I'm a case worker or a
+judge and some AI tells me this
+person, this is not a high
+priority call about, uh, a child
+protection case, or yes this
+person can be released without
+danger to the public. I would
+like to know what the logic
+behind that is. I would like to
+know what kinds of mistakes
+these systems can make because
+they do make.
+mistakes and I'd like to know
+whether the AI has been
+independently assessed for
+accuracy and fairness so that
+I'm not just taking the
+developer or the vendor's word
+for it.
+So I'm gonna show you a couple
+of examples now, and I know some
+of you are already familiar with
+these, at least for some of
+them. And some of them are hot
+button issues. And I want to
+make it absolutely clear. I'm
+not advocating for or against
+the use of these systems. What
+I'm advocating for is that we
+know enough about them so that
+we can have an informed
+democratic discussion about
+whether or not to use them.
+That's what matters to me.
+So the first one is pre-trial
+supervision, and some of you
+have seen this system in
+discussions in the legislature.
+Uh, it's called the Public
+Safety Assessment, and you might
+think, wait a second, this isn't
+an AI. It's just a simple point
+system, and it is right there on
+the page if you have had a prior
+conviction, a prior failure to
+appear or whatever, it gives you
+a certain number of points
+toward your risk score and then
+this is used to recommend to a
+judge, can you be released on
+your own recognizance should you
+a GPS to track your movements
+and so on.
+So you might not think this is
+an AI, but it was created using
+AI techniques using machine
+learning techniques looking at a
+huge database from around the
+country of defendants who had
+been released and then whether
+or not they showed up to court.
+And whether or not they were
+re-arrested for a new crime
+during their release.
+So, again, what matters to me is
+that you can see it and you can
+discuss it. For instance, it
+does not use arrests. It only
+uses past convictions. So some
+prosecutors have said, well,
+wait a second, shouldn't it also
+depend on arrests? That is a
+legitimate point of view, and
+because you can see it, you can
+have that discussion. It does
+not use race or gender. It also
+does not use whether you
+currently have a job, whether
+you currently have housing and
+so on, that's sort of by choice.
+Um, it does use age because
+being young is pretty strongly
+correlated with a lot of crime.
+Um, so anyway, it's there, it's
+transparent, and it lets you
+have all those discussions.
+Number 2, predictive policing.
+So, of course, police
+departments for decades long
+before computers came along,
+have tried to figure out how
+best to allocate their
+resources.
+Where to send patrols and so on.
+And a lot of this is based on
+finding so-called hot spots,
+times and places where a lot of
+crime occurs.
+And now that we have computers,
+there are AI techniques that
+look at crime in your city,
+wherever that is, and try to
+identify these hotspots.
+Um, some of these systems are
+transparent, but what do I mean
+by that? I don't mean telling
+criminals where the patrols are,
+right? I don't mean telling them
+where the squad cars are. I
+mean, explaining what the
+statistical techniques are that
+try to identify these hotspots.
+Um, and that's something that
+then uh a criminologist could
+look at the police chief and the
+data people in their department
+can look at.
+Now, a more controversial kind
+of predictive policing, which
+Chicago used and then stopped
+using, and I think they've gone
+back and forth is not based on
+places and times but is rather
+based on people. So this is
+trying to use the social network
+that people are in like known
+gang affiliations, who they'd
+been arrested with, who they
+hang out with, um, and use that
+to try to predict who is most
+likely to be either the victim
+of a crime or a perpetrator of a
+crime.
+As you can imagine, this is much
+more controversial Civil
+libertarians are very concerned
+about it, um, but again, it is
+something that's out there that
+some departments around the
+country are using.
+Number 3, another hot button
+issue, child welfare and
+protective services.
+So in Pittsburgh, Pennsylvania,
+they have a hotline where people
+can call in with allegations and
+if it's a, if they, if someone
+calls in and alleges, um, abuse,
+they send out a caseworker to
+open an investigation at that
+house. No questions asked. If it
+is a lesser allegation like one
+of neglect.
+They use an AI and that AI gives
+the person receiving that call,
+a score that tries to tell them
+whether is is this a high
+priority call that should open
+an investigation or not?
+Um, it uses things like has
+anybody in that household been
+booked into jail? Have they used
+drug and alcohol services? Have
+they used mental health
+services.
+So again, hugely controversial,
+uh, the people in Oregon tried
+this for a while and decided not
+to use it. The people in
+Pittsburgh, on the other hand,
+really believe that it helps
+them dedicate their limited
+resources to the families most
+in need of help.
+Again, this particular system,
+although it's too complicated to
+put on this page, is
+transparent. In other words, we
+know what it depends on, what
+data it uses, and how much
+weight it you it puts on each of
+those things in coming up with
+this score.
+That way, you know, you can have
+the debate in an informed way or
+Pittsburgh says yes, Oregon says
+no, both points of view are
+legitimate, but it's an informed
+debate.
+Um, example 4 here is fraud
+detection, and this is, this
+came up during COVID in the
+state of Michigan, so a lot of
+people, of course, were suddenly
+applying for unemployment.
+And the state, the state
+government there used some
+system which labeled about
+40,000 people as potentially
+engaging in unemployment fraud,
+and it turned out that over 90%
+of these were not correct.
+So if you put yourself in the
+shoes of one of those citizens,
+of course, you know, you're
+trying to provide for your
+family, maybe you're trying to
+apply for jobs and you get this
+massive fine, you might not know
+how to contest it. You might not
+know how to navigate that system
+and doing so might be very time
+consuming and maybe be
+expensive. Now, in this case,
+this system was opaque instead
+of transparent, so the people
+affected by it were not provided
+with any explanation.
+Um, of why they fell under its
+uh it's labeling of them as
+fraudsters.
+You know, now you could argue
+that well, but if you were
+totally public about how you do
+this, then people might game the
+system, and that is a legitimate
+argument, um, you know, some
+state legislators, some state
+legislatures around the country
+that are struggling with these
+issues have also created a carve
+out for cybersecurity, for
+instance, because, well, if
+you're public about your
+defenses, then attackers will be
+better able to attack you.
+That's fine. I, I think you can
+make arguments both ways, but
+this is a good example
+of a system that clearly the
+people in state government who
+decided to roll it out had not
+vetted it, had not vetted it,
+vetted, vetted it enough, sorry,
+um, I don't know if there had
+been any independent studies of
+its accuracy, and this is a good
+example to me of AI gone wrong
+in government.
+My
+Sorry.
+Um, at least nobody's playing
+basketball in here. So, my last
+example comes from housing and
+you know, this is mostly a
+private sector activity,
+although we also have public
+housing projects and, you know,
+as you know, there's a terrible
+uh shortage, especially here in
+Santa Fe and here in Albuquerque
+too of rental housing.
+And so, you know, if you apply
+as a tenant, there are lots of
+AI companies who offer a service
+to the landlord, public, or the
+public housing authority to do a
+kind of background check on you
+and to, to give you some kind of
+score about how trustworthy a
+tenant you're going to be.
+So some of these look at, for
+instance, publicly available
+eviction records. This varies
+from state to state. One issue
+is that a lot of these AI
+systems are pretty casual about
+matching your name to names in
+the record. Some of them use
+just the first few letters of
+your name. So if you have a
+common name, um, like a lot of
+people in this state, if you
+have a common surname, then
+you're it's going to be more
+likely to make an error on you.
+Another issue is that in some
+evictions, the tenant wasn't at
+fault, you know, maybe the
+landlord just wanted to change
+the use of the building, uh,
+maybe that, maybe there was a
+dispute and the tenant might
+even have taken the landlord to
+court and got a judgment in
+their favor. The problem is that
+a lot of databases that are
+floating around there on the web
+that are getting copied by data
+broker and data sold from one
+broker to another and eventually
+used by the AIs don't explain
+what was behind.
+This eviction. And so, you know,
+you might get a low score and
+find that somebody else got the,
+uh, apartment.
+Uh, and you might, and the
+interesting thing here in terms
+of transparency, you might not
+know why the landlord said no,
+the landlord might not know why
+the AI told them that you would
+not be a trustworthy tenant.
+All right, so I'm not here to
+trash talk AI. I mean, it can do
+amazing things, and I think that
+at its best, it really can make,
+I think it can make society
+fairer. I think it can make us
+more prosperous. I think that it
+can make government decisions
+more accurate.
+But I think it is also a very
+fast moving field in which a lot
+of vendors are out there trying
+to sell us their products and in
+some cases those products have
+not been
+um.
+Oh, I don't need to keep holding
+it down.
+Great. In some cases those
+products have not been
+adequately vetted. So, um, I
+think that in order for these
+systems to be in use in
+decisions that really matter to
+people's lives and livelihoods.
+The people affected by them and
+the decision makers advised by
+them, need to understand them to
+some extent. There needs to be
+some transparency there. Again,
+what data do they use? What do
+they do with that data? What are
+their strengths and weaknesses,
+what mistakes they can make, and
+have they been regularly and
+preferably independently
+assessed for accuracy and
+fairness. One thing that's
+important to recognize is that
+if the system is trained on data
+from other states,
+maybe it works very well in
+those states.
+It may or may not work here in
+New Mexico. We have unique
+demographics, and so it's
+important to regularly test it
+here as well.
+So, last last page, what does
+transparency mean? There are a
+bunch of levels of transparency
+and, and as we'll hear later
+from your other experts, we, a
+lot of state legislatures around
+the country are working on this
+very issue. There does not seem
+to be much coming from the
+federal government any time
+soon, so I think it falls to the
+states. I actually think that's
+important. It's one of those
+cases where the states can be
+laboratories as who is that?
+Jefferson, somebody said.
+So, the lowest level might be
+just simple notice to the
+consumer or the applicant to let
+them know that an AI is in use
+in helping make that decision.
+Another level might be letting
+the applicant challenge the data
+used about them. So, you know,
+if you've ever had your credit
+score drop suddenly.
+We have this federal law, the
+Fair Credit Reporting Act that
+lets you download the data
+that's being used about you.
+It's not actually not that hard,
+amazingly, to download that
+data.
+And it's interesting, the, the
+algorithm nowadays in AI, which
+is being used to calculate your
+credit score, that's still
+opaque, right? The big three
+don't, the credit companies
+don't have to tell you how they
+come up with the score, but they
+do have to tell you what data
+they put into that method. So
+for instance, if it says you
+missed a payment and you didn't
+really, you get to contest that
+and ask for it to be corrected.
+So that's an interesting middle
+ground.
+Another level is
+self-assessment. So requiring
+the developers of the AI, the
+company or whatever that makes
+it and sells it to assess their
+own product for bias and to
+perform due diligence to avoid
+that, you know, to do their own
+testing.
+Um, that's something I think in
+some cases that might be enough,
+and others it might not be.
+Another level which I just
+talked about was local studies,
+so in some bills you'll see the
+word deployer. That means the
+person using it, uh, either in
+government or in the private
+sector. And so this could
+require those deployers to
+periodically test it on their
+local data to see if it is
+turning out to be as accurate
+and fair as the developer says
+it is.
+Um, I personally really believe
+in independence assessments. You
+have experts in this state like
+my colleagues at the Institute
+for Social Research at UNM. Of
+course, they regularly get asked
+to do studies by the
+legislature, by county
+government, and so on, and I've,
+I've worked with them on uh
+assessments of several
+algorithms in government.
+And then for the most
+consequential decisions, I would
+really advocate for full
+transparency. I would really
+advocate for a full disclosure
+of the design and methods of the
+AI, its sources of data, and how
+it uses that data to produce its
+recommendations, it scores,
+whatever output it gives.
+Now you might worry that in that
+if you really go all the way to
+that level, that no vendor is
+going to want to, you know,
+apply for the contract or
+whatever.
+But I can point to several
+examples where companies have
+successful business models where
+they are transparent in this
+case. Even one of the predictive
+policing cases I mentioned,
+companies I mentioned before,
+PredPol, they disclose the
+mathematical technique that
+their AI uses to look at the
+crime data and identify
+hotspots. They make money by
+providing great integration with
+databases, with GIS systems,
+good technical support, really
+nice.
+Interfaces and so on.
+Um, but they disclose their
+methods so that everybody can
+say, gee, is that a good method?
+So I'll stop there and I really
+appreciate your time and I'll do
+my best to answer your
+questions.
+Thank you.
+Um, let's see, Mark, I believe
+Mr. Edwards, you're next.
+Thank you, Madam Chair. Um, I
+think I'm pretty good follow on
+to what Chris just was talking
+about. Uh, but before I get into
+that, Madam Chair, my name is
+Mark Edwards, um, I'm a member
+of the Legislative Council
+Service staff and I appear
+before you solely to uh give you
+basic information and not to
+take a position for or against
+any given legislation.
+That set up I have done 2 pieces
+of, of, uh, paper, uh, that are,
+I'll be talking about the
+outline is in the, uh,
+off colored paper, and then
+there's a amendments in context.
+A copy of House Bill 184.
+House Bill 184 from
+This last session.
+Basically said, yes, the
+government makes consequent
+consequential decisions that
+affect people's lives and if
+government is using AI, the
+legislature would like the
+government to have an inventory
+of those uses and know where
+they're being used and many of
+the transparency issues that
+Chris brought up should be
+available to the government
+agencies that are using them.
+So it is basically an inventory
+and disclosure statute, the, uh,
+I should say the very first
+thing is it defines a
+consequential decision.
+That's under subsection A of the
+off colored sheet.
+A decision by an agency
+regarding the denial eligibility
+provision.
+Withholding of our access to
+government benefits,
+opportunities, or services for a
+person or the imposition of
+punitive actions on a person.
+So it's fairly um.
+Um, land, uh, and, and.
+I
+It doesn't really take a
+position of what a
+one way or another on
+consequential decisions. It's
+just the definition it uses.
+Um, skipping down to where it
+says section 3 at the bottom.
+The things, this is the things
+that the bill required, would
+have required state agencies to
+do.
+One doing it continuing
+inventory of the AI systems they
+use.
+So they know what systems they
+have.
+And there is some concern that
+many state agencies don't know
+which software programs they
+have and can
+Hold them up and say, OK, here
+are the ones that are using AI
+and here are the ones that we
+are relying on that AI to make
+decisions. So it requires an
+inventory of
+What systems it's using and how
+it's using them.
+And then it requires an
+assessment. There are those
+decisions matching the agency
+mission.
+Or they're not matching the
+goals of the agency and are they
+Uh, coming up with
+recommendations that would be in
+violation of the Human Rights
+Act.
+Yeah
+During development of the bill,
+there was a lot of discussion
+about, OK, we want to figure out
+whether this software is biased
+or not.
+And it was extremely hard to
+come up with a definition of
+bias that everyone could agree
+on. So the bill, uh, went with
+the basic, well, there's already
+a human's Rights Act in statute
+that talks about bias. So if it
+violates that, that will
+constitute bias.
+The last thing it does, it makes
+a change to the procurement
+code. So if estate agency buys
+or leases an artificial
+intelligence system for use. The
+vendor has to disclose.
+The what sort of data it uses
+to.
+Run the system how that data is
+weighted and combined in the
+development of recommendations
+in the methodology the vendor
+uses to find and correct errors
+in the system. That's, that's
+it, um.
+fairly basic.
+Good afternoon, Madam Chair,
+members. I'm Alisa Lauer. I'm
+chief of staff to House Majority
+Leader Gail Chasey, who's a
+member of this committee. Um, I
+have gotten involved with
+tracking artificial intelligence
+issues based on the leader's
+concern that when uh deep figs
+were being used in politics and
+other arenas and um as well as
+uh.
+Concerns about bias and um the
+use of artificial intelligence.
+Um, I'm, I attend the working
+group, Artificial intelligence,
+multi-state working group that
+was convened by Senator James
+Moroney from Connecticut, um,
+uh, that's a working group of
+state legislators who are trying
+to come up with what Senator
+Moroney refers to as kind of a
+Lego Lego building blocks for
+state legislation provides some
+Kind of consistency and
+continuity um among states who
+are trying to legislate in this
+area. It's been a challenge to
+legislate, um, and regulate at
+the federal level. And so, um,
+the most activity is taking
+place in among state
+legislatures.
+So I'm here to overview, uh,
+provide you an overview of
+Colorado's SB 24-205, the
+Colorado Artificial Intelligence
+Act, which was just passed in,
+uh, enacted into law this past
+May. It doesn't go into effect
+until February 2026, the primary
+sponsors are Senator Robert
+Rodriguez and Representative
+Brianna Tan.
+Of Colorado.
+This is being recognized as the
+first comprehensive artificial
+intelligence or AI legislation
+in the United States and the act
+creates duties for developers
+and employers to use reasonable
+care to protect consumers from
+any known or reasonably
+foreseeable risks of algorithmic
+discrimination arising from the
+intended and contracted uses of
+high risk artificial
+intelligence systems. So it's
+taken a little bit different.
+attacked by placing the
+responsibility for um avoiding
+and notifying um the attorney
+general of that state and
+consumers of uh risks of uh
+algorithmic discrimination.
+Um, so it's recognized as
+comprehensive because um,
+Again, it places responsibility
+on those who develop or deploy
+the product, but it, um,
+encompasses both private and
+public sectors. And in this
+context, as in all legislation
+definitions really matter, but
+maybe more so in this area
+because it's such a rapidly
+developing technology, um, the
+industry is way out in front of
+any kind of regulation or
+legislation. Um, so states
+struggle with coming up with
+just the right Goldilocks.
+Um, definitions of not too
+onerous, um, not, and not to
+Broad to encompass things like
+spreadsheets or, you know, um,
+just ordinary technology, um,
+but not to be so narrow that uh
+it could be avoided, the
+regulation can be avoided by um
+entities defining themselves out
+of of the definitions.
+Um,
+As Doctor Moore, um, talked
+about the definition of
+artificial intelligence is, um,
+is difficult to get your arms
+around, um, but this
+Uh, definition tries to strike
+the right balance. It's broad
+enough, but, um, really what it
+is is it defines the um
+artificial intelligence system
+as
+a system that infers from data
+that's input into the system,
+uh, makes inferences drawn from
+that uh to generate outputs in
+the form of content, decisions,
+predictions or recommendations
+that can influence physical and
+virtual environments, so it's.
+Sort of
+Doctor Moses would, um, Doctor
+Melanie Moses would probably not
+like this, but for lack of a
+better word, kind of thinking,
+making decisions, um, and
+important context.
+Based on input.
+Uh, the data that's input and as
+Doctor Moore talked about the
+output is only as good as the
+input, so if you have biases
+from historical data, um.
+Those would be represented
+arguably in the outputs that are
+generated.
+Uh, the, the act defines high
+risks artificial intelligence
+systems as ones that, uh, when
+deployed make a
+Make or is a substantial factor
+in making a consequential
+decision, um, and it tries to,
+um,
+Provide exclusions for again the
+ordinary kinds of technology
+like anti-malware spreadsheets
+and firewalls, um.
+Consequential decision is
+defined as a decision that has a
+material, legal, or similarly
+significant effect on the
+provision or denial to any
+consumer of or the cost or terms
+of the list of, um, services
+there, um, primary among them
+are education, employment,
+financial, housing, health care
+services, and legal service.
+And the act defines consumer as
+any resident of the state of
+Colorado.
+Algorithmic discrimination means
+any condition in which the use
+of artificial intelligence
+system results in unlawful
+differential treatment or impact
+that it disfavors an individual
+or group of individuals on the
+basis of basis of what we
+ordinarily recognize as um
+immutable characteristics such
+as, uh, race, disability, ethnic
+ethnicity ethnicity. Um, and
+then it has a catch all for
+other classifications protectors
+protected under the laws of the.
+State or federal law.
+It finds developers, what it
+sounds like anybody um who
+develops or intentionally and
+substantially modifies and
+artificial intelligence system,
+um, the deployer means a person
+or entity doing business in the
+state that deploys or uses um an
+artificial intelligence system.
+And the duties of the developers
+include disclosing any known or
+reasonably foreseeable risks of
+algorithmic discrimination
+arising from the intended use of
+a high-risk AI system to the
+Colorado Attorney General and to
+all known deployers or other
+developers of the system within
+90 days. Um, if the developer
+discovers the system has been
+deployed and has caused or is
+reasonably likely to have caused
+algorithmic discrimination.
+Um, or the developer receives a
+credible report from a deployer
+that the system has caused
+algorithmic discrimination.
+Duties of their deployers
+include, um, conducting annual
+impact assessments, and there's
+a list of what the requirements
+are for those, um, impact
+assessments and it's, um, it's
+pretty comprehensive. Um, that's
+at the end of your outline uh
+materials.
+Um, they also must notify the
+Colorado attorney general within
+90 days, um, based on their
+knowledge of um discrimination.
+There's also a provision that is
+not just applicable to the high
+risk systems that, um, require
+publicly facing um artificial
+intelligence systems, the, the
+deployers of those or the
+developers of those to notify
+people who are using those
+systems that they are engaging
+with artificial intelligence
+systems.
+Um, as far as enforcement goes,
+the Colorado attorney General
+has exclusive enforcement
+authority to address violations.
+Violations of the act also um or
+do constitute unfair trade
+practices under Colorado's
+unfair or deceptive trade
+practices Act.
+Penalties include injunctive
+relief or fines.
+There is no private right of
+action.
+Um, and if the developer or
+deployer can show that they
+complied with all of the Act's
+provisions. They receive a
+rebuttable presumption that they
+used reasonable care to avoid
+discriminator discriminatory
+decisions, um, via the high risk
+artificial intelligence system.
+Um, some of the concerns are
+those that, um, Professor, uh,
+Moore has, um, uh, suggested or
+kind of global concerns and that
+are those are that they are
+loopholes in the bill, um, that
+need to be closed, such as
+companies being able to
+unilaterally or the onus, um,
+um, being on the companies and
+so the self-interested, um,
+entities.
+Also are the ones that are
+self-assessing and disclosing.
+Um,
+Uh, there's also an opinion that
+the enforcement provisions need
+to be strengthened. That's kind
+of globally related throughout
+the bill. And again, that um it
+relies too heavily on
+self-assessment and
+self-reporting.
+Uh, there's some a comment by an
+analyst from Consumer Reports,
+um, on the last page of the
+PowerPoint presentation. Um,
+generally legislation is looked
+at as a very good um.
+Comprehensive starts, but that
+it needs um certain measures to
+be adjusted to strengthen it,
+and to close those loopholes,
+but, um, Consumer Reports
+generally applauds the
+legislature of Colorado and
+Governor Polis.
+Thank you.
+Thank you for your
+presentations. Do you have any
+questions? All right. Start with
+um Representative or
+Casey, Casey.
+I
+Charlotte.
+It's supposed to have a green
+light. Oh, no, it's coming on.
+It's all right.
+Talking with a red light
+manager.
+Just
+Thank you very much, Madam
+Chair, and thank all of you um
+for your work.
+I'm wondering if Colorado.
+Put in
+Any um measure to
+evaluate the pro the um
+I don't know that the effects
+that are going into um
+Into law and you know when they
+act the um actual effective date
+was and if they're going to be
+looking at it and that sort of
+thing. You know, sometimes when
+we have something like this,
+we'll put a delayed
+implementation or we might have
+a sunset on it to look at it. I
+mean, in a way, you know,
+sunsets are just really
+annoying, especially when we're
+so part time, you have to come
+back and.
+And do that all the time and yet
+sometimes it gives you an
+opportunity to fix what's going
+on. So I just wonder if Colorado
+had anything in their statute.
+About that.
+Madam Chair, Madam Leader, uh, I
+got, I get the impression that
+the delayed uh and uh effective
+date of February 2026 was.
+Giving everyone room to grow and
+um.
+Assess what changes need to be
+made and take in more
+information and see what other
+states are doing, um, and, uh,
+just based on.
+Uh
+Comments that I've heard, it
+sounds like that process is, is
+ongoing and it sounds like uh
+the sponsors are taking in
+information from.
+Advocates in the industry.
+And so
+Those adjustments will probably
+be incorporated.
+Madam Chair, and um
+Slower, it sounds like Consumer
+Reports from their comment that
+there was a lot of pressure not
+to pass this bill.
+Madam Chair, Madam Leader, yes,
+the industry, the tech industry
+is very um active and uh
+lobbying.
+For a certain view.
+Um, or views of regulating, um.
+Artificial intelligence and.
+Just sort of my uh anecdotal
+opinion. Um, it seems that there
+This discussion about um
+regulating at the federal level,
+but it doesn't ever actually
+take.
+Doesn't really kick into gear.
+There's an executive order, um,
+And the industry was heavily
+involved in um.
+Uh, advocating for various views
+and, and that, um, and at the
+state level, you get the
+argument that um we all end up
+with this patchwork of laws that
+the industry can't comply with,
+and that's one of the benefits
+of the working group that
+Senator Moroney put together is
+that states can kind of see what
+each other are doing and try to
+come up with some kind of
+Somewhat consistent efforts.
+And
+You know, to use what each other
+is doing and to share
+information.
+Thank you very much and, and
+Madam Chair, I know that this
+committee has heard from the
+Santa Fe Institute, and you've
+heard a lot about, we've heard a
+lot about AI and so has courts
+corrections and Justice.
+And I, and I think one of the
+things just to point out right
+now and I don't know if any of
+you want to comment on it. The
+instrument that the corrections
+department is supposed to be
+using to classify inmate inmates
+or do, um, they're supposed to
+be doing.
+Exit criteria planning at the
+time someone comes into the
+corrections department, which
+would be a good idea if you were
+actually going to help to try to
+program so that you make that
+person you help that person
+become a safe um member of
+society when upon exit and so
+forth.
+But the compass measure really
+wasn't being used reliably and I
+believe that I recall having
+heard and just remind me if I'm
+correct.
+That that particular company
+that.
+Produces compass, views all of
+this information is proprietary
+and they don't want anyone to
+know what it is because they
+don't want to give away a trade
+secret.
+Uh, Madam Leader, that's, I, I
+am not an expert on how the
+corrections department uses
+Compass internally. I've only
+been part of a study of the
+initial classification tool,
+which is a different one.
+Um, the, uh, but you're right
+that in the risk assessment
+business, there are kind of two
+business models, essentially.
+One of them is like the PSA,
+which is pretty transparent. And
+the other is Compass, where
+there's a long questionnaire,
+um, which, you know, they say is
+there to assess needs, but the
+amount of, you know, the point
+value, if you will, the weight
+that they put on.
+The different aspects of that
+questionnaire that's
+proprietary.
+Um, that's a choice that they've
+made and as you say, it's a,
+it's it's a strategic choice
+that they've made as business
+people, um.
+The other interesting thing
+about Compass is that unlike the
+PSA, it does ask many, many
+questions about your employment,
+your neighborhood, your
+upbringing, your education, and
+so on.
+And I think the consensus among
+people I work with is that those
+might be helpful in assessing
+your need for positive
+interventions like counseling,
+uh, you know, mental health
+treatment, job counseling, and
+so on, but that they shouldn't
+be used for punitive reasons.
+So, um, Madam Chair, and, and
+all, all three of you. I just, I
+bring that up because
+First of all, corrections wasn't
+administering what they were
+statutorily required to do, but
+then if they can't, then if we
+were to pass such a bill, they
+would probably have to do
+something different about their
+assessments and um you know, I
+just, we, we have to be prepared
+for a lot of struggles.
+Over this area and it just
+seemed that people
+My initial impression is people
+were afraid we wanted to limit
+AI instead of just.
+Inform people about how to judge
+it and um there's, there's fear
+from the industry. Well, don't,
+you know, don't keep us down,
+but I, I recall hearing them.
+gentleman, I think, who
+initiated all of this on 60
+Minutes saying it's already too
+late. This is going to take over
+the world. And it's kind of
+scary, but I mean, what, what
+can we do as a, as a legislative
+body to try to um help people
+not be discriminated against
+because of the way the um AI is
+used. So that's what, that's
+what the caution, is that the
+big goal here?
+Of the Colorado law and what we
+were hoping to do with 184,
+Madam Chair, Madam Leader, uh,
+yes, I.
+The way I look at the Colorado
+laws, it's.
+It's putting responsibility on
+the entities that know it best,
+um, and to sort of provide that
+self-assessment opportunity. It
+also gives them sort of a carrot
+with a rebuttable presumption
+that if they comply with the
+requirements that they um well.
+You know, receive the benefit of
+the doubt that they were trying
+to avoid algorithmic
+discrimination. Um, it, it's, as
+Doctor Moore has pointed out,
+it's kind of, uh, depends a lot
+on the honor system, um, but
+Uh, there are provisions where
+the attorney General can request
+information, um, if, you know,
+if they're.
+Caught the consequences would be
+um injunctive relief for fines
+that uh they do have a
+self-interest in, in, in
+compliance, um, but there's
+always, I'm sure that.
+Lure of
+Cutting corners and some areas
+or possibly the ruler of doing
+that.
+But again, it's trying to.
+Strike a balance between
+allowing private industry to
+develop this area of technology,
+um, but not to harm the people
+that it's used, um, to make
+decisions.
+That are consequential to their.
+Well thank you very much, Madam
+Chair. That's all for me. Thank
+you, Leader Tracy. Um, we might
+need to move your microphone
+closer, barely hear you. OK.
+Next to Senator Souls.
+Thank you, Madam Chair. Uh, all
+very interesting. We heard you
+speak and present before Doctor
+Moore. Um, lots of this, my
+background is education and
+statistics and, and things of
+that sort and lots of this seems
+very similar to my graduate
+courses in multivariate analysis
+of variants and uh regression
+analysis. Is that what these
+models are doing is putting a
+whole bunch of data in and then
+kind of doing pairings as to
+which things line up with which
+pieces. Is that an accurate way
+of looking at what lots of this.
+Does
+Madam Char, Senator Sols, uh,
+it's possible that you know more
+about regression than I do, but
+yes, that's essentially the
+idea, I mean, the, I guess the
+difference is that in some cases
+they're looking at fairly
+traditional correlations during
+linear regression or logistic
+regression. Um, that's, you
+know, I, I think compass under
+the hood is generally thought to
+be a logistic regression. Um,
+so,
+In that sense, these some of
+these ideas have been around
+long before, and I think there's
+a little bit of a dance around
+what we mean by AI. Some tools
+that you and I might call mere
+statistics are marketed as AI.
+And I think at this point AI
+really covers a pretty broad
+spectrum of things all the way
+from statistics and machine
+learning and data science, all
+the way up to the really fancy
+things like chat GPT and the
+image creating things like Dolly
+and mid journey that we read a
+lot about. And I think it really
+is a spectrum, um, so I like the
+definition actually in the
+Colorado bill. It's, you know,
+it's a, it's a mechanized.
+the same machine based way to
+make a decision or be an
+important factor in making a
+decision. And but
+Part of what you're alluding to,
+I think, is that some of the
+more sophisticated methods are
+then harder to explain their
+inner workings and as a result
+are harder to study, harder to
+assess, and harder to make them
+transparent.
+On the other hand,
+in some areas like crime, for
+instance, and recidivism, I can
+tell you that the more
+sophisticated algorithms, the
+more sophisticated methods are
+not that much more uh accurate
+than the simple ones because the
+data is very noisy and people's
+lives are chaotic and the system
+is given access to relatively
+little information and crime is
+difficult to predict.
+So, thank you. And yeah, because
+that makes sense, lots of this
+seems like it's an automated
+version of what we used to have
+to put all the data individually
+into the computer, it's going
+off and gathering these
+databases and putting it in on
+its own, so more of an automated
+system. uh, Madam Chair, one of
+the things that always we hear
+criticisms of um multiple
+regression, it matters entirely
+what things go in and what
+things don't go in. Somebody
+somewhere is
+Making a decision or we've
+empowered the machines to make
+those choices based on what
+makes the most best predictions,
+but Madam Chair, doesn't that
+also have somebody somewhere
+saying, this is what we want to
+predict.
+And then we look for a model
+that best predicts that.
+Madam Sheriff Senator, thank you
+for hearing the implied question
+in my rising question at the
+end. Absolutely, it's even
+though what the AI might be
+doing is in itself mathematical
+and objective. It's really
+important that a lot of human
+choices, including policy
+choices have gone into defining
+the job that we've created the
+AI to do.
+So one of them is, as you said,
+which things does it care about.
+If you look at the PSA, for
+instance, you'll notice that it
+does not use the juvenile
+record.
+And you could argue that, hey,
+maybe that has some predictive
+value. Maybe we should know
+whether the defendant has a
+juvenile record.
+I'm actually my impression is
+that some combination of a
+philosophical choice by its
+designers that they didn't want,
+you know, they want people to
+have a fresh start when they
+reach their majority, but I
+think it's also because they
+wanted to create a tool which
+could be used across the country
+and access to the juvenile
+record varies a lot from state
+to state.
+But another example is when we
+train the AI because a lot of
+them work by a sort of training
+process where it's trying to
+adjust all its parameters to do
+as well as possible. We're, we
+humans are the ones who tell it
+what to improve on. What is the
+definition of accuracy is.
+So for example, in the child
+protective services uh case, you
+know, it is, of course, a very,
+very difficult to know whether
+abuse or neglect actually
+occurred. Uh, the AI doesn't
+have access to that truth.
+And so you tend to choose
+proxies like well later on if a
+call was screened out like
+decided that an an investigation
+was not necessary. Was it later
+screened in? Or if later on
+within two years was the child
+actually removed from the home?
+So these are imperfect measures
+of whether abuse and neglect
+were actually taking place, but
+they're the best ones we have.
+In, in the same way when we talk
+about predicting crime, what
+we're actually predicting is a
+rest.
+And filed charges. And of course
+we know that there's a lot of
+crime which never gets reported
+and a lot of crime which doesn't
+lead to an arrest and there's
+also some arrests which didn't
+correspond to actual crimes. So
+we're always as humans making
+these decisions about, well,
+what data are we going to use
+for the AI, uh, for both on the
+input side and to define how
+accurate it is on the output
+side, and those are policy
+decisions.
+Madam Chair, you know, some of
+this reminds me of 12 years ago,
+a couple of people were around
+then, but the New Mexico's
+behavioral health system was
+decimated by um.
+False records of fraud within
+the the system and it's we're
+still trying to rebuild that and
+essentially everybody said it
+was the algorithm that said,
+yeah, the, the fraud was doing
+it. We took a sample and the
+numbers indicate that there was
+probably fraud, so we shut them
+down type of thing. And it's
+since been shown that there was
+not, but it completely ruined
+businesses and uh in education
+we had a similar thing with the
+van, the value added model for
+teacher of.
+Evaluations at the time that put
+all these things in and I think
+one of the comments from the
+person at the pet using using is
+this is way too complicated for
+most people to understand. And
+then when we get the values, we
+kind of tweak the data, you
+know, but kind of wouldn't
+explain, you know, all the inner
+workings. And I think that's the
+concern people have with the
+transparency part of things is,
+you know, you need to know what
+goes in, what doesn't, and who
+made the decisions as to what
+went in, what does.
+And what the outcome expected
+is, as I was sitting here, I was
+thinking, you know, in housing
+or other things, you're not
+allowed to discriminate based on
+age.
+But you could put in data like
+how long have you lived in your
+house, uh, what magazines do you
+read? Do you read a newspaper?
+What kind of car do you drive?
+What hobbies do you have? You
+put in enough of those and a
+computer can get within a 2 or 3
+years how old you are.
+Is that what AI is doing and you
+know, in somebody's making those
+kinds of choices, but you get
+around some of the
+discrimination where you
+actually can claim it's the
+algorithm, you know, we never
+asked how old someone is or what
+race they are, but by using
+proxies that are correlated with
+the thing you're talking about,
+you can get around those things.
+Are those the concerns we should
+be worried about.
+Madam Chair, Senator, I think
+that especially out in the
+private sector, there's a lot of
+that. So when you buy things at
+Amazon, when you buy things at
+the grocery store, um, that's
+valuable data and that gets sold
+to third parties who then look
+for other customers who might
+like to know that data.
+And so I think it's true. There
+is, as this, as this field
+develops, you know, it could
+well be that you might not get
+an apartment because you drink
+Bud Light instead of Chardonnay,
+or you listen to hip hop instead
+of Mozart, right?
+And so these things might be an
+aggregate of 4 or 5 of those
+that tip you over the edge and
+it might, and your landlord
+might have no idea that that
+somehow contributed to an
+overall trustworthiness.
+score or a nice tenant score
+that they're using. So I think
+this is, this is part of what
+we're worried about and
+And as you say, it's um, you
+know, we have these civil rights
+era statutes, the Fair Housing
+Act, the Equal Employment
+Opportunity Act and so on.
+And
+I think, I think these statutes,
+there's some danger that they'll
+become very difficult to
+adjudicate, very difficult to
+tell whether discrimination is
+happening or not, because these
+things can creep in without any
+ill intent on anyone's part,
+right, the landlord has no
+intent to discriminate. It might
+even be that the AI company has
+no intent to discriminate, but
+someone has found something
+which is correlated with
+something else. A famous example
+is that somebody who is
+consulting for Amazon found that
+um buying.
+Diapers and buying beer is
+correlated.
+So, you know, the, I mean, you
+can think about that for a
+second. So I mean, you know, AIs
+are looking for things like
+this, and if they find something
+that will be useful, they'll use
+it. Um, one other quick example
+in healthcare, there was a
+scandal because it turned out
+that a healthcare provider was
+using how much money you spent
+on health care last year as a
+measure of how severe your
+pneumonia might be.
+I don't think they intended to
+do that and you know, if you
+have access to healthcare and
+you have money to spend, that
+might be a good signal of how
+severe your health issues are,
+but if you don't, it's a lousy
+signal. And when this was sort
+of uncovered, they were
+apologetic and they changed the
+algorithm to fix it. But when
+you just pour lots of data into
+the AI, it will use whatever it
+can and some, some of these
+things are not things that we
+would intend it to.
+Hence the need for transparency.
+Madam Chair, and I think that's
+where my biggest concerns,
+somebody's making decisions at
+some point as to what goes in,
+what doesn't, what we're asking
+it to do, but then we're leaving
+it to the computer to make the
+best choice based on that when
+we may not really be happy with
+what we had asked it to do in
+education with standardized
+tests, we always look at the
+validity and reliability. You
+can find that data as to what is
+the R value for each of those
+with reliability
+The results are consistent.
+Validity, are you actually
+testing what you think you're
+testing. Is that what we're
+talking about as far as the
+the effectiveness of it
+afterwards or the transparency
+of how well it works? Are we and
+is somebody putting out those
+measures or is that what we're
+talking about doing legislation
+that requires them to put out
+those measures?
+Madam Sheriff, Senator, uh, that
+is another great question, and
+so for instance, how do you, how
+do you tell, I mean, unless you
+have data about the success of
+of students who get accepted to
+college where their later
+success in life. How do you tell
+of a standardized test is
+correlated with what you want it
+to be correlated with. Your
+example about teacher
+evaluation, right? What's the
+quote ground truth there. How do
+we tell when it's working, um,
+and when it's picking.
+Out the really good teachers.
+How do we define that accuracy.
+So I think it especially in 184,
+the Colorado bill focuses mainly
+on biased, um, 184 talks about
+bias, but also about accuracy.
+Eventually, it's a policy
+decision what that means. And so
+as Mr. Edwards said, the
+question is does it meet the uh
+the mission of the department,
+for instance, the government
+department that's using it.
+OK. Thank you, Madam Chair. I, I
+think I always am left with more
+questions than answers, but
+better understanding if that
+makes sense.
+Thank you, Senator. um Nexus
+Representative Little.
+Thank you Madam Chair.
+So I'm trying to um I'm going to
+go to the subject of
+enforcement, and I was curious
+as to the.
+The use of um enforcement there,
+there is the reference to there
+is no private right of action,
+so I was looking it up, trying
+to understand this and uh
+looking back at this, I
+understand that if there is an.
+Uh, uh, discrimination that
+comes from this that in trying
+to understand this, please help
+me to if I'm uh let me know if
+I'm interpreting this this
+correctly. So in this particular
+situation, then Colorado's
+attorney general has exclusive
+enforcement authority is what I
+read, so.
+Um, there, that means I'm
+understanding that if a person
+uh uh.
+was not satisfied with the
+outcome of a discrimination.
+That was that they perceived to
+be uh inflicted by that, that's
+it. There's they in in in in an
+individual has no.
+Action because it is under the
+purview of the Attorney General
+in this case. I understanding
+that, am I getting something
+mixed up in there?
+Madam Chair Representative
+Little, that is
+my understanding of it is it's
+the only um enforcement
+mechanism is through the
+Attorney General, and people
+don't have the right to sue um
+in their own right, um, that
+doesn't mean that.
+If they uh that they couldn't
+pursue that through other
+mechanisms like civil rights
+laws, um.
+Uh, and, but there are
+exclusions um from uh being able
+to attain this obtain this
+information through the Colorado
+Freedom of the whatever the
+analogous, um, freedom of
+information laws, um, or uh
+To get it through the discovery
+mechanism. So it
+The enforcement belongs and lies
+with the Attorney General.
+Thank you. And that is, that is
+something that um
+is prevalent in this area, not
+to specifically exclude a
+private right of action because
+it is so difficult to get
+legislation passed, um, when
+there's that concern out there
+of the private right of action.
+OK, thank you very much. Thank
+you, Madam Chair.
+Thank you, Representative
+Little. Nick Representative
+Garrett.
+Thanks, thanks, Madam
+Chairwoman. Thank all three of
+you uh for giving this kind of
+what I call the spherical view
+of things, um, at least, I
+really appreciate, um,
+The fact that you've concluded
+critiques because we have the
+Colorado bill, we have the
+Vermont bill, and some other
+bills that have gone before us
+that can help us avoid things
+and just looking at the
+critique.
+Looking at the loopholes
+enforcement, self-assessment.
+Thank you. That's very helpful.
+Um, I do have a question. I,
+I've been on a group looking at
+data governance and so we have
+You know, we have, looking at
+the developer, but now, for
+example, we have the statewide
+longitudinal longitude can't
+talk longitudinal, um, data with
+Ryse New Mexico where you have 5
+government agencies which would
+actually have to be responsible
+for all these things.
+So I'm just realizing as we use
+more and more of these systems,
+there's a lot of complexities.
+It's not just we're not looking
+at one developer, we're looking
+at
+developers that are drawing from
+multiple diverse sources.
+So it's just one of those aha
+it's like, oh yeah, this is
+complex.
+And um, so I, I just wanna thank
+you for this. And then, um, it
+seems we really have to do the
+legislation.
+We have to do something.
+To protect people and looking at
+the, I had to look up PSA, the
+public,
+um, I forgot
+already forgot it, the Arnold
+tool, the public safety
+assessment, um, in the smaller
+situations where we might draw
+on AI. We do have people who can
+like the Arnold tools shouldn't
+be used alone. You have a human
+judge who can utilize it, but
+it's.
+Still saying, well, actually
+that's interesting, but it
+didn't cover this, this and
+this, or it didn't interpret
+this, but when we have huge
+banks of data like standardized
+testing or whatever where you're
+dealing with thousands of people
+that individual.
+Person can't.
+Look at the AI so accurately.
+So I'm just kind of thinking out
+loud about what you guys have
+presented that we have to look
+at.
+So that's my comment,
+Madam Chair, Representative
+Garrett, um, I would just say
+that um as Senator Sols brought
+up um about
+Using it, using data and um.
+Formulas.
+AI is basically looking at
+drawing inferences from um as to
+what might happen, but I think
+we have to be careful of um
+excluding nuances of actual
+human behavior and um not
+divorcing ourselves from any
+kind of human involvement, um,
+but then on the other side of
+that is to balance out, not
+reincorporating um maybe
+unknown, unrecognized biases and
+um in ourselves, um, back into
+To what's intended to try to.
+Get out of the bias system, um,
+and one of the virtues of
+Um, Colorado's bill using the
+developers and deployers, um, is
+they really probably are the
+best position to know how their
+systems work and, and to
+identify what biases they are,
+and I would just say that I
+don't think probably any of them
+want to, um, you know,
+incorporate bias or to commit
+algorithmic discrimination. Um,
+so that is one of the virtues is
+they can be used.
+As a tool themselves to identify
+that. But again, just to not.
+Uh, remove the human element or
+um.
+Uh, consider this as a gospel
+scientific finding, um, as far
+as like crime goes, I don't know
+if you're this is.
+And non sequitur, but do you
+remember Sesame Street, that
+what happens next?
+Um, they're you're sick kind of
+predicting what's going to
+happen next, but something else
+could happen as far as human
+behavior. Um, somebody might be
+predisposed to crime, but they
+might, you know, take a street
+where there's no opportunity or
+they may take a street where
+there is opportunity, so.
+I don't think we can just um
+Make those concrete predictions
+of human behavior using
+inferences.
+May I add something that I'm
+sure?
+Or we, so I think the PSA is an
+interesting example because of
+course, there's been a lot of
+discussion about pretrial
+detention and recidivism in the
+in the legislature and.
+So
+It is a really important to
+recognize that what you see
+there on the page, that is all
+it knows.
+Right,
+and so the most it can possibly
+do.
+I tell a judge something like.
+On average.
+Uh
+Defendants who have this many
+convictions like the one in
+front of you, this one is this
+many prior failures to appear
+like the one in front of you, on
+average, this is the level they
+pose to the public. And that's,
+you know, as we've said that it
+really is a statistical thing,
+right? And I like to say that
+the PSA, it doesn't know that
+you have, uh, turned your life
+around and you're taking care of
+your kid's sister and you're in
+culinary school. Um, it also
+doesn't know that you've bragged
+on social media.
+That you're gonna kill the
+witness, right? It doesn't know
+either of those things. And
+that's what the prosecution and
+the defense and the judge is
+for, and the judge should listen
+to that. There was a high
+profile defendant a few years
+ago who had no prior
+convictions, and so he was given
+a very low score. And on
+average, that makes sense, but
+this particular individual, the
+prosecutor said, look, Judge,
+the only reason we couldn't
+convict them before is that a
+witness was intimidated.
+Um,
+we know this guy, we've seen him
+before. He, we've arrested him
+multiple times. We just weren't
+able to make it stick. The
+prosecutor has every right to
+make that argument to the judge
+and say this person is more
+dangerous than the average
+person with this record and
+therefore, even though they got
+a low score, you should detain
+them.
+So I totally agree and that's
+what I, that's what I mean when
+I say we should understand the
+strengths and weaknesses of
+these systems.
+Madam Chair, if there aren't any
+more questions, I might, I might
+reverse it and tell you the
+questions a drafter myself would
+ask if I was asked to draft some
+legislation in this area. Uh,
+first question I would say is
+how, how broad do you want of
+AI, do you want to cover? House
+Bill 184 covered state agency
+use.
+It was basically what's in the
+control of the state because the
+legislature has more oversight
+over what happens in state
+government than it does in the
+private sector.
+That's Colorado bill is a nice
+attempt to be global.
+It's got it covers private
+actors as well, uh, so that
+would be the first one, to
+represent Chasey's comment about
+is there follow through in kind
+of a
+You know, assessment later on.
+184 requires that there's a
+yearly report to this committee,
+to LFC, and to the governor, not
+only about the uses, but the
+assessments that are being done
+by those agencies, so it, I
+believe it was thought of as a
+way to to get state government
+and start assessing and
+understanding whether these
+programs are useful or not. Uh,
+at least that's how I read it.
+I'll leave.
+up to you and uh Represent
+Chasey is co-sponsors of that
+bill to tell me if I'm wrong on
+that. Um, and then if you wanted
+to go global or if you wanted to
+capture the private sector, I
+would look at those and the uh
+bullets that uh uh Ms. Laurer
+put together with regard to
+enforcement, the uh, the AG uh
+has exclusive enforcement
+authority to address violations
+Of this act.
+So the question that I would ask
+is, OK, do you want to create a
+special division under the AG to
+to uh review these and then put
+money in so there are enough
+FTEs, are you just going to add
+it on to the AG's uh.
+Various responsibilities and is
+that in your opinion enough to
+be able to for the AG to be able
+to deal with this new sector,
+um.
+The no private right of action.
+I'm not familiar enough with
+Colorado Bill to know if that's
+just a private right of reaction
+under the AI Act, or if that AI
+ends up creating a slander
+against someone who then
+affects, and it affects multiple
+areas of their life, are they
+able to sue under that, um.
+One of the
+One thing that or
+Tool that many uh pieces of
+legislation in the civil sector
+use is that the threat of civil
+action by the general public.
+Makes people a little more
+careful on whether they're going
+to.
+Engaged in certain activities
+like put bad data in, they might
+double review that if they
+thought they were going to be
+liable for it. So those are the
+sorts of questions I would like
+to, I would ask if you were
+asking me for a bill, I'd try to
+get granular on what you were
+actually trying to achieve with
+it.
+Thank you, Madam Chair.
+Thank you, Mark. I'm next to
+represent I mean Senator
+Rodriguez, and we have about 10
+minutes and we have 2 more
+people, so yes, absolutely, I'll
+be quick, Madam Chairman, thank
+you. Good afternoon, Elisa,
+Doctor Moore, Chris, as I know,
+and of course our staff. Um, let
+me just quickly ask before I do
+that, I want to say thank you
+for putting all this together,
+all this information. I enjoyed
+your presentation, Doctor
+Maureen Los Alamos, and also
+here in Santa Fe at the capital,
+I think I've heard you present
+twice, and of course, Alisa, we
+see you and your hard work all
+the time.
+And uh Mark Edwards, we couldn't
+do without you. Uh, let me just
+um ask you a question on this.
+House Bill 184 that we're
+talking about in Colorado. Um,
+we know that if I understood
+this correctly, it's basically
+clarifying or putting in statute
+two things of the defining the
+consequential decisions of
+agencies and also the other one
+would be more with requiring the
+the inventory continuous
+inventory and transparency of of
+um decisions.
+used when using AI in a
+nutshell, those two things. If
+I'm wrong, please tell me. Um,
+OK, then, that being said, um, a
+question came to my mind, what
+happens in a situation, for
+example, where um just say a
+person gets denied Medicaid or
+we call them food stamps or
+they're called something else
+now, but anyway, assistance,
+nutrition assistance, but they
+discovered that it's, it's all
+over the internet or somewhere
+else, what their personal
+information.
+was and so they sue a state
+agency and say my information is
+out there, I got denied, for
+example, and here it is. And and
+uh and you use AI to reach that
+decision.
+Well, when that happens, the
+department can come back and
+say, for example, well, I use
+partial part of, part of the
+information I got was from AI.
+The other part was our decision
+and we just.
+Decided with that, you know, we
+discussed it and we got this
+information from somewhere else,
+but it wasn't AI and so this
+person is suing, for example,
+because it was AI and uh the
+department tries to hide behind
+the the cloak and say, well, not
+all of it was, we did our part
+in half, you know, those
+situations like that, I know we
+can't figure out every single
+potential um
+coming problems, but, but that
+crossed my mind because I
+thought, how is the department
+going to get away with it and
+how can the plaintiff
+Also prove or what can the
+plaintiff do if something like
+this happens? Thank you, Madam
+Chairman, and I'm sorry I took
+long, but you can briefly
+respond.
+Madam Chair, Senator Rodriguez,
+just, just to be clear, so HB
+184 was um from, was introduced
+last session by, uh, Cha Soana
+and a number of other members
+that's right, but it's basically
+a transparency bill and it was
+really just designed to get a
+foot in the door, um,
+On some sort of oversight and
+regulation of AI and really
+it's, it's
+Main intent is to, uh, disclose
+or for agencies themselves to
+know what um how they're using
+artificial intelligence and to
+include a requirement that when
+agencies
+contract with an entity that
+there is a provision for
+disclosures in the procurement
+process so that the agencies can
+monitor for bias, but it does
+not create a private right of
+action and doesn't even create
+an enforcement.
+Mechanism for the Attorney
+General, as compared to the
+Colorado Act, which gives the
+Attorney General, the sole
+enforcement mechanism. I mean,
+it does not create a private
+right of action, and it does
+define um
+Uh, an entity's role in
+discrimination, like if the
+artificial intelligence
+algorithm, um played a
+substantial role um or uh
+whether there was a substantial
+role in the decision. It doesn't
+have to be exclusive.
+So and that would be, you know,
+played out in a court, um, as
+far as what's substantial is and
+what, what the, based on the
+facts and the law, um, how big
+of a role that error in the
+artificial intelligence, um
+played in the discrimination.
+Thank you, Doctor Moore wanted
+to briefly mention, I think
+you're pointing out something
+here which is a really important
+subtlety in the drafting. Some
+states have said they're only
+focused on AIs that make
+decisions.
+And as you say, a lot of these
+things we're talking about, it's
+a human decision maker who makes
+the final decision, but they're
+certainly going to be influenced
+by what an AI says to them, um,
+and so
+I think it's a good thing that
+I, if I understand correctly,
+both of these bills also say or
+recommendation.
+In other words, it's not
+necessarily a controlling
+factor, um, but there was a
+court case about Compass exactly
+about this, about did the did
+the corrections department rely
+on or were they merely informed
+by, so you're right, this is a
+very important point, and I
+think it's important to say that
+we want to cover things that
+make recommendations or play a
+play of, you know, what is it, a
+substantial factor, not just
+make decisions.
+Thank you for that. It makes me
+feel better, at least I know
+we're gonna look at that and,
+and, you know, catch any
+potential problems like that.
+Thanks for that, Doctor Marin
+and Lisa. Madam Chairman, that's
+all I have. Thank you, Senator
+Rodriguez. Next, Senator Pinto.
+Thank you, Madam Chair. Members
+of the committee, thank you for
+your presentation. Um, we talk
+about AI, a lot of it I think I
+feel like we're behind already
+because I think sports betting
+already does a lot of what
+you're talking about um when
+we're trying to predict the
+future and use data and what
+we're saying while we're trying
+to protect the the person's
+information, but yet those that
+are um performing our our
+superstars.
+We're predicting how successful
+they will be.
+And
+If those parameters are in there
+or we're going to try and
+protect it. What, how will that
+affect, you know, certain
+industries, and I could see the
+pushback from some of them
+because of the intellectual
+knowledge that went into to
+develop those, uh, now we're
+saying, well, you have to put it
+out there for everybody to use.
+So now we're trying to integrate
+it into all these other um to
+improve it as far as cost, the
+quality and efficiency because
+we we're not doing
+Well, but yet there's still all
+these um detrimental factors
+that are still in there, but I
+don't see how we're actually
+going to these other industries
+that have developed it so well
+that there's so much money going
+into it, um, the reliance and
+it's so big and it, you know,
+it's national, it's worldwide,
+um.
+So I, I think when we kind of
+put those together, we'll be
+able to advance I think all of
+this is um.
+Uh, because we do have Native
+American casinos here that do
+have sports betting already in
+their casinos and have invested
+millions of dollars to do it.
+And those communities would be
+affected, I think, especially if
+you try to say that, well, this
+is going to be so broad, you're
+gonna have to separate the two
+or sign some waivers or to me,
+but I'm not a lawyer, so um
+thank you, Madam Chair.
+Madam Chair, Senator Pino, you
+makes some really good
+observations. One is that we are
+way behind, um, the artificial
+intelligence industry is
+boom and way out in front. Um,
+so to arguments that we need to
+wait and let it innovate. Um, I
+don't think we'll ever catch up
+to it. Um, and I think the
+sports analogy is a good one.
+we've all seen, you know,
+rookies drafted based on
+analytic analytics, um, and
+drafted at a level that turned
+out to be a bust.
+Um, and practice, um, and so
+just to remember, remember
+those, those sort of um not to
+lull ourselves into thinking we
+have a hard and fast um method
+of making uh scientific
+decisions.
+Yeah, yeah, interject there a
+little bit because if we
+Do some of these, try to
+implement some of these laws,
+um, like our copyrights and our
+patents. It seems like, well, if
+you're gonna say, well, you have
+to put that out there, um, I
+think those have to be
+addressed, but yet too, I don't
+think we really protect those
+either. Where's the enforcement,
+um, on protecting it, because
+when we talk about Native
+American, um, handmade Native
+American, when that's used out
+there, uh, you know, for us it's
+offending because we don't.
+See how any way some of those um
+clothing or anything is
+actually.
+Where are Native American
+actually touched it, where
+they're actually just using the
+name.
+Um, for gain monetarily.
+I'm not sure if I'm um.
+On the right track of what
+you're saying, but I think
+something something to be aware
+of is and careful of is not to
+give carte blanche um
+exclusions, um, it's better to
+um look at exclusions or
+exceptions based at the data
+level um rather than in the
+entity level, um, and to not
+just accept that we have to
+protect, um, uh.
+Trade secrets, and so, you know,
+nothing can be done to regulate
+or monitor or require
+disclosures. Um, but to really,
+uh.
+Look carefully and analytically,
+uh, what's being asked to be
+excluded from coverage.
+Madam Chair, Senator, if I could
+add, I mean.
+The example of sports betting, I
+mean, so just to be clear, I
+don't think either of these
+bills would demand that the
+internal workings of the sports
+betting system would be
+disclosed.
+So it's not a government use of
+AI, so it wouldn't fall under
+our own local HP 184 from the
+previous session.
+And.
+I don't
+Yeah, it's not a consequential
+decision. It's not a decision
+which is saying to someone, you
+can have this service or this
+apartment or you can't, or you
+can be released from jail or you
+can't.
+Um, so I, I don't think either
+of these bills would require the
+kind of disclosure that you were
+addressing, so I, I think it
+would be OK.
+I
+I mean, another example, right,
+is that.
+Uh, you know,
+The way Netflix recommends
+movies to me, right?
+I mean, that's not a
+consequential decision, and
+neither of these bills or anyone
+that I know of is demanding that
+the internal workings of that
+system be made public.
+So I think sports betting would
+be more like that, that it would
+be like the things we've been
+talking about.
+But Madam Chair, aren't you
+asking for a disclosure in some
+sense in which
+It hasn't really.
+I guess been
+Preempted or um.
+Any president has been set as
+far as who actually at what
+point is it intellectual
+property that that line has not
+really been defined yet.
+It's my understanding from what
+I read.
+Madam Sheriff, Senator, I think
+the issue of trade secrets and
+copyrights is a really, really
+important one, and I'm glad you
+brought it up. Um, but again, I
+don't think either of these
+bills are contemplating some
+blanket rule that everything has
+to be disclosed. I think it's
+really just that if if decisions
+are being made that could affect
+people's civil rights that could
+be regarded as discrimination
+according to our human rights
+laws. That's the kind of AI that
+we want to know.
+How it works and want to make
+sure it's not discriminating.
+Um, we're not saying that every
+use of AI.
+has to be, you know, made public
+or transparent.
+And, and I, and I don't think we
+would want to.
+uh, can I just send it to uh the
+way I interpreted your question
+is you were looking kind of
+generically at disclosures and
+in the broad sense and what
+might be legislated, but, um, as
+Doctor Moore said, neither of
+these bills would, um.
+Impacts the betting industry,
+but of course,
+You're the legislature, so you
+could uh you could legislate,
+you know, to make whatever
+disclosures requiring
+disclosures, um, that you like
+and whatever area.
+Thank you, thank you for your
+presentation. I, um, we're a
+little behind, so I'm just gonna
+say thank you for uh giving us a
+little more enlightenment in
+this area. I know we're behind,
+but sometimes, sometimes you,
+you know, if you look at other
+states and what they're doing
+and who's being sued and being
+behind may not be that bad yet.
+Um, we'll get there, but I, I
+don't, I, I, I just think
+there's just so much out there
+and so much to learn, but thank
+you again for coming again,
+Doctor Moore, and your
+presentations. Thank you.
+All right, our next presentation
+is New Mexico Impact Software
+project status updates.
+Peter Steele and Joseph Barros,
+is he here?
+I just.
+OK.
+It's just a presenter.
+Nobody signed up virtually, so,
+OK, OK.
+Whenever you're ready, yeah.
+Good afternoon, Madam Chair,
+members of the committee. I'm
+Peter Street. Unfortunately, Mr.
+Barros is unable to join us
+today, so I will be taking the
+lead, um, as I think we last
+talked in October last year, and
+at that point, we discussed.
+Some of the
+How we got to where we are with
+Annum impact or the CYFD's, uh,
+CWs product and, uh, we also had
+a quite a very productive, I
+believe we had a productive
+conversation regarding the
+program, what our goals were as
+we were initiating the program.
+So in front of you what you have
+is a slide deck, um,
+uh, in the slide deck is
+fundamentally our presentation
+to you for July 2024 about the
+status of
+The project at this point. I'm
+Very excited to say that we're
+making a tremendous amount of
+Progress
+We want to 5 minute break?
+Um, so if you would like, I can
+entertain questions as we go, or
+we can hold our questions to the
+end. It's entirely up to you.
+OK, thank you so much. So I'll
+start with a presentation on
+page 3. We're looking at the
+impact status. We're looking at
+the overall project status
+fundamentally with this slide is
+in trying to communicate to the
+You chair and members of the
+committee is that, um, we are
+now integrated and working with
+a lot of different partners that
+that are essential to the
+success of the project. So
+fundamentally we have onboarded
+and updated our New Mexico
+Impact project management team.
+They're providing us project
+management and governance
+oversight that contract has been
+signed, renewed, and funded for
+the next
+for this fiscal year without
+skipping a beat. Additionally,
+we have got our independent
+verification and validation.
+They're providing us project
+program, as well as operational,
+um.
+Feedback for the agency that
+contract has also been placed
+and that that team has been in
+place since December. Um, we
+also in uh November we finalized
+the RFP to onboard a design and
+development integrator, um, and
+they, um, started work in
+earnest in December. The overall
+project status, the way we're
+measuring project status for
+this report out is in a
+three-phase.
+Fundamentally off track.
+Caution and on track. Our
+project is currently in a
+caution state.
+And the fundamental reason for
+that is that as this project is
+where we are in the project, we
+have a few unknowns, and until
+we get those unknowns resolved,
+we're going to leave this
+project as a caution. I will say
+that we're tending towards
+trending towards being on track.
+We have uh several we have our
+open risks are in several
+categories. There'll be more
+details in a follow-on slide,
+um, basically our risks are
+around organizational readiness.
+Quality schedule, scope. These
+are all standard risks for a
+project of this size, and I
+would say that, um, none of the
+risks that we have are
+insurmountable or pose a
+tremendous amount of uh risk to
+the project. Um, also in terms
+of our project, we have, uh, we
+track and monitor track monitor
+and resolve issues. We are
+resolving issues within a 30 day
+turn time. I think that this
+resolution of issues within the
+project speaks to
+How well integrated the project
+is from the executive at CYFD
+through the programs at CYFD to
+actual the the project managers
+are, um, IVNV as well as our DDI
+vendor, the person that are
+going to be developing the
+software for us and um,
+I believe also that you can see
+that project issues, um, kind of
+goes along with project
+governance, in which case we are
+doing and actively conducting at
+this point change control
+decision making and risk
+management. All of this
+represents a significant change
+in the status of the project
+since we last met in that this
+project has taken off and it is
+really starting to really doing
+the work that needs to be done
+to make this project successful.
+Um, if you go to the next slide,
+you'll see some of the projects
+accomplishments are continuous
+evaluation and adjustment. So
+not a,
+I'm sorry, page 4, sir. Uh thank
+you, Mark. Um,
+Pardon the protocol lapse. Uh,
+so the continuous evaluation in
+a um, adjustment is
+fundamentally, it's not just for
+the project and the way the
+project is performing within
+your standard project management
+matrices, but we're also looking
+at the way that this project
+works and we're making within
+the agency and side with the
+executive agencies the way we're
+working with the external
+agencies with whom we must
+interact as well as the public
+and well as our the people with
+whom from whom we
+Uh, choir products and services.
+So we are, this is a
+comprehensive review, uh,
+process that we're using and
+basically every decision is is
+becoming a business decision.
+Uh, as I've already mentioned,
+the DDI and IV and V contracts
+have already been placed, um,
+and we are coordinating also,
+uh, very closely with our
+federal partners. So that's the
+administration for Children and
+Families, or ACF, as well as the
+centers of Medicare and Medicaid
+services, that's CMS,
+um, we're those two programs,
+ACF and CMS are administered by
+the Healthcare Authority, HCA.
+And we also work closely with
+HCA in the development of our
+cost allocation models which is
+basically on page 4 is
+fundamentally how we, uh, define
+what our reimbursement or
+sharing rates are going to be
+with respect to funding and
+getting reimbursements for the
+federal government. So, uh,
+again, on the budgetary side,
+you can this is evidence that
+I'm presenting to you to display
+just how well we have
+Reached out and taken
+comprehensive look at the
+program, uh, fundamentally that
+we've got, um, supporting the
+program is this is a little
+detail, but I think it's
+important to highlight that we
+are using best practices for
+projects and we do have project
+document, project, uh,
+repositories and we're sharing
+this data not only with the
+project team but with C CYFD as
+well as our internal and
+external stakeholders, uh, where
+appropriate and then finally
+I'd like to say that as one of
+the major project
+accomplishments is that there's
+a comprehensive reorganization
+happening at CFD right now. I
+have two thoughts on that. I
+represent what we're going
+through is a bit of what I've
+experienced in the private
+sector as a merger and
+acquisition. I've been through
+several of them and
+fundamentally the activities
+that are taking place at CYFD
+Mirror, a merger and acquisition
+and over the next 18 months I
+think.
+We can continue to see and
+expect to see improvements in
+like the way this reorganization
+is going with respect to the
+organizational structure,
+staffing, training, we're
+building a culture we're
+consolidating workflows and
+we're, um, inside of the agency
+in terms of the program but also
+operationally we're
+consolidating operations. We
+have a specific and very
+Refocused, um.
+Beam on compliance and
+regulation as well as our
+strategy and we're constantly
+performing the bus uh constantly
+measuring our business
+performance with respect to this
+project.
+Um
+So if we move on to slide 5, we
+can talk about our
+organizational accomplishments
+with respect to organizational
+accomplishments on slide 5. You
+can see that CYFD program
+leadership, um, there's a lot of
+refinements there. We've, um,
+retooled the agency and
+reorganized the agency. We've
+got our executive and senior
+staff hires are finalized at
+this point. We have, uh,
+instituted pretty firm and
+strict.
+Procurement controls and it's
+not only the procurement incomes
+on the procurement, but it's
+also basically budgetary
+controls as well as we're
+tracking the way we pay for
+those invoices the way that we
+look at our contracts, uh, we,
+we get those contracts funded.
+Uh, we're also looking at
+improving the infrastructure of
+the agency, so at our
+facilities, the remote
+facilities, the offices out of
+which staff works, we're
+increasing the bandwidth that
+those facilities so that the
+people can that are working in
+those offices can have the
+bandwidth that they need and
+we're also upgrading the Wi Fi
+at all of the facilities and
+both the bandwidth and the Wi Fi
+upgrades, not only enable staff
+to do their
+job better without a lot of
+latency. It also improves our
+cybersecurity stance. So as the
+technical advisor, you can
+imagine my my bent towards this
+project is definitely technical,
+but I'm also seeing that, um, as
+part of the agency operations,
+the agency really has stepped up
+their cybersecurity work. We've
+got a lot of, I can share some
+details with you, uh,
+specifically asked, but I
+believe that our improved cyber.
+Security stance is another.
+Good point for us. We have, um,
+very good relationships, I
+believe, with Do it, LFC, and
+our HCA partners as well as our
+federal partners.
+And then I finally would like to
+say to close the slide out that
+we're not building facts 2.0.
+Facts is the existing system of
+record for Sea West. We are
+building CYFD 2.0. And this is
+not something that's necessarily
+directed by NM Impact, but that
+that development of CYFD 2.0
+comes from the agency's
+executive and these
+Activities again including
+preparing for the future
+staffing department reorganized
+reorganization. It is evolving
+business processes that were
+consolidating to make
+efficiencies as well as focusing
+on professional development, and
+I think that this messages can't
+be repeated over it can be seen
+in, uh, Secretary Casados'
+recent uh news article talking
+about new hires and hiring at
+the agency.
+If we were to proceed to slide
+number 6, this is the anim
+impact risk. This is kind of a
+detailed wonky slide here, but
+fundamentally what it's giving
+you is, uh, the types, how this
+is how we manage our risk. We're
+looking at risk in these primary
+categories, those would be on
+the left-hand side scope
+schedule quality resources,
+organizational readiness,
+communication, and budget, and
+then each one of these risks is
+categorized into low risk,
+medium risk, and high risk.
+Now in normal risk management,
+what happens is risk is
+identified. The triggers are
+identified, and when that
+trigger happens, we instigate a
+mediation or mitigation plan in
+the case of NMImpact we've
+established NM Impact to be
+proactive in terms of managing
+our risks. So we're not waiting
+for the trigger. Every risk that
+we encounter is an actual risk
+and it's actually mitigated. So
+you could see a slide like this
+might be some variances month
+over month.
+But fundamentally what you're
+going to see is the specific
+risks are are going onto the
+risk register and coming off of
+the risk register just like our
+issues, so we are actively
+working on this project.
+If we go to slide number 7, we
+can talk about governance and
+project governance on slide
+numbers, page 7, fundamentally,
+we are governed by the do it PCC
+project certification Committee.
+We are, we give quarterly
+updates. We are going to be
+asking for C2 money this year,
+which is fundamentally it's not
+a new appropriation, it's just a
+certification of funds and we
+really do rely on our good
+relations with our.
+Partners and we're very happy to
+have their support. We do have
+the an Impact project management
+office. They are an outside
+vendor and they are specifically
+focused on this project only,
+that's all they do and I'm
+impact they're not concerned
+with any of the other, um,
+driving any other projects
+within the agency, so we have
+dedicated teams, but at the same
+time, although that project
+management office for Annum
+impact is focused only on NM
+impact they have spent a
+amount of time reaching out to
+the other principals in the
+agency, the directors, the
+deputy directors, the cabinet
+secretary, and the deputy
+cabinet secretary, and we have
+clear, they have clear lines of
+communication and, um, I believe
+that that relationship is very
+strong and works very well for
+the project. Additionally, we've
+gotten very lucky with our IV
+and V partners,
+our IVNV consultants have a
+tremendous amount of experience
+in business.
+And I as well as child welfare
+information systems, so I was
+happy to wait. I'm committed to
+getting somebody to us in
+November. I was happy to wait
+until December to get them
+placed because we do have the
+right staff and, um, they again,
+also are involved with making
+recommendations about the
+project, the agency as a whole,
+and definitely how we're working
+as a team and what are best
+practices in other states we
+have
+actively also on slide 7,
+another bullet point is policy.
+We are actively rewriting policy
+at the agency to make CYFD 2.0.
+It's a relatively exciting time
+and as you can imagine, there's
+a lot of change management
+that's happening as well, and
+that's something that the
+project executive Joey and I, as
+well as the Cabinet secretary
+and the Deputy Cabinet
+secretaries are helping manage
+so that we can ensure that
+across the board we are laying a
+Level playing field for
+everybody to exceed and we're
+being very inclusive as opposed
+to treating this project like an
+island of functionality that we
+just give to the agency. We're
+integrating with the agency and
+in fundamentally our CYFD
+executives are actively involved
+in every piece of,
+um, project governance.
+Additionally, our executives
+also take part as part of the
+executive steering committees
+for the Miser, the
+HHS and other projects that are
+carried on by the healthcare
+authority at this point. So we
+are aware the executives that
+are running, working on this
+project with a specific on this
+specific facet are also aware of
+what else is happening in the
+larger states environment with
+respect to how work done at
+other agencies is going to
+impact our agency and the work
+that we're doing in this agency.
+Um, just a quick slide number 8
+is basically governance, uh, a
+key decision register and change
+control. So fundamentally, when
+all of our key decisions are
+being codified and they're being
+made in the open and this is
+part of the project's
+transparency. I'm trying to
+camera home the fact that we're
+being transparent, we're being
+open, inclusive. The key
+decision register is one of the
+ways that we are. Decisions
+aren't being made in the vacuum.
+They're being made in the open.
+We're seeking consensus.
+and collaboration from all of
+those impacted and but
+eventually and ultimately those
+key decisions are made by the
+executive and they're registered
+and fundamentally we're doing if
+that's the key decisions the way
+the project runs, what we're
+working on for policy and the
+agency, the way we're doing our
+reorganization, the change
+control board fundamentally is
+specifically focused on the Num
+impact project and how the Nim
+impact project, what we're going
+to be changing.
+With respect to our scope, our
+schedule, the quality of work
+we're doing, how we're, we're
+temporarily sequencing the work
+that we're doing and any changes
+that we need to make either to
+the project or to the IT
+landscape in order to facilitate
+success for Annum impact.
+Um, I would like to move on to
+slide 9 again going back to
+emphasize collaboration with
+respect to project collaboration
+we work regularly and I attend
+almost every single meeting out
+of HCA with respect to Miser HHS
+2020 and we do regular meetings
+with our Medicare Medicaid
+partners as well as host, um,
+uh, not only meeting directly
+with HCA, but we also meet up
+with our federal partners.
+and HCA and the core of those
+conversations is fundamentally
+around our budget, the way we're
+going to budget, projecting what
+we're going to need for the next
+fiscal year, managing and
+juggling all those balls that we
+need to juggle with respect to
+the budget with the offset
+between the state fiscal year
+and the federal fiscal year. So
+it's, um, requires a high touch
+and a lot of collaboration, and
+that's happening.
+We've also reached out to other
+Mcase products.
+Users in other states and we
+have monthly calls with them and
+we share learning lessons about
+where is the state of New Mexico
+in the process when we talk with
+our partners in Arkansas and
+Mississippi. We like to learn
+from them, like what did they
+learn? What was successful
+outcome for them? What was an
+unsuccessful outcome so that we
+can take that information back
+into the project and drive it
+through our collaboration and
+communications.
+mindset culture that we've
+developed so that we can
+mitigate those problems before
+they become an issue.
+Um, we are also starting our
+data exchange, so we're looking
+at our data exchange partners.
+So not only are we defining what
+data needs to be exchanged,
+we're also investigating how
+we're going to exchange that
+data over what platforms and
+additionally, we're looking at
+these data exchanges were also
+upgrading our data exchange
+agreements so that the data
+exchange agreement.
+When the time comes to share the
+data.
+That we already have the legal,
+the technical, and the practical
+groundwork done to do those data
+exchanges and I have repeatedly
+discussed our federal partners
+AMS, uh, excuse me, ACF and CMS
+and very excited about that.
+If you'd like, we can go into
+the details of of the on slide
+10, which is the anima impact
+appropriation history. So
+fundamentally, these are the
+appropriations that you
+thankfully have um awarded us
+and I'm here to try to convey a
+sense of value back to you, um,
+and if you have any questions
+about what we're doing, I would
+really like to focus on that,
+um, there's really nothing new
+or exciting in the uh the
+appropriation history.
+I'm please tag me, uh, please
+ask me later if you have any
+questions. You can see that
+we've got the next slide on page
+11 is the Num impact
+certification history. We will
+be asking going to PCC next
+month and we're going to be
+asking for a little more
+certification of funds. We're
+looking for approximately
+$10,000 to get $10 million
+certified from PCC so that we
+can do an interagency transfer
+and get that done, get the money
+into the.
+Agency so that we can pay some
+of the contracts that we know we
+have coming up again I'm trying
+to communicate to you that we're
+being super proactive that we're
+not leave anything that we know
+that we needs work, we're
+working on it and we're
+definitely dealing with it. I
+believe in an effective
+professional manner. Uh,
+finally, on the last slide,
+slide 12, um, for the budget is
+the, uh, annum impact estimated
+project budget from here is
+basically a distillation of how
+we're
+And where we're going to be
+spending our money in large
+general categories. If you would
+like, I'm available to answer de
+quit-tailed questions like this
+either again in person or in
+writing, um, but I think that
+fundamentally with respect to
+the status of our budget, you
+can see that, um,
+We're doing a really good job.
+We're very proactive. Our
+procurements and our invoicing
+and our payments are compliant
+and we're also working across a
+broad range of, uh, stakeholders
+and getting all of their inputs
+with respect to what we're going
+to see for future expenses so
+that we don't have any
+challenges there,
+um, the slide 13 is basically a
+reference slide. These are our
+key team members. This is, these
+are, this is not.
+Comprehensive list of everybody
+who was working on this project,
+but it is definitely um a
+highlight. There are some key
+people. There are some key
+contributors that are not on
+this list, but I, if I would
+basically take a whole hour just
+to call them out.
+So, um, in closing slide 14, I
+would like to thank you. Thank
+you for
+The
+Time that you've given us, the
+interest, and I'm really
+actually really looking forward
+to a very focused and difficult
+to answer questions, so please
+don't let me down. Um, I mean
+here to, um.
+Answer any questions that you
+have now and if there's anything
+that I can't answer, I will
+definitely get back to you. So,
+Madam Chair, members of the
+committee, thank you very much
+for your time. Thank you. And
+first questions from uh
+Representative Garrett.
+Thanks, Madam Chair. Thank you,
+Mr. Street. Um, have you worked
+at all with ICASA who, um, down
+at N MT are working on data
+governance and they've started
+out from the position more of
+criminal justice.
+Have you had any meetings with
+them?
+Since they're one of the um.
+They're involved with some of
+these data exchange partners.
+We have not, I'm sorry.
+Chair, representative, um, we
+have, I am not aware of any
+direct meetings with ICASa yet,
+but I would be more than, and I
+thank you for the lead. I'm very
+happy to talk with them. I will
+follow up, um, and get a
+response to you when we've met
+with them.
+Yes
+Madam Chair, I believe it's
+Michael Smith.
+Anybody
+I believe it's Michael Smith.
+Thank you so much. I truly
+appreciate it.
+Thank you. All right, thank you
+for your presentation. Um, it
+looks like your um your,
+you reduced your high risk um
+items, so that's great. Yes,
+yes. How many, how much have you
+gone down or how many have you
+fixed or it's this project is a
+living breathing active project
+so our risks flow in and out,
+um, and I do also notice that we
+while we're looking at our risk,
+we do evaluate the risks in a
+way so that if something is low
+risk and we think it becomes a
+high risk, it moves up. So I.
+hard question is, I'm a
+scientist, so that question is
+hard to quantify, but um, we
+could show you that the number
+of risks that we have in total
+are about the same.
+OK. So let's look at the big
+picture. What is the on the
+ground impact of this project
+for social workers and kids.
+Do you, can you give me this
+where you're at, what you're
+doing, where you're getting to.
+So with respect to where we are
+in the ground with getting
+programs lined with the kids.
+Um, pardon me, I apologize. Um,
+members of the committee, we
+are, um, we're working with a
+lot of right now in the project,
+what we're doing is we're we're
+beyond listening sessions. So in
+we call them maybe some people
+call them listening sessions,
+some people call them discovery,
+not to be confused with legal
+discovery, but it's kind of
+similar, uh, and then we've gone
+into requirements, verification
+and validation and during the
+these listening conversations
+and requirements, verification
+and validation. We are making
+contact internally and
+externally. We do have external
+stakeholders that are sharing
+their voice about what they're
+going to need in this future
+system and um we also have a lot
+of participation from people
+that are on the ground actually
+providing the services to the
+children and we are receiving
+their input and that's valuable
+input.
+Because it's actually going to
+drive what we're making for them
+with respect to the program. So
+it's, we're not buying, we are
+buying a cot, a commercial off
+the shelf solution, but that
+commercial off the shelf
+solution is very, very, um.
+Configurable and when we realize
+that we're in this situation,
+what we've done is we've
+expanded our stakeholders, so we
+might not have children in
+giving their opinion, but we do
+have external entities outside
+of CYFD providing their voice in
+terms of our development of how
+we're going to configure the
+system. Madam Chair, did that
+answer your question? Yes,
+that's good. OK, another
+question. How often do you
+report to the um enterprise
+project management?
+I, I meet with the Enterprise
+project management office twice
+a month. I do quarterly reviews,
+uh, I actually present a PCC
+quarterly.
+OK.
+Um,
+What is the current timeline to
+complete the project since it
+started about 2017, right? We're
+looking at a December 2025 go
+live date with follow on um.
+Currently we're looking at
+December 2025 for a go live
+date. We there will be the
+project won't close for another
+6 months because we'll have some
+contract close out maintenance
+and operations, and at that
+point we'll also be making a
+decision about whether we want
+to further augment the system.
+Further, OK, um, so that's
+training, that's everything you
+need and, and. That's correct.
+And then the beautiful thing
+about the way that we're doing
+this, chair, is that because
+we're involving the system users
+up front, it almost, it doesn't
+necessarily mediate the need for
+training, but it definitely
+mitigates the need for training
+because these people are
+building the system and then
+once it gets built, they'll be
+involved in testing the system.
+So training is like an ongoing
+effort and we will have, um, but
+I also want to say that with
+respect to trading, it's
+important that the people that
+are on board at CYFD today will
+be using the system, but we're
+going to get new people on board
+and so we are preparing for
+that. We're recording videos,
+we're working and building
+training modules were
+integrating the policies that
+we're developing into those
+training models. So it is a
+comprehensive trading plan.
+Basically has already begun. OK,
+cause I I I remember you saying
+last year, I think the turnover
+is so great that you would have
+to have something like that
+because people coming in all the
+time, um, I think that's, oh,
+OK, Senator Burton.
+Thank you, Madam Chair, and, and
+thank you for the presentation.
+Um,
+We're talking about a project
+that I think was started in
+2017, was supposed to be
+finished in 2018, is that
+correct? Um, this project was
+started in November of 2023
+officially with when we signed
+the RFP, but you are absolutely
+correct. Um, there have been
+other attempts at trying to
+build this functionality in the
+agency.
+So Madam Chair, if I may ask,
+Like I, I, I hear a lot of of
+Excuse me, but rhetoric. I hear
+a lot of.
+Words that are used in a lot of
+presentations are kind of.
+Bowler plate if you will. Can
+you just break this down and
+tell me why it's taken so long.
+To get from the time we started
+the project to get here, is it
+lack of people, lack of money,
+lack of time working on the
+project. Can you, can you?
+Give me a little bit better idea
+of and I'm asking this because
+CYFD is the worst agency in the
+state. It has to do with kids at
+risk, New Mexico kids at risk,
+and this has taken way too long.
+My opinion, I'm not in your
+position. I'm not a, a tech guy
+or anything like that. But I'm
+trying to get some, some solid
+answers here because I think a
+lot of people want to know.
+Why it takes so long to get
+things done.
+So could, could, could you
+please give me 1 or 2 or 3
+points as to why it's taken from
+here to here and we're not even
+the, the project is not done
+yet.
+Uh chair, Senator Burt, I
+appreciate the hard questions
+and thank you for the feedback.
+Um, I would like to move beyond
+rhetoric and um I think that
+your question is, uh, the
+question is a great question for
+that.
+I believe that in the past
+projects were started.
+And there was not a clear
+definition of what the problem
+was or what value was going to
+be delivered, nor do I believe
+that there was top-down buy-in
+for the projects. Additionally,
+I do not believe that the
+previous projects that were
+looked at were as inclusive as
+they needed to be. I think they
+were designed to fit the problem
+that's in front of them rather
+than the problem that we're
+going to have in the future.
+What we're doing with NM impact
+is going to resolve those three
+problems. Fundamentally, what's
+happened with those other.
+Projects is that you've, we've
+taken a look and we've done a
+lost opportunity and a sunk fund
+analysis, and we've decided that
+those projects are not going to
+meet our needs, meet meet our
+needs, noble, uh, additionally,
+those programs were only partial
+solutions that were based on
+prescribed.
+Nonconfigurable solutions. So
+fundamentally, if we want to
+take a look at this from a
+business perspective, what we
+were looking at before was a
+solution in search of a problem
+with respect to product and
+development and fundamentally
+what you're getting here is a
+solution is the problem we're
+solving the problem with our
+solution. So where the problem
+is leading, not the solution,
+and I think in your previous,
+um, in the previous adventures
+to.
+Solved the sealess problem?
+I believe that that we were
+looking at it, the project was
+looked at it from the wrong end
+of the telescope scope, so to
+speak, and then with that, of
+course, you're not gonna, you're
+of course you're gonna be upset.
+You've got money that was spent
+that didn't go anywhere. You've
+got value that's not being
+delivered. We've got pent up
+demand for these products and
+services that are just not
+making it into the hands of the
+people that can deliver it.
+Hence, when Teresa comes on
+board and she invites me to join
+the team and Joey to join the.
+Team, you're getting a different
+perspective on the way things
+should be ran and you're, you're
+getting CYFD 2.0, not fax 2.0.
+So synopsis like marketing
+branding language. The other
+projects were fas 2.0. We're
+we're working on CYFD 2.0 here.
+And, and I appreciate the
+honesty and the candor. I, I, I,
+I do, Madam Chair, um, I just
+Just come moves so slow
+sometimes and, and not on, not
+just the fact that it moves
+slow, but now we agreed to fund
+what $33 million project or
+something like that, uh, without
+having really good guidelines on
+what we wanted to do and then we
+got into the project. We spent a
+whole bunch of money and a lot
+of time, and we found out that
+the project as it originally was
+presented, probably wasn't the
+the correct way to go. So now
+we're, like you say, now we're
+to 2.0 and, and again, I'm not
+here to throw stones or throw
+people on the bus or anything
+like that.
+I just as a legislator, I just
+would like to see.
+Quicker results, uh, and, and,
+and spending the taxpayer's
+dollar in a more efficient
+manner. It means great to have
+all this money and be able to,
+to spend it work on projects,
+but
+Again, remember this is a
+project that's going to help New
+Mexico at risk kids and the
+agency that oversees that and
+that agency has been for many
+years in turmoil.
+Uh, we're hoping that there's
+some stabilization coming to the
+agency.
+But it also has to be supported
+by projects like this. And so I,
+not to belabor the point, again,
+I really appreciate your honesty
+and your candor in this.
+How do you think you're on the
+right track, first off, man, I'm
+sure, do you think you're on the
+right path right now you have
+the project that you need to
+complete, Madam Chair, Senator,
+I believe that we are on the
+right track. I've been, um, and
+I um would, madam, if I may,
+please respond to a comment, um.
+I worked on the COVID project. I
+know what we can do as a state.
+I know that we can get stuff
+done very quickly. I come from
+private. I've seen it. I've
+taken this to, this isn't about
+me, but this is about the
+state's ability. We've done this
+at environment, we've done this
+at RLD and I'm at at CYFD and
+I'm here to help support make
+support Teresa and make this
+application happen. I don't
+think that we're going ever
+going to be in an
+Optimal situation when it comes
+to.
+Generating new products and
+services for the constituency
+and for the children of New
+Mexico. But I think that this is
+the best chance we have right
+now of getting something done
+within the next 24 months that's
+going to be successful.
+we could go back and we could
+start over and we could try to
+go back and do some sort of
+development, like in-house
+development where we hire
+developers to build the product,
+but I don't think that we would
+be able to get a timely result
+and I also don't think that
+throwing more money at this
+problem is going to make it go
+faster. What is going to make it
+go faster is us finding
+efficiencies in the way we
+manage and govern the project
+the way we have top-down support
+for this.
+not only in this agency, but
+other agencies were not ignoring
+stakeholders because we know
+that ignoring stakeholders makes
+means that we're going to just
+have to pay more attention to
+them later and it's going to
+have negative consequences on
+the schedule and the budget
+we've got a group of
+professionals, programmatically
+and operationally on this
+project and unless we start
+working like emergency hours,
+this project isn't going to go
+any faster.
+And Madam Chair, I appreciate
+again the honesty and the cantor
+and I appreciate the fact that
+you're looking at it more from a
+a business direction rather
+than.
+And then another project for.
+You know, do it or something
+like that, uh, and I'm not
+throwing stones to do it, guys,
+don't, don't get upset. I'm just
+saying I, it is frustrating to
+see the millions and millions
+and millions of dollars applied
+to programs that seem to take so
+long that the parameters and
+what we're trying to accomplish
+changes in the middle of, of
+what we're trying to accomplish,
+and then we need more money to
+correct that and do we ever
+finish the project? I mean,
+that's just the perception that
+I have and it's it's very
+Frustrating and I can't speak
+for any of the legislators, but
+the ones that I have talked to,
+uh, have a pretty high sense of
+frustration at times with
+getting projects done. Very
+complicated, very involved and,
+and you need a lot of input data
+to to build a platform to make
+this work. I understand that.
+Um, it's just that we, we maybe
+it's lack of, of, of
+communication or whatever the
+case may be, we just don't seem
+to.
+From our perspective, see the
+results in a timely fashion that
+I think we expect to see. So I
+don't know if it's
+communication, may I ask, by the
+way, uh, I know that do it,
+Madam Chair had uh uh a pretty
+good.
+Um,
+Uh, vacancy rate and, and I
+think last time I heard vacancy
+rate was, was shrinking
+significantly, so I'm hoping
+that that, you know, is not the
+case too because if you don't
+have people to work on the
+project, you can't get the
+project done as well, so, um,
+I'm hoping that that is the
+case. Uh, I, I, I've taken a lot
+of time, and I'm sure. I
+apologize for that. And I
+appreciate the, the information.
+So maybe we're looking at this
+modified
+now, which is gonna cost us.
+You know,
+2 or 3 times, I guess what it
+originally was planned to take,
+uh, but we're looking for some,
+some initial results in about 24
+months is that, is that.
+What I heard from you all.
+That is correct. OK. Well, thank
+you,
+Ma. You, you helped answer a lot
+of questions for me. I
+appreciate the time. Madam
+Chair, may I please make a
+statement, um, Madam Chair,
+Senator, I understand that this
+Project like COVID is is is
+basically a health.
+Challenge that we're facing.
+And that there is very little
+patience for a long timeline.
+We're,
+I, it's a colloquially we're
+peddling as fast as we can. We
+understand the frustration, and
+it's a motivating factor for the
+key team members at CYFD to get
+this project done. If we have
+problems with vacancies, we
+resolve them by by either making
+hires or finding a workaround.
+If we, if our partners perhaps
+have a challenge in delivering a
+service to us. We work with our
+partners to find a workable
+solution to get us going.
+I think that's essential to the
+collaboration that you see
+inside of this project. It's, it
+may sound like rhetoric
+initially off the front off the
+cuff because you hear it, but I
+appreciate the opportunity to
+provide examples of how that is
+helping the project.
+And I will say that with respect
+to do it, the automations, the
+software, the applications,
+their service delivery, all of
+it's improving and every time
+they roll something out, it just
+makes us more and more
+efficient, which makes it easier
+for us to go forward.
+Thank you, Madam Chair.
+Thank you for your presentation.
+Did you want to say it?
+I just wanted to introduce
+myself, sorry, I didn't mean to
+jump in, but my name is Emily
+Hilla. I am the LFC analyst for
+the Department of Information
+Technology, and so I overlook
+the IT projects that happened
+with the state and so I just
+wanted to step in in case there
+were any questions. I also
+wanted to offer to um a month
+ago in Carlsbad, we presented
+this IT in depth, um, which is
+sort of like a comprehensive
+view of the CW NM impact
+project. Um, it sort of speaks
+to those historical details
+about what happened before and
+then where we're at now, as well
+as anticipated benefits. I just
+wanted to also offer.
+For that, I'm more than happy to
+share that with you all.
+OK.
+Everything you've, you've done
+for us. Um, that's all we have
+for you, OK? All right, I don't
+believe we have any public
+comments.
+OK, so we are gonna go ahead and
+go into executive session.
+And
+So I'm just say anybody who's
+not with the check system needs
+to leave.
+All right. Anyone who's not with
+the council of university
+presidents or the check check
+check check system will have to
+leave.
+Thank you for coming though.
+Appreciate it.
+Just the one from you and then
+she's part of that she's from
+you.

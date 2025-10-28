@@ -1,0 +1,2803 @@
+Here with me is Cecilia
+Mavrommatis, the DFA analyst for
+the Department of Information
+Technology, and today we will be
+going over these sections seven
+budget recommendation.
+Um at the top of your bullets.
+There's the criteria that was
+considered when making the LFC
+staff recommendation. I'm not
+going to go over that too much
+in detail, but to start off with
+the LFC recommendation, the LFC
+recommendation for the section
+seven appropriations totals 52.3
+million, including 28 million in
+general fund revenues, 13.6
+million and other revenues and
+10.4 million in federal funds.
+Including 8.9 million in federal
+funding for the Department of
+Workforce Solutions, continuous
+you I agile transformation.
+As well as 864,000 in federal
+funds for the higher education
+Department for their
+longitudinal data system.
+The executive recommend ation
+for the section seven
+appropriations totals. 112
+million, including 58 million in
+general fund revenues, 11.2
+Million and other revenues and
+42.6 million in federal funding,
+including 18.6 million for the
+Human Services Department to
+continue implementation of the
+Medicaid management information
+system.
+And the 8.9 million federal
+funding as well for the
+Department of Workforce
+Solutions, and I do want to
+mention before I handed off to
+Cecilia that the main difference
+between these general fund
+recommendations comes from the
+Human Services Department or the
+Healthcare Authority, as it is
+now being called.
+Human Services Department has
+two main projects the Medicaid
+information system as well as
+the child support enforcement
+projects.
+The LFC budget recommendation is
+not recommending.
+Any new projects for the
+healthcare authority because
+there are prior appropriations
+that have not been expanded. The
+LFC is recommending that the HST
+can come back next year for
+these new budgets after the
+appropriations that have been
+given to them in past years are
+expended.
+With that being said, I will
+turn it over to Cecilia. For
+more information on the
+executive recommendation. Good
+morning, Mr Chairman. Question
+first, because yes, this if you
+go to page nine, Mr Care, I
+think that is the larger font
+for you to follow on
+starting lfc, and I'm gonna
+throw that copier out the
+window.
+His
+Anybody in the everybody in this
+room is wearing glasses except
+for your senator Campos.
+Yeah, and, uh, there's no way we
+can read this. So I mean, second
+warning to lfc me. You gotta get
+a stuff that's readable. Go
+ahead.
+Good morning, Mr Deck. Can you
+guys hear me? Okay. I'm
+notoriously too loud for these
+microphones. Okay, little
+closer. Alright, Let's hope I
+don't blow anything. People text
+me So I'm warning the World Wide
+Web have set my phone for focus
+and so they're not going to get
+there in Texas are not going to
+come through if it's
+Trying to text me because
+they're webcasting or something
+is not working. So I appreciate
+that Mr Checks, Senator Sheer.
+Here's number is 86753 or 90
+boy.
+Um, okay, so I really just
+wanted to start today by
+explaining a little bit more
+about how this section seven
+appropriations are distributed
+across the state and how the
+project certification committee
+plays into the role for do it in
+Section seven. Appropriations
+unlike Section five and Section
+six, Section seven
+appropriations are not buckets
+of money that get
+Directly given to agencies they
+are bound by the New Mexico
+Administrative Code one tack 12
+Tak nine. And if you'd like a
+little more information on what
+it is that governs those
+conditions to meet Section
+seven. I can give those to you.
+Also a caveat. I we do not work
+in I t There might be some
+things here that we do not
+understand.
+Fully but everything that is
+submitted as a reauthorization
+request or as a new project does
+come with about, um, I'd say
+sometimes about a 40 page packet
+of a full business case that
+explains everything. This agency
+is doing all the hardware that's
+associated all the software that
+is associated. And if you can
+find someone who can really, you
+know, translate the I T for you
+that would
+Be great. We can also connect
+you with the CEOs for those
+agencies as well. But
+Going back to Section seven in
+the project certification
+process. These requests do begin
+in July of the year before the
+appropriation cycle, so anything
+that's being asked for fiscal
+year 25 agencies start to get
+with the department of it and
+the Enterprise Project
+Management Office the first week
+of July to do some training to
+get the material to help them
+understand what it is that they
+are allowed to ask for and what
+they're not allowed to ask for.
+Section seven does not cover
+hardware.
+Exclusively. Section seven also
+does not cover items that are I
+T and are less than $100,000. So
+sometimes you will see an I T
+request. That is a section five
+requests, and that's because it
+does not meet that threshold.
+However, sometimes you will see
+a section seven requests that
+has both hardware and software
+and that's just because by
+nature sometimes when you have
+to update your systems, you need
+to make sure that what you are
+now using isn't compliance with
+the new software that you're
+buying. So sometimes you can get
+a little complicated because we
+will technically be approving
+hardware in Section seven,
+however, because they are so
+closely tied to those software
+programs. They kind of get
+lumped under, Um
+That, however, we do have the
+Enterprise Project Management
+office.
+Who can give you all the details
+you need for what falls under
+those categories. And what
+doesn't
+So getting in July, the agencies
+will get training and materials
+and they will work with the
+Enterprise Project Management
+Office and by July the end of
+July, they will send a full
+business case for explaining the
+intent to request a Section
+seven appropriation for the
+following year.
+Um
+By August, agencies will work on
+a draft package and then they
+will begin to review and correct
+those packages to make sure that
+what they're asking for is
+appropriate for Section seven
+and then by September, 1st,
+which is when all the agencies
+come in with their appropriation
+requests.
+That is when you will see the
+reauthorization requests. So
+these sections sevens are broken
+into two categories. You have re
+authorizations, and then you
+have new requests. Those are two
+different things. And, um part
+of these timelines here can kind
+of explain why the Rios will
+take so long and why agencies
+kind of delay getting the money
+out the door.
+Um
+So presentations are then given
+to do it from the state. C IOS
+for these I T projects and in
+October it's presented to the
+project Certification Committee,
+which I can give you more detail
+on Project certification
+Committee. Um, and who's part of
+that committee? As part do it, D
+F A. There are a few other
+entities. Lfc is also part of
+that committee and that is where
+we go and we ask questions on
+the status and the phases of
+these projects.
+Um
+So that's when we start to
+understand what the new section
+seven I t requests will be for
+fiscal year 25.
+By statute, November 14th the do
+it. Secretary sends
+recommendations to DFA in the
+executive office for Section
+seven requests when they do send
+it to DFA in the executive for
+Section seven. They are done.
+They are submitted with risk
+assessment scores and do it will
+say that these projects are high
+risk to the state low risk to
+the state and all sorts of
+factors that go into Section
+seven because it is very strict
+and compliance, federally, as
+well as cyber security risks
+that are associated with new It.
+Projects.
+November 21st. The executive
+recommendation is sent to lfc
+And that is the recommendation
+that you will see that has the
+executive column and all of
+that.
+Um And then, after that is when
+LFC will then begin drafting
+their recommendation, and then
+we follow on the normal process
+for Section seven and the entire
+fiscal year following
+appropriation cycle, so
+Agencies with Section seven
+requests have to go to the
+project Certification Committee
+to release these funds in
+phases.
+They do not get the money all in
+one lump sum, an agency will
+begin a project. They will say
+what the intent of that phase of
+the project is. They will
+present that intent and how much
+money they need to the project
+Certification Committee, which
+includes DFA, do it in Lfc, and
+then those funds are distributed
+based on the need of that
+project and where they are in
+the phasing. So
+If an agency has a $5 million
+appropriation for an I T
+project, they do not get $5
+million upfront. They might get
+$500,000 to begin phase one, and
+then when they're done with that
+phase, they have to report back
+to the PCC. So every step of an
+it project is accounted for by
+the department of it by DFA and
+by Lfc.
+Um, and that can sometimes lead
+to delays when you overlap that
+with contracting and having to
+do a technical review, and all
+the other things that kind of
+just come by nature with I t
+Um, but with that, if you would
+like to know more about who's on
+the project Certification
+committee or any of the other
+details that go with how that
+appropriation is distributed to
+agencies and more than happy to
+get more into details, But Mr
+Chair if you'd like we have re
+authorizations on Page nine and
+new projects, I think on page
+17.
+And those are a little too
+different.
+Objectives this morning.
+Oh,
+Yes, Mr Chair. Page four has
+both the language
+preauthorizations, as well as
+the new projects combined into
+one Excel spreadsheet.
+So if you would like to start
+from there, we can.
+Mr Chair Beginning on Page nine,
+we will begin with the
+reauthorization requests. Um
+Yeah, they are.
+Yeah, For 90. Yes. So, Page nine
+is just a little bit bigger for
+you all Mr Chair, Um, just from
+the executive, um
+The executive recommendation for
+anything that is a language only
+request.
+They are approved, and that is
+because with Section seven the
+money that's associated to these
+language request has already
+been appropriated in previous
+years for Section seven, so
+these are not new money what the
+agency does when they come back,
+and they ask for a
+reauthorization request. All
+they're asking for is a little
+bit more time to be able to
+spend that money.
+What the reason might be behind.
+Why there is a delay is entirely
+on the agency. But it is also
+because the project
+certification committee only
+meets once a month, so there are
+kind of some benchmarks that
+they need to meet, and
+especially with agencies like
+the Department of Health, or,
+Um, HST that can sometimes be a
+multi million dollar project.
+And when you're waiting on
+federal funds to match and the
+federal the federal grants are
+part of the process. They kind
+of take a little too long. So if
+you do have questions about why
+language only requests were not
+approved. That would be for my,
+um, my partner here, Emily
+Are you gonna go through these
+one by one or
+Emily.
+We can go through them by one by
+one. Mr Chair. I would just like
+to say there's only three
+language we authorizations that
+the lfc is not recommending. Um
+those are all with the
+Department of Health just
+because in total they have been
+appropriated $7,040,000, and
+then they have 7,011,000 left in
+unspent balances.
+And I believe
+That these were from me. Double
+check? Yeah.
+I'm a little confused, Emily
+because everything I see is L C
+language recommendations.
+Yes, Mr Chair if you look on the
+back of Page four, where it's
+really, really tiny, Um, I have
+it up here. Um and
+Yeah.
+We're just getting you guys
+ready for the day, Mr Care?
+My apologies that's hidden
+behind the bullets on the front
+page, but this really, really
+tiny, tiny font. It will just
+talk about the, um previous
+language and then the amounts
+that they were appropriated and
+then the amounts that are left
+on expended and out of those
+language. Re appropriations
+authorizations. There are three
+that the LFC is not
+recommending.
+All coming from the Department
+of Health because there is
+7,011,000 left and unexpended
+balances and, um
+Prior CEO. The reason for that
+is because the prior CEO was
+waiting for full funding before
+initiating the project. And so
+we are just currently waiting
+for the new CEO for the
+Department of Health for these
+projects.
+But we can also are never mind.
+Yeah, Relax. Don't worry.
+We can't read it anyway. On
+these small ones. Tell us Tell
+everybody. Mr Chairman, I just
+have a quick suggestion on on
+this sheet since it's so small,
+Uh, surgeons, this is actually
+going to the print shop to get a
+Lord larger fund, So if we want,
+if I don't know up to you, mr
+Chair, but if you wanted to go
+to
+To this sheet. We could come
+back to this once people
+I'm trying to figure out the
+duplicate pages because four
+pages four through
+nine are duplicates of 10
+through our duplicates of 10
+through
+Yeah, 16 correct.
+Correct. You could pull out
+those That's just a smaller
+fund. That's the same as yes, 10
+through exactly.
+And then
+That's the same as 10 through
+11 or 16.
+10 3 16 is just a larger font
+and then six
+1717 through.
+20 are the references. Language
+recommendations by LFC.
+70 have no idea what's behind
+this one because I really
+Session. I guess 20 Mr Chair are
+the new requests for fiscal year
+25 and those might be a little
+easier to go. Let's just start
+off and page 10. Everybody. Tape
+takes rips off four routine and
+throws it in the trash will have
+the larger funds No. Four
+through 10, but
+So what is this?
+Yeah.
+Where's Paige Tendons
+and the hospital? This is all
+the same.
+This is all the same time.
+So where we want to start. Let's
+start on page 10 so we don't get
+Hello.
+Ladies, tell us where we're
+going to start or we're going to
+start with recommendations are
+not recommendations.
+Gonna start on page 17 or page
+10.
+Hey, there's a button. You just
+pushed him. We can get chains
+you want You want gold studded
+changed. What kind of change you
+want? We're just override.
+Yeah.
+So, Mr Tried. I think we'll
+start with this. Um the items
+that are not recommended by LFC
+Page 14. Actually, it'll be on
+page 13 Mr Chair for the
+language only, and that will be
+item number 21, the Department
+of Health for the DD Case
+management system.
+Page 14.
+Item number 21.
+Item. 21 is on page 13 for me.
+Yes, okay.
+Go ahead.
+Yes, Mr Chairs to the reason why
+this is not being recommended
+with the lfc is just because of
+the unexpended amount that is
+left in this, um, originally.
+Um
+So it's from 2017. Yes, um
+They have about 5 million left
+and unexpended amounts and they
+were appropriated 5 million
+before And so That is why the
+LFC is not recommending this
+reauthorization.
+Because of the unexpended amount
+that is left over.
+So I don't know. Maybe we just
+got to start over but on our
+sheets on page 13 it says L. C
+recommended language in the
+sitting there and I go to page
+16 or 17. That's the sheets that
+I have. Lfc is not recommend
+recommends and starts to starts
+on page 17 for me.
+Yes, I'm page 17. That is for
+all of the new requests. But
+then on page is just the
+language only for priority
+authorizations. And so these
+were, um it says Lfc recommended
+language. Um, not just the
+language that is included in our
+system called BFM. Um, but that
+is the original language that
+was written for these
+appropriations.
+So it's not that we are
+necessarily recommending that
+language that is just the
+current language that exists
+around the appropriation that
+was given in the past. And so we
+need one more column that said.
+Loc record, not on the small
+page that is being reprinted for
+you. So that's why it's
+complicated at this moment. But
+okay, we'll get there.
+It's snowing. We have nothing
+else to do but shovel snow.
+But to if you would like to
+wait, Mr Terence 21, We're on
+21. Do not recommend yes, do not
+recommend for the Department of
+Health Line number 21 on page
+13. And again, Mr Chair That is
+just because of the prior
+appropriations that were given
+in the past and what is left
+unexpended, which is the total
+amount that was originally
+appropriated.
+Can't
+Item 22.
+Okay. And then I'm actually
+gonna go up to the very top one
+page 13 online 19. And so this
+is also for the DDP case
+management system. Do not that
+is a do not recommend Mr Chair,
+and that is because the prior
+amounts that were appropriated
+are left on appropriated. Um, so
+the amount that was previously
+appropriated has left.
+100% unexpended amount.
+And then the last Do not
+recommend Mr Chair for the
+language reauthorization XYZ
+Line 20 on page 13.
+I'm even having trouble reading
+this tiny little fun. Oh, but
+that is because of unexpended
+amounts that were private
+Previously given, so those are
+the only three do you not
+recommend from the language?
+Ah! Re authorizations from the
+lfc. And so for those amounts,
+the total of the appropriate and
+amounts in the past is
+7,040,000. And then the left the
+balance that remains unexpended
+from the Department of Health
+for these reauthorization XYZ 7
+Ah, re authorizations from the
+lfc. And so for those amounts,
+the total of the appropriate and
+amounts in the past is
+7,040,000. And then the left the
+balance that remains unexpended
+from the Department of Health
+for these reauthorization XYZ
+7,011,000.
+Mr Chair. I just want to note
+that lfc did not recommend
+these. However, the executive
+did recommend these because the
+agency is just asking for a
+little more time to be able to
+appropriate these ones. Thank
+you. Time is the only thing we
+can't buy, and they have a
+button to buy everything.
+Senator share
+So thank you, Mr Chair.
+So online 19. We said it was
+100% not expended.
+That is correct. Mr. Chair,
+Senator.
+So I know we went through this
+big deal about the DD waiver and
+coming up with the money and
+making all this happen, Mr
+Chair.
+And then we didn't spend the
+money.
+In some of this, So this goes
+back a few years, 2021
+Um why? What happened Because
+this was a big deal. The DD
+waiver was a big deal.
+Mr Chair, Senator. I'm not too
+sure. But I can follow up with
+the Department of Health and get
+back to you on why this amount
+was not expended on this. All
+these are old data case
+management systems is that
+linking they didn't need the
+money because they went into a
+new system.
+Uh, Mr Chairman, the so a lot of
+these that you'll see for
+reauthorization or are just, you
+know.
+I'd say kind of kind of slow to
+spend for it projects for for
+various reasons, the largest
+appropriations among those being
+that the big Medicaid system the
+MM, Miss, which
+Worried about a half A billion
+dollars now invested into that.
+Um
+For the for the DD waiver
+system. Um, I believe that, uh,
+project was not
+Kicked off and so, um
+What lfc recommends is not re
+authoring that and having them
+come back through the PCC
+process. Um and basically re re
+scope and re plan that project.
+Mr Chair, Okay, thanks. Mr Going
+to next, Emily.
+Mr Chair. We can now move on to
+Age 14. We can move actually now
+to page 17 with the new projects
+because otherwise all of the
+language re authorizations are
+being recommended by both the
+LFC and the executive. And so
+those three were the only ones
+not being recommended for the
+language.
+And so, Mr Chair members of the
+committee page 17. This is all
+of the new projects that, um,
+all the different agencies are
+Wanting to start in FY 25 or as
+well as the continuation of past
+year projects.
+Um Cecilia. Are there any
+projects and specific you would
+like to cover
+Yes. Thank you, Mr Chair, first
+starting online one AOC storage
+attached Network solution. Um,
+you'll see Lfc did not recommend
+this project, and that is
+because it is considered
+hardware and, um, However, the
+executive did recommend this
+because I will read what the
+attached storage network
+solution is. I have a quick
+right up here.
+Um, but it does work in tandem
+with software, and it's one of
+those items that has to be
+updated by both endpoints to be
+able to fully function at the
+agency.
+Um, so a little bit about the
+AOC, the end of life and end of
+support for our current storage
+solution have been announced. It
+is a priority for the judicial
+information division to purchase
+and deploy a new storage
+solution before our current
+equipment reaches the end of its
+supportable life. Lack of
+funding would mean services will
+be running on hardware with
+limited support options and no
+possibility of expansion. Lack
+of support on aging hardware
+opens judicial services.
+Two possible catastrophic
+storage failures and little
+available assistance to return
+services to working order
+barring such failure,
+replacement of the equipment
+could also be complicated in the
+future. If we were to attempt
+this replacement after all,
+storage support his ceased, so
+it's one of those, um in
+betweens. If we don't update
+this project, we might just be
+that much further behind on the
+I T landscape and it might be
+more costly to get up to speed
+so
+Mr Chair. And Mr Chairman that,
+um the reason for our non
+recommendation of this is is
+typically we ask that hardware
+be purchased, Um, either in the
+base budget or through capital.
+It's it's not something that we
+usually funding Section seven.
+Mr Chair.
+Okay. Next one moving on to
+items three and four. You will
+see that there are no executive
+recommendations for both DFA and
+Secretary of State And that is
+because these agencies
+originally requested these
+appropriations as Section five.
+However, lfc determine these to
+be appropriate as Section seven.
+However, they did not follow
+that same July framework that I
+explained at the beginning of
+today's, um
+Hearing and so we did not have
+ample opportunity to provide
+risk assessments and determine
+if they were a viable use of
+Section seven. So that's why
+there is no executive
+recommendation there.
+And if there are no questions, I
+will move on to the next item.
+Keep going. Okay. If we look at
+items six line six we have the
+Department of Cultural Affairs
+Cyber security upgrades and
+compliance. There are three
+items on this list that were not
+recommended by the executive.
+And that is because we have
+looked at opportunities to
+provide for the office of
+Cybersecurity, which has now
+begun.
+This next fiscal year, and so we
+decided that this would be a
+great opportunity for the office
+of Cyber to go ahead and start
+getting their feet wet on
+providing appropriate
+cybersecurity. Um
+Assistance to state agencies. So
+this is one of those agencies.
+Mr Chair moving on to item 11,
+the healthcare authority, child
+support enforcement system. Um,
+the executive did recommend
+this. This is one of those
+projects and I can explain a
+little bit about the child
+support enforcement system if
+you'd be interested, too, But,
+um
+Healthcare Authority. There's a
+great deal of a return on
+investment on these types of
+projects, primarily because the
+federal government does play a
+very big role in maintaining
+these mighty infrastructures and
+for the cost of $7 million for
+the state and the federal
+government has provided $14
+million in return on this phase
+of this project, so
+It's kind of one of those
+projects where the assistance
+is, is almost too good to pass
+up. But if you'd like a little
+more detail on that child
+support enforcement system I can
+read what I have here, Mr Chair.
+If not, I can keep going.
+John are comments are there
+right? And so they HST is
+requesting three other
+authorizations for past funding
+for
+I don't know what the Ackerman's
+means. Somebody's gonna have to
+tell me what eight Chicago means
+and C s E c. Mr Chair. Each cat
+means the Healthcare Authority
+Department, which is the human
+services division or department,
+Um, And what was the other
+acronym you were looking for
+CFCs that is the child support
+enforcement system. That is what
+that stands for. And yes, the
+reason that the LFC is not
+recommending
+Um, Human services. The
+Healthcare Authority Department
+for the child Support
+enforcement system is like
+currently have 10 million in
+reauthorization request
+specifically for the child
+support enforcement system. And
+so the LFC feels that new money.
+Would be, um, it would be better
+for the
+HST Healthcare Authority
+Department to use the money that
+was previously appropriated to
+them rather than recommend new
+money for the same project, Mr
+Chairman, that the story will be
+the same on that. Mm, I s system
+that that we were talking about.
+There's a lot of Riyadh's for
+for that money for unspent
+money. And so, um, the LFC wreck
+was
+Basically to give those Riyadh's
+but, you know, spend the money
+you have before we appropriate
+new money, Mr Chair.
+Who's next and we're going
+I can keep going, Mr. Chair. I
+don't know. Did you want a
+little bit of more information
+on that child support, So when
+it started, and or do you want
+to just keep going through the
+project? Keep going, because you
+have 21.8 million currently
+sitting there and asking for a
+year I'll set you haven't spent
+since 2017.
+18
+Understood, Mr Chair if we're
+looking at item 14. This is also
+one of those items that the
+executive did not recommend.
+because this is intended to
+provide the office of
+cyber security and opportunity
+to provide cyber security to
+agencies so this will be found
+in Section five under do it.
+Um Hmm.
+See
+Moving on to item 18 broadband
+optimization and disaster
+recovery.
+Mm.
+LFC did not recommend this item.
+However, I do have, um
+If this is just a quick note
+from the agency regarding this,
+this projects not funded deal
+will be unable to replace the
+end of life network equipment
+and will not be able to set up a
+disaster recovery site that
+would enable D O. H to operate
+during an emergency. It will
+also force D O H to expend
+additional money to acquire
+expensive maintenance agreements
+to service equipment that
+manufacturers refused to
+currently service.
+And I will pass this over to Dr
+Courtney and Emily. Mr Chair
+that this goes back to the point
+from before were usually don't
+fun Hardware in Section seven.
+This was listed as a lower
+priority for the Department of
+Health and they believe had the
+most. Um, C two requests this
+Europe of of any any any agency,
+Mr Chair.
+Okay, Moving on to the next
+item, Mr. Chair item 19, the
+comprehensive security. This one
+was also not recommended by um
+neither Lfc or the executive.
+However, the executive
+recommendation built this one.
+This is the last item part of
+that cybersecurity under Do it.
+Section five request.
+Um, moving to line 18, the
+network endpoint Recalibration
+executive recommended the full
+$5.1 million to fund this
+project through general funds.
+Um, if this projects not funded,
+will be unable to move their
+desktop architecture to a thin
+client model. This internal
+force us to continue the cycle,
+every placing desktop computers
+every three years. The cycle not
+only waste money, but also
+contributes to landfill waste
+and global warming.
+And that's my notes for that
+one. Mr Chair.
+With no other questions. I'll
+continue to the next item has a
+question they'll let us know
+Perfect, um, item 19, the
+website modernization rebuild
+The executive did fully fund
+this request for 2.12 $0.2
+million. However, the D O h
+website modernization if this
+projects not funded, dealing,
+will not be able to continue the
+website modernization project.
+That's preventing people living
+in New Mexico from receiving
+health information and in a
+timely manner on a device of
+their choice and the delay in
+the propagation of health
+information can adversely
+contribute to health, the health
+of our population.
+Um and I will move on to the
+next item, Mr Chair and this one
+looks like it was item. 21, the
+legacy improvement and future
+transformation to migrate legacy
+applications to the cloud for
+enemy D. The agents. The
+executive did recommend the
+41.6. However. Lfc, um,
+recommended partial funding for
+this, Um
+Did you want to speak a little
+bit on that?
+Mr Chair. The so you know, based
+on our analysis were
+recommending have half of that
+for this project and and would
+ask the agency to come back for
+the remainder enough White 26.
+There may also be some funding
+available at, UM other state
+funds that environment to cover
+the cost of this project.
+Mr. Chair. Moving on to item. Um
+23, the DPS asset management
+system.
+This item was not recommended by
+the executive for the primary
+Reason of one, an asset
+management system already exists
+in the city, New Mexico through
+share, Um so one that would be,
+it would be cost effective to
+keep them on the system. But
+more importantly, looking at the
+future of share and the
+successor system that we are
+currently working on, it might
+be more costly to have agencies
+that are outside of the existing
+system.
+Exit those contracts and then
+begin new with the new share
+successor system, So, um, by not
+allowing the agency to request
+their own asset management
+system and asking them to go
+through the systems that we
+currently have available in the
+state. It will save money in the
+long run, and it will be one
+less agency that will likely say
+they cannot be part of the
+successor system because they
+have their own projects, so it's
+more so in an effort to
+consolidate asset management
+across the state.
+And Mr Chair that from the lfc
+side that this is this is a
+system that's already being
+built. DPS received 800,000 for
+the system last year and
+requested 700 to to finish
+building out the system.
+Um, moving on to item 25 p E D
+to implement commercial off the
+shelf software. Um, the
+executive did recommend the
+agency be able to use that
+whereas LFC did not recommend
+because it does not fulfill the
+agency needs to keep track of
+revolving district staff. Did
+you have anything else?
+Nope.
+Moving on to item 27 the Nova
+database management to enhance
+and integrate current operating
+systems for public education.
+The executive did recommend $3.1
+million in general fund for this
+item. However, LFC did not the
+notes here. Just a p D did not
+have clear use case for the
+dashboard and database.
+And has issues with the data
+validity and existing databases.
+The agency also has current
+projects that are in place and,
+um
+We did You want to finish that
+piece?
+Yes, Mr Chair for this as it
+states in the LFC Comments, P d
+does have three current projects
+with regard authorizations and
+from conversations that the LFC
+has had with ped. It does not
+seem that they have the means to
+take on a new project when they
+are currently
+Having some problems with their
+existing projects.
+And what were those PDS comment?
+But those LLCs comments
+That's the LFTs comments. Okay?
+And, um, Mr Chair, the last item
+I want to know here, even though
+we don't really see any
+differences, Um, it's the HDD
+shared service Enterprise
+Resource planning Project for $7
+million. The reason why the
+agency did come in and ask for,
+I think Ballpark of like, maybe
+15 to $20 million for this.
+Um, he has other sources of
+funding that are available to
+them. And because this project
+works a lot with universities
+that have their own revenue. Um,
+we thought it would be best to
+not give them as much state
+money but allow them to resource
+money elsewhere from the other
+agencies and the other
+institutions that are part of
+this project with them. There
+are a lot of stakeholders that
+They could reach out to you to
+ask for additional funding, But,
+um with that, Mr Chair that
+wraps up the differences on the
+reauthorization as well as those
+differences for the new projects
+If there were any questions or
+any concerns on any of these
+projects, I'd be more than happy
+to give you what I have. Or
+email you the packages for those
+projects.
+Aaron Padilla. Thank you chair
+and thank you for the
+presentation, guys. Um, so I'm
+on the doctor section of the
+document that we just looked at.
+There was another piece or
+another set of files. The two
+items related to the sea West,
+um, implementation for F D.
+Just I know that's language
+change, and it is recommended.
+Just want to make sure that all
+of that remains on track and
+that Madam secretary has the
+funding that she needs to get
+that that implementation done.
+Um, I do We know yet. Is there
+an additional request?
+Of any kind to make sure that
+that thing happens on time.
+Yes, Mr Chair Senator. There is
+no additional request from 50
+for the C West project because
+they are receiving federal funds
+for sea whiz, too, so that
+that's why they are not included
+for, um, the
+Current projects, and that's why
+both the LFC and the executive
+are recommending them for the
+language. We authorizations
+chair. If there is a need for
+additional fund that will be a
+request to the feds, not
+obviously not us to make sure
+that they stay funded to get
+this thing done. Mr. Chair sent
+Senator Padilla. So, um the feds
+are are providing matching funds
+for this project.
+And what you appropriate in the
+last few years C y f D still
+has, um enough money to move
+forward for the next fiscal year
+of what we were talking with C Y
+F D, um about a month ago on
+that, and, um, when the session
+is over there, planning on
+meeting with us and and kind of
+giving us their their roadmap
+for us.
+Um, because the project has
+changed a bit since the new
+secretary came in. They re
+prioritized a few things, but,
+um, but from from where we can
+look at from the do its project
+coordination Committee, PCC, um
+they seem to be moving along, Mr
+Chair.
+Thank you Chair with your
+permission, and we allow the
+secretary to say a few words
+just I think she wants to
+comment on a few things.
+On this project.
+Sure.
+Thank you very much. You might
+want to come up here, Madam
+Secretary so they can. Yeah,
+thanks.
+Good morning. Thank you. Um,
+yes, as he indicated, right now
+we are on track with the C West
+funding and we did make some
+changes when I came on board
+because the project did not
+include the agency as a whole.
+Um, it was only fixing what we
+were reporting in our protective
+services and not tying that in
+with what we were doing with our
+behavioral health clients or
+with our juvenile justice. And
+so we've expanded the scope of
+that to make sure that it's a
+system that the entire agency
+can utilize.
+But that didn't change much of
+the funding that we needed. We
+had availability funding and, as
+he mentioned, we are receiving
+federal dollars and state
+dollars are just match. But at
+this point in time, we have
+sufficient money to work on the
+project in a contract has been
+signed, and we're moving forward
+on that. So if at some point
+that scope changes, and there's
+additional funding will make
+sure and notify this body.
+Thank you chair and I just want
+to say thank you, Madam
+Secretary because I know that
+the reorganization that you're
+taking the journey that you're
+taking the department to rebuild
+and things that you're working
+on glad that you to hear you say
+that you're giving those
+requirements to the sea West
+implementer so that it's built
+in the manner that the
+department's gonna look like,
+basically tomorrow rather than
+the way it looked yesterday, So
+please keep that on track.
+Thank you. Thanks. Chair.
+Thanks. Thanks. Any other
+questions? Senator Bert?
+Thank you, Mr Chairman, Um on
+page 17 items 60 C a the do it
+is going to kind of take absorb
+this. Is that correct? Yes. Mr
+Chair and Senator. The intent is
+to have one Do you remember?
+Last year there was a $10
+Million appropriation to do it
+and 3 million of that was to rld
+for cybersecurity response
+incident.
+Kind of the same idea how that
+will be.
+Distributed between Do it and D.
+C a will be negotiated between
+those two agencies so, but it
+would still be going to that
+agency and I just, it says up
+raising compliance. When I see
+the word compliance. I think
+we're either out of compliance
+or we're getting close to being
+out of compliance. So my
+question would be Mr Chair.
+Is how quickly will they get
+this done? I mean, we were
+looking at a massive amount of
+work for do it, And this is
+probably a smaller job would be
+more estimate and there are
+probably others some smaller
+jobs in here. Um, how quickly
+are they going to get to that? I
+mean, that's that's something
+that
+Is of concern to me, um and how
+we're going to accomplish
+Actually, all of this.
+So, uh,
+Mm, Chair
+secretary secretary
+Chair, Senator. Um thank you for
+asking that so our CI Oh, Doug
+Patika is taking a phased
+approach to compliance. Um, we
+recently hired a cybersecurity
+or a computer security
+specialist this last fiscal
+year, and he has been doing an
+audit of our systems and so we
+have implemented.
+Some, um
+Compliance areas. Um, but we are
+looking to obviously expand and
+to deal with bringing ourselves
+fully into compliance with the
+ever changing environment of
+cyber security, So and that's
+one of the issues is that the
+goalpost keeps changing, and so
+we need to stay in compliance.
+Rather than being currently out
+of compliance. We need to
+continue to move as the goal
+Rather than being currently out
+of compliance. We need to
+continue to move as the goalpost
+moves well and and thank you for
+that answer, And thank you, Mr
+Jeremy. Because it does. It's a
+constantly evolving process.
+And the longer we wait, the
+farther behind we get, and then
+it costs more, and then it is
+more time consuming.
+As are all of these projects, so
+I appreciate the answer on that
+particular issue, and then my
+other question Mr Chair is again
+what I mentioned earlier.
+This is a massive amount of work
+Anytime does do it have the
+capacity to get all this done
+this next year or is or over the
+next two or three years. Um, I
+guess we've checked with the
+agency and and they say they can
+do this. I don't want to throw
+money after again. I mean, we
+just talked about certain things
+that had millions of dollars
+applied to it, and they haven't
+even touched that money as yet.
+And again, I'm assuming because
+they don't have the capacity to
+get it done. So are we sure that
+all this money that we are going
+to put into this budget is going
+to be able to be used.
+You know, within the next one or
+two years.
+Um, thank you, Mr Chair and
+Senator Do it did ask for fiscal
+year 25 request that enhances
+that office of cybersecurity
+with additional ft and funding
+that will support that office to
+do these projects, Um, in
+discussion with the state C I O
+Raja Sam Van Damme. He did seem
+confident that these projects
+were within their realm of
+possibility and just small
+enough to be able to work with
+them to get these compliance is
+out.
+Part of what's happening right
+now. For fiscal year, 25 is the
+New Cybersecurity Act has
+required do it to come up with
+compliance metrics for agencies
+to follow. So in some ways, this
+is a little bit of a pilot
+project to say. Hey, these are
+you know, we have federal
+compliance is to I t and then we
+also are still Excuse me working
+on state compliance is And I
+think that
+That's where we're starting to
+develop. And where we're
+starting to get our feet. Um,
+what in that process? Um,
+however do it would be the best
+person to speak to what they're
+capable of doing. I am We are
+their analysts who were kind of
+aware of what their but
+understand That's why I caution
+about asking the question. But I
+do want to ask it in public
+forum because I am concerned not
+just on compliance, but I mean,
+there's a
+Lot of stuff in here, and I
+don't know, you know, for the
+whole agency and for the entire
+state, you know?
+Can we? Can we accomplish this?
+And 1 to 2 years, which is what
+we hope.
+We'll get done. I think, because
+again, it's a moving goalpost,
+Not just cybersecurity, but, uh,
+software you know about the time
+you get it up and running,
+there's upgrades or they go to
+something different. So I just
+want to be very cautious about
+because we're looking at
+Probably hundreds of millions of
+dollars.
+To be spent.
+So again. I know you don't have
+the exact answer to that. But I
+think we should Mr. Chairman
+certainly ask, do it Next time
+they're in front of us. Can they
+actually handle this capacity?
+Thank you, Mr. That's a lamp.
+Thank you, Mr Chair centered.
+Thanks.
+Mhm.
+Thank you, Mr Chair members of
+the committee.
+Good morning, Mr Chairman and
+members of the committee. Uh, my
+name is Joseph Simon I'm an
+analyst with the Legislative
+Finance Committee and with me at
+the table today is when props
+used the Secretary of Finance
+and administration and Patrick
+Shafer, Who's the General
+Council of the Department of
+Finance and Administration.
+You should have in front of you
+a sheet that looks like this,
+Um, is I'm just gonna give you a
+quick, high level overview of
+it. So, um
+In the special session of 2021.
+You all transferred little more
+than $1.4 billion from state and
+local fiscal recovery funds
+received by the state to the
+Appropriation Contingency Fund
+for Appropriations two projects
+over the last several years. You
+have made appropriations. Um and
+some of those funds have been
+spent, but we're, um, still
+looking at spending plans.
+From agencies and so this sheet
+you have in front of you was an
+effort with staff of LFC, D F A,
+um, The governor's office, Uh,
+Senate Finance Committee and the
+House Appropriation of Finance
+Committee to get a good idea of
+agency spending plans. Um
+Uh, for those funds that you
+have already appropriated, so
+this sheet sort of divided into
+several different sections, the
+first one at the top are areas
+where we have seen agencies have
+some pretty significant, um,
+balances that haven't been
+encumbered. Yet Those might be
+planned or even obligated for
+certain programs.
+Um, and in some cases, uh, the
+agency provided some detail, but
+in other, uh, cases we weren't
+able to get detailed spending
+plans and what I mean by
+detailed spending fans. What we
+sort of asked agencies for was
+okay.
+What? You know who are who are
+your awardees? Who are your
+vendors? Um, And you know where.
+Where is this money going to end
+up going? And so, uh, we got a
+lot of good detail on some of
+those spending plans, but there
+were others that that we're
+highlighting here for you where
+we weren't necessarily able to
+get that kind of detailed
+information on vendors.
+And then they're usually there
+are comments on the side that
+provide a little bit of context
+to the agency's plans for
+spending those so, um, if you
+flip to page Page three, this
+says down here at the bottom,
+Um you can see so for the you
+know for the agencies with, um
+with a little bit of limited
+detail, provided we had a total
+of 166 million in
+appropriations.
+Um, there was there was either
+encumbrances are good detail
+provided for you know, more than
+$90 million of that, so a good
+amount, But you can see the
+other columns there. 24 Million
+where funds were reported by the
+agency is being obligated. But
+there was not that kind of
+detailed vendor level. Um,
+awards or where there was a
+little less information
+provided.
+Um
+You know, so that we sort of
+started off with with areas that
+we want to take, Maybe a little
+closer. Look at, But then you
+can see the next section of this
+is where we actually got.
+Really. We've got pretty good
+spending plans and a lot of
+detail from agencies on, um
+their spending plans for these
+funds. So, um, you can just, you
+know, highlight a couple here.
+You know, we got really good.
+Information, for example, from
+the Cultural Affairs department
+about you know exactly what
+facilities those awards are
+gonna be made to. We got some
+some good information from the
+energy, Minerals and Natural
+Resources Department about state
+park improvements and where
+those are going to be deployed.
+Uh, so, uh, I should say, Mr
+Chair, Senate Finance Committee
+staff has access to all of those
+and and can provide you with
+with that that a little more
+detail on each of those.
+Um, then, uh, the next section
+beginning on Page four. You'll
+see. These are areas where the
+agency reported that those those
+balances are fully obligated and
+again in general, when those
+funds were fully obligated, we
+were able to get some pretty
+detailed, um, information on
+where the agency was planning on
+spending.
+Those amounts.
+And then finally, sort of the
+best news. Mr Chair is on the
+very back page. So here you can
+see these appropriations
+totalled about 166 million.
+Those appropriations have at
+this point been fully expended.
+Um so, uh,
+Did. That's just sort of the
+overview of the process we went
+through and, um
+And with that, I'll hand it over
+to secretary props for his
+comments.
+Good morning, Mr Chairman.
+Members of committee, Wayne
+Props with Department of Finance
+and administration.
+I thank you for the opportunity
+to be with you this morning.
+Mr Chairman. Uh,
+Sometimes you give us homework
+and like kids. We grumble about
+that homework, but
+This particular assignment we
+welcomed and I think it's been a
+really good exercise not only
+for the Department of Finance
+and administration, but all of
+the agencies sitting behind me.
+To take a minute. Look more
+closely at where we are in
+spending this money because Mr
+Chairman, there's nobody in the
+room. Who wants that money spent
+more than you and I so I want to
+thank Joey and Legislative
+Finance Committee staff.
+This has been a very
+collaborative effort that's been
+ongoing now for about two
+months.
+I think. Two months ago when we
+first met, it seems like we're
+pretty far apart in terms of
+where we thought the state was
+and expanding these funds, But I
+think since then we both have
+gotten higher level of
+confidence that agencies are
+obligating the money and we are
+spending it And in many cases,
+we have plans detailed plans to
+spend the money.
+Um, in some areas perhaps, uh,
+we've fallen behind on some
+appropriations.
+But it's good to identify those
+if we can get those catch caught
+up, and if we can't than those
+funds can be potentially used
+for other purposes.
+As Joey indicated the LSC data
+shows that over 900 million of
+the roughly 1 billion and
+S fo R F appropriations have
+either been fully expended.
+Encumbered or obligated, and by
+obligated, we mean some granted.
+With plans or with immediate
+plans to do so. That's about
+88%. That's are in those
+categories in two years.
+Mr Chairman, as an example of
+that, Um
+The Department of Finance and
+Administration has been awarded
+$252 million in funds.
+I'm not sure if that makes us
+the largest awarded or not, but
+I would imagine we're pretty
+close.
+We have encumbered 99.9% of that
+252 million, leaving less than
+200,000. That hasn't been, uh,
+at least at a minimum obligated.
+As you know, Mr Chairman. These
+awards are active and underway
+and virtually all of your house
+districts and we think they're
+active in all 42 Senate
+districts as well. So this money
+is in your communities.
+Doing good work and we are
+appreciative of the efforts of
+the Legislature to appropriate
+these funds to the agencies that
+have received them. We do miss
+think Mr Chairman, that there
+are some risks. Of course, The
+greatest risk of all is that we
+send money back and we all want
+to avoid that.
+But it's just one example. Um
+All s frf. Affordable housing
+projects will revert on 630 of
+2025.
+Which would leave them short of
+18 months to fully expand those
+dead. Those dollars by the
+federal deadline of December
+31st of 2026.
+So we do have some deadlines
+coming up. Mr Chairman and
+members of the committee are
+well aware of them. The LSC is
+aware of them, D F A and the
+again the agency's here today
+are aware of those deadlines.
+We want to make sure that those
+deadlines don't artifact
+artificially.
+Uh, cut short an opportunity to
+spend these dollars in your
+communities.
+So we will look forward to
+continuing the work that we've
+been doing over the last couple
+of months with LSC and this
+committee to ensure that all of
+the funds that New Mexico has
+been
+Awarded, uh, are obligated by
+the federal deadline and are
+able to be put to use again in
+your communities joined here by
+today by Patrick Schafer, who is
+not only our general counsel,
+but also is the head of our
+Federal grants. Bureau, Of
+course, have Dr Andrew Minor
+who's been the lead for the FIFA
+on this as well as
+A number of local government
+division staff responsible for
+getting billions of dollars out
+the door, not only from these
+funds and of course agencies
+behind me as well to answer any
+specific questions on the items
+that were mentioned earlier by
+Joey. So with that, Mr Chairman,
+happy to
+Happy to continue the discussion
+with you.
+Um what So, Mr Chairman, I
+hadn't planned on running them
+one by one. But if you want you
+want to do that we can. We can
+do that. Just okay.
+And we can provide you with more
+detail on that
+01 force or yes, Uh, yes, Mr
+Chairman. Sorry that I was
+moving the four over. Yeah, Yes,
+exactly. Yeah, even though I'm
+not wearing my glasses, either.
+So, just a quick question When
+you start talking about the
+housing and and are the money
+that was
+Designated for that and deadline
+coming up.
+Just on the mechanics on how
+that moves through.
+Yeah.
+Do you solicit request for?
+Proposals.
+Had does that work? I mean, if I
+if if I was somewhere that that
+needed housing, which all across
+the Mexico we need housing.
+Is the hiccup that we don't have
+the contractors.
+To build. It is a hiccup that we
+don't have the
+The proposals for the
+For the money. Where Where is
+that here? Got bad. We have a
+idea of that.
+Mr Chairman and senator would
+deserve particular item which
+you are referencing.
+I think well, so you you just
+made a statement that there was
+some Martin money that for
+housing had to be spent. But
+25, I think you said.
+You just elaborate on that a
+little bit. Maybe I think that
+you may be referring to and is,
+Let's look at Page five, and
+this was not some hours. But
+Wayne secretary, Um word says
+that on the award risks it says
+that, um, the recovery funds for
+affordable housing projects will
+revert on June 30th.
+It deprives them 18 months to
+expand as allowed by the federal
+deadline. Um and the deadline
+would be December 31st of 26.
+Maybe you can explain a little
+bit on that Senator Woods is
+that Chairman which you were
+referring to about that
+expiration? Yeah, that's that's
+assistant. What? I'm
+You can explain. Maybe they can
+explain for sure. Mr Chairman
+members of the committee, uh,
+the state fiscal recovery fund
+appropriations have three
+separate reversion conditions.
+Three separate reversion dates.
+There was 10 million
+appropriated in 2021 for
+affordable housing and then 10
+million in 2022 for affordable
+housing as well.
+The governor's office in
+coordination with Department of
+Finance and Administration
+opened up a grant program for
+affordable housing across the
+state and also tribal nations.
+Those projects are now all
+obligated by the Department of
+Finance Administration to the
+recipients, the federal
+expenditure deadline is December
+31st 2026.
+Meaning that that project under
+the federal rules would have
+until 2026 to fully expand and
+realized that project under
+state reversion date. All that
+money would have to go back by
+June. 30th 2025. Okay, so so
+that reversion date precedes the
+federal expenditure deadline
+with these, um, state fiscal
+recovery fund reversion dates
+generally by 18 months, if not
+more.
+There's other reversion dates
+for capital projects, funds as
+well and other projects around
+New Mexico that are all subject
+to that anticipated reversion
+date that would deprive for
+expenditure of the sub
+recipient. You
+Mhm.
+Go ahead. Go ahead. Um well, my
+question is
+Hmm. My question is alright.
+We've got to $10 million deals.
+We've got we've got
+The money out the door we've got
+we've got it obligated, but the
+projects aren't complete.
+Is that right? Mr Chairman,
+members of the committee.
+They're all currently underway
+and being developed at this
+point.
+So
+Before we can say we're done
+with those
+$20 million projects.
+They have to be completed.
+The money has been obligated to
+those projects and the
+developers and the housing
+authorities and the tribal
+nations and the other recipients
+are currently spending under
+those projects. And what we're
+saying is that the state
+reversion deadline.
+Accelerates the time when that
+money is going to have to go
+back to the state and its gonna
+deprive the recipients from 18
+months to fully expand. The
+other issue is that once that
+money goes back by the reversion
+date, it's going to be too late
+to re appropriate. So it's gonna
+strand the money and the state
+of New Mexico will not get the
+full benefit of those funds.
+I understand that problem. The
+question I have is
+When do we consider these
+projects complete?
+Well under federal. Yes, Under
+the federal rules, they would
+have until December 31st 2026 to
+fully expand. Okay. Understate
+rules, they would only have
+until December the Earth June
+30th 2025 to fully expand,
+understand that part
+The question I'm asking, Is it
+when you have a certificate of
+occupation? When is it
+considered a complete project?
+I suppose when there is a C 00
+Certificate of occupancy.
+Say that one more time I would
+agree with you, Mr Chairman,
+members of the committee that
+the project would be complete
+when the construction industries
+division or the local government
+issues a certificate of
+occupancy.
+Okay, That's that's what I was
+wondering. Yeah.
+Just the mechanics of it on how
+We say that's complete, so thank
+you for that Rodriguez.
+You're good. I'm good. Thank
+you. Yeah, idea. Thank you.
+Chair and thanks to gentlemen
+Secretary, So I was hoping we
+can get maybe just a comment
+from the film office on, uh, the
+acting secretary on film related
+questions that came up a little
+while ago.
+And if he's paying attention or
+not, but, uh
+Mark Roper. Yeah, so just a
+quick comment a couple of
+comments on comments made around
+film seriously additional
+information that maybe we should
+be aware I've got you know
+Netflix and the heart of my
+district here in North American
+headquarters. Wanna make sure
+we're taking good care of that
+gang. Mr. Chair, Senator.
+members of the committee. Thank
+you for the question, and I've
+I've got Amber Dotson here with
+me. Also who is the director of
+the film division?
+So as we specifically looked to
+the RP funds, but it it's fair
+to look at also the additional
+$20 million in capital outlay
+because there's $40 million
+sitting sitting there as the
+share pointed out, so it's fair
+to talk about them.
+Kind of collectively but
+specifically on the RP funds. We
+are in the midst of executing
+Elijah, a wooden Mexico State
+university that will be
+executed.
+Within days that
+That idea will move $15 million
+out of the ARP of funding
+directly to New Mexico State
+University for the build out of
+the film academy at at their at
+their campus.
+We've already obligated
+approximately $400,000 for some
+design work and other work
+that's going on with the film
+academy.
+And then remaining the remaining
+about $4.5 million. A portion of
+that will be used to continue
+with design work collectively
+across both both campuses and
+there would be a small portion
+of it. That will be part of the
+idea that has already been
+executed with C. N. M. For the
+Albuquerque campus at the rail
+yards.
+On the $20 million for capital
+outlay. Very similarly, We have
+a $15 million executed Aiga with
+the central New Mexico, Um
+University to do their work at
+the rail yards we have we have
+already encumbered
+And have our first invoice from
+CNN to move that $15 million. So
+collectively, we are about $35
+million between the two income
+bird and we have a plan forward
+for the remaining $5 million. So
+Mr Chair members of the
+committee. I appreciate your
+diligence. Um as secretary props
+also also said we welcome this,
+but I think at this point the
+fact that we have and execute an
+I G A and one. That's
+Momentarily going to be
+executed. It would. It would
+really move things backwards and
+getting this money out the door
+if we were to try to do a direct
+appropriation to New Mexico
+State Embassy NM. What were the
+train is already down the track.
+Well.
+Mr Chair members of the
+committee. It depends on the
+project. So in some, it maybe
+takes months and this particular
+incidents because there was
+some design work and some other
+things that need to be done to
+define what those ideas were
+between the two universities.
+It's It's taken longer to stand
+this one up, but they are in
+One has been executed in one
+will be executed moment and in
+this instance it took about 18
+months. Yes, thank you very
+much. And if there is at all
+possible, Ms Dodson that for a
+production to land right in the
+middle of Gallup, or a local
+state senator to ride a horse
+across the screen while it's
+happening. I mean, it just kind
+of like hiyo silver, and I think
+that would be go a long way.
+So if there's any way we could
+get that done in the next month
+or so. I appreciate that.
+Senator. Mr. Chair. We look
+forward to that. I don't need to
+be in any movies. You know what
+I want to see you happen to be
+here happen to be friends with
+John Wayne's grandson. There we
+go Picture, right. I knew there
+was a connection somewhere, and
+my point is, if you want to lose
+opera money, and you won't be
+the only state that sends our
+money back, all right ahead.
+You're the laughingstock of the
+100th.
+Uh,
+Talking about dollars and being
+the chairs was the money spent
+because I will tell you right
+now In this committee, Eric quit
+in front of another state
+senator told us that the film
+office overpaid expenditures on
+films.
+3 to $5 million. You want three
+more millions for special
+Olympics? Do you want it for
+three more million for DD
+waiver? You want to just let
+them override the Legislature by
+saying we're we don't really
+care what we spend. We'll just
+spend and then we'll ask for a
+supplemental at the end of the
+year that is our legislative
+authority and appropriating
+authority that we take an oath
+to you.
+And so
+This is I mean, this is not a
+fun exercise. This is an
+exercise to say.
+You're in business. I'm in
+business and my going to waste
+money.
+Watching someone film a movie
+down the street when they should
+be over there, pushing this snow
+and filming a tiktok. I mean,
+this is this is a
+This is an exercise that we
+should happen yesterday. Really?
+Chap me pretty hard because
+Our legislative appropriation
+authorities had just went out
+the window completely.
+Well, I agree with you, Mr
+Chairman, and I thought that's
+why I'd be a good idea to have
+all the light of day and be able
+to ask these folks questions as
+we did. So. Thank you also had
+thank you to the economic
+illness also had a couple of
+follow ups for the C. Y F D
+portions of this report. I don't
+know if Secretary designate
+Cassano's wants to come up and
+address just a few of the
+comments that were made on that
+section as well.
+Good morning again.
+Yeah. So I think you had some
+follow up questions or comments
+that you wanted to make
+regarding, you know, worth worth
+things stand right now.
+Um, sure. So, with respect to
+the $20 million that you guys
+are seeing unspent for C Y f D,
+um we all know there's a huge
+need for behavioral health
+services and what that looks
+like. And so this was something
+that was incredibly concerning
+to me when I came on board in,
+you know, May June time frame
+and found out that that money
+hadn't been spent or allocated
+and there wasn't um
+You know a sufficient plan in
+place to do that. And so working
+with H s D, where the money was
+allocated to, um over the course
+of the last five or six months.
+Um, you know, proved to be a
+little bit challenging for us,
+as we all had different ideas of
+where that needed to be spent
+and how that needed to be done,
+but it really gave us an
+opportunity to look at it
+holistically to make sure that
+serving the clientele that we
+both serve could meet the needs
+of what that looks like. And so
+we do have a plan in place.
+I know that it was submitted.
+You know, it's not comprehensive
+because it doesn't have actual
+providers yet.
+But it does detail what we're
+looking to do. And so that was
+provided. I don't know if you
+have copies of that. But I have
+copies and I'm happy to leave
+that for you guys to look at,
+But it really details what we're
+doing with respect to, you know,
+money for thriving family plans
+were going to be doing more
+focused work on foster families
+and Children in state custody.
+We're doing looking at our
+shelter continuum and how we can
+increase those, Um we're doing
+more trauma training supports
+and community crisis response.
+And so there is a plan for C Y f
+d. We're working on that right
+now we've spent about
+$1.3 million. We have another
+million encumbered and we're
+working with providers and
+vendors, which, as you all know,
+there's not a lot in the state
+and so even working at how we
+recruit vendors from out of
+state to bring them here to
+provide those services, so I
+just wanted to make sure that
+you know, you all know that
+there is a plan in place. Um and
+I'll leave that with you guys
+pass that out. And then I also
+with your permission will pass
+out the
+Capital outlay more detail that
+was asked about yesterday. So
+unless anybody has any specific
+questions, I just wanted to make
+sure that thank you Chair and
+thank you. Sorry.
+I'm not on the bad list.
+Um, there were. There was two
+items. Well, we talked about the
+C West. And then there were a
+few other items You wanted that
+you mentioned a follow up to the
+capital conversation made
+yesterday She brought some
+additional details. Put money C
+Y F G has the 20 million
+behavioral health, it might be
+under HST because the money was
+allocated to them. But then we
+did an MOU to move the money to
+see why FD so that we could, um
+expended.
+Meeting the behavioral health
+needs for Children comes through
+HST and then flows over to you
+to actually do the actual
+service delivery, so I didn't
+want HST to be put on the spot
+if they were on the list on the
+bad list. Um, since we have
+taken the responsibility for
+making sure those dollars are
+spent, that's about to the tune
+of 20 million. Yes. Okay. Thank
+you. Thanks. Chair. Thank you
+very much. Any questions from
+anyone?
+No. Alright. Thank you.
+No, Mr Chair. That's exactly
+where I was going. So that's
+fine. We're going to listen to
+that. Thank you very much, Mr
+Chairman and the first question,
+of course, and I really
+appreciate the work that
+continues to go on with the
+opposite the state engineer in
+regards to believe it's item
+number nine.
+On dam rehabilitation, and I
+know that the Jains Wallace
+Memorial Park Power Dam is is a
+big project. Can you Can you
+elaborate a little bit in terms
+of that, and then what the focus
+is going to be as we continue
+with them rehabilitation in New
+Mexico.
+Thank you, Senator. Crumples,
+Mr Chair. Appreciate the
+question, Um
+We've we've been appropriated
+$40.3 million of ARPA.
+Funds, and one of the larger
+ones that we received was $10
+million for the Power Lake Dam
+in Santa Rosa.
+And, uh, we've worked very
+closely with D F a
+Death and team because of the
+oddities of RP dollars with the
+federal requirements versus you
+know, state appropriation
+requirements, and I think we've
+ironed out a lot of the real
+tricky details of what it takes
+to actually get this. This
+funding funds expended. So that
+was that was kind of a bit of a
+hill decline.
+But I think we've achieved it.
+Um and and we think we've got a
+really good process in place.
+The other thing, I would say,
+too, is that um, just just
+because of the nature of of the
+funding and the capital Ali's
+that comes to our agency.
+Uh, we've become really good
+contract administrators as
+opposed to being, uh, fully
+staffed to actually manage these
+projects on our own. So, so
+that's one of the consequences
+of of of of having a lot of
+funds appropriated to our
+agency.
+We've become really good at that
+contract management. Um, with
+that said, we have executed an
+agreement with the city of Santa
+Rosa.
+Ah, we are in the process of
+working closely with their
+engineering firms to actually
+get the finalization of design
+and administration moving
+forward.
+And we fully expect to to fully
+obligated and expand that $10
+million. We also have on the
+capital side that you will talk
+about tomorrow. We have
+statewide damn monies that will
+help supplement the cost
+increases over. You know, above
+this amount.
+That also applies to another
+capital project for Petersen Dam
+in Las Vegas. So these funds are
+being commingled and managed
+together in order for us to
+achieve the goals of the
+specific entities of need.
+Uh, we've also expanded
+Alright, begin expanding, Uh,
+close to half of the 40.3
+million public, you know,
+allocated to our agency, and we
+have sufficient bandwidth and
+And agreements in motion.
+To complete all of our, um
+Uh, obligations if you will, by
+May of 2024, and I'd like to
+also echo what Secretary Props
+said regarding, uh the
+importance of extending that
+deadline for expenditure to get
+closer to matching the federal
+deadlines. In order for the
+expenditure side, uh, to allow
+us once we're obligated.
+You know, expenditure extension
+will be very helpful to the
+agency as well. Thank you. Thank
+you very much, Mr Chair and just
+a couple of other comments in
+regards to that, as we
+Prepare if you will with for the
+drought mitigation. I know
+that's an important issue as we
+move forward.
+Even though we see if you will
+the snow out there. I know that
+continues to be a significant
+issue for New Mexico and you
+might just briefly talk a little
+bit about that. And then I just
+want to compliment. Of course,
+the work that's going on with
+outdoor recreation.
+Whether state parks and the
+coordination across the board as
+we continue to deal directly
+with the environment that does
+take care of you will of, uh,
+our wildlife. We continue to go
+ahead and ensure that our
+communities have the necessary
+water for their continuous
+assistance and an existence and
+then deeper than that, with the
+resources that are here. I know
+that you all have done your due
+diligence.
+To continue to improve and to
+make sure those dollars are
+going to be expended and that
+goes back to what the chair
+continues to elaborate, and that
+is these resources are here. We
+continue to go ahead and do the
+planning.
+Let's get those dollars out to
+our communities and that in in
+itself, I believe over a period
+of time.
+I will help us as we continue to
+deal with the area of
+prosperity, jobs and the other
+things that definitely are going
+to help all of our communities
+across the state. So with that,
+if you just please mention a
+little bit in terms of that
+drought mitigation that that we
+continue to deal with. Thank
+you, Mr Chair. Thank you, Mr
+Chairman, Senator Campos.
+Yes, we have a couple of line
+items in in in the RP dollars in
+particular and then a lot of
+other specials in capital. Uh,
+appropriations that we were made
+to our agency last year that
+complement each other again and
+and a large one of 15 million is
+dedicated to drought mitigation.
+And compact administration if
+you will.
+Um, for the middle Rio Grande.
+Um and that's what working
+closely with the Middle Rio
+Grande Conservancy district to
+do voluntary following and my
+understanding is they've
+advertised that to their
+constituents back in October,
+and they have identified well
+over 3000 acres.
+Of of voluntary, um
+Uh, following, uh, with a
+deadline of February 29th this
+year, uh to, uh, to build their
+portfolio there, and they expect
+probably at least double or
+more, uh, interest there so that
+will help us on Contact
+Administration making up on our
+our shortages to the Rio Grande
+Compact and our debit.
+Um, as well as using some of
+those funds to, uh, improve the
+channel conditions in the lower
+Rio Grande in order the lower
+part of the middle Rio Grande in
+order for us to expedite
+deliveries on a more consistent
+basis down the Elephant Butte so
+that this funding will be a also
+available to leverage
+significant federal dollars.
+That have been appropriated
+under B l and I r a specific to
+middle Rio Grande and lower Rio
+Grande. So we're we're We think
+we're going to be able to
+significantly leveraged
+installers as well. Thank you
+very much. Mr Chair. I have
+other questions. I'm not going
+to bring him but this time but
+again, thank you very much for
+allowing me this opportunity to
+hear about what's going on the
+water.
+Ah!
+Senator Woods one second
+Let me ask you something, Mike,
+and in just listen have an
+honest conversation because if I
+would take General fund money
+and say, Okay, you have $40
+million sitting right here.
+If anything goes wrong in these
+projects.
+Anything in there?
+The contractor, the engineer
+says. Oh, we found a different
+soil condition now we got to
+redesign for that soil
+condition. Rebuilding both. You
+guys are shaking your heads and
+I'm in the construction world.
+This happens all the time,
+right?
+That could throw you into the
+timeline past the completion
+date to expand all the money.
+Correct.
+Hmm. There there, there could be
+a some risk to that. But in my
+professional opinion about what
+we've got on the table for this
+And the the work and the
+planning that's already been
+accomplished in partnership with
+like MRG CD and others. Um, we
+we feel
+You know, highly confident.
+That, uh, particularly if the
+deadline is matched with the
+federal expenditure deadlines.
+That that we will easily be able
+to get this. This these funds
+expended the way they're
+structured in our system, And
+that may not be true of all of
+their dollars, but certainly
+when we've set it up, But if I
+gave you the option and said,
+You know what, Mike, I'm gonna
+replace that with General fund
+so you're still able to get your
+projects done right? And if
+anything happens to the timeline
+You're you're safe.
+Would that be the smarter thing
+to do for these projects?
+Well, um, Mr Chair members of
+the committee the color of the
+funds.
+The way that they're structured
+for Arte.
+Is they from the state's
+perspective? If we're if we got
+it expended if you will, or
+certainly obligated by by
+transfer with our
+Our contract E or, you know, or
+entity Emergency D or the city
+of Las Vegas wherever that is.
+Then then it's technically off
+of the of the state books. If we
+go with my view is that if we
+shifted right now, mid course
+into a general fund status than
+that that changes the color
+enough to where we would have to
+probably re readdress our
+agreements with the entities
+that that we already have
+negotiated.
+Just my opinion anyways. Why
+would it change? It's just a
+different
+Funding sources wouldn't change
+the structure of any money and
+just say
+This is a replacement for the
+$30 million. You're still on
+course to do exactly what you
+do. And if anything happens
+You have the extended timeframe.
+I mean, you're don't think your
+I G says this is maybe it does,
+But maybe it doesn't but maybe
+said, these are federal arbor
+dollars and you have to be able
+to complete by this date.
+And they're accepting that
+responsibility because
+I'd almost bet you what's going
+to happen. Somebody is not going
+to complete and they say, Oh,
+we're halfway done with this.
+And we'll be like the village
+and Maura Building a judicial
+system for 20 years.
+And and
+I'm just not willing to risk
+that. But I mean
+I mean, you and and the exact
+will not be here in 2027.
+I think that's when they go out,
+right?
+And the while you may be, but
+there may have been different
+exact and they're just going to
+say, Look what happened.
+I'm just
+I'm like a banker right now.
+Today like I'm gonna I'm gonna
+give you money or lend you
+money. But I'm gonna I want to
+see vouchers. I want to see
+construction progress. I want to
+see all that. And at the end of
+the day is my loan risk worth
+swapping you out money, or
+should I just swap your money
+and say Okay, give you the time
+and in that you need without
+Having to sweat because
+I mean, you know when the
+construction world right now.
+Finding an engineer.
+Finding an engineer in New
+Mexico is pretty damn tough, or
+you're on a three or four month
+waitlist. Anything engineered
+And and then they're in design
+for 6 to 8 months with anything
+that's over 10 million and then
+you're gonna be another 18
+months to two years in
+construction.
+Mr Chair and your deputies dying
+to say something, Okay, I'm just
+talking. I'm just just a real
+conversation. Yes. Yeah. You
+want to be a winner, or do you
+want to be a loser? And how do
+we win? Well, I appreciate the
+candidate exchange of Mr Chair,
+I think you make a good 0.1 area
+is dance, but you know that that
+can be more complex.
+Um and and but
+A lot of our other categories, I
+think are pretty well scoped out
+and I know we can we can we can
+accomplish that, or whatever the
+source of funding is, you know,
+we're gonna do be dealing, take
+our due diligence to make sure
+that the the project
+accomplished under the standards
+that have been developed for
+that project. So if they're you
+know, that would be about the
+only one. I could think of that
+that that makes sense to swap
+the funds.
+Yeah, I just don't want you
+Common sense tells you why make
+you sweat money, right? Because
+agencies? No. Oh, well, I didn't
+get my capital spent all just
+asked for an extension, right?
+There is no asking for an
+extension here, right? The
+federal government is going to
+say if you haven't spent your
+money, we want our money back,
+giving you six years to spend
+it.
+In common sense tells me
+Give people
+The
+Authority. Well, give people the
+thought process to say I want to
+sweat this project and trying to
+get it done. Or should someone
+just say? Hey, we're just gonna
+swap $30 million. Its just a
+swap to me, right?
+I'm gonna take 30 million in
+General fund and I'm gonna take
+your 30 million are profound.
+And you're gonna have the 30
+million for the exact same
+projects that you wanted that
+you did in our papa.
+That you started and begin.
+And I'm gonna swap that money
+and say Okay, now I'm gonna
+It's just a swapping of money. I
+pulled 30 million from general
+funds and they say Okay, now I
+can spend this money and I know
+it gets spent.
+And it gives you the timeline.
+And damn is a big project. I
+mean,
+Depending of its dirty concrete,
+But
+Gives you guys the time and the
+flexibility to succeed.
+In. We're trying to help. I'm
+thinking, how do we win and not
+send any money back?
+And not make you say, well, our
+contractor bankrupt or
+contractors failed, or, you
+know, I mean, we had a car hit a
+semi the other day, leaving
+talented. Take a load right, And
+it's like, never went the whole
+whole week because
+Blew the axle out blue, the bent
+the rims. Whole thing. Gotta go
+to Albuquerque.
+Landon Axl had to drive to
+Amarillo and get an excellent
+and it just happens. So I'm
+If you tell us and you would
+say, come back to some. Maybe we
+come back and say you know what?
+This might be a better way for
+us to do. It might give us
+A better way to complete
+projects. I'm fine with that.
+But if you tell us, no, I can
+get it done well.
+2027 may not be here in 2025 so
+I mean, you guys should think
+about that. And those are the
+agencies are listening.
+It's common sense for me to
+To figure out things so that
+money spent
+Because I can spend the money.
+Immediately.
+And meet the deadline.
+All. I'm doing this swapping
+money from one hand to the
+other.
+Thank you about it. Yeah, and I
+do have other, You know, there's
+other projects out there that we
+know we could spend the money on
+that. They're not on the list,
+But so if there's no list, and
+you went too far down this road
+to make that swap.
+Right, right. But if I took and
+said okay for this project in
+these dams in Santa Rosa and
+where we listed
+Maybe we could just swap that
+money and then
+Then you got a longer timeline.
+Yeah, we can't even put a longer
+timeline on the money. In fact.
+It certainly makes sense.
+Appreciate that perspective,
+Senator Campbell's will be
+calling you get that timeline
+because he has a warm water
+hatchery over there.
+Thank you, Mr Chair.
+I guess lets you who's here in
+Lansing. I see you. You're next
+in the audience is pull you up.
+Tourism has a balance of, um Mr
+Chair. Tourism was one of those
+that provided us really good
+detail on how they were going to
+spend it, so you'll find most of
+their appropriation under the
+fully obligated category. And
+then there's um one online 20
+where it's essentially fully
+obligated. There's a very small
+amount, but yeah, tourism was
+one where there was a
+A lot spent,
+so I'm lying 20 if you look up
+at our top screen right there,
+right?
+Yeah, yeah.
+You have a 50,000? What's your
+balance there?
+Yeah, it looks like 50,026
+million, so it's a really small
+balance.
+Can you buy beautification trash
+bags for Senator Stein, born at
+the height of the side of the
+roads with that money?
+Mr Chairman.
+So that was money. Money money
+will be obligated for marketing
+purposes. However, they exist
+within our national marketing
+contract.
+Okay. Perfect overalls. I'm
+sorry. That's another
+husband.
+No. They're called vest. They're
+called safety vest. They are
+orange and lime green. I just
+want to double check. Let's see
+Who else is there
+all the higher ed secretary
+shaking her head at me? Come on
+up. Thank you, Mr Chairman. Just
+so members know we're probably
+gonna go into executive and do
+language And then that may just
+finish us for the day so
+You're going to make a comment?
+No, Go ahead. Is it because I Mr
+Chair? Is it because I didn't
+name ever? Georgina that you're
+calling me up? No, no, no. You
+shook your head over me when I
+looked at your like, Yeah, I
+want to come up. Mr Chairman,
+Right? Exactly. Exactly. Yeah,
+we do. Color Lativa G, like la
+Becky G.
+Mr Chair. I do have this really
+brief for you. Lion 60, nursing
+endowed faculty expansion. We
+did expand that money. We
+enrolled nearly 400 new students
+and supported over 6800
+currently enrolled students. The
+dollars went to eight community
+colleges. Five branch campuses
+in 34 year universities and, of
+course, the University of New
+Mexico's Health Sciences Center.
+Line. 61 is the opportunity
+scholarship. I'm happy to report
+that there is 76 cents left in
+that fund, but we do plan on
+spending it next year. So don't
+worry about that. So we have
+spent down nearly all of the
+$103 million and then line 62
+Teacher Loan repayment fund. As
+some of you know, we awarded
+over 900 teachers.
+With debt relief this past year
+We have $26,000 left in that
+fund. However, it is already
+obligated to our teachers for
+next year. Thank you, Mr Chair.
+Thank you Members, Senator
+Woods. I didn't have a question,
+Did you? You have a question for
+the State Engineering committee
+members.
+Done.
+Okay. Thank you, Joey.
+Thank you, Mr Chair. I'll need a
+motion to go and I guess
+second motion by center shirt
+and go into executive second
+Base Center. Rodriguez any
+objection to go into the way we
+got
+So we're gonna go into executive
+session discussed language.
+An executive
+Any objection to the motion of
+going into executive committee.
+Yeah, See, Nunn will wait until
+they clear the room.
+LFC staff will be staying with
+us.
+We offer Webcast.
